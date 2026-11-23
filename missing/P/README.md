@@ -10722,6 +10722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Quiz: Learn & Discover - Forest Life | 227776 | [227776-planet-quiz-learn-and-discover-forest-life.json](./227776-planet-quiz-learn-and-discover-forest-life.json) |
 | Planet Quiz: Learn & Discover - Mystery & Myth | 227773 | [227773-planet-quiz-learn-and-discover-mystery-and-myth.json](./227773-planet-quiz-learn-and-discover-mystery-and-myth.json) |
 | Planet Quiz: Learn & Discover - Trivia | 227782 | [227782-planet-quiz-learn-and-discover-trivia.json](./227782-planet-quiz-learn-and-discover-trivia.json) |
+| Planet R-12 | 26522 | [26522-planet-r-12.json](./26522-planet-r-12.json) |
 | Planet Racer | 241145 | [241145-planet-racer.json](./241145-planet-racer.json) |
 | Planet Racing | 165908 | [165908-planet-racing.json](./165908-planet-racing.json) |
 | Planet Rescue: Animal Emergency | 139116 | [139116-planet-rescue-animal-emergency.json](./139116-planet-rescue-animal-emergency.json) |
@@ -16835,6 +16836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Drawing! | 206504 | [206504-princess-drawing.json](./206504-princess-drawing.json) |
 | Princess Dress Up | 305586 | [305586-princess-dress-up.json](./305586-princess-dress-up.json) |
 | Princess Dress Up Collection Fives Games in One | 400180 | [400180-princess-dress-up-collection-fives-games-in-one.json](./400180-princess-dress-up-collection-fives-games-in-one.json) |
+| Princess Edge: Dragonstone | 26525 | [26525-princess-edge-dragonstone.json](./26525-princess-edge-dragonstone.json) |
 | Princess Erch | 165741 | [165741-princess-erch.json](./165741-princess-erch.json) |
 | Princess escape | 174119 | [174119-princess-escape.json](./174119-princess-escape.json) |
 | Princess Escape | 82645 | [82645-princess-escape.json](./82645-princess-escape.json) |
