@@ -2865,7 +2865,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Turbo's Arcade: Fighter's History | 114203 | [114203-johnny-turbos-arcade-fighters-history.json](./114203-johnny-turbos-arcade-fighters-history.json) |
 | Johnny Turbo's Arcade: Gate of Doom | 86495 | [86495-johnny-turbos-arcade-gate-of-doom.json](./86495-johnny-turbos-arcade-gate-of-doom.json) |
 | Johnny Turbo's Arcade: Heavy Barrel | 112117 | [112117-johnny-turbos-arcade-heavy-barrel.json](./112117-johnny-turbos-arcade-heavy-barrel.json) |
-| Johnny Turbo's Arcade: Heavy Burger | 110755 | [110755-johnny-turbos-arcade-heavy-burger.json](./110755-johnny-turbos-arcade-heavy-burger.json) |
 | Johnny Turbo's Arcade: Joe and Mac Caveman Ninja | 103106 | [103106-johnny-turbos-arcade-joe-and-mac-caveman-ninja.json](./103106-johnny-turbos-arcade-joe-and-mac-caveman-ninja.json) |
 | Johnny Turbo's Arcade: Joe and Mac Returns | 146860 | [146860-johnny-turbos-arcade-joe-and-mac-returns.json](./146860-johnny-turbos-arcade-joe-and-mac-returns.json) |
 | Johnny Turbo's Arcade: Nitro Ball | 106354 | [106354-johnny-turbos-arcade-nitro-ball.json](./106354-johnny-turbos-arcade-nitro-ball.json) |
