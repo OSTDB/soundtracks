@@ -6691,6 +6691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Respawn | 203851 | [203851-respawn.json](./203851-respawn.json) |
 | Respawn | 246796 | [246796-respawn.json](./246796-respawn.json) |
 | Respawn Kingdom: Team Shooter | 216057 | [216057-respawn-kingdom-team-shooter.json](./216057-respawn-kingdom-team-shooter.json) |
+| Respawn Man | 34527 | [34527-respawn-man.json](./34527-respawn-man.json) |
 | Respawnables Heroes | 149317 | [149317-respawnables-heroes.json](./149317-respawnables-heroes.json) |
 | Respect The Horde | 417143 | [417143-respect-the-horde.json](./417143-respect-the-horde.json) |
 | Respite | 179083 | [179083-respite.json](./179083-respite.json) |
@@ -7865,6 +7866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | rFactor 2 | 9494 | [9494-rfactor-2.json](./9494-rfactor-2.json) |
 | Rfactor Rally | 50201 | [50201-rfactor-rally.json](./50201-rfactor-rally.json) |
 | Rfactor touring | 50198 | [50198-rfactor-touring.json](./50198-rfactor-touring.json) |
+| Rflex | 34677 | [34677-rflex.json](./34677-rflex.json) |
 | RFS: Real Flight Simulator | 144649 | [144649-rfs-real-flight-simulator.json](./144649-rfs-real-flight-simulator.json) |
 | RFVR | 189989 | [189989-rfvr.json](./189989-rfvr.json) |
 | Rg-ft | 176997 | [176997-rg-ft.json](./176997-rg-ft.json) |
@@ -14742,6 +14744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Out | 174828 | [174828-rush-out.json](./174828-rush-out.json) |
 | Rush Out of the Room | 150912 | [150912-rush-out-of-the-room.json](./150912-rush-out-of-the-room.json) |
 | Rush Rally | 242212 | [242212-rush-rally.json](./242212-rush-rally.json) |
+| Rush Rally 2 | 38717 | [38717-rush-rally-2.json](./38717-rush-rally-2.json) |
 | Rush Rally 3 | 110866 | [110866-rush-rally-3.json](./110866-rush-rally-3.json) |
 | Rush Rally Origins | 163170 | [163170-rush-rally-origins.json](./163170-rush-rally-origins.json) |
 | Rush Red & Blue | 220491 | [220491-rush-red-and-blue.json](./220491-rush-red-and-blue.json) |
