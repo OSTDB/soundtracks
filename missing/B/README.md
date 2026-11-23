@@ -15346,6 +15346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
 | Bootline: Desktop Simulator | 421472 | [421472-bootline-desktop-simulator.json](./421472-bootline-desktop-simulator.json) |
 | Bootloop | 362055 | [362055-bootloop.json](./362055-bootloop.json) |
+| Bootombaa | 29185 | [29185-bootombaa.json](./29185-bootombaa.json) |
 | Boots and Daggers | 270493 | [270493-boots-and-daggers.json](./270493-boots-and-daggers.json) |
 | Boots Quest DX | 226535 | [226535-boots-quest-dx.json](./226535-boots-quest-dx.json) |
 | Boots Story: Games for kids | 88849 | [88849-boots-story-games-for-kids.json](./88849-boots-story-games-for-kids.json) |
