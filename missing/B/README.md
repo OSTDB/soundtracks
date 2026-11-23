@@ -5070,7 +5070,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlers of Ekrasys | 339948 | [339948-battlers-of-ekrasys.json](./339948-battlers-of-ekrasys.json) |
 | BattleRush | 75941 | [75941-battlerush.json](./75941-battlerush.json) |
 | BattleRush 2 | 107878 | [107878-battlerush-2.json](./107878-battlerush-2.json) |
-| BattleRush: Ardennes Assault | 112474 | [112474-battlerush-ardennes-assault.json](./112474-battlerush-ardennes-assault.json) |
 | BattleRush: German AT Infantry | 170976 | [170976-battlerush-german-at-infantry.json](./170976-battlerush-german-at-infantry.json) |
 | BattleRush: German Snipers | 170983 | [170983-battlerush-german-snipers.json](./170983-battlerush-german-snipers.json) |
 | BattleRush: German Special Forces | 170977 | [170977-battlerush-german-special-forces.json](./170977-battlerush-german-special-forces.json) |
@@ -6210,7 +6209,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Stage | 408101 | [408101-beat-stage.json](./408101-beat-stage.json) |
 | Beat Stickman: Beyond | 197042 | [197042-beat-stickman-beyond.json](./197042-beat-stickman-beyond.json) |
 | Beat Stickman: Beyond - Story Mode | 357029 | [357029-beat-stickman-beyond-story-mode.json](./357029-beat-stickman-beyond-story-mode.json) |
-| Beat Stickman: Infinity Clones | 112072 | [112072-beat-stickman-infinity-clones.json](./112072-beat-stickman-infinity-clones.json) |
 | Beat Stickman: Infinity Clones - Definitive Edition | 120107 | [120107-beat-stickman-infinity-clones-definitive-edition.json](./120107-beat-stickman-infinity-clones-definitive-edition.json) |
 | Beat Stomper | 57462 | [57462-beat-stomper.json](./57462-beat-stomper.json) |
 | Beat Street | 99879 | [99879-beat-street.json](./99879-beat-street.json) |
@@ -6849,7 +6847,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Pong : Trickshot | 90694 | [90694-beer-pong-trickshot.json](./90694-beer-pong-trickshot.json) |
 | Beer Pong AR | 95770 | [95770-beer-pong-ar.json](./95770-beer-pong-ar.json) |
 | Beer Pong Basement | 321230 | [321230-beer-pong-basement.json](./321230-beer-pong-basement.json) |
-| Beer Pong League | 111342 | [111342-beer-pong-league.json](./111342-beer-pong-league.json) |
 | Beer Pong VR | 88194 | [88194-beer-pong-vr.json](./88194-beer-pong-vr.json) |
 | Beer Pong! | 428976 | [428976-beer-pong.json](./428976-beer-pong.json) |
 | Beer Ranger | 86297 | [86297-beer-ranger.json](./86297-beer-ranger.json) |
@@ -8985,7 +8982,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikepacking Simulator | 378076 | [378076-bikepacking-simulator.json](./378076-bikepacking-simulator.json) |
 | Bikepark: The Riders Game | 60945 | [60945-bikepark-the-riders-game.json](./60945-bikepark-the-riders-game.json) |
 | Biker Bash | 84990 | [84990-biker-bash.json](./84990-biker-bash.json) |
-| Biker Garage | 113048 | [113048-biker-garage.json](./113048-biker-garage.json) |
 | Biker Garage: Mechanic Simulator | 186935 | [186935-biker-garage-mechanic-simulator.json](./186935-biker-garage-mechanic-simulator.json) |
 | Biker Mice from Mars | 100294 | [100294-biker-mice-from-mars.json](./100294-biker-mice-from-mars.json) |
 | Biker Mice from Mars | 217747 | [217747-biker-mice-from-mars.json](./217747-biker-mice-from-mars.json) |
@@ -14766,7 +14762,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bondee's Barnyard: Safety Violation | 231434 | [231434-bondees-barnyard-safety-violation.json](./231434-bondees-barnyard-safety-violation.json) |
 | Bonding, Now | 319676 | [319676-bonding-now.json](./319676-bonding-now.json) |
 | Bondman of Traps | 278561 | [278561-bondman-of-traps.json](./278561-bondman-of-traps.json) |
-| Bonds | 111096 | [111096-bonds.json](./111096-bonds.json) |
 | Bonds | 380036 | [380036-bonds.json](./380036-bonds.json) |
 | Bonds Defiled | 379388 | [379388-bonds-defiled.json](./379388-bonds-defiled.json) |
 | Bonds of Ecstasy | 331096 | [331096-bonds-of-ecstasy.json](./331096-bonds-of-ecstasy.json) |
@@ -17109,7 +17104,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Hero | 160190 | [160190-brave-hero.json](./160190-brave-hero.json) |
 | Brave Hero | 295271 | [295271-brave-hero.json](./295271-brave-hero.json) |
 | Brave Hero Yuusha | 125605 | [125605-brave-hero-yuusha.json](./125605-brave-hero-yuusha.json) |
-| Brave Hero Yuusha EX | 111639 | [111639-brave-hero-yuusha-ex.json](./111639-brave-hero-yuusha-ex.json) |
 | Brave Hero: Puzzle Dungeon Card | 285370 | [285370-brave-hero-puzzle-dungeon-card.json](./285370-brave-hero-puzzle-dungeon-card.json) |
 | Brave Heroes | 208604 | [208604-brave-heroes.json](./208604-brave-heroes.json) |
 | Brave Joe | 410554 | [410554-brave-joe.json](./410554-brave-joe.json) |
@@ -19092,7 +19086,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bubble Ocean | 147579 | [147579-bubble-bubble-ocean.json](./147579-bubble-bubble-ocean.json) |
 | Bubble Bubbling | 246114 | [246114-bubble-bubbling.json](./246114-bubble-bubbling.json) |
 | Bubble Bunny | 294840 | [294840-bubble-bunny.json](./294840-bubble-bunny.json) |
-| Bubble Burst | 113274 | [113274-bubble-burst.json](./113274-bubble-burst.json) |
 | Bubble Burst | 362446 | [362446-bubble-burst.json](./362446-bubble-burst.json) |
 | Bubble Burst Remix | 206689 | [206689-bubble-burst-remix.json](./206689-bubble-burst-remix.json) |
 | Bubble Burst: PlayWithPlanets | 257776 | [257776-bubble-burst-playwithplanets.json](./257776-bubble-burst-playwithplanets.json) |
@@ -19678,7 +19671,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs Bunny's Birthday Ball | 81361 | [81361-bugs-bunnys-birthday-ball.json](./81361-bugs-bunnys-birthday-ball.json) |
 | Bugs From Space | 188417 | [188417-bugs-from-space.json](./188417-bugs-from-space.json) |
 | Bugs make fine snacks | 246703 | [246703-bugs-make-fine-snacks.json](./246703-bugs-make-fine-snacks.json) |
-| Bugs Must Die | 111353 | [111353-bugs-must-die.json](./111353-bugs-must-die.json) |
 | Bugs N' Guns | 276690 | [276690-bugs-n-guns.json](./276690-bugs-n-guns.json) |
 | Bugs Wars | 23388 | [23388-bugs-wars.json](./23388-bugs-wars.json) |
 | Bugs with Afterburners | 387550 | [387550-bugs-with-afterburners.json](./387550-bugs-with-afterburners.json) |
