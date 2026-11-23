@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NDHA: Non Dominant Hand Adventures | 421941 | [421941-ndha-non-dominant-hand-adventures.json](./421941-ndha-non-dominant-hand-adventures.json) |
 | NDR Racing | 60862 | [60862-ndr-racing.json](./60862-ndr-racing.json) |
 | Ne no Kami - The Two Princess Knights of Kyoto Part 2 | 59240 | [59240-ne-no-kami-the-two-princess-knights-of-kyoto-part-2.json](./59240-ne-no-kami-the-two-princess-knights-of-kyoto-part-2.json) |
+| Ne no Kami: The Two Princess Knights of Kyoto | 32848 | [32848-ne-no-kami-the-two-princess-knights-of-kyoto.json](./32848-ne-no-kami-the-two-princess-knights-of-kyoto.json) |
 | Ne no Kami: The Two Princess Knights of Kyoto - Extra Story | 155241 | [155241-ne-no-kami-the-two-princess-knights-of-kyoto-extra-story.json](./155241-ne-no-kami-the-two-princess-knights-of-kyoto-extra-story.json) |
 | Ne Touchez Pas 5 | 115253 | [115253-ne-touchez-pas-5.json](./115253-ne-touchez-pas-5.json) |
 | NE_01 | 109025 | [109025-ne-01.json](./109025-ne-01.json) |
@@ -1994,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need a packet? | 103475 | [103475-need-a-packet.json](./103475-need-a-packet.json) |
 | Need For Conquest | 157203 | [157203-need-for-conquest.json](./157203-need-for-conquest.json) |
 | Need for Drifting | 249229 | [249229-need-for-drifting.json](./249229-need-for-drifting.json) |
+| Need For Drink | 29014 | [29014-need-for-drink.json](./29014-need-for-drink.json) |
 | Need for Drive: Car Racing | 251047 | [251047-need-for-drive-car-racing.json](./251047-need-for-drive-car-racing.json) |
 | Need for Drive: Open World Multiplayer Racing | 163830 | [163830-need-for-drive-open-world-multiplayer-racing.json](./163830-need-for-drive-open-world-multiplayer-racing.json) |
 | Need For Gornyak | 86472 | [86472-need-for-gornyak.json](./86472-need-for-gornyak.json) |
@@ -3050,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephilim Resurrection | 323233 | [323233-nephilim-resurrection.json](./323233-nephilim-resurrection.json) |
 | Nephilim Saga | 204793 | [204793-nephilim-saga.json](./204793-nephilim-saga.json) |
 | Nephilim Uprising | 291288 | [291288-nephilim-uprising.json](./291288-nephilim-uprising.json) |
+| Nephise | 29171 | [29171-nephise.json](./29171-nephise.json) |
 | Nephise Begins | 36469 | [36469-nephise-begins.json](./36469-nephise-begins.json) |
 | Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
 | NepNep Connect: Chaos Chanpuru | 36606 | [36606-nepnep-connect-chaos-chanpuru.json](./36606-nepnep-connect-chaos-chanpuru.json) |
