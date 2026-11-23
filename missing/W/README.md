@@ -3803,6 +3803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Basingstoke | 364816 | [364816-welcome-to-basingstoke.json](./364816-welcome-to-basingstoke.json) |
 | Welcome to Bodyland | 374020 | [374020-welcome-to-bodyland.json](./374020-welcome-to-bodyland.json) |
 | Welcome To Bon's Burgers | 358573 | [358573-welcome-to-bons-burgers.json](./358573-welcome-to-bons-burgers.json) |
+| Welcome to Boon Hill | 34362 | [34362-welcome-to-boon-hill.json](./34362-welcome-to-boon-hill.json) |
 | Welcome to Brightville | 339224 | [339224-welcome-to-brightville.json](./339224-welcome-to-brightville.json) |
 | Welcome to Bulletheck | 298784 | [298784-welcome-to-bulletheck.json](./298784-welcome-to-bulletheck.json) |
 | Welcome to Bummertown | 107827 | [107827-welcome-to-bummertown.json](./107827-welcome-to-bummertown.json) |
