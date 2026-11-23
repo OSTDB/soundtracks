@@ -6999,6 +6999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobody Said It Was Easy | 175233 | [175233-nobody-said-it-was-easy.json](./175233-nobody-said-it-was-easy.json) |
 | Nobody Saves the World | 145089 | [145089-nobody-saves-the-world.json](./145089-nobody-saves-the-world.json) |
 | Nobody Saves the World + Frozen Hearth Bundle | 219470 | [219470-nobody-saves-the-world-frozen-hearth-bundle.json](./219470-nobody-saves-the-world-frozen-hearth-bundle.json) |
+| Nobody Saves the World: Frozen Hearth | 214735 | [214735-nobody-saves-the-world-frozen-hearth.json](./214735-nobody-saves-the-world-frozen-hearth.json) |
 | Nobody Sleeps Tonight | 282812 | [282812-nobody-sleeps-tonight.json](./282812-nobody-sleeps-tonight.json) |
 | Nobody Told Me About ID | 251634 | [251634-nobody-told-me-about-id.json](./251634-nobody-told-me-about-id.json) |
 | Nobody: The Turnaround | 192027 | [192027-nobody-the-turnaround.json](./192027-nobody-the-turnaround.json) |
