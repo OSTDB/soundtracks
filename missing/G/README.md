@@ -660,7 +660,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Frontier | 190134 | [190134-galactic-frontier.json](./190134-galactic-frontier.json) |
 | Galactic Frontiers: Defense Protocol | 294050 | [294050-galactic-frontiers-defense-protocol.json](./294050-galactic-frontiers-defense-protocol.json) |
 | Galactic Frontline | 93655 | [93655-galactic-frontline.json](./93655-galactic-frontline.json) |
-| Galactic Gallery | 105899 | [105899-galactic-gallery.json](./105899-galactic-gallery.json) |
 | Galactic Gambler | 14084 | [14084-galactic-gambler.json](./14084-galactic-gambler.json) |
 | Galactic Games | 14085 | [14085-galactic-games.json](./14085-galactic-games.json) |
 | Galactic Gardener | 313101 | [313101-galactic-gardener.json](./313101-galactic-gardener.json) |
@@ -855,7 +854,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galak-Z: The Void & Skulls of the Shogun: Bonafide Edition - Platinum Pack | 138264 | [138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json](./138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json) |
 | Galak-Z: Variant Mobile | 105856 | [105856-galak-z-variant-mobile.json](./105856-galak-z-variant-mobile.json) |
 | Galak-Z: Variant Mobile/S | 122460 | [122460-galak-z-variant-mobile-s.json](./122460-galak-z-variant-mobile-s.json) |
-| Galak-Z: Variant S | 105801 | [105801-galak-z-variant-s.json](./105801-galak-z-variant-s.json) |
 | Galak-Z: Varient Mobile | 103085 | [103085-galak-z-varient-mobile.json](./103085-galak-z-varient-mobile.json) |
 | Galaksia Online | 407593 | [407593-galaksia-online.json](./407593-galaksia-online.json) |
 | Galakzions | 14087 | [14087-galakzions.json](./14087-galakzions.json) |
@@ -5265,7 +5263,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Bus Adventure | 242980 | [242980-girls-bus-adventure.json](./242980-girls-bus-adventure.json) |
 | Girls Craft: Crafting and Building | 100959 | [100959-girls-craft-crafting-and-building.json](./100959-girls-craft-crafting-and-building.json) |
 | Girls Creation: Shoujo Geijutsu Kitan | 264497 | [264497-girls-creation-shoujo-geijutsu-kitan.json](./264497-girls-creation-shoujo-geijutsu-kitan.json) |
-| Girls Dance | 105691 | [105691-girls-dance.json](./105691-girls-dance.json) |
 | Girls Dance VR | 384632 | [384632-girls-dance-vr.json](./384632-girls-dance-vr.json) |
 | Girls Deffence | 129298 | [129298-girls-deffence.json](./129298-girls-deffence.json) |
 | Girls Divers | 259507 | [259507-girls-divers.json](./259507-girls-divers.json) |
@@ -5521,7 +5518,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladihoppers | 103356 | [103356-gladihoppers.json](./103356-gladihoppers.json) |
 | Gladii | 158922 | [158922-gladii.json](./158922-gladii.json) |
 | GladiMaker | 386170 | [386170-gladimaker.json](./386170-gladimaker.json) |
-| Gladio | 107438 | [107438-gladio.json](./107438-gladio.json) |
 | Gladio and Glory | 144881 | [144881-gladio-and-glory.json](./144881-gladio-and-glory.json) |
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
 | Gladius | 3932 | [3932-gladius.json](./3932-gladius.json) |
