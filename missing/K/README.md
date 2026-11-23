@@ -7118,6 +7118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunkun Dream Startles the Soul-Ghost Animal Cosplay | 358236 | [358236-kunkun-dream-startles-the-soul-ghost-animal-cosplay.json](./358236-kunkun-dream-startles-the-soul-ghost-animal-cosplay.json) |
 | Kunkun Dream Startles the Soul-Kunkunzi | 358235 | [358235-kunkun-dream-startles-the-soul-kunkunzi.json](./358235-kunkun-dream-startles-the-soul-kunkunzi.json) |
 | Kunkun League | 303619 | [303619-kunkun-league.json](./303619-kunkun-league.json) |
+| KunKun Miner | 426844 | [426844-kunkun-miner.json](./426844-kunkun-miner.json) |
 | Kunkun Terror Express | 296921 | [296921-kunkun-terror-express.json](./296921-kunkun-terror-express.json) |
 | KunKunHome | 292981 | [292981-kunkunhome.json](./292981-kunkunhome.json) |
 | Kunkunkun | 287214 | [287214-kunkunkun.json](./287214-kunkunkun.json) |
