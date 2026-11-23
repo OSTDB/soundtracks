@@ -4416,7 +4416,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Invader | 407547 | [407547-endless-invader.json](./407547-endless-invader.json) |
 | Endless Invaders | 100365 | [100365-endless-invaders.json](./100365-endless-invaders.json) |
 | Endless Isolation | 405715 | [405715-endless-isolation.json](./405715-endless-isolation.json) |
-| Endless Jade Sea: Midori no Umi | 107826 | [107826-endless-jade-sea-midori-no-umi.json](./107826-endless-jade-sea-midori-no-umi.json) |
 | Endless Jump: Infinity Loop | 232331 | [232331-endless-jump-infinity-loop.json](./232331-endless-jump-infinity-loop.json) |
 | Endless Labyrinth | 32264 | [32264-endless-labyrinth.json](./32264-endless-labyrinth.json) |
 | Endless League | 111129 | [111129-endless-league.json](./111129-endless-league.json) |
@@ -6346,7 +6345,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Labyrinth | 109971 | [109971-escape-labyrinth.json](./109971-escape-labyrinth.json) |
 | Escape Lala | 105033 | [105033-escape-lala.json](./105033-escape-lala.json) |
 | Escape Lanky Kong | 355823 | [355823-escape-lanky-kong.json](./355823-escape-lanky-kong.json) |
-| Escape Legacy: Ancient Scrolls | 110733 | [110733-escape-legacy-ancient-scrolls.json](./110733-escape-legacy-ancient-scrolls.json) |
 | Escape Lite | 88579 | [88579-escape-lite.json](./88579-escape-lite.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
 | Escape Logan Estate | 190127 | [190127-escape-logan-estate.json](./190127-escape-logan-estate.json) |
@@ -6865,7 +6863,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esports Heroes | 259639 | [259639-esports-heroes.json](./259639-esports-heroes.json) |
 | Esports History | 172962 | [172962-esports-history.json](./172962-esports-history.json) |
 | eSports Jigsaw Puzzles | 236551 | [236551-esports-jigsaw-puzzles.json](./236551-esports-jigsaw-puzzles.json) |
-| Esports Legend | 107679 | [107679-esports-legend.json](./107679-esports-legend.json) |
 | Esports Life Tycoon | 118522 | [118522-esports-life-tycoon.json](./118522-esports-life-tycoon.json) |
 | eSports Manager | 171381 | [171381-esports-manager.json](./171381-esports-manager.json) |
 | Esports Manager 2026 | 285684 | [285684-esports-manager-2026.json](./285684-esports-manager-2026.json) |
@@ -8509,7 +8506,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolit | 346152 | [346152-evolit.json](./346152-evolit.json) |
 | Evolits | 145453 | [145453-evolits.json](./145453-evolits.json) |
 | Evolized | 353371 | [353371-evolized.json](./353371-evolized.json) |
-| Evolo.Evolution | 108365 | [108365-evolo-evolution.json](./108365-evolo-evolution.json) |
 | Evolo.Mine | 111967 | [111967-evolo-mine.json](./111967-evolo-mine.json) |
 | Evolo.SpiderSim | 110615 | [110615-evolo-spidersim.json](./110615-evolo-spidersim.json) |
 | Evolo.The Sun | 335447 | [335447-evolo-the-sun.json](./335447-evolo-the-sun.json) |
