@@ -8318,6 +8318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonect 2 | 400382 | [400382-goonect-2.json](./400382-goonect-2.json) |
 | Gooner on the Orient Express | 292450 | [292450-gooner-on-the-orient-express.json](./292450-gooner-on-the-orient-express.json) |
 | Gooning Aim Trainer | 340320 | [340320-gooning-aim-trainer.json](./340320-gooning-aim-trainer.json) |
+| Goons: Legends & Mayhem | 138643 | [138643-goons-legends-and-mayhem.json](./138643-goons-legends-and-mayhem.json) |
 | Goons! | 425464 | [425464-goons.json](./425464-goons.json) |
 | Goons.io Knight Warriors | 104275 | [104275-goons-io-knight-warriors.json](./104275-goons-io-knight-warriors.json) |
 | Goontang Chackalaka | 322674 | [322674-goontang-chackalaka.json](./322674-goontang-chackalaka.json) |
