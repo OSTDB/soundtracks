@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Comedy: A Love Hard To Find | 275527 | [275527-fairy-comedy-a-love-hard-to-find.json](./275527-fairy-comedy-a-love-hard-to-find.json) |
 | Fairy Cubes | 207978 | [207978-fairy-cubes.json](./207978-fairy-cubes.json) |
 | Fairy Deer | 196400 | [196400-fairy-deer.json](./196400-fairy-deer.json) |
+| Fairy Elements | 214643 | [214643-fairy-elements.json](./214643-fairy-elements.json) |
 | Fairy Escape | 99632 | [99632-fairy-escape.json](./99632-fairy-escape.json) |
 | Fairy Fencer F | 9893 | [9893-fairy-fencer-f.json](./9893-fairy-fencer-f.json) |
 | Fairy Fencer F: Additional Fairy Pack | 227072 | [227072-fairy-fencer-f-additional-fairy-pack.json](./227072-fairy-fencer-f-additional-fairy-pack.json) |
