@@ -2931,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatch and Slay | 33884 | [33884-hatch-and-slay.json](./33884-hatch-and-slay.json) |
 | Hatch Catch | 40175 | [40175-hatch-catch.json](./40175-hatch-catch.json) |
 | Hatch Dragons | 381848 | [381848-hatch-dragons.json](./381848-hatch-dragons.json) |
+| Hatch Tales: A Heroic Hookshot Adventure | 319936 | [319936-hatch-tales-a-heroic-hookshot-adventure.json](./319936-hatch-tales-a-heroic-hookshot-adventure.json) |
 | Hatch This! | 181456 | [181456-hatch-this.json](./181456-hatch-this.json) |
 | Hatch'n'wall | 423504 | [423504-hatchnwall.json](./423504-hatchnwall.json) |
 | Hatchball | 137961 | [137961-hatchball.json](./137961-hatchball.json) |
@@ -4241,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Does Not Respond 2 | 428740 | [428740-heaven-does-not-respond-2.json](./428740-heaven-does-not-respond-2.json) |
 | Heaven Dust | 120069 | [120069-heaven-dust.json](./120069-heaven-dust.json) |
 | Heaven Dust 2 | 153344 | [153344-heaven-dust-2.json](./153344-heaven-dust-2.json) |
+| Heaven Dust Collection | 317215 | [317215-heaven-dust-collection.json](./317215-heaven-dust-collection.json) |
 | Heaven for Death | 233829 | [233829-heaven-for-death.json](./233829-heaven-for-death.json) |
 | Heaven Forest - VR MMO | 32581 | [32581-heaven-forest-vr-mmo.json](./32581-heaven-forest-vr-mmo.json) |
 | Heaven Forest Nights | 35430 | [35430-heaven-forest-nights.json](./35430-heaven-forest-nights.json) |
@@ -9845,6 +9847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman World of Assassination: The Host Pack | 427652 | [427652-hitman-world-of-assassination-the-host-pack.json](./427652-hitman-world-of-assassination-the-host-pack.json) |
 | Hitman World of Assassination: The Undying Pack | 287866 | [287866-hitman-world-of-assassination-the-undying-pack.json](./287866-hitman-world-of-assassination-the-undying-pack.json) |
 | Hitman World of Assassination: The Wizard Pack | 405098 | [405098-hitman-world-of-assassination-the-wizard-pack.json](./405098-hitman-world-of-assassination-the-wizard-pack.json) |
+| Hitman World of Assassination: VR Access | 317632 | [317632-hitman-world-of-assassination-vr-access.json](./317632-hitman-world-of-assassination-vr-access.json) |
 | Hitman World of Assassination: World Champions Pack | 405114 | [405114-hitman-world-of-assassination-world-champions-pack.json](./405114-hitman-world-of-assassination-world-champions-pack.json) |
 | Hitman: Absolution HD | 218974 | [218974-hitman-absolution-hd.json](./218974-hitman-absolution-hd.json) |
 | Hitman: Blood Money HD | 99816 | [99816-hitman-blood-money-hd.json](./99816-hitman-blood-money-hd.json) |
@@ -12423,6 +12426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Let's Race: Ultimate Speed - Deluxe Edition | 371436 | [371436-hot-wheels-lets-race-ultimate-speed-deluxe-edition.json](./371436-hot-wheels-lets-race-ultimate-speed-deluxe-edition.json) |
 | Hot Wheels Let's Race: Ultimate Speed - High Voltage Speed Pack | 371438 | [371438-hot-wheels-lets-race-ultimate-speed-high-voltage-speed-pack.json](./371438-hot-wheels-lets-race-ultimate-speed-high-voltage-speed-pack.json) |
 | Hot Wheels Micro Racers | 163632 | [163632-hot-wheels-micro-racers.json](./163632-hot-wheels-micro-racers.json) |
+| Hot Wheels Monster Trucks: Stunt Mayhem | 313494 | [313494-hot-wheels-monster-trucks-stunt-mayhem.json](./313494-hot-wheels-monster-trucks-stunt-mayhem.json) |
 | Hot Wheels Monster Trucks: Stunt Mayhem - Deluxe Edition | 317910 | [317910-hot-wheels-monster-trucks-stunt-mayhem-deluxe-edition.json](./317910-hot-wheels-monster-trucks-stunt-mayhem-deluxe-edition.json) |
 | Hot Wheels Rally | 423112 | [423112-hot-wheels-rally.json](./423112-hot-wheels-rally.json) |
 | Hot Wheels Slot Car Racing | 100125 | [100125-hot-wheels-slot-car-racing.json](./100125-hot-wheels-slot-car-racing.json) |
@@ -13862,6 +13866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Hoist | 426475 | [426475-hungry-hoist.json](./426475-hungry-hoist.json) |
 | Hungry Horace | 12954 | [12954-hungry-horace.json](./12954-hungry-horace.json) |
 | Hungry Horace | 170795 | [170795-hungry-horace.json](./170795-hungry-horace.json) |
+| Hungry Horrors | 315343 | [315343-hungry-horrors.json](./315343-hungry-horrors.json) |
 | Hungry Humphrey: Eat The World | 275612 | [275612-hungry-humphrey-eat-the-world.json](./275612-hungry-humphrey-eat-the-world.json) |
 | Hungry Hungry Hippos | 335404 | [335404-hungry-hungry-hippos.json](./335404-hungry-hungry-hippos.json) |
 | Hungry Hungry Mario | 289141 | [289141-hungry-hungry-mario.json](./289141-hungry-hungry-mario.json) |
