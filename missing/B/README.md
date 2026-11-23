@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Abyss | 253419 | [253419-backrooms-abyss.json](./253419-backrooms-abyss.json) |
 | Backrooms Adventure | 420917 | [420917-backrooms-adventure.json](./420917-backrooms-adventure.json) |
 | Backrooms Anomaly | 374836 | [374836-backrooms-anomaly.json](./374836-backrooms-anomaly.json) |
+| Backrooms Anomaly Project | 426279 | [426279-backrooms-anomaly-project.json](./426279-backrooms-anomaly-project.json) |
 | Backrooms Anomaly: Pools | 424056 | [424056-backrooms-anomaly-pools.json](./424056-backrooms-anomaly-pools.json) |
 | Backrooms Blackmarket | 348848 | [348848-backrooms-blackmarket.json](./348848-backrooms-blackmarket.json) |
 | Backrooms Blocks | 420918 | [420918-backrooms-blocks.json](./420918-backrooms-blocks.json) |
@@ -7519,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Nexus | 152610 | [152610-beneath-the-nexus.json](./152610-beneath-the-nexus.json) |
 | Beneath the Pyramids | 280883 | [280883-beneath-the-pyramids.json](./280883-beneath-the-pyramids.json) |
 | Beneath the Quiet: Where It Ends | 381488 | [381488-beneath-the-quiet-where-it-ends.json](./381488-beneath-the-quiet-where-it-ends.json) |
+| Beneath the Rolling Hills | 426288 | [426288-beneath-the-rolling-hills.json](./426288-beneath-the-rolling-hills.json) |
 | Beneath The Rooftop Sky | 337696 | [337696-beneath-the-rooftop-sky.json](./337696-beneath-the-rooftop-sky.json) |
 | Beneath the shadows | 178377 | [178377-beneath-the-shadows.json](./178377-beneath-the-shadows.json) |
 | Beneath The Six | 360474 | [360474-beneath-the-six.json](./360474-beneath-the-six.json) |
@@ -12596,6 +12598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bound III | 313825 | [313825-blood-bound-iii.json](./313825-blood-bound-iii.json) |
 | Blood Bound Origins | 313827 | [313827-blood-bound-origins.json](./313827-blood-bound-origins.json) |
 | Blood Bound: Dark Solstice | 313826 | [313826-blood-bound-dark-solstice.json](./313826-blood-bound-dark-solstice.json) |
+| Blood Bounty | 426270 | [426270-blood-bounty.json](./426270-blood-bounty.json) |
 | Blood Bowl | 5649 | [5649-blood-bowl.json](./5649-blood-bowl.json) |
 | Blood Bowl | 6058 | [6058-blood-bowl.json](./6058-blood-bowl.json) |
 | Blood Bowl 2 | 6059 | [6059-blood-bowl-2.json](./6059-blood-bowl-2.json) |
@@ -12706,6 +12709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Lines | 45056 | [45056-blood-lines.json](./45056-blood-lines.json) |
 | Blood Lines: Magicians' Chase 2 | 300775 | [300775-blood-lines-magicians-chase-2.json](./300775-blood-lines-magicians-chase-2.json) |
 | Blood Lust | 309724 | [309724-blood-lust.json](./309724-blood-lust.json) |
+| Blood Mage | 426281 | [426281-blood-mage.json](./426281-blood-mage.json) |
 | Blood Magic | 121569 | [121569-blood-magic.json](./121569-blood-magic.json) |
 | Blood Magic | 232651 | [232651-blood-magic.json](./232651-blood-magic.json) |
 | Blood Mall | 344852 | [344852-blood-mall.json](./344852-blood-mall.json) |
@@ -13614,6 +13618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluebeard's Castle: Son of the Heartless | 417391 | [417391-bluebeards-castle-son-of-the-heartless.json](./417391-bluebeards-castle-son-of-the-heartless.json) |
 | Bluebell | 426961 | [426961-bluebell.json](./426961-bluebell.json) |
 | Blueberry | 130534 | [130534-blueberry.json](./130534-blueberry.json) |
+| Blueberry Tales | 426287 | [426287-blueberry-tales.json](./426287-blueberry-tales.json) |
 | Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
 | BlueberryNova | 95254 | [95254-blueberrynova.json](./95254-blueberrynova.json) |
 | BlueBete | 137556 | [137556-bluebete.json](./137556-bluebete.json) |
@@ -15951,6 +15956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Forever! | 91085 | [91085-bounce-forever.json](./91085-bounce-forever.json) |
 | Bounce Gun | 291375 | [291375-bounce-gun.json](./291375-bounce-gun.json) |
 | Bounce House | 262487 | [262487-bounce-house.json](./262487-bounce-house.json) |
+| Bounce Intelligence | 426290 | [426290-bounce-intelligence.json](./426290-bounce-intelligence.json) |
 | Bounce It | 363033 | [363033-bounce-it.json](./363033-bounce-it.json) |
 | Bounce It | 93430 | [93430-bounce-it.json](./93430-bounce-it.json) |
 | Bounce Journey | 242977 | [242977-bounce-journey.json](./242977-bounce-journey.json) |
@@ -19000,6 +19006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bub's Big Blowout! | 265065 | [265065-bubs-big-blowout.json](./265065-bubs-big-blowout.json) |
 | Bub's Puzzle Blast! | 316032 | [316032-bubs-puzzle-blast.json](./316032-bubs-puzzle-blast.json) |
 | Buba | 120348 | [120348-buba.json](./120348-buba.json) |
+| Buba Stacker | 426294 | [426294-buba-stacker.json](./426294-buba-stacker.json) |
 | Bubba 'n' Stix | 11980 | [11980-bubba-n-stix.json](./11980-bubba-n-stix.json) |
 | Bubba in the Turd Dimension | 410990 | [410990-bubba-in-the-turd-dimension.json](./410990-bubba-in-the-turd-dimension.json) |
 | Bubba Yuga | 383523 | [383523-bubba-yuga.json](./383523-bubba-yuga.json) |
