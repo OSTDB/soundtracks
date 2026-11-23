@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla Awaits | 334197 | [334197-valhalla-awaits.json](./334197-valhalla-awaits.json) |
 | Valhalla Chronicles | 64388 | [64388-valhalla-chronicles.json](./64388-valhalla-chronicles.json) |
 | Valhalla Hills | 12080 | [12080-valhalla-hills.json](./12080-valhalla-hills.json) |
+| Valhalla Hills: Definitive Edition | 28264 | [28264-valhalla-hills-definitive-edition.json](./28264-valhalla-hills-definitive-edition.json) |
 | Valhalla Hills: Fire Mountains | 151390 | [151390-valhalla-hills-fire-mountains.json](./151390-valhalla-hills-fire-mountains.json) |
 | Valhalla Hills: Sand of the Damned | 171639 | [171639-valhalla-hills-sand-of-the-damned.json](./171639-valhalla-hills-sand-of-the-damned.json) |
 | Valhalla Hills: Two-Horned Helmet Edition | 51791 | [51791-valhalla-hills-two-horned-helmet-edition.json](./51791-valhalla-hills-two-horned-helmet-edition.json) |
@@ -1885,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertical Shift | 144475 | [144475-vertical-shift.json](./144475-vertical-shift.json) |
 | Vertical Slice | 144755 | [144755-vertical-slice.json](./144755-vertical-slice.json) |
 | Vertical Slice: A Game Dev Story | 157310 | [157310-vertical-slice-a-game-dev-story.json](./157310-vertical-slice-a-game-dev-story.json) |
+| Vertical Strike Endless Challenge | 28293 | [28293-vertical-strike-endless-challenge.json](./28293-vertical-strike-endless-challenge.json) |
 | Verticality | 306971 | [306971-verticality.json](./306971-verticality.json) |
 | Verticopolis | 410821 | [410821-verticopolis.json](./410821-verticopolis.json) |
 | Verticow | 330117 | [330117-verticow.json](./330117-verticow.json) |
@@ -2533,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Life | 210788 | [210788-viking-life.json](./210788-viking-life.json) |
 | Viking Nest | 425190 | [425190-viking-nest.json](./425190-viking-nest.json) |
 | Viking Nest: Collector's Edition | 425191 | [425191-viking-nest-collectors-edition.json](./425191-viking-nest-collectors-edition.json) |
+| Viking Rage VR | 28534 | [28534-viking-rage-vr.json](./28534-viking-rage-vr.json) |
 | Viking Raider | 208118 | [208118-viking-raider.json](./208118-viking-raider.json) |
 | Viking Raider | 24666 | [24666-viking-raider.json](./24666-viking-raider.json) |
 | Viking Raiders | 415427 | [415427-viking-raiders.json](./415427-viking-raiders.json) |
