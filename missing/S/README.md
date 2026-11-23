@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Mau Otome no Rondo: Anata to Miru Fuyu Sakura | 60375 | [60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json](./60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json) |
 | Sakura Melody | 216921 | [216921-sakura-melody.json](./216921-sakura-melody.json) |
 | Sakura Mirror | 235413 | [235413-sakura-mirror.json](./235413-sakura-mirror.json) |
+| Sakura MMO | 110779 | [110779-sakura-mmo.json](./110779-sakura-mmo.json) |
 | Sakura MMO 3 | 119492 | [119492-sakura-mmo-3.json](./119492-sakura-mmo-3.json) |
 | Sakura MMO Extra | 142522 | [142522-sakura-mmo-extra.json](./142522-sakura-mmo-extra.json) |
 | Sakura Mochi | 167485 | [167485-sakura-mochi.json](./167485-sakura-mochi.json) |
@@ -15237,6 +15238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Fighter II | 75172 | [75172-slam-fighter-ii.json](./75172-slam-fighter-ii.json) |
 | Slam Jam Bakery | 180721 | [180721-slam-jam-bakery.json](./180721-slam-jam-bakery.json) |
 | Slam Jump | 250182 | [250182-slam-jump.json](./250182-slam-jump.json) |
+| Slam Land | 98407 | [98407-slam-land.json](./98407-slam-land.json) |
 | Slam Mania | 233163 | [233163-slam-mania.json](./233163-slam-mania.json) |
 | Slam Poets | 399698 | [399698-slam-poets.json](./399698-slam-poets.json) |
 | Slam Racer | 270277 | [270277-slam-racer.json](./270277-slam-racer.json) |
@@ -23955,6 +23957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spades++ | 89124 | [89124-spades.json](./89124-spades.json) |
 | Spadyssey | 93736 | [93736-spadyssey.json](./93736-spadyssey.json) |
 | Spaera | 32401 | [32401-spaera.json](./32401-spaera.json) |
+| Spaghet | 96652 | [96652-spaghet.json](./96652-spaghet.json) |
 | Spaghet 2: Al Dente Chapter | 168862 | [168862-spaghet-2-al-dente-chapter.json](./168862-spaghet-2-al-dente-chapter.json) |
 | Spaghetti Celesti | 421214 | [421214-spaghetti-celesti.json](./421214-spaghetti-celesti.json) |
 | Spaghetti Western Shooter | 268381 | [268381-spaghetti-western-shooter.json](./268381-spaghetti-western-shooter.json) |
@@ -25570,6 +25573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spintensity | 86155 | [86155-spintensity.json](./86155-spintensity.json) |
 | Spintires | 7347 | [7347-spintires.json](./7347-spintires.json) |
 | Spintires: Chernobyl | 223122 | [223122-spintires-chernobyl.json](./223122-spintires-chernobyl.json) |
+| Spintires: MudRunner - American Wilds | 111316 | [111316-spintires-mudrunner-american-wilds.json](./111316-spintires-mudrunner-american-wilds.json) |
 | Spintires: MudRunner - American Wilds Edition | 110802 | [110802-spintires-mudrunner-american-wilds-edition.json](./110802-spintires-mudrunner-american-wilds-edition.json) |
 | Spinwave Survivors | 388002 | [388002-spinwave-survivors.json](./388002-spinwave-survivors.json) |
 | SpinWhisker | 407178 | [407178-spinwhisker.json](./407178-spinwhisker.json) |
@@ -25877,6 +25881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spitfire Attack | 40601 | [40601-spitfire-attack.json](./40601-spitfire-attack.json) |
 | Spitfire Heroes: Tales of the Royal Air Force | 124055 | [124055-spitfire-heroes-tales-of-the-royal-air-force.json](./124055-spitfire-heroes-tales-of-the-royal-air-force.json) |
 | Spitfire: Moonpies Mission | 307950 | [307950-spitfire-moonpies-mission.json](./307950-spitfire-moonpies-mission.json) |
+| Spitkiss | 98074 | [98074-spitkiss.json](./98074-spitkiss.json) |
 | Spitlings | 114483 | [114483-spitlings.json](./114483-spitlings.json) |
 | Spitter Man vs. The Pooping Birds | 254392 | [254392-spitter-man-vs-the-pooping-birds.json](./254392-spitter-man-vs-the-pooping-birds.json) |
 | Spitting Image | 13081 | [13081-spitting-image.json](./13081-spitting-image.json) |
@@ -26368,6 +26373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spoopcore 3D | 324263 | [324263-spoopcore-3d.json](./324263-spoopcore-3d.json) |
 | Spooples | 249806 | [249806-spooples.json](./249806-spooples.json) |
 | Spoopy Maryo | 318040 | [318040-spoopy-maryo.json](./318040-spoopy-maryo.json) |
+| Spoorky | 110897 | [110897-spoorky.json](./110897-spoorky.json) |
 | Sporadic Spire | 149137 | [149137-sporadic-spire.json](./149137-sporadic-spire.json) |
 | Sporbs | 381519 | [381519-sporbs.json](./381519-sporbs.json) |
 | Sporcle | 86844 | [86844-sporcle.json](./86844-sporcle.json) |
@@ -31158,6 +31164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Killing Zombie | 292346 | [292346-stickman-killing-zombie.json](./292346-stickman-killing-zombie.json) |
 | Stickman League | 127194 | [127194-stickman-league.json](./127194-stickman-league.json) |
 | Stickman Legends | 323197 | [323197-stickman-legends.json](./323197-stickman-legends.json) |
+| Stickman Legends: Shadow Wars | 96810 | [96810-stickman-legends-shadow-wars.json](./96810-stickman-legends-shadow-wars.json) |
 | Stickman Lore | 208132 | [208132-stickman-lore.json](./208132-stickman-lore.json) |
 | Stickman Maverick : Bad Boys Killer | 111363 | [111363-stickman-maverick-bad-boys-killer.json](./111363-stickman-maverick-bad-boys-killer.json) |
 | Stickman Monster Battle 3D | 401561 | [401561-stickman-monster-battle-3d.json](./401561-stickman-monster-battle-3d.json) |
