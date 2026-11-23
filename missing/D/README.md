@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Life With My Succubus Boss | 226555 | [226555-daily-life-with-my-succubus-boss.json](./226555-daily-life-with-my-succubus-boss.json) |
 | Daily Life with the Herb Girl | 420408 | [420408-daily-life-with-the-herb-girl.json](./420408-daily-life-with-the-herb-girl.json) |
 | Daily Mah Jong | 95663 | [95663-daily-mah-jong.json](./95663-daily-mah-jong.json) |
+| Daily Orbs | 429431 | [429431-daily-orbs.json](./429431-daily-orbs.json) |
 | Daily POP Crosswords | 87482 | [87482-daily-pop-crosswords.json](./87482-daily-pop-crosswords.json) |
 | Daily Quizz | 78701 | [78701-daily-quizz.json](./78701-daily-quizz.json) |
 | Daily Routine | 88136 | [88136-daily-routine.json](./88136-daily-routine.json) |
@@ -3087,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daughter of Serpents | 12416 | [12416-daughter-of-serpents.json](./12416-daughter-of-serpents.json) |
 | Daughter of Shadows: An SCP Breach Event - Friend and Foe Expansion | 167317 | [167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json](./167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json) |
 | Daughter of the Rift | 378242 | [378242-daughter-of-the-rift.json](./378242-daughter-of-the-rift.json) |
+| Daughter of Voodoo | 431047 | [431047-daughter-of-voodoo.json](./431047-daughter-of-voodoo.json) |
 | Daughters of the Stars | 283819 | [283819-daughters-of-the-stars.json](./283819-daughters-of-the-stars.json) |
 | Daughters of the Stars Episode 1: When A Star Burns Out, A Flower Blooms | 283821 | [283821-daughters-of-the-stars-episode-1-when-a-star-burns-out-a-flower-blooms.json](./283821-daughters-of-the-stars-episode-1-when-a-star-burns-out-a-flower-blooms.json) |
 | Daughters of the Stars Episode 2: Face the Setting Sun: A Fierce Flower Stands Strong! | 283822 | [283822-daughters-of-the-stars-episode-2-face-the-setting-sun-a-fierce-flower-stands-strong.json](./283822-daughters-of-the-stars-episode-2-face-the-setting-sun-a-fierce-flower-stands-strong.json) |
@@ -4858,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Skies | 85992 | [85992-deadly-skies.json](./85992-deadly-skies.json) |
 | Deadly Sky | 51981 | [51981-deadly-sky.json](./51981-deadly-sky.json) |
 | Deadly Soccer | 242569 | [242569-deadly-soccer.json](./242569-deadly-soccer.json) |
+| Deadly Stakes | 429422 | [429422-deadly-stakes.json](./429422-deadly-stakes.json) |
 | Deadly Standards | 313159 | [313159-deadly-standards.json](./313159-deadly-standards.json) |
 | Deadly Standards 2 | 313160 | [313160-deadly-standards-2.json](./313160-deadly-standards-2.json) |
 | Deadly Standards 3 | 313163 | [313163-deadly-standards-3.json](./313163-deadly-standards-3.json) |
@@ -6904,6 +6907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dejig: Tin Toy | 299789 | [299789-dejig-tin-toy.json](./299789-dejig-tin-toy.json) |
 | Dejiko no Mahjong Party | 92611 | [92611-dejiko-no-mahjong-party.json](./92611-dejiko-no-mahjong-party.json) |
 | Dejiko no Maibura | 67544 | [67544-dejiko-no-maibura.json](./67544-dejiko-no-maibura.json) |
+| Dejinochi | 431037 | [431037-dejinochi.json](./431037-dejinochi.json) |
 | Deka Nomos | 416712 | [416712-deka-nomos.json](./416712-deka-nomos.json) |
 | Deka Voice | 64928 | [64928-deka-voice.json](./64928-deka-voice.json) |
 | Dekabès Domino | 210563 | [210563-dekabes-domino.json](./210563-dekabes-domino.json) |
@@ -9340,6 +9344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devidicon | 400459 | [400459-devidicon.json](./400459-devidicon.json) |
 | Deviens Miss France | 269745 | [269745-deviens-miss-france.json](./269745-deviens-miss-france.json) |
 | Deviko TD | 248998 | [248998-deviko-td.json](./248998-deviko-td.json) |
+| Devil & Angel Sky Battle | 429420 | [429420-devil-and-angel-sky-battle.json](./429420-devil-and-angel-sky-battle.json) |
 | Devil Apartment | 250745 | [250745-devil-apartment.json](./250745-devil-apartment.json) |
 | Devil Assault | 41197 | [41197-devil-assault.json](./41197-devil-assault.json) |
 | Devil Band: Rock the Underworld | 85079 | [85079-devil-band-rock-the-underworld.json](./85079-devil-band-rock-the-underworld.json) |
@@ -13120,6 +13125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DK: King of Swing Remix | 298941 | [298941-dk-king-of-swing-remix.json](./298941-dk-king-of-swing-remix.json) |
 | DK64 Randomizer | 206186 | [206186-dk64-randomizer.json](./206186-dk64-randomizer.json) |
 | DK64: Rekongpiled | 408549 | [408549-dk64-rekongpiled.json](./408549-dk64-rekongpiled.json) |
+| DKB Recomp | 429439 | [429439-dkb-recomp.json](./429439-dkb-recomp.json) |
 | DKC New Competition Cartridge | 219079 | [219079-dkc-new-competition-cartridge.json](./219079-dkc-new-competition-cartridge.json) |
 | DKC X Mario | 309141 | [309141-dkc-x-mario.json](./309141-dkc-x-mario.json) |
 | DKC1Recomp | 419011 | [419011-dkc1recomp.json](./419011-dkc1recomp.json) |
@@ -16786,6 +16792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draculius | 69406 | [69406-draculius.json](./69406-draculius.json) |
 | DraeAscaria | 211346 | [211346-draeascaria.json](./211346-draeascaria.json) |
 | Draeggoria | 392271 | [392271-draeggoria.json](./392271-draeggoria.json) |
+| Draemony | 429415 | [429415-draemony.json](./429415-draemony.json) |
 | Draft | 133704 | [133704-draft.json](./133704-draft.json) |
 | Draft Day Sports College Basketball 3 | 34174 | [34174-draft-day-sports-college-basketball-3.json](./34174-draft-day-sports-college-basketball-3.json) |
 | Draft Day Sports: College Basketball 2017 | 75338 | [75338-draft-day-sports-college-basketball-2017.json](./75338-draft-day-sports-college-basketball-2017.json) |
@@ -18161,6 +18168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw In Maze 2 | 235146 | [235146-draw-in-maze-2.json](./235146-draw-in-maze-2.json) |
 | Draw in the Tray | 380627 | [380627-draw-in-the-tray.json](./380627-draw-in-the-tray.json) |
 | Draw it | 415304 | [415304-draw-it.json](./415304-draw-it.json) |
+| Draw It, Human! | 429421 | [429421-draw-it-human.json](./429421-draw-it-human.json) |
 | Draw It! | 99473 | [99473-draw-it.json](./99473-draw-it.json) |
 | Draw IT! | 147541 | [147541-draw-it.json](./147541-draw-it.json) |
 | Draw It! 2 | 107753 | [107753-draw-it-2.json](./107753-draw-it-2.json) |
