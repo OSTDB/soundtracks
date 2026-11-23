@@ -6838,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arcane Open | 424203 | [424203-the-arcane-open.json](./424203-the-arcane-open.json) |
 | The Arcane Relics | 176561 | [176561-the-arcane-relics.json](./176561-the-arcane-relics.json) |
 | The Arcane Tower | 166744 | [166744-the-arcane-tower.json](./166744-the-arcane-tower.json) |
+| The Arch-Enemy of Hy-Brasil | 426295 | [426295-the-arch-enemy-of-hy-brasil.json](./426295-the-arch-enemy-of-hy-brasil.json) |
 | The Archaic: Unauthorized | 348695 | [348695-the-archaic-unauthorized.json](./348695-the-archaic-unauthorized.json) |
 | The Archer | 287646 | [287646-the-archer.json](./287646-the-archer.json) |
 | The Archer | 311814 | [311814-the-archer.json](./311814-the-archer.json) |
@@ -7870,6 +7871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Breadmaker | 197524 | [197524-the-breadmaker.json](./197524-the-breadmaker.json) |
 | The Break-In | 199298 | [199298-the-break-in.json](./199298-the-break-in.json) |
 | The BreakFive | 339214 | [339214-the-breakfive.json](./339214-the-breakfive.json) |
+| The Breaking Room | 426266 | [426266-the-breaking-room.json](./426266-the-breaking-room.json) |
 | The Breakup Arena | 304489 | [304489-the-breakup-arena.json](./304489-the-breakup-arena.json) |
 | the Breath. | 59242 | [59242-the-breath.json](./59242-the-breath.json) |
 | The Breeding: The Fog | 75384 | [75384-the-breeding-the-fog.json](./75384-the-breeding-the-fog.json) |
@@ -8809,6 +8811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cradle | 379018 | [379018-the-cradle.json](./379018-the-cradle.json) |
 | The Cradle Bundle | 25523 | [25523-the-cradle-bundle.json](./25523-the-cradle-bundle.json) |
 | The Cradle of Eve | 145734 | [145734-the-cradle-of-eve.json](./145734-the-cradle-of-eve.json) |
+| The Cradle of Life | 426280 | [426280-the-cradle-of-life.json](./426280-the-cradle-of-life.json) |
 | The Cradle of Thorns: My Brother Belongs to Me | 273258 | [273258-the-cradle-of-thorns-my-brother-belongs-to-me.json](./273258-the-cradle-of-thorns-my-brother-belongs-to-me.json) |
 | The Cradle: Episode 01 | 421465 | [421465-the-cradle-episode-01.json](./421465-the-cradle-episode-01.json) |
 | The Craft of the Samurai | 159809 | [159809-the-craft-of-the-samurai.json](./159809-the-craft-of-the-samurai.json) |
@@ -16604,6 +16607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The night spoke our names | 208310 | [208310-the-night-spoke-our-names.json](./208310-the-night-spoke-our-names.json) |
 | The Night That Speaks | 141421 | [141421-the-night-that-speaks.json](./141421-the-night-that-speaks.json) |
 | The Night the Carsons Disappeared | 30764 | [30764-the-night-the-carsons-disappeared.json](./30764-the-night-the-carsons-disappeared.json) |
+| The Night Walk | 426263 | [426263-the-night-walk.json](./426263-the-night-walk.json) |
 | The Night Walkers | 196992 | [196992-the-night-walkers.json](./196992-the-night-walkers.json) |
 | The Night Wanderer | 290366 | [290366-the-night-wanderer.json](./290366-the-night-wanderer.json) |
 | The Night Watch | 272399 | [272399-the-night-watch.json](./272399-the-night-watch.json) |
@@ -27738,6 +27742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titeuf: Méga-Compet' | 46494 | [46494-titeuf-mega-compet.json](./46494-titeuf-mega-compet.json) |
 | Titeuf: Mission Nadia | 75350 | [75350-titeuf-mission-nadia.json](./75350-titeuf-mission-nadia.json) |
 | Titeuf: Ze Gag Machine | 125558 | [125558-titeuf-ze-gag-machine.json](./125558-titeuf-ze-gag-machine.json) |
+| Titheborn | 426289 | [426289-titheborn.json](./426289-titheborn.json) |
 | Titi Drop | 356966 | [356966-titi-drop.json](./356966-titi-drop.json) |
 | Titjob Battle | 83363 | [83363-titjob-battle.json](./83363-titjob-battle.json) |
 | Title Fight | 269261 | [269261-title-fight.json](./269261-title-fight.json) |
@@ -31658,6 +31663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers of Aghasba | 250636 | [250636-towers-of-aghasba.json](./250636-towers-of-aghasba.json) |
 | Towers of Altrac | 36165 | [36165-towers-of-altrac.json](./36165-towers-of-altrac.json) |
 | Towers of Altrac - Epic Defense Battles | 54188 | [54188-towers-of-altrac-epic-defense-battles.json](./54188-towers-of-altrac-epic-defense-battles.json) |
+| Towers of Aurum | 425668 | [425668-towers-of-aurum.json](./425668-towers-of-aurum.json) |
 | Towers of Babble | 421108 | [421108-towers-of-babble.json](./421108-towers-of-babble.json) |
 | Towers of Everland | 138390 | [138390-towers-of-everland.json](./138390-towers-of-everland.json) |
 | Towers of Mergethorne | 362818 | [362818-towers-of-mergethorne.json](./362818-towers-of-mergethorne.json) |
