@@ -1368,7 +1368,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Alive | 104823 | [104823-last-alive.json](./104823-last-alive.json) |
 | Last Alive | 37363 | [37363-last-alive.json](./37363-last-alive.json) |
 | Last Alliance: Total War | 356251 | [356251-last-alliance-total-war.json](./356251-last-alliance-total-war.json) |
-| Last Anime Boy 2: Hentai Zombie Hell | 106194 | [106194-last-anime-boy-2-hentai-zombie-hell.json](./106194-last-anime-boy-2-hentai-zombie-hell.json) |
 | Last Anime boy: Saving loli | 75643 | [75643-last-anime-boy-saving-loli.json](./75643-last-anime-boy-saving-loli.json) |
 | Last Answer | 30062 | [30062-last-answer.json](./30062-last-answer.json) |
 | Last Antagonist | 361885 | [361885-last-antagonist.json](./361885-last-antagonist.json) |
@@ -1833,7 +1832,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Threshold | 192634 | [192634-last-threshold.json](./192634-last-threshold.json) |
 | Last Throne | 364035 | [364035-last-throne.json](./364035-last-throne.json) |
 | Last ticket for Eternity | 178864 | [178864-last-ticket-for-eternity.json](./178864-last-ticket-for-eternity.json) |
-| Last Tide | 106114 | [106114-last-tide.json](./106114-last-tide.json) |
 | Last Time I Saw You | 204149 | [204149-last-time-i-saw-you.json](./204149-last-time-i-saw-you.json) |
 | Last Toon Standing | 72512 | [72512-last-toon-standing.json](./72512-last-toon-standing.json) |
 | Last Train Home | 131385 | [131385-last-train-home.json](./131385-last-train-home.json) |
@@ -4647,7 +4645,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letris 4 | 233103 | [233103-letris-4.json](./233103-letris-4.json) |
 | Letris Power: Word puzzle game | 89239 | [89239-letris-power-word-puzzle-game.json](./89239-letris-power-word-puzzle-game.json) |
 | Letroso | 344678 | [344678-letroso.json](./344678-letroso.json) |
-| Lets Beats | 105319 | [105319-lets-beats.json](./105319-lets-beats.json) |
 | Lets call my game slippery!suberu | 391925 | [391925-lets-call-my-game-slippery-suberu.json](./391925-lets-call-my-game-slippery-suberu.json) |
 | Lets Castle | 317559 | [317559-lets-castle.json](./317559-lets-castle.json) |
 | Lets fall | 103022 | [103022-lets-fall.json](./103022-lets-fall.json) |
@@ -4831,7 +4828,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leviathan | 341320 | [341320-leviathan.json](./341320-leviathan.json) |
 | Leviathan | 36865 | [36865-leviathan.json](./36865-leviathan.json) |
 | Leviathan | 413381 | [413381-leviathan.json](./413381-leviathan.json) |
-| Leviathan ~A Survival RPG~ | 106649 | [106649-leviathan-a-survival-rpg.json](./106649-leviathan-a-survival-rpg.json) |
 | Leviathan Dawn | 185018 | [185018-leviathan-dawn.json](./185018-leviathan-dawn.json) |
 | Leviathan Starblade | 30695 | [30695-leviathan-starblade.json](./30695-leviathan-starblade.json) |
 | Leviathan: Rhino | 413486 | [413486-leviathan-rhino.json](./413486-leviathan-rhino.json) |
@@ -6357,7 +6353,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LingerieS 2 | 418265 | [418265-lingeries-2.json](./418265-lingeries-2.json) |
 | LingeriesOffice | 334786 | [334786-lingeriesoffice.json](./334786-lingeriesoffice.json) |
 | Lingering | 171965 | [171965-lingering.json](./171965-lingering.json) |
-| Lingering Fragrance | 105599 | [105599-lingering-fragrance.json](./105599-lingering-fragrance.json) |
 | Lingering Legacy | 156086 | [156086-lingering-legacy.json](./156086-lingering-legacy.json) |
 | Lingering Shadows | 352320 | [352320-lingering-shadows.json](./352320-lingering-shadows.json) |
 | Lingering Souls | 285412 | [285412-lingering-souls.json](./285412-lingering-souls.json) |
@@ -9879,7 +9874,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus Minigames: Berlin Traffic | 120420 | [120420-lotus-minigames-berlin-traffic.json](./120420-lotus-minigames-berlin-traffic.json) |
 | Lotus Minigames: United Nations | 114355 | [114355-lotus-minigames-united-nations.json](./114355-lotus-minigames-united-nations.json) |
 | Lotus Reverie: First Nexus | 128919 | [128919-lotus-reverie-first-nexus.json](./128919-lotus-reverie-first-nexus.json) |
-| Lotus Simulator | 105548 | [105548-lotus-simulator.json](./105548-lotus-simulator.json) |
 | Lotus Simulator: Addon - Düsseldorf 1981 | 167754 | [167754-lotus-simulator-addon-dusseldorf-1981.json](./167754-lotus-simulator-addon-dusseldorf-1981.json) |
 | Lotus Simulator: Citybus Hamburg | 279544 | [279544-lotus-simulator-citybus-hamburg.json](./279544-lotus-simulator-citybus-hamburg.json) |
 | Lotus Simulator: Module - Rails of Lotus | 167757 | [167757-lotus-simulator-module-rails-of-lotus.json](./167757-lotus-simulator-module-rails-of-lotus.json) |
@@ -10267,7 +10261,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Rhythm | 126420 | [126420-love-rhythm.json](./126420-love-rhythm.json) |
 | Love Ribbon | 30410 | [30410-love-ribbon.json](./30410-love-ribbon.json) |
 | Love Ritmo | 112258 | [112258-love-ritmo.json](./112258-love-ritmo.json) |
-| Love ritual | 105352 | [105352-love-ritual.json](./105352-love-ritual.json) |
 | Love Rocket | 297135 | [297135-love-rocket.json](./297135-love-rocket.json) |
 | Love Root Zero Kiss Kiss Labyrinth | 221733 | [221733-love-root-zero-kiss-kiss-labyrinth.json](./221733-love-root-zero-kiss-kiss-labyrinth.json) |
 | Love Season | 173859 | [173859-love-season.json](./173859-love-season.json) |
