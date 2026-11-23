@@ -1769,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Tom Jetski 2 | 103092 | [103092-talking-tom-jetski-2.json](./103092-talking-tom-jetski-2.json) |
 | Talking Tom Pool | 87043 | [87043-talking-tom-pool.json](./87043-talking-tom-pool.json) |
 | Talking Tom Time Rush | 232034 | [232034-talking-tom-time-rush.json](./232034-talking-tom-time-rush.json) |
+| TalkMan | 23141 | [23141-talkman.json](./23141-talkman.json) |
 | Talkman Travel | 92721 | [92721-talkman-travel.json](./92721-talkman-travel.json) |
 | Talks With My Mom | 181746 | [181746-talks-with-my-mom.json](./181746-talks-with-my-mom.json) |
 | Talksport Interactive Quiz | 320902 | [320902-talksport-interactive-quiz.json](./320902-talksport-interactive-quiz.json) |
@@ -5949,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thanksgiving | 184573 | [184573-thanksgiving.json](./184573-thanksgiving.json) |
 | Thanksgiving Day Griddlers | 103784 | [103784-thanksgiving-day-griddlers.json](./103784-thanksgiving-day-griddlers.json) |
 | Thanksgiving Day Mosaic | 104343 | [104343-thanksgiving-day-mosaic.json](./104343-thanksgiving-day-mosaic.json) |
+| Thanksgiving: Tidy up Together | 431031 | [431031-thanksgiving-tidy-up-together.json](./431031-thanksgiving-tidy-up-together.json) |
 | Thanksgivingistry | 55656 | [55656-thanksgivingistry.json](./55656-thanksgivingistry.json) |
 | ThanksKilling Day | 223452 | [223452-thankskilling-day.json](./223452-thankskilling-day.json) |
 | ThanksTaking | 211534 | [211534-thankstaking.json](./211534-thankstaking.json) |
@@ -17634,6 +17636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Professional (Farming & Forestry) | 138082 | [138082-the-professional-farming-and-forestry.json](./138082-the-professional-farming-and-forestry.json) |
 | The Professor | 351483 | [351483-the-professor.json](./351483-the-professor.json) |
 | The Professor Presents: Got Handles? | 28937 | [28937-the-professor-presents-got-handles.json](./28937-the-professor-presents-got-handles.json) |
+| The Professor's Brain Trainer: Logic | 23107 | [23107-the-professors-brain-trainer-logic.json](./23107-the-professors-brain-trainer-logic.json) |
 | The Project Mars | 123294 | [123294-the-project-mars.json](./123294-the-project-mars.json) |
 | The Project Mars 2 | 123295 | [123295-the-project-mars-2.json](./123295-the-project-mars-2.json) |
 | The Project Mars 2+3 | 125927 | [125927-the-project-mars-2-3.json](./125927-the-project-mars-2-3.json) |
@@ -18747,6 +18750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets of Atlantis: The Sacred Legacy | 19458 | [19458-the-secrets-of-atlantis-the-sacred-legacy.json](./19458-the-secrets-of-atlantis-the-sacred-legacy.json) |
 | The Secrets of Bharas | 356874 | [356874-the-secrets-of-bharas.json](./356874-the-secrets-of-bharas.json) |
 | The Secrets of Da Vinci | 101024 | [101024-the-secrets-of-da-vinci.json](./101024-the-secrets-of-da-vinci.json) |
+| The Secrets of Da Vinci: The Forbidden Manuscript | 23145 | [23145-the-secrets-of-da-vinci-the-forbidden-manuscript.json](./23145-the-secrets-of-da-vinci-the-forbidden-manuscript.json) |
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
 | The Secrets of Hosea Freeman | 62691 | [62691-the-secrets-of-hosea-freeman.json](./62691-the-secrets-of-hosea-freeman.json) |
 | The Secrets of Jesus | 122495 | [122495-the-secrets-of-jesus.json](./122495-the-secrets-of-jesus.json) |
@@ -26361,6 +26365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilt | 100102 | [100102-tilt.json](./100102-tilt.json) |
 | Tilt | 197294 | [197294-tilt.json](./197294-tilt.json) |
 | Tilt | 286132 | [286132-tilt.json](./286132-tilt.json) |
+| Tilt | 429442 | [429442-tilt.json](./429442-tilt.json) |
 | Tilt | 77727 | [77727-tilt.json](./77727-tilt.json) |
 | Tilt and Roll | 219890 | [219890-tilt-and-roll.json](./219890-tilt-and-roll.json) |
 | Tilt Brush | 36215 | [36215-tilt-brush.json](./36215-tilt-brush.json) |
@@ -27412,6 +27417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tiles | 205195 | [205195-tiny-tiles.json](./205195-tiny-tiles.json) |
 | Tiny Tim | 312272 | [312272-tiny-tim.json](./312272-tiny-tim.json) |
 | Tiny Tim's Tremendous Tank | 66255 | [66255-tiny-tims-tremendous-tank.json](./66255-tiny-tims-tremendous-tank.json) |
+| Tiny Time Travelers | 431023 | [431023-tiny-time-travelers.json](./431023-tiny-time-travelers.json) |
 | Tiny Time Travellers | 122119 | [122119-tiny-time-travellers.json](./122119-tiny-time-travellers.json) |
 | Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure | 180298 | [180298-tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure.json](./180298-tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure.json) |
 | Tiny Tina's Wonderlands: Chaotic Great Edition | 169160 | [169160-tiny-tinas-wonderlands-chaotic-great-edition.json](./169160-tiny-tinas-wonderlands-chaotic-great-edition.json) |
@@ -27835,6 +27841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNN Motorsports Hardcore TR | 34707 | [34707-tnn-motorsports-hardcore-tr.json](./34707-tnn-motorsports-hardcore-tr.json) |
 | TNN Outdoors Bass Tournament '96 | 46244 | [46244-tnn-outdoors-bass-tournament-96.json](./46244-tnn-outdoors-bass-tournament-96.json) |
 | TNN Outdoors Fishing Champ | 49994 | [49994-tnn-outdoors-fishing-champ.json](./49994-tnn-outdoors-fishing-champ.json) |
+| TNN Outdoors Pro Hunter | 23150 | [23150-tnn-outdoors-pro-hunter.json](./23150-tnn-outdoors-pro-hunter.json) |
 | TNN Outdoors Pro Hunter 2 | 119397 | [119397-tnn-outdoors-pro-hunter-2.json](./119397-tnn-outdoors-pro-hunter-2.json) |
 | TNT 2: Devilution | 280913 | [280913-tnt-2-devilution.json](./280913-tnt-2-devilution.json) |
 | TNT Goes Boom! | 269661 | [269661-tnt-goes-boom.json](./269661-tnt-goes-boom.json) |
@@ -37509,6 +37516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumor Necrosis Factor: Amen | 386716 | [386716-tumor-necrosis-factor-amen.json](./386716-tumor-necrosis-factor-amen.json) |
 | Tump Jump | 211372 | [211372-tump-jump.json](./211372-tump-jump.json) |
 | Tums: Battle of the Burn | 61430 | [61430-tums-battle-of-the-burn.json](./61430-tums-battle-of-the-burn.json) |
+| Tún | 431030 | [431030-tun.json](./431030-tun.json) |
 | Tun Shi Tian Di III | 330523 | [330523-tun-shi-tian-di-iii.json](./330523-tun-shi-tian-di-iii.json) |
 | Tun Town | 68866 | [68866-tun-town.json](./68866-tun-town.json) |
 | Tun Town 2 | 92327 | [92327-tun-town-2.json](./92327-tun-town-2.json) |
