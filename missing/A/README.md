@@ -6728,6 +6728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Alien | 359197 | [359197-airborne-alien.json](./359197-airborne-alien.json) |
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
 | Airborne Assault: Conquest of the Aegean | 72759 | [72759-airborne-assault-conquest-of-the-aegean.json](./72759-airborne-assault-conquest-of-the-aegean.json) |
+| Airborne Assault: Highway to Reich | 23751 | [23751-airborne-assault-highway-to-reich.json](./23751-airborne-assault-highway-to-reich.json) |
 | Airborne Assault: Red Devils Over Arnhem | 73907 | [73907-airborne-assault-red-devils-over-arnhem.json](./73907-airborne-assault-red-devils-over-arnhem.json) |
 | Airborne Bundle | 249596 | [249596-airborne-bundle.json](./249596-airborne-bundle.json) |
 | Airborne Empire | 252769 | [252769-airborne-empire.json](./252769-airborne-empire.json) |
@@ -17708,6 +17709,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asher | 33483 | [33483-asher.json](./33483-asher.json) |
 | Asher Descent | 405612 | [405612-asher-descent.json](./405612-asher-descent.json) |
 | Asheron's Call | 603 | [603-asherons-call.json](./603-asherons-call.json) |
+| Asheron's Call 2: Fallen Kings | 23737 | [23737-asherons-call-2-fallen-kings.json](./23737-asherons-call-2-fallen-kings.json) |
+| Asheron's Call 2: Legions | 23738 | [23738-asherons-call-2-legions.json](./23738-asherons-call-2-legions.json) |
 | Asheron's Call: Dark Majesty | 23735 | [23735-asherons-call-dark-majesty.json](./23735-asherons-call-dark-majesty.json) |
 | Asheron's Call: Throne of Destiny | 23736 | [23736-asherons-call-throne-of-destiny.json](./23736-asherons-call-throne-of-destiny.json) |
 | Ashes | 295163 | [295163-ashes.json](./295163-ashes.json) |
