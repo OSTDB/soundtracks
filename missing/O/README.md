@@ -3893,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenJade: Prince of Persia - The Sands of Time | 426035 | [426035-openjade-prince-of-persia-the-sands-of-time.json](./426035-openjade-prince-of-persia-the-sands-of-time.json) |
 | OpenJade: Prince of Persia - The Two Thrones | 426037 | [426037-openjade-prince-of-persia-the-two-thrones.json](./426037-openjade-prince-of-persia-the-two-thrones.json) |
 | OpenJade: Prince of Persia - Warrior Within | 426036 | [426036-openjade-prince-of-persia-warrior-within.json](./426036-openjade-prince-of-persia-warrior-within.json) |
+| OpenLara | 428028 | [428028-openlara.json](./428028-openlara.json) |
 | Openlid | 257193 | [257193-openlid.json](./257193-openlid.json) |
 | OpenLoco | 138233 | [138233-openloco.json](./138233-openloco.json) |
 | OpenMadoola | 403283 | [403283-openmadoola.json](./403283-openmadoola.json) |
