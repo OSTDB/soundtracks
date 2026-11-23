@@ -6441,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Your Girlfriend | 179754 | [179754-find-your-girlfriend.json](./179754-find-your-girlfriend.json) |
 | Find Your IF | 305349 | [305349-find-your-if.json](./305349-find-your-if.json) |
 | Find Your Own Way Home | 10320 | [10320-find-your-own-way-home.json](./10320-find-your-own-way-home.json) |
+| Find Your Way | 98709 | [98709-find-your-way.json](./98709-find-your-way.json) |
 | Find Your Way Home: Last Flight | 374502 | [374502-find-your-way-home-last-flight.json](./374502-find-your-way-home-last-flight.json) |
 | Find Your Way: Episode 1 | 171925 | [171925-find-your-way-episode-1.json](./171925-find-your-way-episode-1.json) |
 | Find Your Wings | 214273 | [214273-find-your-wings.json](./214273-find-your-wings.json) |
@@ -10169,6 +10170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlyMe2theMoon | 214827 | [214827-flyme2themoon.json](./214827-flyme2themoon.json) |
 | Flynalny 2018 | 88131 | [88131-flynalny-2018.json](./88131-flynalny-2018.json) |
 | Flynguin Station | 121006 | [121006-flynguin-station.json](./121006-flynguin-station.json) |
+| Flynn & Freckles | 97346 | [97346-flynn-and-freckles.json](./97346-flynn-and-freckles.json) |
 | Flyon RC | 406173 | [406173-flyon-rc.json](./406173-flyon-rc.json) |
 | Flyonoid | 122971 | [122971-flyonoid.json](./122971-flyonoid.json) |
 | FlyOrDie GemJam | 79952 | [79952-flyordie-gemjam.json](./79952-flyordie-gemjam.json) |
@@ -11465,6 +11467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForeVR Darts | 185735 | [185735-forevr-darts.json](./185735-forevr-darts.json) |
 | ForeVR Pool | 225735 | [225735-forevr-pool.json](./225735-forevr-pool.json) |
 | Forewarned | 157027 | [157027-forewarned.json](./157027-forewarned.json) |
+| Forex Trading Master: Simulator | 111000 | [111000-forex-trading-master-simulator.json](./111000-forex-trading-master-simulator.json) |
 | Forfeit | 217359 | [217359-forfeit.json](./217359-forfeit.json) |
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
 | Forg Want Love | 427024 | [427024-forg-want-love.json](./427024-forg-want-love.json) |
