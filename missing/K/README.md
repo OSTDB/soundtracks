@@ -5111,7 +5111,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knife Quest | 133148 | [133148-knife-quest.json](./133148-knife-quest.json) |
 | Knife road | 122434 | [122434-knife-road.json](./122434-knife-road.json) |
 | Knife Rush | 104093 | [104093-knife-rush.json](./104093-knife-rush.json) |
-| Knife Sisters | 110158 | [110158-knife-sisters.json](./110158-knife-sisters.json) |
 | Knife to Meet You | 159062 | [159062-knife-to-meet-you.json](./159062-knife-to-meet-you.json) |
 | Knife vs Fruit: Just Shoot It! | 102650 | [102650-knife-vs-fruit-just-shoot-it.json](./102650-knife-vs-fruit-just-shoot-it.json) |
 | Knifeboy | 113261 | [113261-knifeboy.json](./113261-knifeboy.json) |
