@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pain Pain Go Away! | 368738 | [368738-pain-pain-go-away.json](./368738-pain-pain-go-away.json) |
 | Pain Party | 164077 | [164077-pain-party.json](./164077-pain-party.json) |
 | Pain Train | 29911 | [29911-pain-train.json](./29911-pain-train.json) |
+| Pain Train 2 | 29262 | [29262-pain-train-2.json](./29262-pain-train-2.json) |
 | Pain Train PainPocalypse | 52776 | [52776-pain-train-painpocalypse.json](./52776-pain-train-painpocalypse.json) |
 | Pain-T | 361288 | [361288-pain-t.json](./361288-pain-t.json) |
 | Pain-to-win | 83972 | [83972-pain-to-win.json](./83972-pain-to-win.json) |
@@ -10261,6 +10262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Clicker | 314244 | [314244-pizza-clicker.json](./314244-pizza-clicker.json) |
 | Pizza Clickers | 343973 | [343973-pizza-clickers.json](./343973-pizza-clickers.json) |
 | Pizza Connection 2 | 27590 | [27590-pizza-connection-2.json](./27590-pizza-connection-2.json) |
+| Pizza Connection 3 | 29142 | [29142-pizza-connection-3.json](./29142-pizza-connection-3.json) |
 | Pizza Connection 3: Pizza Creator | 55564 | [55564-pizza-connection-3-pizza-creator.json](./55564-pizza-connection-3-pizza-creator.json) |
 | Pizza Connection Bundle | 260023 | [260023-pizza-connection-bundle.json](./260023-pizza-connection-bundle.json) |
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
@@ -11534,6 +11536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Hold Me | 132556 | [132556-please-hold-me.json](./132556-please-hold-me.json) |
 | Please Ignore The Anomalies | 412277 | [412277-please-ignore-the-anomalies.json](./412277-please-ignore-the-anomalies.json) |
 | Please Insert Disc | 298080 | [298080-please-insert-disc.json](./298080-please-insert-disc.json) |
+| Please Knock on My Door | 29064 | [29064-please-knock-on-my-door.json](./29064-please-knock-on-my-door.json) |
 | Please Knock: Before Entering My Room | 327552 | [327552-please-knock-before-entering-my-room.json](./327552-please-knock-before-entering-my-room.json) |
 | Please Leave a Message | 259577 | [259577-please-leave-a-message.json](./259577-please-leave-a-message.json) |
 | Please Leave Me Alone | 301948 | [301948-please-leave-me-alone.json](./301948-please-leave-me-alone.json) |
@@ -15521,6 +15524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power | 164447 | [164447-power.json](./164447-power.json) |
 | Power | 368681 | [368681-power.json](./368681-power.json) |
 | Power (of) Metal | 199599 | [199599-power-of-metal.json](./199599-power-of-metal.json) |
+| Power & Revolution | 32695 | [32695-power-and-revolution.json](./32695-power-and-revolution.json) |
 | Power & Revolution 2020 Edition: 2016 Scenarios | 168106 | [168106-power-and-revolution-2020-edition-2016-scenarios.json](./168106-power-and-revolution-2020-edition-2016-scenarios.json) |
 | Power & Revolution 2020 Edition: 2017 Scenarios | 168100 | [168100-power-and-revolution-2020-edition-2017-scenarios.json](./168100-power-and-revolution-2020-edition-2017-scenarios.json) |
 | Power & Revolution 2020 Edition: 2018 Scenarios | 168102 | [168102-power-and-revolution-2020-edition-2018-scenarios.json](./168102-power-and-revolution-2020-edition-2018-scenarios.json) |
@@ -16959,6 +16963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PrincessGuardiansParodyH | 118343 | [118343-princessguardiansparodyh.json](./118343-princessguardiansparodyh.json) |
 | Principal Panic | 360839 | [360839-principal-panic.json](./360839-principal-panic.json) |
 | Principia | 407911 | [407911-principia.json](./407911-principia.json) |
+| Principia: Master of Science | 32826 | [32826-principia-master-of-science.json](./32826-principia-master-of-science.json) |
 | Principle of Karma | 201447 | [201447-principle-of-karma.json](./201447-principle-of-karma.json) |
 | Principles of Evil: Volume II | 71272 | [71272-principles-of-evil-volume-ii.json](./71272-principles-of-evil-volume-ii.json) |
 | Pringles | 45559 | [45559-pringles.json](./45559-pringles.json) |
@@ -20833,6 +20838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puttler | 337379 | [337379-puttler.json](./337379-puttler.json) |
 | Puttsies | 429445 | [429445-puttsies.json](./429445-puttsies.json) |
 | Putty | 39022 | [39022-putty.json](./39022-putty.json) |
+| Putty Pals | 32866 | [32866-putty-pals.json](./32866-putty-pals.json) |
 | Putty Putter | 188896 | [188896-putty-putter.json](./188896-putty-putter.json) |
 | Putty Squad | 39021 | [39021-putty-squad.json](./39021-putty-squad.json) |
 | Putty Squad | 85584 | [85584-putty-squad.json](./85584-putty-squad.json) |
