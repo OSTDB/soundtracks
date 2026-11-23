@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Stock | 348369 | [348369-take-stock.json](./348369-take-stock.json) |
 | Take That | 108303 | [108303-take-that.json](./108303-take-that.json) |
 | Take That Mainstage! | 403373 | [403373-take-that-mainstage.json](./403373-take-that-mainstage.json) |
+| Take the Cake | 76290 | [76290-take-the-cake.json](./76290-take-the-cake.json) |
 | Take the Dream IX | 33887 | [33887-take-the-dream-ix.json](./33887-take-the-dream-ix.json) |
 | Take the Earth | 258439 | [258439-take-the-earth.json](./258439-take-the-earth.json) |
 | Take the King! | 270737 | [270737-take-the-king.json](./270737-take-the-king.json) |
@@ -4826,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tension | 93966 | [93966-tension.json](./93966-tension.json) |
 | Tensou Sentai Goseiger Super Battle Daishuugou! | 327603 | [327603-tensou-sentai-goseiger-super-battle-daishuugou.json](./327603-tensou-sentai-goseiger-super-battle-daishuugou.json) |
 | Tensura: King of Monsters | 142849 | [142849-tensura-king-of-monsters.json](./142849-tensura-king-of-monsters.json) |
+| Tenta Shooter | 76057 | [76057-tenta-shooter.json](./76057-tenta-shooter.json) |
 | Tentacaliens: Making Ends Meet in a New World | 370741 | [370741-tentacaliens-making-ends-meet-in-a-new-world.json](./370741-tentacaliens-making-ends-meet-in-a-new-world.json) |
 | TentaCat: The Lost Lineage | 285894 | [285894-tentacat-the-lost-lineage.json](./285894-tentacat-the-lost-lineage.json) |
 | Tentacle Fight | 97740 | [97740-tentacle-fight.json](./97740-tentacle-fight.json) |
@@ -17758,6 +17760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quarantine Sector | 371429 | [371429-the-quarantine-sector.json](./371429-the-quarantine-sector.json) |
 | The Quarry: '50s Throwback Character Outfits | 224517 | [224517-the-quarry-50s-throwback-character-outfits.json](./224517-the-quarry-50s-throwback-character-outfits.json) |
 | The Quarry: Deluxe Edition | 197608 | [197608-the-quarry-deluxe-edition.json](./197608-the-quarry-deluxe-edition.json) |
+| The Quarter Game | 75951 | [75951-the-quarter-game.json](./75951-the-quarter-game.json) |
 | The Quartet on Ice | 255634 | [255634-the-quartet-on-ice.json](./255634-the-quartet-on-ice.json) |
 | The Qubit Factory | 359151 | [359151-the-qubit-factory.json](./359151-the-qubit-factory.json) |
 | The Queen and the Dragon | 315784 | [315784-the-queen-and-the-dragon.json](./315784-the-queen-and-the-dragon.json) |
@@ -19186,6 +19189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: Pets | 192109 | [192109-the-sims-2-pets.json](./192109-the-sims-2-pets.json) |
 | The Sims 2: Pets | 225 | [225-the-sims-2-pets.json](./225-the-sims-2-pets.json) |
 | The Sims 2: Pets | 286683 | [286683-the-sims-2-pets.json](./286683-the-sims-2-pets.json) |
+| The Sims 2: Super Collection | 77215 | [77215-the-sims-2-super-collection.json](./77215-the-sims-2-super-collection.json) |
 | The Sims 2: Teen Style Stuff | 13133 | [13133-the-sims-2-teen-style-stuff.json](./13133-the-sims-2-teen-style-stuff.json) |
 | The Sims 2: Ultimate Collection | 45113 | [45113-the-sims-2-ultimate-collection.json](./45113-the-sims-2-ultimate-collection.json) |
 | The Sims 2: University | 13126 | [13126-the-sims-2-university.json](./13126-the-sims-2-university.json) |
@@ -37619,6 +37623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnels & Trolls | 40920 | [40920-tunnels-and-trolls.json](./40920-tunnels-and-trolls.json) |
 | Tunnels & Trolls: Crusaders of Khazan | 73874 | [73874-tunnels-and-trolls-crusaders-of-khazan.json](./73874-tunnels-and-trolls-crusaders-of-khazan.json) |
 | Tunnels of Armageddon | 71808 | [71808-tunnels-of-armageddon.json](./71808-tunnels-of-armageddon.json) |
+| Tunnels of Despair | 76581 | [76581-tunnels-of-despair.json](./76581-tunnels-of-despair.json) |
 | Tunnels of Doom | 44378 | [44378-tunnels-of-doom.json](./44378-tunnels-of-doom.json) |
 | Tunnels of Fahad | 74765 | [74765-tunnels-of-fahad.json](./74765-tunnels-of-fahad.json) |
 | Tunnels of Terror | 291338 | [291338-tunnels-of-terror.json](./291338-tunnels-of-terror.json) |
