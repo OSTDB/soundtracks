@@ -3310,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Happy Few: Deluxe Edition | 90296 | [90296-we-happy-few-deluxe-edition.json](./90296-we-happy-few-deluxe-edition.json) |
 | We Happy Few: Digital Deluxe Edition | 225471 | [225471-we-happy-few-digital-deluxe-edition.json](./225471-we-happy-few-digital-deluxe-edition.json) |
 | We Happy Few: Lightbearer | 121153 | [121153-we-happy-few-lightbearer.json](./121153-we-happy-few-lightbearer.json) |
+| We Happy Few: They Came From Below | 116682 | [116682-we-happy-few-they-came-from-below.json](./116682-we-happy-few-they-came-from-below.json) |
 | We Happy Few: Uncle Jack Live VR | 106852 | [106852-we-happy-few-uncle-jack-live-vr.json](./106852-we-happy-few-uncle-jack-live-vr.json) |
 | We Happy Few: We All Fall Down | 126173 | [126173-we-happy-few-we-all-fall-down.json](./126173-we-happy-few-we-all-fall-down.json) |
 | We Happy Restaurant | 319241 | [319241-we-happy-restaurant.json](./319241-we-happy-restaurant.json) |
@@ -3614,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed County | 130117 | [130117-weed-county.json](./130117-weed-county.json) |
 | Weed Drug Empire | 340864 | [340864-weed-drug-empire.json](./340864-weed-drug-empire.json) |
 | Weed Farmer | 200201 | [200201-weed-farmer.json](./200201-weed-farmer.json) |
+| Weed Farmer Simulator | 128479 | [128479-weed-farmer-simulator.json](./128479-weed-farmer-simulator.json) |
 | Weed Firm 2: Back to College | 99222 | [99222-weed-firm-2-back-to-college.json](./99222-weed-firm-2-back-to-college.json) |
 | Weed Firm: Replanted | 408490 | [408490-weed-firm-replanted.json](./408490-weed-firm-replanted.json) |
 | Weed Garden Online | 374623 | [374623-weed-garden-online.json](./374623-weed-garden-online.json) |
