@@ -8159,6 +8159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richest Thief | 369360 | [369360-richest-thief.json](./369360-richest-thief.json) |
 | Richie the Gnome: Treasure Hunter | 106943 | [106943-richie-the-gnome-treasure-hunter.json](./106943-richie-the-gnome-treasure-hunter.json) |
 | Richie the Gnome: Underground Treasures | 62096 | [62096-richie-the-gnome-underground-treasures.json](./62096-richie-the-gnome-underground-treasures.json) |
+| Richie's Plank Experience | 26449 | [26449-richies-plank-experience.json](./26449-richies-plank-experience.json) |
 | RichMan 11 | 220664 | [220664-richman-11.json](./220664-richman-11.json) |
 | Richman 2 | 125446 | [125446-richman-2.json](./125446-richman-2.json) |
 | Richman 3 | 125447 | [125447-richman-3.json](./125447-richman-3.json) |
@@ -8220,6 +8221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet Girls | 362865 | [362865-ricochet-girls.json](./362865-ricochet-girls.json) |
 | Ricochet Gun | 239536 | [239536-ricochet-gun.json](./239536-ricochet-gun.json) |
 | Ricochet HD | 52708 | [52708-ricochet-hd.json](./52708-ricochet-hd.json) |
+| Ricochet Infinity | 23820 | [23820-ricochet-infinity.json](./23820-ricochet-infinity.json) |
 | Ricochet Kills | 383201 | [383201-ricochet-kills.json](./383201-ricochet-kills.json) |
 | Ricochet Kills 2 | 235241 | [235241-ricochet-kills-2.json](./235241-ricochet-kills-2.json) |
 | Ricochet Kills: Noir | 29397 | [29397-ricochet-kills-noir.json](./29397-ricochet-kills-noir.json) |
