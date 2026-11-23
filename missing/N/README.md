@@ -8082,7 +8082,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notes of Hearts | 251296 | [251296-notes-of-hearts.json](./251296-notes-of-hearts.json) |
 | Notes of my silence | 247702 | [247702-notes-of-my-silence.json](./247702-notes-of-my-silence.json) |
 | Notes of Obsession | 56895 | [56895-notes-of-obsession.json](./56895-notes-of-obsession.json) |
-| Notes of Soul | 113343 | [113343-notes-of-soul.json](./113343-notes-of-soul.json) |
 | Notes of the Outskirts | 262255 | [262255-notes-of-the-outskirts.json](./262255-notes-of-the-outskirts.json) |
 | Notes of the Young Lady: In Turbulent Times | 237716 | [237716-notes-of-the-young-lady-in-turbulent-times.json](./237716-notes-of-the-young-lady-in-turbulent-times.json) |
 | Notes on a Mystery | 301474 | [301474-notes-on-a-mystery.json](./301474-notes-on-a-mystery.json) |
