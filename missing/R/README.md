@@ -8124,6 +8124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rice Lake Flolf Course Remaster | 397475 | [397475-rice-lake-flolf-course-remaster.json](./397475-rice-lake-flolf-course-remaster.json) |
 | RICE: Repetitive Indie Combat Experience | 233692 | [233692-rice-repetitive-indie-combat-experience.json](./233692-rice-repetitive-indie-combat-experience.json) |
 | RiceCakers | 106164 | [106164-ricecakers.json](./106164-ricecakers.json) |
+| Ricerca VR | 32884 | [32884-ricerca-vr.json](./32884-ricerca-vr.json) |
 | Rich City | 298112 | [298112-rich-city.json](./298112-rich-city.json) |
 | Rich Code | 96231 | [96231-rich-code.json](./96231-rich-code.json) |
 | Rich Dad Simulator | 247904 | [247904-rich-dad-simulator.json](./247904-rich-dad-simulator.json) |
@@ -8963,6 +8964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripples | 239315 | [239315-ripples.json](./239315-ripples.json) |
 | Ripples | 256696 | [256696-ripples.json](./256696-ripples.json) |
 | Ripshot | 158041 | [158041-ripshot.json](./158041-ripshot.json) |
+| Riptale | 28313 | [28313-riptale.json](./28313-riptale.json) |
 | Riptale: Deluxe Edition | 53509 | [53509-riptale-deluxe-edition.json](./53509-riptale-deluxe-edition.json) |
 | Riptide | 291236 | [291236-riptide.json](./291236-riptide.json) |
 | Riptide GP | 21607 | [21607-riptide-gp.json](./21607-riptide-gp.json) |
@@ -13855,6 +13857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin Hunter Raichi | 392456 | [392456-ruin-hunter-raichi.json](./392456-ruin-hunter-raichi.json) |
 | Ruin Hunters | 149270 | [149270-ruin-hunters.json](./149270-ruin-hunters.json) |
 | Ruin of the Fae Realm | 312314 | [312314-ruin-of-the-fae-realm.json](./312314-ruin-of-the-fae-realm.json) |
+| Ruin of the Reckless | 28240 | [28240-ruin-of-the-reckless.json](./28240-ruin-of-the-reckless.json) |
 | Ruin or Victory | 190926 | [190926-ruin-or-victory.json](./190926-ruin-or-victory.json) |
 | Ruin Raiders | 132787 | [132787-ruin-raiders.json](./132787-ruin-raiders.json) |
 | RUIN: 35th Anniversary - Definitive Edition | 424040 | [424040-ruin-35th-anniversary-definitive-edition.json](./424040-ruin-35th-anniversary-definitive-edition.json) |
