@@ -8349,6 +8349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix It: Home Improvement | 124987 | [124987-fix-it-home-improvement.json](./124987-fix-it-home-improvement.json) |
 | Fix It: Home Improvement Challenge | 50962 | [50962-fix-it-home-improvement-challenge.json](./50962-fix-it-home-improvement-challenge.json) |
 | Fix it: The Handyman Simulator | 193571 | [193571-fix-it-the-handyman-simulator.json](./193571-fix-it-the-handyman-simulator.json) |
+| Fix Me Fix You | 29301 | [29301-fix-me-fix-you.json](./29301-fix-me-fix-you.json) |
 | Fix Me Up Doc!: Dark Humor | 260933 | [260933-fix-me-up-doc-dark-humor.json](./260933-fix-me-up-doc-dark-humor.json) |
 | Fix Me Up: Hospital Edition | 199691 | [199691-fix-me-up-hospital-edition.json](./199691-fix-me-up-hospital-edition.json) |
 | Fix My Car: Classic Muscle | 96833 | [96833-fix-my-car-classic-muscle.json](./96833-fix-my-car-classic-muscle.json) |
