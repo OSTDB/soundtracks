@@ -6466,6 +6466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Blaster Ages 4-6 | 58816 | [58816-math-blaster-ages-4-6.json](./58816-math-blaster-ages-4-6.json) |
 | Math Blaster Ages 6-8 | 250608 | [250608-math-blaster-ages-6-8.json](./250608-math-blaster-ages-6-8.json) |
 | Math Blaster Ages 8-9 | 59342 | [59342-math-blaster-ages-8-9.json](./59342-math-blaster-ages-8-9.json) |
+| Math Blaster HyperBlast 2 HD | 93652 | [93652-math-blaster-hyperblast-2-hd.json](./93652-math-blaster-hyperblast-2-hd.json) |
 | Math Blaster in the Prime Adventure | 47927 | [47927-math-blaster-in-the-prime-adventure.json](./47927-math-blaster-in-the-prime-adventure.json) |
 | Math Blaster Jr. | 129397 | [129397-math-blaster-jr.json](./129397-math-blaster-jr.json) |
 | Math Blaster Mystery | 129504 | [129504-math-blaster-mystery.json](./129504-math-blaster-mystery.json) |
@@ -17455,6 +17456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momogatari | 258526 | [258526-momogatari.json](./258526-momogatari.json) |
 | Momogical | 181683 | [181683-momogical.json](./181683-momogical.json) |
 | Momoinc | 204662 | [204662-momoinc.json](./204662-momoinc.json) |
+| Momoiro Closet | 95173 | [95173-momoiro-closet.json](./95173-momoiro-closet.json) |
 | Momoiro Nurse | 97623 | [97623-momoiro-nurse.json](./97623-momoiro-nurse.json) |
 | Momoiro Okami no Honoka-san: Ikenai, O-mo-te-na-shi | 416025 | [416025-momoiro-okami-no-honoka-san-ikenai-o-mo-te-na-shi.json](./416025-momoiro-okami-no-honoka-san-ikenai-o-mo-te-na-shi.json) |
 | Momoiro Senki | 97392 | [97392-momoiro-senki.json](./97392-momoiro-senki.json) |
