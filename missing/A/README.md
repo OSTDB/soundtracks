@@ -14610,6 +14610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Satan of Saturn | 415720 | [415720-arcade-archives-2-satan-of-saturn.json](./415720-arcade-archives-2-satan-of-saturn.json) |
 | Arcade Archives 2: Scion | 375698 | [375698-arcade-archives-2-scion.json](./375698-arcade-archives-2-scion.json) |
 | Arcade Archives 2: Scrambled Egg | 364071 | [364071-arcade-archives-2-scrambled-egg.json](./364071-arcade-archives-2-scrambled-egg.json) |
+| Arcade Archives 2: Shot Rider | 429336 | [429336-arcade-archives-2-shot-rider.json](./429336-arcade-archives-2-shot-rider.json) |
 | Arcade Archives 2: Space Cyclone | 407268 | [407268-arcade-archives-2-space-cyclone.json](./407268-arcade-archives-2-space-cyclone.json) |
 | Arcade Archives 2: Space Invaders Part II | 385155 | [385155-arcade-archives-2-space-invaders-part-ii.json](./385155-arcade-archives-2-space-invaders-part-ii.json) |
 | Arcade Archives 2: Stinger | 423652 | [423652-arcade-archives-2-stinger.json](./423652-arcade-archives-2-stinger.json) |
@@ -20138,6 +20139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Titan 2: Skill Demonstration | 171696 | [171696-attack-on-titan-2-skill-demonstration.json](./171696-attack-on-titan-2-skill-demonstration.json) |
 | Attack on Titan 2: Treasure Box - Limited Edition | 212312 | [212312-attack-on-titan-2-treasure-box-limited-edition.json](./212312-attack-on-titan-2-treasure-box-limited-edition.json) |
 | Attack on Titan 2: White Out | 171694 | [171694-attack-on-titan-2-white-out.json](./171694-attack-on-titan-2-white-out.json) |
+| Attack on Titan 3: Digital Deluxe Edition | 429328 | [429328-attack-on-titan-3-digital-deluxe-edition.json](./429328-attack-on-titan-3-digital-deluxe-edition.json) |
 | Attack on Titan Tactics | 117518 | [117518-attack-on-titan-tactics.json](./117518-attack-on-titan-tactics.json) |
 | Attack on Titan the Game | 405643 | [405643-attack-on-titan-the-game.json](./405643-attack-on-titan-the-game.json) |
 | Attack on Titan Tribute Game | 79394 | [79394-attack-on-titan-tribute-game.json](./79394-attack-on-titan-tribute-game.json) |
