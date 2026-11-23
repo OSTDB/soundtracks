@@ -12819,6 +12819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Ties | 78714 | [78714-blood-ties.json](./78714-blood-ties.json) |
 | Blood Ties: A Hidden Object Game with a Bite | 206143 | [206143-blood-ties-a-hidden-object-game-with-a-bite.json](./206143-blood-ties-a-hidden-object-game-with-a-bite.json) |
 | Blood to Bone | 281382 | [281382-blood-to-bone.json](./281382-blood-to-bone.json) |
+| Blood Trail | 115819 | [115819-blood-trail.json](./115819-blood-trail.json) |
 | Blood Trains | 130662 | [130662-blood-trains.json](./130662-blood-trains.json) |
 | Blood Typers | 298445 | [298445-blood-typers.json](./298445-blood-typers.json) |
 | Blood Under the Bridge | 202263 | [202263-blood-under-the-bridge.json](./202263-blood-under-the-bridge.json) |
@@ -20467,6 +20468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buntasy | 247796 | [247796-buntasy.json](./247796-buntasy.json) |
 | Bunte Märchenträume | 201621 | [201621-bunte-marchentraume.json](./201621-bunte-marchentraume.json) |
 | Buoy Boy | 233768 | [233768-buoy-boy.json](./233768-buoy-boy.json) |
+| Buoyancy | 115347 | [115347-buoyancy.json](./115347-buoyancy.json) |
 | Buoyant | 120608 | [120608-buoyant.json](./120608-buoyant.json) |
 | Bupcraft Mod | 313086 | [313086-bupcraft-mod.json](./313086-bupcraft-mod.json) |
 | Bura: The Way the Wind Blows | 217361 | [217361-bura-the-way-the-wind-blows.json](./217361-bura-the-way-the-wind-blows.json) |
