@@ -2370,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rasetsu Fumaden | 207676 | [207676-rasetsu-fumaden.json](./207676-rasetsu-fumaden.json) |
 | Rasetsu Fuumaden | 153051 | [153051-rasetsu-fuumaden.json](./153051-rasetsu-fuumaden.json) |
 | Rasetsu Xan | 200868 | [200868-rasetsu-xan.json](./200868-rasetsu-xan.json) |
+| Rash Decision | 426291 | [426291-rash-decision.json](./426291-rash-decision.json) |
 | Rashness | 185390 | [185390-rashness.json](./185390-rashness.json) |
 | Rashomon | 135602 | [135602-rashomon.json](./135602-rashomon.json) |
 | Rashomon of Shinjuku | 225314 | [225314-rashomon-of-shinjuku.json](./225314-rashomon-of-shinjuku.json) |
