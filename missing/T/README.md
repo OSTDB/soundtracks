@@ -15430,7 +15430,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Land of Bahía Blanca | 406792 | [406792-the-lost-land-of-bahia-blanca.json](./406792-the-lost-land-of-bahia-blanca.json) |
 | The Lost Lands: Dinosaur Hunter | 208006 | [208006-the-lost-lands-dinosaur-hunter.json](./208006-the-lost-lands-dinosaur-hunter.json) |
 | The Lost Legends of Redwall : The Miner | 83016 | [83016-the-lost-legends-of-redwall-the-miner.json](./83016-the-lost-legends-of-redwall-the-miner.json) |
-| The Lost Legends of Redwall: Escape the Gloomer | 111724 | [111724-the-lost-legends-of-redwall-escape-the-gloomer.json](./111724-the-lost-legends-of-redwall-escape-the-gloomer.json) |
 | The Lost Legends of Redwall: Feasts & Friends | 280511 | [280511-the-lost-legends-of-redwall-feasts-and-friends.json](./280511-the-lost-legends-of-redwall-feasts-and-friends.json) |
 | The Lost Legends of Redwall: The Scout - Act 2 | 171665 | [171665-the-lost-legends-of-redwall-the-scout-act-2.json](./171665-the-lost-legends-of-redwall-the-scout-act-2.json) |
 | The Lost Legends of Redwall: The Scout - Act 3 | 171612 | [171612-the-lost-legends-of-redwall-the-scout-act-3.json](./171612-the-lost-legends-of-redwall-the-scout-act-3.json) |
