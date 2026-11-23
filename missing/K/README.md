@@ -6749,6 +6749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kriophobia | 50164 | [50164-kriophobia.json](./50164-kriophobia.json) |
 | Kris Kringle's Christmas Village VR | 170623 | [170623-kris-kringles-christmas-village-vr.json](./170623-kris-kringles-christmas-village-vr.json) |
 | Kris Kross: Make My Video | 46417 | [46417-kris-kross-make-my-video.json](./46417-kris-kross-make-my-video.json) |
+| Krisenstab | 426899 | [426899-krisenstab.json](./426899-krisenstab.json) |
 | Krishna Legends | 130665 | [130665-krishna-legends.json](./130665-krishna-legends.json) |
 | Krispain Hero | 219454 | [219454-krispain-hero.json](./219454-krispain-hero.json) |
 | Krispain Hero VR: Roguelite Dungeon Shooter Simulator | 282144 | [282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json](./282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json) |
