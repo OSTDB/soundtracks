@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machines at War 3 | 17485 | [17485-machines-at-war-3.json](./17485-machines-at-war-3.json) |
 | Machines Have Lucid Dreams | 210334 | [210334-machines-have-lucid-dreams.json](./210334-machines-have-lucid-dreams.json) |
 | Machines of Madness | 263032 | [263032-machines-of-madness.json](./263032-machines-of-madness.json) |
+| Machinicide | 196962 | [196962-machinicide.json](./196962-machinicide.json) |
 | Machinika Museum | 163777 | [163777-machinika-museum.json](./163777-machinika-museum.json) |
 | Machinika: Atlas | 290865 | [290865-machinika-atlas.json](./290865-machinika-atlas.json) |
 | Machinist | 208096 | [208096-machinist.json](./208096-machinist.json) |
@@ -4163,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MareScape | 312964 | [312964-marescape.json](./312964-marescape.json) |
 | Marewell Peak | 420821 | [420821-marewell-peak.json](./420821-marewell-peak.json) |
 | Marfa | 337039 | [337039-marfa.json](./337039-marfa.json) |
+| Marfusha: Sentinel Girls | 143638 | [143638-marfusha-sentinel-girls.json](./143638-marfusha-sentinel-girls.json) |
 | Margaret's Little Shop of Wonders | 251944 | [251944-margarets-little-shop-of-wonders.json](./251944-margarets-little-shop-of-wonders.json) |
 | Margaret's Sin | 332149 | [332149-margarets-sin.json](./332149-margarets-sin.json) |
 | Margareta | 182810 | [182810-margareta.json](./182810-margareta.json) |
@@ -17871,6 +17873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochrome Heaven | 198309 | [198309-monochrome-heaven.json](./198309-monochrome-heaven.json) |
 | Monochrome Heights | 258053 | [258053-monochrome-heights.json](./258053-monochrome-heights.json) |
 | Monochrome Mapping Project | 313857 | [313857-monochrome-mapping-project.json](./313857-monochrome-mapping-project.json) |
+| Monochrome Mobius: Rights and Wrongs Forgotten | 198438 | [198438-monochrome-mobius-rights-and-wrongs-forgotten.json](./198438-monochrome-mobius-rights-and-wrongs-forgotten.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten - Deluxe Edition | 247196 | [247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json](./247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten - Limited Edition | 201046 | [201046-monochrome-mobius-rights-and-wrongs-forgotten-limited-edition.json](./201046-monochrome-mobius-rights-and-wrongs-forgotten-limited-edition.json) |
 | Monochrome Nemesis | 329803 | [329803-monochrome-nemesis.json](./329803-monochrome-nemesis.json) |
@@ -21179,6 +21182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Out 2: F.A.R.Tastic Four Pack | 261858 | [261858-moving-out-2-f-a-r-tastic-four-pack.json](./261858-moving-out-2-f-a-r-tastic-four-pack.json) |
 | Moving Out: Deluxe Edition | 224202 | [224202-moving-out-deluxe-edition.json](./224202-moving-out-deluxe-edition.json) |
 | Moving Out: Digital Deluxe Edition | 186548 | [186548-moving-out-digital-deluxe-edition.json](./186548-moving-out-digital-deluxe-edition.json) |
+| Moving Out: Movers in Paradise | 143880 | [143880-moving-out-movers-in-paradise.json](./143880-moving-out-movers-in-paradise.json) |
 | Moving Out: The Employees of the Month Pack | 223729 | [223729-moving-out-the-employees-of-the-month-pack.json](./223729-moving-out-the-employees-of-the-month-pack.json) |
 | Moving parts | 271221 | [271221-moving-parts.json](./271221-moving-parts.json) |
 | Moving Pieces | 427584 | [427584-moving-pieces.json](./427584-moving-pieces.json) |
