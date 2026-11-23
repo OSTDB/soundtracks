@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletop Survivors | 423358 | [423358-tabletop-survivors.json](./423358-tabletop-survivors.json) |
 | Tabletop Tavern | 373282 | [373282-tabletop-tavern.json](./373282-tabletop-tavern.json) |
 | Tabletop Towers | 95778 | [95778-tabletop-towers.json](./95778-tabletop-towers.json) |
+| Tabletop Tumult | 427484 | [427484-tabletop-tumult.json](./427484-tabletop-tumult.json) |
 | Tabletop Warriors | 190884 | [190884-tabletop-warriors.json](./190884-tabletop-warriors.json) |
 | Tabletopia | 34469 | [34469-tabletopia.json](./34469-tabletopia.json) |
 | Tabletopia: Altiplano | 162874 | [162874-tabletopia-altiplano.json](./162874-tabletopia-altiplano.json) |
@@ -23307,6 +23308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is hard for me | 176255 | [176255-this-is-hard-for-me.json](./176255-this-is-hard-for-me.json) |
 | This is Hell | 221356 | [221356-this-is-hell.json](./221356-this-is-hell.json) |
 | This Is How U Look Saying This Shit | 277597 | [277597-this-is-how-u-look-saying-this-shit.json](./277597-this-is-how-u-look-saying-this-shit.json) |
+| This Is Ikebukuro | 427489 | [427489-this-is-ikebukuro.json](./427489-this-is-ikebukuro.json) |
 | This is Infinity | 199137 | [199137-this-is-infinity.json](./199137-this-is-infinity.json) |
 | This is Interesting | 338943 | [338943-this-is-interesting.json](./338943-this-is-interesting.json) |
 | This is Just the Beginning | 356309 | [356309-this-is-just-the-beginning.json](./356309-this-is-just-the-beginning.json) |
@@ -27797,6 +27799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tkl Online | 36106 | [36106-tkl-online.json](./36106-tkl-online.json) |
 | TKO | 78914 | [78914-tko.json](./78914-tko.json) |
 | TKO Super Championship Boxing | 42440 | [42440-tko-super-championship-boxing.json](./42440-tko-super-championship-boxing.json) |
+| TLA Tactics | 427501 | [427501-tla-tactics.json](./427501-tla-tactics.json) |
 | Tlatoani | 319114 | [319114-tlatoani.json](./319114-tlatoani.json) |
 | TLC Game BR | 292449 | [292449-tlc-game-br.json](./292449-tlc-game-br.json) |
 | Tlen Kray | 256810 | [256810-tlen-kray.json](./256810-tlen-kray.json) |
