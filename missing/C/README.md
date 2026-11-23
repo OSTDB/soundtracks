@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calamity | 303719 | [303719-calamity.json](./303719-calamity.json) |
 | Calamity | 313596 | [313596-calamity.json](./313596-calamity.json) |
 | Calamity | 364103 | [364103-calamity.json](./364103-calamity.json) |
+| Calamity Angels: Special Delivery | 293165 | [293165-calamity-angels-special-delivery.json](./293165-calamity-angels-special-delivery.json) |
 | Calamity Angels: Special Delivery - Digital Deluxe Edition | 391861 | [391861-calamity-angels-special-delivery-digital-deluxe-edition.json](./391861-calamity-angels-special-delivery-digital-deluxe-edition.json) |
 | Calamity Annie | 72689 | [72689-calamity-annie.json](./72689-calamity-annie.json) |
 | Calamity Black Dragon and the Princess of Lies | 365199 | [365199-calamity-black-dragon-and-the-princess-of-lies.json](./365199-calamity-black-dragon-and-the-princess-of-lies.json) |
@@ -5035,6 +5036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catan Universe | 28278 | [28278-catan-universe.json](./28278-catan-universe.json) |
 | Catan VR | 56868 | [56868-catan-vr.json](./56868-catan-vr.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
+| Catan: Console Edition | 220832 | [220832-catan-console-edition.json](./220832-catan-console-edition.json) |
 | Catan: Console Edition - Championship Maps | 275050 | [275050-catan-console-edition-championship-maps.json](./275050-catan-console-edition-championship-maps.json) |
 | Catan: Console Edition - Cities & Knights | 288309 | [288309-catan-console-edition-cities-and-knights.json](./288309-catan-console-edition-cities-and-knights.json) |
 | Catan: Console Edition - Complete Collection | 303803 | [303803-catan-console-edition-complete-collection.json](./303803-catan-console-edition-complete-collection.json) |
@@ -9836,6 +9838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronime Puzzle: Cats | 416969 | [416969-chronime-puzzle-cats.json](./416969-chronime-puzzle-cats.json) |
 | Chronime Puzzle: Dogs | 418572 | [418572-chronime-puzzle-dogs.json](./418572-chronime-puzzle-dogs.json) |
 | Chronime Puzzle: Girls | 407844 | [407844-chronime-puzzle-girls.json](./407844-chronime-puzzle-girls.json) |
+| Chronique des Silencieux | 218671 | [218671-chronique-des-silencieux.json](./218671-chronique-des-silencieux.json) |
 | Chroniric | 107251 | [107251-chroniric.json](./107251-chroniric.json) |
 | Chronis | 394957 | [394957-chronis.json](./394957-chronis.json) |
 | Chrono | 112964 | [112964-chrono.json](./112964-chrono.json) |
@@ -11422,6 +11425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class of Heroes 2G: Remastered Edition | 277624 | [277624-class-of-heroes-2g-remastered-edition.json](./277624-class-of-heroes-2g-remastered-edition.json) |
 | Class of Heroes 3 | 65563 | [65563-class-of-heroes-3.json](./65563-class-of-heroes-3.json) |
 | Class of Heroes 3: Remaster | 325303 | [325303-class-of-heroes-3-remaster.json](./325303-class-of-heroes-3-remaster.json) |
+| Class of Heroes: Anniversary Edition | 220942 | [220942-class-of-heroes-anniversary-edition.json](./220942-class-of-heroes-anniversary-edition.json) |
 | Class of Heroes: The Ultimate Trilogy | 368772 | [368772-class-of-heroes-the-ultimate-trilogy.json](./368772-class-of-heroes-the-ultimate-trilogy.json) |
 | Class of the Living Dead | 231428 | [231428-class-of-the-living-dead.json](./231428-class-of-the-living-dead.json) |
 | Class of the Titans | 417807 | [417807-class-of-the-titans.json](./417807-class-of-the-titans.json) |
@@ -16336,6 +16340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra | 186207 | [186207-contra.json](./186207-contra.json) |
 | Contra | 186208 | [186208-contra.json](./186208-contra.json) |
 | Contra | 186226 | [186226-contra.json](./186226-contra.json) |
+| Contra | 217544 | [217544-contra.json](./217544-contra.json) |
 | Contra | 262140 | [262140-contra.json](./262140-contra.json) |
 | Contra | 262141 | [262141-contra.json](./262141-contra.json) |
 | Contra 4 | 9545 | [9545-contra-4.json](./9545-contra-4.json) |
@@ -17221,6 +17226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpo/Ghost | 291785 | [291785-corpo-ghost.json](./291785-corpo-ghost.json) |
 | CorpoBots | 247831 | [247831-corpobots.json](./247831-corpobots.json) |
 | Corpoct | 121991 | [121991-corpoct.json](./121991-corpoct.json) |
+| CorpoNation: The Sorting Process | 219744 | [219744-corponation-the-sorting-process.json](./219744-corponation-the-sorting-process.json) |
 | Corporate 0 | 411123 | [411123-corporate-0.json](./411123-corporate-0.json) |
 | Corporate America | 123780 | [123780-corporate-america.json](./123780-corporate-america.json) |
 | Corporate Beatdown | 303430 | [303430-corporate-beatdown.json](./303430-corporate-beatdown.json) |
@@ -22576,6 +22582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuddle Corner | 360729 | [360729-cuddle-corner.json](./360729-cuddle-corner.json) |
 | Cuddle Kobold: Just a Bite! | 358610 | [358610-cuddle-kobold-just-a-bite.json](./358610-cuddle-kobold-just-a-bite.json) |
 | Cuddly Cuburt | 367195 | [367195-cuddly-cuburt.json](./367195-cuddly-cuburt.json) |
+| Cuddly Forest Friends | 222944 | [222944-cuddly-forest-friends.json](./222944-cuddly-forest-friends.json) |
 | Cue Academy | 61545 | [61545-cue-academy.json](./61545-cue-academy.json) |
 | Cue Breakers | 90342 | [90342-cue-breakers.json](./90342-cue-breakers.json) |
 | Cue Brick | 39638 | [39638-cue-brick.json](./39638-cue-brick.json) |
