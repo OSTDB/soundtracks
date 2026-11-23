@@ -10080,6 +10080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi.io | 194016 | [194016-shinobi-io.json](./194016-shinobi-io.json) |
 | Shinobi's Way - a jigsaw chess tale | 148262 | [148262-shinobis-way-a-jigsaw-chess-tale.json](./148262-shinobis-way-a-jigsaw-chess-tale.json) |
 | Shinobido 2: Revenge of Zen | 10900 | [10900-shinobido-2-revenge-of-zen.json](./10900-shinobido-2-revenge-of-zen.json) |
+| Shinobido: Tales of the Ninja | 23108 | [23108-shinobido-tales-of-the-ninja.json](./23108-shinobido-tales-of-the-ninja.json) |
 | Shinobido: Way of the Ninja | 10899 | [10899-shinobido-way-of-the-ninja.json](./10899-shinobido-way-of-the-ninja.json) |
 | Shinobit | 181784 | [181784-shinobit.json](./181784-shinobit.json) |
 | Shinobu | 220778 | [220778-shinobu.json](./220778-shinobu.json) |
@@ -18758,6 +18759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sodatete! Mushiking | 198649 | [198649-sodatete-mushiking.json](./198649-sodatete-mushiking.json) |
 | Sodden | 301236 | [301236-sodden.json](./301236-sodden.json) |
 | Sodium One | 45282 | [45282-sodium-one.json](./45282-sodium-one.json) |
+| Sodoku | 429427 | [429427-sodoku.json](./429427-sodoku.json) |
 | Sodomy Fatale | 402679 | [402679-sodomy-fatale.json](./402679-sodomy-fatale.json) |
 | Sodsud | 183664 | [183664-sodsud.json](./183664-sodsud.json) |
 | SOE 64 | 401866 | [401866-soe-64.json](./401866-soe-64.json) |
@@ -19989,6 +19991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Silence: Crownless King Expansion | 402542 | [402542-songs-of-silence-crownless-king-expansion.json](./402542-songs-of-silence-crownless-king-expansion.json) |
 | Songs of Silence: Firstborn Supporter Upgrade | 426545 | [426545-songs-of-silence-firstborn-supporter-upgrade.json](./426545-songs-of-silence-firstborn-supporter-upgrade.json) |
 | Songs of Silence: Lighteaters | 330642 | [330642-songs-of-silence-lighteaters.json](./330642-songs-of-silence-lighteaters.json) |
+| Songs of Silence: Year 1 Champions Frame | 429410 | [429410-songs-of-silence-year-1-champions-frame.json](./429410-songs-of-silence-year-1-champions-frame.json) |
 | Songs of Skydale | 119032 | [119032-songs-of-skydale.json](./119032-songs-of-skydale.json) |
 | Songs of Steel: Hispania | 277369 | [277369-songs-of-steel-hispania.json](./277369-songs-of-steel-hispania.json) |
 | Songs of Syx | 123861 | [123861-songs-of-syx.json](./123861-songs-of-syx.json) |
@@ -24499,6 +24502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Journey | 220765 | [220765-speed-journey.json](./220765-speed-journey.json) |
 | Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
 | Speed Kayak | 251333 | [251333-speed-kayak.json](./251333-speed-kayak.json) |
+| Speed Kidd | 431082 | [431082-speed-kidd.json](./431082-speed-kidd.json) |
 | Speed Kills | 10837 | [10837-speed-kills.json](./10837-speed-kills.json) |
 | Speed King | 28571 | [28571-speed-king.json](./28571-speed-king.json) |
 | Speed King | 427770 | [427770-speed-king.json](./427770-speed-king.json) |
@@ -38959,6 +38963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superbike Racing | 54415 | [54415-superbike-racing.json](./54415-superbike-racing.json) |
 | SuperBike TT | 36013 | [36013-superbike-tt.json](./36013-superbike-tt.json) |
 | Superbike World Championship | 22823 | [22823-superbike-world-championship.json](./22823-superbike-world-championship.json) |
+| Superbikes Riding Challenge | 23130 | [23130-superbikes-riding-challenge.json](./23130-superbikes-riding-challenge.json) |
 | SuperBolt | 228174 | [228174-superbolt.json](./228174-superbolt.json) |
 | Superboss of the Turnabout | 308537 | [308537-superboss-of-the-turnabout.json](./308537-superboss-of-the-turnabout.json) |
 | Superbot Arena | 257979 | [257979-superbot-arena.json](./257979-superbot-arena.json) |
@@ -40101,6 +40106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors | 265811 | [265811-survivors.json](./265811-survivors.json) |
 | Survivors | 291906 | [291906-survivors.json](./291906-survivors.json) |
 | Survivors | 292413 | [292413-survivors.json](./292413-survivors.json) |
+| Survivors | 431051 | [431051-survivors.json](./431051-survivors.json) |
 | Survivors Dawn: Zombie World | 364787 | [364787-survivors-dawn-zombie-world.json](./364787-survivors-dawn-zombie-world.json) |
 | Survivors Gate | 390865 | [390865-survivors-gate.json](./390865-survivors-gate.json) |
 | Survivors Guild | 389352 | [389352-survivors-guild.json](./389352-survivors-guild.json) |
