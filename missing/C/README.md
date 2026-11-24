@@ -1403,7 +1403,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Escape Heartbreak? A Zodiac Story | 377809 | [377809-can-you-escape-heartbreak-a-zodiac-story.json](./377809-can-you-escape-heartbreak-a-zodiac-story.json) |
 | Can You Escape Love? A Zodiac Story | 377804 | [377804-can-you-escape-love-a-zodiac-story.json](./377804-can-you-escape-love-a-zodiac-story.json) |
 | Can You Escape Modern Office | 167290 | [167290-can-you-escape-modern-office.json](./167290-can-you-escape-modern-office.json) |
-| Can you escape prison: Portal PRO | 99703 | [99703-can-you-escape-prison-portal-pro.json](./99703-can-you-escape-prison-portal-pro.json) |
 | Can you escape Switzerland | 220050 | [220050-can-you-escape-switzerland.json](./220050-can-you-escape-switzerland.json) |
 | Can You Escape- Jail Break | 106550 | [106550-can-you-escape-jail-break.json](./106550-can-you-escape-jail-break.json) |
 | Can You Escape: Adventure | 70887 | [70887-can-you-escape-adventure.json](./70887-can-you-escape-adventure.json) |
@@ -2183,7 +2182,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Flying Robot | 90666 | [90666-captain-flying-robot.json](./90666-captain-flying-robot.json) |
 | Captain Forever | 29046 | [29046-captain-forever.json](./29046-captain-forever.json) |
 | Captain Forever Remix | 17360 | [17360-captain-forever-remix.json](./17360-captain-forever-remix.json) |
-| Captain Forever Trilogy | 100603 | [100603-captain-forever-trilogy.json](./100603-captain-forever-trilogy.json) |
 | Captain Frogger | 160199 | [160199-captain-frogger.json](./160199-captain-frogger.json) |
 | Captain Gazman: Day of the Rage | 207715 | [207715-captain-gazman-day-of-the-rage.json](./207715-captain-gazman-day-of-the-rage.json) |
 | Captain Goodnight and the Islands of Fear | 24698 | [24698-captain-goodnight-and-the-islands-of-fear.json](./24698-captain-goodnight-and-the-islands-of-fear.json) |
@@ -4849,7 +4847,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Rhapsody | 427483 | [427483-cat-rhapsody.json](./427483-cat-rhapsody.json) |
 | Cat Rooms: Sticker Decor! | 423864 | [423864-cat-rooms-sticker-decor.json](./423864-cat-rooms-sticker-decor.json) |
 | Cat Runner - Online Rush | 90321 | [90321-cat-runner-online-rush.json](./90321-cat-runner-online-rush.json) |
-| Cat Runner 2018 | 99414 | [99414-cat-runner-2018.json](./99414-cat-runner-2018.json) |
 | Cat Sandbox | 277738 | [277738-cat-sandbox.json](./277738-cat-sandbox.json) |
 | Cat Saves Halloween | 145233 | [145233-cat-saves-halloween.json](./145233-cat-saves-halloween.json) |
 | Cat Scratch | 59719 | [59719-cat-scratch.json](./59719-cat-scratch.json) |
@@ -5967,7 +5964,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CBT With Yuuka Kazami | 143220 | [143220-cbt-with-yuuka-kazami.json](./143220-cbt-with-yuuka-kazami.json) |
 | CBT With Yuuka Kazami: Getting Help With Patchouli Knowledge | 182247 | [182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json](./182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json) |
 | CC & SH Smash Hits | 74303 | [74303-cc-and-sh-smash-hits.json](./74303-cc-and-sh-smash-hits.json) |
-| CCCP Calls! | 100490 | [100490-cccp-calls.json](./100490-cccp-calls.json) |
 | CCG Deck Adventures Wild Arena | 232338 | [232338-ccg-deck-adventures-wild-arena.json](./232338-ccg-deck-adventures-wild-arena.json) |
 | CCO Car Crash Online Simulator | 293662 | [293662-cco-car-crash-online-simulator.json](./293662-cco-car-crash-online-simulator.json) |
 | CCSS07: 64 Squares of Purple | 330470 | [330470-ccss07-64-squares-of-purple.json](./330470-ccss07-64-squares-of-purple.json) |
@@ -13079,7 +13075,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coda | 383424 | [383424-coda.json](./383424-coda.json) |
 | Coddle Pets: Dragon Garden | 159022 | [159022-coddle-pets-dragon-garden.json](./159022-coddle-pets-dragon-garden.json) |
 | Code 3: Police Response | 149713 | [149713-code-3-police-response.json](./149713-code-3-police-response.json) |
-| Code 51: Mecha Arena | 99297 | [99297-code-51-mecha-arena.json](./99297-code-51-mecha-arena.json) |
 | Code 608 | 405968 | [405968-code-608.json](./405968-code-608.json) |
 | Code 9 | 55681 | [55681-code-9.json](./55681-code-9.json) |
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
@@ -13960,7 +13955,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Odyssey | 66294 | [66294-colony-odyssey.json](./66294-colony-odyssey.json) |
 | Colony on Mars | 81916 | [81916-colony-on-mars.json](./81916-colony-on-mars.json) |
 | Colony on the Run | 428775 | [428775-colony-on-the-run.json](./428775-colony-on-the-run.json) |
-| Colony Prospector | 99430 | [99430-colony-prospector.json](./99430-colony-prospector.json) |
 | Colony Ship: A Post-Earth Role Playing Game | 129128 | [129128-colony-ship-a-post-earth-role-playing-game.json](./129128-colony-ship-a-post-earth-role-playing-game.json) |
 | Colony Siege | 127192 | [127192-colony-siege.json](./127192-colony-siege.json) |
 | Colony Simulator | 187196 | [187196-colony-simulator.json](./187196-colony-simulator.json) |
@@ -14578,7 +14572,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorTris | 178620 | [178620-colortris.json](./178620-colortris.json) |
 | Coloruid | 409892 | [409892-coloruid.json](./409892-coloruid.json) |
 | Coloruid 2 | 101812 | [101812-coloruid-2.json](./101812-coloruid-2.json) |
-| ColorUs : My Coloring Books | 99401 | [99401-colorus-my-coloring-books.json](./99401-colorus-my-coloring-books.json) |
 | Colorvore | 115245 | [115245-colorvore.json](./115245-colorvore.json) |
 | Colorway Antics | 235796 | [235796-colorway-antics.json](./235796-colorway-antics.json) |
 | Colorwood Sort | 351671 | [351671-colorwood-sort.json](./351671-colorwood-sort.json) |
@@ -15275,7 +15268,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Community College Hero: All Things End | 211877 | [211877-community-college-hero-all-things-end.json](./211877-community-college-hero-all-things-end.json) |
 | Community College Hero: Fun and Games | 190049 | [190049-community-college-hero-fun-and-games.json](./190049-community-college-hero-fun-and-games.json) |
 | Community College Hero: Knowledge is Power | 102552 | [102552-community-college-hero-knowledge-is-power.json](./102552-community-college-hero-knowledge-is-power.json) |
-| Community College Hero: Knowledge is Power | 99058 | [99058-community-college-hero-knowledge-is-power.json](./99058-community-college-hero-knowledge-is-power.json) |
 | Community College Hero: Trial by Fire | 34205 | [34205-community-college-hero-trial-by-fire.json](./34205-community-college-hero-trial-by-fire.json) |
 | Community Garden | 68589 | [68589-community-garden.json](./68589-community-garden.json) |
 | Community Helpers Play & Learn | 88999 | [88999-community-helpers-play-and-learn.json](./88999-community-helpers-play-and-learn.json) |
@@ -17320,6 +17312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Carnival | 321302 | [321302-corpse-carnival.json](./321302-corpse-carnival.json) |
 | Corpse Carnival | 381484 | [381484-corpse-carnival.json](./381484-corpse-carnival.json) |
 | Corpse Castle | 138671 | [138671-corpse-castle.json](./138671-corpse-castle.json) |
+| Corpse City | 427534 | [427534-corpse-city.json](./427534-corpse-city.json) |
 | Corpse Clue | 176983 | [176983-corpse-clue.json](./176983-corpse-clue.json) |
 | Corpse Collector | 341676 | [341676-corpse-collector.json](./341676-corpse-collector.json) |
 | Corpse Craft | 63753 | [63753-corpse-craft.json](./63753-corpse-craft.json) |
@@ -18823,7 +18816,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft the World: Temples of 4 Elements | 124842 | [124842-craft-the-world-temples-of-4-elements.json](./124842-craft-the-world-temples-of-4-elements.json) |
 | Craft The World: Wonderwood | 333812 | [333812-craft-the-world-wonderwood.json](./333812-craft-the-world-wonderwood.json) |
 | Craft Tower | 224213 | [224213-craft-tower.json](./224213-craft-tower.json) |
-| Craft Warriors | 99109 | [99109-craft-warriors.json](./99109-craft-warriors.json) |
 | Craft Wars | 295763 | [295763-craft-wars.json](./295763-craft-wars.json) |
 | Craft World | 355479 | [355479-craft-world.json](./355479-craft-world.json) |
 | Craft Your Way | 370804 | [370804-craft-your-way.json](./370804-craft-your-way.json) |
@@ -20796,7 +20788,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Dating Adventure: Kasanari | 97732 | [97732-cross-dating-adventure-kasanari.json](./97732-cross-dating-adventure-kasanari.json) |
 | Cross Days | 92409 | [92409-cross-days.json](./92409-cross-days.json) |
 | Cross Death VR | 32215 | [32215-cross-death-vr.json](./32215-cross-death-vr.json) |
-| Cross Dressing Aniki | 99051 | [99051-cross-dressing-aniki.json](./99051-cross-dressing-aniki.json) |
 | Cross Dungeon | 274029 | [274029-cross-dungeon.json](./274029-cross-dungeon.json) |
 | Cross Edge Dash | 320956 | [320956-cross-edge-dash.json](./320956-cross-edge-dash.json) |
 | Cross Fingers | 232300 | [232300-cross-fingers.json](./232300-cross-fingers.json) |
