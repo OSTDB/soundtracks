@@ -1100,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Pirate Ships | 421765 | [421765-war-of-pirate-ships.json](./421765-war-of-pirate-ships.json) |
 | War of Power: The Last Fight | 115371 | [115371-war-of-power-the-last-fight.json](./115371-war-of-power-the-last-fight.json) |
 | War of Reproduction: Evolution | 403853 | [403853-war-of-reproduction-evolution.json](./403853-war-of-reproduction-evolution.json) |
+| War of Rights | 33953 | [33953-war-of-rights.json](./33953-war-of-rights.json) |
 | War of Roses | 177506 | [177506-war-of-roses.json](./177506-war-of-roses.json) |
 | War of Ships | 225895 | [225895-war-of-ships.json](./225895-war-of-ships.json) |
 | War of Sonria | 64154 | [64154-war-of-sonria.json](./64154-war-of-sonria.json) |
@@ -8472,6 +8473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonders of Waldwea | 355557 | [355557-wonders-of-waldwea.json](./355557-wonders-of-waldwea.json) |
 | Wonders Puzzle | 395314 | [395314-wonders-puzzle.json](./395314-wonders-puzzle.json) |
 | Wondership Q | 32287 | [32287-wondership-q.json](./32287-wondership-q.json) |
+| Wondershot | 33830 | [33830-wondershot.json](./33830-wondershot.json) |
 | Wondersnake | 245383 | [245383-wondersnake.json](./245383-wondersnake.json) |
 | Wonderstries | 365059 | [365059-wonderstries.json](./365059-wonderstries.json) |
 | Wonderstructs | 414612 | [414612-wonderstructs.json](./414612-wonderstructs.json) |
@@ -9572,6 +9574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Mystery | 230966 | [230966-world-of-mystery.json](./230966-world-of-mystery.json) |
 | World of Myths | 112493 | [112493-world-of-myths.json](./112493-world-of-myths.json) |
 | World of Naples | 223258 | [223258-world-of-naples.json](./223258-world-of-naples.json) |
+| World of One | 39012 | [39012-world-of-one.json](./39012-world-of-one.json) |
 | World of One: Holistic Edition | 52122 | [52122-world-of-one-holistic-edition.json](./52122-world-of-one-holistic-edition.json) |
 | World of Outlaws: Dirt Racing | 213356 | [213356-world-of-outlaws-dirt-racing.json](./213356-world-of-outlaws-dirt-racing.json) |
 | World of Outlaws: Dirt Racing - 23 Edition | 258258 | [258258-world-of-outlaws-dirt-racing-23-edition.json](./258258-world-of-outlaws-dirt-racing-23-edition.json) |
