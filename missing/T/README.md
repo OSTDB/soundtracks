@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactorius | 397994 | [397994-tactorius.json](./397994-tactorius.json) |
 | Tactris | 384800 | [384800-tactris.json](./384800-tactris.json) |
 | TacWars | 94881 | [94881-tacwars.json](./94881-tacwars.json) |
+| Tad the Lost Explorer and the Emerald Tablet | 204124 | [204124-tad-the-lost-explorer-and-the-emerald-tablet.json](./204124-tad-the-lost-explorer-and-the-emerald-tablet.json) |
 | Tad the Lost Explorer and the Emerald Tablet: Craziest and Madness Edition | 250359 | [250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json](./250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json) |
 | Tad-Bubble! | 376627 | [376627-tad-bubble.json](./376627-tad-bubble.json) |
 | TAD: That Alien Dude | 94060 | [94060-tad-that-alien-dude.json](./94060-tad-that-alien-dude.json) |
@@ -7643,6 +7644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blob | 94341 | [94341-the-blob.json](./94341-the-blob.json) |
 | The Blobjob | 261797 | [261797-the-blobjob.json](./261797-the-blobjob.json) |
 | The Blobs Fight | 99196 | [99196-the-blobs-fight.json](./99196-the-blobs-fight.json) |
+| The Block | 204712 | [204712-the-block.json](./204712-the-block.json) |
 | The Block Box | 114103 | [114103-the-block-box.json](./114103-the-block-box.json) |
 | The Blockade | 370877 | [370877-the-blockade.json](./370877-the-blockade.json) |
 | The Blockheads | 39213 | [39213-the-blockheads.json](./39213-the-blockheads.json) |
@@ -13179,6 +13181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Quadpack | 83774 | [83774-the-jackbox-party-quadpack.json](./83774-the-jackbox-party-quadpack.json) |
 | The Jackbox Party Quintpack | 112915 | [112915-the-jackbox-party-quintpack.json](./112915-the-jackbox-party-quintpack.json) |
 | The Jackbox Party Quintpack 2.0 | 287991 | [287991-the-jackbox-party-quintpack-2-0.json](./287991-the-jackbox-party-quintpack-2-0.json) |
+| The Jackbox Party Starter | 207095 | [207095-the-jackbox-party-starter.json](./207095-the-jackbox-party-starter.json) |
 | The Jackbox Party Trilogy | 82410 | [82410-the-jackbox-party-trilogy.json](./82410-the-jackbox-party-trilogy.json) |
 | The Jackbox Party Trilogy 2.0 | 135601 | [135601-the-jackbox-party-trilogy-2-0.json](./135601-the-jackbox-party-trilogy-2-0.json) |
 | The Jackbox Party Trilogy 3.0 | 251098 | [251098-the-jackbox-party-trilogy-3-0.json](./251098-the-jackbox-party-trilogy-3-0.json) |
@@ -35088,6 +35091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TraxWorld | 190167 | [190167-traxworld.json](./190167-traxworld.json) |
 | Traxx | 94505 | [94505-traxx.json](./94505-traxx.json) |
 | Traxxpad: Portable Studio | 71039 | [71039-traxxpad-portable-studio.json](./71039-traxxpad-portable-studio.json) |
+| Tray Racers! | 204540 | [204540-tray-racers.json](./204540-tray-racers.json) |
 | Tray Racers! Supporter's Pack | 243347 | [243347-tray-racers-supporters-pack.json](./243347-tray-racers-supporters-pack.json) |
 | Traysia | 397716 | [397716-traysia.json](./397716-traysia.json) |
 | Traysia | 46259 | [46259-traysia.json](./46259-traysia.json) |
