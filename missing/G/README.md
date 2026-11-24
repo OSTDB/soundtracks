@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal Guardians: Servants of the Dark | 317701 | [317701-gal-guardians-servants-of-the-dark.json](./317701-gal-guardians-servants-of-the-dark.json) |
 | Gal Gun: Double Peace | 185710 | [185710-gal-gun-double-peace.json](./185710-gal-gun-double-peace.json) |
 | Gal Gun: Double Peace Bilingal | 218892 | [218892-gal-gun-double-peace-bilingal.json](./218892-gal-gun-double-peace-bilingal.json) |
+| Gal Gunvolt Burst | 92038 | [92038-gal-gunvolt-burst.json](./92038-gal-gunvolt-burst.json) |
 | Gal Metal | 57142 | [57142-gal-metal.json](./57142-gal-metal.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Gal Pani | 423971 | [423971-gal-pani.json](./423971-gal-pani.json) |
@@ -6430,6 +6431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Nutz | 217271 | [217271-go-nutz.json](./217271-go-nutz.json) |
 | Go on Forever | 179322 | [179322-go-on-forever.json](./179322-go-on-forever.json) |
 | Go or Leave | 131695 | [131695-go-or-leave.json](./131695-go-or-leave.json) |
+| Go Outside Simulator | 111491 | [111491-go-outside-simulator.json](./111491-go-outside-simulator.json) |
 | Go Over the Edge | 235755 | [235755-go-over-the-edge.json](./235755-go-over-the-edge.json) |
 | Go Phish | 380970 | [380970-go-phish.json](./380970-go-phish.json) |
 | Go Plague Monkey! Go! | 60558 | [60558-go-plague-monkey-go.json](./60558-go-plague-monkey-go.json) |
