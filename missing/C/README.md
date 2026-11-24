@@ -14953,6 +14953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic 5trike | 148935 | [148935-comic-5trike.json](./148935-comic-5trike.json) |
 | Comic Bakery | 13831 | [13831-comic-bakery.json](./13831-comic-bakery.json) |
 | Comic Book Cody | 358545 | [358545-comic-book-cody.json](./358545-comic-book-cody.json) |
+| Comic Book Hero: The Greatest Cape | 33993 | [33993-comic-book-hero-the-greatest-cape.json](./33993-comic-book-hero-the-greatest-cape.json) |
 | Comic Book Legends | 259672 | [259672-comic-book-legends.json](./259672-comic-book-legends.json) |
 | Comic Book Store Simulator | 359699 | [359699-comic-book-store-simulator.json](./359699-comic-book-store-simulator.json) |
 | Comic Book Universe | 322774 | [322774-comic-book-universe.json](./322774-comic-book-universe.json) |
@@ -17493,6 +17494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cos-tte! Aki-san! vol.2 | 98460 | [98460-cos-tte-aki-san-vol-2.json](./98460-cos-tte-aki-san-vol-2.json) |
 | Cosa Nostra | 138939 | [138939-cosa-nostra.json](./138939-cosa-nostra.json) |
 | Cosa Nostra | 182863 | [182863-cosa-nostra.json](./182863-cosa-nostra.json) |
+| Cosa Nostra | 39108 | [39108-cosa-nostra.json](./39108-cosa-nostra.json) |
 | Cosdarica's Journey at the End of the World | 411506 | [411506-cosdaricas-journey-at-the-end-of-the-world.json](./411506-cosdaricas-journey-at-the-end-of-the-world.json) |
 | Cosette: The Untitled Game | 406445 | [406445-cosette-the-untitled-game.json](./406445-cosette-the-untitled-game.json) |
 | Cosh | 86589 | [86589-cosh.json](./86589-cosh.json) |
