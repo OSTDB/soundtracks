@@ -14980,6 +14980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skye in the Sky | 359416 | [359416-skye-in-the-sky.json](./359416-skye-in-the-sky.json) |
 | Skye Learning Watch | 237617 | [237617-skye-learning-watch.json](./237617-skye-learning-watch.json) |
 | Skye Revival | 329399 | [329399-skye-revival.json](./329399-skye-revival.json) |
+| Skye Tales | 204532 | [204532-skye-tales.json](./204532-skye-tales.json) |
 | Skye: The Misty Isle | 163459 | [163459-skye-the-misty-isle.json](./163459-skye-the-misty-isle.json) |
 | Skye's Repose | 413705 | [413705-skyes-repose.json](./413705-skyes-repose.json) |
 | Skyeisle Cube | 368584 | [368584-skyeisle-cube.json](./368584-skyeisle-cube.json) |
@@ -19208,6 +19209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier Blaster | 412972 | [412972-soldier-blaster.json](./412972-soldier-blaster.json) |
 | Soldier Boyz | 69225 | [69225-soldier-boyz.json](./69225-soldier-boyz.json) |
 | Soldier Collection | 62248 | [62248-soldier-collection.json](./62248-soldier-collection.json) |
+| Soldier Elite | 208901 | [208901-soldier-elite.json](./208901-soldier-elite.json) |
 | Soldier Force | 280689 | [280689-soldier-force.json](./280689-soldier-force.json) |
 | Soldier Front | 72854 | [72854-soldier-front.json](./72854-soldier-front.json) |
 | Soldier Front 2 | 63308 | [63308-soldier-front-2.json](./63308-soldier-front-2.json) |
@@ -25103,6 +25105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spherythm | 118456 | [118456-spherythm.json](./118456-spherythm.json) |
 | Sphex: Minimal Arcade Game | 307429 | [307429-sphex-minimal-arcade-game.json](./307429-sphex-minimal-arcade-game.json) |
 | Sphinx Adventure | 13760 | [13760-sphinx-adventure.json](./13760-sphinx-adventure.json) |
+| Sphinx and the Cursed Mummy | 210438 | [210438-sphinx-and-the-cursed-mummy.json](./210438-sphinx-and-the-cursed-mummy.json) |
 | Sphinx and the Cursed Mummy | 242998 | [242998-sphinx-and-the-cursed-mummy.json](./242998-sphinx-and-the-cursed-mummy.json) |
 | Sphinx Lowering | 229819 | [229819-sphinx-lowering.json](./229819-sphinx-lowering.json) |
 | Sphinx of Black Quartz Judge My Vow | 184736 | [184736-sphinx-of-black-quartz-judge-my-vow.json](./184736-sphinx-of-black-quartz-judge-my-vow.json) |
