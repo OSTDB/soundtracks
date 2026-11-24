@@ -3998,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Resident Evil - Sheva Alomar | 358418 | [358418-dead-by-daylight-resident-evil-sheva-alomar.json](./358418-dead-by-daylight-resident-evil-sheva-alomar.json) |
 | Dead by Daylight: Resident Evil Chapter | 152483 | [152483-dead-by-daylight-resident-evil-chapter.json](./152483-dead-by-daylight-resident-evil-chapter.json) |
 | Dead By Daylight: Resident Evil Collaboration Bundle | 212876 | [212876-dead-by-daylight-resident-evil-collaboration-bundle.json](./212876-dead-by-daylight-resident-evil-collaboration-bundle.json) |
+| Dead by Daylight: Roots of Dread | 203959 | [203959-dead-by-daylight-roots-of-dread.json](./203959-dead-by-daylight-roots-of-dread.json) |
 | Dead by Daylight: Sadako Rising Chapter | 195822 | [195822-dead-by-daylight-sadako-rising-chapter.json](./195822-dead-by-daylight-sadako-rising-chapter.json) |
 | Dead by Daylight: Shattered Bloodline Chapter | 129470 | [129470-dead-by-daylight-shattered-bloodline-chapter.json](./129470-dead-by-daylight-shattered-bloodline-chapter.json) |
 | Dead by Daylight: Silent Hill - Cybil Bennett | 358413 | [358413-dead-by-daylight-silent-hill-cybil-bennett.json](./358413-dead-by-daylight-silent-hill-cybil-bennett.json) |
@@ -6805,6 +6806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defoliation | 339509 | [339509-defoliation.json](./339509-defoliation.json) |
 | Deforb | 333464 | [333464-deforb.json](./333464-deforb.json) |
 | Deformed | 244248 | [244248-deformed.json](./244248-deformed.json) |
+| Deformers | 207118 | [207118-deformers.json](./207118-deformers.json) |
 | Deformity | 189854 | [189854-deformity.json](./189854-deformity.json) |
 | Deformuseum | 405485 | [405485-deformuseum.json](./405485-deformuseum.json) |
 | Defracted | 393231 | [393231-defracted.json](./393231-defracted.json) |
@@ -8515,6 +8517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Driller | 410454 | [410454-desktop-driller.json](./410454-desktop-driller.json) |
 | Desktop Dungeons Goatperson | 124916 | [124916-desktop-dungeons-goatperson.json](./124916-desktop-dungeons-goatperson.json) |
 | Desktop Dungeons: Enhanced Edition | 51752 | [51752-desktop-dungeons-enhanced-edition.json](./51752-desktop-dungeons-enhanced-edition.json) |
+| Desktop Dungeons: Rewind | 213510 | [213510-desktop-dungeons-rewind.json](./213510-desktop-dungeons-rewind.json) |
 | Desktop Explorer | 275251 | [275251-desktop-explorer.json](./275251-desktop-explorer.json) |
 | Desktop Factory | 426790 | [426790-desktop-factory.json](./426790-desktop-factory.json) |
 | Desktop Farm | 150447 | [150447-desktop-farm.json](./150447-desktop-farm.json) |
@@ -15734,6 +15737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Story of Season: Friends of the Great Kingdom - Winter Tales | 227156 | [227156-doraemon-story-of-season-friends-of-the-great-kingdom-winter-tales.json](./227156-doraemon-story-of-season-friends-of-the-great-kingdom-winter-tales.json) |
 | Doraemon Story of Seasons | 115286 | [115286-doraemon-story-of-seasons.json](./115286-doraemon-story-of-seasons.json) |
 | Doraemon Story of Seasons: FGK DLC Pack 3 | 240401 | [240401-doraemon-story-of-seasons-fgk-dlc-pack-3.json](./240401-doraemon-story-of-seasons-fgk-dlc-pack-3.json) |
+| Doraemon Story of Seasons: Friends of the Great Kingdom | 206815 | [206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json](./206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom - Deluxe Edition | 220902 | [220902-doraemon-story-of-seasons-friends-of-the-great-kingdom-deluxe-edition.json](./220902-doraemon-story-of-seasons-friends-of-the-great-kingdom-deluxe-edition.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom - FGK DLC 1 | 223793 | [223793-doraemon-story-of-seasons-friends-of-the-great-kingdom-fgk-dlc-1.json](./223793-doraemon-story-of-seasons-friends-of-the-great-kingdom-fgk-dlc-1.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom - Special Edition | 223792 | [223792-doraemon-story-of-seasons-friends-of-the-great-kingdom-special-edition.json](./223792-doraemon-story-of-seasons-friends-of-the-great-kingdom-special-edition.json) |
@@ -16915,6 +16919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragluttony | 190230 | [190230-dragluttony.json](./190230-dragluttony.json) |
 | Dragnet | 40861 | [40861-dragnet.json](./40861-dragnet.json) |
 | Drago Adventure | 295624 | [295624-drago-adventure.json](./295624-drago-adventure.json) |
+| Drago Noka | 203939 | [203939-drago-noka.json](./203939-drago-noka.json) |
 | DragoDino: A Dragon Adventure | 30363 | [30363-dragodino-a-dragon-adventure.json](./30363-dragodino-a-dragon-adventure.json) |
 | Dragomon Hunter | 26900 | [26900-dragomon-hunter.json](./26900-dragomon-hunter.json) |
 | Dragon | 216764 | [216764-dragon.json](./216764-dragon.json) |
@@ -20372,6 +20377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Norris Tales | 372044 | [372044-duck-norris-tales.json](./372044-duck-norris-tales.json) |
 | Duck Nukem: Four Feathers | 230210 | [230210-duck-nukem-four-feathers.json](./230210-duck-nukem-four-feathers.json) |
 | Duck on the Run | 174349 | [174349-duck-on-the-run.json](./174349-duck-on-the-run.json) |
+| Duck Paradox | 208209 | [208209-duck-paradox.json](./208209-duck-paradox.json) |
 | Duck Punt | 94339 | [94339-duck-punt.json](./94339-duck-punt.json) |
 | Duck Race | 142875 | [142875-duck-race.json](./142875-duck-race.json) |
 | Duck Run | 309375 | [309375-duck-run.json](./309375-duck-run.json) |
