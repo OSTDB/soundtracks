@@ -27096,6 +27096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinkerQuarry | 47231 | [47231-tinkerquarry.json](./47231-tinkerquarry.json) |
 | Tinkers' Construct | 232803 | [232803-tinkers-construct.json](./232803-tinkers-construct.json) |
 | TinkerTech | 310929 | [310929-tinkertech.json](./310929-tinkertech.json) |
+| Tinkertown | 133078 | [133078-tinkertown.json](./133078-tinkertown.json) |
 | Tinkertown x Among Us | 222931 | [222931-tinkertown-x-among-us.json](./222931-tinkertown-x-among-us.json) |
 | Tinkle Pit | 59666 | [59666-tinkle-pit.json](./59666-tinkle-pit.json) |
 | Tinkle: Zenimusume | 408508 | [408508-tinkle-zenimusume.json](./408508-tinkle-zenimusume.json) |
@@ -30170,6 +30171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Annihilation: Kingdoms - Iron Plague | 71852 | [71852-total-annihilation-kingdoms-iron-plague.json](./71852-total-annihilation-kingdoms-iron-plague.json) |
 | Total Annihilation: The Core Contingency | 71462 | [71462-total-annihilation-the-core-contingency.json](./71462-total-annihilation-the-core-contingency.json) |
 | Total Apocalypse | 273128 | [273128-total-apocalypse.json](./273128-total-apocalypse.json) |
+| Total Arcade Racing | 132563 | [132563-total-arcade-racing.json](./132563-total-arcade-racing.json) |
 | Total Assault: Zombie Massacre | 214109 | [214109-total-assault-zombie-massacre.json](./214109-total-assault-zombie-massacre.json) |
 | Total Backfire | 424374 | [424374-total-backfire.json](./424374-total-backfire.json) |
 | Total Battle | 112718 | [112718-total-battle.json](./112718-total-battle.json) |
@@ -30976,6 +30978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Soujinengi: The Genius of Sappheiros | 65194 | [65194-touhou-soujinengi-the-genius-of-sappheiros.json](./65194-touhou-soujinengi-the-genius-of-sappheiros.json) |
 | Touhou Soujinengi: Zansho | 210795 | [210795-touhou-soujinengi-zansho.json](./210795-touhou-soujinengi-zansho.json) |
 | Touhou Sousenkyou: Land of Oracular Zeitgeist | 406532 | [406532-touhou-sousenkyou-land-of-oracular-zeitgeist.json](./406532-touhou-sousenkyou-land-of-oracular-zeitgeist.json) |
+| Touhou Spell Bubble | 131922 | [131922-touhou-spell-bubble.json](./131922-touhou-spell-bubble.json) |
 | Touhou Spell Bubble: Akatsuki Records Song Pack | 209154 | [209154-touhou-spell-bubble-akatsuki-records-song-pack.json](./209154-touhou-spell-bubble-akatsuki-records-song-pack.json) |
 | Touhou Spell Bubble: Character Pack - Seija Kijin | 213800 | [213800-touhou-spell-bubble-character-pack-seija-kijin.json](./213800-touhou-spell-bubble-character-pack-seija-kijin.json) |
 | Touhou Spell Bubble: Character Pack - Suwako Moriya | 199866 | [199866-touhou-spell-bubble-character-pack-suwako-moriya.json](./199866-touhou-spell-bubble-character-pack-suwako-moriya.json) |
@@ -36374,6 +36377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trollface Quest: Video Games | 259447 | [259447-trollface-quest-video-games.json](./259447-trollface-quest-video-games.json) |
 | Trollface Quest: Video Memes & TV Shows | 259446 | [259446-trollface-quest-video-memes-and-tv-shows.json](./259446-trollface-quest-video-memes-and-tv-shows.json) |
 | Trollheim: Gnomes | 423849 | [423849-trollheim-gnomes.json](./423849-trollheim-gnomes.json) |
+| Trollhunters: Defenders of Arcadia | 133921 | [133921-trollhunters-defenders-of-arcadia.json](./133921-trollhunters-defenders-of-arcadia.json) |
 | Trollie Wallie | 59288 | [59288-trollie-wallie.json](./59288-trollie-wallie.json) |
 | Trollin el Corredor | 288350 | [288350-trollin-el-corredor.json](./288350-trollin-el-corredor.json) |
 | Trolling Bowling | 331320 | [331320-trolling-bowling.json](./331320-trolling-bowling.json) |
