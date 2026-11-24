@@ -4789,6 +4789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redacted Hired Gun | 204917 | [204917-redacted-hired-gun.json](./204917-redacted-hired-gun.json) |
 | Redacted Life | 124679 | [124679-redacted-life.json](./124679-redacted-life.json) |
 | Redacted: Genome | 287196 | [287196-redacted-genome.json](./287196-redacted-genome.json) |
+| Redactem | 27470 | [27470-redactem.json](./27470-redactem.json) |
 | Redaction | 223399 | [223399-redaction.json](./223399-redaction.json) |
 | Redactionary | 336303 | [336303-redactionary.json](./336303-redactionary.json) |
 | Redactle | 197384 | [197384-redactle.json](./197384-redactle.json) |
@@ -10699,6 +10700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Digger | 312986 | [312986-rock-digger.json](./312986-rock-digger.json) |
 | Rock Flipper | 332808 | [332808-rock-flipper.json](./332808-rock-flipper.json) |
 | Rock Garden Deluxe | 193542 | [193542-rock-garden-deluxe.json](./193542-rock-garden-deluxe.json) |
+| Rock God Tycoon | 27336 | [27336-rock-god-tycoon.json](./27336-rock-god-tycoon.json) |
 | Rock Gods Tap Tour | 58140 | [58140-rock-gods-tap-tour.json](./58140-rock-gods-tap-tour.json) |
 | Rock Gunner | 356621 | [356621-rock-gunner.json](./356621-rock-gunner.json) |
 | Rock Hero EXE 5 | 343008 | [343008-rock-hero-exe-5.json](./343008-rock-hero-exe-5.json) |
