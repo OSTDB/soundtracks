@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 3,939" src="https://img.shields.io/badge/soundtracks-3%2C939-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 3,456" src="https://img.shields.io/badge/games-3%2C456-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 370,691" src="https://img.shields.io/badge/missing-370%2C691-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 370,324" src="https://img.shields.io/badge/missing-370%2C324-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/eqqo"><img src="https://i.scdn.co/image/ab67616d0000b27334132295a831c635da248ca1" width="120" height="120" alt="" /></a><br /><sub><b>Eqqo</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/varius"><img src="https://i.scdn.co/image/ab67616d0000b273494e09674e917d92b2573af2" width="120" height="120" alt="" /></a><br /><sub><b>Varius</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/echoes-of-the-fey-the-last-sacrament"><img src="https://i.scdn.co/image/ab67616d0000b27338e4bed85ae1fed22f073c57" width="120" height="120" alt="" /></a><br /><sub><b>Echoes of the Fey: The Last Sacrament</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/to-light-ex-umbra"><img src="https://i.scdn.co/image/ab67616d0000b273078cf0c4ec6426bd668c28ff" width="120" height="120" alt="" /></a><br /><sub><b>To Light: Ex Umbra</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/nightstar-alliance"><img src="https://i.scdn.co/image/ab67616d0000b27349c9093044e638f22498c527" width="120" height="120" alt="" /></a><br /><sub><b>Nightstar: Alliance</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/gadgeteer"><img src="https://i.scdn.co/image/ab67616d0000b2735030e20eef3182055d98b4eb" width="120" height="120" alt="" /></a><br /><sub><b>Gadgeteer</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/sallys-salon-kiss-and-make-up"><img src="https://i.scdn.co/image/ab67616d0000b2732efb281e56a09f7ff3ce8d8f" width="120" height="120" alt="" /></a><br /><sub><b>Sally's Salon: Kiss &amp; Make-Up</b></sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/sallys-salon-kiss-and-make-up"><img src="https://i.scdn.co/image/ab67616d0000b2732efb281e56a09f7ff3ce8d8f" width="120" height="120" alt="" /></a><br /><sub><b>Sally's Salon: Kiss &amp; Make-Up</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/arkhangel-the-house-of-the-seven-stars"><img src="https://i.scdn.co/image/ab67616d0000b273bff69ab6aaec2adb708c9a10" width="120" height="120" alt="" /></a><br /><sub><b>Arkhangel: The House of the Seven Stars</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/crazy-soccer"><img src="https://i.scdn.co/image/ab67616d0000b2731b897e61cdcb8a2cf87a15b1" width="120" height="120" alt="" /></a><br /><sub><b>Crazy Soccer</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/ashi-lake-of-light"><img src="https://i.scdn.co/image/ab67616d0000b273e854f6b99de6b7b48dfef76a" width="120" height="120" alt="" /></a><br /><sub><b>Ashi: Lake of Light</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/planetary-dustoff"><img src="https://i.scdn.co/image/ab67616d0000b2733d7c99239568b0da7eacc4a9" width="120" height="120" alt="" /></a><br /><sub><b>Planetary Dustoff</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/dance-collider"><img src="https://i.scdn.co/image/ab67616d0000b27322a920630b0a7a756f3dbd85" width="120" height="120" alt="" /></a><br /><sub><b>Dance Collider</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/night-of-the-blood-moon"><img src="https://i.scdn.co/image/ab67616d0000b273993981805ae179f3c74c4cfd" width="120" height="120" alt="" /></a><br /><sub><b>Night of the Blood Moon</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (370,691 games).
+More in **[missing/](missing/README.md)** (370,324 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -103,4 +103,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,939 soundtracks &middot; last updated 2026-11-24T06:55:49.311Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,939 soundtracks &middot; last updated 2026-11-24T12:41:08.980Z</sub>
