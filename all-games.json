@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-24T05:45:55.292Z",
-  "total_soundtracks": 3937,
+  "generated_at": "2026-11-24T05:55:55.070Z",
+  "total_soundtracks": 3938,
   "games": [
     {
       "igdb_id": 292844,
@@ -48051,6 +48051,20 @@
         {
           "album_name": "VARIOUS DAYLIFE Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2KhDCeCfWIFLxXl7iwvcXY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 102308,
+      "game_name": "Varius",
+      "game_url": "https://ostdb.net/games/varius",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273494e09674e917d92b2573af2",
+      "albums": [
+        {
+          "album_name": "Varius Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7BSIoGKFj3DGtpYSexdmMA",
           "apple_music_url": "",
           "album_link_url": ""
         }
