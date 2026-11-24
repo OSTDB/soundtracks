@@ -20330,6 +20330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moshi Monsters: Buster's Lost Moshlings | 96897 | [96897-moshi-monsters-busters-lost-moshlings.json](./96897-moshi-monsters-busters-lost-moshlings.json) |
 | Moshi Monsters: Katsuma Unleashed | 23423 | [23423-moshi-monsters-katsuma-unleashed.json](./23423-moshi-monsters-katsuma-unleashed.json) |
 | Moshi Monsters: Moshling Zoo | 47892 | [47892-moshi-monsters-moshling-zoo.json](./47892-moshi-monsters-moshling-zoo.json) |
+| Moshi Monsters: Moshlings Theme Park | 47658 | [47658-moshi-monsters-moshlings-theme-park.json](./47658-moshi-monsters-moshlings-theme-park.json) |
 | Moshi Monsters: School of ROX | 230391 | [230391-moshi-monsters-school-of-rox.json](./230391-moshi-monsters-school-of-rox.json) |
 | Moshi Play | 381913 | [381913-moshi-play.json](./381913-moshi-play.json) |
 | Moshi, Kono Sekai ni Kami-sama ga Iru to Suru Naraba. | 131914 | [131914-moshi-kono-sekai-ni-kami-sama-ga-iru-to-suru-naraba.json](./131914-moshi-kono-sekai-ni-kami-sama-ga-iru-to-suru-naraba.json) |
@@ -22053,6 +22054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muhaboy | 317160 | [317160-muhaboy.json](./317160-muhaboy.json) |
 | Muhammad Ali | 228360 | [228360-muhammad-ali.json](./228360-muhammad-ali.json) |
 | Muhammad Ali Heavyweight Boxing | 288070 | [288070-muhammad-ali-heavyweight-boxing.json](./288070-muhammad-ali-heavyweight-boxing.json) |
+| Muhammad Ali Heavyweight Boxing | 46269 | [46269-muhammad-ali-heavyweight-boxing.json](./46269-muhammad-ali-heavyweight-boxing.json) |
 | Muhammad Ali: Puzzle King | 57914 | [57914-muhammad-ali-puzzle-king.json](./57914-muhammad-ali-puzzle-king.json) |
 | Muhe Space | 374902 | [374902-muhe-space.json](./374902-muhe-space.json) |
 | Mühle-Online | 84275 | [84275-muhle-online.json](./84275-muhle-online.json) |
