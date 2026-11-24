@@ -1484,7 +1484,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katuba's Poacher | 258232 | [258232-katubas-poacher.json](./258232-katubas-poacher.json) |
 | Katy & Bob: Safari Café | 91236 | [91236-katy-and-bob-safari-cafe.json](./91236-katy-and-bob-safari-cafe.json) |
 | Katy & Bob: Way Back Home | 54157 | [54157-katy-and-bob-way-back-home.json](./54157-katy-and-bob-way-back-home.json) |
-| Katy and Bob: Safari Cafe | 103882 | [103882-katy-and-bob-safari-cafe.json](./103882-katy-and-bob-safari-cafe.json) |
 | Katy Perry Revenge | 66038 | [66038-katy-perry-revenge.json](./66038-katy-perry-revenge.json) |
 | Katy Perry Revenge 2 | 66036 | [66036-katy-perry-revenge-2.json](./66036-katy-perry-revenge-2.json) |
 | Katyusha | 75917 | [75917-katyusha.json](./75917-katyusha.json) |
@@ -2245,7 +2244,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kevin Keegan's Player Manager | 42618 | [42618-kevin-keegans-player-manager.json](./42618-kevin-keegans-player-manager.json) |
 | Kevin Sheedy's AFL Coach 2002 | 79667 | [79667-kevin-sheedys-afl-coach-2002.json](./79667-kevin-sheedys-afl-coach-2002.json) |
 | Kevin Toms Football Star Manager | 362012 | [362012-kevin-toms-football-star-manager.json](./362012-kevin-toms-football-star-manager.json) |
-| Kevin Toms World Football Cup | 100887 | [100887-kevin-toms-world-football-cup.json](./100887-kevin-toms-world-football-cup.json) |
 | Kevin Van Dam Fishing | 91019 | [91019-kevin-van-dam-fishing.json](./91019-kevin-van-dam-fishing.json) |
 | Kevin Van Dam's Big Bass Challenge | 50969 | [50969-kevin-van-dams-big-bass-challenge.json](./50969-kevin-van-dams-big-bass-challenge.json) |
 | Kevin's Adventure | 174713 | [174713-kevins-adventure.json](./174713-kevins-adventure.json) |
@@ -2501,13 +2499,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick the Boss's Ass | 301977 | [301977-kick-the-bosss-ass.json](./301977-kick-the-bosss-ass.json) |
 | Kick the Brick | 103937 | [103937-kick-the-brick.json](./103937-kick-the-brick.json) |
 | Kick the Buddy | 23924 | [23924-kick-the-buddy.json](./23924-kick-the-buddy.json) |
-| Kick The Buddy - The Funny Kick Game | 100971 | [100971-kick-the-buddy-the-funny-kick-game.json](./100971-kick-the-buddy-the-funny-kick-game.json) |
 | Kick The Buddy 3D | 413473 | [413473-kick-the-buddy-3d.json](./413473-kick-the-buddy-3d.json) |
 | Kick the Buddy: Forever | 331673 | [331673-kick-the-buddy-forever.json](./331673-kick-the-buddy-forever.json) |
 | Kick The Buddy: No Mercy | 413474 | [413474-kick-the-buddy-no-mercy.json](./413474-kick-the-buddy-no-mercy.json) |
 | Kick the Buddy: Remastered | 212447 | [212447-kick-the-buddy-remastered.json](./212447-kick-the-buddy-remastered.json) |
 | Kick the Buddy: Second Kick | 230417 | [230417-kick-the-buddy-second-kick.json](./230417-kick-the-buddy-second-kick.json) |
-| Kick the Buddymann | 100846 | [100846-kick-the-buddymann.json](./100846-kick-the-buddymann.json) |
 | Kick the Piñata! | 415333 | [415333-kick-the-pinata.json](./415333-kick-the-pinata.json) |
 | Kick the Puppet | 112486 | [112486-kick-the-puppet.json](./112486-kick-the-puppet.json) |
 | Kick the Sumo-Smash the Buddy | 106084 | [106084-kick-the-sumo-smash-the-buddy.json](./106084-kick-the-sumo-smash-the-buddy.json) |
@@ -2742,7 +2738,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Puzzle - 2 in 1 Bundle | 231048 | [231048-kids-puzzle-2-in-1-bundle.json](./231048-kids-puzzle-2-in-1-bundle.json) |
 | Kids Puzzle Animal Game | 259974 | [259974-kids-puzzle-animal-game.json](./259974-kids-puzzle-animal-game.json) |
 | Kids Puzzles | 100503 | [100503-kids-puzzles.json](./100503-kids-puzzles.json) |
-| Kids Puzzles, Funny Animals #2 | 100914 | [100914-kids-puzzles-funny-animals-2.json](./100914-kids-puzzles-funny-animals-2.json) |
 | Kids Shave Salon Spa Games (Boys & Girls) | 88915 | [88915-kids-shave-salon-spa-games-boys-and-girls.json](./88915-kids-shave-salon-spa-games-boys-and-girls.json) |
 | Kids Shopping | 104292 | [104292-kids-shopping.json](./104292-kids-shopping.json) |
 | Kids Sight Words | 107560 | [107560-kids-sight-words.json](./107560-kids-sight-words.json) |
@@ -3031,7 +3026,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Auto | 134417 | [134417-killer-auto.json](./134417-killer-auto.json) |
 | Killer Baby | 256975 | [256975-killer-baby.json](./256975-killer-baby.json) |
 | Killer Backflip 5 | 95599 | [95599-killer-backflip-5.json](./95599-killer-backflip-5.json) |
-| Killer Backflip 999 | 103474 | [103474-killer-backflip-999.json](./103474-killer-backflip-999.json) |
 | Killer Bean | 165199 | [165199-killer-bean.json](./165199-killer-bean.json) |
 | Killer Bean Unleashed | 262652 | [262652-killer-bean-unleashed.json](./262652-killer-bean-unleashed.json) |
 | Killer Bear | 124551 | [124551-killer-bear.json](./124551-killer-bear.json) |
@@ -3243,7 +3237,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kilta | 140869 | [140869-kilta.json](./140869-kilta.json) |
 | Kilubu Magic Potions 2 | 213397 | [213397-kilubu-magic-potions-2.json](./213397-kilubu-magic-potions-2.json) |
 | Kim | 25225 | [25225-kim.json](./25225-kim.json) |
-| Kim and Prostitute | 102410 | [102410-kim-and-prostitute.json](./102410-kim-and-prostitute.json) |
 | Kim Jong-Boom | 68179 | [68179-kim-jong-boom.json](./68179-kim-jong-boom.json) |
 | Kim Possible Mission: Improbable | 282357 | [282357-kim-possible-mission-improbable.json](./282357-kim-possible-mission-improbable.json) |
 | Kim Possible: A Sitch in Time - Episode 1: Present | 159199 | [159199-kim-possible-a-sitch-in-time-episode-1-present.json](./159199-kim-possible-a-sitch-in-time-episode-1-present.json) |
@@ -4743,7 +4736,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitsune Battlemage | 190236 | [190236-kitsune-battlemage.json](./190236-kitsune-battlemage.json) |
 | Kitsune Dungeon Maid | 179609 | [179609-kitsune-dungeon-maid.json](./179609-kitsune-dungeon-maid.json) |
 | Kitsune Killer | 159411 | [159411-kitsune-killer.json](./159411-kitsune-killer.json) |
-| Kitsune Kitchen | 102376 | [102376-kitsune-kitchen.json](./102376-kitsune-kitchen.json) |
 | Kitsune no Tabiji | 126627 | [126627-kitsune-no-tabiji.json](./126627-kitsune-no-tabiji.json) |
 | Kitsune Quest | 181468 | [181468-kitsune-quest.json](./181468-kitsune-quest.json) |
 | Kitsune Tails | 142469 | [142469-kitsune-tails.json](./142469-kitsune-tails.json) |
@@ -4786,7 +4778,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Squad | 30825 | [30825-kitten-squad.json](./30825-kitten-squad.json) |
 | Kitten Super Adventure | 35807 | [35807-kitten-super-adventure.json](./35807-kitten-super-adventure.json) |
 | Kitten Tales | 262483 | [262483-kitten-tales.json](./262483-kitten-tales.json) |
-| Kitten'd | 104860 | [104860-kittend.json](./104860-kittend.json) |
 | Kitten's Head Football | 215551 | [215551-kittens-head-football.json](./215551-kittens-head-football.json) |
 | Kitten's Head Football: Christmas | 231283 | [231283-kittens-head-football-christmas.json](./231283-kittens-head-football-christmas.json) |
 | Kitten's Head Football: Complete Edition | 268565 | [268565-kittens-head-football-complete-edition.json](./268565-kittens-head-football-complete-edition.json) |
@@ -6227,7 +6218,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konsui Fighter | 105555 | [105555-konsui-fighter.json](./105555-konsui-fighter.json) |
 | Kontra | 238396 | [238396-kontra.json](./238396-kontra.json) |
 | Kontrakt | 107464 | [107464-kontrakt.json](./107464-kontrakt.json) |
-| Kontrast | 100833 | [100833-kontrast.json](./100833-kontrast.json) |
 | Kontrol Flow | 142196 | [142196-kontrol-flow.json](./142196-kontrol-flow.json) |
 | Konung 1 + 2 | 153008 | [153008-konung-1-2.json](./153008-konung-1-2.json) |
 | Konung III: Ties of the Dynasty | 13162 | [13162-konung-iii-ties-of-the-dynasty.json](./13162-konung-iii-ties-of-the-dynasty.json) |
@@ -6818,7 +6808,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krusenstern: A Stellar Sail | 226730 | [226730-krusenstern-a-stellar-sail.json](./226730-krusenstern-a-stellar-sail.json) |
 | Krush Kill 'N Destroy Bundle | 335619 | [335619-krush-kill-n-destroy-bundle.json](./335619-krush-kill-n-destroy-bundle.json) |
 | Krushpit | 423135 | [423135-krushpit.json](./423135-krushpit.json) |
-| Krusty Krab Nightmare | 100934 | [100934-krusty-krab-nightmare.json](./100934-krusty-krab-nightmare.json) |
 | Krusty Zombies | 180312 | [180312-krusty-zombies.json](./180312-krusty-zombies.json) |
 | Krusty's Fun House | 307105 | [307105-krustys-fun-house.json](./307105-krustys-fun-house.json) |
 | Krusty's Fun House | 307106 | [307106-krustys-fun-house.json](./307106-krustys-fun-house.json) |
