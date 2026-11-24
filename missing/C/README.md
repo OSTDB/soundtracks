@@ -2670,7 +2670,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Simulator 2022 | 227536 | [227536-car-simulator-2022.json](./227536-car-simulator-2022.json) |
 | Car Simulator Bundle | 357026 | [357026-car-simulator-bundle.json](./357026-car-simulator-bundle.json) |
 | Car Simulator OG | 68532 | [68532-car-simulator-og.json](./68532-car-simulator-og.json) |
-| Car Simulator Veneno | 101422 | [101422-car-simulator-veneno.json](./101422-car-simulator-veneno.json) |
 | Car Simulator: Car Games 3D | 266260 | [266260-car-simulator-car-games-3d.json](./266260-car-simulator-car-games-3d.json) |
 | Car Soccer 2018 | 104409 | [104409-car-soccer-2018.json](./104409-car-soccer-2018.json) |
 | Car Soccer League | 87911 | [87911-car-soccer-league.json](./87911-car-soccer-league.json) |
@@ -2851,7 +2850,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Games | 44957 | [44957-card-games.json](./44957-card-games.json) |
 | Card Games | 88693 | [88693-card-games.json](./88693-card-games.json) |
 | Card Games for Windows | 80449 | [80449-card-games-for-windows.json](./80449-card-games-for-windows.json) |
-| Card Games Mega Collection | 104032 | [104032-card-games-mega-collection.json](./104032-card-games-mega-collection.json) |
 | Card Games: Solitaire and more | 232363 | [232363-card-games-solitaire-and-more.json](./232363-card-games-solitaire-and-more.json) |
 | Card Games: The Classics | 269727 | [269727-card-games-the-classics.json](./269727-card-games-the-classics.json) |
 | Card Gauntlet | 335363 | [335363-card-gauntlet.json](./335363-card-gauntlet.json) |
@@ -3881,7 +3879,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cashier Sim | 296450 | [296450-cashier-sim.json](./296450-cashier-sim.json) |
 | Cashier Simulator | 261723 | [261723-cashier-simulator.json](./261723-cashier-simulator.json) |
 | Cashier Simulator | 332312 | [332312-cashier-simulator.json](./332312-cashier-simulator.json) |
-| CashKnight | 100910 | [100910-cashknight.json](./100910-cashknight.json) |
 | Cashrooms | 338494 | [338494-cashrooms.json](./338494-cashrooms.json) |
 | Cashtronauts | 34834 | [34834-cashtronauts.json](./34834-cashtronauts.json) |
 | Casina: A Visual Novel set in Ancient Greece | 144016 | [144016-casina-a-visual-novel-set-in-ancient-greece.json](./144016-casina-a-visual-novel-set-in-ancient-greece.json) |
@@ -5325,7 +5322,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cathy and The Others | 312797 | [312797-cathy-and-the-others.json](./312797-cathy-and-the-others.json) |
 | Cathy's Crafts: Platinum Edition | 177108 | [177108-cathys-crafts-platinum-edition.json](./177108-cathys-crafts-platinum-edition.json) |
 | Catie in MeowmeowLand | 158105 | [158105-catie-in-meowmeowland.json](./158105-catie-in-meowmeowland.json) |
-| Catify VR | 104799 | [104799-catify-vr.json](./104799-catify-vr.json) |
 | Catio Simulator | 368989 | [368989-catio-simulator.json](./368989-catio-simulator.json) |
 | Catistry | 68183 | [68183-catistry.json](./68183-catistry.json) |
 | Catizens | 153167 | [153167-catizens.json](./153167-catizens.json) |
@@ -5892,7 +5888,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavescape | 317012 | [317012-cavescape.json](./317012-cavescape.json) |
 | Caveshifter | 216759 | [216759-caveshifter.json](./216759-caveshifter.json) |
 | Cavesleeper | 371372 | [371372-cavesleeper.json](./371372-cavesleeper.json) |
-| Cavesweeper | 103816 | [103816-cavesweeper.json](./103816-cavesweeper.json) |
 | CaveVox | 303928 | [303928-cavevox.json](./303928-cavevox.json) |
 | Cavewars | 94599 | [94599-cavewars.json](./94599-cavewars.json) |
 | Caveworks | 383522 | [383522-caveworks.json](./383522-caveworks.json) |
@@ -6543,7 +6538,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained 2 Violence | 346691 | [346691-chained-2-violence.json](./346691-chained-2-violence.json) |
 | Chained Backrooms | 339721 | [339721-chained-backrooms.json](./339721-chained-backrooms.json) |
 | Chained Beasts | 344588 | [344588-chained-beasts.json](./344588-chained-beasts.json) |
-| Chained Bikes: Mega Ramp Stunts | 100835 | [100835-chained-bikes-mega-ramp-stunts.json](./100835-chained-bikes-mega-ramp-stunts.json) |
 | Chained Cars | 401380 | [401380-chained-cars.json](./401380-chained-cars.json) |
 | Chained Climb Together | 320487 | [320487-chained-climb-together.json](./320487-chained-climb-together.json) |
 | Chained Cucumber | 270541 | [270541-chained-cucumber.json](./270541-chained-cucumber.json) |
@@ -7965,7 +7959,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Pro with Coach - Learn,Play & Online Friends | 90792 | [90792-chess-pro-with-coach-learn-play-and-online-friends.json](./90792-chess-pro-with-coach-learn-play-and-online-friends.json) |
 | Chess Puzzle Adventure | 174290 | [174290-chess-puzzle-adventure.json](./174290-chess-puzzle-adventure.json) |
 | Chess Puzzle Blitz | 130670 | [130670-chess-puzzle-blitz.json](./130670-chess-puzzle-blitz.json) |
-| Chess Puzzles | 103644 | [103644-chess-puzzles.json](./103644-chess-puzzles.json) |
 | Chess Puzzles: 100 by Emma | 163412 | [163412-chess-puzzles-100-by-emma.json](./163412-chess-puzzles-100-by-emma.json) |
 | Chess Puzzles: 100 by Liam | 163414 | [163414-chess-puzzles-100-by-liam.json](./163414-chess-puzzles-100-by-liam.json) |
 | Chess Puzzles: 100 by Tyrone | 163413 | [163413-chess-puzzles-100-by-tyrone.json](./163413-chess-puzzles-100-by-tyrone.json) |
@@ -8784,7 +8777,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Chess Online - Play Xiangqi Live | 87244 | [87244-chinese-chess-online-play-xiangqi-live.json](./87244-chinese-chess-online-play-xiangqi-live.json) |
 | Chinese Chess Party | 242372 | [242372-chinese-chess-party.json](./242372-chinese-chess-party.json) |
 | Chinese Chess Wargame | 259502 | [259502-chinese-chess-wargame.json](./259502-chinese-chess-wargame.json) |
-| Chinese Chess, Xiangqi (Professional Edition) | 101565 | [101565-chinese-chess-xiangqi-professional-edition.json](./101565-chinese-chess-xiangqi-professional-edition.json) |
 | Chinese Chess: Elephant Game | 72872 | [72872-chinese-chess-elephant-game.json](./72872-chinese-chess-elephant-game.json) |
 | Chinese Chess: Xiangqi | 396997 | [396997-chinese-chess-xiangqi.json](./396997-chinese-chess-xiangqi.json) |
 | Chinese Culinary Shop | 276221 | [276221-chinese-culinary-shop.json](./276221-chinese-culinary-shop.json) |
@@ -9191,7 +9183,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Chop Tennis | 174381 | [174381-chop-chop-tennis.json](./174381-chop-chop-tennis.json) |
 | Chop Chop Together | 392147 | [392147-chop-chop-together.json](./392147-chop-chop-together.json) |
 | Chop is Dish | 112387 | [112387-chop-is-dish.json](./112387-chop-is-dish.json) |
-| Chop It | 100925 | [100925-chop-it.json](./100925-chop-it.json) |
 | Chop It Down | 359135 | [359135-chop-it-down.json](./359135-chop-it-down.json) |
 | Chop Loop | 428391 | [428391-chop-loop.json](./428391-chop-loop.json) |
 | Chop Shop | 324659 | [324659-chop-shop.json](./324659-chop-shop.json) |
@@ -11597,7 +11588,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Train Simulator | 202684 | [202684-classic-train-simulator.json](./202684-classic-train-simulator.json) |
 | Classic Trainer | 13498 | [13498-classic-trainer.json](./13498-classic-trainer.json) |
 | Classic Trivia | 87062 | [87062-classic-trivia.json](./87062-classic-trivia.json) |
-| Classic Uno | 100795 | [100795-classic-uno.json](./100795-classic-uno.json) |
 | Classic Us | 393463 | [393463-classic-us.json](./393463-classic-us.json) |
 | Classic Word Games | 79535 | [79535-classic-word-games.json](./79535-classic-word-games.json) |
 | Classic Words Plus | 101589 | [101589-classic-words-plus.json](./101589-classic-words-plus.json) |
@@ -12003,7 +11993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClickDragType | 320170 | [320170-clickdragtype.json](./320170-clickdragtype.json) |
 | Clickdraw Clicker | 30972 | [30972-clickdraw-clicker.json](./30972-clickdraw-clicker.json) |
 | Clickenzee | 84270 | [84270-clickenzee.json](./84270-clickenzee.json) |
-| Clicker Achievements: The Impossible Challenge | 103808 | [103808-clicker-achievements-the-impossible-challenge.json](./103808-clicker-achievements-the-impossible-challenge.json) |
 | Clicker Age | 129655 | [129655-clicker-age.json](./129655-clicker-age.json) |
 | Clicker Arena | 273808 | [273808-clicker-arena.json](./273808-clicker-arena.json) |
 | Clicker Astro Planet | 386870 | [386870-clicker-astro-planet.json](./386870-clicker-astro-planet.json) |
@@ -14073,7 +14062,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Hockey | 105510 | [105510-color-hockey.json](./105510-color-hockey.json) |
 | Color Hunt: Number Jigsaw Puzzle | 289810 | [289810-color-hunt-number-jigsaw-puzzle.json](./289810-color-hunt-number-jigsaw-puzzle.json) |
 | Color Idle | 426320 | [426320-color-idle.json](./426320-color-idle.json) |
-| Color Infinity | 101023 | [101023-color-infinity.json](./101023-color-infinity.json) |
 | Color Invader VR | 236874 | [236874-color-invader-vr.json](./236874-color-invader-vr.json) |
 | Color Island: Pixel Art | 280221 | [280221-color-island-pixel-art.json](./280221-color-island-pixel-art.json) |
 | Color Jump | 90753 | [90753-color-jump.json](./90753-color-jump.json) |
@@ -14124,7 +14112,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Retro Racer: Miles Challenge | 81790 | [81790-color-retro-racer-miles-challenge.json](./81790-color-retro-racer-miles-challenge.json) |
 | Color Rings Pro | 118572 | [118572-color-rings-pro.json](./118572-color-rings-pro.json) |
 | Color Rings Puzzle | 104652 | [104652-color-rings-puzzle.json](./104652-color-rings-puzzle.json) |
-| Color Road | 100877 | [100877-color-road.json](./100877-color-road.json) |
 | Color Road: Complete Edition | 300901 | [300901-color-road-complete-edition.json](./300901-color-road-complete-edition.json) |
 | Color Road: Sweet & Shiny | 295699 | [295699-color-road-sweet-and-shiny.json](./295699-color-road-sweet-and-shiny.json) |
 | Color Road! | 90364 | [90364-color-road.json](./90364-color-road.json) |
@@ -15056,7 +15043,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: Red Alert Mobile | 77221 | [77221-command-and-conquer-red-alert-mobile.json](./77221-command-and-conquer-red-alert-mobile.json) |
 | Command & Conquer: Red Alert Remastered | 134362 | [134362-command-and-conquer-red-alert-remastered.json](./134362-command-and-conquer-red-alert-remastered.json) |
 | Command & Conquer: Remastered | 128832 | [128832-command-and-conquer-remastered.json](./128832-command-and-conquer-remastered.json) |
-| Command & Conquer: Rivals | 103274 | [103274-command-and-conquer-rivals.json](./103274-command-and-conquer-rivals.json) |
 | Command & Conquer: Sole Survivor | 664 | [664-command-and-conquer-sole-survivor.json](./664-command-and-conquer-sole-survivor.json) |
 | Command & Conquer: The Covert Operations | 663 | [663-command-and-conquer-the-covert-operations.json](./663-command-and-conquer-the-covert-operations.json) |
 | Command & Conquer: The First Decade | 18165 | [18165-command-and-conquer-the-first-decade.json](./18165-command-and-conquer-the-first-decade.json) |
@@ -15651,7 +15637,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condor 2: The Complete Soaring Simulator | 80350 | [80350-condor-2-the-complete-soaring-simulator.json](./80350-condor-2-the-complete-soaring-simulator.json) |
 | Condor 3 | 327922 | [327922-condor-3.json](./327922-condor-3.json) |
 | Condor Attack | 117413 | [117413-condor-attack.json](./117413-condor-attack.json) |
-| Condor Heroes | 100905 | [100905-condor-heroes.json](./100905-condor-heroes.json) |
 | Condors vs. Ocelots | 164932 | [164932-condors-vs-ocelots.json](./164932-condors-vs-ocelots.json) |
 | Condottiero | 394132 | [394132-condottiero.json](./394132-condottiero.json) |
 | Conduct AR! | 318365 | [318365-conduct-ar.json](./318365-conduct-ar.json) |
@@ -15815,7 +15800,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect | 166640 | [166640-connect.json](./166640-connect.json) |
 | Connect | 314051 | [314051-connect.json](./314051-connect.json) |
 | Connect | 350064 | [350064-connect.json](./350064-connect.json) |
-| Connect - colorful casual game | 101120 | [101120-connect-colorful-casual-game.json](./101120-connect-colorful-casual-game.json) |
 | connect - Virtual Home | 84140 | [84140-connect-virtual-home.json](./84140-connect-virtual-home.json) |
 | Connect & Pop | 239989 | [239989-connect-and-pop.json](./239989-connect-and-pop.json) |
 | Connect 4 | 79945 | [79945-connect-4.json](./79945-connect-4.json) |
@@ -16771,7 +16755,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Joy - Fun Cooking Game | 103872 | [103872-cooking-joy-fun-cooking-game.json](./103872-cooking-joy-fun-cooking-game.json) |
 | Cooking Kawaii | 406386 | [406386-cooking-kawaii.json](./406386-cooking-kawaii.json) |
 | Cooking Live | 226690 | [226690-cooking-live.json](./226690-cooking-live.json) |
-| Cooking Madness | 101513 | [101513-cooking-madness.json](./101513-cooking-madness.json) |
 | Cooking Madness | 319825 | [319825-cooking-madness.json](./319825-cooking-madness.json) |
 | Cooking Mama | 3060 | [3060-cooking-mama.json](./3060-cooking-mama.json) |
 | Cooking Mama 2: Dinner With Friends | 3062 | [3062-cooking-mama-2-dinner-with-friends.json](./3062-cooking-mama-2-dinner-with-friends.json) |
@@ -19299,7 +19282,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayola Magic 3D Coloring Book | 392483 | [392483-crayola-magic-3d-coloring-book.json](./392483-crayola-magic-3d-coloring-book.json) |
 | Crayola My First TV Play System | 386972 | [386972-crayola-my-first-tv-play-system.json](./386972-crayola-my-first-tv-play-system.json) |
 | Crayola Paint 'n Play Pony | 313287 | [313287-crayola-paint-n-play-pony.json](./313287-crayola-paint-n-play-pony.json) |
-| Crayola Scoot | 104980 | [104980-crayola-scoot.json](./104980-crayola-scoot.json) |
 | Crayola Scribble Scrubbie Pets | 355892 | [355892-crayola-scribble-scrubbie-pets.json](./355892-crayola-scribble-scrubbie-pets.json) |
 | Crayola: Create a World | 66850 | [66850-crayola-create-a-world.json](./66850-crayola-create-a-world.json) |
 | Crayola: Make a Masterpiece | 133804 | [133804-crayola-make-a-masterpiece.json](./133804-crayola-make-a-masterpiece.json) |
@@ -20168,7 +20150,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
 | Cricket Captain 2014 | 10113 | [10113-cricket-captain-2014.json](./10113-cricket-captain-2014.json) |
 | Cricket Captain 2015 | 33968 | [33968-cricket-captain-2015.json](./33968-cricket-captain-2015.json) |
-| Cricket Captain 2018 | 103401 | [103401-cricket-captain-2018.json](./103401-cricket-captain-2018.json) |
 | Cricket Captain 2020 | 137914 | [137914-cricket-captain-2020.json](./137914-cricket-captain-2020.json) |
 | Cricket Captain 2021 | 156212 | [156212-cricket-captain-2021.json](./156212-cricket-captain-2021.json) |
 | Cricket Captain 2022 | 203601 | [203601-cricket-captain-2022.json](./203601-cricket-captain-2022.json) |
