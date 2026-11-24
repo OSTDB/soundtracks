@@ -723,7 +723,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Haul | 429520 | [429520-odd-haul.json](./429520-odd-haul.json) |
 | Odd Hue Out! | 297310 | [297310-odd-hue-out.json](./297310-odd-hue-out.json) |
 | Odd Infinitum: First Contact | 267274 | [267274-odd-infinitum-first-contact.json](./267274-odd-infinitum-first-contact.json) |
-| Odd Island | 103037 | [103037-odd-island.json](./103037-odd-island.json) |
 | Odd Jobs: On The Lot | 380968 | [380968-odd-jobs-on-the-lot.json](./380968-odd-jobs-on-the-lot.json) |
 | Odd Machines: Mechanical Boxes | 428322 | [428322-odd-machines-mechanical-boxes.json](./428322-odd-machines-mechanical-boxes.json) |
 | Odd Mobs Zero: Arrange | 375587 | [375587-odd-mobs-zero-arrange.json](./375587-odd-mobs-zero-arrange.json) |
@@ -1461,7 +1460,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oik 2 | 29078 | [29078-oik-2.json](./29078-oik-2.json) |
 | Oik 3 | 74196 | [74196-oik-3.json](./74196-oik-3.json) |
 | Oik 3D | 139619 | [139619-oik-3d.json](./139619-oik-3d.json) |
-| Oik 4 | 104564 | [104564-oik-4.json](./104564-oik-4.json) |
 | Oik 5: DLC | 171626 | [171626-oik-5-dlc.json](./171626-oik-5-dlc.json) |
 | Oik Memory | 81155 | [81155-oik-memory.json](./81155-oik-memory.json) |
 | Oik Memory 3 | 114976 | [114976-oik-memory-3.json](./114976-oik-memory-3.json) |
@@ -2334,7 +2332,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Verge II | 120595 | [120595-on-the-verge-ii.json](./120595-on-the-verge-ii.json) |
 | On the Way | 356580 | [356580-on-the-way.json](./356580-on-the-way.json) |
 | On the Way Home: Strange Incidents | 424244 | [424244-on-the-way-home-strange-incidents.json](./424244-on-the-way-home-strange-incidents.json) |
-| On the Western Front | 102411 | [102411-on-the-western-front.json](./102411-on-the-western-front.json) |
 | On the Wind | 233220 | [233220-on-the-wind.json](./233220-on-the-wind.json) |
 | On the Wind's Breath | 247864 | [247864-on-the-winds-breath.json](./247864-on-the-winds-breath.json) |
 | On the Wings: Birth of a Hero | 199585 | [199585-on-the-wings-birth-of-a-hero.json](./199585-on-the-wings-birth-of-a-hero.json) |
@@ -3229,7 +3226,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oneironaut | 118108 | [118108-oneironaut.json](./118108-oneironaut.json) |
 | Oneirophobia | 300794 | [300794-oneirophobia.json](./300794-oneirophobia.json) |
 | Oneirophobia | 391714 | [391714-oneirophobia.json](./391714-oneirophobia.json) |
-| Oneiros | 102965 | [102965-oneiros.json](./102965-oneiros.json) |
 | OneJump | 131619 | [131619-onejump.json](./131619-onejump.json) |
 | Onekey | 308061 | [308061-onekey.json](./308061-onekey.json) |
 | OneKind | 302372 | [302372-onekind.json](./302372-onekind.json) |
@@ -4078,7 +4074,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Wolf Returns: First Mission - Rescue Edition | 270583 | [270583-operation-wolf-returns-first-mission-rescue-edition.json](./270583-operation-wolf-returns-first-mission-rescue-edition.json) |
 | Operation Wolfenstein | 179472 | [179472-operation-wolfenstein.json](./179472-operation-wolfenstein.json) |
 | Operation Wolfsburg | 54266 | [54266-operation-wolfsburg.json](./54266-operation-wolfsburg.json) |
-| Operation Z - For Zombies | 101557 | [101557-operation-z-for-zombies.json](./101557-operation-z-for-zombies.json) |
 | Operation Z.E.R.O.: OutNumbuh'd! | 234540 | [234540-operation-z-e-r-o-outnumbuhd.json](./234540-operation-z-e-r-o-outnumbuhd.json) |
 | Operation Zero | 333014 | [333014-operation-zero.json](./333014-operation-zero.json) |
 | Operation Zeta | 138457 | [138457-operation-zeta.json](./138457-operation-zeta.json) |
@@ -4304,7 +4299,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb Heroes | 164295 | [164295-orb-heroes.json](./164295-orb-heroes.json) |
 | Orb Hunter | 274327 | [274327-orb-hunter.json](./274327-orb-hunter.json) |
 | Orb in Wonder | 277365 | [277365-orb-in-wonder.json](./277365-orb-in-wonder.json) |
-| Orb Labs, Inc. | 101281 | [101281-orb-labs-inc.json](./101281-orb-labs-inc.json) |
 | Orb of Aeternum | 292564 | [292564-orb-of-aeternum.json](./292564-orb-of-aeternum.json) |
 | Orb of Creation | 182972 | [182972-orb-of-creation.json](./182972-orb-of-creation.json) |
 | Orb of Millean | 301440 | [301440-orb-of-millean.json](./301440-orb-of-millean.json) |
@@ -4861,7 +4855,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orisries | 314635 | [314635-orisries.json](./314635-orisries.json) |
 | Orium | 381782 | [381782-orium.json](./381782-orium.json) |
 | Orius | 283337 | [283337-orius.json](./283337-orius.json) |
-| Orix! | 102384 | [102384-orix.json](./102384-orix.json) |
 | Orixo | 132118 | [132118-orixo.json](./132118-orixo.json) |
 | Orixo Hex | 232165 | [232165-orixo-hex.json](./232165-orixo-hex.json) |
 | Orixo Wormhole | 132119 | [132119-orixo-wormhole.json](./132119-orixo-wormhole.json) |
@@ -6232,7 +6225,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outworld Station | 322692 | [322692-outworld-station.json](./322692-outworld-station.json) |
 | Outzone | 15332 | [15332-outzone.json](./15332-outzone.json) |
 | Ova Magica | 138211 | [138211-ova-magica.json](./138211-ova-magica.json) |
-| Oval | 101286 | [101286-oval.json](./101286-oval.json) |
 | Oval Office: Commander In Chief | 146202 | [146202-oval-office-commander-in-chief.json](./146202-oval-office-commander-in-chief.json) |
 | Oval RaceCar Builder | 139028 | [139028-oval-racecar-builder.json](./139028-oval-racecar-builder.json) |
 | Oval Racer Series: Sandbox | 170830 | [170830-oval-racer-series-sandbox.json](./170830-oval-racer-series-sandbox.json) |
