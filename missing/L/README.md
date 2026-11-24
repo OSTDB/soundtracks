@@ -2582,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lean Simulator: Desperation | 308687 | [308687-lean-simulator-desperation.json](./308687-lean-simulator-desperation.json) |
 | Leander | 12173 | [12173-leander.json](./12173-leander.json) |
 | Leann sins | 367286 | [367286-leann-sins.json](./367286-leann-sins.json) |
+| Leanna's Slice of Life | 114236 | [114236-leannas-slice-of-life.json](./114236-leannas-slice-of-life.json) |
 | Leap | 186763 | [186763-leap.json](./186763-leap.json) |
 | Leap 'n Bump! | 303623 | [303623-leap-n-bump.json](./303623-leap-n-bump.json) |
 | Leap A Head | 395710 | [395710-leap-a-head.json](./395710-leap-a-head.json) |
@@ -5578,6 +5579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light the Candles in Hell | 340920 | [340920-light-the-candles-in-hell.json](./340920-light-the-candles-in-hell.json) |
 | Light the Lamp Hockey | 197120 | [197120-light-the-lamp-hockey.json](./197120-light-the-lamp-hockey.json) |
 | Light the Night | 253243 | [253243-light-the-night.json](./253243-light-the-night.json) |
+| Light the Way | 114238 | [114238-light-the-way.json](./114238-light-the-way.json) |
 | Light the Way | 248286 | [248286-light-the-way.json](./248286-light-the-way.json) |
 | Light the Way: 10th Anniversary | 232403 | [232403-light-the-way-10th-anniversary.json](./232403-light-the-way-10th-anniversary.json) |
 | Light the World | 165628 | [165628-light-the-world.json](./165628-light-the-world.json) |
@@ -10857,6 +10859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Night | 76314 | [76314-lucky-night.json](./76314-lucky-night.json) |
 | Lucky Night: Poker Games | 131357 | [131357-lucky-night-poker-games.json](./131357-lucky-night-poker-games.json) |
 | Lucky Night: Texas Hold'em VR | 51503 | [51503-lucky-night-texas-holdem-vr.json](./51503-lucky-night-texas-holdem-vr.json) |
+| Lucky of Love | 114090 | [114090-lucky-of-love.json](./114090-lucky-of-love.json) |
 | Lucky One | 273973 | [273973-lucky-one.json](./273973-lucky-one.json) |
 | Lucky Panda | 74942 | [74942-lucky-panda.json](./74942-lucky-panda.json) |
 | Lucky Paradox | 239300 | [239300-lucky-paradox.json](./239300-lucky-paradox.json) |
