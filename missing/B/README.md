@@ -6644,7 +6644,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Because of Magic | 291953 | [291953-because-of-magic.json](./291953-because-of-magic.json) |
 | Because The World Died | 303707 | [303707-because-the-world-died.json](./303707-because-the-world-died.json) |
 | Because We're Here: Act I | 176797 | [176797-because-were-here-act-i.json](./176797-because-were-here-act-i.json) |
-| Because We're Here: Mohnblume und Blauerose | 105298 | [105298-because-were-here-mohnblume-und-blauerose.json](./105298-because-were-here-mohnblume-und-blauerose.json) |
 | Because We're Here: Mohnblume und Blaurose - Act II | 174447 | [174447-because-were-here-mohnblume-und-blaurose-act-ii.json](./174447-because-were-here-mohnblume-und-blaurose-act-ii.json) |
 | Becca | 265104 | [265104-becca.json](./265104-becca.json) |
 | Becher's Dream | 72292 | [72292-bechers-dream.json](./72292-bechers-dream.json) |
@@ -10840,7 +10839,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackShield: Upora Story | 81066 | [81066-blackshield-upora-story.json](./81066-blackshield-upora-story.json) |
 | Blackshift | 118147 | [118147-blackshift.json](./118147-blackshift.json) |
 | BlackShot | 33760 | [33760-blackshot.json](./33760-blackshot.json) |
-| BlackSimulator | 105273 | [105273-blacksimulator.json](./105273-blacksimulator.json) |
 | Blacksite Theta | 272784 | [272784-blacksite-theta.json](./272784-blacksite-theta.json) |
 | BlackSite: Area 51 | 5730 | [5730-blacksite-area-51.json](./5730-blacksite-area-51.json) |
 | BlackSky | 199446 | [199446-blacksky.json](./199446-blacksky.json) |
