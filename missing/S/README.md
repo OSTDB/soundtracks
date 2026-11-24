@@ -11286,6 +11286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek: Multi-Game Mayhem - Featuring Princess Fiona | 245503 | [245503-shrek-multi-game-mayhem-featuring-princess-fiona.json](./245503-shrek-multi-game-mayhem-featuring-princess-fiona.json) |
 | Shrek: Multi-Game Mayhem - Featuring Shrek | 245502 | [245502-shrek-multi-game-mayhem-featuring-shrek.json](./245502-shrek-multi-game-mayhem-featuring-shrek.json) |
 | Shrek: Ogre Resistance Renegade | 352484 | [352484-shrek-ogre-resistance-renegade.json](./352484-shrek-ogre-resistance-renegade.json) |
+| Shrek: Ogres and Dronkeys | 47860 | [47860-shrek-ogres-and-dronkeys.json](./47860-shrek-ogres-and-dronkeys.json) |
 | Shrek: Reekin' Havoc | 49222 | [49222-shrek-reekin-havoc.json](./49222-shrek-reekin-havoc.json) |
 | Shrek: Swamp Kart Speedway | 49240 | [49240-shrek-swamp-kart-speedway.json](./49240-shrek-swamp-kart-speedway.json) |
 | Shrek: The Forbidden Onion | 359043 | [359043-shrek-the-forbidden-onion.json](./359043-shrek-the-forbidden-onion.json) |
@@ -25377,6 +25378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider: Gang City Hero | 93705 | [93705-spider-gang-city-hero.json](./93705-spider-gang-city-hero.json) |
 | Spider: Rite of the Shrouded Moon | 17073 | [17073-spider-rite-of-the-shrouded-moon.json](./17073-spider-rite-of-the-shrouded-moon.json) |
 | Spider: The Secret Of Bryce Manor | 23259 | [23259-spider-the-secret-of-bryce-manor.json](./23259-spider-the-secret-of-bryce-manor.json) |
+| Spider: The Video Game | 45034 | [45034-spider-the-video-game.json](./45034-spider-the-video-game.json) |
 | Spider! | 107042 | [107042-spider.json](./107042-spider.json) |
 | Spider's Hollow | 184358 | [184358-spiders-hollow.json](./184358-spiders-hollow.json) |
 | Spider's Web | 238841 | [238841-spiders-web.json](./238841-spiders-web.json) |
@@ -28107,6 +28109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Jumper: Cosmic Adventure | 358625 | [358625-star-jumper-cosmic-adventure.json](./358625-star-jumper-cosmic-adventure.json) |
 | Star Keeper | 255251 | [255251-star-keeper.json](./255251-star-keeper.json) |
 | Star Kingdom: The Elements | 30418 | [30418-star-kingdom-the-elements.json](./30418-star-kingdom-the-elements.json) |
+| Star Knight | 46756 | [46756-star-knight.json](./46756-star-knight.json) |
 | Star Knight: Order of the Vortex | 253847 | [253847-star-knight-order-of-the-vortex.json](./253847-star-knight-order-of-the-vortex.json) |
 | Star Knightess Aura | 192746 | [192746-star-knightess-aura.json](./192746-star-knightess-aura.json) |
 | Star Lane | 417956 | [417956-star-lane.json](./417956-star-lane.json) |
@@ -28466,6 +28469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: First Contact | 71059 | [71059-star-trek-first-contact.json](./71059-star-trek-first-contact.json) |
 | Star Trek: Generations | 70216 | [70216-star-trek-generations.json](./70216-star-trek-generations.json) |
 | Star Trek: Generations - Beyond the Nexus | 365692 | [365692-star-trek-generations-beyond-the-nexus.json](./365692-star-trek-generations-beyond-the-nexus.json) |
+| Star Trek: Generations - Beyond the Nexus | 46335 | [46335-star-trek-generations-beyond-the-nexus.json](./46335-star-trek-generations-beyond-the-nexus.json) |
 | Star Trek: Hidden Evil | 50392 | [50392-star-trek-hidden-evil.json](./50392-star-trek-hidden-evil.json) |
 | Star Trek: Infinite - Deluxe Edition | 265851 | [265851-star-trek-infinite-deluxe-edition.json](./265851-star-trek-infinite-deluxe-edition.json) |
 | Star Trek: Infinite - Designing the Galaxy | 271921 | [271921-star-trek-infinite-designing-the-galaxy.json](./271921-star-trek-infinite-designing-the-galaxy.json) |
