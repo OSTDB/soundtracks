@@ -2704,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Man's Trash | 343353 | [343353-one-mans-trash.json](./343353-one-mans-trash.json) |
 | One Man's War | 226716 | [226716-one-mans-war.json](./226716-one-mans-war.json) |
 | One Manga Day | 35382 | [35382-one-manga-day.json](./35382-one-manga-day.json) |
+| One Many Nobody | 201430 | [201430-one-many-nobody.json](./201430-one-many-nobody.json) |
 | One Map: Never Ending Battle Royale | 321038 | [321038-one-map-never-ending-battle-royale.json](./321038-one-map-never-ending-battle-royale.json) |
 | One Military Camp | 176551 | [176551-one-military-camp.json](./176551-one-military-camp.json) |
 | One Military Camp: Biomes | 298097 | [298097-one-military-camp-biomes.json](./298097-one-military-camp-biomes.json) |
@@ -3328,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onigiri Heroes | 174699 | [174699-onigiri-heroes.json](./174699-onigiri-heroes.json) |
 | Onigiri Run | 351781 | [351781-onigiri-run.json](./351781-onigiri-run.json) |
 | Onigiri Shop Simulator | 361911 | [361911-onigiri-shop-simulator.json](./361911-onigiri-shop-simulator.json) |
+| Onigo Hunter | 133618 | [133618-onigo-hunter.json](./133618-onigo-hunter.json) |
 | Onigokko! | 153767 | [153767-onigokko.json](./153767-onigokko.json) |
 | Onii Kiss: Onii-chan, Where's My Kiss? | 401171 | [401171-onii-kiss-onii-chan-wheres-my-kiss.json](./401171-onii-kiss-onii-chan-wheres-my-kiss.json) |
 | Onii-Chan | 89968 | [89968-onii-chan.json](./89968-onii-chan.json) |
