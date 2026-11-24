@@ -4197,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record of Agarest War | 7158 | [7158-record-of-agarest-war.json](./7158-record-of-agarest-war.json) |
 | Record of Agarest War 2 | 46031 | [46031-record-of-agarest-war-2.json](./46031-record-of-agarest-war-2.json) |
 | Record of Agarest War 2: Limited Edition | 44564 | [44564-record-of-agarest-war-2-limited-edition.json](./44564-record-of-agarest-war-2-limited-edition.json) |
+| Record of Agarest War Mariage | 46015 | [46015-record-of-agarest-war-mariage.json](./46015-record-of-agarest-war-mariage.json) |
 | Record of Agarest War Zero | 7157 | [7157-record-of-agarest-war-zero.json](./7157-record-of-agarest-war-zero.json) |
 | Record of Agarest War Zero: Limited Edition | 43959 | [43959-record-of-agarest-war-zero-limited-edition.json](./43959-record-of-agarest-war-zero-limited-edition.json) |
 | Record of Agarest War: Limited Edition | 261541 | [261541-record-of-agarest-war-limited-edition.json](./261541-record-of-agarest-war-limited-edition.json) |
@@ -4799,6 +4800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redbean Rhapsody | 316044 | [316044-redbean-rhapsody.json](./316044-redbean-rhapsody.json) |
 | Redbeard's Recoil | 344707 | [344707-redbeards-recoil.json](./344707-redbeards-recoil.json) |
 | RedBull Car Park Drift | 120349 | [120349-redbull-car-park-drift.json](./120349-redbull-car-park-drift.json) |
+| RedCard 2003 | 46027 | [46027-redcard-2003.json](./46027-redcard-2003.json) |
 | RedCat | 185790 | [185790-redcat.json](./185790-redcat.json) |
 | RedCat 2: De Ontvoering van Prinses Dana | 242634 | [242634-redcat-2-de-ontvoering-van-prinses-dana.json](./242634-redcat-2-de-ontvoering-van-prinses-dana.json) |
 | RedCat Megapack | 242638 | [242638-redcat-megapack.json](./242638-redcat-megapack.json) |
@@ -9536,6 +9538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River City Renegade | 42427 | [42427-river-city-renegade.json](./42427-river-city-renegade.json) |
 | River City Saga: Journey to the West | 387579 | [387579-river-city-saga-journey-to-the-west.json](./387579-river-city-saga-journey-to-the-west.json) |
 | River City Saga: Three Kingdoms Next | 321749 | [321749-river-city-saga-three-kingdoms-next.json](./321749-river-city-saga-three-kingdoms-next.json) |
+| River City Super Sports Challenge | 47973 | [47973-river-city-super-sports-challenge.json](./47973-river-city-super-sports-challenge.json) |
 | River City Super Sports Challenge: All Stars Special | 36210 | [36210-river-city-super-sports-challenge-all-stars-special.json](./36210-river-city-super-sports-challenge-all-stars-special.json) |
 | River City Survivors | 418254 | [418254-river-city-survivors.json](./418254-river-city-survivors.json) |
 | River City: Knights of Justice | 36549 | [36549-river-city-knights-of-justice.json](./36549-river-city-knights-of-justice.json) |
