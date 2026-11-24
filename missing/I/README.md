@@ -183,7 +183,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Believe in Capybara Supremacy! | 250992 | [250992-i-believe-in-capybara-supremacy.json](./250992-i-believe-in-capybara-supremacy.json) |
 | I Believe In Giants | 217068 | [217068-i-believe-in-giants.json](./217068-i-believe-in-giants.json) |
 | I Borrow | 150364 | [150364-i-borrow.json](./150364-i-borrow.json) |
-| I Bought Super Car! | 101381 | [101381-i-bought-super-car.json](./101381-i-bought-super-car.json) |
 | I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
 | I Broke My Legs and Got Left Behind in a Burning Hospital | 381398 | [381398-i-broke-my-legs-and-got-left-behind-in-a-burning-hospital.json](./381398-i-broke-my-legs-and-got-left-behind-in-a-burning-hospital.json) |
 | I Brought the Noble Girl Home | 293850 | [293850-i-brought-the-noble-girl-home.json](./293850-i-brought-the-noble-girl-home.json) |
@@ -1971,7 +1970,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Zombie Wave: Survivors | 345381 | [345381-idle-zombie-wave-survivors.json](./345381-idle-zombie-wave-survivors.json) |
 | Idle Zombies Clicker | 213529 | [213529-idle-zombies-clicker.json](./213529-idle-zombies-clicker.json) |
 | Idle Zoo Park | 260661 | [260661-idle-zoo-park.json](./260661-idle-zoo-park.json) |
-| Idle Zoo Tycoon | 100951 | [100951-idle-zoo-tycoon.json](./100951-idle-zoo-tycoon.json) |
 | Idle Zoo Tycoon | 220814 | [220814-idle-zoo-tycoon.json](./220814-idle-zoo-tycoon.json) |
 | Idle_Directive | 406490 | [406490-idle-directive.json](./406490-idle-directive.json) |
 | Idle: Doodle Realm | 389939 | [389939-idle-doodle-realm.json](./389939-idle-doodle-realm.json) |
@@ -2106,7 +2104,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iegami Nyoubou: Nanashi Nekomata wa KamiTuber | 194599 | [194599-iegami-nyoubou-nanashi-nekomata-wa-kamituber.json](./194599-iegami-nyoubou-nanashi-nekomata-wa-kamituber.json) |
 | Iephosama: Digital Curse | 399557 | [399557-iephosama-digital-curse.json](./399557-iephosama-digital-curse.json) |
 | Iesabel | 16645 | [16645-iesabel.json](./16645-iesabel.json) |
-| Iest Dva Stula | 103191 | [103191-iest-dva-stula.json](./103191-iest-dva-stula.json) |
 | If | 166573 | [166573-if.json](./166573-if.json) |
 | If | 204401 | [204401-if.json](./204401-if.json) |
 | If 2 | 204478 | [204478-if-2.json](./204478-if-2.json) |
@@ -3414,7 +3411,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Line of Duty - Firefighter | 125314 | [125314-in-the-line-of-duty-firefighter.json](./125314-in-the-line-of-duty-firefighter.json) |
 | In the Line of Fire | 89244 | [89244-in-the-line-of-fire.json](./89244-in-the-line-of-fire.json) |
 | In the Line of My Heart | 189973 | [189973-in-the-line-of-my-heart.json](./189973-in-the-line-of-my-heart.json) |
-| In the Long Run: The Game | 104525 | [104525-in-the-long-run-the-game.json](./104525-in-the-long-run-the-game.json) |
 | In the Loop | 364678 | [364678-in-the-loop.json](./364678-in-the-loop.json) |
 | In The Middle | 384445 | [384445-in-the-middle.json](./384445-in-the-middle.json) |
 | In The Middle Of | 371500 | [371500-in-the-middle-of.json](./371500-in-the-middle-of.json) |
@@ -4343,7 +4339,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiniminer | 92027 | [92027-infiniminer.json](./92027-infiniminer.json) |
 | Infinimoes | 333654 | [333654-infinimoes.json](./333654-infinimoes.json) |
 | InfiniPicross | 54690 | [54690-infinipicross.json](./54690-infinipicross.json) |
-| InfiniPicross 2.0 | 104392 | [104392-infinipicross-2-0.json](./104392-infinipicross-2-0.json) |
 | InfiniPicross 2.0: 100 Large Puzzles - Animals | 163426 | [163426-infinipicross-2-0-100-large-puzzles-animals.json](./163426-infinipicross-2-0-100-large-puzzles-animals.json) |
 | InfiniPicross 2.0: 100 Medium Puzzles | 163425 | [163425-infinipicross-2-0-100-medium-puzzles.json](./163425-infinipicross-2-0-100-medium-puzzles.json) |
 | InfiniPicross 2.0: Halloween | 220028 | [220028-infinipicross-2-0-halloween.json](./220028-infinipicross-2-0-halloween.json) |
@@ -4542,7 +4537,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite White: Hyperbolic Time Chamber Simulator | 273460 | [273460-infinite-white-hyperbolic-time-chamber-simulator.json](./273460-infinite-white-hyperbolic-time-chamber-simulator.json) |
 | Infinite Wii | 313418 | [313418-infinite-wii.json](./313418-infinite-wii.json) |
 | Infinite Word Search Puzzles | 87658 | [87658-infinite-word-search-puzzles.json](./87658-infinite-word-search-puzzles.json) |
-| Infinite World | 102936 | [102936-infinite-world.json](./102936-infinite-world.json) |
 | Infinite Zombie: VIP | 95863 | [95863-infinite-zombie-vip.json](./95863-infinite-zombie-vip.json) |
 | Infinite: Beyond the Mind | 128968 | [128968-infinite-beyond-the-mind.json](./128968-infinite-beyond-the-mind.json) |
 | InfiniteBeat | 126732 | [126732-infinitebeat.json](./126732-infinitebeat.json) |
@@ -4653,7 +4647,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Nikki: Until Tide Ends | 403273 | [403273-infinity-nikki-until-tide-ends.json](./403273-infinity-nikki-until-tide-ends.json) |
 | Infinity Nikki: Where All Souls Return | 399186 | [399186-infinity-nikki-where-all-souls-return.json](./399186-infinity-nikki-where-all-souls-return.json) |
 | Infinity Nikki: Where Stars Yearn | 407838 | [407838-infinity-nikki-where-stars-yearn.json](./407838-infinity-nikki-where-stars-yearn.json) |
-| Infinity Ops | 100920 | [100920-infinity-ops.json](./100920-infinity-ops.json) |
 | Infinity Ops | 174826 | [174826-infinity-ops.json](./174826-infinity-ops.json) |
 | Infinity Party Battle | 224034 | [224034-infinity-party-battle.json](./224034-infinity-party-battle.json) |
 | Infinity Pinball | 142871 | [142871-infinity-pinball.json](./142871-infinity-pinball.json) |
@@ -5486,7 +5479,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InstaTok Tycoon | 301837 | [301837-instatok-tycoon.json](./301837-instatok-tycoon.json) |
 | Instead; Ghost Suburb | 280911 | [280911-instead-ghost-suburb.json](./280911-instead-ghost-suburb.json) |
 | Instead: Ghost Suburb | 199979 | [199979-instead-ghost-suburb.json](./199979-instead-ghost-suburb.json) |
-| Instinct | 103041 | [103041-instinct.json](./103041-instinct.json) |
 | Instinct | 238832 | [238832-instinct.json](./238832-instinct.json) |
 | Instinct | 27548 | [27548-instinct.json](./27548-instinct.json) |
 | Instinct | 286509 | [286509-instinct.json](./286509-instinct.json) |
@@ -5570,7 +5562,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intelligence | 397924 | [397924-intelligence.json](./397924-intelligence.json) |
 | Intelligence | 96898 | [96898-intelligence.json](./96898-intelligence.json) |
 | Intelligence Operation | 155764 | [155764-intelligence-operation.json](./155764-intelligence-operation.json) |
-| Intelligence Trader | 104325 | [104325-intelligence-trader.json](./104325-intelligence-trader.json) |
 | Intelligence: 314th Clash | 58809 | [58809-intelligence-314th-clash.json](./58809-intelligence-314th-clash.json) |
 | Intelligence: Anime Girls | 101638 | [101638-intelligence-anime-girls.json](./101638-intelligence-anime-girls.json) |
 | Intelligence: Cats | 106335 | [106335-intelligence-cats.json](./106335-intelligence-cats.json) |
@@ -6886,7 +6877,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Tangle Breakout | 352233 | [352233-iron-tangle-breakout.json](./352233-iron-tangle-breakout.json) |
 | Iron Tank: The Invasion of Normandy | 19956 | [19956-iron-tank-the-invasion-of-normandy.json](./19956-iron-tank-the-invasion-of-normandy.json) |
 | Iron Tanks: Battle online | 87297 | [87297-iron-tanks-battle-online.json](./87297-iron-tanks-battle-online.json) |
-| Iron Throne | 101511 | [101511-iron-throne.json](./101511-iron-throne.json) |
 | Iron Throne: Kingdoms | 101518 | [101518-iron-throne-kingdoms.json](./101518-iron-throne-kingdoms.json) |
 | Iron Thumbs | 428991 | [428991-iron-thumbs.json](./428991-iron-thumbs.json) |
 | Iron Tides | 51561 | [51561-iron-tides.json](./51561-iron-tides.json) |
@@ -7680,7 +7670,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Was You | 333019 | [333019-it-was-you.json](./333019-it-was-you.json) |
 | It Watches | 392324 | [392324-it-watches.json](./392324-it-watches.json) |
 | It Weighs You Down | 177221 | [177221-it-weighs-you-down.json](./177221-it-weighs-you-down.json) |
-| It Will Crush | 100878 | [100878-it-will-crush.json](./100878-it-will-crush.json) |
 | It Will Find You | 124207 | [124207-it-will-find-you.json](./124207-it-will-find-you.json) |
 | It Works: Electronics Repair Simulator | 352231 | [352231-it-works-electronics-repair-simulator.json](./352231-it-works-electronics-repair-simulator.json) |
 | It: Unstoppable | 364059 | [364059-it-unstoppable.json](./364059-it-unstoppable.json) |
@@ -7796,7 +7785,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Way Past Bed Time | 142543 | [142543-its-way-past-bed-time.json](./142543-its-way-past-bed-time.json) |
 | It's Wiggle Time | 92679 | [92679-its-wiggle-time.json](./92679-its-wiggle-time.json) |
 | It's Winter | 115591 | [115591-its-winter.json](./115591-its-winter.json) |
-| It's You: A Breakup Story | 105097 | [105097-its-you-a-breakup-story.json](./105097-its-you-a-breakup-story.json) |
 | It's Zoro's Birthday! | 184315 | [184315-its-zoros-birthday.json](./184315-its-zoros-birthday.json) |
 | It'sRoachTime! | 192873 | [192873-itsroachtime.json](./192873-itsroachtime.json) |
 | Itacante: La Cité des robots | 327995 | [327995-itacante-la-cite-des-robots.json](./327995-itacante-la-cite-des-robots.json) |
