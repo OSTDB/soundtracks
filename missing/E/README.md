@@ -5252,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Dragons | 316063 | [316063-epic-dragons.json](./316063-epic-dragons.json) |
 | Epic Dumpster Bear | 19615 | [19615-epic-dumpster-bear.json](./19615-epic-dumpster-bear.json) |
 | Epic Dumpster Bear 1.5 DX: Dumpster Fire Rebirth | 290824 | [290824-epic-dumpster-bear-1-5-dx-dumpster-fire-rebirth.json](./290824-epic-dumpster-bear-1-5-dx-dumpster-fire-rebirth.json) |
+| Epic Dumpster Bear 2: He Who Bears Wins | 135146 | [135146-epic-dumpster-bear-2-he-who-bears-wins.json](./135146-epic-dumpster-bear-2-he-who-bears-wins.json) |
 | Epic Dumpster Bear: Dumpster Fire Redux | 99461 | [99461-epic-dumpster-bear-dumpster-fire-redux.json](./99461-epic-dumpster-bear-dumpster-fire-redux.json) |
 | Epic Dungeon | 66241 | [66241-epic-dungeon.json](./66241-epic-dungeon.json) |
 | Epic Empire | 318732 | [318732-epic-empire.json](./318732-epic-empire.json) |
@@ -5964,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Fear: Hide And Seek Horror | 291653 | [291653-escape-fear-hide-and-seek-horror.json](./291653-escape-fear-hide-and-seek-horror.json) |
 | Escape First | 97243 | [97243-escape-first.json](./97243-escape-first.json) |
 | Escape First 2 | 119545 | [119545-escape-first-2.json](./119545-escape-first-2.json) |
+| Escape First 3 | 131778 | [131778-escape-first-3.json](./131778-escape-first-3.json) |
 | Escape First Alchemist | 213537 | [213537-escape-first-alchemist.json](./213537-escape-first-alchemist.json) |
 | Escape Fishstop 3D | 149614 | [149614-escape-fishstop-3d.json](./149614-escape-fishstop-3d.json) |
 | Escape Floor 13 | 320650 | [320650-escape-floor-13.json](./320650-escape-floor-13.json) |
