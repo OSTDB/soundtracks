@@ -2040,7 +2040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguó Qúnyīng Zhuán VI | 143520 | [143520-sanguo-qunying-zhuan-vi.json](./143520-sanguo-qunying-zhuan-vi.json) |
 | Sanguo Qunyingzhuan VII | 81260 | [81260-sanguo-qunyingzhuan-vii.json](./81260-sanguo-qunyingzhuan-vii.json) |
 | Sānguó Shā Online | 58909 | [58909-sanguo-sha-online.json](./58909-sanguo-sha-online.json) |
-| Sanguo Warriors VR | 99017 | [99017-sanguo-warriors-vr.json](./99017-sanguo-warriors-vr.json) |
 | Sanguo Warriors VR2 | 110534 | [110534-sanguo-warriors-vr2.json](./110534-sanguo-warriors-vr2.json) |
 | Sānguó Yǎnyì zhī Shǔhàn Chuánqí | 171131 | [171131-sanguo-yanyi-zhi-shuhan-chuanqi.json](./171131-sanguo-yanyi-zhi-shuhan-chuanqi.json) |
 | Sānguó Yǎnyì: Huǒshāo Chìbì | 356018 | [356018-sanguo-yanyi-huoshao-chibi.json](./356018-sanguo-yanyi-huoshao-chibi.json) |
@@ -3823,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scopaesthesia | 256720 | [256720-scopaesthesia.json](./256720-scopaesthesia.json) |
 | Scope | 183180 | [183180-scope.json](./183180-scope.json) |
 | Scope Battle Royale | 364745 | [364745-scope-battle-royale.json](./364745-scope-battle-royale.json) |
+| Scope Battle Royale: Operator Pack | 427524 | [427524-scope-battle-royale-operator-pack.json](./427524-scope-battle-royale-operator-pack.json) |
 | Scope Out | 372505 | [372505-scope-out.json](./372505-scope-out.json) |
 | Scopecreep | 370891 | [370891-scopecreep.json](./370891-scopecreep.json) |
 | Scopic | 132865 | [132865-scopic.json](./132865-scopic.json) |
@@ -5151,7 +5151,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seclusion Sword | 161432 | [161432-seclusion-sword.json](./161432-seclusion-sword.json) |
 | Seclusion: Islesbury | 28147 | [28147-seclusion-islesbury.json](./28147-seclusion-islesbury.json) |
 | Second Base | 388257 | [388257-second-base.json](./388257-second-base.json) |
-| Second Battle of El Alamein | 100769 | [100769-second-battle-of-el-alamein.json](./100769-second-battle-of-el-alamein.json) |
 | Second Chance | 111668 | [111668-second-chance.json](./111668-second-chance.json) |
 | Second Chance | 144198 | [144198-second-chance.json](./144198-second-chance.json) |
 | Second Chance | 182971 | [182971-second-chance.json](./182971-second-chance.json) |
@@ -5776,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeekOut | 391614 | [391614-seekout.json](./391614-seekout.json) |
 | SeekSeek: A Hide & Seek Adventure | 185471 | [185471-seekseek-a-hide-and-seek-adventure.json](./185471-seekseek-a-hide-and-seek-adventure.json) |
 | Seema's Pogo | 366112 | [366112-seemas-pogo.json](./366112-seemas-pogo.json) |
+| Seema's Pogo 3: Hop Together | 427541 | [427541-seemas-pogo-3-hop-together.json](./427541-seemas-pogo-3-hop-together.json) |
 | Seemly Girl Escape | 233493 | [233493-seemly-girl-escape.json](./233493-seemly-girl-escape.json) |
 | Seemonster | 40784 | [40784-seemonster.json](./40784-seemonster.json) |
 | Seen | 117641 | [117641-seen.json](./117641-seen.json) |
@@ -13041,7 +13041,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple FPS Platformer | 347268 | [347268-simple-fps-platformer.json](./347268-simple-fps-platformer.json) |
 | Simple Game | 121602 | [121602-simple-game.json](./121602-simple-game.json) |
 | Simple Game | 248938 | [248938-simple-game.json](./248938-simple-game.json) |
-| Simple Golfing | 99434 | [99434-simple-golfing.json](./99434-simple-golfing.json) |
 | Simple Hats | 341945 | [341945-simple-hats.json](./341945-simple-hats.json) |
 | Simple Idel | 194370 | [194370-simple-idel.json](./194370-simple-idel.json) |
 | Simple Increment | 239458 | [239458-simple-increment.json](./239458-simple-increment.json) |
@@ -15373,7 +15372,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashy Chords: Guitar Warriors | 256541 | [256541-slashy-chords-guitar-warriors.json](./256541-slashy-chords-guitar-warriors.json) |
 | Slashy Hero | 31357 | [31357-slashy-hero.json](./31357-slashy-hero.json) |
 | Slashy Knight | 105925 | [105925-slashy-knight.json](./105925-slashy-knight.json) |
-| Slashy Sushi | 99268 | [99268-slashy-sushi.json](./99268-slashy-sushi.json) |
 | SlashZero | 394680 | [394680-slashzero.json](./394680-slashzero.json) |
 | Slashzone | 356014 | [356014-slashzone.json](./356014-slashzone.json) |
 | Slask's Adventure | 259921 | [259921-slasks-adventure.json](./259921-slasks-adventure.json) |
@@ -16960,7 +16958,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashy Cannon | 359532 | [359532-smashy-cannon.json](./359532-smashy-cannon.json) |
 | Smashy City | 99919 | [99919-smashy-city.json](./99919-smashy-city.json) |
 | Smashy Dash 2 | 100996 | [100996-smashy-dash-2.json](./100996-smashy-dash-2.json) |
-| Smashy Drift | 100784 | [100784-smashy-drift.json](./100784-smashy-drift.json) |
 | Smashy Duo | 297392 | [297392-smashy-duo.json](./297392-smashy-duo.json) |
 | Smashy Road: Arena | 86948 | [86948-smashy-road-arena.json](./86948-smashy-road-arena.json) |
 | Smashy Road: Race | 187887 | [187887-smashy-road-race.json](./187887-smashy-road-race.json) |
@@ -19851,6 +19848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SomnaBuster | 281378 | [281378-somnabuster.json](./281378-somnabuster.json) |
 | Somnambulo | 351385 | [351385-somnambulo.json](./351385-somnambulo.json) |
 | Somnamulizer: A Tale From Olympus U | 234803 | [234803-somnamulizer-a-tale-from-olympus-u.json](./234803-somnamulizer-a-tale-from-olympus-u.json) |
+| Somnaworld | 427531 | [427531-somnaworld.json](./427531-somnaworld.json) |
 | Somni | 172738 | [172738-somni.json](./172738-somni.json) |
 | Somniac | 409211 | [409211-somniac.json](./409211-somniac.json) |
 | Somniata | 285077 | [285077-somniata.json](./285077-somniata.json) |
@@ -22465,7 +22463,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Battle: Humanity | 51507 | [51507-space-battle-humanity.json](./51507-space-battle-humanity.json) |
 | Space Battle: Mayhem | 293519 | [293519-space-battle-mayhem.json](./293519-space-battle-mayhem.json) |
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
-| Space Battlecruiser | 99047 | [99047-space-battlecruiser.json](./99047-space-battlecruiser.json) |
 | Space Battlefield | 187979 | [187979-space-battlefield.json](./187979-space-battlefield.json) |
 | Space Battles | 80631 | [80631-space-battles.json](./80631-space-battles.json) |
 | Space Battleship Yamato: Eiyuu no Kiseki | 278227 | [278227-space-battleship-yamato-eiyuu-no-kiseki.json](./278227-space-battleship-yamato-eiyuu-no-kiseki.json) |
@@ -22537,7 +22534,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cantina | 259073 | [259073-space-cantina.json](./259073-space-cantina.json) |
 | Space Canyon | 40771 | [40771-space-canyon.json](./40771-space-canyon.json) |
 | Space Capsule | 345911 | [345911-space-capsule.json](./345911-space-capsule.json) |
-| Space Captain McCallery Episode 1: Crash Landing | 99160 | [99160-space-captain-mccallery-episode-1-crash-landing.json](./99160-space-captain-mccallery-episode-1-crash-landing.json) |
 | Space Captain McCallery Episode 2: Pilgrims in Purple Moss | 112842 | [112842-space-captain-mccallery-episode-2-pilgrims-in-purple-moss.json](./112842-space-captain-mccallery-episode-2-pilgrims-in-purple-moss.json) |
 | Space Captain McCallery Episode 3: The Weaponmaster's Challenge | 142381 | [142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json](./142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json) |
 | Space Captain McCallery Episode 4: The Turquoise Temple | 245977 | [245977-space-captain-mccallery-episode-4-the-turquoise-temple.json](./245977-space-captain-mccallery-episode-4-the-turquoise-temple.json) |
@@ -22716,7 +22712,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Eggs | 25244 | [25244-space-eggs.json](./25244-space-eggs.json) |
 | Space electrician | 126668 | [126668-space-electrician.json](./126668-space-electrician.json) |
 | Space Elevator Project | 293532 | [293532-space-elevator-project.json](./293532-space-elevator-project.json) |
-| Space Elite Force | 100593 | [100593-space-elite-force.json](./100593-space-elite-force.json) |
 | Space Elite Force 2 in 1 | 213856 | [213856-space-elite-force-2-in-1.json](./213856-space-elite-force-2-in-1.json) |
 | Space Elite Force II | 128181 | [128181-space-elite-force-ii.json](./128181-space-elite-force-ii.json) |
 | Space Empires | 15649 | [15649-space-empires.json](./15649-space-empires.json) |
@@ -23408,7 +23403,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rot | 418156 | [418156-space-rot.json](./418156-space-rot.json) |
 | Space Route | 213091 | [213091-space-route.json](./213091-space-route.json) |
 | Space Routine | 131799 | [131799-space-routine.json](./131799-space-routine.json) |
-| Space RPG 3 | 99407 | [99407-space-rpg-3.json](./99407-space-rpg-3.json) |
 | Space Run | 202768 | [202768-space-run.json](./202768-space-run.json) |
 | Space Run : Super Car Endless Game 2014 | 106730 | [106730-space-run-super-car-endless-game-2014.json](./106730-space-run-super-car-endless-game-2014.json) |
 | Space Run Galaxy | 19158 | [19158-space-run-galaxy.json](./19158-space-run-galaxy.json) |
@@ -25636,7 +25630,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinzer.io | 55164 | [55164-spinzer-io.json](./55164-spinzer-io.json) |
 | Spiral | 424241 | [424241-spiral.json](./424241-spiral.json) |
 | Spiral | 99942 | [99942-spiral.json](./99942-spiral.json) |
-| Spiral 3D | 99854 | [99854-spiral-3d.json](./99854-spiral-3d.json) |
 | Spiral Clicker | 110994 | [110994-spiral-clicker.json](./110994-spiral-clicker.json) |
 | Spiral Clicker: Christmas Survivors | 323077 | [323077-spiral-clicker-christmas-survivors.json](./323077-spiral-clicker-christmas-survivors.json) |
 | Spiral Destiny | 19144 | [19144-spiral-destiny.json](./19144-spiral-destiny.json) |
@@ -27362,7 +27355,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squids Wild West | 19879 | [19879-squids-wild-west.json](./19879-squids-wild-west.json) |
 | Squids: Battle Arena | 217446 | [217446-squids-battle-arena.json](./217446-squids-battle-arena.json) |
 | Squidview | 381251 | [381251-squidview.json](./381251-squidview.json) |
-| Squidward Neighbor. Sponge Revenge of Bob | 100791 | [100791-squidward-neighbor-sponge-revenge-of-bob.json](./100791-squidward-neighbor-sponge-revenge-of-bob.json) |
 | Squidward Tentacles Jigsaw | 320895 | [320895-squidward-tentacles-jigsaw.json](./320895-squidward-tentacles-jigsaw.json) |
 | Squidward Tractor | 320896 | [320896-squidward-tractor.json](./320896-squidward-tractor.json) |
 | Squidward's Suicide | 164757 | [164757-squidwards-suicide.json](./164757-squidwards-suicide.json) |
@@ -30944,7 +30936,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stepbystep | 111978 | [111978-stepbystep.json](./111978-stepbystep.json) |
 | StepByStep | 371906 | [371906-stepbystep.json](./371906-stepbystep.json) |
 | Stepfight | 370048 | [370048-stepfight.json](./370048-stepfight.json) |
-| Steph IQ | 100611 | [100611-steph-iq.json](./100611-steph-iq.json) |
 | Stephen Huneck's PuzzleSpace | 58286 | [58286-stephen-hunecks-puzzlespace.json](./58286-stephen-hunecks-puzzlespace.json) |
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
 | Stephen King's F13 | 92828 | [92828-stephen-kings-f13.json](./92828-stephen-kings-f13.json) |
@@ -31386,7 +31377,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Here | 208684 | [208684-still-here.json](./208684-still-here.json) |
 | Still Here | 97223 | [97223-still-here.json](./97223-still-here.json) |
 | Still Here: A Pip Adventure | 175035 | [175035-still-here-a-pip-adventure.json](./175035-still-here-a-pip-adventure.json) |
-| Still Here... A cute Adventure | 100773 | [100773-still-here-a-cute-adventure.json](./100773-still-here-a-cute-adventure.json) |
 | Still Here... Flight Adventure | 99178 | [99178-still-here-flight-adventure.json](./99178-still-here-flight-adventure.json) |
 | Still Heroes | 197963 | [197963-still-heroes.json](./197963-still-heroes.json) |
 | Still House | 366887 | [366887-still-house.json](./366887-still-house.json) |
@@ -33874,6 +33864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submersed 2: The Hive | 290476 | [290476-submersed-2-the-hive.json](./290476-submersed-2-the-hive.json) |
 | Submersible | 272372 | [272372-submersible.json](./272372-submersible.json) |
 | Submersible Simulator: Discover the Titanic into Ocean | 271274 | [271274-submersible-simulator-discover-the-titanic-into-ocean.json](./271274-submersible-simulator-discover-the-titanic-into-ocean.json) |
+| Submersible: Aquanaut Update | 427519 | [427519-submersible-aquanaut-update.json](./427519-submersible-aquanaut-update.json) |
 | Submind | 416091 | [416091-submind.json](./416091-submind.json) |
 | Submission | 353496 | [353496-submission.json](./353496-submission.json) |
 | Submorse | 168600 | [168600-submorse.json](./168600-submorse.json) |
@@ -35949,7 +35940,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cross Force | 40906 | [40906-super-cross-force.json](./40906-super-cross-force.json) |
 | Super Cross II | 40429 | [40429-super-cross-ii.json](./40429-super-cross-ii.json) |
 | Super Cross Kings | 54412 | [54412-super-cross-kings.json](./54412-super-cross-kings.json) |
-| Super Crossbar Challenge | 100790 | [100790-super-crossbar-challenge.json](./100790-super-crossbar-challenge.json) |
 | Super Crossfire | 65448 | [65448-super-crossfire.json](./65448-super-crossfire.json) |
 | Super Crown Land | 318548 | [318548-super-crown-land.json](./318548-super-crown-land.json) |
 | Super Crowns Golf | 133528 | [133528-super-crowns-golf.json](./133528-super-crowns-golf.json) |
@@ -39496,7 +39486,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperTux Wii | 205620 | [205620-supertux-wii.json](./205620-supertux-wii.json) |
 | SuperTux: Octo's Levels | 230761 | [230761-supertux-octos-levels.json](./230761-supertux-octos-levels.json) |
 | SuperTuxKart | 10763 | [10763-supertuxkart.json](./10763-supertuxkart.json) |
-| Supertype | 99180 | [99180-supertype.json](./99180-supertype.json) |
 | Superverse | 94065 | [94065-superverse.json](./94065-superverse.json) |
 | SuperVHS | 213268 | [213268-supervhs.json](./213268-supervhs.json) |
 | Supervive | 255078 | [255078-supervive.json](./255078-supervive.json) |
@@ -39779,6 +39768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surround | 18002 | [18002-surround.json](./18002-surround.json) |
 | SurrounDead | 153225 | [153225-surroundead.json](./153225-surroundead.json) |
 | SurrounDead Poly Construction | 399158 | [399158-surroundead-poly-construction.json](./399158-surroundead-poly-construction.json) |
+| SurrounDead Poly Construction: Bone Arm | 427545 | [427545-surroundead-poly-construction-bone-arm.json](./427545-surroundead-poly-construction-bone-arm.json) |
 | Surrounded | 187157 | [187157-surrounded.json](./187157-surrounded.json) |
 | Surrounded by Death | 311613 | [311613-surrounded-by-death.json](./311613-surrounded-by-death.json) |
 | Surrounded by mice | 118105 | [118105-surrounded-by-mice.json](./118105-surrounded-by-mice.json) |
