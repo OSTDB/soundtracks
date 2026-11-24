@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-24T02:06:08.447Z",
-  "total_soundtracks": 3931,
+  "generated_at": "2026-11-24T02:25:57.109Z",
+  "total_soundtracks": 3932,
   "games": [
     {
       "igdb_id": 292844,
@@ -2553,6 +2553,20 @@
         {
           "album_name": "Arkanoid Eternal Battle (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2bnKEW2PTiBGwMCEMLrhoK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 104175,
+      "game_name": "Arkhangel: The House of the Seven Stars",
+      "game_url": "https://ostdb.net/games/arkhangel-the-house-of-the-seven-stars",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bff69ab6aaec2adb708c9a10",
+      "albums": [
+        {
+          "album_name": "Arkhangel: The House of the Seven Stars Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5LXv6lNdL03L5QO1LnFqpQ",
           "apple_music_url": "",
           "album_link_url": ""
         }
