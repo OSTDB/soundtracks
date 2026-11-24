@@ -4597,6 +4597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat and Dog Adventure | 95564 | [95564-cat-and-dog-adventure.json](./95564-cat-and-dog-adventure.json) |
 | Cat and Dog Salon: Joyful Pets | 87166 | [87166-cat-and-dog-salon-joyful-pets.json](./87166-cat-and-dog-salon-joyful-pets.json) |
 | Cat and Fish | 187648 | [187648-cat-and-fish.json](./187648-cat-and-fish.json) |
+| Cat and Ghostly Road | 114073 | [114073-cat-and-ghostly-road.json](./114073-cat-and-ghostly-road.json) |
 | Cat and Ghosts | 234994 | [234994-cat-and-ghosts.json](./234994-cat-and-ghosts.json) |
 | Cat and Isle of Stars | 375203 | [375203-cat-and-isle-of-stars.json](./375203-cat-and-isle-of-stars.json) |
 | Cat and Ladder Climb | 252877 | [252877-cat-and-ladder-climb.json](./252877-cat-and-ladder-climb.json) |
@@ -20049,6 +20050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Tale: Snow Child | 346386 | [346386-creepy-tale-snow-child.json](./346386-creepy-tale-snow-child.json) |
 | Creepy Tale: Some Other Place | 257910 | [257910-creepy-tale-some-other-place.json](./257910-creepy-tale-some-other-place.json) |
 | Creepy Tales | 305978 | [305978-creepy-tales.json](./305978-creepy-tales.json) |
+| Creepy Vision | 114823 | [114823-creepy-vision.json](./114823-creepy-vision.json) |
 | Creepy Waves FM: Bugs Fixer | 322724 | [322724-creepy-waves-fm-bugs-fixer.json](./322724-creepy-waves-fm-bugs-fixer.json) |
 | CreepyDates | 408876 | [408876-creepydates.json](./408876-creepydates.json) |
 | Creepypasta Land | 130346 | [130346-creepypasta-land.json](./130346-creepypasta-land.json) |
