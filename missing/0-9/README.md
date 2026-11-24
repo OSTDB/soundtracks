@@ -1293,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules VI: Race for Olympus - Collectors Edition | 338897 | [338897-12-labours-of-hercules-vi-race-for-olympus-collectors-edition.json](./338897-12-labours-of-hercules-vi-race-for-olympus-collectors-edition.json) |
 | 12 Labours of Hercules VII: Fleecing the Fleece | 81036 | [81036-12-labours-of-hercules-vii-fleecing-the-fleece.json](./81036-12-labours-of-hercules-vii-fleecing-the-fleece.json) |
 | 12 Labours of Hercules VII: Fleecing the Fleece - Collector's Edition | 338898 | [338898-12-labours-of-hercules-vii-fleecing-the-fleece-collectors-edition.json](./338898-12-labours-of-hercules-vii-fleecing-the-fleece-collectors-edition.json) |
+| 12 Labours of Hercules VIII: How I Met Megara | 113390 | [113390-12-labours-of-hercules-viii-how-i-met-megara.json](./113390-12-labours-of-hercules-viii-how-i-met-megara.json) |
 | 12 Labours of Hercules VIII: How I Met Megara - Collector's Edition | 338899 | [338899-12-labours-of-hercules-viii-how-i-met-megara-collectors-edition.json](./338899-12-labours-of-hercules-viii-how-i-met-megara-collectors-edition.json) |
 | 12 Labours of Hercules X: Greed for Speed | 131992 | [131992-12-labours-of-hercules-x-greed-for-speed.json](./131992-12-labours-of-hercules-x-greed-for-speed.json) |
 | 12 Labours of Hercules X: Greed for Speed - Collector's Edition | 338901 | [338901-12-labours-of-hercules-x-greed-for-speed-collectors-edition.json](./338901-12-labours-of-hercules-x-greed-for-speed-collectors-edition.json) |
@@ -3855,6 +3856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Floor | 305696 | [305696-7th-floor.json](./305696-7th-floor.json) |
 | 7th Legion | 9895 | [9895-7th-legion.json](./9895-7th-legion.json) |
 | 7th Memory | 255428 | [255428-7th-memory.json](./255428-7th-memory.json) |
+| 7th Sea: A Pirate's Pact | 113865 | [113865-7th-sea-a-pirates-pact.json](./113865-7th-sea-a-pirates-pact.json) |
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
 | 7th Serpent: Crossfire | 214930 | [214930-7th-serpent-crossfire.json](./214930-7th-serpent-crossfire.json) |
 | 7th Serpent: Genesis | 214932 | [214932-7th-serpent-genesis.json](./214932-7th-serpent-genesis.json) |
