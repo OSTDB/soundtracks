@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Certain Magical Index: Imaginary Fest | 113625 | [113625-a-certain-magical-index-imaginary-fest.json](./113625-a-certain-magical-index-imaginary-fest.json) |
 | A Ch'ti Bundle | 147792 | [147792-a-chti-bundle.json](./147792-a-chti-bundle.json) |
 | A Chainsaw Across My Heart | 181155 | [181155-a-chainsaw-across-my-heart.json](./181155-a-chainsaw-across-my-heart.json) |
+| A Chair in a Room: Greenwater | 33902 | [33902-a-chair-in-a-room-greenwater.json](./33902-a-chair-in-a-room-greenwater.json) |
 | A Challenging Game About Parkour | 379464 | [379464-a-challenging-game-about-parkour.json](./379464-a-challenging-game-about-parkour.json) |
 | A Chamber of Stars | 216710 | [216710-a-chamber-of-stars.json](./216710-a-chamber-of-stars.json) |
 | A Change in the Weather | 60182 | [60182-a-change-in-the-weather.json](./60182-a-change-in-the-weather.json) |
@@ -1532,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Stroll in Space | 102026 | [102026-a-stroll-in-space.json](./102026-a-stroll-in-space.json) |
 | A Studied Seduction | 417213 | [417213-a-studied-seduction.json](./417213-a-studied-seduction.json) |
 | A Study in Blue | 386249 | [386249-a-study-in-blue.json](./386249-a-study-in-blue.json) |
+| A Study in Steampunk: Choice by Gaslight | 34030 | [34030-a-study-in-steampunk-choice-by-gaslight.json](./34030-a-study-in-steampunk-choice-by-gaslight.json) |
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
 | A Stygian Anguish | 275191 | [275191-a-stygian-anguish.json](./275191-a-stygian-anguish.json) |
 | A Subtle Kind of Murder: A Murder Simulator | 184018 | [184018-a-subtle-kind-of-murder-a-murder-simulator.json](./184018-a-subtle-kind-of-murder-a-murder-simulator.json) |
@@ -5175,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL 99 | 60580 | [60580-afl-99.json](./60580-afl-99.json) |
 | AFL Auskick Space League | 228875 | [228875-afl-auskick-space-league.json](./228875-afl-auskick-space-league.json) |
 | AFL Challenge | 68302 | [68302-afl-challenge.json](./68302-afl-challenge.json) |
+| AFL Evolution | 33701 | [33701-afl-evolution.json](./33701-afl-evolution.json) |
 | AFL Evolution 2 | 132944 | [132944-afl-evolution-2.json](./132944-afl-evolution-2.json) |
 | AFL Evolution Plus Season Pack 2018 | 118683 | [118683-afl-evolution-plus-season-pack-2018.json](./118683-afl-evolution-plus-season-pack-2018.json) |
 | AFL Finals Fever | 72156 | [72156-afl-finals-fever.json](./72156-afl-finals-fever.json) |
@@ -6299,6 +6302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai-(Onic) | 197878 | [197878-ai-onic.json](./197878-ai-onic.json) |
 | AI-deal-Rays | 347373 | [347373-ai-deal-rays.json](./347373-ai-deal-rays.json) |
 | AI: Art Impostor | 219980 | [219980-ai-art-impostor.json](./219980-ai-art-impostor.json) |
+| AI: Rampage | 33611 | [33611-ai-rampage.json](./33611-ai-rampage.json) |
 | AI: The Somnium Files | 104971 | [104971-ai-the-somnium-files.json](./104971-ai-the-somnium-files.json) |
 | AI: The Somnium Files - Double Pack | 237754 | [237754-ai-the-somnium-files-double-pack.json](./237754-ai-the-somnium-files-double-pack.json) |
 | AI: The Somnium Files - Limited Edition | 136219 | [136219-ai-the-somnium-files-limited-edition.json](./136219-ai-the-somnium-files-limited-edition.json) |
@@ -17630,6 +17634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asda Story Chapter 3 | 66442 | [66442-asda-story-chapter-3.json](./66442-asda-story-chapter-3.json) |
 | ASDAD: All-Stars Dungeons and Diamonds | 35571 | [35571-asdad-all-stars-dungeons-and-diamonds.json](./35571-asdad-all-stars-dungeons-and-diamonds.json) |
 | Asdivine Collection | 172729 | [172729-asdivine-collection.json](./172729-asdivine-collection.json) |
+| Asdivine Cross | 38982 | [38982-asdivine-cross.json](./38982-asdivine-cross.json) |
 | Asdivine Dios | 38981 | [38981-asdivine-dios.json](./38981-asdivine-dios.json) |
 | Asdivine Hearts | 34347 | [34347-asdivine-hearts.json](./34347-asdivine-hearts.json) |
 | Asdivine Hearts I & II | 196276 | [196276-asdivine-hearts-i-and-ii.json](./196276-asdivine-hearts-i-and-ii.json) |
@@ -18950,6 +18955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Defender | 364560 | [364560-astro-defender.json](./364560-astro-defender.json) |
 | Astro Delivery | 372380 | [372380-astro-delivery.json](./372380-astro-delivery.json) |
 | Astro Destroyers | 346131 | [346131-astro-destroyers.json](./346131-astro-destroyers.json) |
+| Astro Duel | 33856 | [33856-astro-duel.json](./33856-astro-duel.json) |
 | Astro Duel 2 | 217131 | [217131-astro-duel-2.json](./217131-astro-duel-2.json) |
 | Astro Duel Deluxe | 56030 | [56030-astro-duel-deluxe.json](./56030-astro-duel-deluxe.json) |
 | Astro Duel Deluxe + Astro Duel 2 | 386215 | [386215-astro-duel-deluxe-astro-duel-2.json](./386215-astro-duel-deluxe-astro-duel-2.json) |
