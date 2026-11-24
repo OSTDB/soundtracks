@@ -1623,7 +1623,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unchi | 392556 | [392556-unchi.json](./392556-unchi.json) |
 | Unchosen: Forsaken | 164592 | [164592-unchosen-forsaken.json](./164592-unchosen-forsaken.json) |
 | Unciv | 144487 | [144487-unciv.json](./144487-unciv.json) |
-| Uncivil War TCG: Trading Card Game | 99417 | [99417-uncivil-war-tcg-trading-card-game.json](./99417-uncivil-war-tcg-trading-card-game.json) |
 | Uncivilized | 176176 | [176176-uncivilized.json](./176176-uncivilized.json) |
 | Unclaimed | 424678 | [424678-unclaimed.json](./424678-unclaimed.json) |
 | Unclaimed World | 17130 | [17130-unclaimed-world.json](./17130-unclaimed-world.json) |
@@ -2006,7 +2005,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercurrent: The Hollow Crown | 421578 | [421578-undercurrent-the-hollow-crown.json](./421578-undercurrent-the-hollow-crown.json) |
 | Underdark | 357535 | [357535-underdark.json](./357535-underdark.json) |
 | UnderDark | 313950 | [313950-underdark.json](./313950-underdark.json) |
-| Underdeck | 100755 | [100755-underdeck.json](./100755-underdeck.json) |
 | Underdeep | 423858 | [423858-underdeep.json](./423858-underdeep.json) |
 | Underdog Arena | 133515 | [133515-underdog-arena.json](./133515-underdog-arena.json) |
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
