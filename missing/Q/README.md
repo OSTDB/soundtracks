@@ -1421,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quizee | 171897 | [171897-quizee.json](./171897-quizee.json) |
 | Quizei | 375799 | [375799-quizei.json](./375799-quizei.json) |
 | QuizFizz | 255140 | [255140-quizfizz.json](./255140-quizfizz.json) |
+| QuizForge | 428817 | [428817-quizforge.json](./428817-quizforge.json) |
 | QuizKnock Stadium | 153511 | [153511-quizknock-stadium.json](./153511-quizknock-stadium.json) |
 | Quizl | 225272 | [225272-quizl.json](./225272-quizl.json) |
 | QuizLobby | 420804 | [420804-quizlobby.json](./420804-quizlobby.json) |
@@ -1485,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qwak! | 11511 | [11511-qwak.json](./11511-qwak.json) |
 | Qwepoi | 292255 | [292255-qwepoi.json](./292255-qwepoi.json) |
 | Qwert: A New Type of Word Game! | 250270 | [250270-qwert-a-new-type-of-word-game.json](./250270-qwert-a-new-type-of-word-game.json) |
+| Qwerting | 428068 | [428068-qwerting.json](./428068-qwerting.json) |
 | Qwerty | 209743 | [209743-qwerty.json](./209743-qwerty.json) |
 | Qwerty Garden | 396585 | [396585-qwerty-garden.json](./396585-qwerty-garden.json) |
 | Qwerty Quest | 238787 | [238787-qwerty-quest.json](./238787-qwerty-quest.json) |
