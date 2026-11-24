@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Quiz: This One Is Free | 196034 | [196034-easy-quiz-this-one-is-free.json](./196034-easy-quiz-this-one-is-free.json) |
 | Easy Racer | 179223 | [179223-easy-racer.json](./179223-easy-racer.json) |
 | Easy Racing | 113213 | [113213-easy-racing.json](./113213-easy-racing.json) |
+| Easy Red | 75944 | [75944-easy-red.json](./75944-easy-red.json) |
 | Easy Red 2 | 166920 | [166920-easy-red-2.json](./166920-easy-red-2.json) |
 | Easy Red 2: Ardennes 1940 & 1944 | 272983 | [272983-easy-red-2-ardennes-1940-and-1944.json](./272983-easy-red-2-ardennes-1940-and-1944.json) |
 | Easy Red 2: Normandy | 268595 | [268595-easy-red-2-normandy.json](./268595-easy-red-2-normandy.json) |
@@ -5223,6 +5224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
 | Epic Battle Fantasy: Adventure Story | 143725 | [143725-epic-battle-fantasy-adventure-story.json](./143725-epic-battle-fantasy-adventure-story.json) |
 | Epic Battle Simulator | 99694 | [99694-epic-battle-simulator.json](./99694-epic-battle-simulator.json) |
+| Epic Battle Simulator 2 | 75046 | [75046-epic-battle-simulator-2.json](./75046-epic-battle-simulator-2.json) |
 | Epic Battles of History | 158613 | [158613-epic-battles-of-history.json](./158613-epic-battles-of-history.json) |
 | Epic Beard | 62031 | [62031-epic-beard.json](./62031-epic-beard.json) |
 | Epic Beard 2 | 62028 | [62028-epic-beard-2.json](./62028-epic-beard-2.json) |
