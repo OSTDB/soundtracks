@@ -3328,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Happy Restaurant | 319241 | [319241-we-happy-restaurant.json](./319241-we-happy-restaurant.json) |
 | We Harvest Shadows | 314241 | [314241-we-harvest-shadows.json](./314241-we-harvest-shadows.json) |
 | We Have a Frog Problem | 228997 | [228997-we-have-a-frog-problem.json](./228997-we-have-a-frog-problem.json) |
+| We Have a Gnome Problem | 428796 | [428796-we-have-a-gnome-problem.json](./428796-we-have-a-gnome-problem.json) |
 | We Have a Sheep Problem | 429611 | [429611-we-have-a-sheep-problem.json](./429611-we-have-a-sheep-problem.json) |
 | We Have Doom at Home | 361303 | [361303-we-have-doom-at-home.json](./361303-we-have-doom-at-home.json) |
 | We Have Evangelion at Home | 363911 | [363911-we-have-evangelion-at-home.json](./363911-we-have-evangelion-at-home.json) |
@@ -4441,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Dog Remembers | 405835 | [405835-what-the-dog-remembers.json](./405835-what-the-dog-remembers.json) |
 | What the Dub?! | 144808 | [144808-what-the-dub.json](./144808-what-the-dub.json) |
 | What the Duck | 140782 | [140782-what-the-duck.json](./140782-what-the-duck.json) |
+| What the Flip!? | 428787 | [428787-what-the-flip.json](./428787-what-the-flip.json) |
 | What The Floosh Game | 307625 | [307625-what-the-floosh-game.json](./307625-what-the-floosh-game.json) |
 | What the Fog | 300793 | [300793-what-the-fog.json](./300793-what-the-fog.json) |
 | What the Fork | 139685 | [139685-what-the-fork.json](./139685-what-the-fork.json) |
@@ -10011,6 +10013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Next | 288093 | [288093-world-war-next.json](./288093-world-war-next.json) |
 | World War One: Centennial Edition | 52113 | [52113-world-war-one-centennial-edition.json](./52113-world-war-one-centennial-edition.json) |
 | World War One: Gold Edition | 52114 | [52114-world-war-one-gold-edition.json](./52114-world-war-one-gold-edition.json) |
+| World War Online | 428714 | [428714-world-war-online.json](./428714-world-war-online.json) |
 | World War Party: Game of Trump | 75054 | [75054-world-war-party-game-of-trump.json](./75054-world-war-party-game-of-trump.json) |
 | World War Polygon | 175693 | [175693-world-war-polygon.json](./175693-world-war-polygon.json) |
 | World War Robot | 180713 | [180713-world-war-robot.json](./180713-world-war-robot.json) |
