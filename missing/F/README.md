@@ -608,7 +608,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Shadows | 42880 | [42880-fading-shadows.json](./42880-fading-shadows.json) |
 | Fading Skies | 291768 | [291768-fading-skies.json](./291768-fading-skies.json) |
 | Fading Star Melody | 328098 | [328098-fading-star-melody.json](./328098-fading-star-melody.json) |
-| Fading Visage | 101622 | [101622-fading-visage.json](./101622-fading-visage.json) |
 | Fadó | 124188 | [124188-fado.json](./124188-fado.json) |
 | Fadry | 187636 | [187636-fadry.json](./187636-fadry.json) |
 | Fae & Fauna | 244566 | [244566-fae-and-fauna.json](./244566-fae-and-fauna.json) |
@@ -3726,7 +3725,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of Fire: Kyvedy Guardiah | 310340 | [310340-fate-of-fire-kyvedy-guardiah.json](./310340-fate-of-fire-kyvedy-guardiah.json) |
 | Fate of Gun | 363418 | [363418-fate-of-gun.json](./363418-fate-of-gun.json) |
 | Fate of Hellas | 21302 | [21302-fate-of-hellas.json](./21302-fate-of-hellas.json) |
-| Fate of India | 104324 | [104324-fate-of-india.json](./104324-fate-of-india.json) |
 | Fate of Kai | 139314 | [139314-fate-of-kai.json](./139314-fate-of-kai.json) |
 | Fate of New Albans | 247822 | [247822-fate-of-new-albans.json](./247822-fate-of-new-albans.json) |
 | Fate of Persephone | 152630 | [152630-fate-of-persephone.json](./152630-fate-of-persephone.json) |
@@ -4731,7 +4729,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferulorum | 338689 | [338689-ferulorum.json](./338689-ferulorum.json) |
 | Ferus: The Dark Abyss | 385829 | [385829-ferus-the-dark-abyss.json](./385829-ferus-the-dark-abyss.json) |
 | Fervent | 310647 | [310647-fervent.json](./310647-fervent.json) |
-| Fesnia | 104448 | [104448-fesnia.json](./104448-fesnia.json) |
 | Fest Guests | 302389 | [302389-fest-guests.json](./302389-fest-guests.json) |
 | Festa Estranha | 180884 | [180884-festa-estranha.json](./180884-festa-estranha.json) |
 | Festa!! Hyper Girls Party | 326637 | [326637-festa-hyper-girls-party.json](./326637-festa-hyper-girls-party.json) |
@@ -6112,7 +6109,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
 | Final Hour | 340075 | [340075-final-hour.json](./340075-final-hour.json) |
 | Final Hours: 1983 | 427215 | [427215-final-hours-1983.json](./427215-final-hours-1983.json) |
-| Final Hunter: Wild Animal Hunting | 101561 | [101561-final-hunter-wild-animal-hunting.json](./101561-final-hunter-wild-animal-hunting.json) |
 | Final Inferno | 179068 | [179068-final-inferno.json](./179068-final-inferno.json) |
 | Final Islands | 113476 | [113476-final-islands.json](./113476-final-islands.json) |
 | Final Judgment - Damnation Day | 110302 | [110302-final-judgment-damnation-day.json](./110302-final-judgment-damnation-day.json) |
@@ -7283,7 +7279,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firing Range | 65055 | [65055-firing-range.json](./65055-firing-range.json) |
 | Firing Vibes | 139680 | [139680-firing-vibes.json](./139680-firing-vibes.json) |
 | Firma | 35232 | [35232-firma.json](./35232-firma.json) |
-| Firmament Wars | 104042 | [104042-firmament-wars.json](./104042-firmament-wars.json) |
 | Firo & Klawd | 28218 | [28218-firo-and-klawd.json](./28218-firo-and-klawd.json) |
 | Firon | 114979 | [114979-firon.json](./114979-firon.json) |
 | First | 171658 | [171658-first.json](./171658-first.json) |
@@ -7854,7 +7849,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing: North Atlantic - Scallops Expansion | 163660 | [163660-fishing-north-atlantic-scallops-expansion.json](./163660-fishing-north-atlantic-scallops-expansion.json) |
 | Fishing? | 316952 | [316952-fishing.json](./316952-fishing.json) |
 | FishingCard | 373870 | [373870-fishingcard.json](./373870-fishingcard.json) |
-| FishingStrike | 100879 | [100879-fishingstrike.json](./100879-fishingstrike.json) |
 | Fishjong | 239836 | [239836-fishjong.json](./239836-fishjong.json) |
 | Fishjong 2 | 239724 | [239724-fishjong-2.json](./239724-fishjong-2.json) |
 | Fishkeeper | 143890 | [143890-fishkeeper.json](./143890-fishkeeper.json) |
@@ -8500,7 +8494,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame Beetles | 246318 | [246318-flame-beetles.json](./246318-flame-beetles.json) |
 | Flame Glow | 104805 | [104805-flame-glow.json](./104805-flame-glow.json) |
 | Flame Gunner | 267397 | [267397-flame-gunner.json](./267397-flame-gunner.json) |
-| Flame Hero | 101421 | [101421-flame-hero.json](./101421-flame-hero.json) |
 | Flame Hunter: Zhong Kui | 424046 | [424046-flame-hunter-zhong-kui.json](./424046-flame-hunter-zhong-kui.json) |
 | Flame in Glass | 392238 | [392238-flame-in-glass.json](./392238-flame-in-glass.json) |
 | Flame Keeper | 168698 | [168698-flame-keeper.json](./168698-flame-keeper.json) |
@@ -9652,7 +9645,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flotsam | 74527 | [74527-flotsam.json](./74527-flotsam.json) |
 | Flotsam and Jetsam Potion Commotion | 246522 | [246522-flotsam-and-jetsam-potion-commotion.json](./246522-flotsam-and-jetsam-potion-commotion.json) |
 | Flotsam Song | 270233 | [270233-flotsam-song.json](./270233-flotsam-song.json) |
-| Flotus | 103480 | [103480-flotus.json](./103480-flotus.json) |
 | Flou | 57423 | [57423-flou.json](./57423-flou.json) |
 | Flounder | 397709 | [397709-flounder.json](./397709-flounder.json) |
 | Flounder's Starry Night | 246524 | [246524-flounders-starry-night.json](./246524-flounders-starry-night.json) |
@@ -12014,7 +12006,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Fire | 63675 | [63675-fort-fire.json](./63675-fort-fire.json) |
 | Fort Flow | 207408 | [207408-fort-flow.json](./207408-fort-flow.json) |
 | Fort Golf | 138624 | [138624-fort-golf.json](./138624-fort-golf.json) |
-| Fort Knight Zombie Attack Battleground Survival | 101210 | [101210-fort-knight-zombie-attack-battleground-survival.json](./101210-fort-knight-zombie-attack-battleground-survival.json) |
 | Fort Loop | 183015 | [183015-fort-loop.json](./183015-fort-loop.json) |
 | Fort Meow | 11246 | [11246-fort-meow.json](./11246-fort-meow.json) |
 | Fort Ratsack | 271784 | [271784-fort-ratsack.json](./271784-fort-ratsack.json) |
@@ -12028,7 +12019,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Zombie | 27498 | [27498-fort-zombie.json](./27498-fort-zombie.json) |
 | Fort:Night Last Battleground Royale Survival | 95886 | [95886-fort-night-last-battleground-royale-survival.json](./95886-fort-night-last-battleground-royale-survival.json) |
 | Forte Craft Explore Island | 101383 | [101383-forte-craft-explore-island.json](./101383-forte-craft-explore-island.json) |
-| Forte Craft: Pixel Builder | 100805 | [100805-forte-craft-pixel-builder.json](./100805-forte-craft-pixel-builder.json) |
 | Forteresse | 256408 | [256408-forteresse.json](./256408-forteresse.json) |
 | Forthold | 390215 | [390215-forthold.json](./390215-forthold.json) |
 | Fortias Saga | 299356 | [299356-fortias-saga.json](./299356-fortias-saga.json) |
@@ -13025,7 +13015,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Fairy Tales: The Frog Prince | 91798 | [91798-fractured-fairy-tales-the-frog-prince.json](./91798-fractured-fairy-tales-the-frog-prince.json) |
 | Fractured Fury | 244216 | [244216-fractured-fury.json](./244216-fractured-fury.json) |
 | Fractured Horizon | 285648 | [285648-fractured-horizon.json](./285648-fractured-horizon.json) |
-| Fractured Lands | 102871 | [102871-fractured-lands.json](./102871-fractured-lands.json) |
 | Fractured Library | 366699 | [366699-fractured-library.json](./366699-fractured-library.json) |
 | Fractured Light | 240830 | [240830-fractured-light.json](./240830-fractured-light.json) |
 | Fractured Memories | 332789 | [332789-fractured-memories.json](./332789-fractured-memories.json) |
@@ -13256,7 +13245,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankenstein Jnr. | 13441 | [13441-frankenstein-jnr.json](./13441-frankenstein-jnr.json) |
 | Frankenstein RPG | 426613 | [426613-frankenstein-rpg.json](./426613-frankenstein-rpg.json) |
 | Frankenstein: Awakening of Horror | 407727 | [407727-frankenstein-awakening-of-horror.json](./407727-frankenstein-awakening-of-horror.json) |
-| Frankenstein: Beyond the Time | 103752 | [103752-frankenstein-beyond-the-time.json](./103752-frankenstein-beyond-the-time.json) |
 | Frankenstein: Birth of a Myth | 109569 | [109569-frankenstein-birth-of-a-myth.json](./109569-frankenstein-birth-of-a-myth.json) |
 | Frankenstein: Room Escape | 313761 | [313761-frankenstein-room-escape.json](./313761-frankenstein-room-escape.json) |
 | Frankenstein: Story Type Room Escape Adventure | 137428 | [137428-frankenstein-story-type-room-escape-adventure.json](./137428-frankenstein-story-type-room-escape-adventure.json) |
@@ -13750,7 +13738,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeze: The Escape | 79902 | [79902-freeze-the-escape.json](./79902-freeze-the-escape.json) |
 | Freeze! 2: Brothers | 59476 | [59476-freeze-2-brothers.json](./59476-freeze-2-brothers.json) |
 | Freeze64 Christmas Game | 281530 | [281530-freeze64-christmas-game.json](./281530-freeze64-christmas-game.json) |
-| Freezeer | 103630 | [103630-freezeer.json](./103630-freezeer.json) |
 | Freezeframe | 193246 | [193246-freezeframe.json](./193246-freezeframe.json) |
 | FreezeME | 23480 | [23480-freezeme.json](./23480-freezeme.json) |
 | Freezer Frenzy | 305698 | [305698-freezer-frenzy.json](./305698-freezer-frenzy.json) |
@@ -13805,7 +13792,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frenzy Islands | 371211 | [371211-frenzy-islands.json](./371211-frenzy-islands.json) |
 | Frenzy Plants | 122187 | [122187-frenzy-plants.json](./122187-frenzy-plants.json) |
 | Frenzy Retribution | 122306 | [122306-frenzy-retribution.json](./122306-frenzy-retribution.json) |
-| Frenzy Train: Undead Vengeance | 100831 | [100831-frenzy-train-undead-vengeance.json](./100831-frenzy-train-undead-vengeance.json) |
 | Frenzy VR | 165453 | [165453-frenzy-vr.json](./165453-frenzy-vr.json) |
 | Frenzy! | 135647 | [135647-frenzy.json](./135647-frenzy.json) |
 | Freon | 165803 | [165803-freon.json](./165803-freon.json) |
@@ -14448,7 +14434,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy | 193290 | [193290-froggy.json](./193290-froggy.json) |
 | Froggy | 227828 | [227828-froggy.json](./227828-froggy.json) |
 | Froggy | 394321 | [394321-froggy.json](./394321-froggy.json) |
-| Froggy BOI | 101290 | [101290-froggy-boi.json](./101290-froggy-boi.json) |
 | Froggy Bouncing Adventures | 293048 | [293048-froggy-bouncing-adventures.json](./293048-froggy-bouncing-adventures.json) |
 | Froggy Brews | 351261 | [351261-froggy-brews.json](./351261-froggy-brews.json) |
 | Froggy Castle | 243405 | [243405-froggy-castle.json](./243405-froggy-castle.json) |
@@ -14610,7 +14595,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Them | 302202 | [302202-from-them.json](./302202-from-them.json) |
 | From Two Sides | 371605 | [371605-from-two-sides.json](./371605-from-two-sides.json) |
 | From View | 159368 | [159368-from-view.json](./159368-from-view.json) |
-| From Village to Empire | 101243 | [101243-from-village-to-empire.json](./101243-from-village-to-empire.json) |
 | From Warrior to Hero | 367751 | [367751-from-warrior-to-hero.json](./367751-from-warrior-to-hero.json) |
 | From Within | 177830 | [177830-from-within.json](./177830-from-within.json) |
 | From Within | 201434 | [201434-from-within.json](./201434-from-within.json) |
@@ -15897,7 +15881,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious Race | 105985 | [105985-furious-race.json](./105985-furious-race.json) |
 | Furious Rage | 271884 | [271884-furious-rage.json](./271884-furious-rage.json) |
 | Furious Revenge of Bolo | 153893 | [153893-furious-revenge-of-bolo.json](./153893-furious-revenge-of-bolo.json) |
-| Furious Seas | 103775 | [103775-furious-seas.json](./103775-furious-seas.json) |
 | Furious Sword | 226357 | [226357-furious-sword.json](./226357-furious-sword.json) |
 | Furious: Heat Racing | 199910 | [199910-furious-heat-racing.json](./199910-furious-heat-racing.json) |
 | Furistas Cat Cafe | 106594 | [106594-furistas-cat-cafe.json](./106594-furistas-cat-cafe.json) |
