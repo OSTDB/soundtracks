@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gracewind Tale: Midnight Shift with Lenny Motts | 327729 | [327729-a-gracewind-tale-midnight-shift-with-lenny-motts.json](./327729-a-gracewind-tale-midnight-shift-with-lenny-motts.json) |
 | A Gracewind Tale: The Leeds Murder | 327730 | [327730-a-gracewind-tale-the-leeds-murder.json](./327730-a-gracewind-tale-the-leeds-murder.json) |
 | A Grain of Truth | 388278 | [388278-a-grain-of-truth.json](./388278-a-grain-of-truth.json) |
+| A Grande Bagunça Espacial: The Big Space Mess | 90459 | [90459-a-grande-bagunca-espacial-the-big-space-mess.json](./90459-a-grande-bagunca-espacial-the-big-space-mess.json) |
 | A Grave Errand | 419620 | [419620-a-grave-errand.json](./419620-a-grave-errand.json) |
 | A Grave Mistake | 309152 | [309152-a-grave-mistake.json](./309152-a-grave-mistake.json) |
 | A Graveyard for Dreams | 182105 | [182105-a-graveyard-for-dreams.json](./182105-a-graveyard-for-dreams.json) |
@@ -2827,6 +2828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Baseball Stars 2 | 116527 | [116527-aca-neo-geo-baseball-stars-2.json](./116527-aca-neo-geo-baseball-stars-2.json) |
 | ACA Neo Geo: Baseball Stars Professional | 102345 | [102345-aca-neo-geo-baseball-stars-professional.json](./102345-aca-neo-geo-baseball-stars-professional.json) |
 | ACA Neo Geo: Big Tournament Golf | 147093 | [147093-aca-neo-geo-big-tournament-golf.json](./147093-aca-neo-geo-big-tournament-golf.json) |
+| ACA Neo Geo: Blazing Star | 90518 | [90518-aca-neo-geo-blazing-star.json](./90518-aca-neo-geo-blazing-star.json) |
 | ACA Neo Geo: Blue's Journey | 68483 | [68483-aca-neo-geo-blues-journey.json](./68483-aca-neo-geo-blues-journey.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
 | ACA Neo Geo: Crossed Swords | 118707 | [118707-aca-neo-geo-crossed-swords.json](./118707-aca-neo-geo-crossed-swords.json) |
@@ -6953,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Renovator Simulator | 267295 | [267295-airport-renovator-simulator.json](./267295-airport-renovator-simulator.json) |
 | Airport Run | 268016 | [268016-airport-run.json](./268016-airport-run.json) |
 | Airport Rush 3D | 234432 | [234432-airport-rush-3d.json](./234432-airport-rush-3d.json) |
+| Airport Scanner | 91172 | [91172-airport-scanner.json](./91172-airport-scanner.json) |
 | Airport Security Sucks! | 397694 | [397694-airport-security-sucks.json](./397694-airport-security-sucks.json) |
 | Airport Service Simulator | 204979 | [204979-airport-service-simulator.json](./204979-airport-service-simulator.json) |
 | Airport Simulator | 52386 | [52386-airport-simulator.json](./52386-airport-simulator.json) |
@@ -7667,6 +7670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alder Choke | 217926 | [217926-alder-choke.json](./217926-alder-choke.json) |
 | Alder Forge | 186480 | [186480-alder-forge.json](./186480-alder-forge.json) |
 | Alder Forge 2 | 385983 | [385983-alder-forge-2.json](./385983-alder-forge-2.json) |
+| Alder's Blood | 90277 | [90277-alders-blood.json](./90277-alders-blood.json) |
 | Alder's Blood: Definitive Edition | 173167 | [173167-alders-blood-definitive-edition.json](./173167-alders-blood-definitive-edition.json) |
 | Alder's Blood: Prologue | 129232 | [129232-alders-blood-prologue.json](./129232-alders-blood-prologue.json) |
 | Alderun | 424945 | [424945-alderun.json](./424945-alderun.json) |
@@ -12938,6 +12942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Shadow | 237468 | [237468-another-shadow.json](./237468-another-shadow.json) |
 | Another Side | 201872 | [201872-another-side.json](./201872-another-side.json) |
 | Another Sight | 186835 | [186835-another-sight.json](./186835-another-sight.json) |
+| Another Sight | 90146 | [90146-another-sight.json](./90146-another-sight.json) |
 | Another Sight: Hodge's Journey | 111691 | [111691-another-sight-hodges-journey.json](./111691-another-sight-hodges-journey.json) |
 | Another Small Favor... | 58011 | [58011-another-small-favor.json](./58011-another-small-favor.json) |
 | Another Sonic 2 Remake | 299015 | [299015-another-sonic-2-remake.json](./299015-another-sonic-2-remake.json) |
@@ -21380,6 +21385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Zombie Games Bundle | 165865 | [165865-awesome-zombie-games-bundle.json](./165865-awesome-zombie-games-bundle.json) |
 | Awesome: The Game | 313359 | [313359-awesome-the-game.json](./313359-awesome-the-game.json) |
 | Awesomenauts Assemble! | 5595 | [5595-awesomenauts-assemble.json](./5595-awesomenauts-assemble.json) |
+| Awesomenauts Assemble!: Fully Loaded Pack | 90661 | [90661-awesomenauts-assemble-fully-loaded-pack.json](./90661-awesomenauts-assemble-fully-loaded-pack.json) |
 | Awesomenauts Overdrive | 109468 | [109468-awesomenauts-overdrive.json](./109468-awesomenauts-overdrive.json) |
 | Awesomenauts Starstorm | 109469 | [109469-awesomenauts-starstorm.json](./109469-awesomenauts-starstorm.json) |
 | Awesum Plus | 69452 | [69452-awesum-plus.json](./69452-awesum-plus.json) |
