@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Thrones: A Telltale Games Series - Episode 4: Sons of Winter | 127070 | [127070-game-of-thrones-a-telltale-games-series-episode-4-sons-of-winter.json](./127070-game-of-thrones-a-telltale-games-series-episode-4-sons-of-winter.json) |
 | Game of Thrones: A Telltale Games Series - Episode 5: A Nest of Vipers | 127071 | [127071-game-of-thrones-a-telltale-games-series-episode-5-a-nest-of-vipers.json](./127071-game-of-thrones-a-telltale-games-series-episode-5-a-nest-of-vipers.json) |
 | Game of Thrones: A Telltale Games Series - Episode 6: The Ice Dragon | 127072 | [127072-game-of-thrones-a-telltale-games-series-episode-6-the-ice-dragon.json](./127072-game-of-thrones-a-telltale-games-series-episode-6-the-ice-dragon.json) |
+| Game of Thrones: Ascent | 23595 | [23595-game-of-thrones-ascent.json](./23595-game-of-thrones-ascent.json) |
 | Game of Thrones: Beyond the Wall - Blood Bound | 171636 | [171636-game-of-thrones-beyond-the-wall-blood-bound.json](./171636-game-of-thrones-beyond-the-wall-blood-bound.json) |
 | Game of Thrones: Conquest | 56967 | [56967-game-of-thrones-conquest.json](./56967-game-of-thrones-conquest.json) |
 | Game of Thrones: Dragonfire | 418431 | [418431-game-of-thrones-dragonfire.json](./418431-game-of-thrones-dragonfire.json) |
