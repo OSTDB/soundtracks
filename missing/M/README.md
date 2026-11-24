@@ -17300,6 +17300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole Cart Mining | 391830 | [391830-mole-cart-mining.json](./391830-mole-cart-mining.json) |
 | Mole Digging | 349309 | [349309-mole-digging.json](./349309-mole-digging.json) |
 | Mole Escape | 417721 | [417721-mole-escape.json](./417721-mole-escape.json) |
+| Mole Game | 129721 | [129721-mole-game.json](./129721-mole-game.json) |
 | Mole Gem Mayhem | 294988 | [294988-mole-gem-mayhem.json](./294988-mole-gem-mayhem.json) |
 | Mole Hunter | 281635 | [281635-mole-hunter.json](./281635-mole-hunter.json) |
 | Mole Hunter | 282773 | [282773-mole-hunter.json](./282773-mole-hunter.json) |
@@ -23966,6 +23967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Isekai After Life is an RPG!? | 153392 | [153392-my-isekai-after-life-is-an-rpg.json](./153392-my-isekai-after-life-is-an-rpg.json) |
 | My Isekai Hotel | 404059 | [404059-my-isekai-hotel.json](./404059-my-isekai-hotel.json) |
 | My IShowSpeed | 286333 | [286333-my-ishowspeed.json](./286333-my-ishowspeed.json) |
+| My Island | 114113 | [114113-my-island.json](./114113-my-island.json) |
 | My Japanese Coach | 68938 | [68938-my-japanese-coach.json](./68938-my-japanese-coach.json) |
 | My Japanese Teacher | 418766 | [418766-my-japanese-teacher.json](./418766-my-japanese-teacher.json) |
 | My Jigsaw Adventures: A Lost Story | 162964 | [162964-my-jigsaw-adventures-a-lost-story.json](./162964-my-jigsaw-adventures-a-lost-story.json) |
