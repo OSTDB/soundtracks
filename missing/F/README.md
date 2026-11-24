@@ -4181,6 +4181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FearFactor Institute | 356445 | [356445-fearfactor-institute.json](./356445-fearfactor-institute.json) |
 | Fearful Injection | 298204 | [298204-fearful-injection.json](./298204-fearful-injection.json) |
 | Fearful Symmetry | 336907 | [336907-fearful-symmetry.json](./336907-fearful-symmetry.json) |
+| Fearful Symmetry & The Cursed Prince | 75932 | [75932-fearful-symmetry-and-the-cursed-prince.json](./75932-fearful-symmetry-and-the-cursed-prince.json) |
 | Fearful Tales: Hansel and Gretel | 22108 | [22108-fearful-tales-hansel-and-gretel.json](./22108-fearful-tales-hansel-and-gretel.json) |
 | Fearful Tales: Hansel and Gretel - Collector's Edition | 22078 | [22078-fearful-tales-hansel-and-gretel-collectors-edition.json](./22078-fearful-tales-hansel-and-gretel-collectors-edition.json) |
 | Fearium | 328151 | [328151-fearium.json](./328151-fearium.json) |
@@ -15343,6 +15344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Metal Jackpot | 106772 | [106772-full-metal-jackpot.json](./106772-full-metal-jackpot.json) |
 | Full Metal Monsters | 119648 | [119648-full-metal-monsters.json](./119648-full-metal-monsters.json) |
 | Full Metal Nun | 411666 | [411666-full-metal-nun.json](./411666-full-metal-nun.json) |
+| Full Metal Panic! Fight! Who Dares Wins | 75378 | [75378-full-metal-panic-fight-who-dares-wins.json](./75378-full-metal-panic-fight-who-dares-wins.json) |
 | Full Metal Panic! Fight! Who Dares Wins: Specialist Box Limited Edition | 166969 | [166969-full-metal-panic-fight-who-dares-wins-specialist-box-limited-edition.json](./166969-full-metal-panic-fight-who-dares-wins-specialist-box-limited-edition.json) |
 | Full Metal Planet | 12110 | [12110-full-metal-planet.json](./12110-full-metal-planet.json) |
 | Full Metal Renegade | 105169 | [105169-full-metal-renegade.json](./105169-full-metal-renegade.json) |
