@@ -1510,7 +1510,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Story About You | 420470 | [420470-a-story-about-you.json](./420470-a-story-about-you.json) |
 | A Story in Bronze Ware | 263820 | [263820-a-story-in-bronze-ware.json](./263820-a-story-in-bronze-ware.json) |
 | A Story In Space | 158612 | [158612-a-story-in-space.json](./158612-a-story-in-space.json) |
-| A Story of a Band | 103227 | [103227-a-story-of-a-band.json](./103227-a-story-of-a-band.json) |
 | A Story of a Company! | 200740 | [200740-a-story-of-a-company.json](./200740-a-story-of-a-company.json) |
 | A Story of Distress | 86606 | [86606-a-story-of-distress.json](./86606-a-story-of-distress.json) |
 | A Story of Merchant | 172294 | [172294-a-story-of-merchant.json](./172294-a-story-of-merchant.json) |
@@ -2623,7 +2622,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abstract Arena | 33632 | [33632-abstract-arena.json](./33632-abstract-arena.json) |
 | Abstract Code | 283873 | [283873-abstract-code.json](./283873-abstract-code.json) |
 | Abstract Driver | 250450 | [250450-abstract-driver.json](./250450-abstract-driver.json) |
-| Abstract Golfing | 101402 | [101402-abstract-golfing.json](./101402-abstract-golfing.json) |
 | Abstract Grind | 221097 | [221097-abstract-grind.json](./221097-abstract-grind.json) |
 | Abstract Hell | 113278 | [113278-abstract-hell.json](./113278-abstract-hell.json) |
 | Abstract Initiative | 44748 | [44748-abstract-initiative.json](./44748-abstract-initiative.json) |
@@ -3299,7 +3297,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Collector: Dog | 114352 | [114352-achievement-collector-dog.json](./114352-achievement-collector-dog.json) |
 | Achievement Collector: Space | 110522 | [110522-achievement-collector-space.json](./110522-achievement-collector-space.json) |
 | Achievement Collector: Zombie | 114370 | [114370-achievement-collector-zombie.json](./114370-achievement-collector-zombie.json) |
-| Achievement Creator | 103757 | [103757-achievement-creator.json](./103757-achievement-creator.json) |
 | Achievement Display Cabinet | 258207 | [258207-achievement-display-cabinet.json](./258207-achievement-display-cabinet.json) |
 | Achievement Dummy | 110387 | [110387-achievement-dummy.json](./110387-achievement-dummy.json) |
 | Achievement Hunter: Alien | 334767 | [334767-achievement-hunter-alien.json](./334767-achievement-hunter-alien.json) |
@@ -8081,7 +8078,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alicia Griffith: Lakeside Murder | 30050 | [30050-alicia-griffith-lakeside-murder.json](./30050-alicia-griffith-lakeside-murder.json) |
 | Alicia Griffith: Lakeside Murder - Collector's Edition | 246612 | [246612-alicia-griffith-lakeside-murder-collectors-edition.json](./246612-alicia-griffith-lakeside-murder-collectors-edition.json) |
 | Alicia Online | 60233 | [60233-alicia-online.json](./60233-alicia-online.json) |
-| Alicia Quatermain 2: The Stone of Fate | 104740 | [104740-alicia-quatermain-2-the-stone-of-fate.json](./104740-alicia-quatermain-2-the-stone-of-fate.json) |
 | Alicia Quatermain 3: The Mystery of the Flaming Gold | 113180 | [113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json](./113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json) |
 | Alicia Quatermain 4: Da Vinci and the Time Machine | 125030 | [125030-alicia-quatermain-4-da-vinci-and-the-time-machine.json](./125030-alicia-quatermain-4-da-vinci-and-the-time-machine.json) |
 | Alicia Quatermain: Secret of the Lost Treasures - Collector's Edition | 357118 | [357118-alicia-quatermain-secret-of-the-lost-treasures-collectors-edition.json](./357118-alicia-quatermain-secret-of-the-lost-treasures-collectors-edition.json) |
@@ -8528,7 +8524,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens In Paradise | 217463 | [217463-aliens-in-paradise.json](./217463-aliens-in-paradise.json) |
 | Aliens in the Attic | 50970 | [50970-aliens-in-the-attic.json](./50970-aliens-in-the-attic.json) |
 | Aliens in the Yard | 43183 | [43183-aliens-in-the-yard.json](./43183-aliens-in-the-yard.json) |
-| Aliens Invaded Our Planet | 103642 | [103642-aliens-invaded-our-planet.json](./103642-aliens-invaded-our-planet.json) |
 | Aliens Invasion | 282800 | [282800-aliens-invasion.json](./282800-aliens-invasion.json) |
 | Aliens Like Milk | 200186 | [200186-aliens-like-milk.json](./200186-aliens-like-milk.json) |
 | Aliens Love Beefs | 132529 | [132529-aliens-love-beefs.json](./132529-aliens-love-beefs.json) |
@@ -9832,7 +9827,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | aMaze Achievements: darkness | 63724 | [63724-amaze-achievements-darkness.json](./63724-amaze-achievements-darkness.json) |
 | Amaze Adventure | 192590 | [192590-amaze-adventure.json](./192590-amaze-adventure.json) |
 | Amaze Classic | 98686 | [98686-amaze-classic.json](./98686-amaze-classic.json) |
-| Amaze Classic: Inverted | 104079 | [104079-amaze-classic-inverted.json](./104079-amaze-classic-inverted.json) |
 | Amaze Dark Times | 55285 | [55285-amaze-dark-times.json](./55285-amaze-dark-times.json) |
 | AMaze DOS | 191078 | [191078-amaze-dos.json](./191078-amaze-dos.json) |
 | Amaze Double | 75005 | [75005-amaze-double.json](./75005-amaze-double.json) |
@@ -10128,7 +10122,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ame no Tokyo Eki | 286662 | [286662-ame-no-tokyo-eki.json](./286662-ame-no-tokyo-eki.json) |
 | Ame Nochi Hare Onna | 418300 | [418300-ame-nochi-hare-onna.json](./418300-ame-nochi-hare-onna.json) |
 | Ame's Happy Happy Dating Game | 283603 | [283603-ames-happy-happy-dating-game.json](./283603-ames-happy-happy-dating-game.json) |
-| Ameagari no Hanaby | 104847 | [104847-ameagari-no-hanaby.json](./104847-ameagari-no-hanaby.json) |
 | Amedama | 255913 | [255913-amedama.json](./255913-amedama.json) |
 | Ameena: Witchborn Duelist | 303331 | [303331-ameena-witchborn-duelist.json](./303331-ameena-witchborn-duelist.json) |
 | Amegas | 11898 | [11898-amegas.json](./11898-amegas.json) |
@@ -11036,7 +11029,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Forest Escape | 315692 | [315692-ancient-forest-escape.json](./315692-ancient-forest-escape.json) |
 | Ancient Frog | 67645 | [67645-ancient-frog.json](./67645-ancient-frog.json) |
 | Ancient Frontier: Quests & Events | 170510 | [170510-ancient-frontier-quests-and-events.json](./170510-ancient-frontier-quests-and-events.json) |
-| Ancient Frontier: Steel Shadows | 103412 | [103412-ancient-frontier-steel-shadows.json](./103412-ancient-frontier-steel-shadows.json) |
 | Ancient Frontier: Steel Shadows Beta | 112585 | [112585-ancient-frontier-steel-shadows-beta.json](./112585-ancient-frontier-steel-shadows-beta.json) |
 | Ancient Frontier: Tactics | 391310 | [391310-ancient-frontier-tactics.json](./391310-ancient-frontier-tactics.json) |
 | Ancient Frontier: The Crew | 170509 | [170509-ancient-frontier-the-crew.json](./170509-ancient-frontier-the-crew.json) |
@@ -13274,7 +13266,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antiquity Jones | 391280 | [391280-antiquity-jones.json](./391280-antiquity-jones.json) |
 | Antireal | 272833 | [272833-antireal.json](./272833-antireal.json) |
 | Antiriad | 45331 | [45331-antiriad.json](./45331-antiriad.json) |
-| Antirocketh | 104149 | [104149-antirocketh.json](./104149-antirocketh.json) |
 | AntiShatter | 219693 | [219693-antishatter.json](./219693-antishatter.json) |
 | Antishoot | 283918 | [283918-antishoot.json](./283918-antishoot.json) |
 | Antisnake | 102441 | [102441-antisnake.json](./102441-antisnake.json) |
@@ -13437,7 +13428,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anytime Pool | 65488 | [65488-anytime-pool.json](./65488-anytime-pool.json) |
 | Anyu | 252318 | [252318-anyu.json](./252318-anyu.json) |
 | Anyway | 189312 | [189312-anyway.json](./189312-anyway.json) |
-| AnyWay! | 102412 | [102412-anyway.json](./102412-anyway.json) |
 | AnyWay!: Challenge #1 | 151558 | [151558-anyway-challenge-1.json](./151558-anyway-challenge-1.json) |
 | Anywhere RPG | 422686 | [422686-anywhere-rpg.json](./422686-anywhere-rpg.json) |
 | Anywhere You've Been | 178601 | [178601-anywhere-youve-been.json](./178601-anywhere-youve-been.json) |
@@ -15073,7 +15063,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Asylum | 276711 | [276711-arcade-asylum.json](./276711-arcade-asylum.json) |
 | Arcade Audience | 417501 | [417501-arcade-audience.json](./417501-arcade-audience.json) |
 | Arcade Bank 3 Minute Tetris | 233648 | [233648-arcade-bank-3-minute-tetris.json](./233648-arcade-bank-3-minute-tetris.json) |
-| Arcade Basketball | 100900 | [100900-arcade-basketball.json](./100900-arcade-basketball.json) |
 | Arcade Basketball 3D Tournament Edition | 241611 | [241611-arcade-basketball-3d-tournament-edition.json](./241611-arcade-basketball-3d-tournament-edition.json) |
 | Arcade Basketball Blitz Online | 235128 | [235128-arcade-basketball-blitz-online.json](./235128-arcade-basketball-blitz-online.json) |
 | Arcade Blast | 202699 | [202699-arcade-blast.json](./202699-arcade-blast.json) |
@@ -15230,7 +15219,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Tanks World: Tank Battle Simulator | 312093 | [312093-arcade-tanks-world-tank-battle-simulator.json](./312093-arcade-tanks-world-tank-battle-simulator.json) |
 | Arcade Together | 425830 | [425830-arcade-together.json](./425830-arcade-together.json) |
 | Arcade Trivia Quiz | 13328 | [13328-arcade-trivia-quiz.json](./13328-arcade-trivia-quiz.json) |
-| Arcade Tycoon | 103039 | [103039-arcade-tycoon.json](./103039-arcade-tycoon.json) |
 | Arcade Ultimate | 202783 | [202783-arcade-ultimate.json](./202783-arcade-ultimate.json) |
 | Arcade Ultimate Portable | 202788 | [202788-arcade-ultimate-portable.json](./202788-arcade-ultimate-portable.json) |
 | Arcade Ultimate Portable Video Game Player | 202790 | [202790-arcade-ultimate-portable-video-game-player.json](./202790-arcade-ultimate-portable-video-game-player.json) |
@@ -17363,7 +17351,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artist Survival Simulator | 130660 | [130660-artist-survival-simulator.json](./130660-artist-survival-simulator.json) |
 | Artist Tool | 59534 | [59534-artist-tool.json](./59534-artist-tool.json) |
 | Artistic Girl 1 | 286792 | [286792-artistic-girl-1.json](./286792-artistic-girl-1.json) |
-| Artists Kids Coloring Book | 100830 | [100830-artists-kids-coloring-book.json](./100830-artists-kids-coloring-book.json) |
 | Artists of a Dead World | 177307 | [177307-artists-of-a-dead-world.json](./177307-artists-of-a-dead-world.json) |
 | Artists of Fortune: Distant Worlds - Crystallus Planet | 148349 | [148349-artists-of-fortune-distant-worlds-crystallus-planet.json](./148349-artists-of-fortune-distant-worlds-crystallus-planet.json) |
 | Artists of Fortune: Distant Worlds - Ferrum Planet | 148350 | [148350-artists-of-fortune-distant-worlds-ferrum-planet.json](./148350-artists-of-fortune-distant-worlds-ferrum-planet.json) |
@@ -19568,7 +19555,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Marie: The Alchemist of Salburg | 26439 | [26439-atelier-marie-the-alchemist-of-salburg.json](./26439-atelier-marie-the-alchemist-of-salburg.json) |
 | Atelier Meruru Plus: The Apprentice of Arland | 42706 | [42706-atelier-meruru-plus-the-apprentice-of-arland.json](./42706-atelier-meruru-plus-the-apprentice-of-arland.json) |
 | Atelier Meruru: The Apprentice of Arland | 7277 | [7277-atelier-meruru-the-apprentice-of-arland.json](./7277-atelier-meruru-the-apprentice-of-arland.json) |
-| Atelier Meruru: The Apprentice of Arland DX | 105032 | [105032-atelier-meruru-the-apprentice-of-arland-dx.json](./105032-atelier-meruru-the-apprentice-of-arland-dx.json) |
 | Atelier Mysterious Trilogy DX | 143282 | [143282-atelier-mysterious-trilogy-dx.json](./143282-atelier-mysterious-trilogy-dx.json) |
 | Atelier Mysterious Trilogy DX: Premium Box | 143284 | [143284-atelier-mysterious-trilogy-dx-premium-box.json](./143284-atelier-mysterious-trilogy-dx-premium-box.json) |
 | Atelier Mysterious Trilogy DX: Special Collection Box | 143283 | [143283-atelier-mysterious-trilogy-dx-special-collection-box.json](./143283-atelier-mysterious-trilogy-dx-special-collection-box.json) |
@@ -20088,7 +20074,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Jersey Drones | 376981 | [376981-attack-of-the-jersey-drones.json](./376981-attack-of-the-jersey-drones.json) |
 | Attack of the Karens | 150376 | [150376-attack-of-the-karens.json](./150376-attack-of-the-karens.json) |
 | Attack of the Killer Beast | 234710 | [234710-attack-of-the-killer-beast.json](./234710-attack-of-the-killer-beast.json) |
-| Attack of the Killer Furries | 101261 | [101261-attack-of-the-killer-furries.json](./101261-attack-of-the-killer-furries.json) |
 | Attack of the Killer Swarm | 78922 | [78922-attack-of-the-killer-swarm.json](./78922-attack-of-the-killer-swarm.json) |
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
 | Attack of the Killer Tomatoes | 28435 | [28435-attack-of-the-killer-tomatoes.json](./28435-attack-of-the-killer-tomatoes.json) |
@@ -20324,7 +20309,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audio Drive Neon | 76491 | [76491-audio-drive-neon.json](./76491-audio-drive-neon.json) |
 | Audio Factory | 76149 | [76149-audio-factory.json](./76149-audio-factory.json) |
 | Audio Forager | 83963 | [83963-audio-forager.json](./83963-audio-forager.json) |
-| Audio Game (Wizard's Choice 2) | 100886 | [100886-audio-game-wizards-choice-2.json](./100886-audio-game-wizards-choice-2.json) |
 | Audio Hero | 26831 | [26831-audio-hero.json](./26831-audio-hero.json) |
 | Audio Infection | 111669 | [111669-audio-infection.json](./111669-audio-infection.json) |
 | Audio Ninja | 63022 | [63022-audio-ninja.json](./63022-audio-ninja.json) |
@@ -21397,7 +21381,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awfully Good Pizza | 148196 | [148196-awfully-good-pizza.json](./148196-awfully-good-pizza.json) |
 | Awita: Journey of Hope | 247968 | [247968-awita-journey-of-hope.json](./247968-awita-journey-of-hope.json) |
 | AWK: Adventures of Walker King | 201413 | [201413-awk-adventures-of-walker-king.json](./201413-awk-adventures-of-walker-king.json) |
-| Awkward | 101238 | [101238-awkward.json](./101238-awkward.json) |
 | Awkward 2 | 232874 | [232874-awkward-2.json](./232874-awkward-2.json) |
 | Awkward Date Hero | 109621 | [109621-awkward-date-hero.json](./109621-awkward-date-hero.json) |
 | Awkward Dimensions | 22380 | [22380-awkward-dimensions.json](./22380-awkward-dimensions.json) |
