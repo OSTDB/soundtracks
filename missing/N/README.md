@@ -5458,7 +5458,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightSong | 303935 | [303935-nightsong.json](./303935-nightsong.json) |
 | Nightstalkers | 422077 | [422077-nightstalkers.json](./422077-nightstalkers.json) |
 | NightStar | 126130 | [126130-nightstar.json](./126130-nightstar.json) |
-| Nightstar: Alliance | 103233 | [103233-nightstar-alliance.json](./103233-nightstar-alliance.json) |
 | Nightstar: Rogue Wings | 29419 | [29419-nightstar-rogue-wings.json](./29419-nightstar-rogue-wings.json) |
 | Nightstar: Starfighter | 31815 | [31815-nightstar-starfighter.json](./31815-nightstar-starfighter.json) |
 | Nightstars | 233964 | [233964-nightstars.json](./233964-nightstars.json) |
