@@ -4477,6 +4477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peek-A-Mimic Christmas Castle | 326261 | [326261-peek-a-mimic-christmas-castle.json](./326261-peek-a-mimic-christmas-castle.json) |
 | Peekablock | 414002 | [414002-peekablock.json](./414002-peekablock.json) |
 | Peekaboo | 337585 | [337585-peekaboo.json](./337585-peekaboo.json) |
+| Peekaboo Collection - 3 Tales of Horror | 132347 | [132347-peekaboo-collection-3-tales-of-horror.json](./132347-peekaboo-collection-3-tales-of-horror.json) |
 | Peekaboo Lite | 250306 | [250306-peekaboo-lite.json](./250306-peekaboo-lite.json) |
 | Peekazoo | 211284 | [211284-peekazoo.json](./211284-peekazoo.json) |
 | Peeking at the peak | 278387 | [278387-peeking-at-the-peak.json](./278387-peeking-at-the-peak.json) |
@@ -14364,6 +14365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ponon! Deluxe | 263576 | [263576-ponon-deluxe.json](./263576-ponon-deluxe.json) |
 | Ponpoko | 39395 | [39395-ponpoko.json](./39395-ponpoko.json) |
 | PonPonTown | 372986 | [372986-ponpontown.json](./372986-ponpontown.json) |
+| Ponpu | 132777 | [132777-ponpu.json](./132777-ponpu.json) |
 | Ponster | 196511 | [196511-ponster.json](./196511-ponster.json) |
 | Pontefract | 139317 | [139317-pontefract.json](./139317-pontefract.json) |
 | Pontifex | 78898 | [78898-pontifex.json](./78898-pontifex.json) |
@@ -16981,6 +16983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Principles of Evil: Volume II | 71272 | [71272-principles-of-evil-volume-ii.json](./71272-principles-of-evil-volume-ii.json) |
 | Pringles | 45559 | [45559-pringles.json](./45559-pringles.json) |
 | Pringles Chip Racer | 335431 | [335431-pringles-chip-racer.json](./335431-pringles-chip-racer.json) |
+| Prinny 1 & 2: Exploded and Reloaded | 133809 | [133809-prinny-1-and-2-exploded-and-reloaded.json](./133809-prinny-1-and-2-exploded-and-reloaded.json) |
 | Prinny 1•2: Exploded and Reloaded - Just Desserts Edition | 136215 | [136215-prinny-1-2-exploded-and-reloaded-just-desserts-edition.json](./136215-prinny-1-2-exploded-and-reloaded-just-desserts-edition.json) |
 | Prinny 2: Dawn of Operation Panties, Dood! | 21769 | [21769-prinny-2-dawn-of-operation-panties-dood.json](./21769-prinny-2-dawn-of-operation-panties-dood.json) |
 | Prinny Party: Going Overboard! | 394548 | [394548-prinny-party-going-overboard.json](./394548-prinny-party-going-overboard.json) |
@@ -19290,6 +19293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProtoCorgi | 115884 | [115884-protocorgi.json](./115884-protocorgi.json) |
 | Protocoss | 145588 | [145588-protocoss.json](./145588-protocoss.json) |
 | Protocoss Oejeon: Darasian-pyeon | 145600 | [145600-protocoss-oejeon-darasian-pyeon.json](./145600-protocoss-oejeon-darasian-pyeon.json) |
+| Protodroid Delta | 133170 | [133170-protodroid-delta.json](./133170-protodroid-delta.json) |
 | ProtoDungeon: Episode I | 181879 | [181879-protodungeon-episode-i.json](./181879-protodungeon-episode-i.json) |
 | ProtoDungeon: Episode II | 405620 | [405620-protodungeon-episode-ii.json](./405620-protodungeon-episode-ii.json) |
 | ProtoDungeon: Episode III | 117646 | [117646-protodungeon-episode-iii.json](./117646-protodungeon-episode-iii.json) |
