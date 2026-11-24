@@ -13980,7 +13980,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rulehouse | 422402 | [422402-rulehouse.json](./422402-rulehouse.json) |
 | Rulent Tower VR | 134989 | [134989-rulent-tower-vr.json](./134989-rulent-tower-vr.json) |
 | Ruler Battle Online | 302256 | [302256-ruler-battle-online.json](./302256-ruler-battle-online.json) |
-| Ruler by Default | 99004 | [99004-ruler-by-default.json](./99004-ruler-by-default.json) |
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
 | Ruler of the Roost | 410169 | [410169-ruler-of-the-roost.json](./410169-ruler-of-the-roost.json) |
 | Ruler of the Waves 1916 | 227838 | [227838-ruler-of-the-waves-1916.json](./227838-ruler-of-the-waves-1916.json) |
