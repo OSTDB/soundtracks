@@ -2463,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinsei Game: Happy Step | 344633 | [344633-jinsei-game-happy-step.json](./344633-jinsei-game-happy-step.json) |
 | Jinsei Game: Tomodachi Takusan Tsukurou yo! | 228565 | [228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json](./228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json) |
 | Jinsei Owata no Daibouken | 285132 | [285132-jinsei-owata-no-daibouken.json](./285132-jinsei-owata-no-daibouken.json) |
+| Jinshin | 208100 | [208100-jinshin.json](./208100-jinshin.json) |
 | Jintori Action! Taikoukenchi: Karakuri Shiro no Nazo | 344636 | [344636-jintori-action-taikoukenchi-karakuri-shiro-no-nazo.json](./344636-jintori-action-taikoukenchi-karakuri-shiro-no-nazo.json) |
 | Jinx | 22223 | [22223-jinx.json](./22223-jinx.json) |
 | Jinx | 369191 | [369191-jinx.json](./369191-jinx.json) |
