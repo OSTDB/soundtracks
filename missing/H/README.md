@@ -4351,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Fire: Red Shadow | 102863 | [102863-heavy-fire-red-shadow.json](./102863-heavy-fire-red-shadow.json) |
 | Heavy Fire: Shattered Spear | 10404 | [10404-heavy-fire-shattered-spear.json](./10404-heavy-fire-shattered-spear.json) |
 | Heavy Fire: Special Operations | 408862 | [408862-heavy-fire-special-operations.json](./408862-heavy-fire-special-operations.json) |
+| Heavy Fire: Special Operations 3D | 23589 | [23589-heavy-fire-special-operations-3d.json](./23589-heavy-fire-special-operations-3d.json) |
 | Heavy Fire: The Chosen Few | 145344 | [145344-heavy-fire-the-chosen-few.json](./145344-heavy-fire-the-chosen-few.json) |
 | Heavy Front | 380710 | [380710-heavy-front.json](./380710-heavy-front.json) |
 | Heavy Gear | 51364 | [51364-heavy-gear.json](./51364-heavy-gear.json) |
@@ -5188,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Guest | 140605 | [140605-hello-guest.json](./140605-hello-guest.json) |
 | Hello Helix | 108494 | [108494-hello-helix.json](./108494-hello-helix.json) |
 | Hello Hello | 184492 | [184492-hello-hello.json](./184492-hello-hello.json) |
+| Hello Hero | 23590 | [23590-hello-hero.json](./23590-hello-hero.json) |
 | Hello Human | 135716 | [135716-hello-human.json](./135716-hello-human.json) |
 | Hello inc VR | 28941 | [28941-hello-inc-vr.json](./28941-hello-inc-vr.json) |
 | Hello Kitty & Friends: Rock n' World Tour | 83210 | [83210-hello-kitty-and-friends-rock-n-world-tour.json](./83210-hello-kitty-and-friends-rock-n-world-tour.json) |
@@ -13557,6 +13559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo Troll Race | 64496 | [64496-hugo-troll-race.json](./64496-hugo-troll-race.json) |
 | Hugo XL | 204888 | [204888-hugo-xl.json](./204888-hugo-xl.json) |
 | Hugo: Black Diamond Fever | 230878 | [230878-hugo-black-diamond-fever.json](./230878-hugo-black-diamond-fever.json) |
+| Hugo: Black Diamond Fever | 23556 | [23556-hugo-black-diamond-fever.json](./23556-hugo-black-diamond-fever.json) |
 | Hugo: Bukkazoom | 165052 | [165052-hugo-bukkazoom.json](./165052-hugo-bukkazoom.json) |
 | Hugo: Bukkazoom | 49423 | [49423-hugo-bukkazoom.json](./49423-hugo-bukkazoom.json) |
 | Hugo: Cannon Cruise | 43547 | [43547-hugo-cannon-cruise.json](./43547-hugo-cannon-cruise.json) |
@@ -13768,6 +13771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hummdinger | 354657 | [354657-hummdinger.json](./354657-hummdinger.json) |
 | Hummer | 92631 | [92631-hummer.json](./92631-hummer.json) |
 | Hummer Extreme Edition | 233284 | [233284-hummer-extreme-edition.json](./233284-hummer-extreme-edition.json) |
+| Hummer Offroad Challenge | 23559 | [23559-hummer-offroad-challenge.json](./23559-hummer-offroad-challenge.json) |
 | Hummingbird Garden | 388542 | [388542-hummingbird-garden.json](./388542-hummingbird-garden.json) |
 | Hummingbird Mind | 60454 | [60454-hummingbird-mind.json](./60454-hummingbird-mind.json) |
 | Hummingbird's Crown | 207241 | [207241-hummingbirds-crown.json](./207241-hummingbirds-crown.json) |
