@@ -6730,6 +6730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Core: Mech Survivor | 349008 | [349008-iron-core-mech-survivor.json](./349008-iron-core-mech-survivor.json) |
 | Iron Cross | 80581 | [80581-iron-cross.json](./80581-iron-cross.json) |
 | Iron Crown | 318183 | [318183-iron-crown.json](./318183-iron-crown.json) |
+| Iron Crypticle | 47981 | [47981-iron-crypticle.json](./47981-iron-crypticle.json) |
 | Iron Curtain Call | 427799 | [427799-iron-curtain-call.json](./427799-iron-curtain-call.json) |
 | Iron Danger | 101065 | [101065-iron-danger.json](./101065-iron-danger.json) |
 | Iron Dawn | 286033 | [286033-iron-dawn.json](./286033-iron-dawn.json) |
@@ -7010,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is It Woke? | 316581 | [316581-is-it-woke.json](./316581-is-it-woke.json) |
 | Is It Wrong To Kiss The Bracken?! | 286893 | [286893-is-it-wrong-to-kiss-the-bracken.json](./286893-is-it-wrong-to-kiss-the-bracken.json) |
 | Is It Wrong to Repay the Debt in a Dungeon? | 220040 | [220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json](./220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json) |
+| Is It Wrong to Try to Pick Up Girls in a Dungeon? Infinite Combate | 47160 | [47160-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate.json](./47160-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate.json) |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon? Infinite Combate: Limited Edition | 166317 | [166317-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate-limited-edition.json](./166317-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate-limited-edition.json) |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon?: Battle Chronicle | 287107 | [287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json](./287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json) |
 | Is It Wrong To Try To Rescue Monster Girls From The Inquisition? | 247774 | [247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json](./247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json) |
