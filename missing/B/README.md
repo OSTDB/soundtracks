@@ -7691,6 +7691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserker Onslaught | 399292 | [399292-berserker-onslaught.json](./399292-berserker-onslaught.json) |
 | Berserker Penguin | 382705 | [382705-berserker-penguin.json](./382705-berserker-penguin.json) |
 | Berserker Raids | 316920 | [316920-berserker-raids.json](./316920-berserker-raids.json) |
+| Berserker: A Viking Board Game | 213203 | [213203-berserker-a-viking-board-game.json](./213203-berserker-a-viking-board-game.json) |
 | Berserker's Descent | 145433 | [145433-berserkers-descent.json](./145433-berserkers-descent.json) |
 | Berserker's Domain | 350024 | [350024-berserkers-domain.json](./350024-berserkers-domain.json) |
 | Bert and the Snake | 93130 | [93130-bert-and-the-snake.json](./93130-bert-and-the-snake.json) |
@@ -14125,6 +14126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogey Manor | 40027 | [40027-bogey-manor.json](./40027-bogey-manor.json) |
 | Bogey's Report | 344327 | [344327-bogeys-report.json](./344327-bogeys-report.json) |
 | Bogeyman | 138145 | [138145-bogeyman.json](./138145-bogeyman.json) |
+| Boggle | 206463 | [206463-boggle.json](./206463-boggle.json) |
 | Boggle | 264236 | [264236-boggle.json](./264236-boggle.json) |
 | Boggle | 282633 | [282633-boggle.json](./282633-boggle.json) |
 | Boggle | 59965 | [59965-boggle.json](./59965-boggle.json) |
@@ -16448,6 +16450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box That Ball | 180975 | [180975-box-that-ball.json](./180975-box-that-ball.json) |
 | Box the Beat VR | 160213 | [160213-box-the-beat-vr.json](./160213-box-the-beat-vr.json) |
 | Box to Box | 208454 | [208454-box-to-box.json](./208454-box-to-box.json) |
+| Box to the Beat VR | 207448 | [207448-box-to-the-beat-vr.json](./207448-box-to-the-beat-vr.json) |
 | Box To The Beat VR: Electro Swing Pack | 310399 | [310399-box-to-the-beat-vr-electro-swing-pack.json](./310399-box-to-the-beat-vr-electro-swing-pack.json) |
 | Box To The Beat VR: Indie Electro Beats | 295260 | [295260-box-to-the-beat-vr-indie-electro-beats.json](./295260-box-to-the-beat-vr-indie-electro-beats.json) |
 | Box To The Beat VR: Shadow Dreams Pack | 263202 | [263202-box-to-the-beat-vr-shadow-dreams-pack.json](./263202-box-to-the-beat-vr-shadow-dreams-pack.json) |
