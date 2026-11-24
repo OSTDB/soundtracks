@@ -5626,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Shelley's Frankenstein | 5403 | [5403-mary-shelleys-frankenstein.json](./5403-mary-shelleys-frankenstein.json) |
 | Mary Shelley's Frankenstein / Bram Stoker's Dracula | 257664 | [257664-mary-shelleys-frankenstein-bram-stokers-dracula.json](./257664-mary-shelleys-frankenstein-bram-stokers-dracula.json) |
 | Mary Skelter 2: Limited Edition | 166266 | [166266-mary-skelter-2-limited-edition.json](./166266-mary-skelter-2-limited-edition.json) |
+| Mary Skelter Finale | 131974 | [131974-mary-skelter-finale.json](./131974-mary-skelter-finale.json) |
 | Mary Skelter Finale: Day One Edition | 171284 | [171284-mary-skelter-finale-day-one-edition.json](./171284-mary-skelter-finale-day-one-edition.json) |
 | Mary Skelter Finale: Limited Edition | 166179 | [166179-mary-skelter-finale-limited-edition.json](./166179-mary-skelter-finale-limited-edition.json) |
 | Mary Skelter: Locked Up in Love - True End | 410472 | [410472-mary-skelter-locked-up-in-love-true-end.json](./410472-mary-skelter-locked-up-in-love-true-end.json) |
@@ -18641,6 +18642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom Reverse | 130512 | [130512-monster-prom-reverse.json](./130512-monster-prom-reverse.json) |
 | Monster Prom: Hotseat Edition | 144089 | [144089-monster-prom-hotseat-edition.json](./144089-monster-prom-hotseat-edition.json) |
 | Monster Prom: Second Term | 155070 | [155070-monster-prom-second-term.json](./155070-monster-prom-second-term.json) |
+| Monster Prom: XXL | 132997 | [132997-monster-prom-xxl.json](./132997-monster-prom-xxl.json) |
 | Monster Pub | 100561 | [100561-monster-pub.json](./100561-monster-pub.json) |
 | Monster Pub: Chapter 1 | 178740 | [178740-monster-pub-chapter-1.json](./178740-monster-pub-chapter-1.json) |
 | Monster Pub: Chapter 2 | 178827 | [178827-monster-pub-chapter-2.json](./178827-monster-pub-chapter-2.json) |
