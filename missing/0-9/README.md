@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18+ | 219040 | [219040-18.json](./219040-18.json) |
 | 18+ Memory | 234958 | [234958-18-memory.json](./234958-18-memory.json) |
 | 180 Darts | 45322 | [45322-180-darts.json](./45322-180-darts.json) |
+| 180 Files: The Aegis Project | 132419 | [132419-180-files-the-aegis-project.json](./132419-180-files-the-aegis-project.json) |
 | 180 Minutes Pour Vivre | 257420 | [257420-180-minutes-pour-vivre.json](./257420-180-minutes-pour-vivre.json) |
 | 180 Seconds | 203861 | [203861-180-seconds.json](./203861-180-seconds.json) |
 | 180 Seconds: A Firefighter's Call | 312480 | [312480-180-seconds-a-firefighters-call.json](./312480-180-seconds-a-firefighters-call.json) |
@@ -4153,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 911 Operator | 20927 | [20927-911-operator.json](./20927-911-operator.json) |
 | 911 Operator + Special Resources | 99474 | [99474-911-operator-special-resources.json](./99474-911-operator-special-resources.json) |
 | 911 Operator Bundle | 237907 | [237907-911-operator-bundle.json](./237907-911-operator-bundle.json) |
+| 911 Operator: Deluxe Edition | 132984 | [132984-911-operator-deluxe-edition.json](./132984-911-operator-deluxe-edition.json) |
 | 911 Operator: Every Life Matters | 152439 | [152439-911-operator-every-life-matters.json](./152439-911-operator-every-life-matters.json) |
 | 911 Operator: First Response | 152437 | [152437-911-operator-first-response.json](./152437-911-operator-first-response.json) |
 | 911 Operator: Search and Rescue | 152438 | [152438-911-operator-search-and-rescue.json](./152438-911-operator-search-and-rescue.json) |
