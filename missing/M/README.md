@@ -6502,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Classroom Challenge | 173144 | [173144-math-classroom-challenge.json](./173144-math-classroom-challenge.json) |
 | Math Climber | 345236 | [345236-math-climber.json](./345236-math-climber.json) |
 | Math Combat Challenge | 55124 | [55124-math-combat-challenge.json](./55124-math-combat-challenge.json) |
+| Math Combo Chain | 428792 | [428792-math-combo-chain.json](./428792-math-combo-chain.json) |
 | Math Connect PRO | 106785 | [106785-math-connect-pro.json](./106785-math-connect-pro.json) |
 | Math Dash | 341217 | [341217-math-dash.json](./341217-math-dash.json) |
 | Math Duck+ | 428257 | [428257-math-duck.json](./428257-math-duck.json) |
@@ -6509,6 +6510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Effect | 400628 | [400628-math-effect.json](./400628-math-effect.json) |
 | Math Evolve: A Fun Math Game | 175372 | [175372-math-evolve-a-fun-math-game.json](./175372-math-evolve-a-fun-math-game.json) |
 | Math Expressions | 196477 | [196477-math-expressions.json](./196477-math-expressions.json) |
+| Math Father | 429303 | [429303-math-father.json](./429303-math-father.json) |
 | Math Fight | 266126 | [266126-math-fight.json](./266126-math-fight.json) |
 | Math Fight: Multiplayer Game | 251531 | [251531-math-fight-multiplayer-game.json](./251531-math-fight-multiplayer-game.json) |
 | Math for Kids | 89519 | [89519-math-for-kids.json](./89519-math-for-kids.json) |
@@ -7266,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Adventures | 81745 | [81745-maze-of-adventures.json](./81745-maze-of-adventures.json) |
 | Maze of Apocrypha | 287464 | [287464-maze-of-apocrypha.json](./287464-maze-of-apocrypha.json) |
 | Maze of Bears | 186321 | [186321-maze-of-bears.json](./186321-maze-of-bears.json) |
+| Maze of Choices | 428685 | [428685-maze-of-choices.json](./428685-maze-of-choices.json) |
 | Maze of Doors | 414417 | [414417-maze-of-doors.json](./414417-maze-of-doors.json) |
 | Maze of Fear | 260590 | [260590-maze-of-fear.json](./260590-maze-of-fear.json) |
 | Maze of Flott | 266672 | [266672-maze-of-flott.json](./266672-maze-of-flott.json) |
@@ -13102,6 +13105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Syndrome | 304648 | [304648-midnight-syndrome.json](./304648-midnight-syndrome.json) |
 | Midnight T-Rex | 318335 | [318335-midnight-t-rex.json](./318335-midnight-t-rex.json) |
 | Midnight Taco | 336497 | [336497-midnight-taco.json](./336497-midnight-taco.json) |
+| Midnight Tales Vol.1 | 428700 | [428700-midnight-tales-vol-1.json](./428700-midnight-tales-vol-1.json) |
 | Midnight Tales Vol.3: Christmas | 252541 | [252541-midnight-tales-vol-3-christmas.json](./252541-midnight-tales-vol-3-christmas.json) |
 | Midnight Terror: The Beginning | 192260 | [192260-midnight-terror-the-beginning.json](./192260-midnight-terror-the-beginning.json) |
 | Midnight Terrors | 395705 | [395705-midnight-terrors.json](./395705-midnight-terrors.json) |
@@ -16259,6 +16263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MistWorld the after | 215277 | [215277-mistworld-the-after.json](./215277-mistworld-the-after.json) |
 | MistWorld the after2 | 215367 | [215367-mistworld-the-after2.json](./215367-mistworld-the-after2.json) |
 | Misty | 251270 | [251270-misty.json](./251270-misty.json) |
+| Misty and the Last Breeze | 428679 | [428679-misty-and-the-last-breeze.json](./428679-misty-and-the-last-breeze.json) |
 | Misty Blue | 64387 | [64387-misty-blue.json](./64387-misty-blue.json) |
 | Misty Continent: Cursed Island | 212437 | [212437-misty-continent-cursed-island.json](./212437-misty-continent-cursed-island.json) |
 | Misty Forest: The Parkour Game | 410619 | [410619-misty-forest-the-parkour-game.json](./410619-misty-forest-the-parkour-game.json) |
@@ -17409,6 +17414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momentous: Monumentum | 298822 | [298822-momentous-monumentum.json](./298822-momentous-monumentum.json) |
 | Moments | 297555 | [297555-moments.json](./297555-moments.json) |
 | Moments | 356702 | [356702-moments.json](./356702-moments.json) |
+| Moments | 431125 | [431125-moments.json](./431125-moments.json) |
 | Moments of Love | 345773 | [345773-moments-of-love.json](./345773-moments-of-love.json) |
 | Moments Out of Time | 60009 | [60009-moments-out-of-time.json](./60009-moments-out-of-time.json) |
 | Moments: Choose Your Story | 100717 | [100717-moments-choose-your-story.json](./100717-moments-choose-your-story.json) |
@@ -19083,6 +19089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monty's Honey Run | 142017 | [142017-montys-honey-run.json](./142017-montys-honey-run.json) |
 | Monument | 260138 | [260138-monument.json](./260138-monument.json) |
 | Monument | 35059 | [35059-monument.json](./35059-monument.json) |
+| Monument | 428066 | [428066-monument.json](./428066-monument.json) |
 | Monument Builders: Alcatraz | 10556 | [10556-monument-builders-alcatraz.json](./10556-monument-builders-alcatraz.json) |
 | Monument Builders: Big Ben | 294445 | [294445-monument-builders-big-ben.json](./294445-monument-builders-big-ben.json) |
 | Monument Builders: Cathedral Rising | 294444 | [294444-monument-builders-cathedral-rising.json](./294444-monument-builders-cathedral-rising.json) |
@@ -21008,6 +21015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Racing | 99240 | [99240-mountain-racing.json](./99240-mountain-racing.json) |
 | Mountain Racing HD | 87394 | [87394-mountain-racing-hd.json](./87394-mountain-racing-hd.json) |
 | Mountain Rescue Simulator | 123737 | [123737-mountain-rescue-simulator.json](./123737-mountain-rescue-simulator.json) |
+| Mountain Rescue: Caucasus | 431163 | [431163-mountain-rescue-caucasus.json](./431163-mountain-rescue-caucasus.json) |
 | Mountain Shoot | 54976 | [54976-mountain-shoot.json](./54976-mountain-shoot.json) |
 | Mountain Skiing | 125620 | [125620-mountain-skiing.json](./125620-mountain-skiing.json) |
 | Mountain Sniper Shooter Elite Assassin | 102844 | [102844-mountain-sniper-shooter-elite-assassin.json](./102844-mountain-sniper-shooter-elite-assassin.json) |
@@ -22206,6 +22214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiponk | 104755 | [104755-multiponk.json](./104755-multiponk.json) |
 | Multipuck | 134945 | [134945-multipuck.json](./134945-multipuck.json) |
 | Multirotor Sim 2 | 81234 | [81234-multirotor-sim-2.json](./81234-multirotor-sim-2.json) |
+| MultiScope Air Traffic Control | 428810 | [428810-multiscope-air-traffic-control.json](./428810-multiscope-air-traffic-control.json) |
 | Multishop Tycoon Deluxe | 30031 | [30031-multishop-tycoon-deluxe.json](./30031-multishop-tycoon-deluxe.json) |
 | Multishot | 258107 | [258107-multishot.json](./258107-multishot.json) |
 | Multispy | 386958 | [386958-multispy.json](./386958-multispy.json) |
