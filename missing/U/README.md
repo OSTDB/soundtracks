@@ -648,7 +648,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Flying Cars | 215401 | [215401-ultimate-flying-cars.json](./215401-ultimate-flying-cars.json) |
 | Ultimate Football '95 | 69803 | [69803-ultimate-football-95.json](./69803-ultimate-football-95.json) |
 | Ultimate Forest Simulator | 86924 | [86924-ultimate-forest-simulator.json](./86924-ultimate-forest-simulator.json) |
-| Ultimate Fort Night Survival: Royale Battle | 100906 | [100906-ultimate-fort-night-survival-royale-battle.json](./100906-ultimate-fort-night-survival-royale-battle.json) |
 | Ultimate Fox Simulator | 88944 | [88944-ultimate-fox-simulator.json](./88944-ultimate-fox-simulator.json) |
 | Ultimate Fox Simulator 2 | 406643 | [406643-ultimate-fox-simulator-2.json](./406643-ultimate-fox-simulator-2.json) |
 | Ultimate FPS | 114670 | [114670-ultimate-fps.json](./114670-ultimate-fps.json) |
@@ -2356,7 +2355,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unending Aqua | 405732 | [405732-unending-aqua.json](./405732-unending-aqua.json) |
 | UnEnding Bloody Call | 218276 | [218276-unending-bloody-call.json](./218276-unending-bloody-call.json) |
 | Unending Dawn | 298846 | [298846-unending-dawn.json](./298846-unending-dawn.json) |
-| Unending Dusk | 104005 | [104005-unending-dusk.json](./104005-unending-dusk.json) |
 | Unending Galaxy | 33590 | [33590-unending-galaxy.json](./33590-unending-galaxy.json) |
 | Unending War: Grand-Strategy Chess | 163681 | [163681-unending-war-grand-strategy-chess.json](./163681-unending-war-grand-strategy-chess.json) |
 | Unepic | 3018 | [3018-unepic.json](./3018-unepic.json) |
@@ -3548,7 +3546,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up & Down | 312568 | [312568-up-and-down.json](./312568-up-and-down.json) |
 | Up 1 Way | 371344 | [371344-up-1-way.json](./371344-up-1-way.json) |
 | UP 9 - Hexa Puzzle! | 100653 | [100653-up-9-hexa-puzzle.json](./100653-up-9-hexa-puzzle.json) |
-| UP 9 - Hexa Puzzle! Merge Numbers to get 9 | 100946 | [100946-up-9-hexa-puzzle-merge-numbers-to-get-9.json](./100946-up-9-hexa-puzzle-merge-numbers-to-get-9.json) |
 | Up a Cave | 99269 | [99269-up-a-cave.json](./99269-up-a-cave.json) |
 | Up Against Aliens | 265264 | [265264-up-against-aliens.json](./265264-up-against-aliens.json) |
 | Up All Knight | 232371 | [232371-up-all-knight.json](./232371-up-all-knight.json) |
@@ -3762,7 +3759,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urapani! | 204661 | [204661-urapani.json](./204661-urapani.json) |
 | Urawaza Mahjong: Korette Tenwatte Yatsukai | 363966 | [363966-urawaza-mahjong-korette-tenwatte-yatsukai.json](./363966-urawaza-mahjong-korette-tenwatte-yatsukai.json) |
 | Urayama | 298619 | [298619-urayama.json](./298619-urayama.json) |
-| URB: Last Pixels Battle | 100845 | [100845-urb-last-pixels-battle.json](./100845-urb-last-pixels-battle.json) |
 | Urban | 312570 | [312570-urban.json](./312570-urban.json) |
 | Urban | 89643 | [89643-urban.json](./89643-urban.json) |
 | Urban Ascend | 390262 | [390262-urban-ascend.json](./390262-urban-ascend.json) |
@@ -3998,7 +3994,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Us vs. Them | 232014 | [232014-us-vs-them.json](./232014-us-vs-them.json) |
 | Us vs. Them | 25631 | [25631-us-vs-them.json](./25631-us-vs-them.json) |
 | US War Trivia | 87561 | [87561-us-war-trivia.json](./87561-us-war-trivia.json) |
-| USA 2020 | 101359 | [101359-usa-2020.json](./101359-usa-2020.json) |
 | USA Army Soldier Simulator | 388062 | [388062-usa-army-soldier-simulator.json](./388062-usa-army-soldier-simulator.json) |
 | USA Bass Championship | 206257 | [206257-usa-bass-championship.json](./206257-usa-bass-championship.json) |
 | USA East | 93221 | [93221-usa-east.json](./93221-usa-east.json) |
