@@ -2857,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target Gear Alga 2nd | 395992 | [395992-target-gear-alga-2nd.json](./395992-target-gear-alga-2nd.json) |
 | Target Hits | 40484 | [40484-target-hits.json](./40484-target-hits.json) |
 | Target of Desire: Episode 1 | 52745 | [52745-target-of-desire-episode-1.json](./52745-target-of-desire-episode-1.json) |
+| Target One: Battle Royale | 425038 | [425038-target-one-battle-royale.json](./425038-target-one-battle-royale.json) |
 | Target Party | 254302 | [254302-target-party.json](./254302-target-party.json) |
 | Target Pinball | 307399 | [307399-target-pinball.json](./307399-target-pinball.json) |
 | Target Plus | 145867 | [145867-target-plus.json](./145867-target-plus.json) |
@@ -14024,7 +14025,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hero of Nostalgaia: The Rise of Evil | 253119 | [253119-the-last-hero-of-nostalgaia-the-rise-of-evil.json](./253119-the-last-hero-of-nostalgaia-the-rise-of-evil.json) |
 | The Last Hero: Journey to the Unknown | 251972 | [251972-the-last-hero-journey-to-the-unknown.json](./251972-the-last-hero-journey-to-the-unknown.json) |
 | The Last Heroine | 351777 | [351777-the-last-heroine.json](./351777-the-last-heroine.json) |
-| The Last Hex | 105231 | [105231-the-last-hex.json](./105231-the-last-hex.json) |
 | The Last Hike | 236267 | [236267-the-last-hike.json](./236267-the-last-hike.json) |
 | The Last Hollow | 309907 | [309907-the-last-hollow.json](./309907-the-last-hollow.json) |
 | The Last Hope | 158243 | [158243-the-last-hope.json](./158243-the-last-hope.json) |
@@ -23217,6 +23217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third | 233784 | [233784-third.json](./233784-third.json) |
 | Third Age: Total War | 356233 | [356233-third-age-total-war.json](./356233-third-age-total-war.json) |
 | Third Blade | 38728 | [38728-third-blade.json](./38728-third-blade.json) |
+| Third Bloc | 425046 | [425046-third-bloc.json](./425046-third-bloc.json) |
 | Third Bridge | 141552 | [141552-third-bridge.json](./141552-third-bridge.json) |
 | Third Crisis | 187542 | [187542-third-crisis.json](./187542-third-crisis.json) |
 | Third Crisis: Neon Nights | 397168 | [397168-third-crisis-neon-nights.json](./397168-third-crisis-neon-nights.json) |
@@ -27610,6 +27611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tir-nan-óg: Descendants of Danaan | 145464 | [145464-tir-nan-og-descendants-of-danaan.json](./145464-tir-nan-og-descendants-of-danaan.json) |
 | Tir-nan-óg: The Forbidden Tower | 145552 | [145552-tir-nan-og-the-forbidden-tower.json](./145552-tir-nan-og-the-forbidden-tower.json) |
 | Tir-nan-óg: Yuukyuu no Jin | 145556 | [145556-tir-nan-og-yuukyuu-no-jin.json](./145556-tir-nan-og-yuukyuu-no-jin.json) |
+| Tirade | 425057 | [425057-tirade.json](./425057-tirade.json) |
 | Tiranogg | 189257 | [189257-tiranogg.json](./189257-tiranogg.json) |
 | Tire Boy | 347680 | [347680-tire-boy.json](./347680-tire-boy.json) |
 | Tire Fire Rally | 400553 | [400553-tire-fire-rally.json](./400553-tire-fire-rally.json) |
