@@ -2658,7 +2658,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap tap cartoonist - Cartoon999 | 95824 | [95824-tap-tap-cartoonist-cartoon999.json](./95824-tap-tap-cartoonist-cartoon999.json) |
 | Tap Tap Computer | 193836 | [193836-tap-tap-computer.json](./193836-tap-tap-computer.json) |
 | Tap Tap Dance | 92337 | [92337-tap-tap-dance.json](./92337-tap-tap-dance.json) |
-| Tap Tap Dig - Idle Clicker Game | 100780 | [100780-tap-tap-dig-idle-clicker-game.json](./100780-tap-tap-dig-idle-clicker-game.json) |
 | Tap Tap Dig 2 | 220192 | [220192-tap-tap-dig-2.json](./220192-tap-tap-dig-2.json) |
 | Tap Tap Driver | 242764 | [242764-tap-tap-driver.json](./242764-tap-tap-driver.json) |
 | Tap Tap Dunk | 102161 | [102161-tap-tap-dunk.json](./102161-tap-tap-dunk.json) |
@@ -4202,7 +4201,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tell a Demon | 51599 | [51599-tell-a-demon.json](./51599-tell-a-demon.json) |
 | Tell a Story | 89057 | [89057-tell-a-story.json](./89057-tell-a-story.json) |
 | Tell It Slant | 318546 | [318546-tell-it-slant.json](./318546-tell-it-slant.json) |
-| Tell Me Everything | 100715 | [100715-tell-me-everything.json](./100715-tell-me-everything.json) |
 | Tell Me Owl | 392017 | [392017-tell-me-owl.json](./392017-tell-me-owl.json) |
 | Tell me tonight was real | 281021 | [281021-tell-me-tonight-was-real.json](./281021-tell-me-tonight-was-real.json) |
 | Tell Me Why | 125628 | [125628-tell-me-why.json](./125628-tell-me-why.json) |
@@ -4679,7 +4677,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Elbow 2013 | 35830 | [35830-tennis-elbow-2013.json](./35830-tennis-elbow-2013.json) |
 | Tennis Elbow 4 | 140780 | [140780-tennis-elbow-4.json](./140780-tennis-elbow-4.json) |
 | Tennis Elbow Manager | 31291 | [31291-tennis-elbow-manager.json](./31291-tennis-elbow-manager.json) |
-| Tennis Elbow Manager 2 | 99576 | [99576-tennis-elbow-manager-2.json](./99576-tennis-elbow-manager-2.json) |
 | Tennis Esports | 280871 | [280871-tennis-esports.json](./280871-tennis-esports.json) |
 | Tennis Exciting | 247005 | [247005-tennis-exciting.json](./247005-tennis-exciting.json) |
 | Tennis Fighters | 128049 | [128049-tennis-fighters.json](./128049-tennis-fighters.json) |
@@ -5820,7 +5817,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetyis | 276078 | [276078-tetyis.json](./276078-tetyis.json) |
 | Teudogar and the Alliance with Rome | 69426 | [69426-teudogar-and-the-alliance-with-rome.json](./69426-teudogar-and-the-alliance-with-rome.json) |
 | Teuflisch gute Spiele | 92304 | [92304-teuflisch-gute-spiele.json](./92304-teuflisch-gute-spiele.json) |
-| Teva | 100242 | [100242-teva.json](./100242-teva.json) |
 | Tevi | 237349 | [237349-tevi.json](./237349-tevi.json) |
 | Tevi: Fauna Arcana | 403199 | [403199-tevi-fauna-arcana.json](./403199-tevi-fauna-arcana.json) |
 | Tevris | 75656 | [75656-tevris.json](./75656-tevris.json) |
@@ -5926,6 +5922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thalamus: The Hits | 137215 | [137215-thalamus-the-hits.json](./137215-thalamus-the-hits.json) |
 | Thalamus: The Hits 2 | 137468 | [137468-thalamus-the-hits-2.json](./137468-thalamus-the-hits-2.json) |
 | Thalassa: Edge of the Abyss | 250287 | [250287-thalassa-edge-of-the-abyss.json](./250287-thalassa-edge-of-the-abyss.json) |
+| Thalassa: Edge of the Abyss - Deluxe Edition | 427548 | [427548-thalassa-edge-of-the-abyss-deluxe-edition.json](./427548-thalassa-edge-of-the-abyss-deluxe-edition.json) |
 | Thalassic | 238728 | [238728-thalassic.json](./238728-thalassic.json) |
 | Thalassic Dice | 347776 | [347776-thalassic-dice.json](./347776-thalassic-dice.json) |
 | Thalassomania | 338295 | [338295-thalassomania.json](./338295-thalassomania.json) |
@@ -6180,7 +6177,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 7 Second Challenge | 89175 | [89175-the-7-second-challenge.json](./89175-the-7-second-challenge.json) |
 | The 7D Mine Train | 89163 | [89163-the-7d-mine-train.json](./89163-the-7d-mine-train.json) |
 | The 7th Annual Vanilla Level Design Contest: Collaboration Hack | 228392 | [228392-the-7th-annual-vanilla-level-design-contest-collaboration-hack.json](./228392-the-7th-annual-vanilla-level-design-contest-collaboration-hack.json) |
-| The 7th Circle: Endless Nightmare | 99081 | [99081-the-7th-circle-endless-nightmare.json](./99081-the-7th-circle-endless-nightmare.json) |
 | The 7th Circle: Endless Nightmare Update | 289590 | [289590-the-7th-circle-endless-nightmare-update.json](./289590-the-7th-circle-endless-nightmare-update.json) |
 | The 7th Guest | 320481 | [320481-the-7th-guest.json](./320481-the-7th-guest.json) |
 | The 7th Guest 3: The Collector | 62000 | [62000-the-7th-guest-3-the-collector.json](./62000-the-7th-guest-3-the-collector.json) |
@@ -7263,7 +7259,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle for Mata-Nui | 203503 | [203503-the-battle-for-mata-nui.json](./203503-the-battle-for-mata-nui.json) |
 | The Battle for Murk | 102884 | [102884-the-battle-for-murk.json](./102884-the-battle-for-murk.json) |
 | The Battle for Sector 219 | 33184 | [33184-the-battle-for-sector-219.json](./33184-the-battle-for-sector-219.json) |
-| The Battle for the Hut | 99671 | [99671-the-battle-for-the-hut.json](./99671-the-battle-for-the-hut.json) |
 | The Battle for Vega | 250838 | [250838-the-battle-for-vega.json](./250838-the-battle-for-vega.json) |
 | The Battle Never Ends | 189283 | [189283-the-battle-never-ends.json](./189283-the-battle-never-ends.json) |
 | The Battle of Ages | 107725 | [107725-the-battle-of-ages.json](./107725-the-battle-of-ages.json) |
@@ -9253,7 +9248,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Horde | 290040 | [290040-the-dark-horde.json](./290040-the-dark-horde.json) |
 | The Dark Hour | 62368 | [62368-the-dark-hour.json](./62368-the-dark-hour.json) |
 | The Dark House | 267949 | [267949-the-dark-house.json](./267949-the-dark-house.json) |
-| The Dark Inside Me | 99005 | [99005-the-dark-inside-me.json](./99005-the-dark-inside-me.json) |
 | The Dark is a Soft, Warm Pressure | 276921 | [276921-the-dark-is-a-soft-warm-pressure.json](./276921-the-dark-is-a-soft-warm-pressure.json) |
 | The Dark Journey | 192803 | [192803-the-dark-journey.json](./192803-the-dark-journey.json) |
 | The Dark Kingdom | 356670 | [356670-the-dark-kingdom.json](./356670-the-dark-kingdom.json) |
@@ -11554,7 +11548,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gametrekking Omnibus | 236058 | [236058-the-gametrekking-omnibus.json](./236058-the-gametrekking-omnibus.json) |
 | The Gaming Cafe | 392179 | [392179-the-gaming-cafe.json](./392179-the-gaming-cafe.json) |
 | The Gang | 284446 | [284446-the-gang.json](./284446-the-gang.json) |
-| The Gang Auto: VIP city | 100782 | [100782-the-gang-auto-vip-city.json](./100782-the-gang-auto-vip-city.json) |
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
 | The Gap | 151120 | [151120-the-gap.json](./151120-the-gap.json) |
 | The Gap | 244952 | [244952-the-gap.json](./244952-the-gap.json) |
@@ -13987,6 +13980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Federation: Betrayed Hope | 8782 | [8782-the-last-federation-betrayed-hope.json](./8782-the-last-federation-betrayed-hope.json) |
 | The Last Federation: The Lost Technologies | 124867 | [124867-the-last-federation-the-lost-technologies.json](./124867-the-last-federation-the-lost-technologies.json) |
 | The Last Fighter | 209662 | [209662-the-last-fighter.json](./209662-the-last-fighter.json) |
+| The Last Fireman | 427528 | [427528-the-last-fireman.json](./427528-the-last-fireman.json) |
 | The Last Flame | 226601 | [226601-the-last-flame.json](./226601-the-last-flame.json) |
 | The Last Flight | 407566 | [407566-the-last-flight.json](./407566-the-last-flight.json) |
 | The Last Flight: Return Home | 355294 | [355294-the-last-flight-return-home.json](./355294-the-last-flight-return-home.json) |
@@ -14474,7 +14468,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Fancy Realm Remake | 429310 | [429310-the-legend-of-fancy-realm-remake.json](./429310-the-legend-of-fancy-realm-remake.json) |
 | The Legend of Fartacus | 336847 | [336847-the-legend-of-fartacus.json](./336847-the-legend-of-fartacus.json) |
 | The Legend of Fatinha | 415846 | [415846-the-legend-of-fatinha.json](./415846-the-legend-of-fatinha.json) |
-| The Legend of Faty | 100557 | [100557-the-legend-of-faty.json](./100557-the-legend-of-faty.json) |
 | The Legend of Fidex | 145606 | [145606-the-legend-of-fidex.json](./145606-the-legend-of-fidex.json) |
 | The Legend of Fireball | 408921 | [408921-the-legend-of-fireball.json](./408921-the-legend-of-fireball.json) |
 | The Legend of Fireball: Beasts Edition | 411182 | [411182-the-legend-of-fireball-beasts-edition.json](./411182-the-legend-of-fireball-beasts-edition.json) |
@@ -23181,7 +23174,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Things Unwanted | 179100 | [179100-things-unwanted.json](./179100-things-unwanted.json) |
 | Things.smc | 269696 | [269696-things-smc.json](./269696-things-smc.json) |
 | Things.smc 2: Booni's Island.smc | 269701 | [269701-things-smc-2-boonis-island-smc.json](./269701-things-smc-2-boonis-island-smc.json) |
-| Think | 100765 | [100765-think.json](./100765-think.json) |
 | Think | 175547 | [175547-think.json](./175547-think.json) |
 | Think a Little | 289182 | [289182-think-a-little.json](./289182-think-a-little.json) |
 | Think About Aliens! | 150088 | [150088-think-about-aliens.json](./150088-think-about-aliens.json) |
@@ -24082,7 +24074,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Paw | 117445 | [117445-thunder-paw.json](./117445-thunder-paw.json) |
 | Thunder Pro Wrestling Retsuden | 46165 | [46165-thunder-pro-wrestling-retsuden.json](./46165-thunder-pro-wrestling-retsuden.json) |
 | Thunder Rally | 264368 | [264368-thunder-rally.json](./264368-thunder-rally.json) |
-| Thunder Rally | 99083 | [99083-thunder-rally.json](./99083-thunder-rally.json) |
 | Thunder Ray | 201592 | [201592-thunder-ray.json](./201592-thunder-ray.json) |
 | Thunder Ray: Forgotten Duels | 288274 | [288274-thunder-ray-forgotten-duels.json](./288274-thunder-ray-forgotten-duels.json) |
 | Thunder Ray: Origins | 287987 | [287987-thunder-ray-origins.json](./287987-thunder-ray-origins.json) |
@@ -27820,7 +27811,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TitTok Girls | 385035 | [385035-tittok-girls.json](./385035-tittok-girls.json) |
 | TitTok Kitty | 224970 | [224970-tittok-kitty.json](./224970-tittok-kitty.json) |
 | TitTok Kitty: Pussy | 235183 | [235183-tittok-kitty-pussy.json](./235183-tittok-kitty-pussy.json) |
-| Titty Crush | 99701 | [99701-titty-crush.json](./99701-titty-crush.json) |
 | Titty World | 334675 | [334675-titty-world.json](./334675-titty-world.json) |
 | Titus the Fox | 112076 | [112076-titus-the-fox.json](./112076-titus-the-fox.json) |
 | Titus the Fox | 65798 | [65798-titus-the-fox.json](./65798-titus-the-fox.json) |
@@ -30160,7 +30150,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torture | 272171 | [272171-torture.json](./272171-torture.json) |
 | Torture | 276458 | [276458-torture.json](./276458-torture.json) |
 | Torture | 377308 | [377308-torture.json](./377308-torture.json) |
-| Torture Chamber | 99673 | [99673-torture-chamber.json](./99673-torture-chamber.json) |
 | Torture Jam 1 | 308525 | [308525-torture-jam-1.json](./308525-torture-jam-1.json) |
 | Torture the Stickman 2 | 188324 | [188324-torture-the-stickman-2.json](./188324-torture-the-stickman-2.json) |
 | Tortured Hearts: Or How I Saved the Universe. Again. | 144001 | [144001-tortured-hearts-or-how-i-saved-the-universe-again.json](./144001-tortured-hearts-or-how-i-saved-the-universe-again.json) |
@@ -34027,6 +34016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: NS SD60E First Responders | 153098 | [153098-trainz-railroad-simulator-2019-ns-sd60e-first-responders.json](./153098-trainz-railroad-simulator-2019-ns-sd60e-first-responders.json) |
 | Trainz Railroad Simulator 2019: NSW 81 Class SRA Pack | 228217 | [228217-trainz-railroad-simulator-2019-nsw-81-class-sra-pack.json](./228217-trainz-railroad-simulator-2019-nsw-81-class-sra-pack.json) |
 | Trainz Railroad Simulator 2019: NYC J3a-Dreyfuss Streamlined Hudson | 167781 | [167781-trainz-railroad-simulator-2019-nyc-j3a-dreyfuss-streamlined-hudson.json](./167781-trainz-railroad-simulator-2019-nyc-j3a-dreyfuss-streamlined-hudson.json) |
+| Trainz Railroad Simulator 2019: OBB Infra SGP Pack | 427521 | [427521-trainz-railroad-simulator-2019-obb-infra-sgp-pack.json](./427521-trainz-railroad-simulator-2019-obb-infra-sgp-pack.json) |
 | Trainz Railroad Simulator 2019: Orient Express Trainset | 153205 | [153205-trainz-railroad-simulator-2019-orient-express-trainset.json](./153205-trainz-railroad-simulator-2019-orient-express-trainset.json) |
 | Trainz Railroad Simulator 2019: PKP/PREG Bdhpumn/B(16)mnopux Pack | 190714 | [190714-trainz-railroad-simulator-2019-pkp-preg-bdhpumn-b-16-mnopux-pack.json](./190714-trainz-railroad-simulator-2019-pkp-preg-bdhpumn-b-16-mnopux-pack.json) |
 | Trainz Railroad Simulator 2019: PKP/PREG/PolRegio Bdhpumn/B16mnopux Pack | 190710 | [190710-trainz-railroad-simulator-2019-pkp-preg-polregio-bdhpumn-b16mnopux-pack.json](./190710-trainz-railroad-simulator-2019-pkp-preg-polregio-bdhpumn-b16mnopux-pack.json) |
@@ -36298,7 +36288,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Music Trivia | 104219 | [104219-trivia-vault-music-trivia.json](./104219-trivia-vault-music-trivia.json) |
 | Trivia Vault: Science & History Trivia | 94777 | [94777-trivia-vault-science-and-history-trivia.json](./94777-trivia-vault-science-and-history-trivia.json) |
 | Trivia Vault: Science & History Trivia 2 | 55550 | [55550-trivia-vault-science-and-history-trivia-2.json](./55550-trivia-vault-science-and-history-trivia-2.json) |
-| Trivia Vault: Soccer Trivia | 99432 | [99432-trivia-vault-soccer-trivia.json](./99432-trivia-vault-soccer-trivia.json) |
 | Trivia Vault: Super Heroes Trivia | 94779 | [94779-trivia-vault-super-heroes-trivia.json](./94779-trivia-vault-super-heroes-trivia.json) |
 | Trivia Vault: Super Heroes Trivia 2 | 55748 | [55748-trivia-vault-super-heroes-trivia-2.json](./55748-trivia-vault-super-heroes-trivia-2.json) |
 | Trivia Vault: Tennis Trivia | 96955 | [96955-trivia-vault-tennis-trivia.json](./96955-trivia-vault-tennis-trivia.json) |
