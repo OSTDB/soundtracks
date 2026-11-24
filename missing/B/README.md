@@ -3287,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barry of Wrath | 192258 | [192258-barry-of-wrath.json](./192258-barry-of-wrath.json) |
 | Barry the Bunny | 151187 | [151187-barry-the-bunny.json](./151187-barry-the-bunny.json) |
 | Bars | 178480 | [178480-bars.json](./178480-bars.json) |
+| Bars and Balance | 74672 | [74672-bars-and-balance.json](./74672-bars-and-balance.json) |
 | Bars of Black and White | 263669 | [263669-bars-of-black-and-white.json](./263669-bars-of-black-and-white.json) |
 | Bart Bash | 307354 | [307354-bart-bash.json](./307354-bart-bash.json) |
 | Bart Bash | 350404 | [350404-bart-bash.json](./350404-bart-bash.json) |
@@ -13574,6 +13575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Water Builders | 414735 | [414735-blue-water-builders.json](./414735-blue-water-builders.json) |
 | Blue Wednesday | 216668 | [216668-blue-wednesday.json](./216668-blue-wednesday.json) |
 | Blue Wednesday: Deluxe Edition | 280633 | [280633-blue-wednesday-deluxe-edition.json](./280633-blue-wednesday-deluxe-edition.json) |
+| Blue Whale | 75320 | [75320-blue-whale.json](./75320-blue-whale.json) |
 | Blue Wing Blitz | 37457 | [37457-blue-wing-blitz.json](./37457-blue-wing-blitz.json) |
 | Blue Wish | 146988 | [146988-blue-wish.json](./146988-blue-wish.json) |
 | Blue Wish Desire | 178236 | [178236-blue-wish-desire.json](./178236-blue-wish-desire.json) |
@@ -15810,6 +15812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle Target Shoot | 102249 | [102249-bottle-target-shoot.json](./102249-bottle-target-shoot.json) |
 | Bottle vs. Bullet | 259685 | [259685-bottle-vs-bullet.json](./259685-bottle-vs-bullet.json) |
 | Bottle_Shooter | 55240 | [55240-bottle-shooter.json](./55240-bottle-shooter.json) |
+| Bottle: Pilgrim | 74638 | [74638-bottle-pilgrim.json](./74638-bottle-pilgrim.json) |
 | Bottle: Pilgrim Redux | 254088 | [254088-bottle-pilgrim-redux.json](./254088-bottle-pilgrim-redux.json) |
 | Bottled by Bears | 405328 | [405328-bottled-by-bears.json](./405328-bottled-by-bears.json) |
 | Bottler3000 | 127408 | [127408-bottler3000.json](./127408-bottler3000.json) |
@@ -17493,6 +17496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Empire | 304870 | [304870-break-the-empire.json](./304870-break-the-empire.json) |
 | Break the Fireline | 230847 | [230847-break-the-fireline.json](./230847-break-the-fireline.json) |
 | Break the Food Chain | 50746 | [50746-break-the-food-chain.json](./50746-break-the-food-chain.json) |
+| Break the Game | 74983 | [74983-break-the-game.json](./74983-break-the-game.json) |
 | Break the Glass Cup: Breaking Physics Puzzle | 269364 | [269364-break-the-glass-cup-breaking-physics-puzzle.json](./269364-break-the-glass-cup-breaking-physics-puzzle.json) |
 | Break the Ice | 359739 | [359739-break-the-ice.json](./359739-break-the-ice.json) |
 | Break the Ice Sushi Pack | 77610 | [77610-break-the-ice-sushi-pack.json](./77610-break-the-ice-sushi-pack.json) |
@@ -20631,6 +20635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burglar Inc | 290923 | [290923-burglar-inc.json](./290923-burglar-inc.json) |
 | Burglar X | 40982 | [40982-burglar-x.json](./40982-burglar-x.json) |
 | Burglar's Bazaar | 275516 | [275516-burglars-bazaar.json](./275516-burglars-bazaar.json) |
+| Burgle Bros | 75825 | [75825-burgle-bros.json](./75825-burgle-bros.json) |
 | Burgle Supply Company | 372804 | [372804-burgle-supply-company.json](./372804-burgle-supply-company.json) |
 | Burgleville | 336299 | [336299-burgleville.json](./336299-burgleville.json) |
 | Burglin' Gnomes | 383882 | [383882-burglin-gnomes.json](./383882-burglin-gnomes.json) |
@@ -20895,6 +20900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Derby | 200203 | [200203-bus-derby.json](./200203-bus-derby.json) |
 | Bus Driver | 10068 | [10068-bus-driver.json](./10068-bus-driver.json) |
 | Bus Driver Simulator | 141689 | [141689-bus-driver-simulator.json](./141689-bus-driver-simulator.json) |
+| Bus Driver Simulator 2019 | 75103 | [75103-bus-driver-simulator-2019.json](./75103-bus-driver-simulator-2019.json) |
 | Bus Driver Simulator 2019: European Minibus | 162573 | [162573-bus-driver-simulator-2019-european-minibus.json](./162573-bus-driver-simulator-2019-european-minibus.json) |
 | Bus Driver Simulator 2019: Hungarian Legend | 162578 | [162578-bus-driver-simulator-2019-hungarian-legend.json](./162578-bus-driver-simulator-2019-hungarian-legend.json) |
 | Bus Driver Simulator 2019: Modern City Bus | 162579 | [162579-bus-driver-simulator-2019-modern-city-bus.json](./162579-bus-driver-simulator-2019-modern-city-bus.json) |
