@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Odisea del Fracaso III | 323540 | [323540-la-odisea-del-fracaso-iii.json](./323540-la-odisea-del-fracaso-iii.json) |
 | La Pasion XR | 341033 | [341033-la-pasion-xr.json](./341033-la-pasion-xr.json) |
 | La Patifferie | 307883 | [307883-la-patifferie.json](./307883-la-patifferie.json) |
+| La Peri | 33677 | [33677-la-peri.json](./33677-la-peri.json) |
 | La Perlas | 314560 | [314560-la-perlas.json](./314560-la-perlas.json) |
 | La pesadilla de Illojuan | 302719 | [302719-la-pesadilla-de-illojuan.json](./302719-la-pesadilla-de-illojuan.json) |
 | La Prision | 221595 | [221595-la-prision.json](./221595-la-prision.json) |
@@ -1586,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hope | 309154 | [309154-last-hope.json](./309154-last-hope.json) |
 | Last Hope | 46865 | [46865-last-hope.json](./46865-last-hope.json) |
 | Last Hope | 81780 | [81780-last-hope.json](./81780-last-hope.json) |
+| Last Hope - Tower Defense | 33735 | [33735-last-hope-tower-defense.json](./33735-last-hope-tower-defense.json) |
 | Last Hope 3: Sniper Zombie War | 208931 | [208931-last-hope-3-sniper-zombie-war.json](./208931-last-hope-3-sniper-zombie-war.json) |
 | Last Hope Bunker: Zombie Survival | 258226 | [258226-last-hope-bunker-zombie-survival.json](./258226-last-hope-bunker-zombie-survival.json) |
 | Last Hope on Earth | 145586 | [145586-last-hope-on-earth.json](./145586-last-hope-on-earth.json) |
@@ -7874,6 +7876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked Up | 137990 | [137990-locked-up.json](./137990-locked-up.json) |
 | Locked Up | 195357 | [195357-locked-up.json](./195357-locked-up.json) |
 | Locked-In | 146138 | [146138-locked-in.json](./146138-locked-in.json) |
+| Locked-in syndrome | 33787 | [33787-locked-in-syndrome.json](./33787-locked-in-syndrome.json) |
 | Locked-Room Mystery: Hidden Truths in Everyday Life | 399657 | [399657-locked-room-mystery-hidden-truths-in-everyday-life.json](./399657-locked-room-mystery-hidden-truths-in-everyday-life.json) |
 | Lockehorn | 422665 | [422665-lockehorn.json](./422665-lockehorn.json) |
 | Locker of Death | 206861 | [206861-locker-of-death.json](./206861-locker-of-death.json) |
@@ -9593,6 +9596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lands: A Hidden Object Adventure | 34696 | [34696-lost-lands-a-hidden-object-adventure.json](./34696-lost-lands-a-hidden-object-adventure.json) |
 | Lost Lands: Dark Overlord | 35078 | [35078-lost-lands-dark-overlord.json](./35078-lost-lands-dark-overlord.json) |
 | Lost Lands: Ice Spell | 105285 | [105285-lost-lands-ice-spell.json](./105285-lost-lands-ice-spell.json) |
+| Lost Lands: Mahjong | 33702 | [33702-lost-lands-mahjong.json](./33702-lost-lands-mahjong.json) |
 | Lost Lands: Redemption | 142185 | [142185-lost-lands-redemption.json](./142185-lost-lands-redemption.json) |
 | Lost Lands: Sand Captivity | 213245 | [213245-lost-lands-sand-captivity.json](./213245-lost-lands-sand-captivity.json) |
 | Lost Lands: Sand Captivity - Collector's Edition | 283619 | [283619-lost-lands-sand-captivity-collectors-edition.json](./283619-lost-lands-sand-captivity-collectors-edition.json) |
