@@ -4248,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack Mole | 328199 | [328199-whack-mole.json](./328199-whack-mole.json) |
 | Whack the Burglar | 234465 | [234465-whack-the-burglar.json](./234465-whack-the-burglar.json) |
 | Whack the Burglars | 193801 | [193801-whack-the-burglars.json](./193801-whack-the-burglars.json) |
+| Whack the Serial Killer | 90514 | [90514-whack-the-serial-killer.json](./90514-whack-the-serial-killer.json) |
 | Whack the Thieves | 188289 | [188289-whack-the-thieves.json](./188289-whack-the-thieves.json) |
 | Whack Your Boss | 221409 | [221409-whack-your-boss.json](./221409-whack-your-boss.json) |
 | Whack Your Boss: Cartoon Land | 194105 | [194105-whack-your-boss-cartoon-land.json](./194105-whack-your-boss-cartoon-land.json) |
@@ -6097,6 +6098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild River Run: Map Pack - Sci-FI | 282211 | [282211-wild-river-run-map-pack-sci-fi.json](./282211-wild-river-run-map-pack-sci-fi.json) |
 | Wild Roads | 233070 | [233070-wild-roads.json](./233070-wild-roads.json) |
 | Wild Romance | 32335 | [32335-wild-romance.json](./32335-wild-romance.json) |
+| Wild Romance: Mofu-mofu Edition | 75657 | [75657-wild-romance-mofu-mofu-edition.json](./75657-wild-romance-mofu-mofu-edition.json) |
 | Wild Roots | 374874 | [374874-wild-roots.json](./374874-wild-roots.json) |
 | Wild RTS | 76022 | [76022-wild-rts.json](./76022-wild-rts.json) |
 | Wild Rumble | 226118 | [226118-wild-rumble.json](./226118-wild-rumble.json) |
