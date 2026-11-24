@@ -16098,6 +16098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furusato wo Sagasu Sanshimai | 119682 | [119682-furusato-wo-sagasu-sanshimai.json](./119682-furusato-wo-sagasu-sanshimai.json) |
 | Furusoma | 230228 | [230228-furusoma.json](./230228-furusoma.json) |
 | Furuta Atsuya no Simulation Pro Yakyuu 2 | 56409 | [56409-furuta-atsuya-no-simulation-pro-yakyuu-2.json](./56409-furuta-atsuya-no-simulation-pro-yakyuu-2.json) |
+| Furwind | 27726 | [27726-furwind.json](./27726-furwind.json) |
 | Furwind: Limited Edition | 167049 | [167049-furwind-limited-edition.json](./167049-furwind-limited-edition.json) |
 | Furwind: Special Edition | 136005 | [136005-furwind-special-edition.json](./136005-furwind-special-edition.json) |
 | Fury | 21227 | [21227-fury.json](./21227-fury.json) |
