@@ -15295,6 +15295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap the Fly | 23507 | [23507-slap-the-fly.json](./23507-slap-the-fly.json) |
 | Slap The King | 290552 | [290552-slap-the-king.json](./290552-slap-the-king.json) |
 | Slap the Rocks | 176884 | [176884-slap-the-rocks.json](./176884-slap-the-rocks.json) |
+| Slap Village: Reality Slap | 27399 | [27399-slap-village-reality-slap.json](./27399-slap-village-reality-slap.json) |
 | Slap-It Together! | 197057 | [197057-slap-it-together.json](./197057-slap-it-together.json) |
 | Slap-Shot! Hockey | 95424 | [95424-slap-shot-hockey.json](./95424-slap-shot-hockey.json) |
 | SlapBR | 189836 | [189836-slapbr.json](./189836-slapbr.json) |
@@ -19660,6 +19661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solstice | 324503 | [324503-solstice.json](./324503-solstice.json) |
 | Solstice | 393587 | [393587-solstice.json](./393587-solstice.json) |
 | Solstice Arena | 51673 | [51673-solstice-arena.json](./51673-solstice-arena.json) |
+| Solstice Chronicles: MIA | 27381 | [27381-solstice-chronicles-mia.json](./27381-solstice-chronicles-mia.json) |
 | Solstice Chronicles: Missing in Action | 51613 | [51613-solstice-chronicles-missing-in-action.json](./51613-solstice-chronicles-missing-in-action.json) |
 | Solstice: Digital Collector's Edition | 154447 | [154447-solstice-digital-collectors-edition.json](./154447-solstice-digital-collectors-edition.json) |
 | Solstride | 381210 | [381210-solstride.json](./381210-solstride.json) |
@@ -21780,6 +21782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Scar | 361971 | [361971-soul-scar.json](./361971-soul-scar.json) |
 | Soul Searchin' | 407515 | [407515-soul-searchin.json](./407515-soul-searchin.json) |
 | Soul Searching | 216872 | [216872-soul-searching.json](./216872-soul-searching.json) |
+| Soul Searching | 27357 | [27357-soul-searching.json](./27357-soul-searching.json) |
 | Soul Seed | 182074 | [182074-soul-seed.json](./182074-soul-seed.json) |
 | Soul Seeker | 41502 | [41502-soul-seeker.json](./41502-soul-seeker.json) |
 | Soul Shard | 207340 | [207340-soul-shard.json](./207340-soul-shard.json) |
@@ -21944,6 +21947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulless | 80767 | [80767-soulless.json](./80767-soulless.json) |
 | Soulless Legions | 189800 | [189800-soulless-legions.json](./189800-soulless-legions.json) |
 | Soulless Steel | 268958 | [268958-soulless-steel.json](./268958-soulless-steel.json) |
+| Soulless: Ray of Hope | 27754 | [27754-soulless-ray-of-hope.json](./27754-soulless-ray-of-hope.json) |
 | Soulmask | 272600 | [272600-soulmask.json](./272600-soulmask.json) |
 | Soulmask: Bone Bash | 426645 | [426645-soulmask-bone-bash.json](./426645-soulmask-bone-bash.json) |
 | Soulmask: Shifting Sands | 370724 | [370724-soulmask-shifting-sands.json](./370724-soulmask-shifting-sands.json) |
