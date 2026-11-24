@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Rescue: Puzzle Lines - Challenge Track | 393899 | [393899-rail-rescue-puzzle-lines-challenge-track.json](./393899-rail-rescue-puzzle-lines-challenge-track.json) |
 | Rail Rescue: Puzzle Lines - Complete Edition | 396139 | [396139-rail-rescue-puzzle-lines-complete-edition.json](./396139-rail-rescue-puzzle-lines-complete-edition.json) |
 | Rail Rescue: Puzzle Lines - Quest Track | 393900 | [393900-rail-rescue-puzzle-lines-quest-track.json](./393900-rail-rescue-puzzle-lines-quest-track.json) |
+| Rail Rider | 23601 | [23601-rail-rider.json](./23601-rail-rider.json) |
 | Rail Romanesque Origin | 280057 | [280057-rail-romanesque-origin.json](./280057-rail-romanesque-origin.json) |
 | Rail Route | 145422 | [145422-rail-route.json](./145422-rail-route.json) |
 | Rail Route: Expect Delays | 398771 | [398771-rail-route-expect-delays.json](./398771-rail-route-expect-delays.json) |
