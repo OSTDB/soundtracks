@@ -3837,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Sesame: Alibaba Dash | 376228 | [376228-open-sesame-alibaba-dash.json](./376228-open-sesame-alibaba-dash.json) |
 | Open Solomon's Key | 184409 | [184409-open-solomons-key.json](./184409-open-solomons-key.json) |
 | Open Sonic the Hedgehog | 266710 | [266710-open-sonic-the-hedgehog.json](./266710-open-sonic-the-hedgehog.json) |
+| Open Sorcery | 27444 | [27444-open-sorcery.json](./27444-open-sorcery.json) |
 | Open Sorcery: Jingle BEL/S | 134202 | [134202-open-sorcery-jingle-bel-s.json](./134202-open-sorcery-jingle-bel-s.json) |
 | Open Sorcery: Sea++ | 75619 | [75619-open-sorcery-sea.json](./75619-open-sorcery-sea.json) |
 | Open Source Objects: The Game | 361751 | [361751-open-source-objects-the-game.json](./361751-open-source-objects-the-game.json) |
@@ -4240,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Or | 29613 | [29613-or.json](./29613-or.json) |
 | Or8 | 131718 | [131718-or8.json](./131718-or8.json) |
 | Ora | 394358 | [394358-ora.json](./394358-ora.json) |
+| Oracle | 27457 | [27457-oracle.json](./27457-oracle.json) |
 | Oracle | 366368 | [366368-oracle.json](./366368-oracle.json) |
 | Oracle 5000 | 360715 | [360715-oracle-5000.json](./360715-oracle-5000.json) |
 | Oracle Chain | 181241 | [181241-oracle-chain.json](./181241-oracle-chain.json) |
