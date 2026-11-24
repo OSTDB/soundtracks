@@ -13887,6 +13887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SixteenPetals | 393556 | [393556-sixteenpetals.json](./393556-sixteenpetals.json) |
 | Sixth Extinction | 144616 | [144616-sixth-extinction.json](./144616-sixth-extinction.json) |
 | Sixth Force | 291500 | [291500-sixth-force.json](./291500-sixth-force.json) |
+| Sixth Grade Detective | 33911 | [33911-sixth-grade-detective.json](./33911-sixth-grade-detective.json) |
 | Sixth Night | 129710 | [129710-sixth-night.json](./129710-sixth-night.json) |
 | Sixth Sense Investigations | 22026 | [22026-sixth-sense-investigations.json](./22026-sixth-sense-investigations.json) |
 | Sixth Sun | 297365 | [297365-sixth-sun.json](./297365-sixth-sun.json) |
@@ -23186,6 +23187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Monster | 72971 | [72971-space-monster.json](./72971-space-monster.json) |
 | Space Moonshiner | 230969 | [230969-space-moonshiner.json](./230969-space-moonshiner.json) |
 | Space Mosaics | 383727 | [383727-space-mosaics.json](./383727-space-mosaics.json) |
+| Space Moth DX | 33928 | [33928-space-moth-dx.json](./33928-space-moth-dx.json) |
 | Space Moth: Lunar Edition | 158935 | [158935-space-moth-lunar-edition.json](./158935-space-moth-lunar-edition.json) |
 | Space Mountain | 45384 | [45384-space-mountain.json](./45384-space-mountain.json) |
 | Space Mouse | 30874 | [30874-space-mouse.json](./30874-space-mouse.json) |
@@ -36099,6 +36101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dunk Star | 42270 | [42270-super-dunk-star.json](./42270-super-dunk-star.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Duper Amy Freaking Rose | 370489 | [370489-super-duper-amy-freaking-rose.json](./370489-super-duper-amy-freaking-rose.json) |
+| Super Duper Flying Genocide 2017 | 34004 | [34004-super-duper-flying-genocide-2017.json](./34004-super-duper-flying-genocide-2017.json) |
 | Super Duper Island Adventure | 156788 | [156788-super-duper-island-adventure.json](./156788-super-duper-island-adventure.json) |
 | Super Duper Metroid | 198097 | [198097-super-duper-metroid.json](./198097-super-duper-metroid.json) |
 | Super Duper Multitasking | 330972 | [330972-super-duper-multitasking.json](./330972-super-duper-multitasking.json) |
