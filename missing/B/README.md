@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Panda's Holidays | 107546 | [107546-baby-pandas-holidays.json](./107546-baby-pandas-holidays.json) |
 | Baby Panda's Photo Studio | 188263 | [188263-baby-pandas-photo-studio.json](./188263-baby-pandas-photo-studio.json) |
 | Baby Panda's Vacation | 106599 | [106599-baby-pandas-vacation.json](./106599-baby-pandas-vacation.json) |
+| Baby Peak | 428695 | [428695-baby-peak.json](./428695-baby-peak.json) |
 | Baby Princess Phone | 101656 | [101656-baby-princess-phone.json](./101656-baby-princess-phone.json) |
 | Baby Puzzle: First Learning Shapes for Toddlers | 147985 | [147985-baby-puzzle-first-learning-shapes-for-toddlers.json](./147985-baby-puzzle-first-learning-shapes-for-toddlers.json) |
 | Baby Racer | 147029 | [147029-baby-racer.json](./147029-baby-racer.json) |
@@ -986,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Day | 88333 | [88333-bad-day.json](./88333-bad-day.json) |
 | Bad Day Betsy | 109863 | [109863-bad-day-betsy.json](./109863-bad-day-betsy.json) |
 | Bad Delivery: Pizza Your Heart | 381617 | [381617-bad-delivery-pizza-your-heart.json](./381617-bad-delivery-pizza-your-heart.json) |
+| Bad Dinos | 23219 | [23219-bad-dinos.json](./23219-bad-dinos.json) |
 | Bad Dog, Good Nights | 393851 | [393851-bad-dog-good-nights.json](./393851-bad-dog-good-nights.json) |
 | Bad Dog, Good Time | 393805 | [393805-bad-dog-good-time.json](./393805-bad-dog-good-time.json) |
 | Bad Dogs | 421043 | [421043-bad-dogs.json](./421043-bad-dogs.json) |
@@ -10376,6 +10378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Fire | 286428 | [286428-black-fire.json](./286428-black-fire.json) |
 | Black Fire | 46087 | [46087-black-fire.json](./46087-black-fire.json) |
 | Black Fist Ninja Run Challenge | 175576 | [175576-black-fist-ninja-run-challenge.json](./175576-black-fist-ninja-run-challenge.json) |
+| Black Flame Tactics | 430781 | [430781-black-flame-tactics.json](./430781-black-flame-tactics.json) |
 | Black Flower | 400966 | [400966-black-flower.json](./400966-black-flower.json) |
 | Black Forest | 31435 | [31435-black-forest.json](./31435-black-forest.json) |
 | Black Forest Castle | 376163 | [376163-black-forest-castle.json](./376163-black-forest-castle.json) |
@@ -14256,6 +14259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku no Soushiki ni Youkoso: Happy Rebirthday | 335700 | [335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json](./335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json) |
 | Boku no Tennis Jinsei | 69362 | [69362-boku-no-tennis-jinsei.json](./69362-boku-no-tennis-jinsei.json) |
 | Boku no Tsuri Monogatari | 196563 | [196563-boku-no-tsuri-monogatari.json](./196563-boku-no-tsuri-monogatari.json) |
+| Boku no Uta | 428681 | [428681-boku-no-uta.json](./428681-boku-no-uta.json) |
 | Boku to Iu Mono | 325731 | [325731-boku-to-iu-mono.json](./325731-boku-to-iu-mono.json) |
 | Boku to Joi no Shinsatsu Nisshi | 136653 | [136653-boku-to-joi-no-shinsatsu-nisshi.json](./136653-boku-to-joi-no-shinsatsu-nisshi.json) |
 | Boku to Joi no Shinsatsu Nisshi [Nurse Enjoy Pack] | 146110 | [146110-boku-to-joi-no-shinsatsu-nisshi-nurse-enjoy-pack.json](./146110-boku-to-joi-no-shinsatsu-nisshi-nurse-enjoy-pack.json) |
@@ -19423,6 +19427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buckshot Roulette | 288941 | [288941-buckshot-roulette.json](./288941-buckshot-roulette.json) |
 | Buckshot to Hell | 319992 | [319992-buckshot-to-hell.json](./319992-buckshot-to-hell.json) |
 | Buckshot With Friends | 287455 | [287455-buckshot-with-friends.json](./287455-buckshot-with-friends.json) |
+| Buckvale | 430938 | [430938-buckvale.json](./430938-buckvale.json) |
 | Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
 | Bucky O'Hare | 218904 | [218904-bucky-ohare.json](./218904-bucky-ohare.json) |
 | Bucky O'Hare | 238860 | [238860-bucky-ohare.json](./238860-bucky-ohare.json) |
@@ -19900,6 +19905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulkado | 148031 | [148031-bulkado.json](./148031-bulkado.json) |
 | Bulken | 273826 | [273826-bulken.json](./273826-bulken.json) |
 | Bulkhead | 152676 | [152676-bulkhead.json](./152676-bulkhead.json) |
+| BULKHEAD Survival | 428694 | [428694-bulkhead-survival.json](./428694-bulkhead-survival.json) |
 | Bulky Head: Use your head to smash nasty objects! | 26751 | [26751-bulky-head-use-your-head-to-smash-nasty-objects.json](./26751-bulky-head-use-your-head-to-smash-nasty-objects.json) |
 | Bull Chase! | 267323 | [267323-bull-chase.json](./267323-bull-chase.json) |
 | Bull et Hell | 166852 | [166852-bull-et-hell.json](./166852-bull-et-hell.json) |
@@ -20674,6 +20680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried Tapes: The Cleaner | 365598 | [365598-buried-tapes-the-cleaner.json](./365598-buried-tapes-the-cleaner.json) |
 | Buried Tapes: The Parking | 379605 | [379605-buried-tapes-the-parking.json](./379605-buried-tapes-the-parking.json) |
 | Buried Under Rocks | 158832 | [158832-buried-under-rocks.json](./158832-buried-under-rocks.json) |
+| Buried Whispers | 428806 | [428806-buried-whispers.json](./428806-buried-whispers.json) |
 | Buried: An Interactive Story | 33689 | [33689-buried-an-interactive-story.json](./33689-buried-an-interactive-story.json) |
 | Buriedbornes | 109111 | [109111-buriedbornes.json](./109111-buriedbornes.json) |
 | Buriedbornes 2 | 267742 | [267742-buriedbornes-2.json](./267742-buriedbornes-2.json) |
@@ -21304,6 +21311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buy Me Some Soup | 188682 | [188682-buy-me-some-soup.json](./188682-buy-me-some-soup.json) |
 | Buy My Snake Oil | 236645 | [236645-buy-my-snake-oil.json](./236645-buy-my-snake-oil.json) |
 | Buy Sell | 374158 | [374158-buy-sell.json](./374158-buy-sell.json) |
+| Buy the Dip, Milady | 431221 | [431221-buy-the-dip-milady.json](./431221-buy-the-dip-milady.json) |
 | Buy the Game, I Have a Gun 2: Online Open World | 429398 | [429398-buy-the-game-i-have-a-gun-2-online-open-world.json](./429398-buy-the-game-i-have-a-gun-2-online-open-world.json) |
 | Buy the Game, I Have a Gun: Sheesh-Man | 232718 | [232718-buy-the-game-i-have-a-gun-sheesh-man.json](./232718-buy-the-game-i-have-a-gun-sheesh-man.json) |
 | Buy the Game, I Have a Gun: Sheesh-Man - Digital Deluxe Mega Chad Edition | 375704 | [375704-buy-the-game-i-have-a-gun-sheesh-man-digital-deluxe-mega-chad-edition.json](./375704-buy-the-game-i-have-a-gun-sheesh-man-digital-deluxe-mega-chad-edition.json) |
