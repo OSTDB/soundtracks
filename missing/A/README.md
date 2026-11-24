@@ -3687,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ActRaiser | 6468 | [6468-actraiser.json](./6468-actraiser.json) |
 | ActRaiser 2 | 7704 | [7704-actraiser-2.json](./7704-actraiser-2.json) |
 | Acts of Blood | 305550 | [305550-acts-of-blood.json](./305550-acts-of-blood.json) |
+| Actua Golf | 45497 | [45497-actua-golf.json](./45497-actua-golf.json) |
 | Actua Golf 3 | 34501 | [34501-actua-golf-3.json](./34501-actua-golf-3.json) |
 | Actua Golf 4 | 356274 | [356274-actua-golf-4.json](./356274-actua-golf-4.json) |
 | Actua Ice Hockey | 68964 | [68964-actua-ice-hockey.json](./68964-actua-ice-hockey.json) |
@@ -17161,6 +17162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Studio Simulator | 407346 | [407346-art-studio-simulator.json](./407346-art-studio-simulator.json) |
 | Art Style: Aquia | 22537 | [22537-art-style-aquia.json](./22537-art-style-aquia.json) |
 | Art Style: Base 10 | 84764 | [84764-art-style-base-10.json](./84764-art-style-base-10.json) |
+| Art Style: Boxlife | 47826 | [47826-art-style-boxlife.json](./47826-art-style-boxlife.json) |
 | Art Style: Cubello | 21135 | [21135-art-style-cubello.json](./21135-art-style-cubello.json) |
 | Art Style: Digidrive | 29045 | [29045-art-style-digidrive.json](./29045-art-style-digidrive.json) |
 | Art Style: Orbient | 21181 | [21181-art-style-orbient.json](./21181-art-style-orbient.json) |
