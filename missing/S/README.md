@@ -2753,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Navelnii | 146408 | [146408-save-navelnii.json](./146408-save-navelnii.json) |
 | Save New York | 23209 | [23209-save-new-york.json](./23209-save-new-york.json) |
 | Save Next Christmas | 397069 | [397069-save-next-christmas.json](./397069-save-next-christmas.json) |
+| Save One More | 90278 | [90278-save-one-more.json](./90278-save-one-more.json) |
 | Save Our Ship | 40697 | [40697-save-our-ship.json](./40697-save-our-ship.json) |
 | Save Our Solar System | 243055 | [243055-save-our-solar-system.json](./243055-save-our-solar-system.json) |
 | Save Our Souls: Episode I - The Absurd Hopes Of Blessed Children | 29322 | [29322-save-our-souls-episode-i-the-absurd-hopes-of-blessed-children.json](./29322-save-our-souls-episode-i-the-absurd-hopes-of-blessed-children.json) |
@@ -3864,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Score! Classic Goals | 168542 | [168542-score-classic-goals.json](./168542-score-classic-goals.json) |
 | Score! Hero | 15851 | [15851-score-hero.json](./15851-score-hero.json) |
 | Score! Hero 2 | 170254 | [170254-score-hero-2.json](./170254-score-hero-2.json) |
+| Score! Match | 91215 | [91215-score-match.json](./91215-score-match.json) |
 | Scorn | 19817 | [19817-scorn.json](./19817-scorn.json) |
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
 | Scorn: Deluxe Edition | 205002 | [205002-scorn-deluxe-edition.json](./205002-scorn-deluxe-edition.json) |
@@ -6707,6 +6709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sequence - Robot programming simulator | 107527 | [107527-sequence-robot-programming-simulator.json](./107527-sequence-robot-programming-simulator.json) |
 | Sequence Jump | 361854 | [361854-sequence-jump.json](./361854-sequence-jump.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
+| Sequence Storm | 111533 | [111533-sequence-storm.json](./111533-sequence-storm.json) |
 | Sequentia | 250113 | [250113-sequentia.json](./250113-sequentia.json) |
 | Sequential | 291007 | [291007-sequential.json](./291007-sequential.json) |
 | Sequential Dungeon | 290213 | [290213-sequential-dungeon.json](./290213-sequential-dungeon.json) |
@@ -13073,6 +13076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Solitaire | 264616 | [264616-simple-solitaire.json](./264616-simple-solitaire.json) |
 | Simple Spy | 32554 | [32554-simple-spy.json](./32554-simple-spy.json) |
 | Simple Stock Trading Simulator | 275960 | [275960-simple-stock-trading-simulator.json](./275960-simple-stock-trading-simulator.json) |
+| Simple Story: Alex | 90395 | [90395-simple-story-alex.json](./90395-simple-story-alex.json) |
 | Simple Story: Alex - Two Guys | 172132 | [172132-simple-story-alex-two-guys.json](./172132-simple-story-alex-two-guys.json) |
 | Simple Sudoku | 332756 | [332756-simple-sudoku.json](./332756-simple-sudoku.json) |
 | Simple Survivor | 426274 | [426274-simple-survivor.json](./426274-simple-survivor.json) |
@@ -13586,6 +13590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sip of Poison | 428447 | [428447-sip-of-poison.json](./428447-sip-of-poison.json) |
 | Sip Or Die | 379057 | [379057-sip-or-die.json](./379057-sip-or-die.json) |
 | Sipher Odyssey | 293255 | [293255-sipher-odyssey.json](./293255-sipher-odyssey.json) |
+| Sipho | 90850 | [90850-sipho.json](./90850-sipho.json) |
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
 | Siphonophore | 156761 | [156761-siphonophore.json](./156761-siphonophore.json) |
 | Siphonopolis | 204608 | [204608-siphonopolis.json](./204608-siphonopolis.json) |
@@ -24933,6 +24938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellisimo | 400896 | [400896-spellisimo.json](./400896-spellisimo.json) |
 | Spelljammer: Pirates of Realmspace | 73446 | [73446-spelljammer-pirates-of-realmspace.json](./73446-spelljammer-pirates-of-realmspace.json) |
 | Spellk | 422622 | [422622-spellk.json](./422622-spellk.json) |
+| SpellKeeper | 90255 | [90255-spellkeeper.json](./90255-spellkeeper.json) |
 | SpellKnights | 33500 | [33500-spellknights.json](./33500-spellknights.json) |
 | Spellloom | 337487 | [337487-spellloom.json](./337487-spellloom.json) |
 | Spellmasons | 215714 | [215714-spellmasons.json](./215714-spellmasons.json) |
@@ -31274,6 +31280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickType: StickLady | 218469 | [218469-sticktype-sticklady.json](./218469-sticktype-sticklady.json) |
 | Stickup Willie | 426401 | [426401-stickup-willie.json](./426401-stickup-willie.json) |
 | Stickville | 424446 | [424446-stickville.json](./424446-stickville.json) |
+| StickWars | 90800 | [90800-stickwars.json](./90800-stickwars.json) |
 | Sticky Arrow | 295165 | [295165-sticky-arrow.json](./295165-sticky-arrow.json) |
 | Sticky Balls | 208765 | [208765-sticky-balls.json](./208765-sticky-balls.json) |
 | Sticky Balls | 94905 | [94905-sticky-balls.json](./94905-sticky-balls.json) |
@@ -39356,6 +39363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superposition | 414401 | [414401-superposition.json](./414401-superposition.json) |
 | SuperPosition | 318946 | [318946-superposition.json](./318946-superposition.json) |
 | SuperPower 2 | 24250 | [24250-superpower-2.json](./24250-superpower-2.json) |
+| SuperPower 2: Steam Edition | 90586 | [90586-superpower-2-steam-edition.json](./90586-superpower-2-steam-edition.json) |
 | SuperPower 3 | 171217 | [171217-superpower-3.json](./171217-superpower-3.json) |
 | Superpower Squad | 128040 | [128040-superpower-squad.json](./128040-superpower-squad.json) |
 | Superpower Squad | 208126 | [208126-superpower-squad.json](./208126-superpower-squad.json) |
