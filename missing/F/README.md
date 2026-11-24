@@ -3808,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Lostbelt No. 4 - Yuga Kshetra | 417568 | [417568-fate-grand-order-lostbelt-no-4-yuga-kshetra.json](./417568-fate-grand-order-lostbelt-no-4-yuga-kshetra.json) |
 | Fate/Grand Order: Merry Christmas in the Underworld | 418780 | [418780-fate-grand-order-merry-christmas-in-the-underworld.json](./418780-fate-grand-order-merry-christmas-in-the-underworld.json) |
 | Fate/Grand Order: Naraka Mandala - Heian-kyo | 416642 | [416642-fate-grand-order-naraka-mandala-heian-kyo.json](./416642-fate-grand-order-naraka-mandala-heian-kyo.json) |
+| Fate/Grand Order: Ordeal Call 0 & Bleached Earth | 428698 | [428698-fate-grand-order-ordeal-call-0-and-bleached-earth.json](./428698-fate-grand-order-ordeal-call-0-and-bleached-earth.json) |
 | Fate/Grand Order: Ordeal Call I - Paper Moon | 414359 | [414359-fate-grand-order-ordeal-call-i-paper-moon.json](./414359-fate-grand-order-ordeal-call-i-paper-moon.json) |
 | Fate/Grand Order: Ordeal Call II - Id | 413505 | [413505-fate-grand-order-ordeal-call-ii-id.json](./413505-fate-grand-order-ordeal-call-ii-id.json) |
 | Fate/Grand Order: Ordeal Call III - Archetype Inception | 413506 | [413506-fate-grand-order-ordeal-call-iii-archetype-inception.json](./413506-fate-grand-order-ordeal-call-iii-archetype-inception.json) |
@@ -4512,6 +4513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femboy Bangers: Pub & Grill | 170495 | [170495-femboy-bangers-pub-and-grill.json](./170495-femboy-bangers-pub-and-grill.json) |
 | Femboy Besties | 156318 | [156318-femboy-besties.json](./156318-femboy-besties.json) |
 | Femboy Called It “Massage” | 370477 | [370477-femboy-called-it-massage.json](./370477-femboy-called-it-massage.json) |
+| Femboy Clicker | 428692 | [428692-femboy-clicker.json](./428692-femboy-clicker.json) |
 | Femboy Feet | 340070 | [340070-femboy-feet.json](./340070-femboy-feet.json) |
 | Femboy Fun | 231782 | [231782-femboy-fun.json](./231782-femboy-fun.json) |
 | Femboy Furry Futa Forest FFFF | 428494 | [428494-femboy-furry-futa-forest-ffff.json](./428494-femboy-furry-futa-forest-ffff.json) |
@@ -10882,6 +10884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Superstar 2 | 317008 | [317008-football-superstar-2.json](./317008-football-superstar-2.json) |
 | Football Superstars | 16413 | [16413-football-superstars.json](./16413-football-superstars.json) |
 | Football Survivors | 390197 | [390197-football-survivors.json](./390197-football-survivors.json) |
+| Football Tactics: Dare to Dream | 431201 | [431201-football-tactics-dare-to-dream.json](./431201-football-tactics-dare-to-dream.json) |
 | Football Thug Life Soccer | 255741 | [255741-football-thug-life-soccer.json](./255741-football-thug-life-soccer.json) |
 | Football Tournament | 164882 | [164882-football-tournament.json](./164882-football-tournament.json) |
 | Football Trivia | 87292 | [87292-football-trivia.json](./87292-football-trivia.json) |
