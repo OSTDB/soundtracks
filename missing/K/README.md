@@ -3620,7 +3620,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Nothing | 179638 | [179638-king-of-nothing.json](./179638-king-of-nothing.json) |
 | King of Opera | 89812 | [89812-king-of-opera.json](./89812-king-of-opera.json) |
 | King of Peasants | 96255 | [96255-king-of-peasants.json](./96255-king-of-peasants.json) |
-| King of Phoenix | 105234 | [105234-king-of-phoenix.json](./105234-king-of-phoenix.json) |
 | King of Ping Pong: Megamix | 319444 | [319444-king-of-ping-pong-megamix.json](./319444-king-of-ping-pong-megamix.json) |
 | King of Pool | 66820 | [66820-king-of-pool.json](./66820-king-of-pool.json) |
 | King of Producer | 301435 | [301435-king-of-producer.json](./301435-king-of-producer.json) |
