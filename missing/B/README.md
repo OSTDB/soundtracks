@@ -8885,6 +8885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigfoot Life | 309909 | [309909-bigfoot-life.json](./309909-bigfoot-life.json) |
 | Bigfoot Monster Hunter | 216105 | [216105-bigfoot-monster-hunter.json](./216105-bigfoot-monster-hunter.json) |
 | Bigfoot Monster Hunter | 97050 | [97050-bigfoot-monster-hunter.json](./97050-bigfoot-monster-hunter.json) |
+| Bigfoot Quest | 90752 | [90752-bigfoot-quest.json](./90752-bigfoot-quest.json) |
 | Bigfoot vs. Scots | 244257 | [244257-bigfoot-vs-scots.json](./244257-bigfoot-vs-scots.json) |
 | Bigfoot: Chasing Shadows | 69354 | [69354-bigfoot-chasing-shadows.json](./69354-bigfoot-chasing-shadows.json) |
 | Bigfoot: King of Crush | 51052 | [51052-bigfoot-king-of-crush.json](./51052-bigfoot-king-of-crush.json) |
@@ -14134,6 +14135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boggle Bash | 366411 | [366411-boggle-bash.json](./366411-boggle-bash.json) |
 | Boggle Bash 2 | 354963 | [354963-boggle-bash-2.json](./354963-boggle-bash-2.json) |
 | Boggle Party | 398180 | [398180-boggle-party.json](./398180-boggle-party.json) |
+| Boggle Plus | 92264 | [92264-boggle-plus.json](./92264-boggle-plus.json) |
 | Boggle With Friends | 55087 | [55087-boggle-with-friends.json](./55087-boggle-with-friends.json) |
 | Boggy '84 | 40261 | [40261-boggy-84.json](./40261-boggy-84.json) |
 | Bogie's Super Pick: Value Pack 1 | 98965 | [98965-bogies-super-pick-value-pack-1.json](./98965-bogies-super-pick-value-pack-1.json) |
@@ -16597,6 +16599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxville 2: Collector's Edition | 402954 | [402954-boxville-2-collectors-edition.json](./402954-boxville-2-collectors-edition.json) |
 | Boxville Collection | 378829 | [378829-boxville-collection.json](./378829-boxville-collection.json) |
 | Boxville: Collector's Edition | 230807 | [230807-boxville-collectors-edition.json](./230807-boxville-collectors-edition.json) |
+| BoxVR | 91208 | [91208-boxvr.json](./91208-boxvr.json) |
 | Boxworld | 287649 | [287649-boxworld.json](./287649-boxworld.json) |
 | Boxxle | 7799 | [7799-boxxle.json](./7799-boxxle.json) |
 | Boxxle II | 48961 | [48961-boxxle-ii.json](./48961-boxxle-ii.json) |
