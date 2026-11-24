@@ -3125,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Zero - Infinity | 193944 | [193944-re-zero-infinity.json](./193944-re-zero-infinity.json) |
 | Re:Zero - Starting Life in Another World: Death or Kiss | 26668 | [26668-re-zero-starting-life-in-another-world-death-or-kiss.json](./26668-re-zero-starting-life-in-another-world-death-or-kiss.json) |
 | Re:Zero - Starting Life in Another World: Lost in Memories | 137943 | [137943-re-zero-starting-life-in-another-world-lost-in-memories.json](./137943-re-zero-starting-life-in-another-world-lost-in-memories.json) |
+| Re:Zero - Starting Life in Another World: The Prophecy of the Throne | 134556 | [134556-re-zero-starting-life-in-another-world-the-prophecy-of-the-throne.json](./134556-re-zero-starting-life-in-another-world-the-prophecy-of-the-throne.json) |
 | Re:Zero - Starting Life in Another World: The Prophecy of the Throne - Collector's Edition | 136191 | [136191-re-zero-starting-life-in-another-world-the-prophecy-of-the-throne-collectors-edition.json](./136191-re-zero-starting-life-in-another-world-the-prophecy-of-the-throne-collectors-edition.json) |
 | Re:Zero - The Forbidden Book and the Mysterious Spirit | 144893 | [144893-re-zero-the-forbidden-book-and-the-mysterious-spirit.json](./144893-re-zero-the-forbidden-book-and-the-mysterious-spirit.json) |
 | Re:Zero -Starting Life in Another World- Death or Kiss Limited Edition | 167132 | [167132-re-zero-starting-life-in-another-world-death-or-kiss-limited-edition.json](./167132-re-zero-starting-life-in-another-world-death-or-kiss-limited-edition.json) |
@@ -4649,6 +4650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Rocket Defencism | 317759 | [317759-red-rocket-defencism.json](./317759-red-rocket-defencism.json) |
 | Red Rogue | 65082 | [65082-red-rogue.json](./65082-red-rogue.json) |
 | Red Rogue Sea | 338332 | [338332-red-rogue-sea.json](./338332-red-rogue-sea.json) |
+| Red Ronin | 133967 | [133967-red-ronin.json](./133967-red-ronin.json) |
 | Red Room | 178998 | [178998-red-room.json](./178998-red-room.json) |
 | Red Room | 367605 | [367605-red-room.json](./367605-red-room.json) |
 | Red Rooms | 409642 | [409642-red-rooms.json](./409642-red-rooms.json) |
@@ -4922,6 +4924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedNeck Bowl Games | 255473 | [255473-redneck-bowl-games.json](./255473-redneck-bowl-games.json) |
 | Redneck Brawl Turbo | 333172 | [333172-redneck-brawl-turbo.json](./333172-redneck-brawl-turbo.json) |
 | Redneck Deer Huntin' | 9005 | [9005-redneck-deer-huntin.json](./9005-redneck-deer-huntin.json) |
+| Redneck Ed: Astro Monsters Show | 132230 | [132230-redneck-ed-astro-monsters-show.json](./132230-redneck-ed-astro-monsters-show.json) |
 | Redneck Joe vs The Swamp Zombies | 261749 | [261749-redneck-joe-vs-the-swamp-zombies.json](./261749-redneck-joe-vs-the-swamp-zombies.json) |
 | Redneck Kentucky | 25447 | [25447-redneck-kentucky.json](./25447-redneck-kentucky.json) |
 | Redneck Party | 151026 | [151026-redneck-party.json](./151026-redneck-party.json) |
@@ -5792,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnant Records | 198688 | [198688-remnant-records.json](./198688-remnant-records.json) |
 | Remnant: From the Ashes - Complete Edition | 164747 | [164747-remnant-from-the-ashes-complete-edition.json](./164747-remnant-from-the-ashes-complete-edition.json) |
 | Remnant: From the Ashes - Subject 2923 | 134829 | [134829-remnant-from-the-ashes-subject-2923.json](./134829-remnant-from-the-ashes-subject-2923.json) |
+| Remnant: From the Ashes - Swamps of Corsus | 132138 | [132138-remnant-from-the-ashes-swamps-of-corsus.json](./132138-remnant-from-the-ashes-swamps-of-corsus.json) |
 | Remnant: Planar Wars 3D | 138433 | [138433-remnant-planar-wars-3d.json](./138433-remnant-planar-wars-3d.json) |
 | Remnants | 134335 | [134335-remnants.json](./134335-remnants.json) |
 | Remnants | 168318 | [168318-remnants.json](./168318-remnants.json) |
@@ -8675,6 +8679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rigid | 292447 | [292447-rigid.json](./292447-rigid.json) |
 | Rigid Chess | 117792 | [117792-rigid-chess.json](./117792-rigid-chess.json) |
 | Rigid Force Alpha | 99007 | [99007-rigid-force-alpha.json](./99007-rigid-force-alpha.json) |
+| Rigid Force Redux | 134368 | [134368-rigid-force-redux.json](./134368-rigid-force-redux.json) |
 | Rigid Memory | 205107 | [205107-rigid-memory.json](./205107-rigid-memory.json) |
 | Riglas | 281255 | [281255-riglas.json](./281255-riglas.json) |
 | Riglord Saga 2 | 73838 | [73838-riglord-saga-2.json](./73838-riglord-saga-2.json) |
@@ -11076,6 +11081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockin' Racket | 288960 | [288960-rockin-racket.json](./288960-rockin-racket.json) |
 | Rockin' Road | 161462 | [161462-rockin-road.json](./161462-rockin-road.json) |
 | Rockin'Space | 178633 | [178633-rockinspace.json](./178633-rockinspace.json) |
+| Rocking Legend | 132357 | [132357-rocking-legend.json](./132357-rocking-legend.json) |
 | Rocking on Heaven's Door | 176479 | [176479-rocking-on-heavens-door.json](./176479-rocking-on-heavens-door.json) |
 | Rocking Pilot | 29436 | [29436-rocking-pilot.json](./29436-rocking-pilot.json) |
 | RockinRoll | 78649 | [78649-rockinroll.json](./78649-rockinroll.json) |
