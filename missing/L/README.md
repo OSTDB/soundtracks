@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landflix Odyssey | 86450 | [86450-landflix-odyssey.json](./86450-landflix-odyssey.json) |
 | LandFormer | 237729 | [237729-landformer.json](./237729-landformer.json) |
 | Landgrabbers | 95683 | [95683-landgrabbers.json](./95683-landgrabbers.json) |
+| Landinar: Into the Void | 99162 | [99162-landinar-into-the-void.json](./99162-landinar-into-the-void.json) |
 | Landing | 157863 | [157863-landing.json](./157863-landing.json) |
 | Landing | 330670 | [330670-landing.json](./330670-landing.json) |
 | Landing Confirmed | 151404 | [151404-landing-confirmed.json](./151404-landing-confirmed.json) |
@@ -1377,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Ascender | 413985 | [413985-last-ascender.json](./413985-last-ascender.json) |
 | Last Asylum | 398722 | [398722-last-asylum.json](./398722-last-asylum.json) |
 | Last Attendance: Hostel 13 | 427446 | [427446-last-attendance-hostel-13.json](./427446-last-attendance-hostel-13.json) |
+| Last Backup: A Digital Legacy Story | 430944 | [430944-last-backup-a-digital-legacy-story.json](./430944-last-backup-a-digital-legacy-story.json) |
 | Last Bake | 430184 | [430184-last-bake.json](./430184-last-bake.json) |
 | Last Barrier | 263114 | [263114-last-barrier.json](./263114-last-barrier.json) |
 | Last Bastion | 186580 | [186580-last-bastion.json](./186580-last-bastion.json) |
@@ -1813,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Stop | 345518 | [345518-last-stop.json](./345518-last-stop.json) |
 | Last Stop Before Earth | 422274 | [422274-last-stop-before-earth.json](./422274-last-stop-before-earth.json) |
 | Last Stop: Station 66 | 229610 | [229610-last-stop-station-66.json](./229610-last-stop-station-66.json) |
+| Last Store on Earth | 430722 | [430722-last-store-on-earth.json](./430722-last-store-on-earth.json) |
 | Last Story: Dungeon | 320083 | [320083-last-story-dungeon.json](./320083-last-story-dungeon.json) |
 | Last Stretch | 389095 | [389095-last-stretch.json](./389095-last-stretch.json) |
 | Last Striker | 40270 | [40270-last-striker.json](./40270-last-striker.json) |
@@ -4198,6 +4201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lest: Deluxe 24 | 346325 | [346325-lest-deluxe-24.json](./346325-lest-deluxe-24.json) |
 | Lester the Unlikely | 42504 | [42504-lester-the-unlikely.json](./42504-lester-the-unlikely.json) |
 | Lestvitsa | 429528 | [429528-lestvitsa.json](./429528-lestvitsa.json) |
+| Let 'Em Cast | 428715 | [428715-let-em-cast.json](./428715-let-em-cast.json) |
 | Let Bions be Bygones | 202860 | [202860-let-bions-be-bygones.json](./202860-let-bions-be-bygones.json) |
 | Let Catch Me | 343686 | [343686-let-catch-me.json](./343686-let-catch-me.json) |
 | Let Chat Guess | 228756 | [228756-let-chat-guess.json](./228756-let-chat-guess.json) |
