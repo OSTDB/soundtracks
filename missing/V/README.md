@@ -90,7 +90,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V.O.S.S. Turbo | 215918 | [215918-v-o-s-s-turbo.json](./215918-v-o-s-s-turbo.json) |
 | V.R. Virtua Racing | 70773 | [70773-v-r-virtua-racing.json](./70773-v-r-virtua-racing.json) |
 | V.R.G. | 181127 | [181127-v-r-g.json](./181127-v-r-g.json) |
-| V.T. | 103838 | [103838-v-t.json](./103838-v-t.json) |
 | V.V.L. 2 | 254107 | [254107-v-v-l-2.json](./254107-v-v-l-2.json) |
 | V's Rage | 226496 | [226496-vs-rage.json](./226496-vs-rage.json) |
 | V’s Rage | 374895 | [374895-v-s-rage.json](./374895-v-s-rage.json) |
@@ -1616,7 +1615,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vengeful Bat Dungeon Crawler | 116837 | [116837-vengeful-bat-dungeon-crawler.json](./116837-vengeful-bat-dungeon-crawler.json) |
 | Vengeful Castle | 238684 | [238684-vengeful-castle.json](./238684-vengeful-castle.json) |
 | Vengeful Heart | 120056 | [120056-vengeful-heart.json](./120056-vengeful-heart.json) |
-| Vengeful Rites | 103064 | [103064-vengeful-rites.json](./103064-vengeful-rites.json) |
 | Veni, Vidi, Vici | 243479 | [243479-veni-vidi-vici.json](./243479-veni-vidi-vici.json) |
 | Venial Sin | 396539 | [396539-venial-sin.json](./396539-venial-sin.json) |
 | Venice | 14810 | [14810-venice.json](./14810-venice.json) |
@@ -2252,7 +2250,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory at Sea | 9395 | [9395-victory-at-sea.json](./9395-victory-at-sea.json) |
 | Victory at Sea Atlantic | 261743 | [261743-victory-at-sea-atlantic.json](./261743-victory-at-sea-atlantic.json) |
 | Victory At Sea Ironclad | 171417 | [171417-victory-at-sea-ironclad.json](./171417-victory-at-sea-ironclad.json) |
-| Victory At Sea Pacific | 104004 | [104004-victory-at-sea-pacific.json](./104004-victory-at-sea-pacific.json) |
 | Victory Away: Three Kingdoms | 295058 | [295058-victory-away-three-kingdoms.json](./295058-victory-away-three-kingdoms.json) |
 | Victory Banner | 361819 | [361819-victory-banner.json](./361819-victory-banner.json) |
 | Victory Belles: Battleship Girls of WWII | 109993 | [109993-victory-belles-battleship-girls-of-wwii.json](./109993-victory-belles-battleship-girls-of-wwii.json) |
@@ -2400,7 +2397,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vie: Try Again | 382560 | [382560-vie-try-again.json](./382560-vie-try-again.json) |
 | Vienna Automobile Society | 53307 | [53307-vienna-automobile-society.json](./53307-vienna-automobile-society.json) |
 | Vier op een rij | 92991 | [92991-vier-op-een-rij.json](./92991-vier-op-een-rij.json) |
-| Vietcong | 101613 | [101613-vietcong.json](./101613-vietcong.json) |
 | Vietcong | 271 | [271-vietcong.json](./271-vietcong.json) |
 | Vietcong 2 | 3179 | [3179-vietcong-2.json](./3179-vietcong-2.json) |
 | Vietcong: Fist Alpha | 464 | [464-vietcong-fist-alpha.json](./464-vietcong-fist-alpha.json) |
@@ -3099,7 +3095,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Farm 2 | 53157 | [53157-virtual-farm-2.json](./53157-virtual-farm-2.json) |
 | Virtual Fight World | 311231 | [311231-virtual-fight-world.json](./311231-virtual-fight-world.json) |
 | Virtual Fighter Maneuvers | 383982 | [383982-virtual-fighter-maneuvers.json](./383982-virtual-fighter-maneuvers.json) |
-| Virtual Fighting Championship | 103360 | [103360-virtual-fighting-championship.json](./103360-virtual-fighting-championship.json) |
 | Virtual Firearm Simulations | 308186 | [308186-virtual-firearm-simulations.json](./308186-virtual-firearm-simulations.json) |
 | Virtual Fishing | 50597 | [50597-virtual-fishing.json](./50597-virtual-fishing.json) |
 | Virtual Foosball | 99151 | [99151-virtual-foosball.json](./99151-virtual-foosball.json) |
@@ -3155,9 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Mom: Happy Family 3D | 106962 | [106962-virtual-mom-happy-family-3d.json](./106962-virtual-mom-happy-family-3d.json) |
 | Virtual Mom: Job Simulator Manager | 268462 | [268462-virtual-mom-job-simulator-manager.json](./268462-virtual-mom-job-simulator-manager.json) |
 | Virtual Monster Battle | 206446 | [206446-virtual-monster-battle.json](./206446-virtual-monster-battle.json) |
-| Virtual Mother Family Game: Working Mom Simulator | 101587 | [101587-virtual-mother-family-game-working-mom-simulator.json](./101587-virtual-mother-family-game-working-mom-simulator.json) |
 | Virtual Mother Home Chef Family Simulator | 103903 | [103903-virtual-mother-home-chef-family-simulator.json](./103903-virtual-mother-home-chef-family-simulator.json) |
-| Virtual Mother New Baby Twins Family Simulator | 101558 | [101558-virtual-mother-new-baby-twins-family-simulator.json](./101558-virtual-mother-new-baby-twins-family-simulator.json) |
 | Virtual Mother Twins Baby | 296743 | [296743-virtual-mother-twins-baby.json](./296743-virtual-mother-twins-baby.json) |
 | Virtual Murder 1: Who Killed Sam Rupert? | 73604 | [73604-virtual-murder-1-who-killed-sam-rupert.json](./73604-virtual-murder-1-who-killed-sam-rupert.json) |
 | Virtual Murder 2: The Magic Death | 71929 | [71929-virtual-murder-2-the-magic-death.json](./71929-virtual-murder-2-the-magic-death.json) |
@@ -3433,7 +3426,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visiting a Celebrity | 160220 | [160220-visiting-a-celebrity.json](./160220-visiting-a-celebrity.json) |
 | Visiting Battleship Island: A Photographer's Chronicle | 308870 | [308870-visiting-battleship-island-a-photographers-chronicle.json](./308870-visiting-battleship-island-a-photographers-chronicle.json) |
 | Visiting Shrine at Night | 288484 | [288484-visiting-shrine-at-night.json](./288484-visiting-shrine-at-night.json) |
-| Visitor | 104903 | [104903-visitor.json](./104903-visitor.json) |
 | Visitor | 177557 | [177557-visitor.json](./177557-visitor.json) |
 | Visitor 2 | 117696 | [117696-visitor-2.json](./117696-visitor-2.json) |
 | Visitor Center | 185313 | [185313-visitor-center.json](./185313-visitor-center.json) |
@@ -4512,7 +4504,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Fitness | 52093 | [52093-vr-fitness.json](./52093-vr-fitness.json) |
 | VR Fitness Gym | 173383 | [173383-vr-fitness-gym.json](./173383-vr-fitness-gym.json) |
 | VR Fitness: R18 DLC | 275820 | [275820-vr-fitness-r18-dlc.json](./275820-vr-fitness-r18-dlc.json) |
-| VR Flight Simulator | 101333 | [101333-vr-flight-simulator.json](./101333-vr-flight-simulator.json) |
 | VR Flush | 104134 | [104134-vr-flush.json](./104134-vr-flush.json) |
 | VR FlyMaster | 120226 | [120226-vr-flymaster.json](./120226-vr-flymaster.json) |
 | VR Formula | 51517 | [51517-vr-formula.json](./51517-vr-formula.json) |
