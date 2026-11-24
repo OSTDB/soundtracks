@@ -1834,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallBoi | 121313 | [121313-ballboi.json](./121313-ballboi.json) |
 | Ballbreaker II | 293254 | [293254-ballbreaker-ii.json](./293254-ballbreaker-ii.json) |
 | BallBuster Collection | 52443 | [52443-ballbuster-collection.json](./52443-ballbuster-collection.json) |
+| Ballbusting Amazons: The Escape | 427546 | [427546-ballbusting-amazons-the-escape.json](./427546-ballbusting-amazons-the-escape.json) |
 | BallClimbing | 132932 | [132932-ballclimbing.json](./132932-ballclimbing.json) |
 | BallCore | 283979 | [283979-ballcore.json](./283979-ballcore.json) |
 | Balldemic | 179304 | [179304-balldemic.json](./179304-balldemic.json) |
@@ -7178,7 +7179,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bell's Avenue Vol. 2 | 299816 | [299816-bells-avenue-vol-2.json](./299816-bells-avenue-vol-2.json) |
 | Bell's Avenue Vol. 3 | 299817 | [299817-bells-avenue-vol-3.json](./299817-bells-avenue-vol-3.json) |
 | Bella | 260939 | [260939-bella.json](./260939-bella.json) |
-| Bella & Friends: Puppy Doctor | 100781 | [100781-bella-and-friends-puppy-doctor.json](./100781-bella-and-friends-puppy-doctor.json) |
 | Bella II | 260938 | [260938-bella-ii.json](./260938-bella-ii.json) |
 | Bella Sara | 269570 | [269570-bella-sara.json](./269570-bella-sara.json) |
 | Bella Sara 2: The Magic of Drasilmare | 84987 | [84987-bella-sara-2-the-magic-of-drasilmare.json](./84987-bella-sara-2-the-magic-of-drasilmare.json) |
@@ -10066,7 +10066,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin Mining Tycoon | 103469 | [103469-bitcoin-mining-tycoon.json](./103469-bitcoin-mining-tycoon.json) |
 | Bitcoin or Bomb? | 86765 | [86765-bitcoin-or-bomb.json](./86765-bitcoin-or-bomb.json) |
 | Bitcoin Trader | 97039 | [97039-bitcoin-trader.json](./97039-bitcoin-trader.json) |
-| Bitcoin Trading Master | 99777 | [99777-bitcoin-trading-master.json](./99777-bitcoin-trading-master.json) |
 | Bitcoin Trading Master: Simulator | 125433 | [125433-bitcoin-trading-master-simulator.json](./125433-bitcoin-trading-master-simulator.json) |
 | Bitcoin Tycoon: Mining Simulation Game | 75622 | [75622-bitcoin-tycoon-mining-simulation-game.json](./75622-bitcoin-tycoon-mining-simulation-game.json) |
 | Bitcoin VR | 28932 | [28932-bitcoin-vr.json](./28932-bitcoin-vr.json) |
@@ -17219,7 +17218,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravest!2 | 423341 | [423341-bravest-2.json](./423341-bravest-2.json) |
 | BraveStarr | 13434 | [13434-bravestarr.json](./13434-bravestarr.json) |
 | BraveWorld: Helix Jumper | 103103 | [103103-braveworld-helix-jumper.json](./103103-braveworld-helix-jumper.json) |
-| BraveWorld: Sky Rolling Ball | 100777 | [100777-braveworld-sky-rolling-ball.json](./100777-braveworld-sky-rolling-ball.json) |
 | Braving Chronicles | 337344 | [337344-braving-chronicles.json](./337344-braving-chronicles.json) |
 | Bravion | 400650 | [400650-bravion.json](./400650-bravion.json) |
 | Bravium | 81083 | [81083-bravium.json](./81083-bravium.json) |
@@ -21283,7 +21281,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button Lock 2: Star Carrier | 201355 | [201355-button-lock-2-star-carrier.json](./201355-button-lock-2-star-carrier.json) |
 | Button Man | 295280 | [295280-button-man.json](./295280-button-man.json) |
 | Button Men Online | 56173 | [56173-button-men-online.json](./56173-button-men-online.json) |
-| Button Music | 98996 | [98996-button-music.json](./98996-button-music.json) |
 | Button Pop | 99874 | [99874-button-pop.json](./99874-button-pop.json) |
 | Button Pressing Simulator | 156526 | [156526-button-pressing-simulator.json](./156526-button-pressing-simulator.json) |
 | Button Prison | 337526 | [337526-button-prison.json](./337526-button-prison.json) |
