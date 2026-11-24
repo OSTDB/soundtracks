@@ -4570,6 +4570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters Pinball | 58665 | [58665-ghostbusters-pinball.json](./58665-ghostbusters-pinball.json) |
 | Ghostbusters Puzzle Fighter | 60235 | [60235-ghostbusters-puzzle-fighter.json](./60235-ghostbusters-puzzle-fighter.json) |
 | Ghostbusters Remastered | 215858 | [215858-ghostbusters-remastered.json](./215858-ghostbusters-remastered.json) |
+| Ghostbusters VR: Now Hiring | 27932 | [27932-ghostbusters-vr-now-hiring.json](./27932-ghostbusters-vr-now-hiring.json) |
 | Ghostbusters World | 95033 | [95033-ghostbusters-world.json](./95033-ghostbusters-world.json) |
 | Ghostbusters: Dimension | 246631 | [246631-ghostbusters-dimension.json](./246631-ghostbusters-dimension.json) |
 | Ghostbusters: Paranormal Blast | 63144 | [63144-ghostbusters-paranormal-blast.json](./63144-ghostbusters-paranormal-blast.json) |
