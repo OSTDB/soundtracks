@@ -473,7 +473,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakoniwa Company Works | 27992 | [27992-hakoniwa-company-works.json](./27992-hakoniwa-company-works.json) |
 | Hakoniwa Electric | 399739 | [399739-hakoniwa-electric.json](./399739-hakoniwa-electric.json) |
 | Hakoniwa Explorer | 205170 | [205170-hakoniwa-explorer.json](./205170-hakoniwa-explorer.json) |
-| Hakoniwa Explorer Plus | 101606 | [101606-hakoniwa-explorer-plus.json](./101606-hakoniwa-explorer-plus.json) |
 | Hakoniwa Shou-ekiden 2 | 297749 | [297749-hakoniwa-shou-ekiden-2.json](./297749-hakoniwa-shou-ekiden-2.json) |
 | Hakoniwa Sumo | 161615 | [161615-hakoniwa-sumo.json](./161615-hakoniwa-sumo.json) |
 | Hakosan | 228336 | [228336-hakosan.json](./228336-hakosan.json) |
@@ -2252,7 +2251,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard West: Ultimate Edition | 166685 | [166685-hard-west-ultimate-edition.json](./166685-hard-west-ultimate-edition.json) |
 | Hard Win | 246535 | [246535-hard-win.json](./246535-hard-win.json) |
 | Hard Winter | 25769 | [25769-hard-winter.json](./25769-hard-winter.json) |
-| Hard Work | 102327 | [102327-hard-work.json](./102327-hard-work.json) |
 | Hard Work | 133262 | [133262-hard-work.json](./133262-hard-work.json) |
 | Hard Work | 343766 | [343766-hard-work.json](./343766-hard-work.json) |
 | Hard Yardage | 84406 | [84406-hard-yardage.json](./84406-hard-yardage.json) |
@@ -3972,7 +3970,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbeats: A Galactic Requiem | 60473 | [60473-heartbeats-a-galactic-requiem.json](./60473-heartbeats-a-galactic-requiem.json) |
 | Heartbite: Dating by Daylight | 241852 | [241852-heartbite-dating-by-daylight.json](./241852-heartbite-dating-by-daylight.json) |
 | HeartBound | 377566 | [377566-heartbound.json](./377566-heartbound.json) |
-| Heartbreak High: A Break-Up Simulator | 101256 | [101256-heartbreak-high-a-break-up-simulator.json](./101256-heartbreak-high-a-break-up-simulator.json) |
 | Heartbreak Hysteria | 376519 | [376519-heartbreak-hysteria.json](./376519-heartbreak-hysteria.json) |
 | Heartbreak Land | 305603 | [305603-heartbreak-land.json](./305603-heartbreak-land.json) |
 | Heartbreaker: The Visual Novel | 306454 | [306454-heartbreaker-the-visual-novel.json](./306454-heartbreaker-the-visual-novel.json) |
@@ -4743,7 +4740,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix | 60734 | [60734-helix.json](./60734-helix.json) |
 | Helix Ark | 428653 | [428653-helix-ark.json](./428653-helix-ark.json) |
 | Helix Ball | 104651 | [104651-helix-ball.json](./104651-helix-ball.json) |
-| Helix Bounce Space | 100841 | [100841-helix-bounce-space.json](./100841-helix-bounce-space.json) |
 | Helix Brawl | 168645 | [168645-helix-brawl.json](./168645-helix-brawl.json) |
 | Helix Fall | 104545 | [104545-helix-fall.json](./104545-helix-fall.json) |
 | Helix Fruit Jump | 316193 | [316193-helix-fruit-jump.json](./316193-helix-fruit-jump.json) |
@@ -4757,7 +4753,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix Jump: Letter Madness | 277896 | [277896-helix-jump-letter-madness.json](./277896-helix-jump-letter-madness.json) |
 | Helix Jump: Party Edition | 297301 | [297301-helix-jump-party-edition.json](./297301-helix-jump-party-edition.json) |
 | Helix Jump: Party Skins | 277898 | [277898-helix-jump-party-skins.json](./277898-helix-jump-party-skins.json) |
-| Helix Rush | 100919 | [100919-helix-rush.json](./100919-helix-rush.json) |
 | Helix Slider | 155718 | [155718-helix-slider.json](./155718-helix-slider.json) |
 | Helix Waltz | 254874 | [254874-helix-waltz.json](./254874-helix-waltz.json) |
 | Helix: Descent N Ascent | 284906 | [284906-helix-descent-n-ascent.json](./284906-helix-descent-n-ascent.json) |
@@ -5604,7 +5599,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai | 55752 | [55752-hentai.json](./55752-hentai.json) |
 | Hentai 15 Puzzle 2 | 236379 | [236379-hentai-15-puzzle-2.json](./236379-hentai-15-puzzle-2.json) |
 | Hentai 18+ | 261874 | [261874-hentai-18.json](./261874-hentai-18.json) |
-| Hentai 3018 | 102360 | [102360-hentai-3018.json](./102360-hentai-3018.json) |
 | Hentai Abandoned | 389172 | [389172-hentai-abandoned.json](./389172-hentai-abandoned.json) |
 | Hentai Abigail | 259833 | [259833-hentai-abigail.json](./259833-hentai-abigail.json) |
 | Hentai Academy | 308516 | [308516-hentai-academy.json](./308516-hentai-academy.json) |
@@ -6105,7 +6099,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Mei | 340439 | [340439-hentai-mei.json](./340439-hentai-mei.json) |
 | Hentai Melody | 243551 | [243551-hentai-melody.json](./243551-hentai-melody.json) |
 | Hentai Memorama | 112775 | [112775-hentai-memorama.json](./112775-hentai-memorama.json) |
-| Hentai Memory | 105200 | [105200-hentai-memory.json](./105200-hentai-memory.json) |
 | Hentai Memory: Sexy Couples | 286438 | [286438-hentai-memory-sexy-couples.json](./286438-hentai-memory-sexy-couples.json) |
 | Hentai Men | 367162 | [367162-hentai-men.json](./367162-hentai-men.json) |
 | Hentai Mermaid Sirena | 370469 | [370469-hentai-mermaid-sirena.json](./370469-hentai-mermaid-sirena.json) |
@@ -6426,7 +6419,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Under Her Watch Forbidden Lessons | 368418 | [368418-hentai-tales-under-her-watch-forbidden-lessons.json](./368418-hentai-tales-under-her-watch-forbidden-lessons.json) |
 | Hentai Tales: Uninhabited Island | 332613 | [332613-hentai-tales-uninhabited-island.json](./332613-hentai-tales-uninhabited-island.json) |
 | Hentai Tanvi | 384692 | [384692-hentai-tanvi.json](./384692-hentai-tanvi.json) |
-| Hentai Temple | 104911 | [104911-hentai-temple.json](./104911-hentai-temple.json) |
 | Hentai Tentacle Survivors | 366522 | [366522-hentai-tentacle-survivors.json](./366522-hentai-tentacle-survivors.json) |
 | Hentai Thigh | 286725 | [286725-hentai-thigh.json](./286725-hentai-thigh.json) |
 | Hentai Tights | 232801 | [232801-hentai-tights.json](./232801-hentai-tights.json) |
@@ -6469,7 +6461,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Wild Milf | 371364 | [371364-hentai-wild-milf.json](./371364-hentai-wild-milf.json) |
 | Hentai Witch | 296949 | [296949-hentai-witch.json](./296949-hentai-witch.json) |
 | Hentai Woman | 111585 | [111585-hentai-woman.json](./111585-hentai-woman.json) |
-| Hentai Words | 104151 | [104151-hentai-words.json](./104151-hentai-words.json) |
 | Hentai World | 251490 | [251490-hentai-world.json](./251490-hentai-world.json) |
 | Hentai World Apocalove | 371396 | [371396-hentai-world-apocalove.json](./371396-hentai-world-apocalove.json) |
 | Hentai World Bikini | 340460 | [340460-hentai-world-bikini.json](./340460-hentai-world-bikini.json) |
@@ -11068,7 +11059,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Homer RPS | 288046 | [288046-honey-homer-rps.json](./288046-honey-homer-rps.json) |
 | Honey Hunt | 179931 | [179931-honey-hunt.json](./179931-honey-hunt.json) |
 | Honey Hunt | 44369 | [44369-honey-hunt.json](./44369-honey-hunt.json) |
-| Honey Jump | 100931 | [100931-honey-jump.json](./100931-honey-jump.json) |
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
 | Honey Magician | 277969 | [277969-honey-magician.json](./277969-honey-magician.json) |
 | Honey Milf | 367044 | [367044-honey-milf.json](./367044-honey-milf.json) |
@@ -11530,7 +11520,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope Lost | 338678 | [338678-hope-lost.json](./338678-hope-lost.json) |
 | Hope of Bion | 260612 | [260612-hope-of-bion.json](./260612-hope-of-bion.json) |
 | Hope of Elements | 406399 | [406399-hope-of-elements.json](./406399-hope-of-elements.json) |
-| Hope of humanity | 102963 | [102963-hope-of-humanity.json](./102963-hope-of-humanity.json) |
 | Hope of Last Survivors: Game | 216030 | [216030-hope-of-last-survivors-game.json](./216030-hope-of-last-survivors-game.json) |
 | Hope of Taru | 317709 | [317709-hope-of-taru.json](./317709-hope-of-taru.json) |
 | Hope Returns | 183348 | [183348-hope-returns.json](./183348-hope-returns.json) |
@@ -11786,7 +11775,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Elf | 411237 | [411237-horny-elf.json](./411237-horny-elf.json) |
 | Horny Elves and a Moral Orc | 221043 | [221043-horny-elves-and-a-moral-orc.json](./221043-horny-elves-and-a-moral-orc.json) |
 | Horny Fantasy Girl Hentai | 149407 | [149407-horny-fantasy-girl-hentai.json](./149407-horny-fantasy-girl-hentai.json) |
-| Horny Fighter | 105090 | [105090-horny-fighter.json](./105090-horny-fighter.json) |
 | Horny Girl | 389791 | [389791-horny-girl.json](./389791-horny-girl.json) |
 | Horny Girl Hentai Puzzle | 158399 | [158399-horny-girl-hentai-puzzle.json](./158399-horny-girl-hentai-puzzle.json) |
 | Horny Girls Hentai | 161327 | [161327-horny-girls-hentai.json](./161327-horny-girls-hentai.json) |
@@ -12029,7 +12017,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Racing Manager | 288809 | [288809-horse-racing-manager.json](./288809-horse-racing-manager.json) |
 | Horse Racing Manager 2 | 67994 | [67994-horse-racing-manager-2.json](./67994-horse-racing-manager-2.json) |
 | Horse Racing Manager 2018 | 100652 | [100652-horse-racing-manager-2018.json](./100652-horse-racing-manager-2018.json) |
-| Horse Racing Manager 2018 | 100907 | [100907-horse-racing-manager-2018.json](./100907-horse-racing-manager-2018.json) |
 | Horse Racing Manager 2020 | 233117 | [233117-horse-racing-manager-2020.json](./233117-horse-racing-manager-2020.json) |
 | Horse Racing Rally | 133103 | [133103-horse-racing-rally.json](./133103-horse-racing-rally.json) |
 | Horse Racing Simulator | 384548 | [384548-horse-racing-simulator.json](./384548-horse-racing-simulator.json) |
@@ -12167,7 +12154,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hospital Tycoon | 220171 | [220171-hospital-tycoon.json](./220171-hospital-tycoon.json) |
 | Hospitality VR | 160135 | [160135-hospitality-vr.json](./160135-hospitality-vr.json) |
 | Hospitalize | 31983 | [31983-hospitalize.json](./31983-hospitalize.json) |
-| Host | 104007 | [104007-host.json](./104007-host.json) |
 | Host 714 | 153440 | [153440-host-714.json](./153440-host-714.json) |
 | Host Master and the Conquest of Humor | 62186 | [62186-host-master-and-the-conquest-of-humor.json](./62186-host-master-and-the-conquest-of-humor.json) |
 | Host Master Deux: Quest for Identity | 62185 | [62185-host-master-deux-quest-for-identity.json](./62185-host-master-deux-quest-for-identity.json) |
@@ -12704,7 +12690,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotelnomaly | 318062 | [318062-hotelnomaly.json](./318062-hotelnomaly.json) |
 | Hotfix | 142777 | [142777-hotfix.json](./142777-hotfix.json) |
 | Hotfix93 | 257745 | [257745-hotfix93.json](./257745-hotfix93.json) |
-| HotFloor | 102406 | [102406-hotfloor.json](./102406-hotfloor.json) |
 | HotGirls Sliding Puzzle | 168431 | [168431-hotgirls-sliding-puzzle.json](./168431-hotgirls-sliding-puzzle.json) |
 | HotHead | 110340 | [110340-hothead.json](./110340-hothead.json) |
 | Hothead Games | 110020 | [110020-hothead-games.json](./110020-hothead-games.json) |
@@ -13219,7 +13204,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Make a Killing | 151370 | [151370-how-to-make-a-killing.json](./151370-how-to-make-a-killing.json) |
 | How to Make a Sequel | 407831 | [407831-how-to-make-a-sequel.json](./407831-how-to-make-a-sequel.json) |
 | How to Make an Atomic Bomb in Your Garden | 391727 | [391727-how-to-make-an-atomic-bomb-in-your-garden.json](./391727-how-to-make-an-atomic-bomb-in-your-garden.json) |
-| How to Make Slime Maker Play Fun | 101085 | [101085-how-to-make-slime-maker-play-fun.json](./101085-how-to-make-slime-maker-play-fun.json) |
 | How to Make Slime: DIY Jelly Toy Play Fun | 96975 | [96975-how-to-make-slime-diy-jelly-toy-play-fun.json](./96975-how-to-make-slime-diy-jelly-toy-play-fun.json) |
 | How to Make Slime: DIY Slime Making for Kids | 90838 | [90838-how-to-make-slime-diy-slime-making-for-kids.json](./90838-how-to-make-slime-diy-slime-making-for-kids.json) |
 | How to Make Your Grandpa Happy | 31469 | [31469-how-to-make-your-grandpa-happy.json](./31469-how-to-make-your-grandpa-happy.json) |
@@ -14400,7 +14384,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hybrid Wars: Yana 'Tesla' Radovich | 168342 | [168342-hybrid-wars-yana-tesla-radovich.json](./168342-hybrid-wars-yana-tesla-radovich.json) |
 | Hybrid Wars: Yoko Takano | 168341 | [168341-hybrid-wars-yoko-takano.json](./168341-hybrid-wars-yoko-takano.json) |
 | Hybris | 12150 | [12150-hybris.json](./12150-hybris.json) |
-| Hybris: Pulse of Ruin | 103599 | [103599-hybris-pulse-of-ruin.json](./103599-hybris-pulse-of-ruin.json) |
 | Hyde | 192967 | [192967-hyde.json](./192967-hyde.json) |
 | Hyde & Seek | 153060 | [153060-hyde-and-seek.json](./153060-hyde-and-seek.json) |
 | Hyde and Seek | 193950 | [193950-hyde-and-seek.json](./193950-hyde-and-seek.json) |
@@ -14640,7 +14623,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Sentinel | 85191 | [85191-hyper-sentinel.json](./85191-hyper-sentinel.json) |
 | Hyper Sentinel Fusion | 336447 | [336447-hyper-sentinel-fusion.json](./336447-hyper-sentinel-fusion.json) |
 | Hyper Shapes | 232443 | [232443-hyper-shapes.json](./232443-hyper-shapes.json) |
-| Hyper Simon X | 103438 | [103438-hyper-simon-x.json](./103438-hyper-simon-x.json) |
 | Hyper Skate | 57755 | [57755-hyper-skate.json](./57755-hyper-skate.json) |
 | Hyper Skater | 303552 | [303552-hyper-skater.json](./303552-hyper-skater.json) |
 | Hyper Ski | 385739 | [385739-hyper-ski.json](./385739-hyper-ski.json) |
