@@ -620,7 +620,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lagoon | 276473 | [276473-lagoon.json](./276473-lagoon.json) |
 | Lagoon | 42617 | [42617-lagoon.json](./42617-lagoon.json) |
 | Lagoon Lounge 2: The Secret Roommate | 290804 | [290804-lagoon-lounge-2-the-secret-roommate.json](./290804-lagoon-lounge-2-the-secret-roommate.json) |
-| Lagoon Lounge: The Poisonous Fountain | 102437 | [102437-lagoon-lounge-the-poisonous-fountain.json](./102437-lagoon-lounge-the-poisonous-fountain.json) |
 | Lagoona Bundle | 354044 | [354044-lagoona-bundle.json](./354044-lagoona-bundle.json) |
 | Lagoona: Kids' activity center | 99935 | [99935-lagoona-kids-activity-center.json](./99935-lagoona-kids-activity-center.json) |
 | Lagoonia | 62921 | [62921-lagoonia.json](./62921-lagoonia.json) |
@@ -1875,7 +1874,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Winter | 393675 | [393675-last-winter.json](./393675-last-winter.json) |
 | Last Wish | 111074 | [111074-last-wish.json](./111074-last-wish.json) |
 | Last Wish | 259194 | [259194-last-wish.json](./259194-last-wish.json) |
-| Last Wood | 104562 | [104562-last-wood.json](./104562-last-wood.json) |
 | Last Word | 26639 | [26639-last-word.json](./26639-last-word.json) |
 | Last Word | 342169 | [342169-last-word.json](./342169-last-word.json) |
 | Last Words | 215024 | [215024-last-words.json](./215024-last-words.json) |
@@ -2306,7 +2304,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Galaxy | 75016 | [75016-lazy-galaxy.json](./75016-lazy-galaxy.json) |
 | Lazy Galaxy 2 | 150858 | [150858-lazy-galaxy-2.json](./150858-lazy-galaxy-2.json) |
 | Lazy Galaxy Bundle | 335624 | [335624-lazy-galaxy-bundle.json](./335624-lazy-galaxy-bundle.json) |
-| Lazy Galaxy: Rebel Story | 102624 | [102624-lazy-galaxy-rebel-story.json](./102624-lazy-galaxy-rebel-story.json) |
 | Lazy gang | 157910 | [157910-lazy-gang.json](./157910-lazy-gang.json) |
 | Lazy Girl | 189219 | [189219-lazy-girl.json](./189219-lazy-girl.json) |
 | Lazy Jiangshi | 259048 | [259048-lazy-jiangshi.json](./259048-lazy-jiangshi.json) |
@@ -3213,7 +3210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Traveller | 116307 | [116307-legend-of-traveller.json](./116307-legend-of-traveller.json) |
 | Legend of Utorepia | 216678 | [216678-legend-of-utorepia.json](./216678-legend-of-utorepia.json) |
 | Legend of Vengeancev | 156685 | [156685-legend-of-vengeancev.json](./156685-legend-of-vengeancev.json) |
-| Legend of Vikings | 100793 | [100793-legend-of-vikings.json](./100793-legend-of-vikings.json) |
 | Legend of Warship | 181985 | [181985-legend-of-warship.json](./181985-legend-of-warship.json) |
 | Legend of Warships | 119436 | [119436-legend-of-warships.json](./119436-legend-of-warships.json) |
 | Legend of Wukong | 360656 | [360656-legend-of-wukong.json](./360656-legend-of-wukong.json) |
@@ -3261,7 +3257,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Creatures 2 | 271374 | [271374-legendary-creatures-2.json](./271374-legendary-creatures-2.json) |
 | Legendary Dwarves: Retribution | 187893 | [187893-legendary-dwarves-retribution.json](./187893-legendary-dwarves-retribution.json) |
 | Legendary DXP | 69357 | [69357-legendary-dxp.json](./69357-legendary-dxp.json) |
-| Legendary Eleven | 101259 | [101259-legendary-eleven.json](./101259-legendary-eleven.json) |
 | Legendary Eleven: Epic Football | 102260 | [102260-legendary-eleven-epic-football.json](./102260-legendary-eleven-epic-football.json) |
 | Legendary Fighter: Battle of God | 208093 | [208093-legendary-fighter-battle-of-god.json](./208093-legendary-fighter-battle-of-god.json) |
 | Legendary Fighters | 188232 | [188232-legendary-fighters.json](./188232-legendary-fighters.json) |
@@ -4930,7 +4925,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lezorub | 286002 | [286002-lezorub.json](./286002-lezorub.json) |
 | LFS S6 Quest | 323732 | [323732-lfs-s6-quest.json](./323732-lfs-s6-quest.json) |
 | LG Chess | 238916 | [238916-lg-chess.json](./238916-lg-chess.json) |
-| LGBT Battlegrounds | 103633 | [103633-lgbt-battlegrounds.json](./103633-lgbt-battlegrounds.json) |
 | LGBT Color by Number for Adults | 165035 | [165035-lgbt-color-by-number-for-adults.json](./165035-lgbt-color-by-number-for-adults.json) |
 | LGBT+ Flags | 182840 | [182840-lgbt-flags.json](./182840-lgbt-flags.json) |
 | LGeneral | 79764 | [79764-lgeneral.json](./79764-lgeneral.json) |
@@ -6386,7 +6380,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingo voor Kinderen | 327318 | [327318-lingo-voor-kinderen.json](./327318-lingo-voor-kinderen.json) |
 | LingoGrid | 407604 | [407604-lingogrid.json](./407604-lingogrid.json) |
 | LingoRogue | 356296 | [356296-lingorogue.json](./356296-lingorogue.json) |
-| Lingotopia | 102359 | [102359-lingotopia.json](./102359-lingotopia.json) |
 | LingTian 2: Your Destined Prince | 334525 | [334525-lingtian-2-your-destined-prince.json](./334525-lingtian-2-your-destined-prince.json) |
 | LingTian1 | 292995 | [292995-lingtian1.json](./292995-lingtian1.json) |
 | Língua | 172873 | [172873-lingua.json](./172873-lingua.json) |
@@ -8112,6 +8105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logicality | 203762 | [203762-logicality.json](./203762-logicality.json) |
 | LogiCally | 164938 | [164938-logically.json](./164938-logically.json) |
 | Logicats | 244451 | [244451-logicats.json](./244451-logicats.json) |
+| LogicForge | 425048 | [425048-logicforge.json](./425048-logicforge.json) |
 | LogicPro Adventure | 91504 | [91504-logicpro-adventure.json](./91504-logicpro-adventure.json) |
 | Logicubes | 211285 | [211285-logicubes.json](./211285-logicubes.json) |
 | LogiGolf | 250978 | [250978-logigolf.json](./250978-logigolf.json) |
@@ -8595,7 +8589,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Landers | 325936 | [325936-looney-landers.json](./325936-looney-landers.json) |
 | Looney Rally | 86489 | [86489-looney-rally.json](./86489-looney-rally.json) |
 | Looney Test | 375716 | [375716-looney-test.json](./375716-looney-test.json) |
-| Looney Toons Dash revived | 100803 | [100803-looney-toons-dash-revived.json](./100803-looney-toons-dash-revived.json) |
 | Looney Tune Dash | 101947 | [101947-looney-tune-dash.json](./101947-looney-tune-dash.json) |
 | Looney Tunes | 265041 | [265041-looney-tunes.json](./265041-looney-tunes.json) |
 | Looney Tunes | 290324 | [290324-looney-tunes.json](./290324-looney-tunes.json) |
@@ -8782,7 +8775,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot and Shoot | 250000 | [250000-loot-and-shoot.json](./250000-loot-and-shoot.json) |
 | Loot Before the Law | 411820 | [411820-loot-before-the-law.json](./411820-loot-before-the-law.json) |
 | Loot Box | 341178 | [341178-loot-box.json](./341178-loot-box.json) |
-| Loot Box Achievement Simulator | 103790 | [103790-loot-box-achievement-simulator.json](./103790-loot-box-achievement-simulator.json) |
 | Loot Box Quest: Mystic Maidens | 271273 | [271273-loot-box-quest-mystic-maidens.json](./271273-loot-box-quest-mystic-maidens.json) |
 | Loot Box Simulator | 137038 | [137038-loot-box-simulator.json](./137038-loot-box-simulator.json) |
 | Loot Box Simulator 20!8 | 82362 | [82362-loot-box-simulator-20-8.json](./82362-loot-box-simulator-20-8.json) |
@@ -9066,7 +9058,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Xulima: Deluxe Edition | 51840 | [51840-lords-of-xulima-deluxe-edition.json](./51840-lords-of-xulima-deluxe-edition.json) |
 | Lords of Xulima: The Talisman of Golot | 53297 | [53297-lords-of-xulima-the-talisman-of-golot.json](./53297-lords-of-xulima-the-talisman-of-golot.json) |
 | Lordship | 350047 | [350047-lordship.json](./350047-lordship.json) |
-| Lordz.io | 100949 | [100949-lordz-io.json](./100949-lordz-io.json) |
 | Lore City: Alkahest | 179938 | [179938-lore-city-alkahest.json](./179938-lore-city-alkahest.json) |
 | Lore Distance Relationship | 202605 | [202605-lore-distance-relationship.json](./202605-lore-distance-relationship.json) |
 | Lore Finder | 112762 | [112762-lore-finder.json](./112762-lore-finder.json) |
@@ -10328,10 +10319,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Tore: Mint | 64468 | [64468-love-tore-mint.json](./64468-love-tore-mint.json) |
 | Love Tore: Sweet | 64479 | [64479-love-tore-sweet.json](./64479-love-tore-sweet.json) |
 | Love Traveler | 252966 | [252966-love-traveler.json](./252966-love-traveler.json) |
-| Love two balls | 101563 | [101563-love-two-balls.json](./101563-love-two-balls.json) |
 | Love Undying: A Kiss Before Dawn | 302953 | [302953-love-undying-a-kiss-before-dawn.json](./302953-love-undying-a-kiss-before-dawn.json) |
 | Love Verne | 183585 | [183585-love-verne.json](./183585-love-verne.json) |
-| Love Vibe: Aria | 103464 | [103464-love-vibe-aria.json](./103464-love-vibe-aria.json) |
 | Love Villa: Choose Your Story | 299336 | [299336-love-villa-choose-your-story.json](./299336-love-villa-choose-your-story.json) |
 | Love wish | 129344 | [129344-love-wish.json](./129344-love-wish.json) |
 | Love Wish 2 | 213726 | [213726-love-wish-2.json](./213726-love-wish-2.json) |
@@ -10456,7 +10445,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Defenders | 279554 | [279554-lovely-defenders.json](./279554-lovely-defenders.json) |
 | Lovely Fairy Action | 134850 | [134850-lovely-fairy-action.json](./134850-lovely-fairy-action.json) |
 | Lovely Farm | 264360 | [264360-lovely-farm.json](./264360-lovely-farm.json) |
-| Lovely Fox | 102918 | [102918-lovely-fox.json](./102918-lovely-fox.json) |
 | Lovely Fracture | 183363 | [183363-lovely-fracture.json](./183363-lovely-fracture.json) |
 | Lovely Girl Puzzle | 118239 | [118239-lovely-girl-puzzle.json](./118239-lovely-girl-puzzle.json) |
 | Lovely Girls | 134122 | [134122-lovely-girls.json](./134122-lovely-girls.json) |
@@ -10657,7 +10645,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lt. Typhon | 144161 | [144161-lt-typhon.json](./144161-lt-typhon.json) |
 | LTA: Light-years! Thrusters! Action! | 295166 | [295166-lta-light-years-thrusters-action.json](./295166-lta-light-years-thrusters-action.json) |
 | LTO Arcade | 189094 | [189094-lto-arcade.json](./189094-lto-arcade.json) |
-| Lu Bu Maker | 104902 | [104902-lu-bu-maker.json](./104902-lu-bu-maker.json) |
 | Lü Bu yǔ Diaochan | 94436 | [94436-lu-bu-yu-diaochan.json](./94436-lu-bu-yu-diaochan.json) |
 | Lu Dajishen II | 128321 | [128321-lu-dajishen-ii.json](./128321-lu-dajishen-ii.json) |
 | Lu Ding Ji | 72216 | [72216-lu-ding-ji.json](./72216-lu-ding-ji.json) |
