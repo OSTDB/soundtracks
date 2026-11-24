@@ -6712,6 +6712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic Hunt | 142047 | [142047-heretic-hunt.json](./142047-heretic-hunt.json) |
 | Heretic II | 20752 | [20752-heretic-ii.json](./20752-heretic-ii.json) |
 | Heretic Invades Doom | 316984 | [316984-heretic-invades-doom.json](./316984-heretic-invades-doom.json) |
+| Heretic Operative | 113792 | [113792-heretic-operative.json](./113792-heretic-operative.json) |
 | Heretic Operative: Blood Cult | 168188 | [168188-heretic-operative-blood-cult.json](./168188-heretic-operative-blood-cult.json) |
 | Heretic Red | 335279 | [335279-heretic-red.json](./335279-heretic-red.json) |
 | Heretic Speedmapping 1 | 268627 | [268627-heretic-speedmapping-1.json](./268627-heretic-speedmapping-1.json) |
