@@ -4090,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next | 83878 | [83878-next.json](./83878-next.json) |
 | Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
 | Next 3 | 95189 | [95189-next-3.json](./95189-next-3.json) |
+| Next Acre | 430141 | [430141-next-acre.json](./430141-next-acre.json) |
 | Next Action Frog | 395933 | [395933-next-action-frog.json](./395933-next-action-frog.json) |
 | Next Backgammon | 88796 | [88796-next-backgammon.json](./88796-next-backgammon.json) |
 | Next Business Trip | 347054 | [347054-next-business-trip.json](./347054-next-business-trip.json) |
@@ -8456,6 +8457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NSMB: Mario vs. Luigi Online | 212845 | [212845-nsmb-mario-vs-luigi-online.json](./212845-nsmb-mario-vs-luigi-online.json) |
 | NSMB2: Mushroom Madness | 314097 | [314097-nsmb2-mushroom-madness.json](./314097-nsmb2-mushroom-madness.json) |
 | NSMBW Superstar Mode | 327072 | [327072-nsmbw-superstar-mode.json](./327072-nsmbw-superstar-mode.json) |
+| NSMBWiicompiled | 428799 | [428799-nsmbwiicompiled.json](./428799-nsmbwiicompiled.json) |
 | NSR: Night Street Racing | 397954 | [397954-nsr-night-street-racing.json](./397954-nsr-night-street-racing.json) |
 | nStations | 127115 | [127115-nstations.json](./127115-nstations.json) |
 | NSYNC Hotline Phone and Fantasy CD-Rom Game | 131189 | [131189-nsync-hotline-phone-and-fantasy-cd-rom-game.json](./131189-nsync-hotline-phone-and-fantasy-cd-rom-game.json) |
