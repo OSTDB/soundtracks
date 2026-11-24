@@ -365,7 +365,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gadget: Invention, Travel & Adventure | 73567 | [73567-gadget-invention-travel-and-adventure.json](./73567-gadget-invention-travel-and-adventure.json) |
 | Gadget: Lost in Time | 392563 | [392563-gadget-lost-in-time.json](./392563-gadget-lost-in-time.json) |
 | Gadget: Past as Future | 131905 | [131905-gadget-past-as-future.json](./131905-gadget-past-as-future.json) |
-| Gadgeteer | 103264 | [103264-gadgeteer.json](./103264-gadgeteer.json) |
 | Gadgets: Design It, Build It, Play It | 209584 | [209584-gadgets-design-it-build-it-play-it.json](./209584-gadgets-design-it-build-it-play-it.json) |
 | Gadkiy Ya 2 | 210318 | [210318-gadkiy-ya-2.json](./210318-gadkiy-ya-2.json) |
 | Gado Fight | 132222 | [132222-gado-fight.json](./132222-gado-fight.json) |
