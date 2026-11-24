@@ -16394,7 +16394,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
 | Arkham Horror: Mother's Embrace | 96482 | [96482-arkham-horror-mothers-embrace.json](./96482-arkham-horror-mothers-embrace.json) |
 | Arkham Nightmares | 31700 | [31700-arkham-nightmares.json](./31700-arkham-nightmares.json) |
-| Arkhangel: The House of the Seven Stars | 104175 | [104175-arkhangel-the-house-of-the-seven-stars.json](./104175-arkhangel-the-house-of-the-seven-stars.json) |
 | Arkhe | 303682 | [303682-arkhe.json](./303682-arkhe.json) |
 | Arkhe | 398698 | [398698-arkhe.json](./398698-arkhe.json) |
 | Arkheim: Realms at War | 195110 | [195110-arkheim-realms-at-war.json](./195110-arkheim-realms-at-war.json) |
