@@ -2793,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unkillable Robots | 306342 | [306342-unkillable-robots.json](./306342-unkillable-robots.json) |
 | Unkilled | 28821 | [28821-unkilled.json](./28821-unkilled.json) |
 | Unkindness | 148051 | [148051-unkindness.json](./148051-unkindness.json) |
+| Unknightly | 75520 | [75520-unknightly.json](./75520-unknightly.json) |
 | Unknot! | 334395 | [334395-unknot.json](./334395-unknot.json) |
 | Unknown | 113776 | [113776-unknown.json](./113776-unknown.json) |
 | Unknown | 210888 | [210888-unknown.json](./210888-unknown.json) |
