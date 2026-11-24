@@ -4281,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest Citadel | 75106 | [75106-tempest-citadel.json](./75106-tempest-citadel.json) |
 | Tempest Enterprise | 264413 | [264413-tempest-enterprise.json](./264413-tempest-enterprise.json) |
 | Tempest Inc. | 270558 | [270558-tempest-inc.json](./270558-tempest-inc.json) |
+| Tempest of the Heavens and Earth | 113643 | [113643-tempest-of-the-heavens-and-earth.json](./113643-tempest-of-the-heavens-and-earth.json) |
 | Tempest Rising: The Vetis Wrath | 410968 | [410968-tempest-rising-the-vetis-wrath.json](./410968-tempest-rising-the-vetis-wrath.json) |
 | Tempest Tower | 327342 | [327342-tempest-tower.json](./327342-tempest-tower.json) |
 | Tempest: Evolved | 329640 | [329640-tempest-evolved.json](./329640-tempest-evolved.json) |
@@ -7588,6 +7589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Lamb | 329937 | [329937-the-black-lamb.json](./329937-the-black-lamb.json) |
 | The Black Lily Blooms in Her Eyes | 415735 | [415735-the-black-lily-blooms-in-her-eyes.json](./415735-the-black-lily-blooms-in-her-eyes.json) |
 | The Black Maple Anomaly | 323065 | [323065-the-black-maple-anomaly.json](./323065-the-black-maple-anomaly.json) |
+| The Black Masses | 113833 | [113833-the-black-masses.json](./113833-the-black-masses.json) |
 | The Black Mirror | 11261 | [11261-the-black-mirror.json](./11261-the-black-mirror.json) |
 | The Black Onyx | 6099 | [6099-the-black-onyx.json](./6099-the-black-onyx.json) |
 | The Black Onyx II: Search for the Fire Crystal | 25861 | [25861-the-black-onyx-ii-search-for-the-fire-crystal.json](./25861-the-black-onyx-ii-search-for-the-fire-crystal.json) |
@@ -9628,6 +9630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil's Accountant | 388460 | [388460-the-devils-accountant.json](./388460-the-devils-accountant.json) |
 | The Devil's Bride | 320108 | [320108-the-devils-bride.json](./320108-the-devils-bride.json) |
 | The Devil's Bride | 326215 | [326215-the-devils-bride.json](./326215-the-devils-bride.json) |
+| The Devil's Calculator | 114080 | [114080-the-devils-calculator.json](./114080-the-devils-calculator.json) |
 | The Devil's Chosen | 201449 | [201449-the-devils-chosen.json](./201449-the-devils-chosen.json) |
 | The Devil's Dance | 413398 | [413398-the-devils-dance.json](./413398-the-devils-dance.json) |
 | The Devil's Due | 345164 | [345164-the-devils-due.json](./345164-the-devils-due.json) |
@@ -9977,6 +9980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeon of Destiny | 74399 | [74399-the-dungeon-of-destiny.json](./74399-the-dungeon-of-destiny.json) |
 | The Dungeon of Doom | 229374 | [229374-the-dungeon-of-doom.json](./229374-the-dungeon-of-doom.json) |
 | The Dungeon Of Horror | 378382 | [378382-the-dungeon-of-horror.json](./378382-the-dungeon-of-horror.json) |
+| The Dungeon of Lulu Farea | 113800 | [113800-the-dungeon-of-lulu-farea.json](./113800-the-dungeon-of-lulu-farea.json) |
 | The Dungeon of Lulu Farea: Rebirth | 410948 | [410948-the-dungeon-of-lulu-farea-rebirth.json](./410948-the-dungeon-of-lulu-farea-rebirth.json) |
 | The Dungeon of Naheulbeuk: The Amulet of Chaos | 120654 | [120654-the-dungeon-of-naheulbeuk-the-amulet-of-chaos.json](./120654-the-dungeon-of-naheulbeuk-the-amulet-of-chaos.json) |
 | The Dungeon of Naheulbeuk: The Amulet of Chaos - Back to the Futon | 214206 | [214206-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-back-to-the-futon.json](./214206-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-back-to-the-futon.json) |
@@ -17246,6 +17250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The People's Sky | 408256 | [408256-the-peoples-sky.json](./408256-the-peoples-sky.json) |
 | The People's Tree | 176568 | [176568-the-peoples-tree.json](./176568-the-peoples-tree.json) |
 | The People's Tree 2021 | 394783 | [394783-the-peoples-tree-2021.json](./394783-the-peoples-tree-2021.json) |
+| The Pepper Prince: Episode 1 - Red Hot Chili Wedding | 113532 | [113532-the-pepper-prince-episode-1-red-hot-chili-wedding.json](./113532-the-pepper-prince-episode-1-red-hot-chili-wedding.json) |
 | The Pepper Prince: Episode 2 - The Sadness | 174493 | [174493-the-pepper-prince-episode-2-the-sadness.json](./174493-the-pepper-prince-episode-2-the-sadness.json) |
 | The Pepper Prince: Episode 3 - Into Thin Air | 302136 | [302136-the-pepper-prince-episode-3-into-thin-air.json](./302136-the-pepper-prince-episode-3-into-thin-air.json) |
 | The Pepper Prince: Episode 4 - Lover's Peak | 302137 | [302137-the-pepper-prince-episode-4-lovers-peak.json](./302137-the-pepper-prince-episode-4-lovers-peak.json) |
