@@ -204,7 +204,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ealu | 165344 | [165344-ealu.json](./165344-ealu.json) |
 | Eamon | 28233 | [28233-eamon.json](./28233-eamon.json) |
 | Ean's End | 214202 | [214202-eans-end.json](./214202-eans-end.json) |
-| Ear Cat | 100916 | [100916-ear-cat.json](./100916-ear-cat.json) |
 | Ear Clicker | 330496 | [330496-ear-clicker.json](./330496-ear-clicker.json) |
 | Ear Hockey, a Microsoft Garage Project | 210740 | [210740-ear-hockey-a-microsoft-garage-project.json](./210740-ear-hockey-a-microsoft-garage-project.json) |
 | Earache: Extreme Metal Racing | 72596 | [72596-earache-extreme-metal-racing.json](./72596-earache-extreme-metal-racing.json) |
@@ -1894,7 +1893,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggrolls Shoot | 379881 | [379881-eggrolls-shoot.json](./379881-eggrolls-shoot.json) |
 | Eggs | 40113 | [40113-eggs.json](./40113-eggs.json) |
 | Eggs & Kings | 109302 | [109302-eggs-and-kings.json](./109302-eggs-and-kings.json) |
-| Eggs 1942 | 101362 | [101362-eggs-1942.json](./101362-eggs-1942.json) |
 | Eggs 2142 | 211322 | [211322-eggs-2142.json](./211322-eggs-2142.json) |
 | Eggs Catcher VR | 164254 | [164254-eggs-catcher-vr.json](./164254-eggs-catcher-vr.json) |
 | Eggs for Bart | 181816 | [181816-eggs-for-bart.json](./181816-eggs-for-bart.json) |
@@ -3082,7 +3080,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Star Fighter | 117506 | [117506-elite-star-fighter.json](./117506-elite-star-fighter.json) |
 | Elite Starfighter | 59932 | [59932-elite-starfighter.json](./59932-elite-starfighter.json) |
 | Elite Status: Platinum Concierge | 253301 | [253301-elite-status-platinum-concierge.json](./253301-elite-status-platinum-concierge.json) |
-| Elite SWAT | 100950 | [100950-elite-swat.json](./100950-elite-swat.json) |
 | Elite Tanks | 139414 | [139414-elite-tanks.json](./139414-elite-tanks.json) |
 | Elite Trials | 96778 | [96778-elite-trials.json](./96778-elite-trials.json) |
 | Elite vs. Freedom | 34014 | [34014-elite-vs-freedom.json](./34014-elite-vs-freedom.json) |
@@ -4713,7 +4710,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Hunter Boy | 119709 | [119709-energy-hunter-boy.json](./119709-energy-hunter-boy.json) |
 | Energy Invasion | 31792 | [31792-energy-invasion.json](./31792-energy-invasion.json) |
 | Energy Island Corp. | 161581 | [161581-energy-island-corp.json](./161581-energy-island-corp.json) |
-| Energy Joe | 100794 | [100794-energy-joe.json](./100794-energy-joe.json) |
 | Energy Lab | 313206 | [313206-energy-lab.json](./313206-energy-lab.json) |
 | Energy Manager | 350530 | [350530-energy-manager.json](./350530-energy-manager.json) |
 | Energy Nodes | 109385 | [109385-energy-nodes.json](./109385-energy-nodes.json) |
@@ -5767,7 +5763,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erotic Fiction for Cyberpunk Sex | 288244 | [288244-erotic-fiction-for-cyberpunk-sex.json](./288244-erotic-fiction-for-cyberpunk-sex.json) |
 | Erotic Fiction for Fuck in Police | 294086 | [294086-erotic-fiction-for-fuck-in-police.json](./294086-erotic-fiction-for-fuck-in-police.json) |
 | Erotic Fiction for Sex Motel | 288887 | [288887-erotic-fiction-for-sex-motel.json](./288887-erotic-fiction-for-sex-motel.json) |
-| Erotic Jigsaw Challenge Vol 1 | 101366 | [101366-erotic-jigsaw-challenge-vol-1.json](./101366-erotic-jigsaw-challenge-vol-1.json) |
 | Erotic Jigsaw Challenge Vol 2 | 106541 | [106541-erotic-jigsaw-challenge-vol-2.json](./106541-erotic-jigsaw-challenge-vol-2.json) |
 | Erotic Jigsaw Puzzle | 156644 | [156644-erotic-jigsaw-puzzle.json](./156644-erotic-jigsaw-puzzle.json) |
 | Erotic Jigsaw Puzzle 2 | 150652 | [150652-erotic-jigsaw-puzzle-2.json](./150652-erotic-jigsaw-puzzle-2.json) |
