@@ -1616,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pants no Mikiri | 263615 | [263615-pants-no-mikiri.json](./263615-pants-no-mikiri.json) |
 | Pants Quest | 190217 | [190217-pants-quest.json](./190217-pants-quest.json) |
 | PantsTyping | 82708 | [82708-pantstyping.json](./82708-pantstyping.json) |
+| Pantsu Hunter: Back to the 90s | 113726 | [113726-pantsu-hunter-back-to-the-90s.json](./113726-pantsu-hunter-back-to-the-90s.json) |
 | Pantsu: Atty's Collection | 375721 | [375721-pantsu-attys-collection.json](./375721-pantsu-attys-collection.json) |
 | Pantsu! | 313682 | [313682-pantsu.json](./313682-pantsu.json) |
 | Pantsylvania | 64373 | [64373-pantsylvania.json](./64373-pantsylvania.json) |
@@ -18230,6 +18231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Diva: Megamix - F Edition | 378099 | [378099-project-diva-megamix-f-edition.json](./378099-project-diva-megamix-f-edition.json) |
 | Project Dodo | 131703 | [131703-project-dodo.json](./131703-project-dodo.json) |
 | Project Down | 292992 | [292992-project-down.json](./292992-project-down.json) |
+| Project Downfall | 113813 | [113813-project-downfall.json](./113813-project-downfall.json) |
 | Project Drag Racing | 336281 | [336281-project-drag-racing.json](./336281-project-drag-racing.json) |
 | Project Dream | 426463 | [426463-project-dream.json](./426463-project-dream.json) |
 | Project Dream 64 | 315029 | [315029-project-dream-64.json](./315029-project-dream-64.json) |
