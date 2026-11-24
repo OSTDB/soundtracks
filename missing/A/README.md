@@ -5857,6 +5857,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Water: The First Voyage | 293080 | [293080-age-of-water-the-first-voyage.json](./293080-age-of-water-the-first-voyage.json) |
 | Age of Wonders | 589 | [589-age-of-wonders.json](./589-age-of-wonders.json) |
 | Age of Wonders 4 | 232571 | [232571-age-of-wonders-4.json](./232571-age-of-wonders-4.json) |
+| Age of Wonders 4: 2026 Collector's Bundle | 428790 | [428790-age-of-wonders-4-2026-collectors-bundle.json](./428790-age-of-wonders-4-2026-collectors-bundle.json) |
+| Age of Wonders 4: Archmage Attire | 428788 | [428788-age-of-wonders-4-archmage-attire.json](./428788-age-of-wonders-4-archmage-attire.json) |
 | Age of Wonders 4: Cosmic Wanderer | 371020 | [371020-age-of-wonders-4-cosmic-wanderer.json](./371020-age-of-wonders-4-cosmic-wanderer.json) |
 | Age of Wonders 4: Dragon Dawn | 252621 | [252621-age-of-wonders-4-dragon-dawn.json](./252621-age-of-wonders-4-dragon-dawn.json) |
 | Age of Wonders 4: Eldritch Realms | 258839 | [258839-age-of-wonders-4-eldritch-realms.json](./258839-age-of-wonders-4-eldritch-realms.json) |
@@ -5864,6 +5866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders 4: Expansion Pass | 293731 | [293731-age-of-wonders-4-expansion-pass.json](./293731-age-of-wonders-4-expansion-pass.json) |
 | Age of Wonders 4: Expansion Pass 2 | 428672 | [428672-age-of-wonders-4-expansion-pass-2.json](./428672-age-of-wonders-4-expansion-pass-2.json) |
 | Age of Wonders 4: Expansion Pass 3 | 428675 | [428675-age-of-wonders-4-expansion-pass-3.json](./428675-age-of-wonders-4-expansion-pass-3.json) |
+| Age of Wonders 4: Expansion Pass 4 | 428683 | [428683-age-of-wonders-4-expansion-pass-4.json](./428683-age-of-wonders-4-expansion-pass-4.json) |
 | Age of Wonders 4: Herald of Glory | 371134 | [371134-age-of-wonders-4-herald-of-glory.json](./371134-age-of-wonders-4-herald-of-glory.json) |
 | Age of Wonders 4: Pre-Order Content Pack | 428738 | [428738-age-of-wonders-4-pre-order-content-pack.json](./428738-age-of-wonders-4-pre-order-content-pack.json) |
 | Age of Wonders 4: Premium Edition | 240573 | [240573-age-of-wonders-4-premium-edition.json](./240573-age-of-wonders-4-premium-edition.json) |
