@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Fighter | 48577 | [48577-kart-fighter.json](./48577-kart-fighter.json) |
 | Kart Heros Ultra | 306128 | [306128-kart-heros-ultra.json](./306128-kart-heros-ultra.json) |
 | Kart kids | 129433 | [129433-kart-kids.json](./129433-kart-kids.json) |
+| Kart Krashers | 23588 | [23588-kart-krashers.json](./23588-kart-krashers.json) |
 | Kart Life | 260589 | [260589-kart-life.json](./260589-kart-life.json) |
 | Kart n' Crazy | 417059 | [417059-kart-n-crazy.json](./417059-kart-n-crazy.json) |
 | Kart Race | 50308 | [50308-kart-race.json](./50308-kart-race.json) |
@@ -6968,6 +6969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuma Uta | 70220 | [70220-kuma-uta.json](./70220-kuma-uta.json) |
 | Kuma: The Environmental Protector | 186981 | [186981-kuma-the-environmental-protector.json](./186981-kuma-the-environmental-protector.json) |
 | Kuma's Panty | 345741 | [345741-kumas-panty.json](./345741-kumas-panty.json) |
+| Kuma\War | 23563 | [23563-kuma-war.json](./23563-kuma-war.json) |
 | Kumacure | 118609 | [118609-kumacure.json](./118609-kumacure.json) |
 | Kumakichi & Nyanzou Birth Destruction God DX | 336432 | [336432-kumakichi-and-nyanzou-birth-destruction-god-dx.json](./336432-kumakichi-and-nyanzou-birth-destruction-god-dx.json) |
 | Kumakichi's Birth: Destruction God | 267150 | [267150-kumakichis-birth-destruction-god.json](./267150-kumakichis-birth-destruction-god.json) |
