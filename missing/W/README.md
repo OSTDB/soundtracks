@@ -38,7 +38,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wa ga Ryuu wo Miyo: Pride of the Dragon Peace | 227795 | [227795-wa-ga-ryuu-wo-miyo-pride-of-the-dragon-peace.json](./227795-wa-ga-ryuu-wo-miyo-pride-of-the-dragon-peace.json) |
 | Wa-shoi! Kamiokoshi | 356424 | [356424-wa-shoi-kamiokoshi.json](./356424-wa-shoi-kamiokoshi.json) |
 | Waaaaaa: A Prehistoric Adventure With Aliens | 392230 | [392230-waaaaaa-a-prehistoric-adventure-with-aliens.json](./392230-waaaaaa-a-prehistoric-adventure-with-aliens.json) |
-| Waba | 104821 | [104821-waba.json](./104821-waba.json) |
 | Wabash Cannonball | 175415 | [175415-wabash-cannonball.json](./175415-wabash-cannonball.json) |
 | Wabbalidu | 252465 | [252465-wabbalidu.json](./252465-wabbalidu.json) |
 | Wabbit | 40603 | [40603-wabbit.json](./40603-wabbit.json) |
@@ -422,7 +421,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk of Fire | 346823 | [346823-walk-of-fire.json](./346823-walk-of-fire.json) |
 | Walk of Life | 346648 | [346648-walk-of-life.json](./346648-walk-of-life.json) |
 | Walk of Shame | 154104 | [154104-walk-of-shame.json](./154104-walk-of-shame.json) |
-| Walk on Arrow | 104956 | [104956-walk-on-arrow.json](./104956-walk-on-arrow.json) |
 | Walk on Mars | 147068 | [147068-walk-on-mars.json](./147068-walk-on-mars.json) |
 | Walk on the Ground Simulator | 120945 | [120945-walk-on-the-ground-simulator.json](./120945-walk-on-the-ground-simulator.json) |
 | Walk the dog | 183319 | [183319-walk-the-dog.json](./183319-walk-the-dog.json) |
@@ -2032,7 +2030,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords | 69606 | [69606-warlords.json](./69606-warlords.json) |
 | WarLords | 196892 | [196892-warlords.json](./196892-warlords.json) |
 | Warlords 2: Rise of Demons | 301434 | [301434-warlords-2-rise-of-demons.json](./301434-warlords-2-rise-of-demons.json) |
-| Warlords Awakening | 103416 | [103416-warlords-awakening.json](./103416-warlords-awakening.json) |
 | Warlords Battle Simulator | 267020 | [267020-warlords-battle-simulator.json](./267020-warlords-battle-simulator.json) |
 | Warlords Battlecry | 9831 | [9831-warlords-battlecry.json](./9831-warlords-battlecry.json) |
 | Warlords Battlecry II | 9833 | [9833-warlords-battlecry-ii.json](./9833-warlords-battlecry-ii.json) |
@@ -2066,7 +2063,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warm Snow: The End Of Karma | 277353 | [277353-warm-snow-the-end-of-karma.json](./277353-warm-snow-the-end-of-karma.json) |
 | Warm Up! | 73374 | [73374-warm-up.json](./73374-warm-up.json) |
 | Warm Village | 80949 | [80949-warm-village.json](./80949-warm-village.json) |
-| WarMA | 103948 | [103948-warma.json](./103948-warma.json) |
 | Warmace: Miniature Shop Simulator | 423203 | [423203-warmace-miniature-shop-simulator.json](./423203-warmace-miniature-shop-simulator.json) |
 | Warmachine: Rogue-Scout | 425198 | [425198-warmachine-rogue-scout.json](./425198-warmachine-rogue-scout.json) |
 | Warmada | 30798 | [30798-warmada.json](./30798-warmada.json) |
@@ -3585,7 +3581,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Day | 311441 | [311441-wedding-day.json](./311441-wedding-day.json) |
 | Wedding Day Makeover | 87476 | [87476-wedding-day-makeover.json](./87476-wedding-day-makeover.json) |
 | Wedding Designer | 121340 | [121340-wedding-designer.json](./121340-wedding-designer.json) |
-| Wedding Fiasco - The Race for the Perfect Dress | 101562 | [101562-wedding-fiasco-the-race-for-the-perfect-dress.json](./101562-wedding-fiasco-the-race-for-the-perfect-dress.json) |
 | Wedding Girl Makeover | 96072 | [96072-wedding-girl-makeover.json](./96072-wedding-girl-makeover.json) |
 | Wedding Peach | 296178 | [296178-wedding-peach.json](./296178-wedding-peach.json) |
 | Wedding Peach | 38402 | [38402-wedding-peach.json](./38402-wedding-peach.json) |
@@ -4072,7 +4067,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Front | 72145 | [72145-west-front.json](./72145-west-front.json) |
 | West Front Battle Pack I | 115857 | [115857-west-front-battle-pack-i.json](./115857-west-front-battle-pack-i.json) |
 | West Game | 199076 | [199076-west-game.json](./199076-west-game.json) |
-| West Gunfighter | 100923 | [100923-west-gunfighter.json](./100923-west-gunfighter.json) |
 | West Hunt | 145463 | [145463-west-hunt.json](./145463-west-hunt.json) |
 | West Hunt: Halloween Pack | 263086 | [263086-west-hunt-halloween-pack.json](./263086-west-hunt-halloween-pack.json) |
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
@@ -5460,7 +5454,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Snow | 402079 | [402079-white-snow.json](./402079-white-snow.json) |
 | White Space | 60500 | [60500-white-space.json](./60500-white-space.json) |
 | White Sun | 116274 | [116274-white-sun.json](./116274-white-sun.json) |
-| White Tiger Family Sim Online | 100806 | [100806-white-tiger-family-sim-online.json](./100806-white-tiger-family-sim-online.json) |
 | White Tiles 4: Piano Master 2 | 87008 | [87008-white-tiles-4-piano-master-2.json](./87008-white-tiles-4-piano-master-2.json) |
 | White Tiles Master | 233743 | [233743-white-tiles-master.json](./233743-white-tiles-master.json) |
 | White Tiles: Widescreen | 91149 | [91149-white-tiles-widescreen.json](./91149-white-tiles-widescreen.json) |
@@ -6085,7 +6078,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Ones | 65950 | [65950-wild-ones.json](./65950-wild-ones.json) |
 | Wild Ones Battle Stadium | 338365 | [338365-wild-ones-battle-stadium.json](./338365-wild-ones-battle-stadium.json) |
 | Wild Origin: Scout | 130616 | [130616-wild-origin-scout.json](./130616-wild-origin-scout.json) |
-| Wild Park Manager | 100848 | [100848-wild-park-manager.json](./100848-wild-park-manager.json) |
 | Wild Pilot | 409345 | [409345-wild-pilot.json](./409345-wild-pilot.json) |
 | Wild Pinball Bundle | 166684 | [166684-wild-pinball-bundle.json](./166684-wild-pinball-bundle.json) |
 | Wild Planet | 137049 | [137049-wild-planet.json](./137049-wild-planet.json) |
@@ -6897,6 +6889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WinKings | 33889 | [33889-winkings.json](./33889-winkings.json) |
 | Winky the Little Bear | 213857 | [213857-winky-the-little-bear.json](./213857-winky-the-little-bear.json) |
 | Winky Trap | 131582 | [131582-winky-trap.json](./131582-winky-trap.json) |
+| Winky!: Find the Golden Ticket | 425058 | [425058-winky-find-the-golden-ticket.json](./425058-winky-find-the-golden-ticket.json) |
 | Winlinez | 246313 | [246313-winlinez.json](./246313-winlinez.json) |
 | WinMon | 365978 | [365978-winmon.json](./365978-winmon.json) |
 | Winner | 130946 | [130946-winner.json](./130946-winner.json) |
@@ -8701,7 +8694,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woozzle Reborn | 232097 | [232097-woozzle-reborn.json](./232097-woozzle-reborn.json) |
 | Wor Games | 335847 | [335847-wor-games.json](./335847-wor-games.json) |
 | WOR: World of Riders | 175030 | [175030-wor-world-of-riders.json](./175030-wor-world-of-riders.json) |
-| Worbital | 105070 | [105070-worbital.json](./105070-worbital.json) |
 | Worcle Worlds | 84965 | [84965-worcle-worlds.json](./84965-worcle-worlds.json) |
 | Word | 369619 | [369619-word.json](./369619-word.json) |
 | Word 2 | 175755 | [175755-word-2.json](./175755-word-2.json) |
@@ -8876,7 +8868,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search 10K | 84964 | [84964-word-search-10k.json](./84964-word-search-10k.json) |
 | Word Search Addict: Word Games | 106478 | [106478-word-search-addict-word-games.json](./106478-word-search-addict-word-games.json) |
 | Word Search by Powgi | 138113 | [138113-word-search-by-powgi.json](./138113-word-search-by-powgi.json) |
-| Word Search Classic | 101129 | [101129-word-search-classic.json](./101129-word-search-classic.json) |
 | Word Search Coffee Break | 415952 | [415952-word-search-coffee-break.json](./415952-word-search-coffee-break.json) |
 | Word Search Daily HD | 355011 | [355011-word-search-daily-hd.json](./355011-word-search-daily-hd.json) |
 | Word Search Epic | 83418 | [83418-word-search-epic.json](./83418-word-search-epic.json) |
@@ -9398,7 +9389,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Flipper | 130653 | [130653-world-flipper.json](./130653-world-flipper.json) |
 | World Football 98 | 260062 | [260062-world-football-98.json](./260062-world-football-98.json) |
 | World Football Challenge '98 | 217772 | [217772-world-football-challenge-98.json](./217772-world-football-challenge-98.json) |
-| World Football Champion | 100810 | [100810-world-football-champion.json](./100810-world-football-champion.json) |
 | World for Two | 147270 | [147270-world-for-two.json](./147270-world-for-two.json) |
 | World Games | 12831 | [12831-world-games.json](./12831-world-games.json) |
 | World Games | 217704 | [217704-world-games.json](./217704-world-games.json) |
