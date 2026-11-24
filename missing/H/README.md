@@ -8228,6 +8228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object - Tea Time | 71250 | [71250-hidden-object-tea-time.json](./71250-hidden-object-tea-time.json) |
 | Hidden Object - Tools | 67899 | [67899-hidden-object-tools.json](./67899-hidden-object-tools.json) |
 | Hidden Object - Unwrap the Secrets of the Lost Candy World! Seek & Find Hunt Game | 71207 | [71207-hidden-object-unwrap-the-secrets-of-the-lost-candy-world-seek-and-find-hunt-game.json](./71207-hidden-object-unwrap-the-secrets-of-the-lost-candy-world-seek-and-find-hunt-game.json) |
+| Hidden Object 6-in-1 bundle | 90590 | [90590-hidden-object-6-in-1-bundle.json](./90590-hidden-object-6-in-1-bundle.json) |
 | Hidden Object Adventure Bundle | 331526 | [331526-hidden-object-adventure-bundle.json](./331526-hidden-object-adventure-bundle.json) |
 | Hidden Object Adventure Bundle 2 | 385137 | [385137-hidden-object-adventure-bundle-2.json](./385137-hidden-object-adventure-bundle-2.json) |
 | Hidden Object Adventures: Sunken Treasures | 101940 | [101940-hidden-object-adventures-sunken-treasures.json](./101940-hidden-object-adventures-sunken-treasures.json) |
