@@ -1733,7 +1733,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer General: Allied Assault | 22879 | [22879-panzer-general-allied-assault.json](./22879-panzer-general-allied-assault.json) |
 | Panzer Girls | 203801 | [203801-panzer-girls.json](./203801-panzer-girls.json) |
 | Panzer Grenadier | 26147 | [26147-panzer-grenadier.json](./26147-panzer-grenadier.json) |
-| Panzer Hearts | 99020 | [99020-panzer-hearts.json](./99020-panzer-hearts.json) |
 | Panzer Killer | 41978 | [41978-panzer-killer.json](./41978-panzer-killer.json) |
 | Panzer Kliker Mk I Yanks | 360623 | [360623-panzer-kliker-mk-i-yanks.json](./360623-panzer-kliker-mk-i-yanks.json) |
 | Panzer Knights | 148190 | [148190-panzer-knights.json](./148190-panzer-knights.json) |
@@ -3490,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of the Idle Cultivator | 419489 | [419489-path-of-the-idle-cultivator.json](./419489-path-of-the-idle-cultivator.json) |
 | Path of the Martyrs | 138561 | [138561-path-of-the-martyrs.json](./138561-path-of-the-martyrs.json) |
 | Path of the Midnight Sun | 126443 | [126443-path-of-the-midnight-sun.json](./126443-path-of-the-midnight-sun.json) |
+| Path of the Ory | 427535 | [427535-path-of-the-ory.json](./427535-path-of-the-ory.json) |
 | Path of the Oxiflame | 319842 | [319842-path-of-the-oxiflame.json](./319842-path-of-the-oxiflame.json) |
 | Path of the Rabbit | 177230 | [177230-path-of-the-rabbit.json](./177230-path-of-the-rabbit.json) |
 | Path of the Retired Adventurer | 421098 | [421098-path-of-the-retired-adventurer.json](./421098-path-of-the-retired-adventurer.json) |
@@ -5052,7 +5052,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perception | 271498 | [271498-perception.json](./271498-perception.json) |
 | Perception: Heart and Mind | 361981 | [361981-perception-heart-and-mind.json](./361981-perception-heart-and-mind.json) |
 | Perceptions of the Dead | 75312 | [75312-perceptions-of-the-dead.json](./75312-perceptions-of-the-dead.json) |
-| Perceptions of the Dead 2 | 99050 | [99050-perceptions-of-the-dead-2.json](./99050-perceptions-of-the-dead-2.json) |
 | Percepts | 18392 | [18392-percepts.json](./18392-percepts.json) |
 | Perceptum | 386968 | [386968-perceptum.json](./386968-perceptum.json) |
 | Perch | 29944 | [29944-perch.json](./29944-perch.json) |
@@ -7839,7 +7838,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PiN | 28154 | [28154-pin.json](./28154-pin.json) |
 | Pin A Million | 413696 | [413696-pin-a-million.json](./413696-pin-a-million.json) |
 | Pin Ball | 59809 | [59809-pin-ball.json](./59809-pin-ball.json) |
-| Pin Ball Voyage | 100768 | [100768-pin-ball-voyage.json](./100768-pin-ball-voyage.json) |
 | Pin Bot | 217973 | [217973-pin-bot.json](./217973-pin-bot.json) |
 | Pin City | 236344 | [236344-pin-city.json](./236344-pin-city.json) |
 | Pin Climb | 318755 | [318755-pin-climb.json](./318755-pin-climb.json) |
@@ -7897,7 +7895,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 86428 | [86428-pinball.json](./86428-pinball.json) |
 | Pinball | 86507 | [86507-pinball.json](./86507-pinball.json) |
 | Pinball 2000 | 73381 | [73381-pinball-2000.json](./73381-pinball-2000.json) |
-| Pinball 2018 | 100587 | [100587-pinball-2018.json](./100587-pinball-2018.json) |
 | Pinball 99 | 418920 | [418920-pinball-99.json](./418920-pinball-99.json) |
 | Pinball Action | 39419 | [39419-pinball-action.json](./39419-pinball-action.json) |
 | Pinball Advance | 49316 | [49316-pinball-advance.json](./49316-pinball-advance.json) |
@@ -8861,7 +8858,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Storm | 23531 | [23531-pirate-storm.json](./23531-pirate-storm.json) |
 | Pirate Story | 163838 | [163838-pirate-story.json](./163838-pirate-story.json) |
 | Pirate Survivors | 341573 | [341573-pirate-survivors.json](./341573-pirate-survivors.json) |
-| Pirate Tales | 100779 | [100779-pirate-tales.json](./100779-pirate-tales.json) |
 | Pirate Trails | 333525 | [333525-pirate-trails.json](./333525-pirate-trails.json) |
 | Pirate Trails: Tentacles and Treasures | 349585 | [349585-pirate-trails-tentacles-and-treasures.json](./349585-pirate-trails-tentacles-and-treasures.json) |
 | Pirate Treasure | 201879 | [201879-pirate-treasure.json](./201879-pirate-treasure.json) |
@@ -12136,7 +12132,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Racing | 38665 | [38665-pocket-racing.json](./38665-pocket-racing.json) |
 | Pocket Rally | 104719 | [104719-pocket-rally.json](./104719-pocket-rally.json) |
 | Pocket Ray | 227818 | [227818-pocket-ray.json](./227818-pocket-ray.json) |
-| Pocket Realms | 99223 | [99223-pocket-realms.json](./99223-pocket-realms.json) |
 | Pocket Reversi | 43989 | [43989-pocket-reversi.json](./43989-pocket-reversi.json) |
 | Pocket Robots | 311176 | [311176-pocket-robots.json](./311176-pocket-robots.json) |
 | Pocket Rocket | 187166 | [187166-pocket-rocket.json](./187166-pocket-rocket.json) |
@@ -16144,7 +16139,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prefantry | 158384 | [158384-prefantry.json](./158384-prefantry.json) |
 | Pregnancy | 35722 | [35722-pregnancy.json](./35722-pregnancy.json) |
 | Pregnant | 192572 | [192572-pregnant.json](./192572-pregnant.json) |
-| Pregnant Mom Emergency Surgery | 99421 | [99421-pregnant-mom-emergency-surgery.json](./99421-pregnant-mom-emergency-surgery.json) |
 | Pregnant Mom Simulator 3d | 296749 | [296749-pregnant-mom-simulator-3d.json](./296749-pregnant-mom-simulator-3d.json) |
 | Pregnant Mom Virtual Family Neighbor Helper | 96001 | [96001-pregnant-mom-virtual-family-neighbor-helper.json](./96001-pregnant-mom-virtual-family-neighbor-helper.json) |
 | Pregnant Mother Life Mom Games | 296784 | [296784-pregnant-mother-life-mom-games.json](./296784-pregnant-mother-life-mom-games.json) |
@@ -21245,7 +21239,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Guardians | 29155 | [29155-puzzle-guardians.json](./29155-puzzle-guardians.json) |
 | Puzzle Guys | 149835 | [149835-puzzle-guys.json](./149835-puzzle-guys.json) |
 | Puzzle Guzzle | 78105 | [78105-puzzle-guzzle.json](./78105-puzzle-guzzle.json) |
-| Puzzle Heart Match-3 Adventure | 99501 | [99501-puzzle-heart-match-3-adventure.json](./99501-puzzle-heart-match-3-adventure.json) |
 | Puzzle Herder | 117981 | [117981-puzzle-herder.json](./117981-puzzle-herder.json) |
 | Puzzle Hero | 206044 | [206044-puzzle-hero.json](./206044-puzzle-hero.json) |
 | Puzzle Hero | 53484 | [53484-puzzle-hero.json](./53484-puzzle-hero.json) |
@@ -21552,7 +21545,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzled Towers | 253209 | [253209-puzzled-towers.json](./253209-puzzled-towers.json) |
 | Puzzledom | 344650 | [344650-puzzledom.json](./344650-puzzledom.json) |
 | Puzzledom | 74529 | [74529-puzzledom.json](./74529-puzzledom.json) |
-| Puzzledom - classic puzzles all in one | 99221 | [99221-puzzledom-classic-puzzles-all-in-one.json](./99221-puzzledom-classic-puzzles-all-in-one.json) |
 | Puzzledorf | 160209 | [160209-puzzledorf.json](./160209-puzzledorf.json) |
 | Puzzledrome | 200061 | [200061-puzzledrome.json](./200061-puzzledrome.json) |
 | Puzzlefall | 58177 | [58177-puzzlefall.json](./58177-puzzlefall.json) |
