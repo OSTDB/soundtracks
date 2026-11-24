@@ -20705,6 +20705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn. Pulse. Detach. | 143115 | [143115-burn-pulse-detach.json](./143115-burn-pulse-detach.json) |
 | Burndown | 109321 | [109321-burndown.json](./109321-burndown.json) |
 | Burned Horizons | 391166 | [391166-burned-horizons.json](./391166-burned-horizons.json) |
+| Burned Land | 114883 | [114883-burned-land.json](./114883-burned-land.json) |
 | Burned One | 365157 | [365157-burned-one.json](./365157-burned-one.json) |
 | Burned Out | 317456 | [317456-burned-out.json](./317456-burned-out.json) |
 | BurnerSphere | 360466 | [360466-burnersphere.json](./360466-burnersphere.json) |
