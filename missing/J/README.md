@@ -4791,6 +4791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Sing! Vol. 2 | 82276 | [82276-just-sing-vol-2.json](./82276-just-sing-vol-2.json) |
 | Just Skate | 101430 | [101430-just-skate.json](./101430-just-skate.json) |
 | Just Skateboard | 322450 | [322450-just-skateboard.json](./322450-just-skateboard.json) |
+| Just Ski | 75806 | [75806-just-ski.json](./75806-just-ski.json) |
 | Just Ski and Snowboard | 88033 | [88033-just-ski-and-snowboard.json](./88033-just-ski-and-snowboard.json) |
 | Just Ski+ | 143269 | [143269-just-ski.json](./143269-just-ski.json) |
 | Just Skill Shooter | 250465 | [250465-just-skill-shooter.json](./250465-just-skill-shooter.json) |
