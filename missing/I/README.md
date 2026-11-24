@@ -3042,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperium Revolution | 188564 | [188564-imperium-revolution.json](./188564-imperium-revolution.json) |
 | Imperium Romanum | 20776 | [20776-imperium-romanum.json](./20776-imperium-romanum.json) |
 | Imperium Romanum | 80770 | [80770-imperium-romanum.json](./80770-imperium-romanum.json) |
+| Imperium Romanum: Gold Edition | 27828 | [27828-imperium-romanum-gold-edition.json](./27828-imperium-romanum-gold-edition.json) |
 | Imperium Universalis | 298726 | [298726-imperium-universalis.json](./298726-imperium-universalis.json) |
 | Imperium: Galactic War | 120263 | [120263-imperium-galactic-war.json](./120263-imperium-galactic-war.json) |
 | Imperium: Galactic War Classic | 244922 | [244922-imperium-galactic-war-classic.json](./244922-imperium-galactic-war-classic.json) |
@@ -7221,6 +7222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Escape | 401901 | [401901-island-escape.json](./401901-island-escape.json) |
 | Island Escape 2 | 311583 | [311583-island-escape-2.json](./311583-island-escape-2.json) |
 | Island Escape: Survivor Z Kill | 108190 | [108190-island-escape-survivor-z-kill.json](./108190-island-escape-survivor-z-kill.json) |
+| Island Experiment | 27938 | [27938-island-experiment.json](./27938-island-experiment.json) |
 | Island Explorer VR | 133068 | [133068-island-explorer-vr.json](./133068-island-explorer-vr.json) |
 | Island Farmer | 178806 | [178806-island-farmer.json](./178806-island-farmer.json) |
 | Island Fever | 413406 | [413406-island-fever.json](./413406-island-fever.json) |
