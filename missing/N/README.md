@@ -8624,7 +8624,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuke Zone | 130085 | [130085-nuke-zone.json](./130085-nuke-zone.json) |
 | Nuked Knight | 33380 | [33380-nuked-knight.json](./33380-nuked-knight.json) |
 | Nukeheck | 176571 | [176571-nukeheck.json](./176571-nukeheck.json) |
-| Nukeout | 100763 | [100763-nukeout.json](./100763-nukeout.json) |
 | Nukepath | 219625 | [219625-nukepath.json](./219625-nukepath.json) |
 | Nuketris | 145666 | [145666-nuketris.json](./145666-nuketris.json) |
 | Nukewar | 24807 | [24807-nukewar.json](./24807-nukewar.json) |
