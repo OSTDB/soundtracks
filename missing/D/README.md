@@ -7375,6 +7375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolish | 418951 | [418951-demolish.json](./418951-demolish.json) |
 | Demolish & Build | 135607 | [135607-demolish-and-build.json](./135607-demolish-and-build.json) |
 | Demolish & Build 2017 | 24941 | [24941-demolish-and-build-2017.json](./24941-demolish-and-build-2017.json) |
+| Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
 | Demolish & Build 3 | 210952 | [210952-demolish-and-build-3.json](./210952-demolish-and-build-3.json) |
 | Demolish & Build 3: Excavator Playground | 211557 | [211557-demolish-and-build-3-excavator-playground.json](./211557-demolish-and-build-3-excavator-playground.json) |
 | Demolish & Build Classic | 231580 | [231580-demolish-and-build-classic.json](./231580-demolish-and-build-classic.json) |
@@ -9662,6 +9663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexter's Momatory | 280444 | [280444-dexters-momatory.json](./280444-dexters-momatory.json) |
 | Dexteritrip | 112818 | [112818-dexteritrip.json](./112818-dexteritrip.json) |
 | Dexterity | 90304 | [90304-dexterity.json](./90304-dexterity.json) |
+| Dexterity | 91263 | [91263-dexterity.json](./91263-dexterity.json) |
 | Dexterity Ball 3D | 34445 | [34445-dexterity-ball-3d.json](./34445-dexterity-ball-3d.json) |
 | Dexterous: Time to Steal | 278159 | [278159-dexterous-time-to-steal.json](./278159-dexterous-time-to-steal.json) |
 | Dextram | 147309 | [147309-dextram.json](./147309-dextram.json) |
@@ -16759,6 +16761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula 2 Pack | 131296 | [131296-dracula-2-pack.json](./131296-dracula-2-pack.json) |
 | Dracula 2: The Last Sanctuary | 9092 | [9092-dracula-2-the-last-sanctuary.json](./9092-dracula-2-the-last-sanctuary.json) |
 | Dracula 3: The Path of the Dragon | 9093 | [9093-dracula-3-the-path-of-the-dragon.json](./9093-dracula-3-the-path-of-the-dragon.json) |
+| Dracula 4 & 5: Special Steam Edition | 90585 | [90585-dracula-4-and-5-special-steam-edition.json](./90585-dracula-4-and-5-special-steam-edition.json) |
 | Dracula 4: The Shadow of the Dragon | 9090 | [9090-dracula-4-the-shadow-of-the-dragon.json](./9090-dracula-4-the-shadow-of-the-dragon.json) |
 | Dracula 4+5 | 154936 | [154936-dracula-4-5.json](./154936-dracula-4-5.json) |
 | Dracula 5: The Blood Legacy | 9094 | [9094-dracula-5-the-blood-legacy.json](./9094-dracula-5-the-blood-legacy.json) |
@@ -21828,6 +21831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons: Gold Edition | 52931 | [52931-dungeons-gold-edition.json](./52931-dungeons-gold-edition.json) |
 | Dungeons: Into the Dark | 10266 | [10266-dungeons-into-the-dark.json](./10266-dungeons-into-the-dark.json) |
 | Dungeons: Map Pack | 138049 | [138049-dungeons-map-pack.json](./138049-dungeons-map-pack.json) |
+| Dungeons: Steam Special Edition | 90477 | [90477-dungeons-steam-special-edition.json](./90477-dungeons-steam-special-edition.json) |
 | Dungeons: The Dark Lord - Steam Special Edition | 90486 | [90486-dungeons-the-dark-lord-steam-special-edition.json](./90486-dungeons-the-dark-lord-steam-special-edition.json) |
 | Dungeons: The Eye of Draconus | 17444 | [17444-dungeons-the-eye-of-draconus.json](./17444-dungeons-the-eye-of-draconus.json) |
 | DungeonScape | 181261 | [181261-dungeonscape.json](./181261-dungeonscape.json) |
