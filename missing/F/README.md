@@ -15564,6 +15564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Zone Omega | 386239 | [386239-fun-zone-omega.json](./386239-fun-zone-omega.json) |
 | Fun Zoo | 18360 | [18360-fun-zoo.json](./18360-fun-zoo.json) |
 | Fun, Sun & Mishaps | 169887 | [169887-fun-sun-and-mishaps.json](./169887-fun-sun-and-mishaps.json) |
+| Fun! Fun! Animal Park | 114024 | [114024-fun-fun-animal-park.json](./114024-fun-fun-animal-park.json) |
 | Fun! Fun! Minigolf | 21128 | [21128-fun-fun-minigolf.json](./21128-fun-fun-minigolf.json) |
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
 | Fun.Io | 254310 | [254310-fun-io.json](./254310-fun-io.json) |
@@ -15572,6 +15573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funaki Masakatsu: Hybrid Wrestler | 67031 | [67031-funaki-masakatsu-hybrid-wrestler.json](./67031-funaki-masakatsu-hybrid-wrestler.json) |
 | Funanigans | 136893 | [136893-funanigans.json](./136893-funanigans.json) |
 | Funanigans: Party Games | 168579 | [168579-funanigans-party-games.json](./168579-funanigans-party-games.json) |
+| Funbag Fantasy | 114807 | [114807-funbag-fantasy.json](./114807-funbag-fantasy.json) |
 | Funbag Fantasy 2 | 127948 | [127948-funbag-fantasy-2.json](./127948-funbag-fantasy-2.json) |
 | Funbag Fantasy 3if | 160197 | [160197-funbag-fantasy-3if.json](./160197-funbag-fantasy-3if.json) |
 | Funbag Fantasy 4: Brother Astor | 210718 | [210718-funbag-fantasy-4-brother-astor.json](./210718-funbag-fantasy-4-brother-astor.json) |
