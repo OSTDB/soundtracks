@@ -11655,6 +11655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost: Survival Horror | 276351 | [276351-the-ghost-survival-horror.json](./276351-the-ghost-survival-horror.json) |
 | The Ghost: Task of the Ghost Hunters | 188856 | [188856-the-ghost-task-of-the-ghost-hunters.json](./188856-the-ghost-task-of-the-ghost-hunters.json) |
 | The Ghosts of Blackwood Manor | 308021 | [308021-the-ghosts-of-blackwood-manor.json](./308021-the-ghosts-of-blackwood-manor.json) |
+| The Ghosts of Hackney Mills | 74985 | [74985-the-ghosts-of-hackney-mills.json](./74985-the-ghosts-of-hackney-mills.json) |
 | The Ghosts of Terinor | 266762 | [266762-the-ghosts-of-terinor.json](./266762-the-ghosts-of-terinor.json) |
 | The Ghosts Race | 214186 | [214186-the-ghosts-race.json](./214186-the-ghosts-race.json) |
 | The Ghoul's Forest | 144804 | [144804-the-ghouls-forest.json](./144804-the-ghouls-forest.json) |
@@ -21712,6 +21713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Trade | 345095 | [345095-the-walking-trade.json](./345095-the-walking-trade.json) |
 | The Walking Vegetables | 61617 | [61617-the-walking-vegetables.json](./61617-the-walking-vegetables.json) |
 | The Walking Vegetables: Radical! Edition | 111344 | [111344-the-walking-vegetables-radical-edition.json](./111344-the-walking-vegetables-radical-edition.json) |
+| The Walking Zombie | 75798 | [75798-the-walking-zombie.json](./75798-the-walking-zombie.json) |
 | The Walking Zombie 2 | 112665 | [112665-the-walking-zombie-2.json](./112665-the-walking-zombie-2.json) |
 | The Wall | 13086 | [13086-the-wall.json](./13086-the-wall.json) |
 | The Wall | 176849 | [176849-the-wall.json](./176849-the-wall.json) |
@@ -22884,6 +22886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Little Pigs | 397529 | [397529-these-little-pigs.json](./397529-these-little-pigs.json) |
 | These Monsters | 56178 | [56178-these-monsters.json](./56178-these-monsters.json) |
 | These Nights Alone | 156071 | [156071-these-nights-alone.json](./156071-these-nights-alone.json) |
+| These nights in Cairo | 74688 | [74688-these-nights-in-cairo.json](./74688-these-nights-in-cairo.json) |
 | These Out of Control Booty Shaking Kittens are Ruining My Castlevania! | 184745 | [184745-these-out-of-control-booty-shaking-kittens-are-ruining-my-castlevania.json](./184745-these-out-of-control-booty-shaking-kittens-are-ruining-my-castlevania.json) |
 | These Remains | 261008 | [261008-these-remains.json](./261008-these-remains.json) |
 | These Robotic Hearts of Mine | 22920 | [22920-these-robotic-hearts-of-mine.json](./22920-these-robotic-hearts-of-mine.json) |
@@ -30270,6 +30273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Supremacy | 316046 | [316046-total-supremacy.json](./316046-total-supremacy.json) |
 | Total Survival Simulator | 407361 | [407361-total-survival-simulator.json](./407361-total-survival-simulator.json) |
 | Total Tank Generals | 215725 | [215725-total-tank-generals.json](./215725-total-tank-generals.json) |
+| Total Tank Simulator | 75252 | [75252-total-tank-simulator.json](./75252-total-tank-simulator.json) |
 | Total Tank Simulator 2 | 378521 | [378521-total-tank-simulator-2.json](./378521-total-tank-simulator-2.json) |
 | Total Tank Simulator: Italy | 170736 | [170736-total-tank-simulator-italy.json](./170736-total-tank-simulator-italy.json) |
 | Total Tiki-Taka | 251638 | [251638-total-tiki-taka.json](./251638-total-tiki-taka.json) |
