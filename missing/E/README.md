@@ -5294,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Little War Game | 36715 | [36715-epic-little-war-game.json](./36715-epic-little-war-game.json) |
 | Epic Loon | 55216 | [55216-epic-loon.json](./55216-epic-loon.json) |
 | Epic Loot | 110310 | [110310-epic-loot.json](./110310-epic-loot.json) |
+| Epic Manager - Create Your Own Adventuring Agency | 26553 | [26553-epic-manager-create-your-own-adventuring-agency.json](./26553-epic-manager-create-your-own-adventuring-agency.json) |
 | Epic Mayhem | 29026 | [29026-epic-mayhem.json](./29026-epic-mayhem.json) |
 | Epic Maze | 181005 | [181005-epic-maze.json](./181005-epic-maze.json) |
 | Epic Meal Time | 64751 | [64751-epic-meal-time.json](./64751-epic-meal-time.json) |
