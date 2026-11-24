@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabuto Kuwagata | 242093 | [242093-kabuto-kuwagata.json](./242093-kabuto-kuwagata.json) |
 | Kabuto Park + Minami Lane Bundle | 402427 | [402427-kabuto-park-minami-lane-bundle.json](./402427-kabuto-park-minami-lane-bundle.json) |
 | Kaby Arena | 182286 | [182286-kaby-arena.json](./182286-kaby-arena.json) |
+| Kabzda | 428815 | [428815-kabzda.json](./428815-kabzda.json) |
 | Kabziman | 331278 | [331278-kabziman.json](./331278-kabziman.json) |
 | Kacau | 390811 | [390811-kacau.json](./390811-kacau.json) |
 | Kach | 212984 | [212984-kach.json](./212984-kach.json) |
@@ -3284,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi no Nisemono ni Koi wo Suru | 366458 | [366458-kimi-no-nisemono-ni-koi-wo-suru.json](./366458-kimi-no-nisemono-ni-koi-wo-suru.json) |
 | Kimi no Nisemono ni Koi wo Suru Asterism | 396470 | [396470-kimi-no-nisemono-ni-koi-wo-suru-asterism.json](./396470-kimi-no-nisemono-ni-koi-wo-suru-asterism.json) |
 | Kimi no Shinzou to Cosmos wo Miru | 370394 | [370394-kimi-no-shinzou-to-cosmos-wo-miru.json](./370394-kimi-no-shinzou-to-cosmos-wo-miru.json) |
+| Kimi no Tame no Uta | 428680 | [428680-kimi-no-tame-no-uta.json](./428680-kimi-no-tame-no-uta.json) |
 | Kimi no Tonari de Koishiteru! | 194548 | [194548-kimi-no-tonari-de-koishiteru.json](./194548-kimi-no-tonari-de-koishiteru.json) |
 | Kimi no Tonari de Koishiteru!: The Respective Happiness | 194549 | [194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json](./194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json) |
 | Kimi no Yusha | 59401 | [59401-kimi-no-yusha.json](./59401-kimi-no-yusha.json) |
