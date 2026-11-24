@@ -3242,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Darkness | 83570 | [83570-in-darkness.json](./83570-in-darkness.json) |
 | In Darkness We Hide | 277779 | [277779-in-darkness-we-hide.json](./277779-in-darkness-we-hide.json) |
 | In Death | 81225 | [81225-in-death.json](./81225-in-death.json) |
+| In Death Unchained | 135118 | [135118-in-death-unchained.json](./135118-in-death-unchained.json) |
 | In Death We Love | 329374 | [329374-in-death-we-love.json](./329374-in-death-we-love.json) |
 | In Dreams of Addict 2 | 216555 | [216555-in-dreams-of-addict-2.json](./216555-in-dreams-of-addict-2.json) |
 | In Dreams of Addict Remastered | 216554 | [216554-in-dreams-of-addict-remastered.json](./216554-in-dreams-of-addict-remastered.json) |
@@ -7412,6 +7413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isles of Limbo | 153670 | [153670-isles-of-limbo.json](./153670-isles-of-limbo.json) |
 | Isles of Monsters | 286782 | [286782-isles-of-monsters.json](./286782-isles-of-monsters.json) |
 | Isles of Rain | 346554 | [346554-isles-of-rain.json](./346554-isles-of-rain.json) |
+| Isles of Sea and Sky | 133013 | [133013-isles-of-sea-and-sky.json](./133013-isles-of-sea-and-sky.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
 | Isles of Wrath | 378286 | [378286-isles-of-wrath.json](./378286-isles-of-wrath.json) |
 | Isles of Yore | 189958 | [189958-isles-of-yore.json](./189958-isles-of-yore.json) |
