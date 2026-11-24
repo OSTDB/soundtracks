@@ -1168,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galduen of the Void | 354738 | [354738-galduen-of-the-void.json](./354738-galduen-of-the-void.json) |
 | Galdur | 103461 | [103461-galdur.json](./103461-galdur.json) |
 | Gale Gunner | 74781 | [74781-gale-gunner.json](./74781-gale-gunner.json) |
+| Gale of Windoria | 208021 | [208021-gale-of-windoria.json](./208021-gale-of-windoria.json) |
 | Gale Racer | 72317 | [72317-gale-racer.json](./72317-gale-racer.json) |
 | Galeao's Dreams | 248374 | [248374-galeaos-dreams.json](./248374-galeaos-dreams.json) |
 | Galeid. | 326895 | [326895-galeid.json](./326895-galeid.json) |
@@ -1631,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Tycoon | 127332 | [127332-game-tycoon.json](./127332-game-tycoon.json) |
 | Game Tycoon 1.5 | 16964 | [16964-game-tycoon-1-5.json](./16964-game-tycoon-1-5.json) |
 | Game Type | 35177 | [35177-game-type.json](./35177-game-type.json) |
+| Game Type DX | 208040 | [208040-game-type-dx.json](./208040-game-type-dx.json) |
 | Game With Balls | 356839 | [356839-game-with-balls.json](./356839-game-with-balls.json) |
 | Game with Car | 192895 | [192895-game-with-car.json](./192895-game-with-car.json) |
 | Game with Friends | 299748 | [299748-game-with-friends.json](./299748-game-with-friends.json) |
@@ -2125,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Hunt | 352263 | [352263-garden-hunt.json](./352263-garden-hunt.json) |
 | Garden Hustle | 422127 | [422127-garden-hustle.json](./422127-garden-hustle.json) |
 | Garden Island Plant Village: Grow & Harvest Fruits & Vegetables on your country farm! | 89825 | [89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json](./89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json) |
+| Garden Life: A Cozy Simulator | 204554 | [204554-garden-life-a-cozy-simulator.json](./204554-garden-life-a-cozy-simulator.json) |
 | Garden Life: Eco-friendly Decoration Set | 286205 | [286205-garden-life-eco-friendly-decoration-set.json](./286205-garden-life-eco-friendly-decoration-set.json) |
 | Garden Life: Garden Party Edition | 286204 | [286204-garden-life-garden-party-edition.json](./286204-garden-life-garden-party-edition.json) |
 | Garden Life: Garden Party Pack | 286203 | [286203-garden-life-garden-party-pack.json](./286203-garden-life-garden-party-pack.json) |
@@ -5024,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimmick Land: Tomato Atama no Himitsu | 176001 | [176001-gimmick-land-tomato-atama-no-himitsu.json](./176001-gimmick-land-tomato-atama-no-himitsu.json) |
 | Gimmick: Exact Mix | 206146 | [206146-gimmick-exact-mix.json](./206146-gimmick-exact-mix.json) |
 | Gimmick! 2 | 306562 | [306562-gimmick-2.json](./306562-gimmick-2.json) |
+| Gimmick! Special Edition | 213752 | [213752-gimmick-special-edition.json](./213752-gimmick-special-edition.json) |
 | Gimmick's Gadgets | 244406 | [244406-gimmicks-gadgets.json](./244406-gimmicks-gadgets.json) |
 | GimmickHeart | 253400 | [253400-gimmickheart.json](./253400-gimmickheart.json) |
 | Gimmiko | 219329 | [219329-gimmiko.json](./219329-gimmiko.json) |
