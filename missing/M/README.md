@@ -10267,8 +10267,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorise: Creation | 112969 | [112969-memorise-creation.json](./112969-memorise-creation.json) |
 | Memorise'n'run | 115105 | [115105-memorisenrun.json](./115105-memorisenrun.json) |
 | Memorize | 294091 | [294091-memorize.json](./294091-memorize.json) |
-| Memorize 2 | 100760 | [100760-memorize-2.json](./100760-memorize-2.json) |
-| Memorize 3 | 100753 | [100753-memorize-3.json](./100753-memorize-3.json) |
 | Memorize Cards | 150859 | [150859-memorize-cards.json](./150859-memorize-cards.json) |
 | Memorize Pi Digits | 90036 | [90036-memorize-pi-digits.json](./90036-memorize-pi-digits.json) |
 | Memorize the Cards | 301382 | [301382-memorize-the-cards.json](./301382-memorize-the-cards.json) |
@@ -12053,6 +12051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miai Kekkon Shita Osanazuma ga Otoko no Ko Datta Ken | 59046 | [59046-miai-kekkon-shita-osanazuma-ga-otoko-no-ko-datta-ken.json](./59046-miai-kekkon-shita-osanazuma-ga-otoko-no-ko-datta-ken.json) |
 | Miami Bay | 407388 | [407388-miami-bay.json](./407388-miami-bay.json) |
 | Miami Chase | 85920 | [85920-miami-chase.json](./85920-miami-chase.json) |
+| Miami Fighters | 427536 | [427536-miami-fighters.json](./427536-miami-fighters.json) |
 | Miami Horizon 2077 | 238735 | [238735-miami-horizon-2077.json](./238735-miami-horizon-2077.json) |
 | Miami Hotel Sim | 226004 | [226004-miami-hotel-sim.json](./226004-miami-hotel-sim.json) |
 | Miami Law | 20281 | [20281-miami-law.json](./20281-miami-law.json) |
@@ -15550,7 +15549,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miraclr: Divine Dating Sim | 84047 | [84047-miraclr-divine-dating-sim.json](./84047-miraclr-divine-dating-sim.json) |
 | Miraculo Island | 192612 | [192612-miraculo-island.json](./192612-miraculo-island.json) |
 | Miraculous Fall | 336682 | [336682-miraculous-fall.json](./336682-miraculous-fall.json) |
-| Miraculous Ladybug & Cat Noir | 99322 | [99322-miraculous-ladybug-and-cat-noir.json](./99322-miraculous-ladybug-and-cat-noir.json) |
 | Miraculous: Paris Dash | 421403 | [421403-miraculous-paris-dash.json](./421403-miraculous-paris-dash.json) |
 | Miraculous: Paris Under Siege | 314019 | [314019-miraculous-paris-under-siege.json](./314019-miraculous-paris-under-siege.json) |
 | Miraculous: Paris Under Siege - Deluxe Edition | 320679 | [320679-miraculous-paris-under-siege-deluxe-edition.json](./320679-miraculous-paris-under-siege-deluxe-edition.json) |
@@ -15653,7 +15651,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Broken | 215600 | [215600-mirror-broken.json](./215600-mirror-broken.json) |
 | Mirror Chains | 209240 | [209240-mirror-chains.json](./209240-mirror-chains.json) |
 | Mirror Devil World | 247282 | [247282-mirror-devil-world.json](./247282-mirror-devil-world.json) |
-| Mirror Drop | 99153 | [99153-mirror-drop.json](./99153-mirror-drop.json) |
 | Mirror Floor | 275358 | [275358-mirror-floor.json](./275358-mirror-floor.json) |
 | Mirror Forge | 188825 | [188825-mirror-forge.json](./188825-mirror-forge.json) |
 | Mirror Head | 327417 | [327417-mirror-head.json](./327417-mirror-head.json) |
@@ -15959,7 +15956,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Tank | 160256 | [160256-missile-tank.json](./160256-missile-tank.json) |
 | Missile War | 281190 | [281190-missile-war.json](./281190-missile-war.json) |
 | Missile Wars | 285095 | [285095-missile-wars.json](./285095-missile-wars.json) |
-| MissileDancer | 100758 | [100758-missiledancer.json](./100758-missiledancer.json) |
 | Missileman | 197634 | [197634-missileman.json](./197634-missileman.json) |
 | Missileman Clone Commandos! | 131586 | [131586-missileman-clone-commandos.json](./131586-missileman-clone-commandos.json) |
 | Missileman Origins | 33034 | [33034-missileman-origins.json](./33034-missileman-origins.json) |
@@ -17882,7 +17878,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monktastic | 86294 | [86294-monktastic.json](./86294-monktastic.json) |
 | Monmon and the Legendary Banana | 400100 | [400100-monmon-and-the-legendary-banana.json](./400100-monmon-and-the-legendary-banana.json) |
 | MONMUSU | 75970 | [75970-monmusu.json](./75970-monmusu.json) |
-| Monmusu Fight! | 99601 | [99601-monmusu-fight.json](./99601-monmusu-fight.json) |
 | Monmusu Girls: Autobattler | 328205 | [328205-monmusu-girls-autobattler.json](./328205-monmusu-girls-autobattler.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
 | Monmusu Paradise: Visitors | 344602 | [344602-monmusu-paradise-visitors.json](./344602-monmusu-paradise-visitors.json) |
@@ -18838,6 +18833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Vampire | 411783 | [411783-monster-vampire.json](./411783-monster-vampire.json) |
 | Monster Viator | 128941 | [128941-monster-viator.json](./128941-monster-viator.json) |
 | Monster Waifu | 226190 | [226190-monster-waifu.json](./226190-monster-waifu.json) |
+| Monster Waifu: Dryad Woman DLC | 427533 | [427533-monster-waifu-dryad-woman-dlc.json](./427533-monster-waifu-dryad-woman-dlc.json) |
 | Monster War | 287537 | [287537-monster-war.json](./287537-monster-war.json) |
 | Monster War | 365037 | [365037-monster-war.json](./365037-monster-war.json) |
 | Monster Warlord | 141483 | [141483-monster-warlord.json](./141483-monster-warlord.json) |
@@ -19221,7 +19217,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Fete | 406965 | [406965-moon-fete.json](./406965-moon-fete.json) |
 | Moon Finder | 315434 | [315434-moon-finder.json](./315434-moon-finder.json) |
 | Moon Flight | 84340 | [84340-moon-flight.json](./84340-moon-flight.json) |
-| Moon Games: Lunar Slalom | 100757 | [100757-moon-games-lunar-slalom.json](./100757-moon-games-lunar-slalom.json) |
 | Moon Garden Optimizer | 362589 | [362589-moon-garden-optimizer.json](./362589-moon-garden-optimizer.json) |
 | Moon Ghost | 310525 | [310525-moon-ghost.json](./310525-moon-ghost.json) |
 | Moon Ghost | 425346 | [425346-moon-ghost.json](./425346-moon-ghost.json) |
@@ -23222,6 +23217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Legends - Supercross World Tour | 350646 | [350646-mx-vs-atv-legends-supercross-world-tour.json](./350646-mx-vs-atv-legends-supercross-world-tour.json) |
 | MX vs. ATV: Legends - Suzuki Pack | 350647 | [350647-mx-vs-atv-legends-suzuki-pack.json](./350647-mx-vs-atv-legends-suzuki-pack.json) |
 | MX vs. ATV: Legends - Suzuki Pack 2025 | 350644 | [350644-mx-vs-atv-legends-suzuki-pack-2025.json](./350644-mx-vs-atv-legends-suzuki-pack-2025.json) |
+| MX vs. ATV: Legends - Suzuki Pack 2026 | 427520 | [427520-mx-vs-atv-legends-suzuki-pack-2026.json](./427520-mx-vs-atv-legends-suzuki-pack-2026.json) |
 | MX vs. ATV: Legends - Throwback Tracks | 271613 | [271613-mx-vs-atv-legends-throwback-tracks.json](./271613-mx-vs-atv-legends-throwback-tracks.json) |
 | MX vs. ATV: Legends - Track Pass 2024 | 302035 | [302035-mx-vs-atv-legends-track-pass-2024.json](./302035-mx-vs-atv-legends-track-pass-2024.json) |
 | MX vs. ATV: Legends - Ultimate Edition | 301777 | [301777-mx-vs-atv-legends-ultimate-edition.json](./301777-mx-vs-atv-legends-ultimate-edition.json) |
@@ -23506,6 +23502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Darling Dark Elf | 426357 | [426357-my-darling-dark-elf.json](./426357-my-darling-dark-elf.json) |
 | My Dating Agency | 307910 | [307910-my-dating-agency.json](./307910-my-dating-agency.json) |
 | My Daughter In Family Ai | 322996 | [322996-my-daughter-in-family-ai.json](./322996-my-daughter-in-family-ai.json) |
+| My Daughter In Family Ai: Outfit DLC 2 | 427522 | [427522-my-daughter-in-family-ai-outfit-dlc-2.json](./427522-my-daughter-in-family-ai-outfit-dlc-2.json) |
 | My Daughter Is A Cultist! | 134156 | [134156-my-daughter-is-a-cultist.json](./134156-my-daughter-is-a-cultist.json) |
 | My Daughter is a Cultist! SE | 273680 | [273680-my-daughter-is-a-cultist-se.json](./273680-my-daughter-is-a-cultist-se.json) |
 | My Day Challenge | 341348 | [341348-my-day-challenge.json](./341348-my-day-challenge.json) |
@@ -24713,7 +24710,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town: Haunted House | 88967 | [88967-my-town-haunted-house.json](./88967-my-town-haunted-house.json) |
 | My Town: Home | 362420 | [362420-my-town-home.json](./362420-my-town-home.json) |
 | My Town: Hospital | 88955 | [88955-my-town-hospital.json](./88955-my-town-hospital.json) |
-| My Town: ICEE Amusement Park | 99320 | [99320-my-town-icee-amusement-park.json](./99320-my-town-icee-amusement-park.json) |
 | My Town: Pets | 88961 | [88961-my-town-pets.json](./88961-my-town-pets.json) |
 | My Town: Police Station | 214319 | [214319-my-town-police-station.json](./214319-my-town-police-station.json) |
 | My Town: Shopping Mall | 88919 | [88919-my-town-shopping-mall.json](./88919-my-town-shopping-mall.json) |
