@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Two Sides | 309133 | [309133-tale-of-two-sides.json](./309133-tale-of-two-sides.json) |
 | Tale of Witch's Heart | 217047 | [217047-tale-of-witchs-heart.json](./217047-tale-of-witchs-heart.json) |
 | Tale of Wuxia | 58616 | [58616-tale-of-wuxia.json](./58616-tale-of-wuxia.json) |
+| Tale of Wuxia | 90481 | [90481-tale-of-wuxia.json](./90481-tale-of-wuxia.json) |
 | Tale of Wuxia: The Pre-Sequel | 83832 | [83832-tale-of-wuxia-the-pre-sequel.json](./83832-tale-of-wuxia-the-pre-sequel.json) |
 | Tale of Wuxia: The Pre-Sequel - The Way to Nether | 168201 | [168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json](./168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json) |
 | Tale Sweeper | 430464 | [430464-tale-sweeper.json](./430464-tale-sweeper.json) |
@@ -2838,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tardiness Girl | 360198 | [360198-tardiness-girl.json](./360198-tardiness-girl.json) |
 | Tardis Tennis | 235322 | [235322-tardis-tennis.json](./235322-tardis-tennis.json) |
 | Tardy | 421284 | [421284-tardy.json](./421284-tardy.json) |
+| Tardy | 90143 | [90143-tardy.json](./90143-tardy.json) |
 | Taregoro: Tarepanda no Iru Nichijou | 98164 | [98164-taregoro-tarepanda-no-iru-nichijou.json](./98164-taregoro-tarepanda-no-iru-nichijou.json) |
 | Tarek | 149491 | [149491-tarek.json](./149491-tarek.json) |
 | Tarepanda no Gunpey | 37476 | [37476-tarepanda-no-gunpey.json](./37476-tarepanda-no-gunpey.json) |
@@ -19641,6 +19643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snow Queen is Uncool | 283000 | [283000-the-snow-queen-is-uncool.json](./283000-the-snow-queen-is-uncool.json) |
 | The Snow Queen Quest | 43560 | [43560-the-snow-queen-quest.json](./43560-the-snow-queen-quest.json) |
 | The Snow Reach | 266805 | [266805-the-snow-reach.json](./266805-the-snow-reach.json) |
+| The Snowboard Game | 90262 | [90262-the-snowboard-game.json](./90262-the-snowboard-game.json) |
 | The Snowfield | 144323 | [144323-the-snowfield.json](./144323-the-snowfield.json) |
 | The Snowman | 275641 | [275641-the-snowman.json](./275641-the-snowman.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
@@ -20729,6 +20732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of Archeos | 287318 | [287318-the-tower-of-archeos.json](./287318-the-tower-of-archeos.json) |
 | The Tower of Babel | 363809 | [363809-the-tower-of-babel.json](./363809-the-tower-of-babel.json) |
 | The Tower Of Babel | 285794 | [285794-the-tower-of-babel.json](./285794-the-tower-of-babel.json) |
+| The Tower of Beatrice | 90417 | [90417-the-tower-of-beatrice.json](./90417-the-tower-of-beatrice.json) |
 | The Tower of Cabin: Cabin Panic | 92139 | [92139-the-tower-of-cabin-cabin-panic.json](./92139-the-tower-of-cabin-cabin-panic.json) |
 | The Tower of Druaga | 239167 | [239167-the-tower-of-druaga.json](./239167-the-tower-of-druaga.json) |
 | The Tower of Eden | 346153 | [346153-the-tower-of-eden.json](./346153-the-tower-of-eden.json) |
@@ -28051,6 +28055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Other Side of the World | 128812 | [128812-to-the-other-side-of-the-world.json](./128812-to-the-other-side-of-the-world.json) |
 | To the Rescue | 359443 | [359443-to-the-rescue.json](./359443-to-the-rescue.json) |
 | To The Rescue | 346184 | [346184-to-the-rescue.json](./346184-to-the-rescue.json) |
+| To the Rescue! | 91306 | [91306-to-the-rescue.json](./91306-to-the-rescue.json) |
 | To the Rescue! 2 | 99379 | [99379-to-the-rescue-2.json](./99379-to-the-rescue-2.json) |
 | To the Rescue! 3 | 96038 | [96038-to-the-rescue-3.json](./96038-to-the-rescue-3.json) |
 | To the Rescue! 4 | 95684 | [95684-to-the-rescue-4.json](./95684-to-the-rescue-4.json) |
@@ -36059,6 +36064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip Troupe | 181547 | [181547-trip-troupe.json](./181547-trip-troupe.json) |
 | Trip World | 6549 | [6549-trip-world.json](./6549-trip-world.json) |
 | Trip World DX | 263533 | [263533-trip-world-dx.json](./263533-trip-world-dx.json) |
+| Trip: Steam Edition | 90608 | [90608-trip-steam-edition.json](./90608-trip-steam-edition.json) |
 | Trip'd | 4299 | [4299-tripd.json](./4299-tripd.json) |
 | Trip's Voyage: Gem Rush | 309122 | [309122-trips-voyage-gem-rush.json](./309122-trips-voyage-gem-rush.json) |
 | TriPeaks | 282148 | [282148-tripeaks.json](./282148-tripeaks.json) |
