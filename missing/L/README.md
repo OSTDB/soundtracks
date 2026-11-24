@@ -2499,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League Manager 2022 | 188979 | [188979-league-manager-2022.json](./188979-league-manager-2022.json) |
 | League Manager 2023 | 235696 | [235696-league-manager-2023.json](./235696-league-manager-2023.json) |
 | League of Abyss | 312573 | [312573-league-of-abyss.json](./312573-league-of-abyss.json) |
+| League of Angels | 23610 | [23610-league-of-angels.json](./23610-league-of-angels.json) |
 | League of Angels - Fire Raiders | 22706 | [22706-league-of-angels-fire-raiders.json](./22706-league-of-angels-fire-raiders.json) |
 | League of Angels II | 21603 | [21603-league-of-angels-ii.json](./21603-league-of-angels-ii.json) |
 | League of Angels III | 112047 | [112047-league-of-angels-iii.json](./112047-league-of-angels-iii.json) |
@@ -3133,6 +3134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Scheherazade: Golden Empire | 214886 | [214886-legend-of-scheherazade-golden-empire.json](./214886-legend-of-scheherazade-golden-empire.json) |
 | Legend of Serigel | 180648 | [180648-legend-of-serigel.json](./180648-legend-of-serigel.json) |
 | Legend of Shadow | 403147 | [403147-legend-of-shadow.json](./403147-legend-of-shadow.json) |
+| Legend of Silkroad | 23625 | [23625-legend-of-silkroad.json](./23625-legend-of-silkroad.json) |
 | Legend of Slime: Idle RPG | 237529 | [237529-legend-of-slime-idle-rpg.json](./237529-legend-of-slime-idle-rpg.json) |
 | Legend of Snake | 215645 | [215645-legend-of-snake.json](./215645-legend-of-snake.json) |
 | Legend of Solgard | 107153 | [107153-legend-of-solgard.json](./107153-legend-of-solgard.json) |
