@@ -4694,6 +4694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Two Foxes | 190781 | [190781-adventures-of-two-foxes.json](./190781-adventures-of-two-foxes.json) |
 | Adventures Of Willy Dickhard | 385695 | [385695-adventures-of-willy-dickhard.json](./385695-adventures-of-willy-dickhard.json) |
 | Adventures of Yogi Bear | 8010 | [8010-adventures-of-yogi-bear.json](./8010-adventures-of-yogi-bear.json) |
+| Adventures on The Polluted Islands | 27721 | [27721-adventures-on-the-polluted-islands.json](./27721-adventures-on-the-polluted-islands.json) |
 | Adventures Through McDonaldland | 133595 | [133595-adventures-through-mcdonaldland.json](./133595-adventures-through-mcdonaldland.json) |
 | Adventures to Go | 274849 | [274849-adventures-to-go.json](./274849-adventures-to-go.json) |
 | Adventures to Go! | 46016 | [46016-adventures-to-go.json](./46016-adventures-to-go.json) |
@@ -12829,6 +12830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anorak City | 308468 | [308468-anorak-city.json](./308468-anorak-city.json) |
 | Anord | 136541 | [136541-anord.json](./136541-anord.json) |
 | Anosognosia | 398584 | [398584-anosognosia.json](./398584-anosognosia.json) |
+| Another Adventure | 27776 | [27776-another-adventure.json](./27776-another-adventure.json) |
 | Another Adventure in NSMBU | 261013 | [261013-another-adventure-in-nsmbu.json](./261013-another-adventure-in-nsmbu.json) |
 | Another Apocalypse | 133742 | [133742-another-apocalypse.json](./133742-another-apocalypse.json) |
 | Another Apocalypse II: Dual Pagan | 420981 | [420981-another-apocalypse-ii-dual-pagan.json](./420981-another-apocalypse-ii-dual-pagan.json) |
