@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MabinoB G2 | 97515 | [97515-mabinob-g2.json](./97515-mabinob-g2.json) |
 | MabinoB G3 | 109188 | [109188-mabinob-g3.json](./109188-mabinob-g3.json) |
 | Mabinogi | 21492 | [21492-mabinogi.json](./21492-mabinogi.json) |
+| Mabinogi Duel | 23653 | [23653-mabinogi-duel.json](./23653-mabinogi-duel.json) |
 | Mabinogi II: Arena | 100551 | [100551-mabinogi-ii-arena.json](./100551-mabinogi-ii-arena.json) |
 | Mabinogi Mobile | 188377 | [188377-mabinogi-mobile.json](./188377-mabinogi-mobile.json) |
 | Maboroshi Caravan | 225197 | [225197-maboroshi-caravan.json](./225197-maboroshi-caravan.json) |
