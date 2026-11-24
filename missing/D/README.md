@@ -2528,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness and Flame: Born of Fire - Collector's Edition | 417842 | [417842-darkness-and-flame-born-of-fire-collectors-edition.json](./417842-darkness-and-flame-born-of-fire-collectors-edition.json) |
 | Darkness and Flame: Enemy in Reflection | 127207 | [127207-darkness-and-flame-enemy-in-reflection.json](./127207-darkness-and-flame-enemy-in-reflection.json) |
 | Darkness and Flame: Enemy in Reflection - Collector's Edition | 417843 | [417843-darkness-and-flame-enemy-in-reflection-collectors-edition.json](./417843-darkness-and-flame-enemy-in-reflection-collectors-edition.json) |
+| Darkness and Flame: Missing Memories | 75079 | [75079-darkness-and-flame-missing-memories.json](./75079-darkness-and-flame-missing-memories.json) |
 | Darkness and Flame: Missing Memories - Collector's Edition | 417844 | [417844-darkness-and-flame-missing-memories-collectors-edition.json](./417844-darkness-and-flame-missing-memories-collectors-edition.json) |
 | Darkness and Flame: The Dark Side - Collector's Edition | 417845 | [417845-darkness-and-flame-the-dark-side-collectors-edition.json](./417845-darkness-and-flame-the-dark-side-collectors-edition.json) |
 | Darkness and Light | 159152 | [159152-darkness-and-light.json](./159152-darkness-and-light.json) |
@@ -11705,6 +11706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disappeared | 348120 | [348120-disappeared.json](./348120-disappeared.json) |
 | Disarmed | 158866 | [158866-disarmed.json](./158866-disarmed.json) |
 | Disassembled | 55404 | [55404-disassembled.json](./55404-disassembled.json) |
+| Disassembly 3D | 75660 | [75660-disassembly-3d.json](./75660-disassembly-3d.json) |
 | Disassembly Line | 77161 | [77161-disassembly-line.json](./77161-disassembly-line.json) |
 | Disaster | 186809 | [186809-disaster.json](./186809-disaster.json) |
 | Disaster Area | 236283 | [236283-disaster-area.json](./236283-disaster-area.json) |
@@ -14694,6 +14696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Shoot Us | 274908 | [274908-dont-shoot-us.json](./274908-dont-shoot-us.json) |
 | Don't Shoot Yourself! | 36152 | [36152-dont-shoot-yourself.json](./36152-dont-shoot-yourself.json) |
 | Don't Shout Together | 276238 | [276238-dont-shout-together.json](./276238-dont-shout-together.json) |
+| Don't Sink | 75173 | [75173-dont-sink.json](./75173-dont-sink.json) |
 | Don't Skip The Beat | 398706 | [398706-dont-skip-the-beat.json](./398706-dont-skip-the-beat.json) |
 | Don't Sleep | 343400 | [343400-dont-sleep.json](./343400-dont-sleep.json) |
 | Don’t Sleep with the Fishes | 403674 | [403674-don-t-sleep-with-the-fishes.json](./403674-don-t-sleep-with-the-fishes.json) |
@@ -15890,6 +15893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Arcade | 59290 | [59290-dot-arcade.json](./59290-dot-arcade.json) |
 | Dot Art Logic | 386990 | [386990-dot-art-logic.json](./386990-dot-art-logic.json) |
 | Dot Artist | 56248 | [56248-dot-artist.json](./56248-dot-artist.json) |
+| Dot Big Bang | 74797 | [74797-dot-big-bang.json](./74797-dot-big-bang.json) |
 | Dot Blocks! | 103853 | [103853-dot-blocks.json](./103853-dot-blocks.json) |
 | Dot Brain | 238985 | [238985-dot-brain.json](./238985-dot-brain.json) |
 | Dot by Dot+ | 19383 | [19383-dot-by-dot.json](./19383-dot-by-dot.json) |
