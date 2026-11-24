@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoli | 172883 | [172883-yoli.json](./172883-yoli.json) |
 | Yolk & Yonder | 420880 | [420880-yolk-and-yonder.json](./420880-yolk-and-yonder.json) |
 | Yolk Heroes: A Long Tamago | 250985 | [250985-yolk-heroes-a-long-tamago.json](./250985-yolk-heroes-a-long-tamago.json) |
+| Yolk of Duty: Classic | 430825 | [430825-yolk-of-duty-classic.json](./430825-yolk-of-duty-classic.json) |
 | Yolka | 172281 | [172281-yolka.json](./172281-yolka.json) |
 | Yolked | 178292 | [178292-yolked.json](./178292-yolked.json) |
 | Yollen | 348698 | [348698-yollen.json](./348698-yollen.json) |
@@ -2276,7 +2277,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yummimons | 363015 | [363015-yummimons.json](./363015-yummimons.json) |
 | Yummy | 156590 | [156590-yummy.json](./156590-yummy.json) |
 | Yummy | 246375 | [246375-yummy.json](./246375-yummy.json) |
-| Yummy Cubes | 100342 | [100342-yummy-cubes.json](./100342-yummy-cubes.json) |
 | Yummy Drink Factory | 295930 | [295930-yummy-drink-factory.json](./295930-yummy-drink-factory.json) |
 | Yummy Girl | 147537 | [147537-yummy-girl.json](./147537-yummy-girl.json) |
 | Yummy Girl 2 | 195243 | [195243-yummy-girl-2.json](./195243-yummy-girl-2.json) |
