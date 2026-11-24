@@ -2427,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon A Life | 115656 | [115656-once-upon-a-life.json](./115656-once-upon-a-life.json) |
 | Once Upon a Mind: A Little Too Friendly | 340331 | [340331-once-upon-a-mind-a-little-too-friendly.json](./340331-once-upon-a-mind-a-little-too-friendly.json) |
 | Once Upon A Plague | 184565 | [184565-once-upon-a-plague.json](./184565-once-upon-a-plague.json) |
+| Once Upon a Puppet | 74771 | [74771-once-upon-a-puppet.json](./74771-once-upon-a-puppet.json) |
 | Once Upon A Puppet: Backstage Edition | 342235 | [342235-once-upon-a-puppet-backstage-edition.json](./342235-once-upon-a-puppet-backstage-edition.json) |
 | Once Upon a Rogue's Tale | 273787 | [273787-once-upon-a-rogues-tale.json](./273787-once-upon-a-rogues-tale.json) |
 | Once Upon a Runner | 41484 | [41484-once-upon-a-runner.json](./41484-once-upon-a-runner.json) |
@@ -3934,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Abyss: New Tokyo Legacy - Limited Edition | 89916 | [89916-operation-abyss-new-tokyo-legacy-limited-edition.json](./89916-operation-abyss-new-tokyo-legacy-limited-edition.json) |
 | Operation Air Assault 2 | 25507 | [25507-operation-air-assault-2.json](./25507-operation-air-assault-2.json) |
 | Operation Airsoft | 146587 | [146587-operation-airsoft.json](./146587-operation-airsoft.json) |
+| Operation Apex | 75498 | [75498-operation-apex.json](./75498-operation-apex.json) |
 | Operation Apocalypse | 23991 | [23991-operation-apocalypse.json](./23991-operation-apocalypse.json) |
 | Operation Area 51 | 123694 | [123694-operation-area-51.json](./123694-operation-area-51.json) |
 | Operation Armstrong | 125668 | [125668-operation-armstrong.json](./125668-operation-armstrong.json) |
@@ -4171,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oppai Puzzle L | 209481 | [209481-oppai-puzzle-l.json](./209481-oppai-puzzle-l.json) |
 | Oppai Render | 385256 | [385256-oppai-render.json](./385256-oppai-render.json) |
 | Oppaidius Desert Island! | 149435 | [149435-oppaidius-desert-island.json](./149435-oppaidius-desert-island.json) |
+| Oppaidius Summer Trouble! | 75040 | [75040-oppaidius-summer-trouble.json](./75040-oppaidius-summer-trouble.json) |
 | Oppaidius Tropical Cruise! | 126641 | [126641-oppaidius-tropical-cruise.json](./126641-oppaidius-tropical-cruise.json) |
 | Oppcium | 189327 | [189327-oppcium.json](./189327-oppcium.json) |
 | Oppidum | 256927 | [256927-oppidum.json](./256927-oppidum.json) |
