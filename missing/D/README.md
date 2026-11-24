@@ -9659,6 +9659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexter's Lab: Dee Dee's Moon Squad | 203085 | [203085-dexters-lab-dee-dees-moon-squad.json](./203085-dexters-lab-dee-dees-moon-squad.json) |
 | Dexter's Lab: Dexter's Bubble Juggle | 241119 | [241119-dexters-lab-dexters-bubble-juggle.json](./241119-dexters-lab-dexters-bubble-juggle.json) |
 | Dexter's Lab: Red Eye Fight | 241120 | [241120-dexters-lab-red-eye-fight.json](./241120-dexters-lab-red-eye-fight.json) |
+| Dexter's Laboratory Security Alert! | 23608 | [23608-dexters-laboratory-security-alert.json](./23608-dexters-laboratory-security-alert.json) |
 | Dexter's Laboratory: Chess Challenge | 6373 | [6373-dexters-laboratory-chess-challenge.json](./6373-dexters-laboratory-chess-challenge.json) |
 | Dexter's Laboratory: Deesaster Strikes! | 2813 | [2813-dexters-laboratory-deesaster-strikes.json](./2813-dexters-laboratory-deesaster-strikes.json) |
 | Dexter's Laboratory: Mandark's Lab? | 2814 | [2814-dexters-laboratory-mandarks-lab.json](./2814-dexters-laboratory-mandarks-lab.json) |
@@ -17003,6 +17004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Arena | 392911 | [392911-dragon-arena.json](./392911-dragon-arena.json) |
 | Dragon Arise | 252959 | [252959-dragon-arise.json](./252959-dragon-arise.json) |
 | Dragon Assault | 360148 | [360148-dragon-assault.json](./360148-dragon-assault.json) |
+| Dragon Atlas | 23635 | [23635-dragon-atlas.json](./23635-dragon-atlas.json) |
 | Dragon Attack | 137784 | [137784-dragon-attack.json](./137784-dragon-attack.json) |
 | Dragon Attack Mythologies: A Night Wolf Revenge | 333257 | [333257-dragon-attack-mythologies-a-night-wolf-revenge.json](./333257-dragon-attack-mythologies-a-night-wolf-revenge.json) |
 | Dragon Audit | 103589 | [103589-dragon-audit.json](./103589-dragon-audit.json) |
@@ -17503,6 +17505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon of Saiyu | 271383 | [271383-dragon-of-saiyu.json](./271383-dragon-of-saiyu.json) |
 | Dragon of Steelthorne | 287753 | [287753-dragon-of-steelthorne.json](./287753-dragon-of-steelthorne.json) |
 | Dragon Orb | 76334 | [76334-dragon-orb.json](./76334-dragon-orb.json) |
+| Dragon Pals | 23591 | [23591-dragon-pals.json](./23591-dragon-pals.json) |
 | Dragon Peak | 147837 | [147837-dragon-peak.json](./147837-dragon-peak.json) |
 | Dragon Perception | 74474 | [74474-dragon-perception.json](./74474-dragon-perception.json) |
 | Dragon Pet | 322163 | [322163-dragon-pet.json](./322163-dragon-pet.json) |
@@ -20702,6 +20705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem Forever: Restoration Project | 261103 | [261103-duke-nukem-forever-restoration-project.json](./261103-duke-nukem-forever-restoration-project.json) |
 | Duke Nukem II Remastered | 252067 | [252067-duke-nukem-ii-remastered.json](./252067-duke-nukem-ii-remastered.json) |
 | Duke Nukem Is 007 | 273161 | [273161-duke-nukem-is-007.json](./273161-duke-nukem-is-007.json) |
+| Duke Nukem Mobile | 23557 | [23557-duke-nukem-mobile.json](./23557-duke-nukem-mobile.json) |
 | Duke Nukem Quake | 274265 | [274265-duke-nukem-quake.json](./274265-duke-nukem-quake.json) |
 | Duke Nukem Remastered | 252066 | [252066-duke-nukem-remastered.json](./252066-duke-nukem-remastered.json) |
 | Duke Nukem Trilogy: Chain Reaction | 69326 | [69326-duke-nukem-trilogy-chain-reaction.json](./69326-duke-nukem-trilogy-chain-reaction.json) |
