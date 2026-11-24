@@ -771,7 +771,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Zomboarding | 391973 | [391973-radical-zomboarding.json](./391973-radical-zomboarding.json) |
 | Radicorn | 293225 | [293225-radicorn.json](./293225-radicorn.json) |
 | Radii | 211146 | [211146-radii.json](./211146-radii.json) |
-| Radiis | 104856 | [104856-radiis.json](./104856-radiis.json) |
 | Radikal Bikers | 221942 | [221942-radikal-bikers.json](./221942-radikal-bikers.json) |
 | Radikal Bikers | 287905 | [287905-radikal-bikers.json](./287905-radikal-bikers.json) |
 | Radikal Bikers | 44801 | [44801-radikal-bikers.json](./44801-radikal-bikers.json) |
@@ -1522,7 +1521,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Cave Raid | 214860 | [214860-rainbow-cave-raid.json](./214860-rainbow-cave-raid.json) |
 | Rainbow City | 184571 | [184571-rainbow-city.json](./184571-rainbow-city.json) |
 | Rainbow Cloud: A Gay RPG | 347978 | [347978-rainbow-cloud-a-gay-rpg.json](./347978-rainbow-cloud-a-gay-rpg.json) |
-| Rainbow Color by Number | 100799 | [100799-rainbow-color-by-number.json](./100799-rainbow-color-by-number.json) |
 | Rainbow Cotton | 294800 | [294800-rainbow-cotton.json](./294800-rainbow-cotton.json) |
 | Rainbow Cotton | 46368 | [46368-rainbow-cotton.json](./46368-rainbow-cotton.json) |
 | Rainbow Cream Saga | 262825 | [262825-rainbow-cream-saga.json](./262825-rainbow-cream-saga.json) |
@@ -1679,7 +1677,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy Day | 341312 | [341312-rainy-day.json](./341312-rainy-day.json) |
 | Rainy Day | 369229 | [369229-rainy-day.json](./369229-rainy-day.json) |
 | Rainy Day Games | 267213 | [267213-rainy-day-games.json](./267213-rainy-day-games.json) |
-| Rainy Day Racer | 104049 | [104049-rainy-day-racer.json](./104049-rainy-day-racer.json) |
 | Rainy Day Roommate | 158168 | [158168-rainy-day-roommate.json](./158168-rainy-day-roommate.json) |
 | Rainy Day Spider Solitaire | 366447 | [366447-rainy-day-spider-solitaire.json](./366447-rainy-day-spider-solitaire.json) |
 | Rainy Day Spider Solitaire HD | 354996 | [354996-rainy-day-spider-solitaire-hd.json](./354996-rainy-day-spider-solitaire-hd.json) |
@@ -1732,7 +1729,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rake | 34836 | [34836-rake.json](./34836-rake.json) |
 | Rake | 353765 | [353765-rake.json](./353765-rake.json) |
 | Rake In: Scoring Big With Monster Girls! | 350892 | [350892-rake-in-scoring-big-with-monster-girls.json](./350892-rake-in-scoring-big-with-monster-girls.json) |
-| Rake Monster Hunter | 100840 | [100840-rake-monster-hunter.json](./100840-rake-monster-hunter.json) |
 | Rake Remastered | 267007 | [267007-rake-remastered.json](./267007-rake-remastered.json) |
 | Rakeo | 301679 | [301679-rakeo.json](./301679-rakeo.json) |
 | Rakete | 134897 | [134897-rakete.json](./134897-rakete.json) |
@@ -3339,7 +3335,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Car Drift Sim | 99852 | [99852-real-car-drift-sim.json](./99852-real-car-drift-sim.json) |
 | Real Car Driving | 219458 | [219458-real-car-driving.json](./219458-real-car-driving.json) |
 | Real Car Market Simulator Together | 407348 | [407348-real-car-market-simulator-together.json](./407348-real-car-market-simulator-together.json) |
-| Real Car Parking 2 : Driving School 2018 | 101092 | [101092-real-car-parking-2-driving-school-2018.json](./101092-real-car-parking-2-driving-school-2018.json) |
 | Real Car Parking 2024: Driving Simulator | 275447 | [275447-real-car-parking-2024-driving-simulator.json](./275447-real-car-parking-2024-driving-simulator.json) |
 | Real Car Parking 3D | 256436 | [256436-real-car-parking-3d.json](./256436-real-car-parking-3d.json) |
 | Real Car Parking Master | 256135 | [256135-real-car-parking-master.json](./256135-real-car-parking-master.json) |
@@ -3350,7 +3345,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real City Car Driving Sim 2017 | 88878 | [88878-real-city-car-driving-sim-2017.json](./88878-real-city-car-driving-sim-2017.json) |
 | Real Coaster | 227553 | [227553-real-coaster.json](./227553-real-coaster.json) |
 | Real Communism | 273963 | [273963-real-communism.json](./273963-real-communism.json) |
-| Real Craft: City Builder | 101382 | [101382-real-craft-city-builder.json](./101382-real-craft-city-builder.json) |
 | Real Cricket '14 | 61198 | [61198-real-cricket-14.json](./61198-real-cricket-14.json) |
 | Real Cricket 20 | 202113 | [202113-real-cricket-20.json](./202113-real-cricket-20.json) |
 | Real Cricket 22 | 202192 | [202192-real-cricket-22.json](./202192-real-cricket-22.json) |
@@ -3510,7 +3504,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Truck Simulator 2022 | 219283 | [219283-real-truck-simulator-2022.json](./219283-real-truck-simulator-2022.json) |
 | Real Truck Simulator USA & Ultimate 4x4 Offroad & Real Car Driving Simulator Bundle | 385130 | [385130-real-truck-simulator-usa-and-ultimate-4x4-offroad-and-real-car-driving-simulator-bundle.json](./385130-real-truck-simulator-usa-and-ultimate-4x4-offroad-and-real-car-driving-simulator-bundle.json) |
 | Real Truck Simulator USA Car Games: Premium Millionaire Bundle | 328989 | [328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json](./328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json) |
-| Real Turbo Racing | 100797 | [100797-real-turbo-racing.json](./100797-real-turbo-racing.json) |
 | Real Turmoil | 302408 | [302408-real-turmoil.json](./302408-real-turmoil.json) |
 | Real Vampires | 351402 | [351402-real-vampires.json](./351402-real-vampires.json) |
 | Real Video Blackjack | 79462 | [79462-real-video-blackjack.json](./79462-real-video-blackjack.json) |
@@ -4662,7 +4655,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Rope: Don't Fall Behind | 21633 | [21633-red-rope-dont-fall-behind.json](./21633-red-rope-dont-fall-behind.json) |
 | Red Rope: Don't Fall Behind + | 147950 | [147950-red-rope-dont-fall-behind.json](./147950-red-rope-dont-fall-behind.json) |
 | Red Rose Rising | 102202 | [102202-red-rose-rising.json](./102202-red-rose-rising.json) |
-| Red Rover | 103255 | [103255-red-rover.json](./103255-red-rover.json) |
 | Red Ruin | 120826 | [120826-red-ruin.json](./120826-red-ruin.json) |
 | Red Ruins | 304466 | [304466-red-ruins.json](./304466-red-ruins.json) |
 | Red Runner | 184938 | [184938-red-runner.json](./184938-red-runner.json) |
@@ -5883,7 +5875,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remy Raccoon and the Lost Temple: Festive Frolics - Volume 2 | 393592 | [393592-remy-raccoon-and-the-lost-temple-festive-frolics-volume-2.json](./393592-remy-raccoon-and-the-lost-temple-festive-frolics-volume-2.json) |
 | Remy Raccoon and the Lost Temple: Halloween Hijinks - Volume 1 | 393590 | [393590-remy-raccoon-and-the-lost-temple-halloween-hijinks-volume-1.json](./393590-remy-raccoon-and-the-lost-temple-halloween-hijinks-volume-1.json) |
 | Remy Raccoon and the Lost Temple: Halloween Hijinks - Volume 2 | 220486 | [220486-remy-raccoon-and-the-lost-temple-halloween-hijinks-volume-2.json](./220486-remy-raccoon-and-the-lost-temple-halloween-hijinks-volume-2.json) |
-| Remyadry | 104873 | [104873-remyadry.json](./104873-remyadry.json) |
 | Ren & Stimpy Happy, Happy, Joy, Joy Collection | 387373 | [387373-ren-and-stimpy-happy-happy-joy-joy-collection.json](./387373-ren-and-stimpy-happy-happy-joy-joy-collection.json) |
 | Ren & Stimpy: Match-Master | 273881 | [273881-ren-and-stimpy-match-master.json](./273881-ren-and-stimpy-match-master.json) |
 | Rén Líng Shìwùsuǒ: Yī Chǎng Kěyǐ Wǎnjiù de Bēijù | 316964 | [316964-ren-ling-shiwusuo-yi-chang-keyi-wanjiu-de-beiju.json](./316964-ren-ling-shiwusuo-yi-chang-keyi-wanjiu-de-beiju.json) |
@@ -7452,7 +7443,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge Crystal | 278401 | [278401-revenge-crystal.json](./278401-revenge-crystal.json) |
 | Revenge II | 281240 | [281240-revenge-ii.json](./281240-revenge-ii.json) |
 | Revenge Master | 200427 | [200427-revenge-master.json](./200427-revenge-master.json) |
-| Revenge of Anubis: Pyramid Adventure | 101436 | [101436-revenge-of-anubis-pyramid-adventure.json](./101436-revenge-of-anubis-pyramid-adventure.json) |
 | Revenge of Banana | 271928 | [271928-revenge-of-banana.json](./271928-revenge-of-banana.json) |
 | Revenge of Black Bone | 311904 | [311904-revenge-of-black-bone.json](./311904-revenge-of-black-bone.json) |
 | Revenge of Chickens | 261589 | [261589-revenge-of-chickens.json](./261589-revenge-of-chickens.json) |
@@ -8186,7 +8176,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richman Online | 125441 | [125441-richman-online.json](./125441-richman-online.json) |
 | Richman: Clasic | 328434 | [328434-richman-clasic.json](./328434-richman-clasic.json) |
 | Richup.io | 141249 | [141249-richup-io.json](./141249-richup-io.json) |
-| Richy's Nightmares | 104955 | [104955-richys-nightmares.json](./104955-richys-nightmares.json) |
 | Rick and Josh adventures | 195620 | [195620-rick-and-josh-adventures.json](./195620-rick-and-josh-adventures.json) |
 | Rick and Morty Game | 307573 | [307573-rick-and-morty-game.json](./307573-rick-and-morty-game.json) |
 | Rick and Morty Presents: Jerry's Game | 74299 | [74299-rick-and-morty-presents-jerrys-game.json](./74299-rick-and-morty-presents-jerrys-game.json) |
@@ -10822,7 +10811,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Buddies | 410356 | [410356-rocket-buddies.json](./410356-rocket-buddies.json) |
 | Rocket Bunnies | 208387 | [208387-rocket-bunnies.json](./208387-rocket-bunnies.json) |
 | Rocket Bytes | 212298 | [212298-rocket-bytes.json](./212298-rocket-bytes.json) |
-| Rocket Car Ball | 100863 | [100863-rocket-car-ball.json](./100863-rocket-car-ball.json) |
 | Rocket Car: Ultimate Ball League Machines | 260477 | [260477-rocket-car-ultimate-ball-league-machines.json](./260477-rocket-car-ultimate-ball-league-machines.json) |
 | Rocket Car: Ultimate Ball League Machines - Premium Edition | 306523 | [306523-rocket-car-ultimate-ball-league-machines-premium-edition.json](./306523-rocket-car-ultimate-ball-league-machines-premium-edition.json) |
 | Rocket Car: Wheel Rim Collection | 304815 | [304815-rocket-car-wheel-rim-collection.json](./304815-rocket-car-wheel-rim-collection.json) |
@@ -11725,7 +11713,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguebot | 248814 | [248814-roguebot.json](./248814-roguebot.json) |
 | Roguebots Arena | 350504 | [350504-roguebots-arena.json](./350504-roguebots-arena.json) |
 | Roguebound Pirates | 365092 | [365092-roguebound-pirates.json](./365092-roguebound-pirates.json) |
-| Roguebreaker | 103413 | [103413-roguebreaker.json](./103413-roguebreaker.json) |
 | RogueCards | 311620 | [311620-roguecards.json](./311620-roguecards.json) |
 | RogueClick | 192352 | [192352-rogueclick.json](./192352-rogueclick.json) |
 | Roguecraft | 315735 | [315735-roguecraft.json](./315735-roguecraft.json) |
@@ -12008,7 +11995,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollercoaster Creator | 337202 | [337202-rollercoaster-creator.json](./337202-rollercoaster-creator.json) |
 | Rollercoaster Dash | 104460 | [104460-rollercoaster-dash.json](./104460-rollercoaster-dash.json) |
 | RollerCoaster Legends | 76932 | [76932-rollercoaster-legends.json](./76932-rollercoaster-legends.json) |
-| RollerCoaster Legends II: Thor's Hammer | 102340 | [102340-rollercoaster-legends-ii-thors-hammer.json](./102340-rollercoaster-legends-ii-thors-hammer.json) |
 | Rollercoaster Mechanic | 132624 | [132624-rollercoaster-mechanic.json](./132624-rollercoaster-mechanic.json) |
 | Rollercoaster Rush | 133915 | [133915-rollercoaster-rush.json](./133915-rollercoaster-rush.json) |
 | Rollercoaster Rush 3D | 133914 | [133914-rollercoaster-rush-3d.json](./133914-rollercoaster-rush-3d.json) |
@@ -12105,7 +12091,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Hero | 404338 | [404338-rolling-hero.json](./404338-rolling-hero.json) |
 | Rolling Hills: Make Sushi, Make Friends | 129621 | [129621-rolling-hills-make-sushi-make-friends.json](./129621-rolling-hills-make-sushi-make-friends.json) |
 | Rolling in the Maze | 286498 | [286498-rolling-in-the-maze.json](./286498-rolling-in-the-maze.json) |
-| Rolling in the Reef | 104908 | [104908-rolling-in-the-reef.json](./104908-rolling-in-the-reef.json) |
 | Rolling in the Sheepe | 201119 | [201119-rolling-in-the-sheepe.json](./201119-rolling-in-the-sheepe.json) |
 | Rolling Jump | 269339 | [269339-rolling-jump.json](./269339-rolling-jump.json) |
 | Rolling Lee | 303040 | [303040-rolling-lee.json](./303040-rolling-lee.json) |
@@ -12332,7 +12317,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romancing Flesh | 199074 | [199074-romancing-flesh.json](./199074-romancing-flesh.json) |
 | Romancing Kanon: Eien no Shoujo Densetsu | 183117 | [183117-romancing-kanon-eien-no-shoujo-densetsu.json](./183117-romancing-kanon-eien-no-shoujo-densetsu.json) |
 | Romancing Mario | 268107 | [268107-romancing-mario.json](./268107-romancing-mario.json) |
-| Romancing Monarchy | 105137 | [105137-romancing-monarchy.json](./105137-romancing-monarchy.json) |
 | Romancing of Heroes: Boys' Side | 180406 | [180406-romancing-of-heroes-boys-side.json](./180406-romancing-of-heroes-boys-side.json) |
 | Romancing SaGa | 141296 | [141296-romancing-saga.json](./141296-romancing-saga.json) |
 | Romancing SaGa 3 | 11313 | [11313-romancing-saga-3.json](./11313-romancing-saga-3.json) |
@@ -13450,7 +13434,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Fighter League | 30700 | [30700-rpg-fighter-league.json](./30700-rpg-fighter-league.json) |
 | RPG Fitness VR | 388900 | [388900-rpg-fitness-vr.json](./388900-rpg-fitness-vr.json) |
 | RPG Golf with Vampires | 263759 | [263759-rpg-golf-with-vampires.json](./263759-rpg-golf-with-vampires.json) |
-| RPG Heirs of the Kings | 100821 | [100821-rpg-heirs-of-the-kings.json](./100821-rpg-heirs-of-the-kings.json) |
 | RPG Idle | 169796 | [169796-rpg-idle.json](./169796-rpg-idle.json) |
 | RPG in a Box | 138519 | [138519-rpg-in-a-box.json](./138519-rpg-in-a-box.json) |
 | RPG Maker | 44972 | [44972-rpg-maker.json](./44972-rpg-maker.json) |
@@ -14650,7 +14633,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Tadpoles | 113013 | [113013-running-tadpoles.json](./113013-running-tadpoles.json) |
 | Running Through a Crypto Mine | 297401 | [297401-running-through-a-crypto-mine.json](./297401-running-through-a-crypto-mine.json) |
 | Running Through Backrooms | 326885 | [326885-running-through-backrooms.json](./326885-running-through-backrooms.json) |
-| Running Through Russia 2 | 104074 | [104074-running-through-russia-2.json](./104074-running-through-russia-2.json) |
 | Running Through The Beat | 270931 | [270931-running-through-the-beat.json](./270931-running-through-the-beat.json) |
 | Running VoltGun | 370115 | [370115-running-voltgun.json](./370115-running-voltgun.json) |
 | Running Vs Chat | 141654 | [141654-running-vs-chat.json](./141654-running-vs-chat.json) |
@@ -14851,7 +14833,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russel's Cookie Eating | 354755 | [354755-russels-cookie-eating.json](./354755-russels-cookie-eating.json) |
 | Russell | 281365 | [281365-russell.json](./281365-russell.json) |
 | Russell's Range | 246793 | [246793-russells-range.json](./246793-russells-range.json) |
-| Russi.a Simulator | 105148 | [105148-russi-a-simulator.json](./105148-russi-a-simulator.json) |
 | Russia | 278304 | [278304-russia.json](./278304-russia.json) |
 | Russia 2055 | 125293 | [125293-russia-2055.json](./125293-russia-2055.json) |
 | Russia Battlegrounds | 105271 | [105271-russia-battlegrounds.json](./105271-russia-battlegrounds.json) |
@@ -14865,7 +14846,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian AYE Race | 86678 | [86678-russian-aye-race.json](./86678-russian-aye-race.json) |
 | Russian bank - card game | 106568 | [106568-russian-bank-card-game.json](./106568-russian-bank-card-game.json) |
 | Russian Car Driver | 30142 | [30142-russian-car-driver.json](./30142-russian-car-driver.json) |
-| Russian Car Driver ZIL 130 | 100915 | [100915-russian-car-driver-zil-130.json](./100915-russian-car-driver-zil-130.json) |
 | Russian Car Driver: UAZ Hunter | 255752 | [255752-russian-car-driver-uaz-hunter.json](./255752-russian-car-driver-uaz-hunter.json) |
 | Russian Cat Simulator | 340814 | [340814-russian-cat-simulator.json](./340814-russian-cat-simulator.json) |
 | Russian City Sim | 154244 | [154244-russian-city-sim.json](./154244-russian-city-sim.json) |
