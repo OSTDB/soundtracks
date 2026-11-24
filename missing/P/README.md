@@ -3697,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrician IV | 7506 | [7506-patrician-iv.json](./7506-patrician-iv.json) |
 | Patrician IV: Gold Edition | 53454 | [53454-patrician-iv-gold-edition.json](./53454-patrician-iv-gold-edition.json) |
 | Patrician IV: Rise of a Dynasty | 10689 | [10689-patrician-iv-rise-of-a-dynasty.json](./10689-patrician-iv-rise-of-a-dynasty.json) |
+| Patrician IV: Steam Special Edition | 90478 | [90478-patrician-iv-steam-special-edition.json](./90478-patrician-iv-steam-special-edition.json) |
 | Patricide | 366246 | [366246-patricide.json](./366246-patricide.json) |
 | Patrick | 135836 | [135836-patrick.json](./135836-patrick.json) |
 | Patrick and the Maze | 245705 | [245705-patrick-and-the-maze.json](./245705-patrick-and-the-maze.json) |
@@ -7432,6 +7433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piggy Peter's Adventure | 118979 | [118979-piggy-peters-adventure.json](./118979-piggy-peters-adventure.json) |
 | Piggy Piggy: Boom | 251659 | [251659-piggy-piggy-boom.json](./251659-piggy-piggy-boom.json) |
 | Piggy Pile! | 87359 | [87359-piggy-pile.json](./87359-piggy-pile.json) |
+| Piggy Poggy Pog | 75904 | [75904-piggy-poggy-pog.json](./75904-piggy-poggy-pog.json) |
 | Piggy Princess | 33212 | [33212-piggy-princess.json](./33212-piggy-princess.json) |
 | Piggy Punch: Super Crazy Wacky Runner! | 237612 | [237612-piggy-punch-super-crazy-wacky-runner.json](./237612-piggy-punch-super-crazy-wacky-runner.json) |
 | Piggy Run Escape | 226746 | [226746-piggy-run-escape.json](./226746-piggy-run-escape.json) |
@@ -21113,6 +21115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Challenge: Crosswords & More! | 44699 | [44699-puzzle-challenge-crosswords-and-more.json](./44699-puzzle-challenge-crosswords-and-more.json) |
 | Puzzle Challenge: Crosswords and More | 5112 | [5112-puzzle-challenge-crosswords-and-more.json](./5112-puzzle-challenge-crosswords-and-more.json) |
 | Puzzle Challengers | 161702 | [161702-puzzle-challengers.json](./161702-puzzle-challengers.json) |
+| Puzzle Chambers | 75620 | [75620-puzzle-chambers.json](./75620-puzzle-chambers.json) |
 | Puzzle Champions | 213271 | [213271-puzzle-champions.json](./213271-puzzle-champions.json) |
 | Puzzle Chasers | 292140 | [292140-puzzle-chasers.json](./292140-puzzle-chasers.json) |
 | Puzzle Checkers: The Rooks | 358030 | [358030-puzzle-checkers-the-rooks.json](./358030-puzzle-checkers-the-rooks.json) |
