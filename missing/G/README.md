@@ -3833,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Georgie and Me | 249083 | [249083-georgie-and-me.json](./249083-georgie-and-me.json) |
 | Georgie-Yolkie | 323693 | [323693-georgie-yolkie.json](./323693-georgie-yolkie.json) |
 | Georgie-Yolkie 64: The Furry Tale | 343932 | [343932-georgie-yolkie-64-the-furry-tale.json](./343932-georgie-yolkie-64-the-furry-tale.json) |
+| Georifters | 114539 | [114539-georifters.json](./114539-georifters.json) |
 | GeoRunner | 311962 | [311962-georunner.json](./311962-georunner.json) |
 | GeoSafari | 85945 | [85945-geosafari.json](./85945-geosafari.json) |
 | GeoSafari: Animals | 79629 | [79629-geosafari-animals.json](./79629-geosafari-animals.json) |
@@ -5975,6 +5976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloriana | 169888 | [169888-gloriana.json](./169888-gloriana.json) |
 | Glorious | 169851 | [169851-glorious.json](./169851-glorious.json) |
 | Glorious Cocktails | 394218 | [394218-glorious-cocktails.json](./394218-glorious-cocktails.json) |
+| Glorious Companions | 113839 | [113839-glorious-companions.json](./113839-glorious-companions.json) |
 | Glorious Dawn | 176179 | [176179-glorious-dawn.json](./176179-glorious-dawn.json) |
 | Glorious Day to Die | 199532 | [199532-glorious-day-to-die.json](./199532-glorious-day-to-die.json) |
 | Glorious Golf | 353445 | [353445-glorious-golf.json](./353445-glorious-golf.json) |
