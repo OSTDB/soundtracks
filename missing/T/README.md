@@ -5015,6 +5015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 2: Judgment Day | 12793 | [12793-terminator-2-judgment-day.json](./12793-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day | 218325 | [218325-terminator-2-judgment-day.json](./218325-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day | 307082 | [307082-terminator-2-judgment-day.json](./307082-terminator-2-judgment-day.json) |
+| Terminator 2: Judgment Day | 45346 | [45346-terminator-2-judgment-day.json](./45346-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day - Chess Wars | 14557 | [14557-terminator-2-judgment-day-chess-wars.json](./14557-terminator-2-judgment-day-chess-wars.json) |
 | Terminator 2: Judgment Game | 280650 | [280650-terminator-2-judgment-game.json](./280650-terminator-2-judgment-game.json) |
 | Terminator 2D: No Fate | 327500 | [327500-terminator-2d-no-fate.json](./327500-terminator-2d-no-fate.json) |
@@ -5374,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorist Apartment | 107844 | [107844-terrorist-apartment.json](./107844-terrorist-apartment.json) |
 | Terrorist Elimination | 74949 | [74949-terrorist-elimination.json](./74949-terrorist-elimination.json) |
 | Terrorist Killer | 143755 | [143755-terrorist-killer.json](./143755-terrorist-killer.json) |
+| Terrorist Takedown 2: US Navy Seals | 46443 | [46443-terrorist-takedown-2-us-navy-seals.json](./46443-terrorist-takedown-2-us-navy-seals.json) |
 | Terrorist Takedown 3 | 27616 | [27616-terrorist-takedown-3.json](./27616-terrorist-takedown-3.json) |
 | Terrorist Takedown: Covert Operations | 47049 | [47049-terrorist-takedown-covert-operations.json](./47049-terrorist-takedown-covert-operations.json) |
 | Terrorist Takedown: Payback | 54430 | [54430-terrorist-takedown-payback.json](./54430-terrorist-takedown-payback.json) |
@@ -34536,6 +34538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers | 18361 | [18361-transformers.json](./18361-transformers.json) |
 | Transformers | 241501 | [241501-transformers.json](./241501-transformers.json) |
 | Transformers Age of Extinction | 38969 | [38969-transformers-age-of-extinction.json](./38969-transformers-age-of-extinction.json) |
+| Transformers Animated: The Game | 47846 | [47846-transformers-animated-the-game.json](./47846-transformers-animated-the-game.json) |
 | Transformers Beyond Reality | 215213 | [215213-transformers-beyond-reality.json](./215213-transformers-beyond-reality.json) |
 | Transformers Franchise Pack | 99794 | [99794-transformers-franchise-pack.json](./99794-transformers-franchise-pack.json) |
 | Transformers G1 Awakening | 315069 | [315069-transformers-g1-awakening.json](./315069-transformers-g1-awakening.json) |
@@ -38826,6 +38829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Worlds II: Royal Edition | 43007 | [43007-two-worlds-ii-royal-edition.json](./43007-two-worlds-ii-royal-edition.json) |
 | Two Worlds II: Shattered Embrace | 171324 | [171324-two-worlds-ii-shattered-embrace.json](./171324-two-worlds-ii-shattered-embrace.json) |
 | Two Worlds II: Velvet Edition | 50912 | [50912-two-worlds-ii-velvet-edition.json](./50912-two-worlds-ii-velvet-edition.json) |
+| Two Worlds II: Velvet Game of the Year Edition | 47473 | [47473-two-worlds-ii-velvet-game-of-the-year-edition.json](./47473-two-worlds-ii-velvet-game-of-the-year-edition.json) |
 | Two Worlds: Epic Edition | 27841 | [27841-two-worlds-epic-edition.json](./27841-two-worlds-epic-edition.json) |
 | Two Worlds: Epic Edition Complete | 335615 | [335615-two-worlds-epic-edition-complete.json](./335615-two-worlds-epic-edition-complete.json) |
 | Two Worlds: The Game of the Year Edition | 53866 | [53866-two-worlds-the-game-of-the-year-edition.json](./53866-two-worlds-the-game-of-the-year-edition.json) |
