@@ -3114,6 +3114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 17: Platinum Edition | 75868 | [75868-farming-simulator-17-platinum-edition.json](./75868-farming-simulator-17-platinum-edition.json) |
 | Farming Simulator 17: Platinum Expansion | 24785 | [24785-farming-simulator-17-platinum-expansion.json](./24785-farming-simulator-17-platinum-expansion.json) |
 | Farming Simulator 17: Premium Digital Edition | 164622 | [164622-farming-simulator-17-premium-digital-edition.json](./164622-farming-simulator-17-premium-digital-edition.json) |
+| Farming Simulator 17: Ropa Pack | 90136 | [90136-farming-simulator-17-ropa-pack.json](./90136-farming-simulator-17-ropa-pack.json) |
 | Farming Simulator 18 | 41027 | [41027-farming-simulator-18.json](./41027-farming-simulator-18.json) |
 | Farming Simulator 19 | 87210 | [87210-farming-simulator-19.json](./87210-farming-simulator-19.json) |
 | Farming Simulator 19: Alpine Farming | 142604 | [142604-farming-simulator-19-alpine-farming.json](./142604-farming-simulator-19-alpine-farming.json) |
@@ -5636,6 +5637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filthy Animals: Heist Simulator | 193203 | [193203-filthy-animals-heist-simulator.json](./193203-filthy-animals-heist-simulator.json) |
 | Filthy Apartments | 385273 | [385273-filthy-apartments.json](./385273-filthy-apartments.json) |
 | Filthy Frank Kart | 122580 | [122580-filthy-frank-kart.json](./122580-filthy-frank-kart.json) |
+| Filthy Hands | 90306 | [90306-filthy-hands.json](./90306-filthy-hands.json) |
 | Filthy Liars | 423825 | [423825-filthy-liars.json](./423825-filthy-liars.json) |
 | Filthy Lucre | 19590 | [19590-filthy-lucre.json](./19590-filthy-lucre.json) |
 | Filthy Rich | 313881 | [313881-filthy-rich.json](./313881-filthy-rich.json) |
@@ -13189,6 +13191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Framing Dawes | 126916 | [126916-framing-dawes.json](./126916-framing-dawes.json) |
 | Framing Summer | 130513 | [130513-framing-summer.json](./130513-framing-summer.json) |
 | Fran Bow | 11821 | [11821-fran-bow.json](./11821-fran-bow.json) |
+| Fran Bow Chapter 1 | 90962 | [90962-fran-bow-chapter-1.json](./90962-fran-bow-chapter-1.json) |
 | Fran Bow Chapter 4 | 91996 | [91996-fran-bow-chapter-4.json](./91996-fran-bow-chapter-4.json) |
 | Fran Bow Chapter 5 | 375346 | [375346-fran-bow-chapter-5.json](./375346-fran-bow-chapter-5.json) |
 | France '14 | 59184 | [59184-france-14.json](./59184-france-14.json) |
@@ -14165,6 +14168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz 19: Steam Edition | 280203 | [280203-fritz-19-steam-edition.json](./280203-fritz-19-steam-edition.json) |
 | Fritz 5 | 281650 | [281650-fritz-5.json](./281650-fritz-5.json) |
 | Fritz 6 | 281655 | [281655-fritz-6.json](./281655-fritz-6.json) |
+| Fritz 8 | 93016 | [93016-fritz-8.json](./93016-fritz-8.json) |
 | Fritz 9: Play Chess | 130848 | [130848-fritz-9-play-chess.json](./130848-fritz-9-play-chess.json) |
 | Fritz Chess | 4874 | [4874-fritz-chess.json](./4874-fritz-chess.json) |
 | Fritz Chess 10 | 25429 | [25429-fritz-chess-10.json](./25429-fritz-chess-10.json) |
@@ -15460,6 +15464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fully Automated | 384762 | [384762-fully-automated.json](./384762-fully-automated.json) |
 | Fully Automated Luxury Gay Space Communism | 69522 | [69522-fully-automated-luxury-gay-space-communism.json](./69522-fully-automated-luxury-gay-space-communism.json) |
 | Fully Dogomatic | 301289 | [301289-fully-dogomatic.json](./301289-fully-dogomatic.json) |
+| Fully Loaded Collector's Pack - Awesomenauts Assemble! Game Bundle | 90662 | [90662-fully-loaded-collectors-pack-awesomenauts-assemble-game-bundle.json](./90662-fully-loaded-collectors-pack-awesomenauts-assemble-game-bundle.json) |
 | fullybroKen | 171359 | [171359-fullybroken.json](./171359-fullybroken.json) |
 | FullyBroken: Old Dawn | 195830 | [195830-fullybroken-old-dawn.json](./195830-fullybroken-old-dawn.json) |
 | Fullybroken: Way Home | 231677 | [231677-fullybroken-way-home.json](./231677-fullybroken-way-home.json) |
