@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yiqi Huijia ba | 407679 | [407679-yiqi-huijia-ba.json](./407679-yiqi-huijia-ba.json) |
 | YiShi | 295135 | [295135-yishi.json](./295135-yishi.json) |
 | Yissa Deep Realms | 75776 | [75776-yissa-deep-realms.json](./75776-yissa-deep-realms.json) |
+| Yitien Chronicles | 23638 | [23638-yitien-chronicles.json](./23638-yitien-chronicles.json) |
 | Yīxiàxià Míngyóu Dàquán: Jīngdiǎn Chóngwēn | 408609 | [408609-yixiaxia-mingyou-daquan-jingdian-chongwen.json](./408609-yixiaxia-mingyou-daquan-jingdian-chongwen.json) |
 | Yīxiàxià Míngyóu Dàquán: Qīngsōng Xiūxián | 408615 | [408615-yixiaxia-mingyou-daquan-qingsong-xiuxian.json](./408615-yixiaxia-mingyou-daquan-qingsong-xiuxian.json) |
 | Yīxiàxià Míngyóu Dàquán: Zhìyǒng Shuāngquán | 408617 | [408617-yixiaxia-mingyou-daquan-zhiyong-shuangquan.json](./408617-yixiaxia-mingyou-daquan-zhiyong-shuangquan.json) |
@@ -2130,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuletide Machine | 402856 | [402856-yuletide-machine.json](./402856-yuletide-machine.json) |
 | Yuletide Regicide | 381113 | [381113-yuletide-regicide.json](./381113-yuletide-regicide.json) |
 | YuleTown | 396686 | [396686-yuletown.json](./396686-yuletown.json) |
+| Yulgang 2 | 23593 | [23593-yulgang-2.json](./23593-yulgang-2.json) |
 | Yulgang Mobile | 174698 | [174698-yulgang-mobile.json](./174698-yulgang-mobile.json) |
 | Yulgang Rush | 208067 | [208067-yulgang-rush.json](./208067-yulgang-rush.json) |
 | Yulhyul Kangho | 145569 | [145569-yulhyul-kangho.json](./145569-yulhyul-kangho.json) |
