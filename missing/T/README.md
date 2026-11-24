@@ -13023,6 +13023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inn at Nightfall | 279840 | [279840-the-inn-at-nightfall.json](./279840-the-inn-at-nightfall.json) |
 | The Inn Between | 183091 | [183091-the-inn-between.json](./183091-the-inn-between.json) |
 | The Inn-Sanity | 279266 | [279266-the-inn-sanity.json](./279266-the-inn-sanity.json) |
+| The Inner Darkness | 27919 | [27919-the-inner-darkness.json](./27919-the-inner-darkness.json) |
 | The Inner Demons | 262785 | [262785-the-inner-demons.json](./262785-the-inner-demons.json) |
 | The Inner Descent | 286160 | [286160-the-inner-descent.json](./286160-the-inner-descent.json) |
 | The Inner Friend | 104280 | [104280-the-inner-friend.json](./104280-the-inner-friend.json) |
@@ -15449,6 +15450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Goblin Tower | 111589 | [111589-the-lost-goblin-tower.json](./111589-the-lost-goblin-tower.json) |
 | The Lost Heaven | 375903 | [375903-the-lost-heaven.json](./375903-the-lost-heaven.json) |
 | The Lost Heir 2: Forging a Kingdom | 33593 | [33593-the-lost-heir-2-forging-a-kingdom.json](./33593-the-lost-heir-2-forging-a-kingdom.json) |
+| The Lost Heir 3: Demon War | 27875 | [27875-the-lost-heir-3-demon-war.json](./27875-the-lost-heir-3-demon-war.json) |
 | The Lost Heir: The Fall of Daria | 33594 | [33594-the-lost-heir-the-fall-of-daria.json](./33594-the-lost-heir-the-fall-of-daria.json) |
 | The Lost Hotel | 253395 | [253395-the-lost-hotel.json](./253395-the-lost-hotel.json) |
 | The Lost Hunter | 422048 | [422048-the-lost-hunter.json](./422048-the-lost-hunter.json) |
@@ -18956,6 +18958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow of the Warring States Period | 348872 | [348872-the-shadow-of-the-warring-states-period.json](./348872-the-shadow-of-the-warring-states-period.json) |
 | The Shadow of Yidhra | 158373 | [158373-the-shadow-of-yidhra.json](./158373-the-shadow-of-yidhra.json) |
 | The Shadow of Yserbius | 54684 | [54684-the-shadow-of-yserbius.json](./54684-the-shadow-of-yserbius.json) |
+| The Shadow of Zorro | 27627 | [27627-the-shadow-of-zorro.json](./27627-the-shadow-of-zorro.json) |
 | The Shadow Over Cyberspace | 304976 | [304976-the-shadow-over-cyberspace.json](./304976-the-shadow-over-cyberspace.json) |
 | The Shadow People | 222938 | [222938-the-shadow-people.json](./222938-the-shadow-people.json) |
 | The Shadow Realms: Arcade | 311327 | [311327-the-shadow-realms-arcade.json](./311327-the-shadow-realms-arcade.json) |
@@ -21946,6 +21949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Well: Episode 1 | 333621 | [333621-the-well-episode-1.json](./333621-the-well-episode-1.json) |
 | The Well's Blessing | 343031 | [343031-the-wells-blessing.json](./343031-the-wells-blessing.json) |
 | The Wellmonts Case | 346400 | [346400-the-wellmonts-case.json](./346400-the-wellmonts-case.json) |
+| The Wendigo | 27673 | [27673-the-wendigo.json](./27673-the-wendigo.json) |
 | The WereCleaner | 288623 | [288623-the-werecleaner.json](./288623-the-werecleaner.json) |
 | The Werehouse | 337107 | [337107-the-werehouse.json](./337107-the-werehouse.json) |
 | The Werewolf | 334341 | [334341-the-werewolf.json](./334341-the-werewolf.json) |
