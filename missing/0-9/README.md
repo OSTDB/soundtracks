@@ -2985,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Solitaire | 64597 | [64597-3d-solitaire.json](./64597-3d-solitaire.json) |
 | 3D Sonic Action | 331719 | [331719-3d-sonic-action.json](./331719-3d-sonic-action.json) |
 | 3D Sonic the Hedgehog | 84656 | [84656-3d-sonic-the-hedgehog.json](./84656-3d-sonic-the-hedgehog.json) |
+| 3D Space Harrier | 47687 | [47687-3d-space-harrier.json](./47687-3d-space-harrier.json) |
 | 3D Space Invaders | 286676 | [286676-3d-space-invaders.json](./286676-3d-space-invaders.json) |
 | 3D Space Raider | 178048 | [178048-3d-space-raider.json](./178048-3d-space-raider.json) |
 | 3D Space Ranger | 15578 | [15578-3d-space-ranger.json](./15578-3d-space-ranger.json) |
@@ -3212,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-D Warriors | 39453 | [39453-4-d-warriors.json](./39453-4-d-warriors.json) |
 | 4-in-1 Award Winning Indie Gems | 331453 | [331453-4-in-1-award-winning-indie-gems.json](./331453-4-in-1-award-winning-indie-gems.json) |
 | 4-In-1 Electronic Computer Games | 245576 | [245576-4-in-1-electronic-computer-games.json](./245576-4-in-1-electronic-computer-games.json) |
+| 4-in-1 Fun Pak | 69787 | [69787-4-in-1-fun-pak.json](./69787-4-in-1-fun-pak.json) |
 | 4-in-1 Funpak Volume II | 93553 | [93553-4-in-1-funpak-volume-ii.json](./93553-4-in-1-funpak-volume-ii.json) |
 | 4-in-1 IQ Scale Bundle | 82532 | [82532-4-in-1-iq-scale-bundle.json](./82532-4-in-1-iq-scale-bundle.json) |
 | 4-in-1 Version 1 | 106313 | [106313-4-in-1-version-1.json](./106313-4-in-1-version-1.json) |
