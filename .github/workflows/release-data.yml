@@ -1,13 +1,14 @@
 name: Release dataset
 
-# Every Monday: build ostdb.json / ostdb.csv / ostdb.sqlite from all-games.json
+# Every 2 days: build ostdb.json / ostdb.csv / ostdb.sqlite from all-games.json
 # and publish them as a GitHub release, so the README's
 # releases/latest/download/... links always point at a fresh snapshot.
 # Optionally mirrors the files to a Hugging Face dataset (see below).
 
 on:
   schedule:
-    - cron: "0 6 * * 1"
+    # 06:00 UTC on odd days of the month (1st, 3rd, ... 31st), so roughly every 2 days.
+    - cron: "0 6 */2 * *"
   workflow_dispatch:
 
 permissions:
@@ -21,7 +22,14 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
+      # Only what the build reads. A full checkout fails: some missing/ placeholders
+      # have file names longer than the 255-byte limit of the runner's file system.
       - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            /.github/
+            /all-games.json
+          sparse-checkout-cone-mode: false
 
       - uses: actions/setup-python@v5
         with:
@@ -39,7 +47,7 @@ jobs:
           GAMES=$(python -c "import json;print(json.load(open('dist/ostdb.json'))['total_games'])")
           ALBUMS=$(python -c "import json;print(json.load(open('dist/ostdb.json'))['total_albums'])")
           NOTES=$(printf '%s\n' \
-            "Weekly snapshot of OSTDB: **$GAMES games** and **$ALBUMS soundtrack albums** with Spotify, Apple Music and album.link URLs." \
+            "Snapshot of OSTDB: **$GAMES games** and **$ALBUMS soundtrack albums** with Spotify, Apple Music and album.link URLs." \
             "" \
             "| File | Contents |" \
             "|---|---|" \
@@ -69,6 +77,6 @@ jobs:
               repo_id=os.environ["HF_DATASET"],
               repo_type="dataset",
               folder_path="dist",
-              commit_message="Weekly OSTDB snapshot",
+              commit_message="OSTDB snapshot",
           )
           PY
