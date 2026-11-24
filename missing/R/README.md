@@ -11523,6 +11523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Eclipse | 305022 | [305022-rogue-eclipse.json](./305022-rogue-eclipse.json) |
 | Rogue Egg: Hatch Hero | 256170 | [256170-rogue-egg-hatch-hero.json](./256170-rogue-egg-hatch-hero.json) |
 | Rogue Elements | 421800 | [421800-rogue-elements.json](./421800-rogue-elements.json) |
+| Rogue Empire | 75077 | [75077-rogue-empire.json](./75077-rogue-empire.json) |
 | Rogue Explorer | 155935 | [155935-rogue-explorer.json](./155935-rogue-explorer.json) |
 | Rogue Fable II | 181247 | [181247-rogue-fable-ii.json](./181247-rogue-fable-ii.json) |
 | Rogue Fable IV | 280260 | [280260-rogue-fable-iv.json](./280260-rogue-fable-iv.json) |
@@ -14212,6 +14213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Roll Rumble | 120936 | [120936-run-roll-rumble.json](./120936-run-roll-rumble.json) |
 | Run Ronaldo Run | 252823 | [252823-run-ronaldo-run.json](./252823-run-ronaldo-run.json) |
 | Run Roo Run | 22928 | [22928-run-roo-run.json](./22928-run-roo-run.json) |
+| RUN ROOMS: VR | 75403 | [75403-run-rooms-vr.json](./75403-run-rooms-vr.json) |
 | Run Run | 386738 | [386738-run-run.json](./386738-run-run.json) |
 | Run Run Bird! | 296272 | [296272-run-run-bird.json](./296272-run-run-bird.json) |
 | Run Run Boy | 225073 | [225073-run-run-boy.json](./225073-run-run-boy.json) |
