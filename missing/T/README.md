@@ -802,7 +802,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taina's Cursed Legacy | 361686 | [361686-tainas-cursed-legacy.json](./361686-tainas-cursed-legacy.json) |
 | Tainted | 271846 | [271846-tainted.json](./271846-tainted.json) |
 | Tainted | 415211 | [415211-tainted.json](./415211-tainted.json) |
-| Tainted Fate | 101343 | [101343-tainted-fate.json](./101343-tainted-fate.json) |
 | Tainted Grail: The Fall of Avalon | 127697 | [127697-tainted-grail-the-fall-of-avalon.json](./127697-tainted-grail-the-fall-of-avalon.json) |
 | Tainted Grail: The Fall of Avalon - Excalibur Edition | 401967 | [401967-tainted-grail-the-fall-of-avalon-excalibur-edition.json](./401967-tainted-grail-the-fall-of-avalon-excalibur-edition.json) |
 | Tainted Grail: The Fall of Avalon - Sanctuary of Sarras | 380816 | [380816-tainted-grail-the-fall-of-avalon-sanctuary-of-sarras.json](./380816-tainted-grail-the-fall-of-avalon-sanctuary-of-sarras.json) |
@@ -3207,7 +3206,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Driver Simulator: Car Parking | 234515 | [234515-taxi-driver-simulator-car-parking.json](./234515-taxi-driver-simulator-car-parking.json) |
 | Taxi Driver VR | 419249 | [419249-taxi-driver-vr.json](./419249-taxi-driver-vr.json) |
 | Taxi Driver: The Simulation | 147760 | [147760-taxi-driver-the-simulation.json](./147760-taxi-driver-the-simulation.json) |
-| Taxi Game 2 | 100807 | [100807-taxi-game-2.json](./100807-taxi-game-2.json) |
 | Taxi Goldmania | 336665 | [336665-taxi-goldmania.json](./336665-taxi-goldmania.json) |
 | Taxi in the Rain | 150177 | [150177-taxi-in-the-rain.json](./150177-taxi-in-the-rain.json) |
 | Taxi Journey | 133832 | [133832-taxi-journey.json](./133832-taxi-journey.json) |
@@ -4171,7 +4169,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleportal | 323580 | [323580-teleportal.json](./323580-teleportal.json) |
 | Teleportal 2 | 323583 | [323583-teleportal-2.json](./323583-teleportal-2.json) |
 | Teleportal Customer Service | 181374 | [181374-teleportal-customer-service.json](./181374-teleportal-customer-service.json) |
-| Teleportals. I swear it's a nice game. | 103192 | [103192-teleportals-i-swear-its-a-nice-game.json](./103192-teleportals-i-swear-its-a-nice-game.json) |
 | Teleporter | 109812 | [109812-teleporter.json](./109812-teleporter.json) |
 | Teleportia | 286358 | [286358-teleportia.json](./286358-teleportia.json) |
 | Teleportower Plus | 62418 | [62418-teleportower-plus.json](./62418-teleportower-plus.json) |
@@ -5297,7 +5294,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrible Clicking Game | 215391 | [215391-terrible-clicking-game.json](./215391-terrible-clicking-game.json) |
 | Terrible Forest Management | 420033 | [420033-terrible-forest-management.json](./420033-terrible-forest-management.json) |
 | Terrible Life Expectancy | 352386 | [352386-terrible-life-expectancy.json](./352386-terrible-life-expectancy.json) |
-| Terrible Neighbor House | 101206 | [101206-terrible-neighbor-house.json](./101206-terrible-neighbor-house.json) |
 | Terrible Teeth | 167156 | [167156-terrible-teeth.json](./167156-terrible-teeth.json) |
 | Terrier Manager | 390893 | [390893-terrier-manager.json](./390893-terrier-manager.json) |
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
@@ -6167,7 +6163,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 4th Unit 7 - Wyatt | 66322 | [66322-the-4th-unit-7-wyatt.json](./66322-the-4th-unit-7-wyatt.json) |
 | The 4th Wall | 326931 | [326931-the-4th-wall.json](./326931-the-4th-wall.json) |
 | The 4th Wall | 64126 | [64126-the-4th-wall.json](./64126-the-4th-wall.json) |
-| The 50 States Quiz | 103441 | [103441-the-50-states-quiz.json](./103441-the-50-states-quiz.json) |
 | The 52 Fragments | 278362 | [278362-the-52-fragments.json](./278362-the-52-fragments.json) |
 | The 5th Fleet | 70770 | [70770-the-5th-fleet.json](./70770-the-5th-fleet.json) |
 | The 6-Digit Computer | 288924 | [288924-the-6-digit-computer.json](./288924-the-6-digit-computer.json) |
@@ -6303,7 +6298,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventure of Hourai High School | 42549 | [42549-the-adventure-of-hourai-high-school.json](./42549-the-adventure-of-hourai-high-school.json) |
 | The adventure of Kroos | 76323 | [76323-the-adventure-of-kroos.json](./76323-the-adventure-of-kroos.json) |
 | The Adventure of Little Ralph | 44856 | [44856-the-adventure-of-little-ralph.json](./44856-the-adventure-of-little-ralph.json) |
-| The Adventure of Magical Girl | 101303 | [101303-the-adventure-of-magical-girl.json](./101303-the-adventure-of-magical-girl.json) |
 | The Adventure of Natsuki Hinomiya | 390289 | [390289-the-adventure-of-natsuki-hinomiya.json](./390289-the-adventure-of-natsuki-hinomiya.json) |
 | The Adventure of Nayu | 142651 | [142651-the-adventure-of-nayu.json](./142651-the-adventure-of-nayu.json) |
 | The Adventure of Ninomae Ina'nis | 321522 | [321522-the-adventure-of-ninomae-inanis.json](./321522-the-adventure-of-ninomae-inanis.json) |
@@ -8409,7 +8403,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of Omega | 12542 | [12542-the-chronicles-of-omega.json](./12542-the-chronicles-of-omega.json) |
 | The Chronicles of Overlord | 219550 | [219550-the-chronicles-of-overlord.json](./219550-the-chronicles-of-overlord.json) |
 | The Chronicles of Penghao: Ming | 292289 | [292289-the-chronicles-of-penghao-ming.json](./292289-the-chronicles-of-penghao-ming.json) |
-| The Chronicles of Quiver Dick | 104863 | [104863-the-chronicles-of-quiver-dick.json](./104863-the-chronicles-of-quiver-dick.json) |
 | The Chronicles of Riddick: Assault on Dark Athena | 433 | [433-the-chronicles-of-riddick-assault-on-dark-athena.json](./433-the-chronicles-of-riddick-assault-on-dark-athena.json) |
 | The Chronicles of Riddick: Escape from Butcher Bay | 250 | [250-the-chronicles-of-riddick-escape-from-butcher-bay.json](./250-the-chronicles-of-riddick-escape-from-butcher-bay.json) |
 | The Chronicles of Riddick: Escape from Butcher Bay - The Developer's Cut | 24169 | [24169-the-chronicles-of-riddick-escape-from-butcher-bay-the-developers-cut.json](./24169-the-chronicles-of-riddick-escape-from-butcher-bay-the-developers-cut.json) |
@@ -8725,7 +8718,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cooking Class | 228651 | [228651-the-cooking-class.json](./228651-the-cooking-class.json) |
 | The Cooking Club | 343206 | [343206-the-cooking-club.json](./343206-the-cooking-club.json) |
 | The Cooking Game | 32134 | [32134-the-cooking-game.json](./32134-the-cooking-game.json) |
-| The Cooking Game VR | 104045 | [104045-the-cooking-game-vr.json](./104045-the-cooking-game-vr.json) |
 | The Cooking Game: Deluxe Edition | 53704 | [53704-the-cooking-game-deluxe-edition.json](./53704-the-cooking-game-deluxe-edition.json) |
 | The Cool Croc Twins | 12548 | [12548-the-cool-croc-twins.json](./12548-the-cool-croc-twins.json) |
 | The Cool Guys Are Level 100 | 316409 | [316409-the-cool-guys-are-level-100.json](./316409-the-cool-guys-are-level-100.json) |
@@ -9339,7 +9331,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkest Tales: Extended Edition | 221630 | [221630-the-darkest-tales-extended-edition.json](./221630-the-darkest-tales-extended-edition.json) |
 | The Darkest Tales: Into the Nightmare | 195889 | [195889-the-darkest-tales-into-the-nightmare.json](./195889-the-darkest-tales-into-the-nightmare.json) |
 | The Darkest Tower Defense | 188209 | [188209-the-darkest-tower-defense.json](./188209-the-darkest-tower-defense.json) |
-| The Darkest Woods | 103762 | [103762-the-darkest-woods.json](./103762-the-darkest-woods.json) |
 | The Darkest Woods 2 | 111711 | [111711-the-darkest-woods-2.json](./111711-the-darkest-woods-2.json) |
 | The Darklight Chronicles | 387286 | [387286-the-darklight-chronicles.json](./387286-the-darklight-chronicles.json) |
 | The Darkness | 1347 | [1347-the-darkness.json](./1347-the-darkness.json) |
@@ -11722,7 +11713,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Glow | 33955 | [33955-the-glow.json](./33955-the-glow.json) |
 | The Glued | 344878 | [344878-the-glued.json](./344878-the-glued.json) |
 | The Goalkeeper | 70946 | [70946-the-goalkeeper.json](./70946-the-goalkeeper.json) |
-| The Goatman | 104034 | [104034-the-goatman.json](./104034-the-goatman.json) |
 | The Goblin is Out | 240123 | [240123-the-goblin-is-out.json](./240123-the-goblin-is-out.json) |
 | The Goblin Tavern | 352912 | [352912-the-goblin-tavern.json](./352912-the-goblin-tavern.json) |
 | The Goblins are Coming | 246949 | [246949-the-goblins-are-coming.json](./246949-the-goblins-are-coming.json) |
@@ -12219,7 +12209,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Happyhills Homicide 2: Out For Blood | 337364 | [337364-the-happyhills-homicide-2-out-for-blood.json](./337364-the-happyhills-homicide-2-out-for-blood.json) |
 | The Harakin | 385968 | [385968-the-harakin.json](./385968-the-harakin.json) |
 | The Harbinger of the Deep | 396280 | [396280-the-harbinger-of-the-deep.json](./396280-the-harbinger-of-the-deep.json) |
-| The Harbinger's Head | 103466 | [103466-the-harbingers-head.json](./103466-the-harbingers-head.json) |
 | The Harbour Between Us | 429091 | [429091-the-harbour-between-us.json](./429091-the-harbour-between-us.json) |
 | The Hard Game | 215743 | [215743-the-hard-game.json](./215743-the-hard-game.json) |
 | The Hardest BrickBreaker | 113708 | [113708-the-hardest-brickbreaker.json](./113708-the-hardest-brickbreaker.json) |
@@ -17789,7 +17778,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Qubit Factory | 359151 | [359151-the-qubit-factory.json](./359151-the-qubit-factory.json) |
 | The Queen and the Dragon | 315784 | [315784-the-queen-and-the-dragon.json](./315784-the-queen-and-the-dragon.json) |
 | The Queen of Battlers 2 | 324923 | [324923-the-queen-of-battlers-2.json](./324923-the-queen-of-battlers-2.json) |
-| The Queen of Blackwood High | 105177 | [105177-the-queen-of-blackwood-high.json](./105177-the-queen-of-blackwood-high.json) |
 | The Queen of Duellist | 63913 | [63913-the-queen-of-duellist.json](./63913-the-queen-of-duellist.json) |
 | The Queen of Duellist Gaiden | 63912 | [63912-the-queen-of-duellist-gaiden.json](./63912-the-queen-of-duellist-gaiden.json) |
 | The Queen of Duellist Gaiden α | 63911 | [63911-the-queen-of-duellist-gaiden.json](./63911-the-queen-of-duellist-gaiden.json) |
@@ -18252,7 +18240,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Riftbreaker: Metal Terror | 202455 | [202455-the-riftbreaker-metal-terror.json](./202455-the-riftbreaker-metal-terror.json) |
 | The Riftbreaker: World Expansion II | 220511 | [220511-the-riftbreaker-world-expansion-ii.json](./220511-the-riftbreaker-world-expansion-ii.json) |
 | The Rifted Skies | 407986 | [407986-the-rifted-skies.json](./407986-the-rifted-skies.json) |
-| The Rig | 101258 | [101258-the-rig.json](./101258-the-rig.json) |
 | The Right Shot | 187656 | [187656-the-right-shot.json](./187656-the-right-shot.json) |
 | The Right Side of Town | 185408 | [185408-the-right-side-of-town.json](./185408-the-right-side-of-town.json) |
 | The Right Todd | 177365 | [177365-the-right-todd.json](./177365-the-right-todd.json) |
@@ -18396,7 +18383,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rose and I | 34596 | [34596-the-rose-and-i.json](./34596-the-rose-and-i.json) |
 | The Rose Garden | 105113 | [105113-the-rose-garden.json](./105113-the-rose-garden.json) |
 | The Rose of Cravenmor | 339004 | [339004-the-rose-of-cravenmor.json](./339004-the-rose-of-cravenmor.json) |
-| The Rose of Segunda | 101612 | [101612-the-rose-of-segunda.json](./101612-the-rose-of-segunda.json) |
 | The Rose Princess | 69308 | [69308-the-rose-princess.json](./69308-the-rose-princess.json) |
 | The Rosebud Condominium | 55505 | [55505-the-rosebud-condominium.json](./55505-the-rosebud-condominium.json) |
 | The Rosefinch Curse: Ning's Wing 1 | 31205 | [31205-the-rosefinch-curse-nings-wing-1.json](./31205-the-rosefinch-curse-nings-wing-1.json) |
@@ -19450,7 +19436,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Single-Eye Nightmare | 368992 | [368992-the-single-eye-nightmare.json](./368992-the-single-eye-nightmare.json) |
 | The Singularity Complex | 261083 | [261083-the-singularity-complex.json](./261083-the-singularity-complex.json) |
 | The Singularity Trials | 139701 | [139701-the-singularity-trials.json](./139701-the-singularity-trials.json) |
-| The Singularity Wish | 101275 | [101275-the-singularity-wish.json](./101275-the-singularity-wish.json) |
 | The Sinister Fairground: Horror Adventure Gamebook | 175303 | [175303-the-sinister-fairground-horror-adventure-gamebook.json](./175303-the-sinister-fairground-horror-adventure-gamebook.json) |
 | The Sink Gods | 175884 | [175884-the-sink-gods.json](./175884-the-sink-gods.json) |
 | The Sinkhole | 408117 | [408117-the-sinkhole.json](./408117-the-sinkhole.json) |
@@ -27046,7 +27031,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timpu's Treasure | 132373 | [132373-timpus-treasure.json](./132373-timpus-treasure.json) |
 | Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
 | Tims Word Challenge | 406241 | [406241-tims-word-challenge.json](./406241-tims-word-challenge.json) |
-| Timun Mas and Green Giants | 101095 | [101095-timun-mas-and-green-giants.json](./101095-timun-mas-and-green-giants.json) |
 | Tin & Kuna | 135334 | [135334-tin-and-kuna.json](./135334-tin-and-kuna.json) |
 | Tin Can | 139282 | [139282-tin-can.json](./139282-tin-can.json) |
 | Tin Can + Starward Rogue: Survive in Space Bundle Deluxe | 301757 | [301757-tin-can-starward-rogue-survive-in-space-bundle-deluxe.json](./301757-tin-can-starward-rogue-survive-in-space-bundle-deluxe.json) |
@@ -27545,7 +27529,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny-DDug | 267218 | [267218-tiny-ddug.json](./267218-tiny-ddug.json) |
 | Tiny-Doc | 352347 | [352347-tiny-doc.json](./352347-tiny-doc.json) |
 | Tiny-Fi | 311553 | [311553-tiny-fi.json](./311553-tiny-fi.json) |
-| Tiny-Tasy Town | 103598 | [103598-tiny-tasy-town.json](./103598-tiny-tasy-town.json) |
 | Tiny: The Last Wayfinder | 373143 | [373143-tiny-the-last-wayfinder.json](./373143-tiny-the-last-wayfinder.json) |
 | TinyArmored | 209937 | [209937-tinyarmored.json](./209937-tinyarmored.json) |
 | TinyAttack | 217434 | [217434-tinyattack.json](./217434-tinyattack.json) |
@@ -29042,7 +29025,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomato Jones 2 | 28648 | [28648-tomato-jones-2.json](./28648-tomato-jones-2.json) |
 | Tomato Jones Adventures | 53819 | [53819-tomato-jones-adventures.json](./53819-tomato-jones-adventures.json) |
 | Tomato Way | 30184 | [30184-tomato-way.json](./30184-tomato-way.json) |
-| Tomato Way 2 | 104831 | [104831-tomato-way-2.json](./104831-tomato-way-2.json) |
 | Tomato Way 3 | 141563 | [141563-tomato-way-3.json](./141563-tomato-way-3.json) |
 | Tomato Worm | 181196 | [181196-tomato-worm.json](./181196-tomato-worm.json) |
 | Tomatomania! | 257123 | [257123-tomatomania.json](./257123-tomatomania.json) |
@@ -29684,7 +29666,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Chef: The Game | 65350 | [65350-top-chef-the-game.json](./65350-top-chef-the-game.json) |
 | Top Classic Plaigarized | 319095 | [319095-top-classic-plaigarized.json](./319095-top-classic-plaigarized.json) |
 | Top Cop: Police Training | 393050 | [393050-top-cop-police-training.json](./393050-top-cop-police-training.json) |
-| Top Craft exploration | 100957 | [100957-top-craft-exploration.json](./100957-top-craft-exploration.json) |
 | Top Craft: Best Exploration | 95709 | [95709-top-craft-best-exploration.json](./95709-top-craft-best-exploration.json) |
 | Top Darts | 91918 | [91918-top-darts.json](./91918-top-darts.json) |
 | Top Deck slotmachine | 232356 | [232356-top-deck-slotmachine.json](./232356-top-deck-slotmachine.json) |
@@ -31337,7 +31318,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Inc. | 369717 | [369717-tower-inc.json](./369717-tower-inc.json) |
 | Tower Inferno | 147493 | [147493-tower-inferno.json](./147493-tower-inferno.json) |
 | Tower Island: Explore, Discover and Disassemble | 32413 | [32413-tower-island-explore-discover-and-disassemble.json](./32413-tower-island-explore-discover-and-disassemble.json) |
-| Tower Jump | 101559 | [101559-tower-jump.json](./101559-tower-jump.json) |
 | Tower Keepers | 101736 | [101736-tower-keepers.json](./101736-tower-keepers.json) |
 | Tower King | 394983 | [394983-tower-king.json](./394983-tower-king.json) |
 | Tower Knight | 298628 | [298628-tower-knight.json](./298628-tower-knight.json) |
@@ -33543,7 +33523,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Valley: Console Edition | 210746 | [210746-train-valley-console-edition.json](./210746-train-valley-console-edition.json) |
 | Train Valley: Deluxe Edition | 53857 | [53857-train-valley-deluxe-edition.json](./53857-train-valley-deluxe-edition.json) |
 | Train Valley: Germany | 154507 | [154507-train-valley-germany.json](./154507-train-valley-germany.json) |
-| Train Vs Car Racing 2 Player | 101087 | [101087-train-vs-car-racing-2-player.json](./101087-train-vs-car-racing-2-player.json) |
 | Train World | 225179 | [225179-train-world.json](./225179-train-world.json) |
 | Train World Driver | 332865 | [332865-train-world-driver.json](./332865-train-world-driver.json) |
 | Train Yard Builder | 167370 | [167370-train-yard-builder.json](./167370-train-yard-builder.json) |
@@ -35379,7 +35358,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree Strike | 151612 | [151612-tree-strike.json](./151612-tree-strike.json) |
 | Tree Trunk Brook | 140067 | [140067-tree-trunk-brook.json](./140067-tree-trunk-brook.json) |
 | Tree World | 225749 | [225749-tree-world.json](./225749-tree-world.json) |
-| Tree.Bonsai | 104946 | [104946-tree-bonsai.json](./104946-tree-bonsai.json) |
 | Tree's Love Crossing Above | 346571 | [346571-trees-love-crossing-above.json](./346571-trees-love-crossing-above.json) |
 | TreeConnect | 92140 | [92140-treeconnect.json](./92140-treeconnect.json) |
 | Treefender | 204263 | [204263-treefender.json](./204263-treefender.json) |
@@ -35609,7 +35587,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials Mountain Heights | 305136 | [305136-trials-mountain-heights.json](./305136-trials-mountain-heights.json) |
 | Trials of Argolis | 155733 | [155733-trials-of-argolis.json](./155733-trials-of-argolis.json) |
 | Trials of Ascension | 62910 | [62910-trials-of-ascension.json](./62910-trials-of-ascension.json) |
-| Trials of Ascension: Exile | 105147 | [105147-trials-of-ascension-exile.json](./105147-trials-of-ascension-exile.json) |
 | Trials of Ashur | 112003 | [112003-trials-of-ashur.json](./112003-trials-of-ashur.json) |
 | Trials of Azra | 32399 | [32399-trials-of-azra.json](./32399-trials-of-azra.json) |
 | Trials of Cascadia | 226364 | [226364-trials-of-cascadia.json](./226364-trials-of-cascadia.json) |
@@ -37352,7 +37329,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsunami Cruiser | 184655 | [184655-tsunami-cruiser.json](./184655-tsunami-cruiser.json) |
 | Tsunami Rider | 383939 | [383939-tsunami-rider.json](./383939-tsunami-rider.json) |
 | Tsundere Girls | 382282 | [382282-tsundere-girls.json](./382282-tsundere-girls.json) |
-| Tsundere Idol: My Personal M-Pet | 101246 | [101246-tsundere-idol-my-personal-m-pet.json](./101246-tsundere-idol-my-personal-m-pet.json) |
 | Tsundere Milfin | 239834 | [239834-tsundere-milfin.json](./239834-tsundere-milfin.json) |
 | Tsundere Simulator 2 | 221389 | [221389-tsundere-simulator-2.json](./221389-tsundere-simulator-2.json) |
 | Tsuneko Apple | 318235 | [318235-tsuneko-apple.json](./318235-tsuneko-apple.json) |
