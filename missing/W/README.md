@@ -5573,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who is the New Maid? | 246076 | [246076-who-is-the-new-maid.json](./246076-who-is-the-new-maid.json) |
 | Who is the Red Queen? | 202474 | [202474-who-is-the-red-queen.json](./202474-who-is-the-red-queen.json) |
 | Who is There? | 221761 | [221761-who-is-there.json](./221761-who-is-there.json) |
+| Who Is This Man | 113570 | [113570-who-is-this-man.json](./113570-who-is-this-man.json) |
 | Who Is Who | 328712 | [328712-who-is-who.json](./328712-who-is-who.json) |
 | Who Is You | 123549 | [123549-who-is-you.json](./123549-who-is-you.json) |
 | Who Is Your Prince? In the Rich School | 255882 | [255882-who-is-your-prince-in-the-rich-school.json](./255882-who-is-your-prince-in-the-rich-school.json) |
@@ -9828,6 +9829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Riddles: Seven Wonders | 98155 | [98155-world-riddles-seven-wonders.json](./98155-world-riddles-seven-wonders.json) |
 | World Robot Boxing 2 | 196302 | [196302-world-robot-boxing-2.json](./196302-world-robot-boxing-2.json) |
 | World Seed | 193581 | [193581-world-seed.json](./193581-world-seed.json) |
+| World Seed Classic | 129736 | [129736-world-seed-classic.json](./129736-world-seed-classic.json) |
 | World Senate Game - Free Online Multiplayer Game | 145434 | [145434-world-senate-game-free-online-multiplayer-game.json](./145434-world-senate-game-free-online-multiplayer-game.json) |
 | World Series 1964 | 130864 | [130864-world-series-1964.json](./130864-world-series-1964.json) |
 | World Series 99 | 58423 | [58423-world-series-99.json](./58423-world-series-99.json) |
