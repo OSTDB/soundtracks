@@ -3339,7 +3339,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Lurker: Easiest Cosmetic Numbers | 90120 | [90120-achievement-lurker-easiest-cosmetic-numbers.json](./90120-achievement-lurker-easiest-cosmetic-numbers.json) |
 | Achievement Lurker: Respectable Accomplishment | 74625 | [74625-achievement-lurker-respectable-accomplishment.json](./74625-achievement-lurker-respectable-accomplishment.json) |
 | Achievement Lurker: We Give Up! | 81624 | [81624-achievement-lurker-we-give-up.json](./81624-achievement-lurker-we-give-up.json) |
-| Achievement Machine | 100398 | [100398-achievement-machine.json](./100398-achievement-machine.json) |
 | Achievement Monster | 368535 | [368535-achievement-monster.json](./368535-achievement-monster.json) |
 | Achievement Park | 90437 | [90437-achievement-park.json](./90437-achievement-park.json) |
 | Achievement printer part 1 | 93691 | [93691-achievement-printer-part-1.json](./93691-achievement-printer-part-1.json) |
@@ -12247,7 +12246,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Dress Up | 88741 | [88741-anime-dress-up.json](./88741-anime-dress-up.json) |
 | Anime Fantasy Jigsaw Puzzle 3D | 384067 | [384067-anime-fantasy-jigsaw-puzzle-3d.json](./384067-anime-fantasy-jigsaw-puzzle-3d.json) |
 | Anime Fart Simulator | 397648 | [397648-anime-fart-simulator.json](./397648-anime-fart-simulator.json) |
-| Anime fashion show | 99500 | [99500-anime-fashion-show.json](./99500-anime-fashion-show.json) |
 | Anime Feet | 157857 | [157857-anime-feet.json](./157857-anime-feet.json) |
 | Anime Feet 2 | 195747 | [195747-anime-feet-2.json](./195747-anime-feet-2.json) |
 | Anime Feet Aim Trainer | 371231 | [371231-anime-feet-aim-trainer.json](./371231-anime-feet-aim-trainer.json) |
@@ -13582,6 +13580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment 3906 | 183484 | [183484-apartment-3906.json](./183484-apartment-3906.json) |
 | Apartment 606 | 317710 | [317710-apartment-606.json](./317710-apartment-606.json) |
 | Apartment 666 | 35083 | [35083-apartment-666.json](./35083-apartment-666.json) |
+| Apartment 69 | 427532 | [427532-apartment-69.json](./427532-apartment-69.json) |
 | Apartment Complex | 362869 | [362869-apartment-complex.json](./362869-apartment-complex.json) |
 | Apartment Dream | 332462 | [332462-apartment-dream.json](./332462-apartment-dream.json) |
 | Apartment Escape | 337956 | [337956-apartment-escape.json](./337956-apartment-escape.json) |
@@ -16465,7 +16464,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arlequin | 248853 | [248853-arlequin.json](./248853-arlequin.json) |
 | Arlington Horse Racing | 38518 | [38518-arlington-horse-racing.json](./38518-arlington-horse-racing.json) |
 | Arlo | 280564 | [280564-arlo.json](./280564-arlo.json) |
-| Arlo the Rabbit | 99286 | [99286-arlo-the-rabbit.json](./99286-arlo-the-rabbit.json) |
 | Arlyeh Center for Heart Diseases | 271218 | [271218-arlyeh-center-for-heart-diseases.json](./271218-arlyeh-center-for-heart-diseases.json) |
 | Arm Around! | 380982 | [380982-arm-around.json](./380982-arm-around.json) |
 | Arm Champs II | 67876 | [67876-arm-champs-ii.json](./67876-arm-champs-ii.json) |
@@ -17104,7 +17102,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Girl 2 | 204802 | [204802-art-girl-2.json](./204802-art-girl-2.json) |
 | Art Heist | 127812 | [127812-art-heist.json](./127812-art-heist.json) |
 | Art Heist | 267006 | [267006-art-heist.json](./267006-art-heist.json) |
-| Art Heist, White Hat | 100762 | [100762-art-heist-white-hat.json](./100762-art-heist-white-hat.json) |
 | Art House | 367950 | [367950-art-house.json](./367950-art-house.json) |
 | Art Inc. | 290283 | [290283-art-inc.json](./290283-art-inc.json) |
 | Art is Boom | 276877 | [276877-art-is-boom.json](./276877-art-is-boom.json) |
@@ -17500,7 +17497,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As the Master Says | 299658 | [299658-as-the-master-says.json](./299658-as-the-master-says.json) |
 | As usual. | 253133 | [253133-as-usual.json](./253133-as-usual.json) |
 | As We Descend | 294502 | [294502-as-we-descend.json](./294502-as-we-descend.json) |
-| As We Know It | 99094 | [99094-as-we-know-it.json](./99094-as-we-know-it.json) |
 | As We Unite | 365081 | [365081-as-we-unite.json](./365081-as-we-unite.json) |
 | As You Wish | 301961 | [301961-as-you-wish.json](./301961-as-you-wish.json) |
 | AS: Angelic Serenade | 252593 | [252593-as-angelic-serenade.json](./252593-as-angelic-serenade.json) |
@@ -18611,7 +18607,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Odyssey | 383510 | [383510-asteroid-odyssey.json](./383510-asteroid-odyssey.json) |
 | Asteroid Patrol | 390560 | [390560-asteroid-patrol.json](./390560-asteroid-patrol.json) |
 | Asteroid Quarry | 84770 | [84770-asteroid-quarry.json](./84770-asteroid-quarry.json) |
-| Asteroid Quest! | 100766 | [100766-asteroid-quest.json](./100766-asteroid-quest.json) |
 | Asteroid Quest! (Classic) | 135452 | [135452-asteroid-quest-classic.json](./135452-asteroid-quest-classic.json) |
 | AsteRoid Rage | 211409 | [211409-asteroid-rage.json](./211409-asteroid-rage.json) |
 | Asteroid Requiem | 351052 | [351052-asteroid-requiem.json](./351052-asteroid-requiem.json) |
@@ -19195,7 +19190,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronot | 22270 | [22270-astronot.json](./22270-astronot.json) |
 | Astronots | 191038 | [191038-astronots.json](./191038-astronots.json) |
 | Astronought | 399988 | [399988-astronought.json](./399988-astronought.json) |
-| AstronTycoon | 100527 | [100527-astrontycoon.json](./100527-astrontycoon.json) |
 | Astronut | 92128 | [92128-astronut.json](./92128-astronut.json) |
 | Astroops | 373860 | [373860-astroops.json](./373860-astroops.json) |
 | AstroPanic | 275761 | [275761-astropanic.json](./275761-astropanic.json) |
@@ -19298,7 +19292,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aswang Detective: The Case of New York | 236326 | [236326-aswang-detective-the-case-of-new-york.json](./236326-aswang-detective-the-case-of-new-york.json) |
 | Aswin's Dream | 58004 | [58004-aswins-dream.json](./58004-aswins-dream.json) |
 | Asy przestworzy | 204728 | [204728-asy-przestworzy.json](./204728-asy-przestworzy.json) |
-| Asylamba : Influence | 99154 | [99154-asylamba-influence.json](./99154-asylamba-influence.json) |
 | Asyle | 290604 | [290604-asyle.json](./290604-asyle.json) |
 | Asylopole | 29273 | [29273-asylopole.json](./29273-asylopole.json) |
 | Asylum | 13807 | [13807-asylum.json](./13807-asylum.json) |
@@ -21294,6 +21287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaken: Chaos Era | 168327 | [168327-awaken-chaos-era.json](./168327-awaken-chaos-era.json) |
 | Awaken: Gunpowder Adventurer Daydream | 99010 | [99010-awaken-gunpowder-adventurer-daydream.json](./99010-awaken-gunpowder-adventurer-daydream.json) |
 | Awaken: Hentai Dice | 306328 | [306328-awaken-hentai-dice.json](./306328-awaken-hentai-dice.json) |
+| Awaken: Hentai Dice - The Crimes of Passion | 426878 | [426878-awaken-hentai-dice-the-crimes-of-passion.json](./426878-awaken-hentai-dice-the-crimes-of-passion.json) |
 | Awaken: Underwater Odyssey | 133951 | [133951-awaken-underwater-odyssey.json](./133951-awaken-underwater-odyssey.json) |
 | Awakened | 261133 | [261133-awakened.json](./261133-awakened.json) |
 | Awakened | 32300 | [32300-awakened.json](./32300-awakened.json) |
@@ -21801,7 +21795,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azurael's Circle: Chapter 3 | 112368 | [112368-azuraels-circle-chapter-3.json](./112368-azuraels-circle-chapter-3.json) |
 | Azurael's Circle: Chapter 4 | 117113 | [117113-azuraels-circle-chapter-4.json](./117113-azuraels-circle-chapter-4.json) |
 | Azurael's Circle: Chapter 5 | 168836 | [168836-azuraels-circle-chapter-5.json](./168836-azuraels-circle-chapter-5.json) |
-| Azuran Tales: Trials | 99165 | [99165-azuran-tales-trials.json](./99165-azuran-tales-trials.json) |
 | Azure | 150658 | [150658-azure.json](./150658-azure.json) |
 | Azure | 233339 | [233339-azure.json](./233339-azure.json) |
 | Azure '88 | 295425 | [295425-azure-88.json](./295425-azure-88.json) |
