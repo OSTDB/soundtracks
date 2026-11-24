@@ -3686,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actor Tycoon 2 | 142235 | [142235-actor-tycoon-2.json](./142235-actor-tycoon-2.json) |
 | Actor, Re: Actor | 426315 | [426315-actor-re-actor.json](./426315-actor-re-actor.json) |
 | Actorle | 320912 | [320912-actorle.json](./320912-actorle.json) |
+| Actraiser | 23597 | [23597-actraiser.json](./23597-actraiser.json) |
 | ActRaiser | 6468 | [6468-actraiser.json](./6468-actraiser.json) |
 | ActRaiser 2 | 7704 | [7704-actraiser-2.json](./7704-actraiser-2.json) |
 | Acts of Blood | 305550 | [305550-acts-of-blood.json](./305550-acts-of-blood.json) |
@@ -5886,6 +5887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders: Shadow Magic | 591 | [591-age-of-wonders-shadow-magic.json](./591-age-of-wonders-shadow-magic.json) |
 | Age of Wulin | 78172 | [78172-age-of-wulin.json](./78172-age-of-wulin.json) |
 | Age of Wushu 2 | 26643 | [26643-age-of-wushu-2.json](./26643-age-of-wushu-2.json) |
+| Age of Wushu Dynasty | 23661 | [23661-age-of-wushu-dynasty.json](./23661-age-of-wushu-dynasty.json) |
 | Age of Zalmoxis: Rise of the Fallen | 271676 | [271676-age-of-zalmoxis-rise-of-the-fallen.json](./271676-age-of-zalmoxis-rise-of-the-fallen.json) |
 | Age of Zombies | 8628 | [8628-age-of-zombies.json](./8628-age-of-zombies.json) |
 | Age-age the Zero-Yon Shinya | 122955 | [122955-age-age-the-zero-yon-shinya.json](./122955-age-age-the-zero-yon-shinya.json) |
@@ -6714,6 +6716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Warrior II | 94486 | [94486-air-warrior-ii.json](./94486-air-warrior-ii.json) |
 | Air Warrior III | 376856 | [376856-air-warrior-iii.json](./376856-air-warrior-iii.json) |
 | Air Warrior III | 74086 | [74086-air-warrior-iii.json](./74086-air-warrior-iii.json) |
+| Air Wars | 23535 | [23535-air-wars.json](./23535-air-wars.json) |
 | Air Wars | 336561 | [336561-air-wars.json](./336561-air-wars.json) |
 | Air Wars 2 | 97976 | [97976-air-wars-2.json](./97976-air-wars-2.json) |
 | Air Wars 3 | 137877 | [137877-air-wars-3.json](./137877-air-wars-3.json) |
@@ -11098,6 +11101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Rome | 52389 | [52389-ancient-rome.json](./52389-ancient-rome.json) |
 | Ancient Rome 2 | 25504 | [25504-ancient-rome-2.json](./25504-ancient-rome-2.json) |
 | Ancient Ruins | 368662 | [368662-ancient-ruins.json](./368662-ancient-ruins.json) |
+| Ancient Ruins 1: The Crypt of the King | 23567 | [23567-ancient-ruins-1-the-crypt-of-the-king.json](./23567-ancient-ruins-1-the-crypt-of-the-king.json) |
 | Ancient Rus | 30355 | [30355-ancient-rus.json](./30355-ancient-rus.json) |
 | Ancient Rus vs. Lizards | 277013 | [277013-ancient-rus-vs-lizards.json](./277013-ancient-rus-vs-lizards.json) |
 | Ancient Rush 2 | 98762 | [98762-ancient-rush-2.json](./98762-ancient-rush-2.json) |
@@ -11948,6 +11952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Intern | 182823 | [182823-animal-intern.json](./182823-animal-intern.json) |
 | Animal Island | 353227 | [353227-animal-island.json](./353227-animal-island.json) |
 | Animal Island: The Wolf’s Onslaught | 384804 | [384804-animal-island-the-wolf-s-onslaught.json](./384804-animal-island-the-wolf-s-onslaught.json) |
+| Animal Jam | 23658 | [23658-animal-jam.json](./23658-animal-jam.json) |
 | Animal Jam Classic | 316795 | [316795-animal-jam-classic.json](./316795-animal-jam-classic.json) |
 | Animal Jam: Play Wild! | 86828 | [86828-animal-jam-play-wild.json](./86828-animal-jam-play-wild.json) |
 | Animal Jigsaw Puzzle | 99976 | [99976-animal-jigsaw-puzzle.json](./99976-animal-jigsaw-puzzle.json) |
