@@ -1165,7 +1165,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cold Beer | 406941 | [406941-ice-cold-beer.json](./406941-ice-cold-beer.json) |
 | Ice Cold Beer | 77592 | [77592-ice-cold-beer.json](./77592-ice-cold-beer.json) |
 | Ice Cold Case | 261695 | [261695-ice-cold-case.json](./261695-ice-cold-case.json) |
-| Ice craft : Winter crafting and building | 100788 | [100788-ice-craft-winter-crafting-and-building.json](./100788-ice-craft-winter-crafting-and-building.json) |
 | Ice Cream | 344005 | [344005-ice-cream.json](./344005-ice-cream.json) |
 | Ice Cream Break | 187769 | [187769-ice-cream-break.json](./187769-ice-cream-break.json) |
 | Ice Cream Break: Head to Head | 194397 | [194397-ice-cream-break-head-to-head.json](./194397-ice-cream-break-head-to-head.json) |
@@ -1913,7 +1912,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Surge | 230733 | [230733-idle-surge.json](./230733-idle-surge.json) |
 | Idle Survivor | 412527 | [412527-idle-survivor.json](./412527-idle-survivor.json) |
 | Idle Sushi Bar Tycoon | 420926 | [420926-idle-sushi-bar-tycoon.json](./420926-idle-sushi-bar-tycoon.json) |
-| Idle Sweeper | 100446 | [100446-idle-sweeper.json](./100446-idle-sweeper.json) |
 | Idle Sword | 182714 | [182714-idle-sword.json](./182714-idle-sword.json) |
 | Idle Sword 2 | 56925 | [56925-idle-sword-2.json](./56925-idle-sword-2.json) |
 | Idle Tamers: Mini Monsters | 188369 | [188369-idle-tamers-mini-monsters.json](./188369-idle-tamers-mini-monsters.json) |
@@ -2557,7 +2555,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion | 272140 | [272140-illusion.json](./272140-illusion.json) |
 | Illusion | 286769 | [286769-illusion.json](./286769-illusion.json) |
 | Illusion | 81280 | [81280-illusion.json](./81280-illusion.json) |
-| Illusion | 99650 | [99650-illusion.json](./99650-illusion.json) |
 | Illusion Bowling | 395605 | [395605-illusion-bowling.json](./395605-illusion-bowling.json) |
 | Illusion Box | 317787 | [317787-illusion-box.json](./317787-illusion-box.json) |
 | Illusion Carnival | 290888 | [290888-illusion-carnival.json](./290888-illusion-carnival.json) |
