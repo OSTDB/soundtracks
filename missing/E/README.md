@@ -1076,7 +1076,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the End | 152072 | [152072-echoes-of-the-end.json](./152072-echoes-of-the-end.json) |
 | Echoes of the End: Enhanced Edition | 411923 | [411923-echoes-of-the-end-enhanced-edition.json](./411923-echoes-of-the-end-enhanced-edition.json) |
 | Echoes of the Fey Episode 0: The Immolation | 29634 | [29634-echoes-of-the-fey-episode-0-the-immolation.json](./29634-echoes-of-the-fey-episode-0-the-immolation.json) |
-| Echoes of the Fey: The Last Sacrament | 102346 | [102346-echoes-of-the-fey-the-last-sacrament.json](./102346-echoes-of-the-fey-the-last-sacrament.json) |
 | Echoes of the Flame | 401459 | [401459-echoes-of-the-flame.json](./401459-echoes-of-the-flame.json) |
 | Echoes of the Forgotten | 251006 | [251006-echoes-of-the-forgotten.json](./251006-echoes-of-the-forgotten.json) |
 | Echoes of the Hive | 373523 | [373523-echoes-of-the-hive.json](./373523-echoes-of-the-hive.json) |
