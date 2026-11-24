@@ -6334,6 +6334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nirvana | 331687 | [331687-nirvana.json](./331687-nirvana.json) |
 | Nirvana | 425512 | [425512-nirvana.json](./425512-nirvana.json) |
 | Nirvana Noir | 279371 | [279371-nirvana-noir.json](./279371-nirvana-noir.json) |
+| Nirvana Pilot Yume | 75518 | [75518-nirvana-pilot-yume.json](./75518-nirvana-pilot-yume.json) |
 | Nirvana Pilot Yume: Deluxe Edition | 208045 | [208045-nirvana-pilot-yume-deluxe-edition.json](./208045-nirvana-pilot-yume-deluxe-edition.json) |
 | Nirvana Revenge | 66044 | [66044-nirvana-revenge.json](./66044-nirvana-revenge.json) |
 | Nirvana X-ROM | 142144 | [142144-nirvana-x-rom.json](./142144-nirvana-x-rom.json) |
@@ -6590,6 +6591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No JetPacks For Chattini | 346015 | [346015-no-jetpacks-for-chattini.json](./346015-no-jetpacks-for-chattini.json) |
 | No Jokes With Mages | 392373 | [392373-no-jokes-with-mages.json](./392373-no-jokes-with-mages.json) |
 | No King in Hell | 423324 | [423324-no-king-in-hell.json](./423324-no-king-in-hell.json) |
+| No King No Kingdom | 75606 | [75606-no-king-no-kingdom.json](./75606-no-king-no-kingdom.json) |
 | No King No Kingdom II | 272964 | [272964-no-king-no-kingdom-ii.json](./272964-no-king-no-kingdom-ii.json) |
 | No Kings Tiny Defenders | 376455 | [376455-no-kings-tiny-defenders.json](./376455-no-kings-tiny-defenders.json) |
 | No Lava | 292721 | [292721-no-lava.json](./292721-no-lava.json) |
