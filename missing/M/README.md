@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Shop Chaos | 414141 | [414141-magic-shop-chaos.json](./414141-magic-shop-chaos.json) |
 | Magic Shop Simulator | 417603 | [417603-magic-shop-simulator.json](./417603-magic-shop-simulator.json) |
 | Magic Shot | 18235 | [18235-magic-shot.json](./18235-magic-shot.json) |
+| Magic Siege | 75783 | [75783-magic-siege.json](./75783-magic-siege.json) |
 | Magic Smasher | 270983 | [270983-magic-smasher.json](./270983-magic-smasher.json) |
 | Magic Snake II | 71517 | [71517-magic-snake-ii.json](./71517-magic-snake-ii.json) |
 | Magic Soldier | 337372 | [337372-magic-soldier.json](./337372-magic-soldier.json) |
@@ -13457,6 +13458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike Tyson's Punch-Out!! | 2195 | [2195-mike-tysons-punch-out.json](./2195-mike-tysons-punch-out.json) |
 | Mike Tyson's Punch-Out!! SNES | 377739 | [377739-mike-tysons-punch-out-snes.json](./377739-mike-tysons-punch-out-snes.json) |
 | Mike V: Skateboard Party HD | 87709 | [87709-mike-v-skateboard-party-hd.json](./87709-mike-v-skateboard-party-hd.json) |
+| Mike was Cursed | 75763 | [75763-mike-was-cursed.json](./75763-mike-was-cursed.json) |
 | Mike, Lu & Og: Toy Builders | 241136 | [241136-mike-lu-and-og-toy-builders.json](./241136-mike-lu-and-og-toy-builders.json) |
 | Mike's Arcade | 227975 | [227975-mikes-arcade.json](./227975-mikes-arcade.json) |
 | Mike's Garden | 244421 | [244421-mikes-garden.json](./244421-mikes-garden.json) |
