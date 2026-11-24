@@ -19446,6 +19446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Karts | 40802 | [40802-atari-karts.json](./40802-atari-karts.json) |
 | Atari Kids 2006 | 94478 | [94478-atari-kids-2006.json](./94478-atari-kids-2006.json) |
 | Atari Legends Vol. 1 | 185884 | [185884-atari-legends-vol-1.json](./185884-atari-legends-vol-1.json) |
+| Atari Lynx Collection 2 | 134382 | [134382-atari-lynx-collection-2.json](./134382-atari-lynx-collection-2.json) |
 | Atari Masterpieces Vol. I | 47570 | [47570-atari-masterpieces-vol-i.json](./47570-atari-masterpieces-vol-i.json) |
 | Atari Masterpieces Vol. II | 47569 | [47569-atari-masterpieces-vol-ii.json](./47569-atari-masterpieces-vol-ii.json) |
 | Atari Mini Arcade | 275243 | [275243-atari-mini-arcade.json](./275243-atari-mini-arcade.json) |
