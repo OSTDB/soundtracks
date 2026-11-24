@@ -1769,7 +1769,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hansa Forever: Knarrs of Vikings | 427895 | [427895-hansa-forever-knarrs-of-vikings.json](./427895-hansa-forever-knarrs-of-vikings.json) |
 | Hansaku Otome no Tame no Kiyukyoku | 97650 | [97650-hansaku-otome-no-tame-no-kiyukyoku.json](./97650-hansaku-otome-no-tame-no-kiyukyoku.json) |
 | Hanse | 26458 | [26458-hanse.json](./26458-hanse.json) |
-| Hanse - The Hanseatic League | 100340 | [100340-hanse-the-hanseatic-league.json](./100340-hanse-the-hanseatic-league.json) |
 | Hanse: Die Expedition | 85818 | [85818-hanse-die-expedition.json](./85818-hanse-die-expedition.json) |
 | Hansel | 215308 | [215308-hansel.json](./215308-hansel.json) |
 | Hansel & Gretel | 66943 | [66943-hansel-and-gretel.json](./66943-hansel-and-gretel.json) |
@@ -6790,7 +6789,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermit the Sluggish Caterpillar of the Sea | 134808 | [134808-hermit-the-sluggish-caterpillar-of-the-sea.json](./134808-hermit-the-sluggish-caterpillar-of-the-sea.json) |
 | Hermit: an Underwater Tale | 211955 | [211955-hermit-an-underwater-tale.json](./211955-hermit-an-underwater-tale.json) |
 | Hermit's Tic-Tac-Toe | 243608 | [243608-hermits-tic-tac-toe.json](./243608-hermits-tic-tac-toe.json) |
-| Hermitage Strange Case Files | 99435 | [99435-hermitage-strange-case-files.json](./99435-hermitage-strange-case-files.json) |
 | Hermitage: Strange Case Files | 130256 | [130256-hermitage-strange-case-files.json](./130256-hermitage-strange-case-files.json) |
 | Hermitcraft TCG | 240552 | [240552-hermitcraft-tcg.json](./240552-hermitcraft-tcg.json) |
 | Hermodr | 39756 | [39756-hermodr.json](./39756-hermodr.json) |
@@ -6969,6 +6967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Soul: I Want to be a Hero! | 126786 | [126786-hero-soul-i-want-to-be-a-hero.json](./126786-hero-soul-i-want-to-be-a-hero.json) |
 | Hero Staff | 113655 | [113655-hero-staff.json](./113655-hero-staff.json) |
 | Hero Stickman | 346653 | [346653-hero-stickman.json](./346653-hero-stickman.json) |
+| Hero Strike | 424357 | [424357-hero-strike.json](./424357-hero-strike.json) |
 | Hero Survival | 250719 | [250719-hero-survival.json](./250719-hero-survival.json) |
 | Hero Swing VR | 120667 | [120667-hero-swing-vr.json](./120667-hero-swing-vr.json) |
 | Hero Sword | 149131 | [149131-hero-sword.json](./149131-hero-sword.json) |
@@ -10480,6 +10479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Throne | 76812 | [76812-hollow-throne.json](./76812-hollow-throne.json) |
 | Hollow Treats | 378207 | [378207-hollow-treats.json](./378207-hollow-treats.json) |
 | Hollow Victory | 259529 | [259529-hollow-victory.json](./259529-hollow-victory.json) |
+| Hollow Warden | 427526 | [427526-hollow-warden.json](./427526-hollow-warden.json) |
 | Hollow Witch | 143998 | [143998-hollow-witch.json](./143998-hollow-witch.json) |
 | Hollow Woods | 323616 | [323616-hollow-woods.json](./323616-hollow-woods.json) |
 | Hollow World: Dark Knight | 231055 | [231055-hollow-world-dark-knight.json](./231055-hollow-world-dark-knight.json) |
@@ -11810,6 +11810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Recruiter | 368046 | [368046-horny-recruiter.json](./368046-horny-recruiter.json) |
 | Horny Sekai | 152494 | [152494-horny-sekai.json](./152494-horny-sekai.json) |
 | Horny Spell | 226189 | [226189-horny-spell.json](./226189-horny-spell.json) |
+| Horny Spell: Barbarian Heart | 426879 | [426879-horny-spell-barbarian-heart.json](./426879-horny-spell-barbarian-heart.json) |
 | Horny Spy: Secret Mission | 262001 | [262001-horny-spy-secret-mission.json](./262001-horny-spy-secret-mission.json) |
 | Horny Suika: Wet Watermelon | 296614 | [296614-horny-suika-wet-watermelon.json](./296614-horny-suika-wet-watermelon.json) |
 | Horny Sweeper | 264716 | [264716-horny-sweeper.json](./264716-horny-sweeper.json) |
@@ -12334,7 +12335,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Pig Jump! | 368925 | [368925-hot-pig-jump.json](./368925-hot-pig-jump.json) |
 | Hot Pinball | 398447 | [398447-hot-pinball.json](./398447-hot-pinball.json) |
 | Hot Pinball Thrills | 35134 | [35134-hot-pinball-thrills.json](./35134-hot-pinball-thrills.json) |
-| Hot Pink | 100468 | [100468-hot-pink.json](./100468-hot-pink.json) |
 | Hot Pixel | 23096 | [23096-hot-pixel.json](./23096-hot-pixel.json) |
 | Hot Plates | 30366 | [30366-hot-plates.json](./30366-hot-plates.json) |
 | Hot Pool | 74454 | [74454-hot-pool.json](./74454-hot-pool.json) |
@@ -13307,7 +13307,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HowLongToBeat: The Game | 362903 | [362903-howlongtobeat-the-game.json](./362903-howlongtobeat-the-game.json) |
 | Howloween Hero | 178362 | [178362-howloween-hero.json](./178362-howloween-hero.json) |
 | Howlville | 54104 | [54104-howlville.json](./54104-howlville.json) |
-| Howlville: The Dark Past | 99084 | [99084-howlville-the-dark-past.json](./99084-howlville-the-dark-past.json) |
 | Howrse | 152750 | [152750-howrse.json](./152750-howrse.json) |
 | Howz-it! | 109520 | [109520-howz-it.json](./109520-howz-it.json) |
 | Howzat | 262008 | [262008-howzat.json](./262008-howzat.json) |
@@ -13454,7 +13453,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huaxia: Warring States | 314435 | [314435-huaxia-warring-states.json](./314435-huaxia-warring-states.json) |
 | Hub of Pain | 268912 | [268912-hub-of-pain.json](./268912-hub-of-pain.json) |
 | Hubble Bubble | 424172 | [424172-hubble-bubble.json](./424172-hubble-bubble.json) |
-| Hube: Seeker of Achievements | 100435 | [100435-hube-seeker-of-achievements.json](./100435-hube-seeker-of-achievements.json) |
 | Hubert | 346482 | [346482-hubert.json](./346482-hubert.json) |
 | Hubert Catching | 411109 | [411109-hubert-catching.json](./411109-hubert-catching.json) |
 | Hubert the Teddy Bear: Holiday Island | 68089 | [68089-hubert-the-teddy-bear-holiday-island.json](./68089-hubert-the-teddy-bear-holiday-island.json) |
