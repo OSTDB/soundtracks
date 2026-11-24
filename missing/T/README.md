@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiheiyou no Arashi: Shijou Saidai no Gekisen Normandy Koubousen | 147317 | [147317-taiheiyou-no-arashi-shijou-saidai-no-gekisen-normandy-koubousen.json](./147317-taiheiyou-no-arashi-shijou-saidai-no-gekisen-normandy-koubousen.json) |
 | Taijitu: A Game About Balance | 167289 | [167289-taijitu-a-game-about-balance.json](./167289-taijitu-a-game-about-balance.json) |
 | Taika | 306425 | [306425-taika.json](./306425-taika.json) |
+| Taiker | 26547 | [26547-taiker.json](./26547-taiker.json) |
 | Taiketsu Rumi-Zu! | 122944 | [122944-taiketsu-rumi-zu.json](./122944-taiketsu-rumi-zu.json) |
 | Taiketsu! Rooms | 217596 | [217596-taiketsu-rooms.json](./217596-taiketsu-rooms.json) |
 | Taiketsu! Ultra Hero | 49799 | [49799-taiketsu-ultra-hero.json](./49799-taiketsu-ultra-hero.json) |
@@ -10387,6 +10388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Epic (Sort of Not Really) of Koneko: A Game Made in 4 Hours | 421258 | [421258-the-epic-sort-of-not-really-of-koneko-a-game-made-in-4-hours.json](./421258-the-epic-sort-of-not-really-of-koneko-a-game-made-in-4-hours.json) |
 | The Epic and Amazing Adventure of GleepglorrpgilliandoohiggintilliousMMDCCXXXIX the Adventure Where GleepglorrpgilliandoohiggintilliousMMDCCXXXIX Lives and Becomes King GleepglorrpgilliandoohiggintilliousMMDCCXXXIX | 410947 | [410947-the-epic-and-amazing-adventure-of-gleepglorrpgilliandoohiggintilliousmmdccxxxix-the-adventure-where-gleepglorrpgilliandoohiggintilliousmmdccxxxix-lives-and-becomes-king-gleepglorrpgilliandoohiggintilliousmmdccxxxix.json](./410947-the-epic-and-amazing-adventure-of-gleepglorrpgilliandoohiggintilliousmmdccxxxix-the-adventure-where-gleepglorrpgilliandoohiggintilliousmmdccxxxix-lives-and-becomes-king-gleepglorrpgilliandoohiggintilliousmmdccxxxix.json) |
 | The Epic Bang Theory | 100542 | [100542-the-epic-bang-theory.json](./100542-the-epic-bang-theory.json) |
+| The Epic Might | 23632 | [23632-the-epic-might.json](./23632-the-epic-might.json) |
 | The Epic of Inanna | 147039 | [147039-the-epic-of-inanna.json](./147039-the-epic-of-inanna.json) |
 | The Epic of Jusen | 145598 | [145598-the-epic-of-jusen.json](./145598-the-epic-of-jusen.json) |
 | The epic of legend 1 -The Tower of Lost | 106716 | [106716-the-epic-of-legend-1-the-tower-of-lost.json](./106716-the-epic-of-legend-1-the-tower-of-lost.json) |
@@ -18300,6 +18302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ritual | 133852 | [133852-the-ritual.json](./133852-the-ritual.json) |
 | The Ritual | 184031 | [184031-the-ritual.json](./184031-the-ritual.json) |
 | The Ritual | 339010 | [339010-the-ritual.json](./339010-the-ritual.json) |
+| The Ritual on Weylyn Island | 26531 | [26531-the-ritual-on-weylyn-island.json](./26531-the-ritual-on-weylyn-island.json) |
 | The Ritual: Part I | 311376 | [311376-the-ritual-part-i.json](./311376-the-ritual-part-i.json) |
 | The Ritual: Part II | 311381 | [311381-the-ritual-part-ii.json](./311381-the-ritual-part-ii.json) |
 | The River | 114227 | [114227-the-river.json](./114227-the-river.json) |
@@ -35719,6 +35722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribal Trouble | 64958 | [64958-tribal-trouble.json](./64958-tribal-trouble.json) |
 | Tribal Trouble 2 | 66300 | [66300-tribal-trouble-2.json](./66300-tribal-trouble-2.json) |
 | Tribal Wars | 148522 | [148522-tribal-wars.json](./148522-tribal-wars.json) |
+| Tribal Wars 2 | 23634 | [23634-tribal-wars-2.json](./23634-tribal-wars-2.json) |
 | TriBalls | 400452 | [400452-triballs.json](./400452-triballs.json) |
 | Tribals.io | 228783 | [228783-tribals-io.json](./228783-tribals-io.json) |
 | Tribble Troubles | 133160 | [133160-tribble-troubles.json](./133160-tribble-troubles.json) |
@@ -36441,6 +36445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron | 5247 | [5247-tron.json](./5247-tron.json) |
 | Tron | 89933 | [89933-tron.json](./89933-tron.json) |
 | Tron 2.0 | 6217 | [6217-tron-2-0.json](./6217-tron-2-0.json) |
+| Tron 2.0: Discs of Tron | 23604 | [23604-tron-2-0-discs-of-tron.json](./23604-tron-2-0-discs-of-tron.json) |
 | Tron 2.0: Killer App | 79835 | [79835-tron-2-0-killer-app.json](./79835-tron-2-0-killer-app.json) |
 | Tron 2.0: Killer App Mod | 327416 | [327416-tron-2-0-killer-app-mod.json](./327416-tron-2-0-killer-app-mod.json) |
 | Tron Evolution: Battle Grids | 5246 | [5246-tron-evolution-battle-grids.json](./5246-tron-evolution-battle-grids.json) |
