@@ -1711,6 +1711,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Desire Mute 6 | 260412 | [260412-dark-desire-mute-6.json](./260412-dark-desire-mute-6.json) |
 | Dark Destruction | 303450 | [303450-dark-destruction.json](./303450-dark-destruction.json) |
 | Dark Devotion | 68582 | [68582-dark-devotion.json](./68582-dark-devotion.json) |
+| Dark Dice | 427543 | [427543-dark-dice.json](./427543-dark-dice.json) |
+| Dark Dice: The Lost Case Files | 427547 | [427547-dark-dice-the-lost-case-files.json](./427547-dark-dice-the-lost-case-files.json) |
 | Dark DieMansion | 405687 | [405687-dark-diemansion.json](./405687-dark-diemansion.json) |
 | Dark Dimension | 195945 | [195945-dark-dimension.json](./195945-dark-dimension.json) |
 | Dark Dimensions: Blade Master | 187913 | [187913-dark-dimensions-blade-master.json](./187913-dark-dimensions-blade-master.json) |
@@ -2452,7 +2454,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Hunters | 115409 | [115409-darkest-hunters.json](./115409-darkest-hunters.json) |
 | Darkest Light | 294127 | [294127-darkest-light.json](./294127-darkest-light.json) |
 | Darkest Mana : Master of the Table | 102479 | [102479-darkest-mana-master-of-the-table.json](./102479-darkest-mana-master-of-the-table.json) |
-| Darkest Maze | 99224 | [99224-darkest-maze.json](./99224-darkest-maze.json) |
 | Darkest Messia | 390334 | [390334-darkest-messia.json](./390334-darkest-messia.json) |
 | Darkest Mine | 316967 | [316967-darkest-mine.json](./316967-darkest-mine.json) |
 | Darkest Moon | 132001 | [132001-darkest-moon.json](./132001-darkest-moon.json) |
@@ -2585,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkRanger | 344877 | [344877-darkranger.json](./344877-darkranger.json) |
 | DarkRay | 410492 | [410492-darkray.json](./410492-darkray.json) |
 | Darkrise | 208196 | [208196-darkrise.json](./208196-darkrise.json) |
+| Darkrise | 427542 | [427542-darkrise.json](./427542-darkrise.json) |
 | Darkrite: The Blight of Love | 386449 | [386449-darkrite-the-blight-of-love.json](./386449-darkrite-the-blight-of-love.json) |
 | Darkroom | 356607 | [356607-darkroom.json](./356607-darkroom.json) |
 | Darkroom | 75666 | [75666-darkroom.json](./75666-darkroom.json) |
@@ -3883,7 +3885,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De:Fanastasis | 297812 | [297812-de-fanastasis.json](./297812-de-fanastasis.json) |
 | De:Lithe Last Memories | 314083 | [314083-de-lithe-last-memories.json](./314083-de-lithe-last-memories.json) |
 | De:Void | 135813 | [135813-de-void.json](./135813-de-void.json) |
-| De'Vine World of Shadows | 99665 | [99665-devine-world-of-shadows.json](./99665-devine-world-of-shadows.json) |
 | De'Vine: Card Battles | 125604 | [125604-devine-card-battles.json](./125604-devine-card-battles.json) |
 | De'Vine: Heavenly Acres | 207748 | [207748-devine-heavenly-acres.json](./207748-devine-heavenly-acres.json) |
 | De'Vot | 258497 | [258497-devot.json](./258497-devot.json) |
@@ -4529,7 +4530,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Seater | 145174 | [145174-dead-seater.json](./145174-dead-seater.json) |
 | Dead Second | 216300 | [216300-dead-second.json](./216300-dead-second.json) |
 | Dead Secret | 14403 | [14403-dead-secret.json](./14403-dead-secret.json) |
-| Dead Secret Circle | 99822 | [99822-dead-secret-circle.json](./99822-dead-secret-circle.json) |
 | Dead Sector | 179298 | [179298-dead-sector.json](./179298-dead-sector.json) |
 | Dead Sector | 222316 | [222316-dead-sector.json](./222316-dead-sector.json) |
 | Dead Sector | 427911 | [427911-dead-sector.json](./427911-dead-sector.json) |
@@ -4793,7 +4793,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Deals | 348591 | [348591-deadly-deals.json](./348591-deadly-deals.json) |
 | Deadly Delivery | 252005 | [252005-deadly-delivery.json](./252005-deadly-delivery.json) |
 | Deadly Delivery | 344162 | [344162-deadly-delivery.json](./344162-deadly-delivery.json) |
-| Deadly Delivery | 99499 | [99499-deadly-delivery.json](./99499-deadly-delivery.json) |
 | Deadly Delivery: Goldmoon Update | 400668 | [400668-deadly-delivery-goldmoon-update.json](./400668-deadly-delivery-goldmoon-update.json) |
 | Deadly Descent | 310905 | [310905-deadly-descent.json](./310905-deadly-descent.json) |
 | Deadly Desert | 220009 | [220009-deadly-desert.json](./220009-deadly-desert.json) |
@@ -5254,7 +5253,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Harvest | 247718 | [247718-death-harvest.json](./247718-death-harvest.json) |
 | Death Horizon | 68142 | [68142-death-horizon.json](./68142-death-horizon.json) |
 | Death Horizon Reloaded | 123988 | [123988-death-horizon-reloaded.json](./123988-death-horizon-reloaded.json) |
-| Death Horizon VR | 100771 | [100771-death-horizon-vr.json](./100771-death-horizon-vr.json) |
 | Death Horizon: Cyberfusion | 298227 | [298227-death-horizon-cyberfusion.json](./298227-death-horizon-cyberfusion.json) |
 | Death Howl: Deluxe Edition | 401737 | [401737-death-howl-deluxe-edition.json](./401737-death-howl-deluxe-edition.json) |
 | Death Imminent | 379014 | [379014-death-imminent.json](./379014-death-imminent.json) |
@@ -5633,6 +5631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathtrip | 297872 | [297872-deathtrip.json](./297872-deathtrip.json) |
 | Deathtroopers: The Outpost | 298391 | [298391-deathtroopers-the-outpost.json](./298391-deathtroopers-the-outpost.json) |
 | Deathverse: Let It Die | 178297 | [178297-deathverse-let-it-die.json](./178297-deathverse-let-it-die.json) |
+| Deathwalkers | 427529 | [427529-deathwalkers.json](./427529-deathwalkers.json) |
 | Deathward | 397590 | [397590-deathward.json](./397590-deathward.json) |
 | Deathwatch | 221258 | [221258-deathwatch.json](./221258-deathwatch.json) |
 | Deathwatchers | 267735 | [267735-deathwatchers.json](./267735-deathwatchers.json) |
@@ -8910,7 +8909,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy the Demon Army | 370196 | [370196-destroy-the-demon-army.json](./370196-destroy-the-demon-army.json) |
 | Destroy the Dummies | 158641 | [158641-destroy-the-dummies.json](./158641-destroy-the-dummies.json) |
 | Destroy the Hexons | 156129 | [156129-destroy-the-hexons.json](./156129-destroy-the-hexons.json) |
-| Destroy the House - Smash Home Interiors | 99708 | [99708-destroy-the-house-smash-home-interiors.json](./99708-destroy-the-house-smash-home-interiors.json) |
 | Destroy the Monoliths | 244644 | [244644-destroy-the-monoliths.json](./244644-destroy-the-monoliths.json) |
 | Destroy the Porn | 50256 | [50256-destroy-the-porn.json](./50256-destroy-the-porn.json) |
 | Destroy the Shogun | 167520 | [167520-destroy-the-shogun.json](./167520-destroy-the-shogun.json) |
@@ -17674,7 +17672,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Saddle Melee | 157061 | [157061-dragon-saddle-melee.json](./157061-dragon-saddle-melee.json) |
 | Dragon Saga | 15888 | [15888-dragon-saga.json](./15888-dragon-saga.json) |
 | Dragon Saikyou Ouzukan: Battle Colosseum | 306192 | [306192-dragon-saikyou-ouzukan-battle-colosseum.json](./306192-dragon-saikyou-ouzukan-battle-colosseum.json) |
-| Dragon Saiyan Warrior | 100783 | [100783-dragon-saiyan-warrior.json](./100783-dragon-saiyan-warrior.json) |
 | Dragon Scape | 74557 | [74557-dragon-scape.json](./74557-dragon-scape.json) |
 | Dragon Scroll | 233256 | [233256-dragon-scroll.json](./233256-dragon-scroll.json) |
 | Dragon Scroll: Yomigaerishi Maryuu | 48512 | [48512-dragon-scroll-yomigaerishi-maryuu.json](./48512-dragon-scroll-yomigaerishi-maryuu.json) |
@@ -19826,7 +19823,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop the Ball! | 89736 | [89736-drop-the-ball.json](./89736-drop-the-ball.json) |
 | Drop the Ballz | 106866 | [106866-drop-the-ballz.json](./106866-drop-the-ballz.json) |
 | Drop the Ballz | 106932 | [106932-drop-the-ballz.json](./106932-drop-the-ballz.json) |
-| Drop the Bomb | 99587 | [99587-drop-the-bomb.json](./99587-drop-the-bomb.json) |
 | Drop The Cat | 387473 | [387473-drop-the-cat.json](./387473-drop-the-cat.json) |
 | Drop the Clock | 91223 | [91223-drop-the-clock.json](./91223-drop-the-clock.json) |
 | Drop the Dice | 275752 | [275752-drop-the-dice.json](./275752-drop-the-dice.json) |
