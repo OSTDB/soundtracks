@@ -2925,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data East Arcade Pack #1 | 155215 | [155215-data-east-arcade-pack-1.json](./155215-data-east-arcade-pack-1.json) |
 | Data East Classic Collection | 77431 | [77431-data-east-classic-collection.json](./77431-data-east-classic-collection.json) |
 | Data East Co-op Pack #1 | 155214 | [155214-data-east-co-op-pack-1.json](./155214-data-east-co-op-pack-1.json) |
+| Data East Collection 1 | 130815 | [130815-data-east-collection-1.json](./130815-data-east-collection-1.json) |
 | Data East's Arcade Alley | 84185 | [84185-data-easts-arcade-alley.json](./84185-data-easts-arcade-alley.json) |
 | Data East's Hoops | 97330 | [97330-data-easts-hoops.json](./97330-data-easts-hoops.json) |
 | Data Fantasy | 392127 | [392127-data-fantasy.json](./392127-data-fantasy.json) |
@@ -15250,6 +15251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom | 377730 | [377730-doom.json](./377730-doom.json) |
 | Doom & Destiny | 13168 | [13168-doom-and-destiny.json](./13168-doom-and-destiny.json) |
 | Doom & Destiny Advanced | 25944 | [25944-doom-and-destiny-advanced.json](./25944-doom-and-destiny-advanced.json) |
+| Doom & Destiny Worlds | 133012 | [133012-doom-and-destiny-worlds.json](./133012-doom-and-destiny-worlds.json) |
 | Doom & Destiny Worlds: Damsels & Dragons | 251099 | [251099-doom-and-destiny-worlds-damsels-and-dragons.json](./251099-doom-and-destiny-worlds-damsels-and-dragons.json) |
 | Doom & Destiny Worlds: Fantastic Quests and Where to Find Them | 197572 | [197572-doom-and-destiny-worlds-fantastic-quests-and-where-to-find-them.json](./197572-doom-and-destiny-worlds-fantastic-quests-and-where-to-find-them.json) |
 | Doom & Destiny Worlds: Iron Nerds | 197301 | [197301-doom-and-destiny-worlds-iron-nerds.json](./197301-doom-and-destiny-worlds-iron-nerds.json) |
