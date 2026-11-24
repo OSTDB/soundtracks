@@ -157,7 +157,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza Empire | 139699 | [139699-yakuza-empire.json](./139699-yakuza-empire.json) |
 | Yakuza Fury | 43667 | [43667-yakuza-fury.json](./43667-yakuza-fury.json) |
 | Yakuza GB | 301530 | [301530-yakuza-gb.json](./301530-yakuza-gb.json) |
-| Yakuza Kiss | 104130 | [104130-yakuza-kiss.json](./104130-yakuza-kiss.json) |
 | Yakuza Kiwami & Yakuza Kiwami 2 Bundle | 370796 | [370796-yakuza-kiwami-and-yakuza-kiwami-2-bundle.json](./370796-yakuza-kiwami-and-yakuza-kiwami-2-bundle.json) |
 | Yakuza Kiwami 2 | 55090 | [55090-yakuza-kiwami-2.json](./55090-yakuza-kiwami-2.json) |
 | Yakuza Kiwami 2: Clan Creator Bundle | 224153 | [224153-yakuza-kiwami-2-clan-creator-bundle.json](./224153-yakuza-kiwami-2-clan-creator-bundle.json) |
@@ -385,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yarrow Valley | 225250 | [225250-yarrow-valley.json](./225250-yarrow-valley.json) |
 | Yarrr Royale | 422177 | [422177-yarrr-royale.json](./422177-yarrr-royale.json) |
 | Yars Rising | 298314 | [298314-yars-rising.json](./298314-yars-rising.json) |
+| Yars: Recharged | 211321 | [211321-yars-recharged.json](./211321-yars-recharged.json) |
 | Yars' Return | 130702 | [130702-yars-return.json](./130702-yars-return.json) |
 | Yars' Revenge | 151837 | [151837-yars-revenge.json](./151837-yars-revenge.json) |
 | Yars' Revenge | 9757 | [9757-yars-revenge.json](./9757-yars-revenge.json) |
@@ -527,7 +527,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yehuelu Online | 425797 | [425797-yehuelu-online.json](./425797-yehuelu-online.json) |
 | YEKO | 394811 | [394811-yeko.json](./394811-yeko.json) |
 | Yelaxot | 59065 | [59065-yelaxot.json](./59065-yelaxot.json) |
-| Yeli Orog | 104331 | [104331-yeli-orog.json](./104331-yeli-orog.json) |
 | Yelling At Cats: The Game | 395727 | [395727-yelling-at-cats-the-game.json](./395727-yelling-at-cats-the-game.json) |
 | Yello Adventures | 242571 | [242571-yello-adventures.json](./242571-yello-adventures.json) |
 | Yello Bandana | 55418 | [55418-yello-bandana.json](./55418-yello-bandana.json) |
