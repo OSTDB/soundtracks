@@ -2382,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark: Cult of the Dead | 10138 | [10138-dark-cult-of-the-dead.json](./10138-dark-cult-of-the-dead.json) |
 | Dark: Frontier | 94998 | [94998-dark-frontier.json](./94998-dark-frontier.json) |
 | DarkAir | 160094 | [160094-darkair.json](./160094-darkair.json) |
+| Darkan | 428711 | [428711-darkan.json](./428711-darkan.json) |
 | DarkAndLight | 280362 | [280362-darkandlight.json](./280362-darkandlight.json) |
 | Darkanoid | 143961 | [143961-darkanoid.json](./143961-darkanoid.json) |
 | Darkarta: A Broken Heart's Quest | 55315 | [55315-darkarta-a-broken-hearts-quest.json](./55315-darkarta-a-broken-hearts-quest.json) |
@@ -10026,6 +10027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Legends | 333288 | [333288-dice-legends.json](./333288-dice-legends.json) |
 | Dice Life: Dice Game | 291618 | [291618-dice-life-dice-game.json](./291618-dice-life-dice-game.json) |
 | Dice Looter | 414145 | [414145-dice-looter.json](./414145-dice-looter.json) |
+| Dice Mafia | 430340 | [430340-dice-mafia.json](./430340-dice-mafia.json) |
 | Dice Mage | 291958 | [291958-dice-mage.json](./291958-dice-mage.json) |
 | Dice Mage 2 | 87866 | [87866-dice-mage-2.json](./87866-dice-mage-2.json) |
 | Dice Make 10! | 314860 | [314860-dice-make-10.json](./314860-dice-make-10.json) |
@@ -13349,6 +13351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doces & Calabouços: Caos no Reino do Doce | 335244 | [335244-doces-and-calaboucos-caos-no-reino-do-doce.json](./335244-doces-and-calaboucos-caos-no-reino-do-doce.json) |
 | Doces Santos o Jogo | 317120 | [317120-doces-santos-o-jogo.json](./317120-doces-santos-o-jogo.json) |
 | Docile Fright | 237212 | [237212-docile-fright.json](./237212-docile-fright.json) |
+| Dock 7 | 431133 | [431133-dock-7.json](./431133-dock-7.json) |
 | Dock King | 204420 | [204420-dock-king.json](./204420-dock-king.json) |
 | Dock'em | 91706 | [91706-dockem.json](./91706-dockem.json) |
 | Docked | 361023 | [361023-docked.json](./361023-docked.json) |
@@ -18280,6 +18283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawing Carnival: Horror Style | 276961 | [276961-drawing-carnival-horror-style.json](./276961-drawing-carnival-horror-style.json) |
 | Drawing Evolution | 181314 | [181314-drawing-evolution.json](./181314-drawing-evolution.json) |
 | Drawing From Memory | 231412 | [231412-drawing-from-memory.json](./231412-drawing-from-memory.json) |
+| Drawing Impostor | 430138 | [430138-drawing-impostor.json](./430138-drawing-impostor.json) |
 | Drawing Path | 119818 | [119818-drawing-path.json](./119818-drawing-path.json) |
 | Drawing Rush | 233480 | [233480-drawing-rush.json](./233480-drawing-rush.json) |
 | Drawing Telephone Game: Telpic | 138635 | [138635-drawing-telephone-game-telpic.json](./138635-drawing-telephone-game-telpic.json) |
@@ -19493,6 +19497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive on Moscow: Crisis in Command Vol. 2 | 99877 | [99877-drive-on-moscow-crisis-in-command-vol-2.json](./99877-drive-on-moscow-crisis-in-command-vol-2.json) |
 | Drive on Moscow: War in the Snow | 58104 | [58104-drive-on-moscow-war-in-the-snow.json](./58104-drive-on-moscow-war-in-the-snow.json) |
 | Drive or Die | 156706 | [156706-drive-or-die.json](./156706-drive-or-die.json) |
+| Drive or Die | 431189 | [431189-drive-or-die.json](./431189-drive-or-die.json) |
 | Drive Out | 311525 | [311525-drive-out.json](./311525-drive-out.json) |
 | Drive Real Truck SImulator | 409625 | [409625-drive-real-truck-simulator.json](./409625-drive-real-truck-simulator.json) |
 | Drive Simulator 2016 | 90673 | [90673-drive-simulator-2016.json](./90673-drive-simulator-2016.json) |
