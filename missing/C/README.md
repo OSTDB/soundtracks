@@ -7008,6 +7008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Code | 78605 | [78605-chaos-code.json](./78605-chaos-code.json) |
 | Chaos Code: Exact Xeno Attack | 348232 | [348232-chaos-code-exact-xeno-attack.json](./348232-chaos-code-exact-xeno-attack.json) |
 | Chaos Code: Nemesis Experiment | 128906 | [128906-chaos-code-nemesis-experiment.json](./128906-chaos-code-nemesis-experiment.json) |
+| Chaos Code: New Sign of Catastrophe | 27718 | [27718-chaos-code-new-sign-of-catastrophe.json](./27718-chaos-code-new-sign-of-catastrophe.json) |
 | Chaos Coin | 363951 | [363951-chaos-coin.json](./363951-chaos-coin.json) |
 | Chaos Combat Chess | 161512 | [161512-chaos-combat-chess.json](./161512-chaos-combat-chess.json) |
 | Chaos Combat Copters HD | 108562 | [108562-chaos-combat-copters-hd.json](./108562-chaos-combat-copters-hd.json) |
@@ -8389,6 +8390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Shoot - Edition 2012 | 52493 | [52493-chicken-shoot-edition-2012.json](./52493-chicken-shoot-edition-2012.json) |
 | Chicken Shoot 2 | 248634 | [248634-chicken-shoot-2.json](./248634-chicken-shoot-2.json) |
 | Chicken Shoot 2 | 49307 | [49307-chicken-shoot-2.json](./49307-chicken-shoot-2.json) |
+| Chicken Shoot Gold | 27706 | [27706-chicken-shoot-gold.json](./27706-chicken-shoot-gold.json) |
 | Chicken Shoot: Easter Eggs | 204574 | [204574-chicken-shoot-easter-eggs.json](./204574-chicken-shoot-easter-eggs.json) |
 | Chicken Smoothie | 225707 | [225707-chicken-smoothie.json](./225707-chicken-smoothie.json) |
 | Chicken Story 2 | 256663 | [256663-chicken-story-2.json](./256663-chicken-story-2.json) |
@@ -13303,6 +13305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codex Lost | 235597 | [235597-codex-lost.json](./235597-codex-lost.json) |
 | Codex Lost 2 | 387838 | [387838-codex-lost-2.json](./387838-codex-lost-2.json) |
 | Codex Mortis | 380942 | [380942-codex-mortis.json](./380942-codex-mortis.json) |
+| Codex of Victory | 27802 | [27802-codex-of-victory.json](./27802-codex-of-victory.json) |
 | Codex Temondera: Lost Vision | 115340 | [115340-codex-temondera-lost-vision.json](./115340-codex-temondera-lost-vision.json) |
 | Codex vs Science (Not Talos Principles) | 422292 | [422292-codex-vs-science-not-talos-principles.json](./422292-codex-vs-science-not-talos-principles.json) |
 | Codex: Eternal Eclipse | 305094 | [305094-codex-eternal-eclipse.json](./305094-codex-eternal-eclipse.json) |
