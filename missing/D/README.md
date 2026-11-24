@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D96: Kansei | 258353 | [258353-d96-kansei.json](./258353-d96-kansei.json) |
 | Da Box | 59672 | [59672-da-box.json](./59672-da-box.json) |
 | Da Bridge Troll | 426022 | [426022-da-bridge-troll.json](./426022-da-bridge-troll.json) |
+| Da Capo 3 R | 27760 | [27760-da-capo-3-r.json](./27760-da-capo-3-r.json) |
 | Da Capo II: Plus Communication | 66239 | [66239-da-capo-ii-plus-communication.json](./66239-da-capo-ii-plus-communication.json) |
 | Da Capo Innocent Finale | 371576 | [371576-da-capo-innocent-finale.json](./371576-da-capo-innocent-finale.json) |
 | Da Da Daungo | 277131 | [277131-da-da-daungo.json](./277131-da-da-daungo.json) |
@@ -2057,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Prospect | 128994 | [128994-dark-prospect.json](./128994-dark-prospect.json) |
 | Dark Queen of Samobor | 311877 | [311877-dark-queen-of-samobor.json](./311877-dark-queen-of-samobor.json) |
 | Dark Quest | 145651 | [145651-dark-quest.json](./145651-dark-quest.json) |
+| Dark Quest | 27488 | [27488-dark-quest.json](./27488-dark-quest.json) |
 | Dark Quest 1 & 2 | 154194 | [154194-dark-quest-1-and-2.json](./154194-dark-quest-1-and-2.json) |
 | Dark Quest 2 | 27487 | [27487-dark-quest-2.json](./27487-dark-quest-2.json) |
 | Dark Quest 3 | 246295 | [246295-dark-quest-3.json](./246295-dark-quest-3.json) |
@@ -4492,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising 4 | 19521 | [19521-dead-rising-4.json](./19521-dead-rising-4.json) |
 | Dead Rising 4: Capcom Heroes | 202965 | [202965-dead-rising-4-capcom-heroes.json](./202965-dead-rising-4-capcom-heroes.json) |
 | Dead Rising 4: Deluxe Edition | 52871 | [52871-dead-rising-4-deluxe-edition.json](./52871-dead-rising-4-deluxe-edition.json) |
+| Dead Rising 4: Frank Rising | 27886 | [27886-dead-rising-4-frank-rising.json](./27886-dead-rising-4-frank-rising.json) |
 | Dead Rising 4: Frank's Big Package | 57693 | [57693-dead-rising-4-franks-big-package.json](./57693-dead-rising-4-franks-big-package.json) |
 | Dead Rising 4: Special Edition | 136670 | [136670-dead-rising-4-special-edition.json](./136670-dead-rising-4-special-edition.json) |
 | Dead Rising Deluxe Remaster: Costume & BGM - Ashley Graham | 360166 | [360166-dead-rising-deluxe-remaster-costume-and-bgm-ashley-graham.json](./360166-dead-rising-deluxe-remaster-costume-and-bgm-ashley-graham.json) |
@@ -9595,6 +9598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devoid | 229212 | [229212-devoid.json](./229212-devoid.json) |
 | Devoid | 367192 | [367192-devoid.json](./367192-devoid.json) |
 | Devoid | 377568 | [377568-devoid.json](./377568-devoid.json) |
+| Devoid of Shadows | 27370 | [27370-devoid-of-shadows.json](./27370-devoid-of-shadows.json) |
 | Devoid Prototype | 263892 | [263892-devoid-prototype.json](./263892-devoid-prototype.json) |
 | Devolution Duel | 428823 | [428823-devolution-duel.json](./428823-devolution-duel.json) |
 | Devolution: Maken no Ou to Shimobe-tachi | 220329 | [220329-devolution-maken-no-ou-to-shimobe-tachi.json](./220329-devolution-maken-no-ou-to-shimobe-tachi.json) |
@@ -18485,6 +18489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Catcher VR | 203757 | [203757-dream-catcher-vr.json](./203757-dream-catcher-vr.json) |
 | Dream Catchers | 164448 | [164448-dream-catchers.json](./164448-dream-catchers.json) |
 | Dream Celestial Body | 274524 | [274524-dream-celestial-body.json](./274524-dream-celestial-body.json) |
+| Dream Chamber | 27332 | [27332-dream-chamber.json](./27332-dream-chamber.json) |
 | Dream Change: Kokin-chan no Fashion Party | 66249 | [66249-dream-change-kokin-chan-no-fashion-party.json](./66249-dream-change-kokin-chan-no-fashion-party.json) |
 | Dream Channel | 75929 | [75929-dream-channel.json](./75929-dream-channel.json) |
 | Dream Channel Zero | 250289 | [250289-dream-channel-zero.json](./250289-dream-channel-zero.json) |
@@ -22668,6 +22673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystopicon | 163134 | [163134-dystopicon.json](./163134-dystopicon.json) |
 | Dystopika: B-Sides | 378697 | [378697-dystopika-b-sides.json](./378697-dystopika-b-sides.json) |
 | Dystopy | 30748 | [30748-dystopy.json](./30748-dystopy.json) |
+| Dystoria | 27387 | [27387-dystoria.json](./27387-dystoria.json) |
 | Dystropicana | 184188 | [184188-dystropicana.json](./184188-dystropicana.json) |
 | Dyter-07 | 12577 | [12577-dyter-07.json](./12577-dyter-07.json) |
 | Dyztopia: Post-Human RPG | 231748 | [231748-dyztopia-post-human-rpg.json](./231748-dyztopia-post-human-rpg.json) |
