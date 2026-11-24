@@ -2869,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Power Spikes II | 82392 | [82392-aca-neo-geo-power-spikes-ii.json](./82392-aca-neo-geo-power-spikes-ii.json) |
 | ACA Neo Geo: Prehistoric Isle 2 | 118544 | [118544-aca-neo-geo-prehistoric-isle-2.json](./118544-aca-neo-geo-prehistoric-isle-2.json) |
 | ACA Neo Geo: Pulstar | 99511 | [99511-aca-neo-geo-pulstar.json](./99511-aca-neo-geo-pulstar.json) |
+| ACA Neo Geo: Puzzle Bobble | 113438 | [113438-aca-neo-geo-puzzle-bobble.json](./113438-aca-neo-geo-puzzle-bobble.json) |
 | ACA Neo Geo: Puzzle Bobble 2 | 115050 | [115050-aca-neo-geo-puzzle-bobble-2.json](./115050-aca-neo-geo-puzzle-bobble-2.json) |
 | ACA Neo Geo: Puzzled | 68482 | [68482-aca-neo-geo-puzzled.json](./68482-aca-neo-geo-puzzled.json) |
 | ACA Neo Geo: Ragnagard | 113552 | [113552-aca-neo-geo-ragnagard.json](./113552-aca-neo-geo-ragnagard.json) |
@@ -7619,6 +7620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Emporium | 149963 | [149963-alchemy-emporium.json](./149963-alchemy-emporium.json) |
 | Alchemy Factory | 342686 | [342686-alchemy-factory.json](./342686-alchemy-factory.json) |
 | Alchemy Frogs | 295600 | [295600-alchemy-frogs.json](./295600-alchemy-frogs.json) |
+| Alchemy Garden | 113758 | [113758-alchemy-garden.json](./113758-alchemy-garden.json) |
 | Alchemy Hearts | 401065 | [401065-alchemy-hearts.json](./401065-alchemy-hearts.json) |
 | Alchemy Idle Clicker | 101804 | [101804-alchemy-idle-clicker.json](./101804-alchemy-idle-clicker.json) |
 | Alchemy in Dungeon | 337809 | [337809-alchemy-in-dungeon.json](./337809-alchemy-in-dungeon.json) |
@@ -8492,6 +8494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien's Return | 11237 | [11237-aliens-return.json](./11237-aliens-return.json) |
 | Alien's Return | 79315 | [79315-aliens-return.json](./79315-aliens-return.json) |
 | Alien3: The Gun | 38520 | [38520-alien3-the-gun.json](./38520-alien3-the-gun.json) |
+| AlienAfterlife | 114220 | [114220-alienafterlife.json](./114220-alienafterlife.json) |
 | Alienate!: A Trivia Game | 217438 | [217438-alienate-a-trivia-game.json](./217438-alienate-a-trivia-game.json) |
 | Alienated | 259790 | [259790-alienated.json](./259790-alienated.json) |
 | Alienated 2 | 241610 | [241610-alienated-2.json](./241610-alienated-2.json) |
@@ -18418,6 +18421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteion Nights | 87559 | [87559-asteion-nights.json](./87559-asteion-nights.json) |
 | Asteka | 61939 | [61939-asteka.json](./61939-asteka.json) |
 | Astelight Shissouki | 59172 | [59172-astelight-shissouki.json](./59172-astelight-shissouki.json) |
+| Astellia | 113957 | [113957-astellia.json](./113957-astellia.json) |
 | Astellia Royal | 160000 | [160000-astellia-royal.json](./160000-astellia-royal.json) |
 | Aster | 264447 | [264447-aster.json](./264447-aster.json) |
 | Aster Force | 195114 | [195114-aster-force.json](./195114-aster-force.json) |
@@ -21252,6 +21256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awake | 34025 | [34025-awake.json](./34025-awake.json) |
 | Awake | 343247 | [343247-awake.json](./343247-awake.json) |
 | Awake | 366766 | [366766-awake.json](./366766-awake.json) |
+| Awake: Definitive Edition | 113787 | [113787-awake-definitive-edition.json](./113787-awake-definitive-edition.json) |
 | AwakeMUD | 228698 | [228698-awakemud.json](./228698-awakemud.json) |
 | Awaken | 183954 | [183954-awaken.json](./183954-awaken.json) |
 | Awaken | 227693 | [227693-awaken.json](./227693-awaken.json) |
@@ -21812,6 +21817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azurian Attack | 46771 | [46771-azurian-attack.json](./46771-azurian-attack.json) |
 | Azurik: Rise of Perathia | 5733 | [5733-azurik-rise-of-perathia.json](./5733-azurik-rise-of-perathia.json) |
 | Azusa 999 | 134825 | [134825-azusa-999.json](./134825-azusa-999.json) |
+| Azusa RP Online | 114790 | [114790-azusa-rp-online.json](./114790-azusa-rp-online.json) |
 | AzuTower | 289739 | [289739-azutower.json](./289739-azutower.json) |
 | Azy | 172066 | [172066-azy.json](./172066-azy.json) |
 | AZZL | 101964 | [101964-azzl.json](./101964-azzl.json) |
