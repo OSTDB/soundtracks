@@ -1011,7 +1011,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | National Lampoon's Blind Date | 70094 | [70094-national-lampoons-blind-date.json](./70094-national-lampoons-blind-date.json) |
 | National Lampoon's Chess Maniac 5 Billion and 1 | 70208 | [70208-national-lampoons-chess-maniac-5-billion-and-1.json](./70208-national-lampoons-chess-maniac-5-billion-and-1.json) |
 | National Lampoon's University Tycoon | 62507 | [62507-national-lampoons-university-tycoon.json](./62507-national-lampoons-university-tycoon.json) |
-| National Machine | 103451 | [103451-national-machine.json](./103451-national-machine.json) |
 | National Ministox - The Official Game | 105808 | [105808-national-ministox-the-official-game.json](./105808-national-ministox-the-official-game.json) |
 | National Park Girls | 116070 | [116070-national-park-girls.json](./116070-national-park-girls.json) |
 | National Park Girls: Episode 2 - Happy Trails | 164444 | [164444-national-park-girls-episode-2-happy-trails.json](./164444-national-park-girls-episode-2-happy-trails.json) |
@@ -1156,7 +1155,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 8 | 262830 | [262830-nature-and-wildlife-jigsaw-puzzle-expansion-pack-8.json](./262830-nature-and-wildlife-jigsaw-puzzle-expansion-pack-8.json) |
 | Nature and Girls | 165815 | [165815-nature-and-girls.json](./165815-nature-and-girls.json) |
 | Nature Atelier | 368520 | [368520-nature-atelier.json](./368520-nature-atelier.json) |
-| Nature Calls | 101342 | [101342-nature-calls.json](./101342-nature-calls.json) |
 | Nature Challenge | 316017 | [316017-nature-challenge.json](./316017-nature-challenge.json) |
 | Nature Defenders | 33833 | [33833-nature-defenders.json](./33833-nature-defenders.json) |
 | Nature Escapes | 215635 | [215635-nature-escapes.json](./215635-nature-escapes.json) |
@@ -1302,7 +1300,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval War: Arctic Circle - Operation Tarnhelm | 10590 | [10590-naval-war-arctic-circle-operation-tarnhelm.json](./10590-naval-war-arctic-circle-operation-tarnhelm.json) |
 | Naval Warfare | 16245 | [16245-naval-warfare.json](./16245-naval-warfare.json) |
 | Naval Warfare Multi-shot | 344919 | [344919-naval-warfare-multi-shot.json](./344919-naval-warfare-multi-shot.json) |
-| NavalArt | 101282 | [101282-navalart.json](./101282-navalart.json) |
 | Navalia | 30639 | [30639-navalia.json](./30639-navalia.json) |
 | Navalny: A Nightmare of Corrupt | 123572 | [123572-navalny-a-nightmare-of-corrupt.json](./123572-navalny-a-nightmare-of-corrupt.json) |
 | Navalny: Posledniy miting | 111016 | [111016-navalny-posledniy-miting.json](./111016-navalny-posledniy-miting.json) |
@@ -2185,7 +2182,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nehonobasa | 306676 | [306676-nehonobasa.json](./306676-nehonobasa.json) |
 | Nehrim: At Fate's Edge | 114561 | [114561-nehrim-at-fates-edge.json](./114561-nehrim-at-fates-edge.json) |
 | Neidfyre | 382254 | [382254-neidfyre.json](./382254-neidfyre.json) |
-| Neighbor | 101086 | [101086-neighbor.json](./101086-neighbor.json) |
 | Neighbor | 141557 | [141557-neighbor.json](./141557-neighbor.json) |
 | Neighbor | 144366 | [144366-neighbor.json](./144366-neighbor.json) |
 | Neighbor | 181842 | [181842-neighbor.json](./181842-neighbor.json) |
@@ -3919,7 +3915,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New World: The Tupis | 75603 | [75603-new-world-the-tupis.json](./75603-new-world-the-tupis.json) |
 | New Worlds | 423527 | [423527-new-worlds.json](./423527-new-worlds.json) |
 | New XCommander | 337758 | [337758-new-xcommander.json](./337758-new-xcommander.json) |
-| New Yahtzee: With Buddies Dice Game | 100955 | [100955-new-yahtzee-with-buddies-dice-game.json](./100955-new-yahtzee-with-buddies-dice-game.json) |
 | New Yankee 6: In Pharaoh's Court | 117096 | [117096-new-yankee-6-in-pharaohs-court.json](./117096-new-yankee-6-in-pharaohs-court.json) |
 | New Yankee 7: Deer Hunters | 117426 | [117426-new-yankee-7-deer-hunters.json](./117426-new-yankee-7-deer-hunters.json) |
 | New Yankee 8: Journey of Odysseus | 132546 | [132546-new-yankee-8-journey-of-odysseus.json](./132546-new-yankee-8-journey-of-odysseus.json) |
@@ -4089,7 +4084,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next | 83878 | [83878-next.json](./83878-next.json) |
 | Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
 | Next 3 | 95189 | [95189-next-3.json](./95189-next-3.json) |
-| Next 4 | 102440 | [102440-next-4.json](./102440-next-4.json) |
 | Next Action Frog | 395933 | [395933-next-action-frog.json](./395933-next-action-frog.json) |
 | Next Backgammon | 88796 | [88796-next-backgammon.json](./88796-next-backgammon.json) |
 | Next Business Trip | 347054 | [347054-next-business-trip.json](./347054-next-business-trip.json) |
@@ -7921,7 +7915,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostalgic Nights at Freddy's | 228153 | [228153-nostalgic-nights-at-freddys.json](./228153-nostalgic-nights-at-freddys.json) |
 | Nostalgic Train | 102089 | [102089-nostalgic-train.json](./102089-nostalgic-train.json) |
 | Nostalgici Anonimi | 152440 | [152440-nostalgici-anonimi.json](./152440-nostalgici-anonimi.json) |
-| Nostoi | 105006 | [105006-nostoi.json](./105006-nostoi.json) |
 | Nostos | 107252 | [107252-nostos.json](./107252-nostos.json) |
 | Nostra | 415122 | [415122-nostra.json](./415122-nostra.json) |
 | Nostradamus | 40257 | [40257-nostradamus.json](./40257-nostradamus.json) |
