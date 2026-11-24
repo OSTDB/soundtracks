@@ -2732,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray: Part 1 | 294266 | [294266-ray-part-1.json](./294266-ray-part-1.json) |
 | Ray's Hotel Adventures | 393005 | [393005-rays-hotel-adventures.json](./393005-rays-hotel-adventures.json) |
 | Ray's Maze | 91489 | [91489-rays-maze.json](./91489-rays-maze.json) |
+| Ray'z Arcade Chronology | 207918 | [207918-rayz-arcade-chronology.json](./207918-rayz-arcade-chronology.json) |
 | Ray'z Arcade Chronology: Special Limited Edition | 212331 | [212331-rayz-arcade-chronology-special-limited-edition.json](./212331-rayz-arcade-chronology-special-limited-edition.json) |
 | Rayadillo | 323232 | [323232-rayadillo.json](./323232-rayadillo.json) |
 | Rayadium | 341306 | [341306-rayadium.json](./341306-rayadium.json) |
@@ -5384,6 +5385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reigns: Her Majesty | 55106 | [55106-reigns-her-majesty.json](./55106-reigns-her-majesty.json) |
 | Reigns: Kings & Queens | 94983 | [94983-reigns-kings-and-queens.json](./94983-reigns-kings-and-queens.json) |
 | Reigns: The Council | 122844 | [122844-reigns-the-council.json](./122844-reigns-the-council.json) |
+| Reigns: Three Kingdoms | 204453 | [204453-reigns-three-kingdoms.json](./204453-reigns-three-kingdoms.json) |
 | Reijou Tantei: Office Love Jikenbo | 203342 | [203342-reijou-tantei-office-love-jikenbo.json](./203342-reijou-tantei-office-love-jikenbo.json) |
 | Reikai Doushi | 40390 | [40390-reikai-doushi.json](./40390-reikai-doushi.json) |
 | Reikai Nikki | 269900 | [269900-reikai-nikki.json](./269900-reikai-nikki.json) |
@@ -8744,6 +8746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rimward Basilisk | 367758 | [367758-rimward-basilisk.json](./367758-rimward-basilisk.json) |
 | RimWorld: Anomaly | 291070 | [291070-rimworld-anomaly.json](./291070-rimworld-anomaly.json) |
 | RimWorld: Biotech | 220558 | [220558-rimworld-biotech.json](./220558-rimworld-biotech.json) |
+| RimWorld: Console Edition | 210525 | [210525-rimworld-console-edition.json](./210525-rimworld-console-edition.json) |
 | RimWorld: Console Edition - Chronicles Bundle | 247138 | [247138-rimworld-console-edition-chronicles-bundle.json](./247138-rimworld-console-edition-chronicles-bundle.json) |
 | RimWorld: Console Edition - Digital Deluxe | 211246 | [211246-rimworld-console-edition-digital-deluxe.json](./211246-rimworld-console-edition-digital-deluxe.json) |
 | RimWorld: Console Edition - Ideology | 312014 | [312014-rimworld-console-edition-ideology.json](./312014-rimworld-console-edition-ideology.json) |
