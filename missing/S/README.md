@@ -4542,6 +4542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation Cross Rays: Platinum Edition | 142371 | [142371-sd-gundam-g-generation-cross-rays-platinum-edition.json](./142371-sd-gundam-g-generation-cross-rays-platinum-edition.json) |
 | SD Gundam G Generation Cross Rays: Premium G Sound Edition | 136643 | [136643-sd-gundam-g-generation-cross-rays-premium-g-sound-edition.json](./136643-sd-gundam-g-generation-cross-rays-premium-g-sound-edition.json) |
 | SD Gundam G Generation Eternal | 208134 | [208134-sd-gundam-g-generation-eternal.json](./208134-sd-gundam-g-generation-eternal.json) |
+| SD Gundam G Generation Genesis | 75731 | [75731-sd-gundam-g-generation-genesis.json](./75731-sd-gundam-g-generation-genesis.json) |
 | SD Gundam G Generation Neo | 65981 | [65981-sd-gundam-g-generation-neo.json](./65981-sd-gundam-g-generation-neo.json) |
 | SD Gundam G Generation Overworld | 42710 | [42710-sd-gundam-g-generation-overworld.json](./42710-sd-gundam-g-generation-overworld.json) |
 | SD Gundam G Generation Portable | 78825 | [78825-sd-gundam-g-generation-portable.json](./78825-sd-gundam-g-generation-portable.json) |
@@ -17472,6 +17473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake, snake, snake! | 100586 | [100586-snake-snake-snake.json](./100586-snake-snake-snake.json) |
 | Snake: Gridbreaker | 419187 | [419187-snake-gridbreaker.json](./419187-snake-gridbreaker.json) |
 | Snake: Reloaded | 173995 | [173995-snake-reloaded.json](./173995-snake-reloaded.json) |
+| Snake: Road to apple | 74909 | [74909-snake-road-to-apple.json](./74909-snake-road-to-apple.json) |
 | Snake: Secret Treasure | 370311 | [370311-snake-secret-treasure.json](./370311-snake-secret-treasure.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
 | Snake.io | 330240 | [330240-snake-io.json](./330240-snake-io.json) |
@@ -28730,6 +28732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Imperial Commando | 286374 | [286374-star-wars-imperial-commando.json](./286374-star-wars-imperial-commando.json) |
 | Star Wars: Jar Jar's Journey Adventure Book | 185866 | [185866-star-wars-jar-jars-journey-adventure-book.json](./185866-star-wars-jar-jars-journey-adventure-book.json) |
 | Star Wars: Jedi Adventure | 62669 | [62669-star-wars-jedi-adventure.json](./62669-star-wars-jedi-adventure.json) |
+| Star Wars: Jedi Challenges | 75089 | [75089-star-wars-jedi-challenges.json](./75089-star-wars-jedi-challenges.json) |
 | Star Wars: Jedi Knight - Dark Forces II | 150 | [150-star-wars-jedi-knight-dark-forces-ii.json](./150-star-wars-jedi-knight-dark-forces-ii.json) |
 | Star Wars: Jedi Knight - Mysteries of the Sith | 160 | [160-star-wars-jedi-knight-mysteries-of-the-sith.json](./160-star-wars-jedi-knight-mysteries-of-the-sith.json) |
 | Star Wars: Jedi Knight Collection | 54401 | [54401-star-wars-jedi-knight-collection.json](./54401-star-wars-jedi-knight-collection.json) |
@@ -37470,6 +37473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Meat Boy: Collector's Edition | 333140 | [333140-super-meat-boy-collectors-edition.json](./333140-super-meat-boy-collectors-edition.json) |
 | Super Meat Boy: Race Mode | 158806 | [158806-super-meat-boy-race-mode.json](./158806-super-meat-boy-race-mode.json) |
 | Super Meat Boy: The Game | 77316 | [77316-super-meat-boy-the-game.json](./77316-super-meat-boy-the-game.json) |
+| Super Meat Shooter | 75635 | [75635-super-meat-shooter.json](./75635-super-meat-shooter.json) |
 | Super Meat Shooter: Happy Meat Winter | 172116 | [172116-super-meat-shooter-happy-meat-winter.json](./172116-super-meat-shooter-happy-meat-winter.json) |
 | Super Meatball | 147779 | [147779-super-meatball.json](./147779-super-meatball.json) |
 | Super Mecha Champions | 123054 | [123054-super-mecha-champions.json](./123054-super-mecha-champions.json) |
@@ -38814,6 +38818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super TSA | 367015 | [367015-super-tsa.json](./367015-super-tsa.json) |
 | Super Tsume Shogi 1000 | 42219 | [42219-super-tsume-shogi-1000.json](./42219-super-tsume-shogi-1000.json) |
 | Super Tumanguya Climber | 339136 | [339136-super-tumanguya-climber.json](./339136-super-tumanguya-climber.json) |
+| Super Turbo Demon Busters! | 74860 | [74860-super-turbo-demon-busters.json](./74860-super-turbo-demon-busters.json) |
 | Super Turbo Racing | 369518 | [369518-super-turbo-racing.json](./369518-super-turbo-racing.json) |
 | Super Turbo Sudoku | 110960 | [110960-super-turbo-sudoku.json](./110960-super-turbo-sudoku.json) |
 | Super Turrican | 191878 | [191878-super-turrican.json](./191878-super-turrican.json) |
