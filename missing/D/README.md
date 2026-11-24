@@ -4658,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead's dawn | 286039 | [286039-deads-dawn.json](./286039-deads-dawn.json) |
 | Dead's Prison Watcher | 129934 | [129934-deads-prison-watcher.json](./129934-deads-prison-watcher.json) |
 | Dead+ | 168036 | [168036-dead.json](./168036-dead.json) |
+| Dead6hot | 33612 | [33612-dead6hot.json](./33612-dead6hot.json) |
 | Deadbait | 161381 | [161381-deadbait.json](./161381-deadbait.json) |
 | Deadball Specialist | 58191 | [58191-deadball-specialist.json](./58191-deadball-specialist.json) |
 | DeadballCrusader | 290951 | [290951-deadballcrusader.json](./290951-deadballcrusader.json) |
