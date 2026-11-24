@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.A.T. | 185657 | [185657-b-a-t.json](./185657-b-a-t.json) |
 | B.A.T. | 2314 | [2314-b-a-t.json](./2314-b-a-t.json) |
 | B.A.T. II: The Koshan Conspiracy | 2315 | [2315-b-a-t-ii-the-koshan-conspiracy.json](./2315-b-a-t-ii-the-koshan-conspiracy.json) |
+| B.ARK | 131870 | [131870-b-ark.json](./131870-b-ark.json) |
 | B.B. Oh, yes! Jonny! | 83390 | [83390-b-b-oh-yes-jonny.json](./83390-b-b-oh-yes-jonny.json) |
 | B.B. Rider | 331147 | [331147-b-b-rider.json](./331147-b-b-rider.json) |
 | B.C. | 100234 | [100234-b-c.json](./100234-b-c.json) |
