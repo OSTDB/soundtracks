@@ -7118,6 +7118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross e4 | 62049 | [62049-picross-e4.json](./62049-picross-e4.json) |
 | Picross e5 | 61528 | [61528-picross-e5.json](./61528-picross-e5.json) |
 | Picross e5 | 79114 | [79114-picross-e5.json](./79114-picross-e5.json) |
+| Picross e6 | 47666 | [47666-picross-e6.json](./47666-picross-e6.json) |
 | Picross e7 | 80731 | [80731-picross-e7.json](./80731-picross-e7.json) |
 | Picross e8 | 79798 | [79798-picross-e8.json](./79798-picross-e8.json) |
 | Picross e9 | 106692 | [106692-picross-e9.json](./106692-picross-e9.json) |
@@ -12280,6 +12281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poglings | 233946 | [233946-poglings.json](./233946-poglings.json) |
 | Pogn | 205103 | [205103-pogn.json](./205103-pogn.json) |
 | Pogo | 130837 | [130837-pogo.json](./130837-pogo.json) |
+| Pogo | 45363 | [45363-pogo.json](./45363-pogo.json) |
 | Pogo Addiction Solitaire | 366444 | [366444-pogo-addiction-solitaire.json](./366444-pogo-addiction-solitaire.json) |
 | Pogo Addiction Solitaire HD | 354987 | [354987-pogo-addiction-solitaire-hd.json](./354987-pogo-addiction-solitaire-hd.json) |
 | Pogo Arc | 271695 | [271695-pogo-arc.json](./271695-pogo-arc.json) |
