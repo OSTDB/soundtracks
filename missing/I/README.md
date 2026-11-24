@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can't Beat The Beautiful Ones | 393117 | [393117-i-cant-beat-the-beautiful-ones.json](./393117-i-cant-beat-the-beautiful-ones.json) |
 | I Can't Believe It's Not Gambling | 82722 | [82722-i-cant-believe-its-not-gambling.json](./82722-i-cant-believe-its-not-gambling.json) |
 | I Can't Believe It's Not Gambling 2(k) | 130716 | [130716-i-cant-believe-its-not-gambling-2-k.json](./130716-i-cant-believe-its-not-gambling-2-k.json) |
+| I Can't Believe It's Not Gambling: GOTY Edition | 74929 | [74929-i-cant-believe-its-not-gambling-goty-edition.json](./74929-i-cant-believe-its-not-gambling-goty-edition.json) |
 | I Can't Believe it's Not Sonic 1 | 321109 | [321109-i-cant-believe-its-not-sonic-1.json](./321109-i-cant-believe-its-not-sonic-1.json) |
 | I Can't Believe the Most Popular Girl in School is a Lesbian, Just Like Me! | 184894 | [184894-i-cant-believe-the-most-popular-girl-in-school-is-a-lesbian-just-like-me.json](./184894-i-cant-believe-the-most-popular-girl-in-school-is-a-lesbian-just-like-me.json) |
 | I can't carry all these ducks! | 177161 | [177161-i-cant-carry-all-these-ducks.json](./177161-i-cant-carry-all-these-ducks.json) |
