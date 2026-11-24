@@ -3830,7 +3830,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | George Pontos: The Stolen Lyre | 246161 | [246161-george-pontos-the-stolen-lyre.json](./246161-george-pontos-the-stolen-lyre.json) |
 | George Scared of the Dark | 57973 | [57973-george-scared-of-the-dark.json](./57973-george-scared-of-the-dark.json) |
 | George: A Horror Story | 189182 | [189182-george-a-horror-story.json](./189182-george-a-horror-story.json) |
-| George's Memories Ep.1 | 105241 | [105241-georges-memories-ep-1.json](./105241-georges-memories-ep-1.json) |
 | Georgie and Me | 249083 | [249083-georgie-and-me.json](./249083-georgie-and-me.json) |
 | Georgie-Yolkie | 323693 | [323693-georgie-yolkie.json](./323693-georgie-yolkie.json) |
 | Georgie-Yolkie 64: The Furry Tale | 343932 | [343932-georgie-yolkie-64-the-furry-tale.json](./343932-georgie-yolkie-64-the-furry-tale.json) |
@@ -4570,8 +4569,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters Pinball | 58665 | [58665-ghostbusters-pinball.json](./58665-ghostbusters-pinball.json) |
 | Ghostbusters Puzzle Fighter | 60235 | [60235-ghostbusters-puzzle-fighter.json](./60235-ghostbusters-puzzle-fighter.json) |
 | Ghostbusters Remastered | 215858 | [215858-ghostbusters-remastered.json](./215858-ghostbusters-remastered.json) |
-| Ghostbusters VR: Firehouse | 105257 | [105257-ghostbusters-vr-firehouse.json](./105257-ghostbusters-vr-firehouse.json) |
-| Ghostbusters VR: Showdown | 105293 | [105293-ghostbusters-vr-showdown.json](./105293-ghostbusters-vr-showdown.json) |
 | Ghostbusters World | 95033 | [95033-ghostbusters-world.json](./95033-ghostbusters-world.json) |
 | Ghostbusters: Dimension | 246631 | [246631-ghostbusters-dimension.json](./246631-ghostbusters-dimension.json) |
 | Ghostbusters: Paranormal Blast | 63144 | [63144-ghostbusters-paranormal-blast.json](./63144-ghostbusters-paranormal-blast.json) |
