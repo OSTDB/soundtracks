@@ -7111,6 +7111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods & Heroes | 13858 | [13858-gods-and-heroes.json](./13858-gods-and-heroes.json) |
 | Gods Against Machines | 240703 | [240703-gods-against-machines.json](./240703-gods-against-machines.json) |
 | Gods and Generals | 73662 | [73662-gods-and-generals.json](./73662-gods-and-generals.json) |
+| Gods and Idols | 33950 | [33950-gods-and-idols.json](./33950-gods-and-idols.json) |
 | Gods and Kings | 113290 | [113290-gods-and-kings.json](./113290-gods-and-kings.json) |
 | Gods and Mages | 387746 | [387746-gods-and-mages.json](./387746-gods-and-mages.json) |
 | Gods and Nemesis: of Ghosts from Dragons | 31884 | [31884-gods-and-nemesis-of-ghosts-from-dragons.json](./31884-gods-and-nemesis-of-ghosts-from-dragons.json) |
@@ -10342,6 +10343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Field Silver Tree | 117689 | [117689-green-field-silver-tree.json](./117689-green-field-silver-tree.json) |
 | Green Fingers | 175058 | [175058-green-fingers.json](./175058-green-fingers.json) |
 | Green Five | 244989 | [244989-green-five.json](./244989-green-five.json) |
+| Green Game: TimeSwapper | 33753 | [33753-green-game-timeswapper.json](./33753-green-game-timeswapper.json) |
 | Green Garden | 226359 | [226359-green-garden.json](./226359-green-garden.json) |
 | Green General | 96967 | [96967-green-general.json](./96967-green-general.json) |
 | Green Glass | 174609 | [174609-green-glass.json](./174609-green-glass.json) |
