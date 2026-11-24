@@ -7095,6 +7095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Saw | 236771 | [236771-chaos-saw.json](./236771-chaos-saw.json) |
 | Chaos Seed: Feng Shui Kairouki | 15833 | [15833-chaos-seed-feng-shui-kairouki.json](./15833-chaos-seed-feng-shui-kairouki.json) |
 | Chaos Sisters | 177248 | [177248-chaos-sisters.json](./177248-chaos-sisters.json) |
+| Chaos Souls | 75042 | [75042-chaos-souls.json](./75042-chaos-souls.json) |
 | Chaos Squad | 371843 | [371843-chaos-squad.json](./371843-chaos-squad.json) |
 | Chaos Stone Wars | 331382 | [331382-chaos-stone-wars.json](./331382-chaos-stone-wars.json) |
 | Chaos Storm: Strategy Edition | 236435 | [236435-chaos-storm-strategy-edition.json](./236435-chaos-storm-strategy-edition.json) |
@@ -9055,6 +9056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
 | Choice of Magics | 107060 | [107060-choice-of-magics.json](./107060-choice-of-magics.json) |
 | Choice of Rebels: Stormwright | 253383 | [253383-choice-of-rebels-stormwright.json](./253383-choice-of-rebels-stormwright.json) |
+| Choice of Rebels: Uprising | 75651 | [75651-choice-of-rebels-uprising.json](./75651-choice-of-rebels-uprising.json) |
 | Choice of Robots | 13093 | [13093-choice-of-robots.json](./13093-choice-of-robots.json) |
 | Choice of the Cat | 68614 | [68614-choice-of-the-cat.json](./68614-choice-of-the-cat.json) |
 | Choice of the Deathless | 17744 | [17744-choice-of-the-deathless.json](./17744-choice-of-the-deathless.json) |
@@ -16739,6 +16741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Clash | 388150 | [388150-cooking-clash.json](./388150-cooking-clash.json) |
 | Cooking Coach | 69128 | [69128-cooking-coach.json](./69128-cooking-coach.json) |
 | Cooking Companions: Appetizer Edition | 139141 | [139141-cooking-companions-appetizer-edition.json](./139141-cooking-companions-appetizer-edition.json) |
+| Cooking Craze | 88770 | [88770-cooking-craze.json](./88770-cooking-craze.json) |
 | Cooking Craze: Starter Pack | 295118 | [295118-cooking-craze-starter-pack.json](./295118-cooking-craze-starter-pack.json) |
 | Cooking Crew | 262954 | [262954-cooking-crew.json](./262954-cooking-crew.json) |
 | Cooking Dash | 16068 | [16068-cooking-dash.json](./16068-cooking-dash.json) |
