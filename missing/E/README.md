@@ -801,7 +801,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Beauties 2 | 233707 | [233707-ecchi-beauties-2.json](./233707-ecchi-beauties-2.json) |
 | Ecchi Blast Vol. 1 | 317892 | [317892-ecchi-blast-vol-1.json](./317892-ecchi-blast-vol-1.json) |
 | Ecchi Breaker | 378797 | [378797-ecchi-breaker.json](./378797-ecchi-breaker.json) |
-| Ecchi Cards | 104846 | [104846-ecchi-cards.json](./104846-ecchi-cards.json) |
 | Ecchi Crush | 401114 | [401114-ecchi-crush.json](./401114-ecchi-crush.json) |
 | Ecchi Dream Bundle | 385135 | [385135-ecchi-dream-bundle.json](./385135-ecchi-dream-bundle.json) |
 | Ecchi Fever | 320449 | [320449-ecchi-fever.json](./320449-ecchi-fever.json) |
@@ -3792,7 +3791,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emperor of the Mines | 12582 | [12582-emperor-of-the-mines.json](./12582-emperor-of-the-mines.json) |
 | Emperor: Battle for Dune | 89 | [89-emperor-battle-for-dune.json](./89-emperor-battle-for-dune.json) |
 | Emperor's Mahjongg | 209207 | [209207-emperors-mahjongg.json](./209207-emperors-mahjongg.json) |
-| Empire | 105227 | [105227-empire.json](./105227-empire.json) |
 | Empire | 11497 | [11497-empire.json](./11497-empire.json) |
 | Empire | 11518 | [11518-empire.json](./11518-empire.json) |
 | Empire | 272474 | [272474-empire.json](./272474-empire.json) |
@@ -5631,7 +5629,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erdetspill | 411414 | [411414-erdetspill.json](./411414-erdetspill.json) |
 | Erdluitl: Legends of Below | 288708 | [288708-erdluitl-legends-of-below.json](./288708-erdluitl-legends-of-below.json) |
 | EreaDrone | 191421 | [191421-ereadrone.json](./191421-ereadrone.json) |
-| EreaDrone Simulator | 104189 | [104189-ereadrone-simulator.json](./104189-ereadrone-simulator.json) |
 | EreaDrone: FPV Simulator | 112216 | [112216-ereadrone-fpv-simulator.json](./112216-ereadrone-fpv-simulator.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
 | Erebe | 199344 | [199344-erebe.json](./199344-erebe.json) |
