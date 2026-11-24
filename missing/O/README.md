@@ -484,7 +484,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Journey | 382712 | [382712-ocean-journey.json](./382712-ocean-journey.json) |
 | Ocean Keeper Co-op | 371840 | [371840-ocean-keeper-co-op.json](./371840-ocean-keeper-co-op.json) |
 | Ocean Legend | 100699 | [100699-ocean-legend.json](./100699-ocean-legend.json) |
-| Ocean Legend | 100792 | [100792-ocean-legend.json](./100792-ocean-legend.json) |
 | Ocean Life: Aquarium Simulator | 309648 | [309648-ocean-life-aquarium-simulator.json](./309648-ocean-life-aquarium-simulator.json) |
 | Ocean Lunch Antique | 138428 | [138428-ocean-lunch-antique.json](./138428-ocean-lunch-antique.json) |
 | Ocean Man | 208163 | [208163-ocean-man.json](./208163-ocean-man.json) |
@@ -1173,7 +1172,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OffRoad | 85839 | [85839-offroad.json](./85839-offroad.json) |
 | Offroad 4x4 Canyon Driving | 411458 | [411458-offroad-4x4-canyon-driving.json](./411458-offroad-4x4-canyon-driving.json) |
 | Offroad Arcade | 389981 | [389981-offroad-arcade.json](./389981-offroad-arcade.json) |
-| Offroad Bike Driving Simulator | 100786 | [100786-offroad-bike-driving-simulator.json](./100786-offroad-bike-driving-simulator.json) |
 | Offroad Craft Runner 4x4 Simulator | 403747 | [403747-offroad-craft-runner-4x4-simulator.json](./403747-offroad-craft-runner-4x4-simulator.json) |
 | Offroad Delivery Service | 216979 | [216979-offroad-delivery-service.json](./216979-offroad-delivery-service.json) |
 | OffRoad Drive Desert | 90087 | [90087-offroad-drive-desert.json](./90087-offroad-drive-desert.json) |
@@ -5063,6 +5061,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshidashi Zintrick | 130369 | [130369-oshidashi-zintrick.json](./130369-oshidashi-zintrick.json) |
 | Oshidashi Zintrick | 282519 | [282519-oshidashi-zintrick.json](./282519-oshidashi-zintrick.json) |
 | Oshiete Miko Sensei | 429294 | [429294-oshiete-miko-sensei.json](./429294-oshiete-miko-sensei.json) |
+| Oshiete Miko Sensei Ni | 429296 | [429296-oshiete-miko-sensei-ni.json](./429296-oshiete-miko-sensei-ni.json) |
+| Oshiete Miko Sensei Ni Gaiden: Harem-hen | 429299 | [429299-oshiete-miko-sensei-ni-gaiden-harem-hen.json](./429299-oshiete-miko-sensei-ni-gaiden-harem-hen.json) |
 | Oshiete! Popotan | 411405 | [411405-oshiete-popotan.json](./411405-oshiete-popotan.json) |
 | Oshiete! Rena-sensei | 97793 | [97793-oshiete-rena-sensei.json](./97793-oshiete-rena-sensei.json) |
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
@@ -6335,6 +6335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcast - Walden and the Werewolf | 17228 | [17228-overcast-walden-and-the-werewolf.json](./17228-overcast-walden-and-the-werewolf.json) |
 | Overcast and Light Rain | 185011 | [185011-overcast-and-light-rain.json](./185011-overcast-and-light-rain.json) |
 | Overcat | 373530 | [373530-overcat.json](./373530-overcat.json) |
+| Overcharge | 430140 | [430140-overcharge.json](./430140-overcharge.json) |
 | Overcharged | 382727 | [382727-overcharged.json](./382727-overcharged.json) |
 | Overchunked | 96416 | [96416-overchunked.json](./96416-overchunked.json) |
 | Overclocked | 71312 | [71312-overclocked.json](./71312-overclocked.json) |
