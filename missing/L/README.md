@@ -7400,6 +7400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Littlest Pet Shop: Garden | 48020 | [48020-littlest-pet-shop-garden.json](./48020-littlest-pet-shop-garden.json) |
 | Littlest Pet Shop: Jungle | 48019 | [48019-littlest-pet-shop-jungle.json](./48019-littlest-pet-shop-jungle.json) |
 | Littlest Pet Shop: Spring | 68040 | [68040-littlest-pet-shop-spring.json](./68040-littlest-pet-shop-spring.json) |
+| Littlest Pet Shop: Winter | 47908 | [47908-littlest-pet-shop-winter.json](./47908-littlest-pet-shop-winter.json) |
 | LittleWarGame | 9625 | [9625-littlewargame.json](./9625-littlewargame.json) |
 | Littlewing | 143965 | [143965-littlewing.json](./143965-littlewing.json) |
 | Littlewitch Parfait: Kuroneko Mahouten Monogatari | 56559 | [56559-littlewitch-parfait-kuroneko-mahouten-monogatari.json](./56559-littlewitch-parfait-kuroneko-mahouten-monogatari.json) |
