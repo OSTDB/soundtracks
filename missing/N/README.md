@@ -3444,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Alone 2 | 296835 | [296835-never-alone-2.json](./296835-never-alone-2.json) |
 | Never Alone: Arctic Collection | 46702 | [46702-never-alone-arctic-collection.json](./46702-never-alone-arctic-collection.json) |
 | Never Alone: Foxtales | 14549 | [14549-never-alone-foxtales.json](./14549-never-alone-foxtales.json) |
+| Never Alone: Ki Edition | 39251 | [39251-never-alone-ki-edition.json](./39251-never-alone-ki-edition.json) |
 | Never Alone: Kisima Ingitchuna | 7618 | [7618-never-alone-kisima-ingitchuna.json](./7618-never-alone-kisima-ingitchuna.json) |
 | Never Apart | 178744 | [178744-never-apart.json](./178744-never-apart.json) |
 | Never be Afraid: Slam Dunk! | 277132 | [277132-never-be-afraid-slam-dunk.json](./277132-never-be-afraid-slam-dunk.json) |
