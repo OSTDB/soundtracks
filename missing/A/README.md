@@ -1578,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Little Berry Forest | 186419 | [186419-a-tale-of-little-berry-forest.json](./186419-a-tale-of-little-berry-forest.json) |
 | A Tale of Little Berry Forest 2: Stars | 320999 | [320999-a-tale-of-little-berry-forest-2-stars.json](./320999-a-tale-of-little-berry-forest-2-stars.json) |
 | A Tale of Misery | 348913 | [348913-a-tale-of-misery.json](./348913-a-tale-of-misery.json) |
+| A Tale of Paper: Refolded | 213997 | [213997-a-tale-of-paper-refolded.json](./213997-a-tale-of-paper-refolded.json) |
 | A Tale of Paper: Refolded - Digital Deluxe Edition | 214055 | [214055-a-tale-of-paper-refolded-digital-deluxe-edition.json](./214055-a-tale-of-paper-refolded-digital-deluxe-edition.json) |
 | A Tale of Paper: Unfolded Melody | 300441 | [300441-a-tale-of-paper-unfolded-melody.json](./300441-a-tale-of-paper-unfolded-melody.json) |
 | A Tale of Pirates: A Dummy Mutiny | 101306 | [101306-a-tale-of-pirates-a-dummy-mutiny.json](./101306-a-tale-of-pirates-a-dummy-mutiny.json) |
@@ -5143,6 +5144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afflicted | 261188 | [261188-afflicted.json](./261188-afflicted.json) |
 | Affliction | 221921 | [221921-affliction.json](./221921-affliction.json) |
 | Affliction | 28913 | [28913-affliction.json](./28913-affliction.json) |
+| Affogato | 210654 | [210654-affogato.json](./210654-affogato.json) |
 | Affordable Healthcare | 297763 | [297763-affordable-healthcare.json](./297763-affordable-healthcare.json) |
 | Affordable Space Adventures | 9673 | [9673-affordable-space-adventures.json](./9673-affordable-space-adventures.json) |
 | AffordaGolf Online | 30138 | [30138-affordagolf-online.json](./30138-affordagolf-online.json) |
@@ -5371,6 +5373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Thought | 238121 | [238121-after-thought.json](./238121-after-thought.json) |
 | After University | 263980 | [263980-after-university.json](./263980-after-university.json) |
 | After War Town | 278173 | [278173-after-war-town.json](./278173-after-war-town.json) |
+| After Wave: Downfall | 212284 | [212284-after-wave-downfall.json](./212284-after-wave-downfall.json) |
 | After Work | 360586 | [360586-after-work.json](./360586-after-work.json) |
 | After Work | 417423 | [417423-after-work.json](./417423-after-work.json) |
 | After You | 149776 | [149776-after-you.json](./149776-after-you.json) |
@@ -17818,6 +17821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashi | 156990 | [156990-ashi.json](./156990-ashi.json) |
 | Ashi Wash | 91967 | [91967-ashi-wash.json](./91967-ashi-wash.json) |
 | Ashiato Reversi: Kumamon Version | 54940 | [54940-ashiato-reversi-kumamon-version.json](./54940-ashiato-reversi-kumamon-version.json) |
+| Ashigaru: The Last Shogun | 206309 | [206309-ashigaru-the-last-shogun.json](./206309-ashigaru-the-last-shogun.json) |
 | Ashihara no Anima | 401842 | [401842-ashihara-no-anima.json](./401842-ashihara-no-anima.json) |
 | Ashimeyama | 177811 | [177811-ashimeyama.json](./177811-ashimeyama.json) |
 | Ashina: The Red Witch | 132762 | [132762-ashina-the-red-witch.json](./132762-ashina-the-red-witch.json) |
@@ -18482,6 +18486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix XXL 3: The Crystal Menhir - Limited Edition | 134234 | [134234-asterix-and-obelix-xxl-3-the-crystal-menhir-limited-edition.json](./134234-asterix-and-obelix-xxl-3-the-crystal-menhir-limited-edition.json) |
 | Asterix & Obelix XXL: Collection | 140168 | [140168-asterix-and-obelix-xxl-collection.json](./140168-asterix-and-obelix-xxl-collection.json) |
 | Asterix & Obelix XXL: Romastered | 138352 | [138352-asterix-and-obelix-xxl-romastered.json](./138352-asterix-and-obelix-xxl-romastered.json) |
+| Asterix & Obelix XXXL: The Ram From Hibernia | 208734 | [208734-asterix-and-obelix-xxxl-the-ram-from-hibernia.json](./208734-asterix-and-obelix-xxxl-the-ram-from-hibernia.json) |
 | Asterix & Obelix XXXL: The Ram From Hibernia - Collector's Edition | 218217 | [218217-asterix-and-obelix-xxxl-the-ram-from-hibernia-collectors-edition.json](./218217-asterix-and-obelix-xxxl-the-ram-from-hibernia-collectors-edition.json) |
 | Asterix & Obelix XXXL: The Ram From Hibernia - Day One Edition | 209810 | [209810-asterix-and-obelix-xxxl-the-ram-from-hibernia-day-one-edition.json](./209810-asterix-and-obelix-xxxl-the-ram-from-hibernia-day-one-edition.json) |
 | Asterix & Obelix XXXL: The Ram From Hibernia - Limited Edition | 208735 | [208735-asterix-and-obelix-xxxl-the-ram-from-hibernia-limited-edition.json](./208735-asterix-and-obelix-xxxl-the-ram-from-hibernia-limited-edition.json) |
