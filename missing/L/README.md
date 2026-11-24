@@ -1278,7 +1278,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Logic | 406065 | [406065-laser-logic.json](./406065-laser-logic.json) |
 | Laser Lords | 45919 | [45919-laser-lords.json](./45919-laser-lords.json) |
 | Laser Man | 238914 | [238914-laser-man.json](./238914-laser-man.json) |
-| Laser Maze | 100243 | [100243-laser-maze.json](./100243-laser-maze.json) |
 | Laser Nodes | 233421 | [233421-laser-nodes.json](./233421-laser-nodes.json) |
 | Laser Overload 2 | 167669 | [167669-laser-overload-2.json](./167669-laser-overload-2.json) |
 | Laser Overload: Mirror Puzzle | 256948 | [256948-laser-overload-mirror-puzzle.json](./256948-laser-overload-mirror-puzzle.json) |
