@@ -5117,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LiEat: The Lie-Eating Dragon & the Vermilion Vampire | 115202 | [115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json](./115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json) |
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
 | Liege | 63254 | [63254-liege.json](./63254-liege.json) |
+| Liege Dragon | 133621 | [133621-liege-dragon.json](./133621-liege-dragon.json) |
 | Liegecraft | 322449 | [322449-liegecraft.json](./322449-liegecraft.json) |
 | Lièhuǒ Huángchéng | 427762 | [427762-liehuo-huangcheng.json](./427762-liehuo-huangcheng.json) |
 | Liekki | 290483 | [290483-liekki.json](./290483-liekki.json) |
@@ -6700,6 +6701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Litha and the Sunhouse | 220394 | [220394-litha-and-the-sunhouse.json](./220394-litha-and-the-sunhouse.json) |
 | Lithium | 199414 | [199414-lithium.json](./199414-lithium.json) |
 | Lithium | 369813 | [369813-lithium.json](./369813-lithium.json) |
+| Lithium City | 134543 | [134543-lithium-city.json](./134543-lithium-city.json) |
 | Lithium: Inmate 39 | 25876 | [25876-lithium-inmate-39.json](./25876-lithium-inmate-39.json) |
 | Lithium: Inmate 39 - Relapsed Edition | 123846 | [123846-lithium-inmate-39-relapsed-edition.json](./123846-lithium-inmate-39-relapsed-edition.json) |
 | LithoBreak | 143263 | [143263-lithobreak.json](./143263-lithobreak.json) |
@@ -6813,6 +6815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Chomp | 63908 | [63908-little-chomp.json](./63908-little-chomp.json) |
 | Little Christmas Adventure | 173166 | [173166-little-christmas-adventure.json](./173166-little-christmas-adventure.json) |
 | Little Christmas Workshop | 382306 | [382306-little-christmas-workshop.json](./382306-little-christmas-workshop.json) |
+| Little Cities | 201654 | [201654-little-cities.json](./201654-little-cities.json) |
 | Little Cities: Attractions Update | 251571 | [251571-little-cities-attractions-update.json](./251571-little-cities-attractions-update.json) |
 | Little Cities: Bigger! | 288170 | [288170-little-cities-bigger.json](./288170-little-cities-bigger.json) |
 | Little Cities: Diorama | 355958 | [355958-little-cities-diorama.json](./355958-little-cities-diorama.json) |
