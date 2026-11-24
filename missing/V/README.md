@@ -3199,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Regatta | 112032 | [112032-virtual-regatta.json](./112032-virtual-regatta.json) |
 | Virtual Regatta Offshore | 140846 | [140846-virtual-regatta-offshore.json](./140846-virtual-regatta-offshore.json) |
 | Virtual Rehab Art 4 Health | 172181 | [172181-virtual-rehab-art-4-health.json](./172181-virtual-rehab-art-4-health.json) |
+| Virtual Resort: Spring Break | 205978 | [205978-virtual-resort-spring-break.json](./205978-virtual-resort-spring-break.json) |
 | Virtual Ricochet | 150756 | [150756-virtual-ricochet.json](./150756-virtual-ricochet.json) |
 | Virtual Rides | 56366 | [56366-virtual-rides.json](./56366-virtual-rides.json) |
 | Virtual Rides 2 | 56367 | [56367-virtual-rides-2.json](./56367-virtual-rides-2.json) |
