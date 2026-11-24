@@ -439,7 +439,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jailbreak | 81986 | [81986-jailbreak.json](./81986-jailbreak.json) |
 | Jailbreak Assault | 328190 | [328190-jailbreak-assault.json](./328190-jailbreak-assault.json) |
 | Jailbreak Craft | 104166 | [104166-jailbreak-craft.json](./104166-jailbreak-craft.json) |
-| Jailbreak Craft: Cops and Robbers | 100948 | [100948-jailbreak-craft-cops-and-robbers.json](./100948-jailbreak-craft-cops-and-robbers.json) |
 | Jailbreak Lockdown | 113328 | [113328-jailbreak-lockdown.json](./113328-jailbreak-lockdown.json) |
 | Jailbreak Russia | 104023 | [104023-jailbreak-russia.json](./104023-jailbreak-russia.json) |
 | Jailbreak Simulator | 121482 | [121482-jailbreak-simulator.json](./121482-jailbreak-simulator.json) |
@@ -1331,7 +1330,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jerry Lawson Interactive | 228168 | [228168-jerry-lawson-interactive.json](./228168-jerry-lawson-interactive.json) |
 | Jerry McPartlin: Rebel with a Cause | 286508 | [286508-jerry-mcpartlin-rebel-with-a-cause.json](./286508-jerry-mcpartlin-rebel-with-a-cause.json) |
 | Jerry Rice & Nitus' Dog Football | 33586 | [33586-jerry-rice-and-nitus-dog-football.json](./33586-jerry-rice-and-nitus-dog-football.json) |
-| Jerry the Polar Bear | 100828 | [100828-jerry-the-polar-bear.json](./100828-jerry-the-polar-bear.json) |
 | Jerry Wanker and the Quest to get Laid | 153339 | [153339-jerry-wanker-and-the-quest-to-get-laid.json](./153339-jerry-wanker-and-the-quest-to-get-laid.json) |
 | Jerry's Autowalking Adventure to Rescue His Cheese | 278080 | [278080-jerrys-autowalking-adventure-to-rescue-his-cheese.json](./278080-jerrys-autowalking-adventure-to-rescue-his-cheese.json) |
 | Jerry's Merry Christmas | 310659 | [310659-jerrys-merry-christmas.json](./310659-jerrys-merry-christmas.json) |
@@ -1672,7 +1670,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match Origins: Palais Imperial - Collector's Edition | 169954 | [169954-jewel-match-origins-palais-imperial-collectors-edition.json](./169954-jewel-match-origins-palais-imperial-collectors-edition.json) |
 | Jewel Match Royale | 296202 | [296202-jewel-match-royale.json](./296202-jewel-match-royale.json) |
 | Jewel Match Royale 2: Rise of the King | 296203 | [296203-jewel-match-royale-2-rise-of-the-king.json](./296203-jewel-match-royale-2-rise-of-the-king.json) |
-| Jewel Match Solitaire | 105217 | [105217-jewel-match-solitaire.json](./105217-jewel-match-solitaire.json) |
 | Jewel Match Solitaire 2: Collector's Edition | 116761 | [116761-jewel-match-solitaire-2-collectors-edition.json](./116761-jewel-match-solitaire-2-collectors-edition.json) |
 | Jewel Match Solitaire Fantasy: Collector's Edition | 348894 | [348894-jewel-match-solitaire-fantasy-collectors-edition.json](./348894-jewel-match-solitaire-fantasy-collectors-edition.json) |
 | Jewel Match Solitaire Winterscapes 2: Collector's Edition | 275860 | [275860-jewel-match-solitaire-winterscapes-2-collectors-edition.json](./275860-jewel-match-solitaire-winterscapes-2-collectors-edition.json) |
@@ -1773,7 +1770,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels Blitz 5 | 213662 | [213662-jewels-blitz-5.json](./213662-jewels-blitz-5.json) |
 | Jewels Collection | 246553 | [246553-jewels-collection.json](./246553-jewels-collection.json) |
 | Jewels Deluxe | 108478 | [108478-jewels-deluxe.json](./108478-jewels-deluxe.json) |
-| Jewels Fantasy | 100837 | [100837-jewels-fantasy.json](./100837-jewels-fantasy.json) |
 | Jewels Hole | 220819 | [220819-jewels-hole.json](./220819-jewels-hole.json) |
 | Jewels II: The Ultimate Challenge | 72052 | [72052-jewels-ii-the-ultimate-challenge.json](./72052-jewels-ii-the-ultimate-challenge.json) |
 | Jewels Mania Adventure Star | 108512 | [108512-jewels-mania-adventure-star.json](./108512-jewels-mania-adventure-star.json) |
@@ -3973,7 +3969,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpMap | 309795 | [309795-jumpmap.json](./309795-jumpmap.json) |
 | Jumpmaster | 303747 | [303747-jumpmaster.json](./303747-jumpmaster.json) |
 | Jumpng Disable | 329193 | [329193-jumpng-disable.json](./329193-jumpng-disable.json) |
-| Jumpo Joe | 103423 | [103423-jumpo-joe.json](./103423-jumpo-joe.json) |
 | Jumpo World | 327528 | [327528-jumpo-world.json](./327528-jumpo-world.json) |
 | JumpoCalypse | 406124 | [406124-jumpocalypse.json](./406124-jumpocalypse.json) |
 | Jumponaut | 102978 | [102978-jumponaut.json](./102978-jumponaut.json) |
