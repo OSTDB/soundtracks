@@ -16073,6 +16073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Raiden Project | 425325 | [425325-console-archives-raiden-project.json](./425325-console-archives-raiden-project.json) |
 | Console Archives: Rhapsody - A Musical Adventure | 409617 | [409617-console-archives-rhapsody-a-musical-adventure.json](./409617-console-archives-rhapsody-a-musical-adventure.json) |
 | Console Archives: Rhapsody II - Ballad of the Little Princess | 415220 | [415220-console-archives-rhapsody-ii-ballad-of-the-little-princess.json](./415220-console-archives-rhapsody-ii-ballad-of-the-little-princess.json) |
+| Console Archives: Ripple Island | 425055 | [425055-console-archives-ripple-island.json](./425055-console-archives-ripple-island.json) |
 | Console Archives: Rohga - Armor Force | 400163 | [400163-console-archives-rohga-armor-force.json](./400163-console-archives-rohga-armor-force.json) |
 | Console Archives: Sonic Wings Special | 388445 | [388445-console-archives-sonic-wings-special.json](./388445-console-archives-sonic-wings-special.json) |
 | Console Archives: T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy | 408738 | [408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
@@ -16086,6 +16087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Colour: Disney's Planes | 407308 | [407308-console-colour-disneys-planes.json](./407308-console-colour-disneys-planes.json) |
 | Console Colour: Minnie Mouse | 406817 | [406817-console-colour-minnie-mouse.json](./406817-console-colour-minnie-mouse.json) |
 | Console Info: 2010 Edition | 91399 | [91399-console-info-2010-edition.json](./91399-console-info-2010-edition.json) |
+| Console Repair Simulator | 425059 | [425059-console-repair-simulator.json](./425059-console-repair-simulator.json) |
 | Console Store Simulator | 391748 | [391748-console-store-simulator.json](./391748-console-store-simulator.json) |
 | Console Tycoon | 335813 | [335813-console-tycoon.json](./335813-console-tycoon.json) |
 | Console War Giant | 380762 | [380762-console-war-giant.json](./380762-console-war-giant.json) |
@@ -18024,6 +18026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count My Coins, Coins Counter! | 412317 | [412317-count-my-coins-coins-counter.json](./412317-count-my-coins-coins-counter.json) |
 | Count of Hatchet | 158634 | [158634-count-of-hatchet.json](./158634-count-of-hatchet.json) |
 | Count of Wallachia | 276403 | [276403-count-of-wallachia.json](./276403-count-of-wallachia.json) |
+| Count on Chaos | 425060 | [425060-count-on-chaos.json](./425060-count-on-chaos.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
 | Count Pacula | 335178 | [335178-count-pacula.json](./335178-count-pacula.json) |
 | Count Pumpcula | 207655 | [207655-count-pumpcula.json](./207655-count-pumpcula.json) |
@@ -19748,7 +19751,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Skies: Endless Arcade Flyer | 175560 | [175560-crazy-skies-endless-arcade-flyer.json](./175560-crazy-skies-endless-arcade-flyer.json) |
 | Crazy Snake | 234807 | [234807-crazy-snake.json](./234807-crazy-snake.json) |
 | Crazy Snowboard | 87553 | [87553-crazy-snowboard.json](./87553-crazy-snowboard.json) |
-| Crazy Soccer | 104631 | [104631-crazy-soccer.json](./104631-crazy-soccer.json) |
 | Crazy Soccer Mundial | 52322 | [52322-crazy-soccer-mundial.json](./52322-crazy-soccer-mundial.json) |
 | Crazy Sonic | 352784 | [352784-crazy-sonic.json](./352784-crazy-sonic.json) |
 | Crazy Space Goat Simulator 3D - 2 | 101960 | [101960-crazy-space-goat-simulator-3d-2.json](./101960-crazy-space-goat-simulator-3d-2.json) |
