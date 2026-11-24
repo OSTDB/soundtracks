@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-24T05:55:55.070Z",
-  "total_soundtracks": 3938,
+  "generated_at": "2026-11-24T06:55:55.258Z",
+  "total_soundtracks": 3939,
   "games": [
     {
       "igdb_id": 292844,
@@ -13535,6 +13535,20 @@
         {
           "album_name": "Epic Mickey 2: The Power of Two (Original Game Score)",
           "spotify_url": "https://open.spotify.com/album/5WbGfPjzE6bZviN25QYa64",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 101685,
+      "game_name": "Eqqo",
+      "game_url": "https://ostdb.net/games/eqqo",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27334132295a831c635da248ca1",
+      "albums": [
+        {
+          "album_name": "EqqO (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2BkrNkS17OcEfwpGh35nzd",
           "apple_music_url": "",
           "album_link_url": ""
         }
