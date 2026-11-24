@@ -2039,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eight Dragons 2 | 307674 | [307674-eight-dragons-2.json](./307674-eight-dragons-2.json) |
 | Eight Forces | 39868 | [39868-eight-forces.json](./39868-eight-forces.json) |
 | Eight Legged Freaks | 74821 | [74821-eight-legged-freaks.json](./74821-eight-legged-freaks.json) |
+| Eight Mini Racers | 33694 | [33694-eight-mini-racers.json](./33694-eight-mini-racers.json) |
 | Eight Pool Fever | 322586 | [322586-eight-pool-fever.json](./322586-eight-pool-fever.json) |
 | Eight Stones | 123739 | [123739-eight-stones.json](./123739-eight-stones.json) |
 | Eight Sweets | 184907 | [184907-eight-sweets.json](./184907-eight-sweets.json) |
@@ -8100,6 +8101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evertales | 23927 | [23927-evertales.json](./23927-evertales.json) |
 | Evertech Sandbox | 102662 | [102662-evertech-sandbox.json](./102662-evertech-sandbox.json) |
 | Evertile: Battle Arena | 122463 | [122463-evertile-battle-arena.json](./122463-evertile-battle-arena.json) |
+| Evertown | 33782 | [33782-evertown.json](./33782-evertown.json) |
 | Evertrail | 420409 | [420409-evertrail.json](./420409-evertrail.json) |
 | Evertree Inn | 30187 | [30187-evertree-inn.json](./30187-evertree-inn.json) |
 | Evertried | 142081 | [142081-evertried.json](./142081-evertried.json) |
