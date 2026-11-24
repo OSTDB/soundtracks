@@ -8591,6 +8591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evorevo | 236839 | [236839-evorevo.json](./236839-evorevo.json) |
 | Evoruption | 422584 | [422584-evoruption.json](./422584-evoruption.json) |
 | Evoscape | 325301 | [325301-evoscape.json](./325301-evoscape.json) |
+| Evospace | 114069 | [114069-evospace.json](./114069-evospace.json) |
 | EvoSprout | 382288 | [382288-evosprout.json](./382288-evosprout.json) |
 | Evostrike | 288800 | [288800-evostrike.json](./288800-evostrike.json) |
 | Evotactics | 265370 | [265370-evotactics.json](./265370-evotactics.json) |
