@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-23T14:05:57.288Z",
-  "total_soundtracks": 3929,
+  "generated_at": "2026-11-24T02:06:08.447Z",
+  "total_soundtracks": 3931,
   "games": [
     {
       "igdb_id": 292844,
@@ -2781,6 +2781,20 @@
         {
           "album_name": "Ashen (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6on5VDqh0Fpp5yFWlyo8kk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 104538,
+      "game_name": "Ashi: Lake of Light",
+      "game_url": "https://ostdb.net/games/ashi-lake-of-light",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e854f6b99de6b7b48dfef76a",
+      "albums": [
+        {
+          "album_name": "Ashi: Lake of Light (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4wjqKqS2YTfq3PthKOOl4E",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -8795,6 +8809,20 @@
         {
           "album_name": "Crawl (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3h7x7PhaYHXgOBPOHMsw3E",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 104631,
+      "game_name": "Crazy Soccer",
+      "game_url": "https://ostdb.net/games/crazy-soccer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731b897e61cdcb8a2cf87a15b1",
+      "albums": [
+        {
+          "album_name": "Crazy Soccer (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0BcEnMwrd1y5NRayfNQQ9c",
           "apple_music_url": "",
           "album_link_url": ""
         }
