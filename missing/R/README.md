@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racket Club | 251558 | [251558-racket-club.json](./251558-racket-club.json) |
 | Racket Fury: Table Tennis VR | 28303 | [28303-racket-fury-table-tennis-vr.json](./28303-racket-fury-table-tennis-vr.json) |
 | Racket Pinball | 326831 | [326831-racket-pinball.json](./326831-racket-pinball.json) |
+| Racket: Nx | 33913 | [33913-racket-nx.json](./33913-racket-nx.json) |
 | Racketeering | 426305 | [426305-racketeering.json](./426305-racketeering.json) |
 | Racketeers | 258911 | [258911-racketeers.json](./258911-racketeers.json) |
 | Rackets & Rivals | 48213 | [48213-rackets-and-rivals.json](./48213-rackets-and-rivals.json) |
@@ -5240,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refrain Love 2 | 55116 | [55116-refrain-love-2.json](./55116-refrain-love-2.json) |
 | Refrain Love: Anata ni Aitai | 64892 | [64892-refrain-love-anata-ni-aitai.json](./64892-refrain-love-anata-ni-aitai.json) |
 | Refrain no Chika Meikyuu to Majo no Ryodan: Limited Edition | 201050 | [201050-refrain-no-chika-meikyuu-to-majo-no-ryodan-limited-edition.json](./201050-refrain-no-chika-meikyuu-to-majo-no-ryodan-limited-edition.json) |
+| RefRain: Prism Memories | 33659 | [33659-refrain-prism-memories.json](./33659-refrain-prism-memories.json) |
 | RefRain: Prism Memories - Collector's Edition | 53499 | [53499-refrain-prism-memories-collectors-edition.json](./53499-refrain-prism-memories-collectors-edition.json) |
 | Reframe | 346523 | [346523-reframe.json](./346523-reframe.json) |
 | ReFrame | 127381 | [127381-reframe.json](./127381-reframe.json) |
@@ -6626,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resilience | 273443 | [273443-resilience.json](./273443-resilience.json) |
 | Resilience 2043 | 369900 | [369900-resilience-2043.json](./369900-resilience-2043.json) |
 | Resilience of Hearts: Formerly Broken Chains | 178732 | [178732-resilience-of-hearts-formerly-broken-chains.json](./178732-resilience-of-hearts-formerly-broken-chains.json) |
+| Resilience: Wave Survival | 33851 | [33851-resilience-wave-survival.json](./33851-resilience-wave-survival.json) |
 | Resilient | 400390 | [400390-resilient.json](./400390-resilient.json) |
 | Resin | 26004 | [26004-resin.json](./26004-resin.json) |
 | Resist | 185812 | [185812-resist.json](./185812-resist.json) |
@@ -9480,6 +9483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivalhearts | 321342 | [321342-rivalhearts.json](./321342-rivalhearts.json) |
 | Rivalia Online | 383048 | [383048-rivalia-online.json](./383048-rivalia-online.json) |
 | Rivalia: Dungeon Raiders | 211670 | [211670-rivalia-dungeon-raiders.json](./211670-rivalia-dungeon-raiders.json) |
+| Rivalry | 33817 | [33817-rivalry.json](./33817-rivalry.json) |
 | Rivalry warlord Sengoku | 202462 | [202462-rivalry-warlord-sengoku.json](./202462-rivalry-warlord-sengoku.json) |
 | Rivals | 139007 | [139007-rivals.json](./139007-rivals.json) |
 | Rivals at War | 59631 | [59631-rivals-at-war.json](./59631-rivals-at-war.json) |
@@ -10771,6 +10775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Wrecker | 207780 | [207780-rock-wrecker.json](./207780-rock-wrecker.json) |
 | Rock Zombie | 17938 | [17938-rock-zombie.json](./17938-rock-zombie.json) |
 | Rock-Muba | 82021 | [82021-rock-muba.json](./82021-rock-muba.json) |
+| Rock-n-Rogue A Boo Bunny Plague Adventure | 33605 | [33605-rock-n-rogue-a-boo-bunny-plague-adventure.json](./33605-rock-n-rogue-a-boo-bunny-plague-adventure.json) |
 | Rock-n-Roll Domo | 68058 | [68058-rock-n-roll-domo.json](./68058-rock-n-roll-domo.json) |
 | Rock-N-Roll Trivia: Part 2 | 339690 | [339690-rock-n-roll-trivia-part-2.json](./339690-rock-n-roll-trivia-part-2.json) |
 | Rock-Slide | 94350 | [94350-rock-slide.json](./94350-rock-slide.json) |
