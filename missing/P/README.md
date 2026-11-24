@@ -9107,6 +9107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitfall II: Lost Caverns | 39509 | [39509-pitfall-ii-lost-caverns.json](./39509-pitfall-ii-lost-caverns.json) |
 | Pitfall II: The Lost Caverns | 282072 | [282072-pitfall-ii-the-lost-caverns.json](./282072-pitfall-ii-the-lost-caverns.json) |
 | Pitfall II: The Lost Caverns | 6125 | [6125-pitfall-ii-the-lost-caverns.json](./6125-pitfall-ii-the-lost-caverns.json) |
+| Pitfall Planet | 32919 | [32919-pitfall-planet.json](./32919-pitfall-planet.json) |
 | Pitfall Protocol | 304699 | [304699-pitfall-protocol.json](./304699-pitfall-protocol.json) |
 | Pitfall: Beyond the Jungle | 49861 | [49861-pitfall-beyond-the-jungle.json](./49861-pitfall-beyond-the-jungle.json) |
 | Pitfall: The Big Adventure | 84820 | [84820-pitfall-the-big-adventure.json](./84820-pitfall-the-big-adventure.json) |
