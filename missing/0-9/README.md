@@ -3652,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 64 Oozumou 2 | 3434 | [3434-64-oozumou-2.json](./3434-64-oozumou-2.json) |
 | 64 Trump Collection: Alice no Waku-waku Trump World | 3435 | [3435-64-trump-collection-alice-no-waku-waku-trump-world.json](./3435-64-trump-collection-alice-no-waku-waku-trump-world.json) |
 | 64 Wars | 182340 | [182340-64-wars.json](./182340-64-wars.json) |
+| 64.0 | 27801 | [27801-64-0.json](./27801-64-0.json) |
 | 64th Street: A Detective Story | 6735 | [6735-64th-street-a-detective-story.json](./6735-64th-street-a-detective-story.json) |
 | 65536-in-1 | 309143 | [309143-65536-in-1.json](./309143-65536-in-1.json) |
 | 65536: Super 2048 | 95316 | [95316-65536-super-2048.json](./95316-65536-super-2048.json) |
@@ -3917,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Adventures: The Forgotten Journey - Remastered Edition | 35235 | [35235-8-bit-adventures-the-forgotten-journey-remastered-edition.json](./35235-8-bit-adventures-the-forgotten-journey-remastered-edition.json) |
 | 8-Bit Arena VR | 30627 | [30627-8-bit-arena-vr.json](./30627-8-bit-arena-vr.json) |
 | 8-Bit Armies | 18907 | [18907-8-bit-armies.json](./18907-8-bit-armies.json) |
+| 8-Bit Armies: Arena | 27333 | [27333-8-bit-armies-arena.json](./27333-8-bit-armies-arena.json) |
 | 8-Bit Armies: Guardians Campaign | 51698 | [51698-8-bit-armies-guardians-campaign.json](./51698-8-bit-armies-guardians-campaign.json) |
 | 8-Bit Attack | 135766 | [135766-8-bit-attack.json](./135766-8-bit-attack.json) |
 | 8-Bit Attack: Character Pack 1 | 223816 | [223816-8-bit-attack-character-pack-1.json](./223816-8-bit-attack-character-pack-1.json) |
