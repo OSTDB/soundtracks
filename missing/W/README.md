@@ -1476,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfare 1944 | 61589 | [61589-warfare-1944.json](./61589-warfare-1944.json) |
 | Warfare Area 2 | 220810 | [220810-warfare-area-2.json](./220810-warfare-area-2.json) |
 | Warfare Chess 2 | 97265 | [97265-warfare-chess-2.json](./97265-warfare-chess-2.json) |
+| Warfare Incorporated | 23602 | [23602-warfare-incorporated.json](./23602-warfare-incorporated.json) |
 | Warfare Legacy Collection | 287786 | [287786-warfare-legacy-collection.json](./287786-warfare-legacy-collection.json) |
 | Warfare Online | 19140 | [19140-warfare-online.json](./19140-warfare-online.json) |
 | Warfare Reloaded | 25472 | [25472-warfare-reloaded.json](./25472-warfare-reloaded.json) |
@@ -2449,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warships 3D | 114158 | [114158-warships-3d.json](./114158-warships-3d.json) |
 | Warships Final Battle | 230910 | [230910-warships-final-battle.json](./230910-warships-final-battle.json) |
 | Warships on the Halloween Night | 121783 | [121783-warships-on-the-halloween-night.json](./121783-warships-on-the-halloween-night.json) |
+| Warships Online | 23624 | [23624-warships-online.json](./23624-warships-online.json) |
 | Warshmallows | 132613 | [132613-warshmallows.json](./132613-warshmallows.json) |
 | Warshovel: Idle RPG | 324803 | [324803-warshovel-idle-rpg.json](./324803-warshovel-idle-rpg.json) |
 | Warside | 17785 | [17785-warside.json](./17785-warside.json) |
@@ -9195,6 +9197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Workhorse | 357861 | [357861-workhorse.json](./357861-workhorse.json) |
 | Workhorse Desktop | 387162 | [387162-workhorse-desktop.json](./387162-workhorse-desktop.json) |
 | Working Class Monsters | 390758 | [390758-working-class-monsters.json](./390758-working-class-monsters.json) |
+| Working Dawgs: A-Maze-ing Pipes | 23585 | [23585-working-dawgs-a-maze-ing-pipes.json](./23585-working-dawgs-a-maze-ing-pipes.json) |
 | Working Dawgs: Rivet Retriever | 84936 | [84936-working-dawgs-rivet-retriever.json](./84936-working-dawgs-rivet-retriever.json) |
 | Working Days | 408762 | [408762-working-days.json](./408762-working-days.json) |
 | Working Hard Collection | 257497 | [257497-working-hard-collection.json](./257497-working-hard-collection.json) |
@@ -9935,6 +9938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Tour Soccer | 22291 | [22291-world-tour-soccer.json](./22291-world-tour-soccer.json) |
 | World Tour Soccer 06 | 24180 | [24180-world-tour-soccer-06.json](./24180-world-tour-soccer-06.json) |
 | World Tour Soccer 2003 | 71327 | [71327-world-tour-soccer-2003.json](./71327-world-tour-soccer-2003.json) |
+| World Tour Soccer 2005 | 23546 | [23546-world-tour-soccer-2005.json](./23546-world-tour-soccer-2005.json) |
 | World Tour Soccer: Challenge Edition | 77087 | [77087-world-tour-soccer-challenge-edition.json](./77087-world-tour-soccer-challenge-edition.json) |
 | World Tour Tennis | 29140 | [29140-world-tour-tennis.json](./29140-world-tour-tennis.json) |
 | World Travel Solitaire | 415964 | [415964-world-travel-solitaire.json](./415964-world-travel-solitaire.json) |
@@ -10542,6 +10546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreck the Party: Christmas Edition | 230785 | [230785-wreck-the-party-christmas-edition.json](./230785-wreck-the-party-christmas-edition.json) |
 | Wreck the Party! Thanksgiving Edition | 176547 | [176547-wreck-the-party-thanksgiving-edition.json](./176547-wreck-the-party-thanksgiving-edition.json) |
 | Wreck the World | 428302 | [428302-wreck-the-world.json](./428302-wreck-the-world.json) |
+| Wreck-It Ralph | 23586 | [23586-wreck-it-ralph.json](./23586-wreck-it-ralph.json) |
 | Wreck-It Ralph | 299871 | [299871-wreck-it-ralph.json](./299871-wreck-it-ralph.json) |
 | Wreck-It Ralph: The Video Game | 51655 | [51655-wreck-it-ralph-the-video-game.json](./51655-wreck-it-ralph-the-video-game.json) |
 | Wreckage | 265258 | [265258-wreckage.json](./265258-wreckage.json) |
