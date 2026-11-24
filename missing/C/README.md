@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cala a Boca, Galvão! | 260069 | [260069-cala-a-boca-galvao.json](./260069-cala-a-boca-galvao.json) |
 | Caladria Chronicles | 114913 | [114913-caladria-chronicles.json](./114913-caladria-chronicles.json) |
 | Caladria Chronicles Volume 2 | 230972 | [230972-caladria-chronicles-volume-2.json](./230972-caladria-chronicles-volume-2.json) |
+| Caladrius | 47482 | [47482-caladrius.json](./47482-caladrius.json) |
 | Caladrius 2: Dark Element | 412682 | [412682-caladrius-2-dark-element.json](./412682-caladrius-2-dark-element.json) |
 | Caladrius AC | 391407 | [391407-caladrius-ac.json](./391407-caladrius-ac.json) |
 | Caladrius Blaze | 26703 | [26703-caladrius-blaze.json](./26703-caladrius-blaze.json) |
@@ -14033,6 +14034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Corruption | 272638 | [272638-color-corruption.json](./272638-color-corruption.json) |
 | Color Course | 185528 | [185528-color-course.json](./185528-color-course.json) |
 | Color Creature | 317464 | [317464-color-creature.json](./317464-color-creature.json) |
+| Color Cross | 47769 | [47769-color-cross.json](./47769-color-cross.json) |
 | Color Cruiser | 426847 | [426847-color-cruiser.json](./426847-color-cruiser.json) |
 | Color Crush | 387738 | [387738-color-crush.json](./387738-color-crush.json) |
 | Color Crush 2 | 147035 | [147035-color-crush-2.json](./147035-color-crush-2.json) |
@@ -14534,6 +14536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors | 377345 | [377345-colors.json](./377345-colors.json) |
 | Colors | 85889 | [85889-colors.json](./85889-colors.json) |
 | Colors -Break Bricks- | 62009 | [62009-colors-break-bricks.json](./62009-colors-break-bricks.json) |
+| Colors 3D | 47652 | [47652-colors-3d.json](./47652-colors-3d.json) |
 | Colors and Numbers | 192033 | [192033-colors-and-numbers.json](./192033-colors-and-numbers.json) |
 | Colors and their Meanings | 274519 | [274519-colors-and-their-meanings.json](./274519-colors-and-their-meanings.json) |
 | Colors Assemble | 217137 | [217137-colors-assemble.json](./217137-colors-assemble.json) |
@@ -22546,6 +22549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubit | 204472 | [204472-cubit.json](./204472-cubit.json) |
 | Cubit | 204473 | [204473-cubit.json](./204473-cubit.json) |
 | Cubit the Hardcore Platformer Robot HD | 85060 | [85060-cubit-the-hardcore-platformer-robot-hd.json](./85060-cubit-the-hardcore-platformer-robot-hd.json) |
+| Cubit: The Hardcore Platformer Robot | 47644 | [47644-cubit-the-hardcore-platformer-robot.json](./47644-cubit-the-hardcore-platformer-robot.json) |
 | Cubiti Dash 'n' Dodge | 308170 | [308170-cubiti-dash-n-dodge.json](./308170-cubiti-dash-n-dodge.json) |
 | Cubiti Parti | 202749 | [202749-cubiti-parti.json](./202749-cubiti-parti.json) |
 | Cubito Mayhem | 101715 | [101715-cubito-mayhem.json](./101715-cubito-mayhem.json) |
