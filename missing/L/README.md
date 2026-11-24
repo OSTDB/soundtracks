@@ -9794,6 +9794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Vulcan | 347851 | [347851-lost-vulcan.json](./347851-lost-vulcan.json) |
 | Lost Wage Rampage | 108989 | [108989-lost-wage-rampage.json](./108989-lost-wage-rampage.json) |
 | Lost Wiki: Kozlovka | 374721 | [374721-lost-wiki-kozlovka.json](./374721-lost-wiki-kozlovka.json) |
+| Lost Wing | 75371 | [75371-lost-wing.json](./75371-lost-wing.json) |
 | Lost Wish: In the Desperate World | 195482 | [195482-lost-wish-in-the-desperate-world.json](./195482-lost-wish-in-the-desperate-world.json) |
 | Lost with Dinosaurs | 55633 | [55633-lost-with-dinosaurs.json](./55633-lost-with-dinosaurs.json) |
 | Lost With You | 234410 | [234410-lost-with-you.json](./234410-lost-with-you.json) |
