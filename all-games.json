@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-24T04:15:56.706Z",
-  "total_soundtracks": 3934,
+  "generated_at": "2026-11-24T04:25:55.807Z",
+  "total_soundtracks": 3935,
   "games": [
     {
       "igdb_id": 292844,
@@ -28745,6 +28745,20 @@
         {
           "album_name": "Nightmare Kart (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/64SlIK2EN8gY1LzALgU8mj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 103233,
+      "game_name": "Nightstar: Alliance",
+      "game_url": "https://ostdb.net/games/nightstar-alliance",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27349c9093044e638f22498c527",
+      "albums": [
+        {
+          "album_name": "Nightstar: Alliance (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7JDNMWid8Di2R6EtldN2ZD",
           "apple_music_url": "",
           "album_link_url": ""
         }
