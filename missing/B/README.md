@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baff Halloween | 271071 | [271071-baff-halloween.json](./271071-baff-halloween.json) |
 | Baffle Ball | 92639 | [92639-baffle-ball.json](./92639-baffle-ball.json) |
 | Baffle My Mind | 88211 | [88211-baffle-my-mind.json](./88211-baffle-my-mind.json) |
+| BAFL: Brakes Are For Losers | 44740 | [44740-bafl-brakes-are-for-losers.json](./44740-bafl-brakes-are-for-losers.json) |
 | Bag Boy Memory | 204209 | [204209-bag-boy-memory.json](./204209-bag-boy-memory.json) |
 | Bag Closure | 137975 | [137975-bag-closure.json](./137975-bag-closure.json) |
 | Bag Fight | 402299 | [402299-bag-fight.json](./402299-bag-fight.json) |
@@ -3159,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnville Massacre | 376516 | [376516-barnville-massacre.json](./376516-barnville-massacre.json) |
 | Barnyard | 242988 | [242988-barnyard.json](./242988-barnyard.json) |
 | Barnyard Bash | 109941 | [109941-barnyard-bash.json](./109941-barnyard-bash.json) |
+| Barnyard Blast: Swine of the Night | 47917 | [47917-barnyard-blast-swine-of-the-night.json](./47917-barnyard-blast-swine-of-the-night.json) |
 | Barnyard Blaster | 11866 | [11866-barnyard-blaster.json](./11866-barnyard-blaster.json) |
 | Barnyard Blaster Lite | 100327 | [100327-barnyard-blaster-lite.json](./100327-barnyard-blaster-lite.json) |
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
@@ -11506,6 +11508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach | 201562 | [201562-bleach.json](./201562-bleach.json) |
 | Bleach & Blood | 419469 | [419469-bleach-and-blood.json](./419469-bleach-and-blood.json) |
 | Bleach Advance: Kurenai ni Somaru Soul Society | 49534 | [49534-bleach-advance-kurenai-ni-somaru-soul-society.json](./49534-bleach-advance-kurenai-ni-somaru-soul-society.json) |
+| Bleach DS 4th: Flame Bringer | 47832 | [47832-bleach-ds-4th-flame-bringer.json](./47832-bleach-ds-4th-flame-bringer.json) |
 | Bleach GC: Tasogare ni Mamieru Shinigami | 3820 | [3820-bleach-gc-tasogare-ni-mamieru-shinigami.json](./3820-bleach-gc-tasogare-ni-mamieru-shinigami.json) |
 | Bleach Heat the Soul | 44488 | [44488-bleach-heat-the-soul.json](./44488-bleach-heat-the-soul.json) |
 | Bleach Mirrors High | 409022 | [409022-bleach-mirrors-high.json](./409022-bleach-mirrors-high.json) |
@@ -15891,6 +15894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash UX | 41180 | [41180-boulder-dash-ux.json](./41180-boulder-dash-ux.json) |
 | Boulder Dash XMAS 2002 | 63967 | [63967-boulder-dash-xmas-2002.json](./63967-boulder-dash-xmas-2002.json) |
 | Boulder Dash-XL | 65854 | [65854-boulder-dash-xl.json](./65854-boulder-dash-xl.json) |
+| Boulder Dash-XL 3D | 47624 | [47624-boulder-dash-xl-3d.json](./47624-boulder-dash-xl-3d.json) |
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
 | Boulder Dash: 40th Anniversary | 316942 | [316942-boulder-dash-40th-anniversary.json](./316942-boulder-dash-40th-anniversary.json) |
 | Boulder Dash: Pirate's Quest | 63971 | [63971-boulder-dash-pirates-quest.json](./63971-boulder-dash-pirates-quest.json) |
@@ -19689,6 +19693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs From Space | 188417 | [188417-bugs-from-space.json](./188417-bugs-from-space.json) |
 | Bugs make fine snacks | 246703 | [246703-bugs-make-fine-snacks.json](./246703-bugs-make-fine-snacks.json) |
 | Bugs N' Guns | 276690 | [276690-bugs-n-guns.json](./276690-bugs-n-guns.json) |
+| Bugs vs. Tanks! | 47656 | [47656-bugs-vs-tanks.json](./47656-bugs-vs-tanks.json) |
 | Bugs Wars | 23388 | [23388-bugs-wars.json](./23388-bugs-wars.json) |
 | Bugs with Afterburners | 387550 | [387550-bugs-with-afterburners.json](./387550-bugs-with-afterburners.json) |
 | Bugs! | 119679 | [119679-bugs.json](./119679-bugs.json) |
