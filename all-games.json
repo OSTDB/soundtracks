@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-24T13:55:57.957Z",
-  "total_soundtracks": 3940,
+  "generated_at": "2026-11-24T14:25:58.217Z",
+  "total_soundtracks": 3941,
   "games": [
     {
       "igdb_id": 292844,
@@ -23627,6 +23627,20 @@
         {
           "album_name": "Len's Island (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3Cy0aFNkwvN353leeRPWdW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 99626,
+      "game_name": "Lenin - The Lion",
+      "game_url": "https://ostdb.net/games/lenin-the-lion",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273157cdc7f93e18ad932d975c1",
+      "albums": [
+        {
+          "album_name": "Lenin - The Lion (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/63KVm9Q8NMMfDCyZjnKkWc",
           "apple_music_url": "",
           "album_link_url": ""
         }
