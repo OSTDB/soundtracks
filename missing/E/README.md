@@ -2250,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Shaddai for Android Vol. 1 | 63592 | [63592-el-shaddai-for-android-vol-1.json](./63592-el-shaddai-for-android-vol-1.json) |
 | El Shaddai for Android Vol. 2 | 425518 | [425518-el-shaddai-for-android-vol-2.json](./425518-el-shaddai-for-android-vol-2.json) |
 | El Shaddai Social Battle | 425516 | [425516-el-shaddai-social-battle.json](./425516-el-shaddai-social-battle.json) |
+| El Shaddai: Ascension of the Metatron | 212311 | [212311-el-shaddai-ascension-of-the-metatron.json](./212311-el-shaddai-ascension-of-the-metatron.json) |
 | El Shaddai: Ascension of the Metatron | 6987 | [6987-el-shaddai-ascension-of-the-metatron.json](./6987-el-shaddai-ascension-of-the-metatron.json) |
 | El Shaddai: Zero Nine Reversi | 398072 | [398072-el-shaddai-zero-nine-reversi.json](./398072-el-shaddai-zero-nine-reversi.json) |
 | El Silla | 139288 | [139288-el-silla.json](./139288-el-silla.json) |
@@ -9681,6 +9682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExtremeJobs Knight's Assistant | 107107 | [107107-extremejobs-knights-assistant.json](./107107-extremejobs-knights-assistant.json) |
 | Extremely Common Game of Escape | 319895 | [319895-extremely-common-game-of-escape.json](./319895-extremely-common-game-of-escape.json) |
 | Extremely OK Painting Restoration Studio | 185562 | [185562-extremely-ok-painting-restoration-studio.json](./185562-extremely-ok-painting-restoration-studio.json) |
+| Extremely Powerful Capybaras | 211746 | [211746-extremely-powerful-capybaras.json](./211746-extremely-powerful-capybaras.json) |
 | Extremely Realistic Siege Warfare Simulator | 130957 | [130957-extremely-realistic-siege-warfare-simulator.json](./130957-extremely-realistic-siege-warfare-simulator.json) |
 | ExtremeRetroArena | 235887 | [235887-extremeretroarena.json](./235887-extremeretroarena.json) |
 | ExtremeTK | 136861 | [136861-extremetk.json](./136861-extremetk.json) |
