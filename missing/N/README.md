@@ -1363,7 +1363,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazareno Runner Semana Santa | 323078 | [323078-nazareno-runner-semana-santa.json](./323078-nazareno-runner-semana-santa.json) |
 | Nazi | 385988 | [385988-nazi.json](./385988-nazi.json) |
 | Nazi 2 | 105248 | [105248-nazi-2.json](./105248-nazi-2.json) |
-| Nazi Bunker | 105252 | [105252-nazi-bunker.json](./105252-nazi-bunker.json) |
 | Nazi Elimination | 81988 | [81988-nazi-elimination.json](./81988-nazi-elimination.json) |
 | Nazi Furry | 200622 | [200622-nazi-furry.json](./200622-nazi-furry.json) |
 | Nazi Labs | 367144 | [367144-nazi-labs.json](./367144-nazi-labs.json) |
@@ -2385,7 +2384,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekojishi | 76075 | [76075-nekojishi.json](./76075-nekojishi.json) |
 | Nekojishi Expansion Pack: A Sunny Day | 167340 | [167340-nekojishi-expansion-pack-a-sunny-day.json](./167340-nekojishi-expansion-pack-a-sunny-day.json) |
 | Nekokami: The Human Restoration Project | 289424 | [289424-nekokami-the-human-restoration-project.json](./289424-nekokami-the-human-restoration-project.json) |
-| Nekokoro | 105289 | [105289-nekokoro.json](./105289-nekokoro.json) |
 | Nekokuromancer | 421745 | [421745-nekokuromancer.json](./421745-nekokuromancer.json) |
 | Nekoland Studio | 119855 | [119855-nekoland-studio.json](./119855-nekoland-studio.json) |
 | Nekolpos: Colossal Cat Care Simulation | 428885 | [428885-nekolpos-colossal-cat-care-simulation.json](./428885-nekolpos-colossal-cat-care-simulation.json) |
