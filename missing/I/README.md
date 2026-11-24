@@ -3737,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incubation: Hidden Worlds | 70133 | [70133-incubation-hidden-worlds.json](./70133-incubation-hidden-worlds.json) |
 | Incubation: The Wilderness Missions | 78480 | [78480-incubation-the-wilderness-missions.json](./78480-incubation-the-wilderness-missions.json) |
 | Incubation: Time Is Running Out | 9033 | [9033-incubation-time-is-running-out.json](./9033-incubation-time-is-running-out.json) |
+| Incubo | 113609 | [113609-incubo.json](./113609-incubo.json) |
 | Incubus | 200567 | [200567-incubus.json](./200567-incubus.json) |
 | Incubus Heart: Demon Love Redemption | 386192 | [386192-incubus-heart-demon-love-redemption.json](./386192-incubus-heart-demon-love-redemption.json) |
 | Incubus Quest | 264188 | [264188-incubus-quest.json](./264188-incubus-quest.json) |
