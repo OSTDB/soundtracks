@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Raygun | 63779 | [63779-rad-raygun.json](./63779-rad-raygun.json) |
 | Rad Road Rally | 185206 | [185206-rad-road-rally.json](./185206-rad-road-rally.json) |
 | Rad Rocket | 138516 | [138516-rad-rocket.json](./138516-rad-rocket.json) |
+| Rad Rodgers: Radical Edition | 113422 | [113422-rad-rodgers-radical-edition.json](./113422-rad-rodgers-radical-edition.json) |
 | Rad Rodgers: World One | 23797 | [23797-rad-rodgers-world-one.json](./23797-rad-rodgers-world-one.json) |
 | RAD Soldiers | 64100 | [64100-rad-soldiers.json](./64100-rad-soldiers.json) |
 | Rad Survivor | 240642 | [240642-rad-survivor.json](./240642-rad-survivor.json) |
@@ -7555,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverie: A Heroes Tale | 89951 | [89951-reverie-a-heroes-tale.json](./89951-reverie-a-heroes-tale.json) |
 | Reverie: An Odd Sim Date | 419152 | [419152-reverie-an-odd-sim-date.json](./419152-reverie-an-odd-sim-date.json) |
 | Reverie: Limited Edition | 166303 | [166303-reverie-limited-edition.json](./166303-reverie-limited-edition.json) |
+| Reverie: Sweet As Edition | 114418 | [114418-reverie-sweet-as-edition.json](./114418-reverie-sweet-as-edition.json) |
 | Reveries: Soul Collector HD | 93829 | [93829-reveries-soul-collector-hd.json](./93829-reveries-soul-collector-hd.json) |
 | ReverieTale | 148617 | [148617-reverietale.json](./148617-reverietale.json) |
 | Reversal | 78717 | [78717-reversal.json](./78717-reversal.json) |
@@ -9005,6 +9007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise and Fall: Bronze Age | 235884 | [235884-rise-and-fall-bronze-age.json](./235884-rise-and-fall-bronze-age.json) |
 | Rise and Fall: Civilizations at War | 20531 | [20531-rise-and-fall-civilizations-at-war.json](./20531-rise-and-fall-civilizations-at-war.json) |
 | Rise and Grind! | 253490 | [253490-rise-and-grind.json](./253490-rise-and-grind.json) |
+| Rise Eterna | 113809 | [113809-rise-eterna.json](./113809-rise-eterna.json) |
 | Rise Eterna Bundle | 314601 | [314601-rise-eterna-bundle.json](./314601-rise-eterna-bundle.json) |
 | Rise Eterna II | 331589 | [331589-rise-eterna-ii.json](./331589-rise-eterna-ii.json) |
 | Rise Eterna War | 290503 | [290503-rise-eterna-war.json](./290503-rise-eterna-war.json) |
@@ -9793,6 +9796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Fame | 367408 | [367408-road-to-fame.json](./367408-road-to-fame.json) |
 | Road to Fame | 54326 | [54326-road-to-fame.json](./54326-road-to-fame.json) |
 | Road to Glory | 416572 | [416572-road-to-glory.json](./416572-road-to-glory.json) |
+| Road to Guangdong | 114520 | [114520-road-to-guangdong.json](./114520-road-to-guangdong.json) |
 | Road to Hades | 306867 | [306867-road-to-hades.json](./306867-road-to-hades.json) |
 | Road To Heaven | 400566 | [400566-road-to-heaven.json](./400566-road-to-heaven.json) |
 | Road to Hollow Hills | 154038 | [154038-road-to-hollow-hills.json](./154038-road-to-hollow-hills.json) |
@@ -13870,6 +13874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruinarch + Legend of Keepers: Overlord Bundle | 284748 | [284748-ruinarch-legend-of-keepers-overlord-bundle.json](./284748-ruinarch-legend-of-keepers-overlord-bundle.json) |
 | Ruinas | 308318 | [308318-ruinas.json](./308318-ruinas.json) |
 | Ruinas de Maimará | 326145 | [326145-ruinas-de-maimara.json](./326145-ruinas-de-maimara.json) |
+| Ruination | 114854 | [114854-ruination.json](./114854-ruination.json) |
 | Ruindog | 277114 | [277114-ruindog.json](./277114-ruindog.json) |
 | Ruindrift | 371883 | [371883-ruindrift.json](./371883-ruindrift.json) |
 | Ruine | 118055 | [118055-ruine.json](./118055-ruine.json) |
@@ -13915,6 +13920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins of Wish: Ephemeral Traveler | 82516 | [82516-ruins-of-wish-ephemeral-traveler.json](./82516-ruins-of-wish-ephemeral-traveler.json) |
 | Ruins Seeker | 119879 | [119879-ruins-seeker.json](./119879-ruins-seeker.json) |
 | Ruins Story | 252468 | [252468-ruins-story.json](./252468-ruins-story.json) |
+| Ruins Survival | 114511 | [114511-ruins-survival.json](./114511-ruins-survival.json) |
 | Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
 | Ruins to Rumble | 117831 | [117831-ruins-to-rumble.json](./117831-ruins-to-rumble.json) |
 | Ruins War | 109800 | [109800-ruins-war.json](./109800-ruins-war.json) |
