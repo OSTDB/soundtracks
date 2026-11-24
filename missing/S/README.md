@@ -15412,6 +15412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave Zero X: Digital Deluxe Edition | 277028 | [277028-slave-zero-x-digital-deluxe-edition.json](./277028-slave-zero-x-digital-deluxe-edition.json) |
 | Slave-Maid Princess | 97941 | [97941-slave-maid-princess.json](./97941-slave-maid-princess.json) |
 | Slave's Sword ~The Free City~ | 106615 | [106615-slaves-sword-the-free-city.json](./106615-slaves-sword-the-free-city.json) |
+| Slave's Sword 2 ~Imperial Revolution~ | 113818 | [113818-slaves-sword-2-imperial-revolution.json](./113818-slaves-sword-2-imperial-revolution.json) |
 | Slaveblade | 121774 | [121774-slaveblade.json](./121774-slaveblade.json) |
 | SlaveHack 2 | 125791 | [125791-slavehack-2.json](./125791-slavehack-2.json) |
 | Slaves | 220688 | [220688-slaves.json](./220688-slaves.json) |
@@ -35054,6 +35055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Temple Shootout | 87697 | [87697-sun-temple-shootout.json](./87697-sun-temple-shootout.json) |
 | Sun to Sun: Endure | 427323 | [427323-sun-to-sun-endure.json](./427323-sun-to-sun-endure.json) |
 | Sun Warriors | 155949 | [155949-sun-warriors.json](./155949-sun-warriors.json) |
+| Sun Wukong VS Robot | 113725 | [113725-sun-wukong-vs-robot.json](./113725-sun-wukong-vs-robot.json) |
 | Sun Wukong: Journey to the West | 184925 | [184925-sun-wukong-journey-to-the-west.json](./184925-sun-wukong-journey-to-the-west.json) |
 | Sun-Rise.exe | 264612 | [264612-sun-rise-exe.json](./264612-sun-rise-exe.json) |
 | Sun-shot Legend | 283065 | [283065-sun-shot-legend.json](./283065-sun-shot-legend.json) |
