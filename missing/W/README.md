@@ -8793,6 +8793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Invaders! | 232479 | [232479-word-invaders.json](./232479-word-invaders.json) |
 | Word Invasion | 44363 | [44363-word-invasion.json](./44363-word-invasion.json) |
 | Word Island | 205887 | [205887-word-island.json](./205887-word-island.json) |
+| Word Jong | 47715 | [47715-word-jong.json](./47715-word-jong.json) |
 | Word Jumblerama Blitz | 89575 | [89575-word-jumblerama-blitz.json](./89575-word-jumblerama-blitz.json) |
 | Word Killer: Revolution | 29968 | [29968-word-killer-revolution.json](./29968-word-killer-revolution.json) |
 | Word Killer: Zorgilonian Chronicles | 29967 | [29967-word-killer-zorgilonian-chronicles.json](./29967-word-killer-zorgilonian-chronicles.json) |
