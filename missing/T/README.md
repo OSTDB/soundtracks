@@ -15448,6 +15448,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Glitches | 262226 | [262226-the-lost-glitches.json](./262226-the-lost-glitches.json) |
 | The Lost Goblin Tower | 111589 | [111589-the-lost-goblin-tower.json](./111589-the-lost-goblin-tower.json) |
 | The Lost Heaven | 375903 | [375903-the-lost-heaven.json](./375903-the-lost-heaven.json) |
+| The Lost Heir 2: Forging a Kingdom | 33593 | [33593-the-lost-heir-2-forging-a-kingdom.json](./33593-the-lost-heir-2-forging-a-kingdom.json) |
+| The Lost Heir: The Fall of Daria | 33594 | [33594-the-lost-heir-the-fall-of-daria.json](./33594-the-lost-heir-the-fall-of-daria.json) |
 | The Lost Hotel | 253395 | [253395-the-lost-hotel.json](./253395-the-lost-hotel.json) |
 | The Lost Hunter | 422048 | [422048-the-lost-hunter.json](./422048-the-lost-hunter.json) |
 | The Lost Identity | 417354 | [417354-the-lost-identity.json](./417354-the-lost-identity.json) |
@@ -18124,6 +18126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ren & Stimpy Show: Space Cadet Adventures | 48971 | [48971-the-ren-and-stimpy-show-space-cadet-adventures.json](./48971-the-ren-and-stimpy-show-space-cadet-adventures.json) |
 | The Ren & Stimpy Show: Time Warp | 8102 | [8102-the-ren-and-stimpy-show-time-warp.json](./8102-the-ren-and-stimpy-show-time-warp.json) |
 | The Ren & Stimpy Show: Veediots! | 365695 | [365695-the-ren-and-stimpy-show-veediots.json](./365695-the-ren-and-stimpy-show-veediots.json) |
+| The Renegades of Orion 2.0 | 33727 | [33727-the-renegades-of-orion-2-0.json](./33727-the-renegades-of-orion-2-0.json) |
 | The Rengeki Heroes | 222011 | [222011-the-rengeki-heroes.json](./222011-the-rengeki-heroes.json) |
 | The Renovator | 117070 | [117070-the-renovator.json](./117070-the-renovator.json) |
 | The Renovator: Origins | 193413 | [193413-the-renovator-origins.json](./193413-the-renovator-origins.json) |
@@ -27272,6 +27275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Golf | 307505 | [307505-tiny-golf.json](./307505-tiny-golf.json) |
 | Tiny Golf Adventure | 207412 | [207412-tiny-golf-adventure.json](./207412-tiny-golf-adventure.json) |
 | Tiny Golf Puzzles | 180464 | [180464-tiny-golf-puzzles.json](./180464-tiny-golf-puzzles.json) |
+| Tiny Guardians | 33841 | [33841-tiny-guardians.json](./33841-tiny-guardians.json) |
 | Tiny Hands Adventure | 102226 | [102226-tiny-hands-adventure.json](./102226-tiny-hands-adventure.json) |
 | Tiny Harbor | 423591 | [423591-tiny-harbor.json](./423591-tiny-harbor.json) |
 | Tiny Havoc | 424066 | [424066-tiny-havoc.json](./424066-tiny-havoc.json) |
