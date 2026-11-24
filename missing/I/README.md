@@ -6337,6 +6337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion Waves | 200578 | [200578-invasion-waves.json](./200578-invasion-waves.json) |
 | Invasion Zero | 114239 | [114239-invasion-zero.json](./114239-invasion-zero.json) |
 | Invasion: Battlefield | 88600 | [88600-invasion-battlefield.json](./88600-invasion-battlefield.json) |
+| Invasion: Brain Craving | 33942 | [33942-invasion-brain-craving.json](./33942-invasion-brain-craving.json) |
 | Invasion: Family Ties | 246819 | [246819-invasion-family-ties.json](./246819-invasion-family-ties.json) |
 | Invasion: Neo Earth | 188423 | [188423-invasion-neo-earth.json](./188423-invasion-neo-earth.json) |
 | Invasion: Phoenix | 310786 | [310786-invasion-phoenix.json](./310786-invasion-phoenix.json) |
