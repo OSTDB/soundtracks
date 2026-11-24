@@ -2532,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Aquarium: The King of Crustaceans | 35656 | [35656-neo-aquarium-the-king-of-crustaceans.json](./35656-neo-aquarium-the-king-of-crustaceans.json) |
 | Neo Artifacts | 393819 | [393819-neo-artifacts.json](./393819-neo-artifacts.json) |
 | Neo Atlas | 166364 | [166364-neo-atlas.json](./166364-neo-atlas.json) |
+| Neo Atlas 1469 | 27318 | [27318-neo-atlas-1469.json](./27318-neo-atlas-1469.json) |
 | Neo Atlas 2 | 166365 | [166365-neo-atlas-2.json](./166365-neo-atlas-2.json) |
 | Neo Atlas 3 | 166366 | [166366-neo-atlas-3.json](./166366-neo-atlas-3.json) |
 | Neo Baccarat | 47605 | [47605-neo-baccarat.json](./47605-neo-baccarat.json) |
