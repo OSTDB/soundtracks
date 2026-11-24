@@ -2579,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maiden and Lord | 337378 | [337378-maiden-and-lord.json](./337378-maiden-and-lord.json) |
 | Maiden and Swordsman | 129392 | [129392-maiden-and-swordsman.json](./129392-maiden-and-swordsman.json) |
 | Maiden City: The Last Collateral Damage | 90408 | [90408-maiden-city-the-last-collateral-damage.json](./90408-maiden-city-the-last-collateral-damage.json) |
+| Maiden Cops | 209681 | [209681-maiden-cops.json](./209681-maiden-cops.json) |
 | Maiden Gear | 212043 | [212043-maiden-gear.json](./212043-maiden-gear.json) |
 | Maiden Kingdom | 220443 | [220443-maiden-kingdom.json](./220443-maiden-kingdom.json) |
 | Maiden Maze | 147376 | [147376-maiden-maze.json](./147376-maiden-maze.json) |
@@ -6652,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matinta | 253463 | [253463-matinta.json](./253463-matinta.json) |
 | Matisse's 3D World | 215313 | [215313-matisses-3d-world.json](./215313-matisses-3d-world.json) |
 | Matiz | 255397 | [255397-matiz.json](./255397-matiz.json) |
+| Mato Anomalies | 212050 | [212050-mato-anomalies.json](./212050-mato-anomalies.json) |
 | Mato Anomalies: Day One Edition | 228732 | [228732-mato-anomalies-day-one-edition.json](./228732-mato-anomalies-day-one-edition.json) |
 | Mato Anomalies: Digital Deluxe Edition | 241414 | [241414-mato-anomalies-digital-deluxe-edition.json](./241414-mato-anomalies-digital-deluxe-edition.json) |
 | Mato Anomalies: Digital Shadows | 260030 | [260030-mato-anomalies-digital-shadows.json](./260030-mato-anomalies-digital-shadows.json) |
@@ -8402,6 +8404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet the Sight Words3 | 102645 | [102645-meet-the-sight-words3.json](./102645-meet-the-sight-words3.json) |
 | Meet the Vowels | 102773 | [102773-meet-the-vowels.json](./102773-meet-the-vowels.json) |
 | Meet the Vowels Flashcards | 102642 | [102642-meet-the-vowels-flashcards.json](./102642-meet-the-vowels-flashcards.json) |
+| Meet Your Maker | 212710 | [212710-meet-your-maker.json](./212710-meet-your-maker.json) |
 | Meet Your Maker: Deluxe Edition | 243798 | [243798-meet-your-maker-deluxe-edition.json](./243798-meet-your-maker-deluxe-edition.json) |
 | Meet Your Maker: Scorched Necropolis | 248093 | [248093-meet-your-maker-scorched-necropolis.json](./248093-meet-your-maker-scorched-necropolis.json) |
 | Meet Your Maker: Sector 1 Arsenal Pack | 254897 | [254897-meet-your-maker-sector-1-arsenal-pack.json](./254897-meet-your-maker-sector-1-arsenal-pack.json) |
@@ -8590,6 +8593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man at the Tokyo Olympics | 334629 | [334629-mega-man-at-the-tokyo-olympics.json](./334629-mega-man-at-the-tokyo-olympics.json) |
 | Mega Man at the Tokyo Olympics 2 | 334628 | [334628-mega-man-at-the-tokyo-olympics-2.json](./334628-mega-man-at-the-tokyo-olympics-2.json) |
 | Mega Man Battle & Chase | 1731 | [1731-mega-man-battle-and-chase.json](./1731-mega-man-battle-and-chase.json) |
+| Mega Man Battle & Fighters | 212341 | [212341-mega-man-battle-and-fighters.json](./212341-mega-man-battle-and-fighters.json) |
 | Mega Man Battle Network | 1755 | [1755-mega-man-battle-network.json](./1755-mega-man-battle-network.json) |
 | Mega Man Battle Network | 351295 | [351295-mega-man-battle-network.json](./351295-mega-man-battle-network.json) |
 | Mega Man Battle Network 2 | 1756 | [1756-mega-man-battle-network-2.json](./1756-mega-man-battle-network-2.json) |
@@ -12022,6 +12026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mia and me: Freedom for Centopia | 107003 | [107003-mia-and-me-freedom-for-centopia.json](./107003-mia-and-me-freedom-for-centopia.json) |
 | Mia and Me: Magic Friends | 325398 | [325398-mia-and-me-magic-friends.json](./325398-mia-and-me-magic-friends.json) |
 | Mia and the Bugaboos | 22121 | [22121-mia-and-the-bugaboos.json](./22121-mia-and-the-bugaboos.json) |
+| Mia and the Dragon Princess | 212737 | [212737-mia-and-the-dragon-princess.json](./212737-mia-and-the-dragon-princess.json) |
 | Mia Fey: Ace Spirit Attorney | 303005 | [303005-mia-fey-ace-spirit-attorney.json](./303005-mia-fey-ace-spirit-attorney.json) |
 | Mia Hamm Soccer | 362900 | [362900-mia-hamm-soccer.json](./362900-mia-hamm-soccer.json) |
 | Mia Hamm Soccer 64 | 72829 | [72829-mia-hamm-soccer-64.json](./72829-mia-hamm-soccer-64.json) |
