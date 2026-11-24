@@ -11235,6 +11235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
 | Forebloomed: Evergreen Edition | 268302 | [268302-forebloomed-evergreen-edition.json](./268302-forebloomed-evergreen-edition.json) |
 | Forecast Death | 382758 | [382758-forecast-death.json](./382758-forecast-death.json) |
+| Foreclosed | 134579 | [134579-foreclosed.json](./134579-foreclosed.json) |
 | Foreclosure Simulator | 201502 | [201502-foreclosure-simulator.json](./201502-foreclosure-simulator.json) |
 | Forecursed | 321926 | [321926-forecursed.json](./321926-forecursed.json) |
 | Forefeathers | 414752 | [414752-forefeathers.json](./414752-forefeathers.json) |
