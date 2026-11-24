@@ -2357,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarasaland Adventure | 386774 | [386774-sarasaland-adventure.json](./386774-sarasaland-adventure.json) |
 | Sarasaland Adventure 2: The Alien Insurgency | 386790 | [386790-sarasaland-adventure-2-the-alien-insurgency.json](./386790-sarasaland-adventure-2-the-alien-insurgency.json) |
 | Saratoga | 297605 | [297605-saratoga.json](./297605-saratoga.json) |
+| Sarawak | 132677 | [132677-sarawak.json](./132677-sarawak.json) |
 | Sarco | 414133 | [414133-sarco.json](./414133-sarco.json) |
 | Sarcoph | 197697 | [197697-sarcoph.json](./197697-sarcoph.json) |
 | Sarcophag | 94875 | [94875-sarcophag.json](./94875-sarcophag.json) |
@@ -3797,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoopy Cereal | 304951 | [304951-scoopy-cereal.json](./304951-scoopy-cereal.json) |
 | Scoot | 142169 | [142169-scoot.json](./142169-scoot.json) |
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
+| Scoot Kaboom and the Tomb of Doom | 132695 | [132695-scoot-kaboom-and-the-tomb-of-doom.json](./132695-scoot-kaboom-and-the-tomb-of-doom.json) |
 | Scoot Scoot | 180469 | [180469-scoot-scoot.json](./180469-scoot-scoot.json) |
 | Scooter Boy | 238389 | [238389-scooter-boy.json](./238389-scooter-boy.json) |
 | Scooter Freestyle Extreme 3D | 90875 | [90875-scooter-freestyle-extreme-3d.json](./90875-scooter-freestyle-extreme-3d.json) |
@@ -10437,6 +10439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmup Ball | 186052 | [186052-shmup-ball.json](./186052-shmup-ball.json) |
 | Shmup Boss | 427728 | [427728-shmup-boss.json](./427728-shmup-boss.json) |
 | Shmup Bundle | 268476 | [268476-shmup-bundle.json](./268476-shmup-bundle.json) |
+| Shmup Collection | 133583 | [133583-shmup-collection.json](./133583-shmup-collection.json) |
 | Shmup Love Boom | 34831 | [34831-shmup-love-boom.json](./34831-shmup-love-boom.json) |
 | Shmup Mania | 201130 | [201130-shmup-mania.json](./201130-shmup-mania.json) |
 | Shmup Moments | 115825 | [115825-shmup-moments.json](./115825-shmup-moments.json) |
@@ -12399,6 +12402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicomrades | 126890 | [126890-silicomrades.json](./126890-silicomrades.json) |
 | Silicon Architect | 411160 | [411160-silicon-architect.json](./411160-silicon-architect.json) |
 | Silicon City | 121321 | [121321-silicon-city.json](./121321-silicon-city.json) |
+| Silicon Dreams | 132497 | [132497-silicon-dreams.json](./132497-silicon-dreams.json) |
 | Silicon Dreams | 15366 | [15366-silicon-dreams.json](./15366-silicon-dreams.json) |
 | Silicon Dreams - Return to Eden | 39156 | [39156-silicon-dreams-return-to-eden.json](./39156-silicon-dreams-return-to-eden.json) |
 | Silicon Dreams - Snowball | 39157 | [39157-silicon-dreams-snowball.json](./39157-silicon-dreams-snowball.json) |
@@ -13253,6 +13257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin Zero | 361054 | [361054-sin-zero.json](./361054-sin-zero.json) |
 | Sin-Cay | 162433 | [162433-sin-cay.json](./162433-sin-cay.json) |
 | Sin; Vengeance | 115135 | [115135-sin-vengeance.json](./115135-sin-vengeance.json) |
+| Sin: Reloaded | 131927 | [131927-sin-reloaded.json](./131927-sin-reloaded.json) |
 | Sin.exe | 345483 | [345483-sin-exe.json](./345483-sin-exe.json) |
 | Sin(e)s | 255216 | [255216-sin-e-s.json](./255216-sin-e-s.json) |
 | sin(Surfing) | 79647 | [79647-sin-surfing.json](./79647-sin-surfing.json) |
@@ -32875,6 +32880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Outlaws: The List | 122442 | [122442-street-outlaws-the-list.json](./122442-street-outlaws-the-list.json) |
 | Street Paint Playground | 217991 | [217991-street-paint-playground.json](./217991-street-paint-playground.json) |
 | Street Posse Showdown | 33589 | [33589-street-posse-showdown.json](./33589-street-posse-showdown.json) |
+| Street Power Football | 134708 | [134708-street-power-football.json](./134708-street-power-football.json) |
 | Street Pursuit | 266174 | [266174-street-pursuit.json](./266174-street-pursuit.json) |
 | Street Race Kings | 296328 | [296328-street-race-kings.json](./296328-street-race-kings.json) |
 | Street Racer | 19770 | [19770-street-racer.json](./19770-street-racer.json) |
@@ -33040,6 +33046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strich Gauntlet | 428130 | [428130-strich-gauntlet.json](./428130-strich-gauntlet.json) |
 | Strid | 110402 | [110402-strid.json](./110402-strid.json) |
 | Strid: Full Edition | 170800 | [170800-strid-full-edition.json](./170800-strid-full-edition.json) |
+| Stride | 132959 | [132959-stride.json](./132959-stride.json) |
 | Stride: Fates | 253151 | [253151-stride-fates.json](./253151-stride-fates.json) |
 | Stride.net | 153528 | [153528-stride-net.json](./153528-stride-net.json) |
 | Striden | 237059 | [237059-striden.json](./237059-striden.json) |
