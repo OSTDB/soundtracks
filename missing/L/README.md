@@ -930,7 +930,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landflix Odyssey | 86450 | [86450-landflix-odyssey.json](./86450-landflix-odyssey.json) |
 | LandFormer | 237729 | [237729-landformer.json](./237729-landformer.json) |
 | Landgrabbers | 95683 | [95683-landgrabbers.json](./95683-landgrabbers.json) |
-| Landinar: Into the Void | 99162 | [99162-landinar-into-the-void.json](./99162-landinar-into-the-void.json) |
 | Landing | 157863 | [157863-landing.json](./157863-landing.json) |
 | Landing | 330670 | [330670-landing.json](./330670-landing.json) |
 | Landing Confirmed | 151404 | [151404-landing-confirmed.json](./151404-landing-confirmed.json) |
