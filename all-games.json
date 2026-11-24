@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-24T04:25:55.807Z",
-  "total_soundtracks": 3935,
+  "generated_at": "2026-11-24T05:35:58.249Z",
+  "total_soundtracks": 3936,
   "games": [
     {
       "igdb_id": 292844,
@@ -45871,6 +45871,20 @@
         {
           "album_name": "To Leave: Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5Rs1eQtb2b27s2NSpLOuMV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 102370,
+      "game_name": "To Light: Ex Umbra",
+      "game_url": "https://ostdb.net/games/to-light-ex-umbra",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273078cf0c4ec6426bd668c28ff",
+      "albums": [
+        {
+          "album_name": "To Light: Ex Umbra (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6VnDK3IyjUk0FyrAbQucXd",
           "apple_music_url": "",
           "album_link_url": ""
         }
