@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Action: Trincomalee | 155565 | [155565-naval-action-trincomalee.json](./155565-naval-action-trincomalee.json) |
 | Naval Armada | 127732 | [127732-naval-armada.json](./127732-naval-armada.json) |
 | Naval Armada: World Warships | 181971 | [181971-naval-armada-world-warships.json](./181971-naval-armada-world-warships.json) |
+| Naval Assault: The Killing Tide | 47403 | [47403-naval-assault-the-killing-tide.json](./47403-naval-assault-the-killing-tide.json) |
 | Naval Attack | 93260 | [93260-naval-attack.json](./93260-naval-attack.json) |
 | Naval Battle Online | 224533 | [224533-naval-battle-online.json](./224533-naval-battle-online.json) |
 | Naval Battle: Mission Commander | 403031 | [403031-naval-battle-mission-commander.json](./403031-naval-battle-mission-commander.json) |
@@ -5095,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightbreed: The Interactive Movie | 15270 | [15270-nightbreed-the-interactive-movie.json](./15270-nightbreed-the-interactive-movie.json) |
 | Nightcap Witch | 384689 | [384689-nightcap-witch.json](./384689-nightcap-witch.json) |
 | NightCaster II: Equinox | 5970 | [5970-nightcaster-ii-equinox.json](./5970-nightcaster-ii-equinox.json) |
+| NightCaster: Defeat the Darkness | 47323 | [47323-nightcaster-defeat-the-darkness.json](./47323-nightcaster-defeat-the-darkness.json) |
 | Nightclub 69: Bunny Girls | 367032 | [367032-nightclub-69-bunny-girls.json](./367032-nightclub-69-bunny-girls.json) |
 | NightClub City | 337235 | [337235-nightclub-city.json](./337235-nightclub-city.json) |
 | Nightclub Emporium | 34788 | [34788-nightclub-emporium.json](./34788-nightclub-emporium.json) |
@@ -6248,6 +6250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Nightmare Deluxe | 313341 | [313341-nintendo-nightmare-deluxe.json](./313341-nintendo-nightmare-deluxe.json) |
 | Nintendo no Golf | 315438 | [315438-nintendo-no-golf.json](./315438-nintendo-no-golf.json) |
 | Nintendo Pennant Chase Baseball | 67797 | [67797-nintendo-pennant-chase-baseball.json](./67797-nintendo-pennant-chase-baseball.json) |
+| Nintendo Pocket Football Club | 47645 | [47645-nintendo-pocket-football-club.json](./47645-nintendo-pocket-football-club.json) |
 | Nintendo PowerFest '94 | 85808 | [85808-nintendo-powerfest-94.json](./85808-nintendo-powerfest-94.json) |
 | Nintendo RPG | 324005 | [324005-nintendo-rpg.json](./324005-nintendo-rpg.json) |
 | Nintendo Switch 2 Welcome Tour | 338069 | [338069-nintendo-switch-2-welcome-tour.json](./338069-nintendo-switch-2-welcome-tour.json) |
