@@ -2037,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Pathways | 164937 | [164937-dark-pathways.json](./164937-dark-pathways.json) |
 | Dark Petition | 412009 | [412009-dark-petition.json](./412009-dark-petition.json) |
 | Dark PGT | 347207 | [347207-dark-pgt.json](./347207-dark-pgt.json) |
+| Dark Pixel | 425042 | [425042-dark-pixel.json](./425042-dark-pixel.json) |
 | Dark Place | 366307 | [366307-dark-place.json](./366307-dark-place.json) |
 | Dark Place 1 | 272026 | [272026-dark-place-1.json](./272026-dark-place-1.json) |
 | Dark Place 2 | 272027 | [272027-dark-place-2.json](./272027-dark-place-2.json) |
@@ -10099,6 +10100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicealot | 319726 | [319726-dicealot.json](./319726-dicealot.json) |
 | Diceaster | 389255 | [389255-diceaster.json](./389255-diceaster.json) |
 | Diceball | 342532 | [342532-diceball.json](./342532-diceball.json) |
+| Dicebloom | 425043 | [425043-dicebloom.json](./425043-dicebloom.json) |
 | Diced Pilot | 236648 | [236648-diced-pilot.json](./236648-diced-pilot.json) |
 | Diceeee | 373869 | [373869-diceeee.json](./373869-diceeee.json) |
 | Dicefeat | 184459 | [184459-dicefeat.json](./184459-dicefeat.json) |
@@ -10387,7 +10389,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dies Mortis | 185163 | [185163-dies-mortis.json](./185163-dies-mortis.json) |
 | Diesel and Death | 194872 | [194872-diesel-and-death.json](./194872-diesel-and-death.json) |
 | Diesel Attack | 125044 | [125044-diesel-attack.json](./125044-diesel-attack.json) |
-| Diesel Brothers: The Game | 105264 | [105264-diesel-brothers-the-game.json](./105264-diesel-brothers-the-game.json) |
 | Diesel Brothers: Truck Building Simulator Editor | 152910 | [152910-diesel-brothers-truck-building-simulator-editor.json](./152910-diesel-brothers-truck-building-simulator-editor.json) |
 | Diesel Burners | 277855 | [277855-diesel-burners.json](./277855-diesel-burners.json) |
 | Diesel Express VR | 41968 | [41968-diesel-express-vr.json](./41968-diesel-express-vr.json) |
