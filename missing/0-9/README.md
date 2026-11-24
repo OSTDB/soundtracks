@@ -1321,7 +1321,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 oz. Mouse: Stagger | 397349 | [397349-12-oz-mouse-stagger.json](./397349-12-oz-mouse-stagger.json) |
 | 12 Party Games Collection | 378828 | [378828-12-party-games-collection.json](./378828-12-party-games-collection.json) |
 | 12 pm Break | 262992 | [262992-12-pm-break.json](./262992-12-pm-break.json) |
-| 12 Rounds Against Satan | 100913 | [100913-12-rounds-against-satan.json](./100913-12-rounds-against-satan.json) |
 | 12 Tails Online | 208758 | [208758-12-tails-online.json](./208758-12-tails-online.json) |
 | 12 Tajnyh Knig | 83081 | [83081-12-tajnyh-knig.json](./83081-12-tajnyh-knig.json) |
 | 12 Vengeful Ghosts | 305864 | [305864-12-vengeful-ghosts.json](./305864-12-vengeful-ghosts.json) |
@@ -1383,7 +1382,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Jellyfish | 176793 | [176793-13-jellyfish.json](./176793-13-jellyfish.json) |
 | 13 Laurel Road | 177834 | [177834-13-laurel-road.json](./177834-13-laurel-road.json) |
 | 13 Letters | 98416 | [98416-13-letters.json](./98416-13-letters.json) |
-| 13 Letters: Deluxe Edition | 100897 | [100897-13-letters-deluxe-edition.json](./100897-13-letters-deluxe-edition.json) |
 | 13 Masca | 405725 | [405725-13-masca.json](./405725-13-masca.json) |
 | 13 Minutes of Light | 98413 | [98413-13-minutes-of-light.json](./98413-13-minutes-of-light.json) |
 | 13 Nights in the Mortuary | 426079 | [426079-13-nights-in-the-mortuary.json](./426079-13-nights-in-the-mortuary.json) |
@@ -1784,7 +1782,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Fast Driver | 52358 | [52358-2-fast-driver.json](./52358-2-fast-driver.json) |
 | 2 Fights in 2 Tight Spaces | 405126 | [405126-2-fights-in-2-tight-spaces.json](./405126-2-fights-in-2-tight-spaces.json) |
 | 2 For 2 | 88545 | [88545-2-for-2.json](./88545-2-for-2.json) |
-| 2 For 2: Connect the Numbers Puzzle | 101112 | [101112-2-for-2-connect-the-numbers-puzzle.json](./101112-2-for-2-connect-the-numbers-puzzle.json) |
 | 2 for one 1 Power Pack I Kawasaki Jet Ski / Summer Sports 2: Island Sports Party | 141969 | [141969-2-for-one-1-power-pack-i-kawasaki-jet-ski-summer-sports-2-island-sports-party.json](./141969-2-for-one-1-power-pack-i-kawasaki-jet-ski-summer-sports-2-island-sports-party.json) |
 | 2 Foxes and the Puzzling Forest | 185095 | [185095-2-foxes-and-the-puzzling-forest.json](./185095-2-foxes-and-the-puzzling-forest.json) |
 | 2 Game Collector Pack: 99 Action Arcade & Ultimate Riders | 365018 | [365018-2-game-collector-pack-99-action-arcade-and-ultimate-riders.json](./365018-2-game-collector-pack-99-action-arcade-and-ultimate-riders.json) |
@@ -2674,7 +2671,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 360 Five Nights at Freddy's | 276543 | [276543-360-five-nights-at-freddys.json](./276543-360-five-nights-at-freddys.json) |
 | 360 Mega App Pack HD | 78352 | [78352-360-mega-app-pack-hd.json](./78352-360-mega-app-pack-hd.json) |
 | 360 Mega Pack HD Remix | 98814 | [98814-360-mega-pack-hd-remix.json](./98814-360-mega-pack-hd-remix.json) |
-| 360 No Scope Arena | 104905 | [104905-360-no-scope-arena.json](./104905-360-no-scope-arena.json) |
 | 360 No Scope! | 107867 | [107867-360-no-scope.json](./107867-360-no-scope.json) |
 | 360: Three Sixty | 45318 | [45318-360-three-sixty.json](./45318-360-three-sixty.json) |
 | 360Hexaworld | 328169 | [328169-360hexaworld.json](./328169-360hexaworld.json) |
