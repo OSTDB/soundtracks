@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waking Nightmare | 181849 | [181849-waking-nightmare.json](./181849-waking-nightmare.json) |
 | Waking Nightmares | 375287 | [375287-waking-nightmares.json](./375287-waking-nightmares.json) |
 | Waking Nitemare | 309429 | [309429-waking-nitemare.json](./309429-waking-nitemare.json) |
+| Waking the Glares | 27923 | [27923-waking-the-glares.json](./27923-waking-the-glares.json) |
 | Waking the Glares - Chapter I and II | 56430 | [56430-waking-the-glares-chapter-i-and-ii.json](./56430-waking-the-glares-chapter-i-and-ii.json) |
 | Waking Tides | 258580 | [258580-waking-tides.json](./258580-waking-tides.json) |
 | Waking up in LS | 327558 | [327558-waking-up-in-ls.json](./327558-waking-up-in-ls.json) |
@@ -1813,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Online: Wrath of Heroes | 65721 | [65721-warhammer-online-wrath-of-heroes.json](./65721-warhammer-online-wrath-of-heroes.json) |
 | Warhammer Pack: Hack and Slash | 224159 | [224159-warhammer-pack-hack-and-slash.json](./224159-warhammer-pack-hack-and-slash.json) |
 | Warhammer Quest | 8480 | [8480-warhammer-quest.json](./8480-warhammer-quest.json) |
+| Warhammer Quest 2: The End Times | 27930 | [27930-warhammer-quest-2-the-end-times.json](./27930-warhammer-quest-2-the-end-times.json) |
 | Warhammer Quest Deluxe | 53906 | [53906-warhammer-quest-deluxe.json](./53906-warhammer-quest-deluxe.json) |
 | Warhammer Quest: Silver Tower | 151194 | [151194-warhammer-quest-silver-tower.json](./151194-warhammer-quest-silver-tower.json) |
 | Warhammer Survivors | 376145 | [376145-warhammer-survivors.json](./376145-warhammer-survivors.json) |
