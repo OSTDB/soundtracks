@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-24T06:55:55.258Z",
-  "total_soundtracks": 3939,
+  "generated_at": "2026-11-24T13:55:57.957Z",
+  "total_soundtracks": 3940,
   "games": [
     {
       "igdb_id": 292844,
@@ -23041,6 +23041,20 @@
         {
           "album_name": "Laser Disco Defenders: Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/08JWUquBU9kxynmqZQSqvo",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 100243,
+      "game_name": "Laser Maze",
+      "game_url": "https://ostdb.net/games/laser-maze",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ae1ea3f3a9a405c16085e092",
+      "albums": [
+        {
+          "album_name": "Laser Maze (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/75FfOUwbgKudtwLBZvcqI8",
           "apple_music_url": "",
           "album_link_url": ""
         }
