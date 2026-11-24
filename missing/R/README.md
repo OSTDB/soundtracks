@@ -3012,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re-wind 2005 | 70428 | [70428-re-wind-2005.json](./70428-re-wind-2005.json) |
 | Re-wind 2006 | 70546 | [70546-re-wind-2006.json](./70546-re-wind-2006.json) |
 | Re;flection | 191675 | [191675-re-flection.json](./191675-re-flection.json) |
+| Re;Lord 1: The Witch of Herfort and Stuffed Animals | 90256 | [90256-re-lord-1-the-witch-of-herfort-and-stuffed-animals.json](./90256-re-lord-1-the-witch-of-herfort-and-stuffed-animals.json) |
 | Re;Lord 3: The Demon Lord of Groessen and The Final Witch | 305390 | [305390-re-lord-3-the-demon-lord-of-groessen-and-the-final-witch.json](./305390-re-lord-3-the-demon-lord-of-groessen-and-the-final-witch.json) |
 | Re;member | 145461 | [145461-re-member.json](./145461-re-member.json) |
 | Re;quartz Reido | 211948 | [211948-re-quartz-reido.json](./211948-re-quartz-reido.json) |
@@ -4677,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Series | 270665 | [270665-red-series.json](./270665-red-series.json) |
 | Red Shark | 54318 | [54318-red-shark.json](./54318-red-shark.json) |
 | Red Silhouette | 285939 | [285939-red-silhouette.json](./285939-red-silhouette.json) |
+| Red Siren: Space Defense | 111541 | [111541-red-siren-space-defense.json](./111541-red-siren-space-defense.json) |
 | Red Skull Reef | 176758 | [176758-red-skull-reef.json](./176758-red-skull-reef.json) |
 | Red Sky | 26804 | [26804-red-sky.json](./26804-red-sky.json) |
 | Red Slammer | 271369 | [271369-red-slammer.json](./271369-red-slammer.json) |
