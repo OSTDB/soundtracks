@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xeno Arena | 90947 | [90947-xeno-arena.json](./90947-xeno-arena.json) |
 | Xeno Command | 213693 | [213693-xeno-command.json](./213693-xeno-command.json) |
 | Xeno Crisis | 80010 | [80010-xeno-crisis.json](./80010-xeno-crisis.json) |
+| Xeno Crisis & Tanglewood | 133500 | [133500-xeno-crisis-and-tanglewood.json](./133500-xeno-crisis-and-tanglewood.json) |
 | Xeno Escape | 349185 | [349185-xeno-escape.json](./349185-xeno-escape.json) |
 | Xeno Fighters R | 280020 | [280020-xeno-fighters-r.json](./280020-xeno-fighters-r.json) |
 | Xeno Girlfriend | 384843 | [384843-xeno-girlfriend.json](./384843-xeno-girlfriend.json) |
