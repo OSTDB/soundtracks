@@ -1794,7 +1794,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Challenge | 70170 | [70170-rally-challenge.json](./70170-rally-challenge.json) |
 | Rally Challenge 2000 | 3582 | [3582-rally-challenge-2000.json](./3582-rally-challenge-2000.json) |
 | Rally Champion Advanced | 293876 | [293876-rally-champion-advanced.json](./293876-rally-champion-advanced.json) |
-| Rally Championship | 100201 | [100201-rally-championship.json](./100201-rally-championship.json) |
 | Rally Championship Xtreme | 46967 | [46967-rally-championship-xtreme.json](./46967-rally-championship-xtreme.json) |
 | Rally Championship: The X-Miles | 100179 | [100179-rally-championship-the-x-miles.json](./100179-rally-championship-the-x-miles.json) |
 | Rally Championships | 12739 | [12739-rally-championships.json](./12739-rally-championships.json) |
@@ -2539,7 +2538,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rattenkönig | 293591 | [293591-rattenkonig.json](./293591-rattenkonig.json) |
 | Rattention! | 427920 | [427920-rattention.json](./427920-rattention.json) |
 | Rattenwalzer: Pesnya o bor'be i zhizni chelovecheskoy | 367304 | [367304-rattenwalzer-pesnya-o-borbe-i-zhizni-chelovecheskoy.json](./367304-rattenwalzer-pesnya-o-borbe-i-zhizni-chelovecheskoy.json) |
-| Rattle | 100750 | [100750-rattle.json](./100750-rattle.json) |
 | Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
 | Rattle Spring | 427997 | [427997-rattle-spring.json](./427997-rattle-spring.json) |
 | Rattlecrew | 428791 | [428791-rattlecrew.json](./428791-rattlecrew.json) |
@@ -3346,7 +3344,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Car Parking 3D | 256436 | [256436-real-car-parking-3d.json](./256436-real-car-parking-3d.json) |
 | Real Car Parking Master | 256135 | [256135-real-car-parking-master.json](./256135-real-car-parking-master.json) |
 | Real Car Parking: 2024 Authentic Simulation | 266536 | [266536-real-car-parking-2024-authentic-simulation.json](./266536-real-car-parking-2024-authentic-simulation.json) |
-| Real Car Racing | 100787 | [100787-real-car-racing.json](./100787-real-car-racing.json) |
 | Real Carrom | 167030 | [167030-real-carrom.json](./167030-real-carrom.json) |
 | Real Chess 3D | 99267 | [99267-real-chess-3d.json](./99267-real-chess-3d.json) |
 | Real City Car Driving Sim 2017 | 88878 | [88878-real-city-car-driving-sim-2017.json](./88878-real-city-car-driving-sim-2017.json) |
@@ -4147,7 +4144,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reco Love: Blue Ocean | 136761 | [136761-reco-love-blue-ocean.json](./136761-reco-love-blue-ocean.json) |
 | Reco Love: Blue Ocean/Gold Beach | 77423 | [77423-reco-love-blue-ocean-gold-beach.json](./77423-reco-love-blue-ocean-gold-beach.json) |
 | Reco Love: Gold Beach | 136759 | [136759-reco-love-gold-beach.json](./136759-reco-love-gold-beach.json) |
-| Recog: The First Wave | 100725 | [100725-recog-the-first-wave.json](./100725-recog-the-first-wave.json) |
 | Recognition Test 23 | 246676 | [246676-recognition-test-23.json](./246676-recognition-test-23.json) |
 | Recoil | 117276 | [117276-recoil.json](./117276-recoil.json) |
 | Recoil | 277347 | [277347-recoil.json](./277347-recoil.json) |
@@ -8017,6 +8013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Nights | 114589 | [114589-rhythm-nights.json](./114589-rhythm-nights.json) |
 | Rhythm of Annihilation | 358373 | [358373-rhythm-of-annihilation.json](./358373-rhythm-of-annihilation.json) |
 | Rhythm of Earth | 375289 | [375289-rhythm-of-earth.json](./375289-rhythm-of-earth.json) |
+| Rhythm of the Backwaters | 426880 | [426880-rhythm-of-the-backwaters.json](./426880-rhythm-of-the-backwaters.json) |
 | Rhythm of the Gods | 131832 | [131832-rhythm-of-the-gods.json](./131832-rhythm-of-the-gods.json) |
 | Rhythm of the Universe: Ionia | 105683 | [105683-rhythm-of-the-universe-ionia.json](./105683-rhythm-of-the-universe-ionia.json) |
 | Rhythm Overdrive | 114527 | [114527-rhythm-overdrive.json](./114527-rhythm-overdrive.json) |
@@ -8688,7 +8685,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Righteous Mojo | 235651 | [235651-righteous-mojo.json](./235651-righteous-mojo.json) |
 | Rightfully, Beary Arms | 197126 | [197126-rightfully-beary-arms.json](./197126-rightfully-beary-arms.json) |
 | Rights of Progression | 229921 | [229921-rights-of-progression.json](./229921-rights-of-progression.json) |
-| Righty Tighty XL | 99653 | [99653-righty-tighty-xl.json](./99653-righty-tighty-xl.json) |
 | Rigid | 292447 | [292447-rigid.json](./292447-rigid.json) |
 | Rigid Chess | 117792 | [117792-rigid-chess.json](./117792-rigid-chess.json) |
 | Rigid Force Alpha | 99007 | [99007-rigid-force-alpha.json](./99007-rigid-force-alpha.json) |
@@ -9321,6 +9317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk System | 117781 | [117781-risk-system.json](./117781-risk-system.json) |
 | Risk the Crown | 403868 | [403868-risk-the-crown.json](./403868-risk-the-crown.json) |
 | Risk the Dark | 343149 | [343149-risk-the-dark.json](./343149-risk-the-dark.json) |
+| Risk Trader | 427550 | [427550-risk-trader.json](./427550-risk-trader.json) |
 | Risk Urban Assault | 58036 | [58036-risk-urban-assault.json](./58036-risk-urban-assault.json) |
 | Risk your life to get your dinner back Nyanzou action game | 231070 | [231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json](./231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json) |
 | Risk: Factions | 3693 | [3693-risk-factions.json](./3693-risk-factions.json) |
@@ -11610,6 +11607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Pirates | 372646 | [372646-rogue-pirates.json](./372646-rogue-pirates.json) |
 | Rogue Planet | 197343 | [197343-rogue-planet.json](./197343-rogue-planet.json) |
 | Rogue Planet | 397925 | [397925-rogue-planet.json](./397925-rogue-planet.json) |
+| Rogue Planet | 427538 | [427538-rogue-planet.json](./427538-rogue-planet.json) |
 | Rogue Planet | 91355 | [91355-rogue-planet.json](./91355-rogue-planet.json) |
 | Rogue Planet 1 | 233583 | [233583-rogue-planet-1.json](./233583-rogue-planet-1.json) |
 | Rogue Planet 1: Consolidation | 233373 | [233373-rogue-planet-1-consolidation.json](./233373-rogue-planet-1-consolidation.json) |
@@ -13696,7 +13694,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubik's Color | 26258 | [26258-rubiks-color.json](./26258-rubiks-color.json) |
 | Rubik's Cube | 71210 | [71210-rubiks-cube.json](./71210-rubiks-cube.json) |
 | Rubik's Cube 3-D | 40755 | [40755-rubiks-cube-3-d.json](./40755-rubiks-cube-3-d.json) |
-| Rubik's Cube Augmented! | 100775 | [100775-rubiks-cube-augmented.json](./100775-rubiks-cube-augmented.json) |
 | Rubik's Cube Challenge | 209026 | [209026-rubiks-cube-challenge.json](./209026-rubiks-cube-challenge.json) |
 | Rubik's Cube VR | 112126 | [112126-rubiks-cube-vr.json](./112126-rubiks-cube-vr.json) |
 | Rubik's Games | 78886 | [78886-rubiks-games.json](./78886-rubiks-games.json) |
@@ -14844,7 +14841,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushfall | 411874 | [411874-rushfall.json](./411874-rushfall.json) |
 | RushGirl Luca | 405231 | [405231-rushgirl-luca.json](./405231-rushgirl-luca.json) |
 | Rushing Alice | 200116 | [200116-rushing-alice.json](./200116-rushing-alice.json) |
-| Rushing Balls | 99216 | [99216-rushing-balls.json](./99216-rushing-balls.json) |
 | Rushing Beat | 406400 | [406400-rushing-beat.json](./406400-rushing-beat.json) |
 | Rushing Beat of Rage | 149639 | [149639-rushing-beat-of-rage.json](./149639-rushing-beat-of-rage.json) |
 | Rushing Beat Ran: Fukusei Toshi | 406401 | [406401-rushing-beat-ran-fukusei-toshi.json](./406401-rushing-beat-ran-fukusei-toshi.json) |
@@ -14897,7 +14893,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Fool | 71853 | [71853-russian-fool.json](./71853-russian-fool.json) |
 | Russian Front | 34908 | [34908-russian-front.json](./34908-russian-front.json) |
 | Russian Front II: The Kursk Campaign | 79128 | [79128-russian-front-ii-the-kursk-campaign.json](./79128-russian-front-ii-the-kursk-campaign.json) |
-| Russian Gangsta in Hell | 99063 | [99063-russian-gangsta-in-hell.json](./99063-russian-gangsta-in-hell.json) |
 | Russian Hentai | 167978 | [167978-russian-hentai.json](./167978-russian-hentai.json) |
 | Russian Hentai 2 | 158342 | [158342-russian-hentai-2.json](./158342-russian-hentai-2.json) |
 | Russian Hentai 3 | 155461 | [155461-russian-hentai-3.json](./155461-russian-hentai-3.json) |
