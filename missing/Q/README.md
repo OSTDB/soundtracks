@@ -182,7 +182,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qoosh | 418460 | [418460-qoosh.json](./418460-qoosh.json) |
 | Qop | 91315 | [91315-qop.json](./91315-qop.json) |
 | Qop 2 | 76379 | [76379-qop-2.json](./76379-qop-2.json) |
-| Qop 3 | 102389 | [102389-qop-3.json](./102389-qop-3.json) |
 | qop: DLC | 171435 | [171435-qop-dlc.json](./171435-qop-dlc.json) |
 | Qora | 17492 | [17492-qora.json](./17492-qora.json) |
 | Qorbit | 213181 | [213181-qorbit.json](./213181-qorbit.json) |
@@ -531,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Engine | 27557 | [27557-quantum-engine.json](./27557-quantum-engine.json) |
 | Quantum Entanglement | 332277 | [332277-quantum-entanglement.json](./332277-quantum-entanglement.json) |
 | Quantum Era | 407392 | [407392-quantum-era.json](./407392-quantum-era.json) |
+| Quantum Error | 132226 | [132226-quantum-error.json](./132226-quantum-error.json) |
 | Quantum Eternity | 169237 | [169237-quantum-eternity.json](./169237-quantum-eternity.json) |
 | Quantum Eye | 391737 | [391737-quantum-eye.json](./391737-quantum-eye.json) |
 | Quantum Flux | 34608 | [34608-quantum-flux.json](./34608-quantum-flux.json) |
@@ -796,7 +796,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of Mountain | 158669 | [158669-queen-of-mountain.json](./158669-queen-of-mountain.json) |
 | Queen of Phobos | 65034 | [65034-queen-of-phobos.json](./65034-queen-of-phobos.json) |
 | Queen of Seas | 29855 | [29855-queen-of-seas.json](./29855-queen-of-seas.json) |
-| Queen of Seas 2 | 102347 | [102347-queen-of-seas-2.json](./102347-queen-of-seas-2.json) |
 | Queen of Spades | 103813 | [103813-queen-of-spades.json](./103813-queen-of-spades.json) |
 | Queen of Succubus | 82751 | [82751-queen-of-succubus.json](./82751-queen-of-succubus.json) |
 | Queen of Tactics | 272259 | [272259-queen-of-tactics.json](./272259-queen-of-tactics.json) |
@@ -1179,7 +1178,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quién Quiere ser Millonario? | 106037 | [106037-quien-quiere-ser-millonario.json](./106037-quien-quiere-ser-millonario.json) |
 | Quiet | 412220 | [412220-quiet.json](./412220-quiet.json) |
 | Quiet as a Mouse | 315230 | [315230-quiet-as-a-mouse.json](./315230-quiet-as-a-mouse.json) |
-| Quiet as a Stone | 104941 | [104941-quiet-as-a-stone.json](./104941-quiet-as-a-stone.json) |
 | Quiet Basement | 178783 | [178783-quiet-basement.json](./178783-quiet-basement.json) |
 | Quiet Bloom | 422993 | [422993-quiet-bloom.json](./422993-quiet-bloom.json) |
 | Quiet Bruise | 406665 | [406665-quiet-bruise.json](./406665-quiet-bruise.json) |
@@ -1500,5 +1498,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qwirks | 93398 | [93398-qwirks.json](./93398-qwirks.json) |
 | Qwixx | 175421 | [175421-qwixx.json](./175421-qwixx.json) |
 | QWOP | 8814 | [8814-qwop.json](./8814-qwop.json) |
-| Qybe | 102961 | [102961-qybe.json](./102961-qybe.json) |
 | Qyllscape | 258428 | [258428-qyllscape.json](./258428-qyllscape.json) |
