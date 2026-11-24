@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 17.waves | 288401 | [288401-17-waves.json](./288401-17-waves.json) |
 | 171 | 136712 | [136712-171.json](./136712-171.json) |
 | 177 | 8562 | [8562-177.json](./8562-177.json) |
+| 1775: Rebellion | 34000 | [34000-1775-rebellion.json](./34000-1775-rebellion.json) |
 | 1775: Rebellion - Southern Theatre Scenario | 168108 | [168108-1775-rebellion-southern-theatre-scenario.json](./168108-1775-rebellion-southern-theatre-scenario.json) |
 | 17CF Quest | 95065 | [95065-17cf-quest.json](./95065-17cf-quest.json) |
 | 18 Cadence | 63378 | [63378-18-cadence.json](./63378-18-cadence.json) |
