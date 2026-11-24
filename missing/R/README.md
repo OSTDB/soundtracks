@@ -2542,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rattle | 100750 | [100750-rattle.json](./100750-rattle.json) |
 | Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
 | Rattle Spring | 427997 | [427997-rattle-spring.json](./427997-rattle-spring.json) |
+| Rattlecrew | 428791 | [428791-rattlecrew.json](./428791-rattlecrew.json) |
 | Rattler | 294746 | [294746-rattler.json](./294746-rattler.json) |
 | Rattler Race | 78811 | [78811-rattler-race.json](./78811-rattler-race.json) |
 | Rattlesnake | 185319 | [185319-rattlesnake.json](./185319-rattlesnake.json) |
@@ -4448,6 +4449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dead Redemption: Undead Nightmare | 260736 | [260736-red-dead-redemption-undead-nightmare.json](./260736-red-dead-redemption-undead-nightmare.json) |
 | Red Dead Redemption: Undead Nightmare Collection | 45199 | [45199-red-dead-redemption-undead-nightmare-collection.json](./45199-red-dead-redemption-undead-nightmare-collection.json) |
 | Red Dead Revolver | 1969 | [1969-red-dead-revolver.json](./1969-red-dead-revolver.json) |
+| Red Dead Revolver PC Port | 428795 | [428795-red-dead-revolver-pc-port.json](./428795-red-dead-revolver-pc-port.json) |
 | Red Dead Revolver: XBE Recomp | 428972 | [428972-red-dead-revolver-xbe-recomp.json](./428972-red-dead-revolver-xbe-recomp.json) |
 | Red Death | 29503 | [29503-red-death.json](./29503-red-death.json) |
 | Red Death Fighter | 200062 | [200062-red-death-fighter.json](./200062-red-death-fighter.json) |
@@ -8884,6 +8886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rinnetenjo | 342921 | [342921-rinnetenjo.json](./342921-rinnetenjo.json) |
 | Rinny Platformer Rage Game | 337531 | [337531-rinny-platformer-rage-game.json](./337531-rinny-platformer-rage-game.json) |
 | Rino Rush | 396613 | [396613-rino-rush.json](./396613-rino-rush.json) |
+| Rino Rush 2 | 430364 | [430364-rino-rush-2.json](./430364-rino-rush-2.json) |
 | Rinse and Repeat | 13158 | [13158-rinse-and-repeat.json](./13158-rinse-and-repeat.json) |
 | Rinse and Repeat | 286576 | [286576-rinse-and-repeat.json](./286576-rinse-and-repeat.json) |
 | Rinth | 344029 | [344029-rinth.json](./344029-rinth.json) |
@@ -10563,6 +10566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots of Dawn | 24432 | [24432-robots-of-dawn.json](./24432-robots-of-dawn.json) |
 | Robots Reloaded | 96338 | [96338-robots-reloaded.json](./96338-robots-reloaded.json) |
 | Robots Runner | 259528 | [259528-robots-runner.json](./259528-robots-runner.json) |
+| Robots To Scrap | 431142 | [431142-robots-to-scrap.json](./431142-robots-to-scrap.json) |
 | Robots under attack! | 129608 | [129608-robots-under-attack.json](./129608-robots-under-attack.json) |
 | Robots vs. Zombies: Transform to Race and Fight | 105842 | [105842-robots-vs-zombies-transform-to-race-and-fight.json](./105842-robots-vs-zombies-transform-to-race-and-fight.json) |
 | Robots With Guns | 351808 | [351808-robots-with-guns.json](./351808-robots-with-guns.json) |
@@ -12814,6 +12818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rorrim | 84852 | [84852-rorrim.json](./84852-rorrim.json) |
 | Rorry's Race | 335110 | [335110-rorrys-race.json](./335110-rorrys-race.json) |
 | Rorschach | 94150 | [94150-rorschach.json](./94150-rorschach.json) |
+| Rory McIlroy Golf | 23216 | [23216-rory-mcilroy-golf.json](./23216-rory-mcilroy-golf.json) |
 | Rory McIlroy PGA Tour | 9651 | [9651-rory-mcilroy-pga-tour.json](./9651-rory-mcilroy-pga-tour.json) |
 | Rory Relay | 95769 | [95769-rory-relay.json](./95769-rory-relay.json) |
 | Rory's Restaurant: Origins | 188416 | [188416-rorys-restaurant-origins.json](./188416-rorys-restaurant-origins.json) |
