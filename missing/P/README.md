@@ -2679,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasol Stars: The Story of Bubble Bobble III | 305618 | [305618-parasol-stars-the-story-of-bubble-bobble-iii.json](./305618-parasol-stars-the-story-of-bubble-bobble-iii.json) |
 | Parasomnia | 238846 | [238846-parasomnia.json](./238846-parasomnia.json) |
 | Parasomnia | 302412 | [302412-parasomnia.json](./302412-parasomnia.json) |
+| Parasomnia | 429300 | [429300-parasomnia.json](./429300-parasomnia.json) |
 | Parasomnia Verum | 153972 | [153972-parasomnia-verum.json](./153972-parasomnia-verum.json) |
 | Parasomnia Verum 2 | 403843 | [403843-parasomnia-verum-2.json](./403843-parasomnia-verum-2.json) |
 | Parasomnia: No Rem | 318531 | [318531-parasomnia-no-rem.json](./318531-parasomnia-no-rem.json) |
@@ -5256,6 +5257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peridium | 54895 | [54895-peridium.json](./54895-peridium.json) |
 | Peridot | 197830 | [197830-peridot.json](./197830-peridot.json) |
 | Perigee | 83950 | [83950-perigee.json](./83950-perigee.json) |
+| Perihelion | 431186 | [431186-perihelion.json](./431186-perihelion.json) |
 | Perihelion: Rogue Orbit | 409845 | [409845-perihelion-rogue-orbit.json](./409845-perihelion-rogue-orbit.json) |
 | Perihelion: The Prophecy | 72287 | [72287-perihelion-the-prophecy.json](./72287-perihelion-the-prophecy.json) |
 | Perika Game | 302739 | [302739-perika-game.json](./302739-perika-game.json) |
@@ -7090,6 +7092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picoracer-2048 | 287324 | [287324-picoracer-2048.json](./287324-picoracer-2048.json) |
 | Picot Ether | 213520 | [213520-picot-ether.json](./213520-picot-ether.json) |
 | PicoTrains | 296255 | [296255-picotrains.json](./296255-picotrains.json) |
+| Picotta | 430860 | [430860-picotta.json](./430860-picotta.json) |
 | Picotto Knights | 64554 | [64554-picotto-knights.json](./64554-picotto-knights.json) |
 | Picovania | 284300 | [284300-picovania.json](./284300-picovania.json) |
 | Picoware | 279711 | [279711-picoware.json](./279711-picoware.json) |
@@ -11257,6 +11260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play for Your Life | 55053 | [55053-play-for-your-life.json](./55053-play-for-your-life.json) |
 | Play Friends: Party Games | 342266 | [342266-play-friends-party-games.json](./342266-play-friends-party-games.json) |
 | Play Girls | 110611 | [110611-play-girls.json](./110611-play-girls.json) |
+| Play God on Earth | 428686 | [428686-play-god-on-earth.json](./428686-play-god-on-earth.json) |
 | Play It Again Sam | 83374 | [83374-play-it-again-sam.json](./83374-play-it-again-sam.json) |
 | Play It Back | 364645 | [364645-play-it-back.json](./364645-play-it-back.json) |
 | Play Kittens | 14736 | [14736-play-kittens.json](./14736-play-kittens.json) |
@@ -11502,6 +11506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayTribes | 59443 | [59443-playtribes.json](./59443-playtribes.json) |
 | Playtris | 201991 | [201991-playtris.json](./201991-playtris.json) |
 | Playtron | 56155 | [56155-playtron.json](./56155-playtron.json) |
+| Playus | 428786 | [428786-playus.json](./428786-playus.json) |
 | PlayUSA | 76073 | [76073-playusa.json](./76073-playusa.json) |
 | PlayVille | 366253 | [366253-playville.json](./366253-playville.json) |
 | PlayWith | 208544 | [208544-playwith.json](./208544-playwith.json) |
@@ -13120,6 +13125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Orange | 305739 | [305739-pokemon-orange.json](./305739-pokemon-orange.json) |
 | Pokémon Orange Islands | 213823 | [213823-pokemon-orange-islands.json](./213823-pokemon-orange-islands.json) |
 | Pokemon Orb Version | 283116 | [283116-pokemon-orb-version.json](./283116-pokemon-orb-version.json) |
+| Pokémon Origin HeartGold | 429305 | [429305-pokemon-origin-heartgold.json](./429305-pokemon-origin-heartgold.json) |
 | Pokémon Origins | 395775 | [395775-pokemon-origins.json](./395775-pokemon-origins.json) |
 | Pokémon Otherside | 369472 | [369472-pokemon-otherside.json](./369472-pokemon-otherside.json) |
 | Pokémon Outlaw | 129823 | [129823-pokemon-outlaw.json](./129823-pokemon-outlaw.json) |
@@ -16023,6 +16029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prank! | 165775 | [165775-prank.json](./165775-prank.json) |
 | Prank'd: Prank Your Way Around the World | 209928 | [209928-prankd-prank-your-way-around-the-world.json](./209928-prankd-prank-your-way-around-the-world.json) |
 | Pranksters: Treasure of the Indians | 322570 | [322570-pranksters-treasure-of-the-indians.json](./322570-pranksters-treasure-of-the-indians.json) |
+| Pranksterz: From Russia With Love | 23195 | [23195-pranksterz-from-russia-with-love.json](./23195-pranksterz-from-russia-with-love.json) |
 | Pranksterz: No Rest for the Wicked | 23196 | [23196-pranksterz-no-rest-for-the-wicked.json](./23196-pranksterz-no-rest-for-the-wicked.json) |
 | Pranksterz: Off Your Boss | 23197 | [23197-pranksterz-off-your-boss.json](./23197-pranksterz-off-your-boss.json) |
 | Pranky Cat | 112382 | [112382-pranky-cat.json](./112382-pranky-cat.json) |
