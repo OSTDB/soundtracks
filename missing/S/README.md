@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salary-Mon: Hiro Versus His Demons | 334408 | [334408-salary-mon-hiro-versus-his-demons.json](./334408-salary-mon-hiro-versus-his-demons.json) |
 | Salaryman Rescue! | 268953 | [268953-salaryman-rescue.json](./268953-salaryman-rescue.json) |
 | Salaryman Shi | 188708 | [188708-salaryman-shi.json](./188708-salaryman-shi.json) |
+| Sale a Devolver | 429295 | [429295-sale-a-devolver.json](./429295-sale-a-devolver.json) |
 | Saleblazers | 198241 | [198241-saleblazers.json](./198241-saleblazers.json) |
 | Salem | 23613 | [23613-salem.json](./23613-salem.json) |
 | Salene | 405062 | [405062-salene.json](./405062-salene.json) |
@@ -2362,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarcoph | 197697 | [197697-sarcoph.json](./197697-sarcoph.json) |
 | Sarcophag | 94875 | [94875-sarcophag.json](./94875-sarcophag.json) |
 | Sarcophaser | 54719 | [54719-sarcophaser.json](./54719-sarcophaser.json) |
+| Sardoinky | 430904 | [430904-sardoinky.json](./430904-sardoinky.json) |
 | Sare Inception | 120931 | [120931-sare-inception.json](./120931-sare-inception.json) |
 | Sargasso | 185202 | [185202-sargasso.json](./185202-sargasso.json) |
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
@@ -2571,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn | 191755 | [191755-saturn.json](./191755-saturn.json) |
 | Saturn | 285121 | [285121-saturn.json](./285121-saturn.json) |
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
+| Saturn 9 | 428697 | [428697-saturn-9.json](./428697-saturn-9.json) |
 | Saturn 94 | 414135 | [414135-saturn-94.json](./414135-saturn-94.json) |
 | Saturn Bomberman | 28393 | [28393-saturn-bomberman.json](./28393-saturn-bomberman.json) |
 | Saturn Bomberman Fight!! | 66221 | [66221-saturn-bomberman-fight.json](./66221-saturn-bomberman-fight.json) |
@@ -3610,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolhouse Rock!: America Rock | 230449 | [230449-schoolhouse-rock-america-rock.json](./230449-schoolhouse-rock-america-rock.json) |
 | Schoolhouse Rock!: Grammar Rock | 230450 | [230450-schoolhouse-rock-grammar-rock.json](./230450-schoolhouse-rock-grammar-rock.json) |
 | Schoolhouse Rock!: Math Rock | 142707 | [142707-schoolhouse-rock-math-rock.json](./142707-schoolhouse-rock-math-rock.json) |
+| Schooligans | 430760 | [430760-schooligans.json](./430760-schooligans.json) |
 | SchoolJump | 100539 | [100539-schooljump.json](./100539-schooljump.json) |
 | SchoolLife | 268240 | [268240-schoollife.json](./268240-schoollife.json) |
 | Schoolmare | 249381 | [249381-schoolmare.json](./249381-schoolmare.json) |
@@ -4415,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scroomage | 253552 | [253552-scroomage.json](./253552-scroomage.json) |
 | Scroter | 243521 | [243521-scroter.json](./243521-scroter.json) |
 | Scrub Dudes | 390068 | [390068-scrub-dudes.json](./390068-scrub-dudes.json) |
+| Scrub, Little Sub! | 431091 | [431091-scrub-little-sub.json](./431091-scrub-little-sub.json) |
 | Scrubbles | 92932 | [92932-scrubbles.json](./92932-scrubbles.json) |
 | Scrubby Dubby Saga | 402337 | [402337-scrubby-dubby-saga.json](./402337-scrubby-dubby-saga.json) |
 | Scrubs | 59625 | [59625-scrubs.json](./59625-scrubs.json) |
@@ -7083,6 +7088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Deadly Sins: Anime Girls Fantasy Love | 410405 | [410405-seven-deadly-sins-anime-girls-fantasy-love.json](./410405-seven-deadly-sins-anime-girls-fantasy-love.json) |
 | Seven Demons | 168590 | [168590-seven-demons.json](./168590-seven-demons.json) |
 | Seven Doors | 135475 | [135475-seven-doors.json](./135475-seven-doors.json) |
+| Seven Doors | 431213 | [431213-seven-doors.json](./431213-seven-doors.json) |
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
 | Seven Dragon Saga | 60626 | [60626-seven-dragon-saga.json](./60626-seven-dragon-saga.json) |
 | Seven Dunes: Curse on the Golden Sand | 150798 | [150798-seven-dunes-curse-on-the-golden-sand.json](./150798-seven-dunes-curse-on-the-golden-sand.json) |
@@ -8708,6 +8714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapes7 | 63743 | [63743-shapes7.json](./63743-shapes7.json) |
 | Shapes8 | 63742 | [63742-shapes8.json](./63742-shapes8.json) |
 | ShapeScale | 324326 | [324326-shapescale.json](./324326-shapescale.json) |
+| Shapesetter | 431092 | [431092-shapesetter.json](./431092-shapesetter.json) |
 | ShapeShift for Cheese! | 326618 | [326618-shapeshift-for-cheese.json](./326618-shapeshift-for-cheese.json) |
 | ShapeShift Rush | 380176 | [380176-shapeshift-rush.json](./380176-shapeshift-rush.json) |
 | ShapeShifter | 32217 | [32217-shapeshifter.json](./32217-shapeshifter.json) |
@@ -8890,6 +8897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharky Attack | 416527 | [416527-sharky-attack.json](./416527-sharky-attack.json) |
 | Sharon and the Last Garden | 187424 | [187424-sharon-and-the-last-garden.json](./187424-sharon-and-the-last-garden.json) |
 | Sharp | 107729 | [107729-sharp.json](./107729-sharp.json) |
+| Sharp Fists | 428067 | [428067-sharp-fists.json](./428067-sharp-fists.json) |
 | Sharp Minds | 240835 | [240835-sharp-minds.json](./240835-sharp-minds.json) |
 | Sharp Shooter | 213884 | [213884-sharp-shooter.json](./213884-sharp-shooter.json) |
 | Sharp Shooter Bundle: S.N.I.P.E.R Hunter Scope + Knights & Guns | 196824 | [196824-sharp-shooter-bundle-s-n-i-p-e-r-hunter-scope-knights-and-guns.json](./196824-sharp-shooter-bundle-s-n-i-p-e-r-hunter-scope-knights-and-guns.json) |
@@ -11964,6 +11972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sifera | 298147 | [298147-sifera.json](./298147-sifera.json) |
 | Sift | 421779 | [421779-sift.json](./421779-sift.json) |
 | Sift | 423044 | [423044-sift.json](./423044-sift.json) |
+| Sift Happens: Idle Beach Treasure | 430951 | [430951-sift-happens-idle-beach-treasure.json](./430951-sift-happens-idle-beach-treasure.json) |
 | Sift Heads | 209633 | [209633-sift-heads.json](./209633-sift-heads.json) |
 | Sift Heads 0: The Starting Point | 357302 | [357302-sift-heads-0-the-starting-point.json](./357302-sift-heads-0-the-starting-point.json) |
 | Sift Heads 1: Remasterized | 359423 | [359423-sift-heads-1-remasterized.json](./359423-sift-heads-1-remasterized.json) |
@@ -17593,6 +17602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapkid's | 49812 | [49812-snapkids.json](./49812-snapkids.json) |
 | Snaplt | 363588 | [363588-snaplt.json](./363588-snaplt.json) |
 | Snapped Distance | 362580 | [362580-snapped-distance.json](./362580-snapped-distance.json) |
+| Snapped In The Act! | 430941 | [430941-snapped-in-the-act.json](./430941-snapped-in-the-act.json) |
 | Snapper | 13757 | [13757-snapper.json](./13757-snapper.json) |
 | Snapper | 312320 | [312320-snapper.json](./312320-snapper.json) |
 | Snapperazzi | 70562 | [70562-snapperazzi.json](./70562-snapperazzi.json) |
@@ -17663,6 +17673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneak Cheese | 421342 | [421342-sneak-cheese.json](./421342-sneak-cheese.json) |
 | Sneak In | 117071 | [117071-sneak-in.json](./117071-sneak-in.json) |
 | Sneak In: Marble Shooter Game | 138891 | [138891-sneak-in-marble-shooter-game.json](./138891-sneak-in-marble-shooter-game.json) |
+| Sneak Kicks: Underground Shop Simulator | 430723 | [430723-sneak-kicks-underground-shop-simulator.json](./430723-sneak-kicks-underground-shop-simulator.json) |
 | Sneak King | 2730 | [2730-sneak-king.json](./2730-sneak-king.json) |
 | Sneak Ops | 106995 | [106995-sneak-ops.json](./106995-sneak-ops.json) |
 | Sneak Out | 253350 | [253350-sneak-out.json](./253350-sneak-out.json) |
@@ -18403,6 +18414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snugfang | 424516 | [424516-snugfang.json](./424516-snugfang.json) |
 | Snuggle Nightmare | 404430 | [404430-snuggle-nightmare.json](./404430-snuggle-nightmare.json) |
 | Snugglebat | 131794 | [131794-snugglebat.json](./131794-snugglebat.json) |
+| Snuggly Tails | 428691 | [428691-snuggly-tails.json](./428691-snuggly-tails.json) |
 | Snuse 221 | 116508 | [116508-snuse-221.json](./116508-snuse-221.json) |
 | Snusoed | 154389 | [154389-snusoed.json](./154389-snusoed.json) |
 | Snwbrd: Freestyle Snowboarding | 235196 | [235196-snwbrd-freestyle-snowboarding.json](./235196-snwbrd-freestyle-snowboarding.json) |
@@ -21475,6 +21487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort The Bunnies | 421974 | [421974-sort-the-bunnies.json](./421974-sort-the-bunnies.json) |
 | Sort the Capybaras | 419742 | [419742-sort-the-capybaras.json](./419742-sort-the-capybaras.json) |
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
+| Sort the Luggage | 428720 | [428720-sort-the-luggage.json](./428720-sort-the-luggage.json) |
 | Sort the Magic Potions: Tidy Up and Shelve | 428573 | [428573-sort-the-magic-potions-tidy-up-and-shelve.json](./428573-sort-the-magic-potions-tidy-up-and-shelve.json) |
 | Sort The Mart | 428576 | [428576-sort-the-mart.json](./428576-sort-the-mart.json) |
 | Sort The Plushie Store | 427136 | [427136-sort-the-plushie-store.json](./427136-sort-the-plushie-store.json) |
@@ -29009,6 +29022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starchild Velta and loadtosky | 196972 | [196972-starchild-velta-and-loadtosky.json](./196972-starchild-velta-and-loadtosky.json) |
 | Starcom: Nexus | 107854 | [107854-starcom-nexus.json](./107854-starcom-nexus.json) |
 | Starcom: Unknown Space | 211207 | [211207-starcom-unknown-space.json](./211207-starcom-unknown-space.json) |
+| Starcore | 431155 | [431155-starcore.json](./431155-starcore.json) |
 | StarCore Legacy | 246759 | [246759-starcore-legacy.json](./246759-starcore-legacy.json) |
 | Starcore: Through the Void | 426874 | [426874-starcore-through-the-void.json](./426874-starcore-through-the-void.json) |
 | Starcorp Tycoon | 424306 | [424306-starcorp-tycoon.json](./424306-starcorp-tycoon.json) |
@@ -35025,6 +35039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Blast | 35887 | [35887-sun-blast.json](./35887-sun-blast.json) |
 | Sun Breed | 264037 | [264037-sun-breed.json](./264037-sun-breed.json) |
 | Sun City | 310176 | [310176-sun-city.json](./310176-sun-city.json) |
+| Sun City | 429829 | [429829-sun-city.json](./429829-sun-city.json) |
 | Sun Down | 238583 | [238583-sun-down.json](./238583-sun-down.json) |
 | Sun Fang Dougram | 284445 | [284445-sun-fang-dougram.json](./284445-sun-fang-dougram.json) |
 | Sun Girls | 164030 | [164030-sun-girls.json](./164030-sun-girls.json) |
@@ -39757,6 +39772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surrender | 226689 | [226689-surrender.json](./226689-surrender.json) |
 | Surrender | 313798 | [313798-surrender.json](./313798-surrender.json) |
 | Surrender 2 | 313799 | [313799-surrender-2.json](./313799-surrender-2.json) |
+| Surrenderly | 431183 | [431183-surrenderly.json](./431183-surrenderly.json) |
 | Surrogate | 110642 | [110642-surrogate.json](./110642-surrogate.json) |
 | Surrogate | 191280 | [191280-surrogate.json](./191280-surrogate.json) |
 | Surrogate | 270889 | [270889-surrogate.json](./270889-surrogate.json) |
