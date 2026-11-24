@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki Zuisouroku Portable | 221013 | [221013-hakuoki-zuisouroku-portable.json](./221013-hakuoki-zuisouroku-portable.json) |
 | Hakuoki: Chronicles of Wind and Blossom | 101066 | [101066-hakuoki-chronicles-of-wind-and-blossom.json](./101066-hakuoki-chronicles-of-wind-and-blossom.json) |
 | Hakuoki: Demon of the Fleeting Blossom - Limited Edition | 42714 | [42714-hakuoki-demon-of-the-fleeting-blossom-limited-edition.json](./42714-hakuoki-demon-of-the-fleeting-blossom-limited-edition.json) |
+| Hakuoki: Edo Blossoms | 74563 | [74563-hakuoki-edo-blossoms.json](./74563-hakuoki-edo-blossoms.json) |
 | Hakuoki: Edo Blossoms - Deluxe Edition | 186545 | [186545-hakuoki-edo-blossoms-deluxe-edition.json](./186545-hakuoki-edo-blossoms-deluxe-edition.json) |
 | Hakuoki: Edo Blossoms - DLC Bundle | 186544 | [186544-hakuoki-edo-blossoms-dlc-bundle.json](./186544-hakuoki-edo-blossoms-dlc-bundle.json) |
 | Hakuoki: Edo Blossoms - Edo Treasure Box | 171153 | [171153-hakuoki-edo-blossoms-edo-treasure-box.json](./171153-hakuoki-edo-blossoms-edo-treasure-box.json) |
@@ -1173,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer & Harvest: Dwarven Roots | 396742 | [396742-hammer-and-harvest-dwarven-roots.json](./396742-hammer-and-harvest-dwarven-roots.json) |
 | Hammer & Potion | 215351 | [215351-hammer-and-potion.json](./215351-hammer-and-potion.json) |
 | Hammer & Sickle | 22581 | [22581-hammer-and-sickle.json](./22581-hammer-and-sickle.json) |
+| Hammer 2 | 74595 | [74595-hammer-2.json](./74595-hammer-2.json) |
 | Hammer 2 Reloaded | 165593 | [165593-hammer-2-reloaded.json](./165593-hammer-2-reloaded.json) |
 | Hammer Away | 40181 | [40181-hammer-away.json](./40181-hammer-away.json) |
 | Hammer Bees | 57802 | [57802-hammer-bees.json](./57802-hammer-bees.json) |
@@ -3919,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of the Emberstone: Coliseum | 81767 | [81767-heart-of-the-emberstone-coliseum.json](./81767-heart-of-the-emberstone-coliseum.json) |
 | Heart of the Fox | 299064 | [299064-heart-of-the-fox.json](./299064-heart-of-the-fox.json) |
 | Heart of the Hedgehog | 330288 | [330288-heart-of-the-hedgehog.json](./330288-heart-of-the-hedgehog.json) |
+| Heart of the House | 75203 | [75203-heart-of-the-house.json](./75203-heart-of-the-house.json) |
 | Heart of the Killer | 238576 | [238576-heart-of-the-killer.json](./238576-heart-of-the-killer.json) |
 | Heart of the Machine | 217017 | [217017-heart-of-the-machine.json](./217017-heart-of-the-machine.json) |
 | Heart of the Machine: Kinship | 430392 | [430392-heart-of-the-machine-kinship.json](./430392-heart-of-the-machine-kinship.json) |
@@ -4508,6 +4511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heian Onshijo Koi Emaki | 181520 | [181520-heian-onshijo-koi-emaki.json](./181520-heian-onshijo-koi-emaki.json) |
 | Heiankyo Alien | 118758 | [118758-heiankyo-alien.json](./118758-heiankyo-alien.json) |
 | Heiankyo Alien | 40001 | [40001-heiankyo-alien.json](./40001-heiankyo-alien.json) |
+| Heiankyo Alien | 75136 | [75136-heiankyo-alien.json](./75136-heiankyo-alien.json) |
 | Heiankyo Parameters | 247530 | [247530-heiankyo-parameters.json](./247530-heiankyo-parameters.json) |
 | Heidelberg 1693 | 135841 | [135841-heidelberg-1693.json](./135841-heidelberg-1693.json) |
 | Heidentum | 116755 | [116755-heidentum.json](./116755-heidentum.json) |
@@ -7793,6 +7797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexonia | 153775 | [153775-hexonia.json](./153775-hexonia.json) |
 | Hexonomy | 168618 | [168618-hexonomy.json](./168618-hexonomy.json) |
 | Hexoplanet | 208490 | [208490-hexoplanet.json](./208490-hexoplanet.json) |
+| Hexopods | 75339 | [75339-hexopods.json](./75339-hexopods.json) |
 | Hexora | 347740 | [347740-hexora.json](./347740-hexora.json) |
 | Hexoria | 244722 | [244722-hexoria.json](./244722-hexoria.json) |
 | Hexos CCG Missions | 55947 | [55947-hexos-ccg-missions.json](./55947-hexos-ccg-missions.json) |
@@ -8854,6 +8859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Noon Drifter | 141868 | [141868-high-noon-drifter.json](./141868-high-noon-drifter.json) |
 | High Noon In Akhetaten | 308387 | [308387-high-noon-in-akhetaten.json](./308387-high-noon-in-akhetaten.json) |
 | High Noon Revolver | 27197 | [27197-high-noon-revolver.json](./27197-high-noon-revolver.json) |
+| High Noon VR | 75256 | [75256-high-noon-vr.json](./75256-high-noon-vr.json) |
 | High Octane Drift | 33174 | [33174-high-octane-drift.json](./33174-high-octane-drift.json) |
 | High on Life: DLC Bundle | 270301 | [270301-high-on-life-dlc-bundle.json](./270301-high-on-life-dlc-bundle.json) |
 | High on Life: High on Knife | 253091 | [253091-high-on-life-high-on-knife.json](./253091-high-on-life-high-on-knife.json) |
@@ -12171,6 +12177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostages | 14900 | [14900-hostages.json](./14900-hostages.json) |
 | Hostages | 343204 | [343204-hostages.json](./343204-hostages.json) |
 | Hostia me acabo de acordar de lo que he soñao hoy, que puta paranoia | 302734 | [302734-hostia-me-acabo-de-acordar-de-lo-que-he-sonao-hoy-que-puta-paranoia.json](./302734-hostia-me-acabo-de-acordar-de-lo-que-he-sonao-hoy-que-puta-paranoia.json) |
+| Hostil | 75816 | [75816-hostil.json](./75816-hostil.json) |
 | Hostile Dimension | 35222 | [35222-hostile-dimension.json](./35222-hostile-dimension.json) |
 | Hostile Dreams | 239784 | [239784-hostile-dreams.json](./239784-hostile-dreams.json) |
 | Hostile Dreams 2 | 332458 | [332458-hostile-dreams-2.json](./332458-hostile-dreams-2.json) |
