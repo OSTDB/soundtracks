@@ -2265,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory of Seeker | 338570 | [338570-victory-of-seeker.json](./338570-victory-of-seeker.json) |
 | Victory Project | 106159 | [106159-victory-project.json](./106159-victory-project.json) |
 | Victory Race | 114281 | [114281-victory-race.json](./114281-victory-race.json) |
+| Victory Road | 131819 | [131819-victory-road.json](./131819-victory-road.json) |
 | Victory Road | 376836 | [376836-victory-road.json](./376836-victory-road.json) |
 | Victory Run | 42118 | [42118-victory-run.json](./42118-victory-run.json) |
 | Victory Unity | 250083 | [250083-victory-unity.json](./250083-victory-unity.json) |
@@ -2928,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virivì e l'ombra della pioggia | 389125 | [389125-virivi-e-lombra-della-pioggia.json](./389125-virivi-e-lombra-della-pioggia.json) |
 | Virmachina | 320857 | [320857-virmachina.json](./320857-virmachina.json) |
 | Virnap | 235928 | [235928-virnap.json](./235928-virnap.json) |
+| Viro Move | 131041 | [131041-viro-move.json](./131041-viro-move.json) |
 | Virocop | 69792 | [69792-virocop.json](./69792-virocop.json) |
 | Viroids | 178981 | [178981-viroids.json](./178981-viroids.json) |
 | ViroMove | 118443 | [118443-viromove.json](./118443-viromove.json) |
