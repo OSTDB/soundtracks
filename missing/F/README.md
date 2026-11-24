@@ -379,7 +379,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabulous: Angela's High School Reunion | 38039 | [38039-fabulous-angelas-high-school-reunion.json](./38039-fabulous-angelas-high-school-reunion.json) |
 | Fabulous: Angela's Sweet Revenge | 88336 | [88336-fabulous-angelas-sweet-revenge.json](./88336-fabulous-angelas-sweet-revenge.json) |
 | Fabulous: Angela's True Colors | 113769 | [113769-fabulous-angelas-true-colors.json](./113769-fabulous-angelas-true-colors.json) |
-| Fabulous: Angela's Wedding Disaster | 99076 | [99076-fabulous-angelas-wedding-disaster.json](./99076-fabulous-angelas-wedding-disaster.json) |
 | Faby Bird : The Flappy Adventure | 86991 | [86991-faby-bird-the-flappy-adventure.json](./86991-faby-bird-the-flappy-adventure.json) |
 | Facada | 395036 | [395036-facada.json](./395036-facada.json) |
 | Facade | 127495 | [127495-facade.json](./127495-facade.json) |
@@ -1467,7 +1466,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Up | 134678 | [134678-falling-up.json](./134678-falling-up.json) |
 | Falling With Ice Phoenix! | 306301 | [306301-falling-with-ice-phoenix.json](./306301-falling-with-ice-phoenix.json) |
 | Falling with Ice Phoenix!: Cozy Version | 387625 | [387625-falling-with-ice-phoenix-cozy-version.json](./387625-falling-with-ice-phoenix-cozy-version.json) |
-| Falling words | 100483 | [100483-falling-words.json](./100483-falling-words.json) |
 | FallingBattle | 350471 | [350471-fallingbattle.json](./350471-fallingbattle.json) |
 | Fallingstar | 177865 | [177865-fallingstar.json](./177865-fallingstar.json) |
 | FallMan | 60560 | [60560-fallman.json](./60560-fallman.json) |
@@ -2361,7 +2359,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 25: Wedding Ceremony | 86402 | [86402-fantasy-mosaics-25-wedding-ceremony.json](./86402-fantasy-mosaics-25-wedding-ceremony.json) |
 | Fantasy Mosaics 26: Fairytale Garden | 86406 | [86406-fantasy-mosaics-26-fairytale-garden.json](./86406-fantasy-mosaics-26-fairytale-garden.json) |
 | Fantasy Mosaics 27: Secret Colors | 90404 | [90404-fantasy-mosaics-27-secret-colors.json](./90404-fantasy-mosaics-27-secret-colors.json) |
-| Fantasy Mosaics 28: Treasure Map | 100772 | [100772-fantasy-mosaics-28-treasure-map.json](./100772-fantasy-mosaics-28-treasure-map.json) |
 | Fantasy Mosaics 29: Alien Planet | 103898 | [103898-fantasy-mosaics-29-alien-planet.json](./103898-fantasy-mosaics-29-alien-planet.json) |
 | Fantasy Mosaics 3: Distant Worlds | 100735 | [100735-fantasy-mosaics-3-distant-worlds.json](./100735-fantasy-mosaics-3-distant-worlds.json) |
 | Fantasy Mosaics 30: Camping Trip | 109220 | [109220-fantasy-mosaics-30-camping-trip.json](./109220-fantasy-mosaics-30-camping-trip.json) |
@@ -4267,6 +4264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Federation Mycha | 315425 | [315425-federation-mycha.json](./315425-federation-mycha.json) |
 | Federation Quest 1: BSS Jane Seymour | 65210 | [65210-federation-quest-1-bss-jane-seymour.json](./65210-federation-quest-1-bss-jane-seymour.json) |
 | Federation77 | 149231 | [149231-federation77.json](./149231-federation77.json) |
+| Federica's Baking | 427549 | [427549-federicas-baking.json](./427549-federicas-baking.json) |
 | Federico | 322465 | [322465-federico.json](./322465-federico.json) |
 | Federico Returns | 322468 | [322468-federico-returns.json](./322468-federico-returns.json) |
 | Federico y la Herencia | 322470 | [322470-federico-y-la-herencia.json](./322470-federico-y-la-herencia.json) |
@@ -4618,7 +4616,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feral Absence | 413785 | [413785-feral-absence.json](./413785-feral-absence.json) |
 | Feral Attraction | 425875 | [425875-feral-attraction.json](./425875-feral-attraction.json) |
 | Feral Blood Doll | 370058 | [370058-feral-blood-doll.json](./370058-feral-blood-doll.json) |
-| Feral Blue | 99078 | [99078-feral-blue.json](./99078-feral-blue.json) |
 | Feral Boyfriend | 268659 | [268659-feral-boyfriend.json](./268659-feral-boyfriend.json) |
 | Feral Echoes | 351689 | [351689-feral-echoes.json](./351689-feral-echoes.json) |
 | Feral Eyes | 420389 | [420389-feral-eyes.json](./420389-feral-eyes.json) |
@@ -7070,7 +7067,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firebird | 193655 | [193655-firebird.json](./193655-firebird.json) |
 | Firebird | 287023 | [287023-firebird.json](./287023-firebird.json) |
 | Firebird - Steam version | 95281 | [95281-firebird-steam-version.json](./95281-firebird-steam-version.json) |
-| Firebird - The Unfinished | 99215 | [99215-firebird-the-unfinished.json](./99215-firebird-the-unfinished.json) |
 | Firebird: Legend of the Crystal Goddesses | 217104 | [217104-firebird-legend-of-the-crystal-goddesses.json](./217104-firebird-legend-of-the-crystal-goddesses.json) |
 | Firebird: Tale of the Stolen Light | 381017 | [381017-firebird-tale-of-the-stolen-light.json](./381017-firebird-tale-of-the-stolen-light.json) |
 | Firebirds | 58422 | [58422-firebirds.json](./58422-firebirds.json) |
@@ -7554,6 +7550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish With Names | 336233 | [336233-fish-with-names.json](./336233-fish-with-names.json) |
 | Fish World | 337220 | [337220-fish-world.json](./337220-fish-world.json) |
 | Fish World | 426423 | [426423-fish-world.json](./426423-fish-world.json) |
+| Fish Wrangler | 427551 | [427551-fish-wrangler.json](./427551-fish-wrangler.json) |
 | Fish-Click Squad! | 333511 | [333511-fish-click-squad.json](./333511-fish-click-squad.json) |
 | Fish! | 100331 | [100331-fish.json](./100331-fish.json) |
 | Fish! | 12101 | [12101-fish.json](./12101-fish.json) |
@@ -7671,7 +7668,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Champion | 200398 | [200398-fishing-champion.json](./200398-fishing-champion.json) |
 | Fishing Clash | 91230 | [91230-fishing-clash.json](./91230-fishing-clash.json) |
 | Fishing Clash 2020: Fish Catching Games | 135263 | [135263-fishing-clash-2020-fish-catching-games.json](./135263-fishing-clash-2020-fish-catching-games.json) |
-| Fishing Clash: Catching Fish Game. Bass Hunting 3D | 99389 | [99389-fishing-clash-catching-fish-game-bass-hunting-3d.json](./99389-fishing-clash-catching-fish-game-bass-hunting-3d.json) |
 | Fishing Clicker | 333667 | [333667-fishing-clicker.json](./333667-fishing-clicker.json) |
 | Fishing Corner | 373289 | [373289-fishing-corner.json](./373289-fishing-corner.json) |
 | Fishing Craze | 294739 | [294739-fishing-craze.json](./294739-fishing-craze.json) |
@@ -10078,7 +10074,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Aces: Legend of the Red Baron | 394997 | [394997-flying-aces-legend-of-the-red-baron.json](./394997-flying-aces-legend-of-the-red-baron.json) |
 | Flying Angel | 151002 | [151002-flying-angel.json](./151002-flying-angel.json) |
 | Flying Arrow! | 96920 | [96920-flying-arrow.json](./96920-flying-arrow.json) |
-| Flying Arrow!. | 100789 | [100789-flying-arrow.json](./100789-flying-arrow.json) |
 | Flying Axe | 187626 | [187626-flying-axe.json](./187626-flying-axe.json) |
 | Flying Bacon: Ukrainian Air Force | 81964 | [81964-flying-bacon-ukrainian-air-force.json](./81964-flying-bacon-ukrainian-air-force.json) |
 | Flying Baron 1916 | 31607 | [31607-flying-baron-1916.json](./31607-flying-baron-1916.json) |
@@ -15629,7 +15624,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funfair Ride Simulator 3: Ride Pack 4 | 162271 | [162271-funfair-ride-simulator-3-ride-pack-4.json](./162271-funfair-ride-simulator-3-ride-pack-4.json) |
 | Funfair Ride Simulator 3: Ride Pack 5 | 162269 | [162269-funfair-ride-simulator-3-ride-pack-5.json](./162269-funfair-ride-simulator-3-ride-pack-5.json) |
 | Funfair Ride Simulator 3: Ride Pack 6 | 162270 | [162270-funfair-ride-simulator-3-ride-pack-6.json](./162270-funfair-ride-simulator-3-ride-pack-6.json) |
-| Funfair Ride Simulator 4 | 100770 | [100770-funfair-ride-simulator-4.json](./100770-funfair-ride-simulator-4.json) |
 | Funfair Tycoon | 397775 | [397775-funfair-tycoon.json](./397775-funfair-tycoon.json) |
 | FunFitLand | 289712 | [289712-funfitland.json](./289712-funfitland.json) |
 | FunFly | 175198 | [175198-funfly.json](./175198-funfly.json) |
@@ -16371,7 +16365,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Perfect | 36415 | [36415-future-perfect.json](./36415-future-perfect.json) |
 | Future Pinball | 98912 | [98912-future-pinball.json](./98912-future-pinball.json) |
 | Future Pool | 130857 | [130857-future-pool.json](./130857-future-pool.json) |
-| Future Proof | 100420 | [100420-future-proof.json](./100420-future-proof.json) |
 | Future Racer | 44812 | [44812-future-racer.json](./44812-future-racer.json) |
 | Future Racer 2000 | 248909 | [248909-future-racer-2000.json](./248909-future-racer-2000.json) |
 | Future Rally | 180462 | [180462-future-rally.json](./180462-future-rally.json) |
