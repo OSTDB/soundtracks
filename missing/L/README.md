@@ -3051,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
 | Legend of Heroes: Three Kingdoms | 333603 | [333603-legend-of-heroes-three-kingdoms.json](./333603-legend-of-heroes-three-kingdoms.json) |
 | Legend of Hidden Flows | 252288 | [252288-legend-of-hidden-flows.json](./252288-legend-of-hidden-flows.json) |
+| Legend of Himari | 91221 | [91221-legend-of-himari.json](./91221-legend-of-himari.json) |
 | Legend of Hiraq | 348450 | [348450-legend-of-hiraq.json](./348450-legend-of-hiraq.json) |
 | Legend of Homebody | 105492 | [105492-legend-of-homebody.json](./105492-legend-of-homebody.json) |
 | Legend of Illusion Starring Mickey Mouse | 8125 | [8125-legend-of-illusion-starring-mickey-mouse.json](./8125-legend-of-illusion-starring-mickey-mouse.json) |
@@ -9879,6 +9880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus Bloom | 149724 | [149724-lotus-bloom.json](./149724-lotus-bloom.json) |
 | Lotus Challenge | 248446 | [248446-lotus-challenge.json](./248446-lotus-challenge.json) |
 | Lotus Challenge | 3983 | [3983-lotus-challenge.json](./3983-lotus-challenge.json) |
+| Lotus Digital | 90973 | [90973-lotus-digital.json](./90973-lotus-digital.json) |
 | Lotus Esprit Turbo Challenge | 12671 | [12671-lotus-esprit-turbo-challenge.json](./12671-lotus-esprit-turbo-challenge.json) |
 | Lotus Esprit Turbo Challenge | 308147 | [308147-lotus-esprit-turbo-challenge.json](./308147-lotus-esprit-turbo-challenge.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
