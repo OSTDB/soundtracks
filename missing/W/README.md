@@ -4341,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Goes Up | 415305 | [415305-what-goes-up.json](./415305-what-goes-up.json) |
 | What Grows in the Night | 178905 | [178905-what-grows-in-the-night.json](./178905-what-grows-in-the-night.json) |
 | What Hadjane Says Goes! | 124316 | [124316-what-hadjane-says-goes.json](./124316-what-hadjane-says-goes.json) |
+| What Happened | 133080 | [133080-what-happened.json](./133080-what-happened.json) |
 | What Happened At Sugar Hill? | 394117 | [394117-what-happened-at-sugar-hill.json](./394117-what-happened-at-sugar-hill.json) |
 | What Happened in Addison's Grotto | 203637 | [203637-what-happened-in-addisons-grotto.json](./203637-what-happened-in-addisons-grotto.json) |
 | What Happened on the Moon? | 335710 | [335710-what-happened-on-the-moon.json](./335710-what-happened-on-the-moon.json) |
