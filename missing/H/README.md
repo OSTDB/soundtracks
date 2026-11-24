@@ -9249,6 +9249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hihou Densetsu Chris no Bouken | 55896 | [55896-hihou-densetsu-chris-no-bouken.json](./55896-hihou-densetsu-chris-no-bouken.json) |
 | Hihou-den: Taiyou wo Motomeru Mono-tachi | 249465 | [249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json](./249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json) |
 | Hiiragi Iwashi | 83026 | [83026-hiiragi-iwashi.json](./83026-hiiragi-iwashi.json) |
+| Hiiro | 32922 | [32922-hiiro.json](./32922-hiiro.json) |
 | Hiiro no Kakera DS | 71905 | [71905-hiiro-no-kakera-ds.json](./71905-hiiro-no-kakera-ds.json) |
 | Hiiro no Kakera Portable | 214655 | [214655-hiiro-no-kakera-portable.json](./214655-hiiro-no-kakera-portable.json) |
 | Hiiro no Kakera Tamayori-hime Kitan: Omoi Iro no Kioku for Nintendo Switch | 293147 | [293147-hiiro-no-kakera-tamayori-hime-kitan-omoi-iro-no-kioku-for-nintendo-switch.json](./293147-hiiro-no-kakera-tamayori-hime-kitan-omoi-iro-no-kioku-for-nintendo-switch.json) |
@@ -10878,6 +10879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homebound | 176709 | [176709-homebound.json](./176709-homebound.json) |
 | Homebound | 178519 | [178519-homebound.json](./178519-homebound.json) |
 | Homebound | 264550 | [264550-homebound.json](./264550-homebound.json) |
+| Homebound | 27682 | [27682-homebound.json](./27682-homebound.json) |
 | Homebound Haerold | 258046 | [258046-homebound-haerold.json](./258046-homebound-haerold.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
 | Homebound Plush | 417900 | [417900-homebound-plush.json](./417900-homebound-plush.json) |
@@ -13024,6 +13026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houston, We Have a Problem | 286485 | [286485-houston-we-have-a-problem.json](./286485-houston-we-have-a-problem.json) |
 | Houston, We Have Spinach! | 75335 | [75335-houston-we-have-spinach.json](./75335-houston-we-have-spinach.json) |
 | Hoven the Sages Spinel | 34529 | [34529-hoven-the-sages-spinel.json](./34529-hoven-the-sages-spinel.json) |
+| Hover 2030 | 32897 | [32897-hover-2030.json](./32897-hover-2030.json) |
 | Hover Ace | 54103 | [54103-hover-ace.json](./54103-hover-ace.json) |
 | Hover Attack | 174457 | [174457-hover-attack.json](./174457-hover-attack.json) |
 | Hover Attack | 62586 | [62586-hover-attack.json](./62586-hover-attack.json) |
@@ -14216,6 +14219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Season 3D | 220830 | [220830-hunting-season-3d.json](./220830-hunting-season-3d.json) |
 | Hunting Shark: Sea Monster 3D | 87421 | [87421-hunting-shark-sea-monster-3d.json](./87421-hunting-shark-sea-monster-3d.json) |
 | Hunting Simulator | 239044 | [239044-hunting-simulator.json](./239044-hunting-simulator.json) |
+| Hunting Simulator | 27697 | [27697-hunting-simulator.json](./27697-hunting-simulator.json) |
 | Hunting Simulator 2: A Ranger's Life | 172235 | [172235-hunting-simulator-2-a-rangers-life.json](./172235-hunting-simulator-2-a-rangers-life.json) |
 | Hunting Simulator 2: Bear Hunter Edition | 164746 | [164746-hunting-simulator-2-bear-hunter-edition.json](./164746-hunting-simulator-2-bear-hunter-edition.json) |
 | Hunting Simulator 2: Bear Hunter Pack | 224221 | [224221-hunting-simulator-2-bear-hunter-pack.json](./224221-hunting-simulator-2-bear-hunter-pack.json) |
