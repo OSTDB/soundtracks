@@ -2800,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Density | 76530 | [76530-water-density.json](./76530-water-density.json) |
 | Water Drift | 153381 | [153381-water-drift.json](./153381-water-drift.json) |
 | Water Drop Brick Breaker | 421185 | [421185-water-drop-brick-breaker.json](./421185-water-drop-brick-breaker.json) |
+| Water Drop Brick Breaker: Fire Skin Pack | 427523 | [427523-water-drop-brick-breaker-fire-skin-pack.json](./427523-water-drop-brick-breaker-fire-skin-pack.json) |
 | Water Drop Brick Breaker: Orange Skin Pack | 426197 | [426197-water-drop-brick-breaker-orange-skin-pack.json](./426197-water-drop-brick-breaker-orange-skin-pack.json) |
 | Water Fall | 211102 | [211102-water-fall.json](./211102-water-fall.json) |
 | Water Festa | 291320 | [291320-water-festa.json](./291320-water-festa.json) |
@@ -3512,7 +3513,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weave | 108823 | [108823-weave.json](./108823-weave.json) |
 | Weave | 183935 | [183935-weave.json](./183935-weave.json) |
 | Weave & Wander | 428551 | [428551-weave-and-wander.json](./428551-weave-and-wander.json) |
-| Weave the Line | 99943 | [99943-weave-the-line.json](./99943-weave-the-line.json) |
 | Weave the Line - Puzzle games | 108278 | [108278-weave-the-line-puzzle-games.json](./108278-weave-the-line-puzzle-games.json) |
 | Weaveborn Heroes | 323517 | [323517-weaveborn-heroes.json](./323517-weaveborn-heroes.json) |
 | Weavemarch | 419297 | [419297-weavemarch.json](./419297-weavemarch.json) |
@@ -4643,7 +4643,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator | 326315 | [326315-wheelchair-simulator.json](./326315-wheelchair-simulator.json) |
-| Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheelchair Tester | 263723 | [263723-wheelchair-tester.json](./263723-wheelchair-tester.json) |
 | Wheelchair Wizards | 359113 | [359113-wheelchair-wizards.json](./359113-wheelchair-wizards.json) |
 | Wheele Fast | 421293 | [421293-wheele-fast.json](./421293-wheele-fast.json) |
@@ -4775,7 +4774,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Two Worlds War | 73375 | [73375-when-two-worlds-war.json](./73375-when-two-worlds-war.json) |
 | When Vikings Attack! | 9123 | [9123-when-vikings-attack.json](./9123-when-vikings-attack.json) |
 | When Voices Died | 390465 | [390465-when-voices-died.json](./390465-when-voices-died.json) |
-| When Wardens Fall | 99023 | [99023-when-wardens-fall.json](./99023-when-wardens-fall.json) |
 | When We Arrive | 390795 | [390795-when-we-arrive.json](./390795-when-we-arrive.json) |
 | When We First Met | 153774 | [153774-when-we-first-met.json](./153774-when-we-first-met.json) |
 | When We Had Wings | 423447 | [423447-when-we-had-wings.json](./423447-when-we-had-wings.json) |
@@ -8363,7 +8361,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Momo: Typhoon Booster | 62229 | [62229-wonder-momo-typhoon-booster.json](./62229-wonder-momo-typhoon-booster.json) |
 | Wonder Mu: Mu to Unmei no Monster | 220323 | [220323-wonder-mu-mu-to-unmei-no-monster.json](./220323-wonder-mu-mu-to-unmei-no-monster.json) |
 | Wonder of Blue | 345509 | [345509-wonder-of-blue.json](./345509-wonder-of-blue.json) |
-| Wonder Parade | 100767 | [100767-wonder-parade.json](./100767-wonder-parade.json) |
 | Wonder Pets Join the Circus | 66734 | [66734-wonder-pets-join-the-circus.json](./66734-wonder-pets-join-the-circus.json) |
 | Wonder Pets!: Save the Puppy! | 205888 | [205888-wonder-pets-save-the-puppy.json](./205888-wonder-pets-save-the-puppy.json) |
 | Wonder Planet | 40245 | [40245-wonder-planet.json](./40245-wonder-planet.json) |
@@ -10754,7 +10751,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WTC: Relentless Protagonist [SxS] | 187446 | [187446-wtc-relentless-protagonist-sxs.json](./187446-wtc-relentless-protagonist-sxs.json) |
 | WTC: The Manchester Report | 387490 | [387490-wtc-the-manchester-report.json](./387490-wtc-the-manchester-report.json) |
 | Wteruna | 151461 | [151461-wteruna.json](./151461-wteruna.json) |
-| WTF | 99778 | [99778-wtf.json](./99778-wtf.json) |
 | WTF Am I Playing?! | 371169 | [371169-wtf-am-i-playing.json](./371169-wtf-am-i-playing.json) |
 | WTF Do You Know? | 197137 | [197137-wtf-do-you-know.json](./197137-wtf-do-you-know.json) |
 | WTF Doc | 394215 | [394215-wtf-doc.json](./394215-wtf-doc.json) |
