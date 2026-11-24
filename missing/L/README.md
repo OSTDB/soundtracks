@@ -4038,7 +4038,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lendlease | 370022 | [370022-lendlease.json](./370022-lendlease.json) |
 | Leng | 418008 | [418008-leng.json](./418008-leng.json) |
 | Lěngxiě Zhèng Shǎizǐ | 157365 | [157365-lengxie-zheng-shaizi.json](./157365-lengxie-zheng-shaizi.json) |
-| Lenin - The Lion | 99626 | [99626-lenin-the-lion.json](./99626-lenin-the-lion.json) |
 | Lenin Simulator | 195180 | [195180-lenin-simulator.json](./195180-lenin-simulator.json) |
 | Lenin Street Geek Shop | 338685 | [338685-lenin-street-geek-shop.json](./338685-lenin-street-geek-shop.json) |
 | Leningrad | 188430 | [188430-leningrad.json](./188430-leningrad.json) |
