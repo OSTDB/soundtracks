@@ -3381,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival | 297810 | [297810-carnival.json](./297810-carnival.json) |
 | Carnival | 5666 | [5666-carnival.json](./5666-carnival.json) |
 | Carnival and Girls | 170915 | [170915-carnival-and-girls.json](./170915-carnival-and-girls.json) |
+| Carnival Cruise Line Tycoon 2005: Island Hopping | 23565 | [23565-carnival-cruise-line-tycoon-2005-island-hopping.json](./23565-carnival-cruise-line-tycoon-2005-island-hopping.json) |
 | Carnival Fest | 424808 | [424808-carnival-fest.json](./424808-carnival-fest.json) |
 | Carnival Games | 108759 | [108759-carnival-games.json](./108759-carnival-games.json) |
 | Carnival Games | 284137 | [284137-carnival-games.json](./284137-carnival-games.json) |
@@ -8053,6 +8054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChessLocke | 144118 | [144118-chesslocke.json](./144118-chesslocke.json) |
 | Chessmageddon | 429764 | [429764-chessmageddon.json](./429764-chessmageddon.json) |
 | Chessmaster | 206921 | [206921-chessmaster.json](./206921-chessmaster.json) |
+| Chessmaster | 23562 | [23562-chessmaster.json](./23562-chessmaster.json) |
 | Chessmaster | 23714 | [23714-chessmaster.json](./23714-chessmaster.json) |
 | Chessmaster | 342981 | [342981-chessmaster.json](./342981-chessmaster.json) |
 | Chessmaster | 343921 | [343921-chessmaster.json](./343921-chessmaster.json) |
@@ -19419,6 +19421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cars: Hit the Road | 62976 | [62976-crazy-cars-hit-the-road.json](./62976-crazy-cars-hit-the-road.json) |
 | Crazy Cart: Ultimate Drift | 120289 | [120289-crazy-cart-ultimate-drift.json](./120289-crazy-cart-ultimate-drift.json) |
 | Crazy CarToon | 55217 | [55217-crazy-cartoon.json](./55217-crazy-cartoon.json) |
+| Crazy Castle | 23564 | [23564-crazy-castle.json](./23564-crazy-castle.json) |
 | Crazy Castle | 280145 | [280145-crazy-castle.json](./280145-crazy-castle.json) |
 | Crazy Castles | 348527 | [348527-crazy-castles.json](./348527-crazy-castles.json) |
 | Crazy Catman | 37043 | [37043-crazy-catman.json](./37043-crazy-catman.json) |
