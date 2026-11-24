@@ -4665,6 +4665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heli-Commando 2017 | 61885 | [61885-heli-commando-2017.json](./61885-heli-commando-2017.json) |
 | Heli-Shooter | 257822 | [257822-heli-shooter.json](./257822-heli-shooter.json) |
 | Heli-Yeah! Bundle | 154962 | [154962-heli-yeah-bundle.json](./154962-heli-yeah-bundle.json) |
+| Heliborne | 33764 | [33764-heliborne.json](./33764-heliborne.json) |
 | Heliborne Collection | 248934 | [248934-heliborne-collection.json](./248934-heliborne-collection.json) |
 | Heliborne: Enhanced Edition | 248802 | [248802-heliborne-enhanced-edition.json](./248802-heliborne-enhanced-edition.json) |
 | Helichapter X | 287110 | [287110-helichapter-x.json](./287110-helichapter-x.json) |
@@ -7283,6 +7284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Sacred Tree | 192934 | [192934-heroes-of-the-sacred-tree.json](./192934-heroes-of-the-sacred-tree.json) |
 | Heroes of the Seasons | 285671 | [285671-heroes-of-the-seasons.json](./285671-heroes-of-the-seasons.json) |
 | Heroes of the Seven Islands | 324252 | [324252-heroes-of-the-seven-islands.json](./324252-heroes-of-the-seven-islands.json) |
+| Heroes of the Seven Seas | 33673 | [33673-heroes-of-the-seven-seas.json](./33673-heroes-of-the-seven-seas.json) |
 | Heroes of the Three Kingdoms 2 | 143499 | [143499-heroes-of-the-three-kingdoms-2.json](./143499-heroes-of-the-three-kingdoms-2.json) |
 | Heroes of the Three Kingdoms 3 | 143504 | [143504-heroes-of-the-three-kingdoms-3.json](./143504-heroes-of-the-three-kingdoms-3.json) |
 | Heroes of the Three Kingdoms 7 | 143522 | [143522-heroes-of-the-three-kingdoms-7.json](./143522-heroes-of-the-three-kingdoms-7.json) |
@@ -14422,6 +14424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydra Castle Labyrinth | 65135 | [65135-hydra-castle-labyrinth.json](./65135-hydra-castle-labyrinth.json) |
 | Hydra Heli 2 | 390066 | [390066-hydra-heli-2.json](./390066-hydra-heli-2.json) |
 | Hydra Hide Land | 337467 | [337467-hydra-hide-land.json](./337467-hydra-hide-land.json) |
+| Hydra Slayer | 33776 | [33776-hydra-slayer.json](./33776-hydra-slayer.json) |
 | Hydra: Poseidon's Сonspiracy | 342645 | [342645-hydra-poseidons-onspiracy.json](./342645-hydra-poseidons-onspiracy.json) |
 | Hydrangea | 299171 | [299171-hydrangea.json](./299171-hydrangea.json) |
 | Hydrate | 314911 | [314911-hydrate.json](./314911-hydrate.json) |
