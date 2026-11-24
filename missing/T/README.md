@@ -27980,7 +27980,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Last | 258452 | [258452-to-last.json](./258452-to-last.json) |
 | To Leave: Deluxe Edition | 221493 | [221493-to-leave-deluxe-edition.json](./221493-to-leave-deluxe-edition.json) |
 | To Libertad | 212287 | [212287-to-libertad.json](./212287-to-libertad.json) |
-| To Light: Ex Umbra | 102370 | [102370-to-light-ex-umbra.json](./102370-to-light-ex-umbra.json) |
 | To Loose Your Way | 421619 | [421619-to-loose-your-way.json](./421619-to-loose-your-way.json) |
 | To Love Ru x 2 | 97376 | [97376-to-love-ru-x-2.json](./97376-to-love-ru-x-2.json) |
 | To Love-Ru -Trouble- Darkness: True Princess | 13553 | [13553-to-love-ru-trouble-darkness-true-princess.json](./13553-to-love-ru-trouble-darkness-true-princess.json) |
