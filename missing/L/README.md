@@ -930,7 +930,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landflix Odyssey | 86450 | [86450-landflix-odyssey.json](./86450-landflix-odyssey.json) |
 | LandFormer | 237729 | [237729-landformer.json](./237729-landformer.json) |
 | Landgrabbers | 95683 | [95683-landgrabbers.json](./95683-landgrabbers.json) |
-| Landinar: Into the Void | 99162 | [99162-landinar-into-the-void.json](./99162-landinar-into-the-void.json) |
 | Landing | 157863 | [157863-landing.json](./157863-landing.json) |
 | Landing | 330670 | [330670-landing.json](./330670-landing.json) |
 | Landing Confirmed | 151404 | [151404-landing-confirmed.json](./151404-landing-confirmed.json) |
@@ -1474,7 +1473,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Days of Spring 2 | 30682 | [30682-last-days-of-spring-2.json](./30682-last-days-of-spring-2.json) |
 | Last Days of Spring 2: Deluxe Edition | 53264 | [53264-last-days-of-spring-2-deluxe-edition.json](./53264-last-days-of-spring-2-deluxe-edition.json) |
 | Last Days of Spring Visual Novel | 34322 | [34322-last-days-of-spring-visual-novel.json](./34322-last-days-of-spring-visual-novel.json) |
-| Last Days of Tascaria | 99595 | [99595-last-days-of-tascaria.json](./99595-last-days-of-tascaria.json) |
 | Last Days of Tsufana | 421551 | [421551-last-days-of-tsufana.json](./421551-last-days-of-tsufana.json) |
 | Last Days: Survival | 95759 | [95759-last-days-survival.json](./95759-last-days-survival.json) |
 | Last Debt | 179341 | [179341-last-debt.json](./179341-last-debt.json) |
@@ -4640,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethalmon | 358277 | [358277-lethalmon.json](./358277-lethalmon.json) |
 | LethalRpgDestiny | 309093 | [309093-lethalrpgdestiny.json](./309093-lethalrpgdestiny.json) |
 | Lethargy | 175147 | [175147-lethargy.json](./175147-lethargy.json) |
+| Lethargy | 427540 | [427540-lethargy.json](./427540-lethargy.json) |
 | Lethe | 175283 | [175283-lethe.json](./175283-lethe.json) |
 | Lethe - Episode One | 34325 | [34325-lethe-episode-one.json](./34325-lethe-episode-one.json) |
 | Lethe: Broken memories | 121966 | [121966-lethe-broken-memories.json](./121966-lethe-broken-memories.json) |
