@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam Scrapz Collection: The Minesweeper | 298192 | [298192-jam-scrapz-collection-the-minesweeper.json](./298192-jam-scrapz-collection-the-minesweeper.json) |
 | Jam Scrapz Collection: Valentide! II | 289920 | [289920-jam-scrapz-collection-valentide-ii.json](./289920-jam-scrapz-collection-valentide-ii.json) |
 | Jam Session VR | 75822 | [75822-jam-session-vr.json](./75822-jam-session-vr.json) |
+| JAM sessions | 47925 | [47925-jam-sessions.json](./47925-jam-sessions.json) |
 | Jam Smasher | 176566 | [176566-jam-smasher.json](./176566-jam-smasher.json) |
 | Jam Space: PocketStudio | 85199 | [85199-jam-space-pocketstudio.json](./85199-jam-space-pocketstudio.json) |
 | Jam Studio VR | 59580 | [59580-jam-studio-vr.json](./59580-jam-studio-vr.json) |
@@ -602,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Clavell's Shogun | 28450 | [28450-james-clavells-shogun.json](./28450-james-clavells-shogun.json) |
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
 | James Noir's Hollywood Crimes | 6830 | [6830-james-noirs-hollywood-crimes.json](./6830-james-noirs-hollywood-crimes.json) |
+| James Patterson: Women's Murder Club - Games of Passion | 47831 | [47831-james-patterson-womens-murder-club-games-of-passion.json](./47831-james-patterson-womens-murder-club-games-of-passion.json) |
 | James Peris 2: The Fountain of Eternal Drunkenness | 188533 | [188533-james-peris-2-the-fountain-of-eternal-drunkenness.json](./188533-james-peris-2-the-fountain-of-eternal-drunkenness.json) |
 | James Peris es el Agente 00,5 | 323045 | [323045-james-peris-es-el-agente-00-5.json](./323045-james-peris-es-el-agente-00-5.json) |
 | James Peris: Sin licencia ni control - Edición definitiva | 131630 | [131630-james-peris-sin-licencia-ni-control-edicion-definitiva.json](./131630-james-peris-sin-licencia-ni-control-edicion-definitiva.json) |
