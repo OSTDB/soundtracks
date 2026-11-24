@@ -4072,6 +4072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead County | 126141 | [126141-dead-county.json](./126141-dead-county.json) |
 | Dead Covid-19 in space | 150525 | [150525-dead-covid-19-in-space.json](./150525-dead-covid-19-in-space.json) |
 | Dead Crossway Zompell Survival Zombie | 298441 | [298441-dead-crossway-zompell-survival-zombie.json](./298441-dead-crossway-zompell-survival-zombie.json) |
+| Dead Cubes | 129755 | [129755-dead-cubes.json](./129755-dead-cubes.json) |
 | Dead Cyborg | 62929 | [62929-dead-cyborg.json](./62929-dead-cyborg.json) |
 | Dead Dating | 178200 | [178200-dead-dating.json](./178200-dead-dating.json) |
 | Dead Dawn | 193958 | [193958-dead-dawn.json](./193958-dead-dawn.json) |
@@ -5835,6 +5836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck Heroes | 38673 | [38673-deck-heroes.json](./38673-deck-heroes.json) |
 | Deck Hunter | 106418 | [106418-deck-hunter.json](./106418-deck-hunter.json) |
 | Deck Make Million Arthur | 125772 | [125772-deck-make-million-arthur.json](./125772-deck-make-million-arthur.json) |
+| Deck of Ashes | 114852 | [114852-deck-of-ashes.json](./114852-deck-of-ashes.json) |
 | Deck of Ashes: Complete Edition | 196816 | [196816-deck-of-ashes-complete-edition.json](./196816-deck-of-ashes-complete-edition.json) |
 | Deck of Ashes: Tome of Dimensions | 197665 | [197665-deck-of-ashes-tome-of-dimensions.json](./197665-deck-of-ashes-tome-of-dimensions.json) |
 | Deck of Bullets | 258462 | [258462-deck-of-bullets.json](./258462-deck-of-bullets.json) |
@@ -9066,6 +9068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Frizbee | 332250 | [332250-detective-frizbee.json](./332250-detective-frizbee.json) |
 | Detective From the Crypt | 159910 | [159910-detective-from-the-crypt.json](./159910-detective-from-the-crypt.json) |
 | Detective Gatuma: Get a Clue! | 260846 | [260846-detective-gatuma-get-a-clue.json](./260846-detective-gatuma-get-a-clue.json) |
+| Detective Girl of the Steam City | 114576 | [114576-detective-girl-of-the-steam-city.json](./114576-detective-girl-of-the-steam-city.json) |
 | Detective Girl: The Case of Immortality | 377009 | [377009-detective-girl-the-case-of-immortality.json](./377009-detective-girl-the-case-of-immortality.json) |
 | Detective Gman | 172953 | [172953-detective-gman.json](./172953-detective-gman.json) |
 | Detective Grimoire | 218746 | [218746-detective-grimoire.json](./218746-detective-grimoire.json) |
@@ -10159,6 +10162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dick Tracy | 83907 | [83907-dick-tracy.json](./83907-dick-tracy.json) |
 | Dick Tracy: The Crime-Solving Adventure | 70204 | [70204-dick-tracy-the-crime-solving-adventure.json](./70204-dick-tracy-the-crime-solving-adventure.json) |
 | Dick Vitale's "Awesome, Baby!" College Hoops | 4424 | [4424-dick-vitales-awesome-baby-college-hoops.json](./4424-dick-vitales-awesome-baby-college-hoops.json) |
+| Dick Wilde 2 | 114006 | [114006-dick-wilde-2.json](./114006-dick-wilde-2.json) |
 | Dickdown Duel | 197407 | [197407-dickdown-duel.json](./197407-dickdown-duel.json) |
 | Dickie A Cumming: The Prequel | 196033 | [196033-dickie-a-cumming-the-prequel.json](./196033-dickie-a-cumming-the-prequel.json) |
 | Dickland | 393697 | [393697-dickland.json](./393697-dickland.json) |
@@ -18289,6 +18293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn: The Painted Tower | 11234 | [11234-drawn-the-painted-tower.json](./11234-drawn-the-painted-tower.json) |
 | Drawn: Trail of Shadows | 65094 | [65094-drawn-trail-of-shadows.json](./65094-drawn-trail-of-shadows.json) |
 | Drawn: Trail of Shadows - Collector's Edition | 30124 | [30124-drawn-trail-of-shadows-collectors-edition.json](./30124-drawn-trail-of-shadows-collectors-edition.json) |
+| Drawngeon: Dungeons of Ink and Paper | 113810 | [113810-drawngeon-dungeons-of-ink-and-paper.json](./113810-drawngeon-dungeons-of-ink-and-paper.json) |
 | Drawquarium | 374055 | [374055-drawquarium.json](./374055-drawquarium.json) |
 | DrawRace | 61763 | [61763-drawrace.json](./61763-drawrace.json) |
 | Drawsome Sketch Quest | 65548 | [65548-drawsome-sketch-quest.json](./65548-drawsome-sketch-quest.json) |
@@ -19443,6 +19448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive and Park | 377531 | [377531-drive-and-park.json](./377531-drive-and-park.json) |
 | Drive and Unwind | 344107 | [344107-drive-and-unwind.json](./344107-drive-and-unwind.json) |
 | Drive Beyond Horizons | 290959 | [290959-drive-beyond-horizons.json](./290959-drive-beyond-horizons.json) |
+| Drive Buy | 113404 | [113404-drive-buy.json](./113404-drive-buy.json) |
 | Drive By Hero | 40098 | [40098-drive-by-hero.json](./40098-drive-by-hero.json) |
 | Drive Cars: Avoid Traffic | 255175 | [255175-drive-cars-avoid-traffic.json](./255175-drive-cars-avoid-traffic.json) |
 | Drive Dangerously! | 411661 | [411661-drive-dangerously.json](./411661-drive-dangerously.json) |
