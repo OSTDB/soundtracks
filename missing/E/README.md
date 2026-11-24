@@ -9003,6 +9003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exocraft.io | 86380 | [86380-exocraft-io.json](./86380-exocraft-io.json) |
 | ExoCross | 245597 | [245597-exocross.json](./245597-exocross.json) |
 | Exodemic | 197152 | [197152-exodemic.json](./197152-exodemic.json) |
+| Exodemon | 27740 | [27740-exodemon.json](./27740-exodemon.json) |
 | Exoder | 98767 | [98767-exoder.json](./98767-exoder.json) |
 | Exodition | 217176 | [217176-exodition.json](./217176-exodition.json) |
 | ExoDomia | 394911 | [394911-exodomia.json](./394911-exodomia.json) |
