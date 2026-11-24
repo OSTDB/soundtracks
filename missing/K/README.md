@@ -2226,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ketsu Battler | 330226 | [330226-ketsu-battler.json](./330226-ketsu-battler.json) |
 | Ketsugou Danshi: Elements with Emotions | 217566 | [217566-ketsugou-danshi-elements-with-emotions.json](./217566-ketsugou-danshi-elements-with-emotions.json) |
 | Ketsugou Danshi: Elements with Emotions - Zenshi Konkan Pack | 260691 | [260691-ketsugou-danshi-elements-with-emotions-zenshi-konkan-pack.json](./260691-ketsugou-danshi-elements-with-emotions-zenshi-konkan-pack.json) |
+| Ketsui Death Label | 47856 | [47856-ketsui-death-label.json](./47856-ketsui-death-label.json) |
 | Ketsui Deathtiny: Kizuna Jigoku Tachi | 106850 | [106850-ketsui-deathtiny-kizuna-jigoku-tachi.json](./106850-ketsui-deathtiny-kizuna-jigoku-tachi.json) |
 | Ketsui: Kizuna Jigoku Tachi Extra | 79853 | [79853-ketsui-kizuna-jigoku-tachi-extra.json](./79853-ketsui-kizuna-jigoku-tachi-extra.json) |
 | Ketsui: Kizuna Jigoku-tachi | 214717 | [214717-ketsui-kizuna-jigoku-tachi.json](./214717-ketsui-kizuna-jigoku-tachi.json) |
@@ -2239,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ketu de Ganba | 97999 | [97999-ketu-de-ganba.json](./97999-ketu-de-ganba.json) |
 | Keturan | 358470 | [358470-keturan.json](./358470-keturan.json) |
 | Ketz: Galactic Overlords | 327549 | [327549-ketz-galactic-overlords.json](./327549-ketz-galactic-overlords.json) |
+| Ketzal's Corridors | 47651 | [47651-ketzals-corridors.json](./47651-ketzals-corridors.json) |
 | Ketzer | 405720 | [405720-ketzer.json](./405720-ketzer.json) |
 | Kevin Costner's Waterworld | 221224 | [221224-kevin-costners-waterworld.json](./221224-kevin-costners-waterworld.json) |
 | Kevin Keegan's Player Manager | 42618 | [42618-kevin-keegans-player-manager.json](./42618-kevin-keegans-player-manager.json) |
@@ -3419,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Sports Gems: Boxing Fight | 106093 | [106093-kinect-sports-gems-boxing-fight.json](./106093-kinect-sports-gems-boxing-fight.json) |
 | Kinect Sports: Season Two | 18026 | [18026-kinect-sports-season-two.json](./18026-kinect-sports-season-two.json) |
 | Kinect Sports: Season Two - Midnight Mountain | 20658 | [20658-kinect-sports-season-two-midnight-mountain.json](./20658-kinect-sports-season-two-midnight-mountain.json) |
+| Kinect Sports: Ultimate Collection | 47401 | [47401-kinect-sports-ultimate-collection.json](./47401-kinect-sports-ultimate-collection.json) |
 | Kinect Star Wars | 8560 | [8560-kinect-star-wars.json](./8560-kinect-star-wars.json) |
 | Kinect Triple Bundle: Beats & Booms & Squids | 82453 | [82453-kinect-triple-bundle-beats-and-booms-and-squids.json](./82453-kinect-triple-bundle-beats-and-booms-and-squids.json) |
 | Kinectimals | 2755 | [2755-kinectimals.json](./2755-kinectimals.json) |
