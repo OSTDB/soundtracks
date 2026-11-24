@@ -2897,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Shark Solitaire | 88827 | [88827-card-shark-solitaire.json](./88827-card-shark-solitaire.json) |
 | Card Shark: Deluxe Edition | 203686 | [203686-card-shark-deluxe-edition.json](./203686-card-shark-deluxe-edition.json) |
 | Card Sharks | 392954 | [392954-card-sharks.json](./392954-card-sharks.json) |
+| Card Sharks | 92862 | [92862-card-sharks.json](./92862-card-sharks.json) |
 | Card Sharp | 42164 | [42164-card-sharp.json](./42164-card-sharp.json) |
 | Card Shop Game Store: TCG Simulator | 335957 | [335957-card-shop-game-store-tcg-simulator.json](./335957-card-shop-game-store-tcg-simulator.json) |
 | Card Shop Simulator Multiplayer | 346816 | [346816-card-shop-simulator-multiplayer.json](./346816-card-shop-simulator-multiplayer.json) |
@@ -15777,6 +15778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conjoined Cats | 294074 | [294074-conjoined-cats.json](./294074-conjoined-cats.json) |
 | Conjugo | 130474 | [130474-conjugo.json](./130474-conjugo.json) |
 | Conjunctivitalizer | 329464 | [329464-conjunctivitalizer.json](./329464-conjunctivitalizer.json) |
+| Conjuntalia | 91002 | [91002-conjuntalia.json](./91002-conjuntalia.json) |
 | Conjuntalia: MecaEnglish | 172213 | [172213-conjuntalia-mecaenglish.json](./172213-conjuntalia-mecaenglish.json) |
 | Conjuntalia: Overcome the Death of a Loved One | 171400 | [171400-conjuntalia-overcome-the-death-of-a-loved-one.json](./171400-conjuntalia-overcome-the-death-of-a-loved-one.json) |
 | Conjure Cards | 153629 | [153629-conjure-cards.json](./153629-conjure-cards.json) |
