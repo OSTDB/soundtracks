@@ -2256,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Toad: Prism Star Quest | 358338 | [358338-captain-toad-prism-star-quest.json](./358338-captain-toad-prism-star-quest.json) |
 | Captain Toad: Treasure Tracker | 7337 | [7337-captain-toad-treasure-tracker.json](./7337-captain-toad-treasure-tracker.json) |
 | Captain Toad: Treasure Tracker - Special Edition | 51139 | [51139-captain-toad-treasure-tracker-special-edition.json](./51139-captain-toad-treasure-tracker-special-edition.json) |
+| Captain Toad: Treasure Tracker - Special Episode | 132225 | [132225-captain-toad-treasure-tracker-special-episode.json](./132225-captain-toad-treasure-tracker-special-episode.json) |
 | Captain Toad: Treasure Tracker + Special Episode | 136381 | [136381-captain-toad-treasure-tracker-special-episode.json](./136381-captain-toad-treasure-tracker-special-episode.json) |
 | Captain Toad's Dungeon Dash! | 231662 | [231662-captain-toads-dungeon-dash.json](./231662-captain-toads-dungeon-dash.json) |
 | Captain Tomaday | 40981 | [40981-captain-tomaday.json](./40981-captain-tomaday.json) |
