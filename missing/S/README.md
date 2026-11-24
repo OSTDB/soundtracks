@@ -11934,6 +11934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siegecraft TD | 39212 | [39212-siegecraft-td.json](./39212-siegecraft-td.json) |
 | Siegefall | 58924 | [58924-siegefall.json](./58924-siegefall.json) |
 | Siegelock | 418366 | [418366-siegelock.json](./418366-siegelock.json) |
+| Siegelord | 23633 | [23633-siegelord.json](./23633-siegelord.json) |
 | Siegeturtle | 364242 | [364242-siegeturtle.json](./364242-siegeturtle.json) |
 | SiegeVR | 90784 | [90784-siegevr.json](./90784-siegevr.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
@@ -16166,6 +16167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Assist | 26842 | [26842-slingshot-assist.json](./26842-slingshot-assist.json) |
 | Slingshot Battle | 241418 | [241418-slingshot-battle.json](./241418-slingshot-battle.json) |
 | Slingshot Blitz: Rewarded Play | 232036 | [232036-slingshot-blitz-rewarded-play.json](./232036-slingshot-blitz-rewarded-play.json) |
+| Slingshot Braves | 23647 | [23647-slingshot-braves.json](./23647-slingshot-braves.json) |
 | Slingshot Cowboy VR | 51738 | [51738-slingshot-cowboy-vr.json](./51738-slingshot-cowboy-vr.json) |
 | Slingshot Effect | 193716 | [193716-slingshot-effect.json](./193716-slingshot-effect.json) |
 | Slingshot Explorer: The Twelve Towers | 110142 | [110142-slingshot-explorer-the-twelve-towers.json](./110142-slingshot-explorer-the-twelve-towers.json) |
@@ -24490,6 +24492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Demons | 251293 | [251293-speed-demons.json](./251293-speed-demons.json) |
 | Speed Demons | 71872 | [71872-speed-demons.json](./71872-speed-demons.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
+| Speed Devils | 23609 | [23609-speed-devils.json](./23609-speed-devils.json) |
 | Speed Devils: Online Racing | 46371 | [46371-speed-devils-online-racing.json](./46371-speed-devils-online-racing.json) |
 | Speed Dreams | 65339 | [65339-speed-dreams.json](./65339-speed-dreams.json) |
 | Speed Drifters | 193998 | [193998-speed-drifters.json](./193998-speed-drifters.json) |
@@ -25290,6 +25293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man and Venom: Maximum Carnage | 18125 | [18125-spider-man-and-venom-maximum-carnage.json](./18125-spider-man-and-venom-maximum-carnage.json) |
 | Spider-Man Cartoon Maker | 63702 | [63702-spider-man-cartoon-maker.json](./63702-spider-man-cartoon-maker.json) |
 | Spider-Man Ultimate Avenger | 383437 | [383437-spider-man-ultimate-avenger.json](./383437-spider-man-ultimate-avenger.json) |
+| Spider-Man vs. Doc Ock | 23542 | [23542-spider-man-vs-doc-ock.json](./23542-spider-man-vs-doc-ock.json) |
 | Spider-Man: 001 - Character: Spider-Man | 363267 | [363267-spider-man-001-character-spider-man.json](./363267-spider-man-001-character-spider-man.json) |
 | Spider-Man: 002 - Black Suit Mod: Black Widow | 363268 | [363268-spider-man-002-black-suit-mod-black-widow.json](./363268-spider-man-002-black-suit-mod-black-widow.json) |
 | Spider-Man: 003 - Black Suit Mod: Attitude Adjustment | 363269 | [363269-spider-man-003-black-suit-mod-attitude-adjustment.json](./363269-spider-man-003-black-suit-mod-attitude-adjustment.json) |
@@ -25707,6 +25711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Hunter: Death Mark | 26624 | [26624-spirit-hunter-death-mark.json](./26624-spirit-hunter-death-mark.json) |
 | Spirit Hunter: Death Mark II | 133814 | [133814-spirit-hunter-death-mark-ii.json](./133814-spirit-hunter-death-mark-ii.json) |
 | Spirit Hunter: NG | 120556 | [120556-spirit-hunter-ng.json](./120556-spirit-hunter-ng.json) |
+| Spirit Hunters Inc. | 23587 | [23587-spirit-hunters-inc.json](./23587-spirit-hunters-inc.json) |
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
 | Spirit Hunters: Infinite Horde | 197480 | [197480-spirit-hunters-infinite-horde.json](./197480-spirit-hunters-infinite-horde.json) |
 | Spirit Island | 97424 | [97424-spirit-island.json](./97424-spirit-island.json) |
@@ -26164,6 +26169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants and the Nicktoons Gravjet Racing | 208780 | [208780-spongebob-squarepants-and-the-nicktoons-gravjet-racing.json](./208780-spongebob-squarepants-and-the-nicktoons-gravjet-racing.json) |
 | SpongeBob SquarePants Bikini Bottom Bowling | 389137 | [389137-spongebob-squarepants-bikini-bottom-bowling.json](./389137-spongebob-squarepants-bikini-bottom-bowling.json) |
 | SpongeBob SquarePants Boating School | 382924 | [382924-spongebob-squarepants-boating-school.json](./382924-spongebob-squarepants-boating-school.json) |
+| SpongeBob SquarePants Bowling | 23599 | [23599-spongebob-squarepants-bowling.json](./23599-spongebob-squarepants-bowling.json) |
 | SpongeBob SquarePants Bubble Ball | 382921 | [382921-spongebob-squarepants-bubble-ball.json](./382921-spongebob-squarepants-bubble-ball.json) |
 | SpongeBob SquarePants Bubble Rush! | 307852 | [307852-spongebob-squarepants-bubble-rush.json](./307852-spongebob-squarepants-bubble-rush.json) |
 | SpongeBob SquarePants Bubblegram | 382926 | [382926-spongebob-squarepants-bubblegram.json](./382926-spongebob-squarepants-bubblegram.json) |
@@ -38011,6 +38017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real Mahjong Venus Returns | 410297 | [410297-super-real-mahjong-venus-returns.json](./410297-super-real-mahjong-venus-returns.json) |
 | Super Real Mahjong vs. | 307701 | [307701-super-real-mahjong-vs.json](./307701-super-real-mahjong-vs.json) |
 | Super Real Mahjong: Premium Collection | 44001 | [44001-super-real-mahjong-premium-collection.json](./44001-super-real-mahjong-premium-collection.json) |
+| Super Real Tennis | 23561 | [23561-super-real-tennis.json](./23561-super-real-tennis.json) |
 | Super Realistic Autocross | 123046 | [123046-super-realistic-autocross.json](./123046-super-realistic-autocross.json) |
 | Super Realistic Autocross VR | 123474 | [123474-super-realistic-autocross-vr.json](./123474-super-realistic-autocross-vr.json) |
 | Super Rebellion | 125072 | [125072-super-rebellion.json](./125072-super-rebellion.json) |
@@ -39287,6 +39294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Manager Simulator | 314863 | [314863-supermarket-manager-simulator.json](./314863-supermarket-manager-simulator.json) |
 | Supermarket Manager Simulator Empire 2024 | 308738 | [308738-supermarket-manager-simulator-empire-2024.json](./308738-supermarket-manager-simulator-empire-2024.json) |
 | Supermarket Mania | 206995 | [206995-supermarket-mania.json](./206995-supermarket-mania.json) |
+| Supermarket Mania | 23664 | [23664-supermarket-mania.json](./23664-supermarket-mania.json) |
 | Supermarket Mania HD | 24271 | [24271-supermarket-mania-hd.json](./24271-supermarket-mania-hd.json) |
 | Supermarket Mania Journey | 182006 | [182006-supermarket-mania-journey.json](./182006-supermarket-mania-journey.json) |
 | Supermarket Mania: Match 3 | 334007 | [334007-supermarket-mania-match-3.json](./334007-supermarket-mania-match-3.json) |
