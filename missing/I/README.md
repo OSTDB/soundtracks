@@ -1438,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ide Yousuke Meijin no Jissen Mahjong | 48754 | [48754-ide-yousuke-meijin-no-jissen-mahjong.json](./48754-ide-yousuke-meijin-no-jissen-mahjong.json) |
 | Ide Yousuke Meijin no Jissen Mahjong II | 48753 | [48753-ide-yousuke-meijin-no-jissen-mahjong-ii.json](./48753-ide-yousuke-meijin-no-jissen-mahjong-ii.json) |
 | Ide Yousuke no Mahjong Juku | 44046 | [44046-ide-yousuke-no-mahjong-juku.json](./44046-ide-yousuke-no-mahjong-juku.json) |
+| Idea | 204951 | [204951-idea.json](./204951-idea.json) |
 | Idea Fix | 323640 | [323640-idea-fix.json](./323640-idea-fix.json) |
 | Idea: Drone camera calm puzzle | 241572 | [241572-idea-drone-camera-calm-puzzle.json](./241572-idea-drone-camera-calm-puzzle.json) |
 | Ideabookroom | 348443 | [348443-ideabookroom.json](./348443-ideabookroom.json) |
