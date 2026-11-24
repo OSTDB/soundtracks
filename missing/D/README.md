@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DanLab's Golf | 315825 | [315825-danlabs-golf.json](./315825-danlabs-golf.json) |
 | DanMachi Battle Chronicle | 263485 | [263485-danmachi-battle-chronicle.json](./263485-danmachi-battle-chronicle.json) |
 | DanMachi: Cross Istoria | 77498 | [77498-danmachi-cross-istoria.json](./77498-danmachi-cross-istoria.json) |
+| DanMachi: Memoria Freese | 47158 | [47158-danmachi-memoria-freese.json](./47158-danmachi-memoria-freese.json) |
 | Danmakai: Red Forbidden Fruit | 140040 | [140040-danmakai-red-forbidden-fruit.json](./140040-danmakai-red-forbidden-fruit.json) |
 | Danmaku Amanojaku: Gold Rush | 207156 | [207156-danmaku-amanojaku-gold-rush.json](./207156-danmaku-amanojaku-gold-rush.json) |
 | Danmaku Amanojaku: Impossible Spell Card | 47026 | [47026-danmaku-amanojaku-impossible-spell-card.json](./47026-danmaku-amanojaku-impossible-spell-card.json) |
@@ -10488,6 +10489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dug New Frontier | 350575 | [350575-dig-dug-new-frontier.json](./350575-dig-dug-new-frontier.json) |
 | Dig Dug Remix | 229461 | [229461-dig-dug-remix.json](./229461-dig-dug-remix.json) |
 | Dig Dug Revival | 187086 | [187086-dig-dug-revival.json](./187086-dig-dug-revival.json) |
+| Dig Dug: Digging Strike | 47729 | [47729-dig-dug-digging-strike.json](./47729-dig-dug-digging-strike.json) |
 | Dig Dungeon: Roguelike | 233498 | [233498-dig-dungeon-roguelike.json](./233498-dig-dungeon-roguelike.json) |
 | Dig for Riches | 391365 | [391365-dig-for-riches.json](./391365-dig-for-riches.json) |
 | Dig for TCG Cards With Your Friends | 409765 | [409765-dig-for-tcg-cards-with-your-friends.json](./409765-dig-for-tcg-cards-with-your-friends.json) |
@@ -10564,6 +10566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digger Chan | 79147 | [79147-digger-chan.json](./79147-digger-chan.json) |
 | Digger Dan | 14033 | [14033-digger-dan.json](./14033-digger-dan.json) |
 | Digger Dan & Kaboom | 58664 | [58664-digger-dan-and-kaboom.json](./58664-digger-dan-and-kaboom.json) |
+| Digger Dan DX | 47662 | [47662-digger-dan-dx.json](./47662-digger-dan-dx.json) |
 | Digger HD | 52179 | [52179-digger-hd.json](./52179-digger-hd.json) |
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
 | Digger Online | 17084 | [17084-digger-online.json](./17084-digger-online.json) |
@@ -12413,6 +12416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Kim Possible 2: Drakken's Demise | 8144 | [8144-disneys-kim-possible-2-drakkens-demise.json](./8144-disneys-kim-possible-2-drakkens-demise.json) |
 | Disney's Kim Possible 3: Team Possible | 49186 | [49186-disneys-kim-possible-3-team-possible.json](./49186-disneys-kim-possible-3-team-possible.json) |
 | Disney's Kim Possible: Global Gemini | 8152 | [8152-disneys-kim-possible-global-gemini.json](./8152-disneys-kim-possible-global-gemini.json) |
+| Disney's Kim Possible: Kimmunicator | 47728 | [47728-disneys-kim-possible-kimmunicator.json](./47728-disneys-kim-possible-kimmunicator.json) |
 | Disney's Kim Possible: Revenge of Monkey Fist | 49275 | [49275-disneys-kim-possible-revenge-of-monkey-fist.json](./49275-disneys-kim-possible-revenge-of-monkey-fist.json) |
 | Disney's Kim Possible: Shopping Avenger | 338406 | [338406-disneys-kim-possible-shopping-avenger.json](./338406-disneys-kim-possible-shopping-avenger.json) |
 | Disney's Kim Possible: What's the Switch? | 8150 | [8150-disneys-kim-possible-whats-the-switch.json](./8150-disneys-kim-possible-whats-the-switch.json) |
@@ -12442,6 +12446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's PK: Out of the Shadows | 3887 | [3887-disneys-pk-out-of-the-shadows.json](./3887-disneys-pk-out-of-the-shadows.json) |
 | Disney's Pocahantas: Riverbend Adventures | 76602 | [76602-disneys-pocahantas-riverbend-adventures.json](./76602-disneys-pocahantas-riverbend-adventures.json) |
 | Disney's Pocahontas | 198850 | [198850-disneys-pocahontas.json](./198850-disneys-pocahontas.json) |
+| Disney's Pocahontas | 45780 | [45780-disneys-pocahontas.json](./45780-disneys-pocahontas.json) |
 | Disney's Pooh and Tigger's Hunny Safari | 50008 | [50008-disneys-pooh-and-tiggers-hunny-safari.json](./50008-disneys-pooh-and-tiggers-hunny-safari.json) |
 | Disney's Pooh's Party Game: In Search of the Treasure | 43724 | [43724-disneys-poohs-party-game-in-search-of-the-treasure.json](./43724-disneys-poohs-party-game-in-search-of-the-treasure.json) |
 | Disney's Reading Quest with Aladdin | 208897 | [208897-disneys-reading-quest-with-aladdin.json](./208897-disneys-reading-quest-with-aladdin.json) |
@@ -16605,6 +16610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario BS Ban | 134437 | [134437-dr-mario-bs-ban.json](./134437-dr-mario-bs-ban.json) |
 | Dr. Mario Decloned | 324635 | [324635-dr-mario-decloned.json](./324635-dr-mario-decloned.json) |
 | Dr. Mario DX | 276341 | [276341-dr-mario-dx.json](./276341-dr-mario-dx.json) |
+| Dr. Mario Express | 47847 | [47847-dr-mario-express.json](./47847-dr-mario-express.json) |
 | Dr. Mario Mania | 357345 | [357345-dr-mario-mania.json](./357345-dr-mario-mania.json) |
 | Dr. Mario Online Rx | 21910 | [21910-dr-mario-online-rx.json](./21910-dr-mario-online-rx.json) |
 | Dr. Mario World | 114767 | [114767-dr-mario-world.json](./114767-dr-mario-world.json) |
