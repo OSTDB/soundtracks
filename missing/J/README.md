@@ -4853,6 +4853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice Fighting Force | 206948 | [206948-justice-fighting-force.json](./206948-justice-fighting-force.json) |
 | Justice For All | 224616 | [224616-justice-for-all.json](./224616-justice-for-all.json) |
 | Justice League | 220121 | [220121-justice-league.json](./220121-justice-league.json) |
+| Justice League Action Run | 27709 | [27709-justice-league-action-run.json](./27709-justice-league-action-run.json) |
 | Justice League Heroes | 197882 | [197882-justice-league-heroes.json](./197882-justice-league-heroes.json) |
 | Justice League Heroes | 248573 | [248573-justice-league-heroes.json](./248573-justice-league-heroes.json) |
 | Justice League Heroes | 5872 | [5872-justice-league-heroes.json](./5872-justice-league-heroes.json) |
