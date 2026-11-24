@@ -1451,7 +1451,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kathy Rain: Director's Cut | 142770 | [142770-kathy-rain-directors-cut.json](./142770-kathy-rain-directors-cut.json) |
 | Kathy Rain: Director's Cut - Deluxe Edition | 186517 | [186517-kathy-rain-directors-cut-deluxe-edition.json](./186517-kathy-rain-directors-cut-deluxe-edition.json) |
 | Kati the Astronaut | 212642 | [212642-kati-the-astronaut.json](./212642-kati-the-astronaut.json) |
-| Katie | 99612 | [99612-katie.json](./99612-katie.json) |
 | Katin Svět | 223679 | [223679-katin-svet.json](./223679-katin-svet.json) |
 | Katja's Abyss: Tactics | 145911 | [145911-katjas-abyss-tactics.json](./145911-katjas-abyss-tactics.json) |
 | Katja's Escape II: The Mad Scientist's Lab | 311298 | [311298-katjas-escape-ii-the-mad-scientists-lab.json](./311298-katjas-escape-ii-the-mad-scientists-lab.json) |
@@ -4214,7 +4213,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings of Lorn: The Fall of Ebris | 119284 | [119284-kings-of-lorn-the-fall-of-ebris.json](./119284-kings-of-lorn-the-fall-of-ebris.json) |
 | Kings of Paradise | 147307 | [147307-kings-of-paradise.json](./147307-kings-of-paradise.json) |
 | Kings of Soccer | 99265 | [99265-kings-of-soccer.json](./99265-kings-of-soccer.json) |
-| Kings of Soccer - Multiplayer Football Game | 100778 | [100778-kings-of-soccer-multiplayer-football-game.json](./100778-kings-of-soccer-multiplayer-football-game.json) |
 | Kings of Streets | 149402 | [149402-kings-of-streets.json](./149402-kings-of-streets.json) |
 | Kings of the Beach | 198795 | [198795-kings-of-the-beach.json](./198795-kings-of-the-beach.json) |
 | Kings of the Beach | 405048 | [405048-kings-of-the-beach.json](./405048-kings-of-the-beach.json) |
@@ -5764,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koezaru wa Akai Hana: Taiga ha Mirai wo Tsumugu | 222117 | [222117-koezaru-wa-akai-hana-taiga-ha-mirai-wo-tsumugu.json](./222117-koezaru-wa-akai-hana-taiga-ha-mirai-wo-tsumugu.json) |
 | KOF Chronicle | 117502 | [117502-kof-chronicle.json](./117502-kof-chronicle.json) |
 | KOF X Garou Densetsu | 63832 | [63832-kof-x-garou-densetsu.json](./63832-kof-x-garou-densetsu.json) |
+| KOF: Legend | 427525 | [427525-kof-legend.json](./427525-kof-legend.json) |
 | Koffi Yellow Copter | 40797 | [40797-koffi-yellow-copter.json](./40797-koffi-yellow-copter.json) |
 | Kofi Quest | 212631 | [212631-kofi-quest.json](./212631-kofi-quest.json) |
 | Kofi Quest: Alpha MOD | 83567 | [83567-kofi-quest-alpha-mod.json](./83567-kofi-quest-alpha-mod.json) |
