@@ -1214,7 +1214,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Salon | 24328 | [24328-sallys-salon.json](./24328-sallys-salon.json) |
 | Sally's Salon | 315369 | [315369-sallys-salon.json](./315369-sallys-salon.json) |
 | Sally's Salon: Beauty Secrets | 177061 | [177061-sallys-salon-beauty-secrets.json](./177061-sallys-salon-beauty-secrets.json) |
-| Sally's Salon: Kiss & Make-Up | 103439 | [103439-sallys-salon-kiss-and-make-up.json](./103439-sallys-salon-kiss-and-make-up.json) |
 | Sally's Salon: Kiss & Make-Up 💋 | 104453 | [104453-sallys-salon-kiss-and-make-up.json](./104453-sallys-salon-kiss-and-make-up.json) |
 | Sally's Spa | 67966 | [67966-sallys-spa.json](./67966-sallys-spa.json) |
 | Sally's Spa HD | 87725 | [87725-sallys-spa-hd.json](./87725-sallys-spa-hd.json) |
@@ -6858,6 +6857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam: The Greek Encounter | 79181 | [79181-serious-sam-the-greek-encounter.json](./79181-serious-sam-the-greek-encounter.json) |
 | Serious Sam: The Random Encounter | 10819 | [10819-serious-sam-the-random-encounter.json](./10819-serious-sam-the-random-encounter.json) |
 | Serious Sam: The Retro Encounter | 145554 | [145554-serious-sam-the-retro-encounter.json](./145554-serious-sam-the-retro-encounter.json) |
+| Serious Sam: The Third Encounter | 425052 | [425052-serious-sam-the-third-encounter.json](./425052-serious-sam-the-third-encounter.json) |
 | Serious Sam: Tormental | 116987 | [116987-serious-sam-tormental.json](./116987-serious-sam-tormental.json) |
 | Serious Sam: Winter Wonderland | 359886 | [359886-serious-sam-winter-wonderland.json](./359886-serious-sam-winter-wonderland.json) |
 | Serious Solitaire | 84236 | [84236-serious-solitaire.json](./84236-serious-solitaire.json) |
@@ -31619,6 +31619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoned | 352202 | [352202-stoned.json](./352202-stoned.json) |
 | Stoned to Death | 404767 | [404767-stoned-to-death.json](./404767-stoned-to-death.json) |
 | Stonedef | 202530 | [202530-stonedef.json](./202530-stonedef.json) |
+| StoneEra | 425045 | [425045-stoneera.json](./425045-stoneera.json) |
 | Stonefall | 416058 | [416058-stonefall.json](./416058-stonefall.json) |
 | Stonefeather | 421894 | [421894-stonefeather.json](./421894-stonefeather.json) |
 | Stonefly: Collector's Edition | 254225 | [254225-stonefly-collectors-edition.json](./254225-stonefly-collectors-edition.json) |
