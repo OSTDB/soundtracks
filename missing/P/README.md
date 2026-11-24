@@ -7341,6 +7341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piercing Blo | 58712 | [58712-piercing-blo.json](./58712-piercing-blo.json) |
 | Piercing Blow | 34944 | [34944-piercing-blow.json](./34944-piercing-blow.json) |
 | Piercing Fortress Europa | 129591 | [129591-piercing-fortress-europa.json](./129591-piercing-fortress-europa.json) |
+| Pierhead Arcade | 33687 | [33687-pierhead-arcade.json](./33687-pierhead-arcade.json) |
 | Pierhead Arcade 2 | 188081 | [188081-pierhead-arcade-2.json](./188081-pierhead-arcade-2.json) |
 | Piero's Pilgrimage | 236027 | [236027-pieros-pilgrimage.json](./236027-pieros-pilgrimage.json) |
 | Pierre Hotel | 310637 | [310637-pierre-hotel.json](./310637-pierre-hotel.json) |
@@ -18159,6 +18160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project CARS: Logitech Livery Pack | 353279 | [353279-project-cars-logitech-livery-pack.json](./353279-project-cars-logitech-livery-pack.json) |
 | Project CARS: Modified Car Pack | 120195 | [120195-project-cars-modified-car-pack.json](./120195-project-cars-modified-car-pack.json) |
 | Project CARS: Old Vs New Car Pack | 120194 | [120194-project-cars-old-vs-new-car-pack.json](./120194-project-cars-old-vs-new-car-pack.json) |
+| Project CARS: Pagani Edition | 33862 | [33862-project-cars-pagani-edition.json](./33862-project-cars-pagani-edition.json) |
 | Project CARS: Pagani Nürburgring Combined Track Expansion | 120187 | [120187-project-cars-pagani-nurburgring-combined-track-expansion.json](./120187-project-cars-pagani-nurburgring-combined-track-expansion.json) |
 | Project CARS: Perfect Edition | 136650 | [136650-project-cars-perfect-edition.json](./136650-project-cars-perfect-edition.json) |
 | Project CARS: Racing Icons Car Pack | 120197 | [120197-project-cars-racing-icons-car-pack.json](./120197-project-cars-racing-icons-car-pack.json) |
@@ -19027,6 +19029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProjectNimbus | 100205 | [100205-projectnimbus.json](./100205-projectnimbus.json) |
 | Projectopia World | 424100 | [424100-projectopia-world.json](./424100-projectopia-world.json) |
 | Projector | 202937 | [202937-projector.json](./202937-projector.json) |
+| Projector Face | 33820 | [33820-projector-face.json](./33820-projector-face.json) |
 | ProjectRIK | 60244 | [60244-projectrik.json](./60244-projectrik.json) |
 | ProjectTeo | 149932 | [149932-projectteo.json](./149932-projectteo.json) |
 | Projectyle | 15350 | [15350-projectyle.json](./15350-projectyle.json) |
@@ -19642,6 +19645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho-unstable Journey | 180792 | [180792-psycho-unstable-journey.json](./180792-psycho-unstable-journey.json) |
 | Psychoballs | 89401 | [89401-psychoballs.json](./89401-psychoballs.json) |
 | Psychobouldering | 328974 | [328974-psychobouldering.json](./328974-psychobouldering.json) |
+| Psychocat: The Answer | 33811 | [33811-psychocat-the-answer.json](./33811-psychocat-the-answer.json) |
 | Psychocat: The Door | 139670 | [139670-psychocat-the-door.json](./139670-psychocat-the-door.json) |
 | PsychoCudgel | 316641 | [316641-psychocudgel.json](./316641-psychocudgel.json) |
 | PsychoDive | 267288 | [267288-psychodive.json](./267288-psychodive.json) |
@@ -20024,6 +20028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse: Volume One | 22715 | [22715-pulse-volume-one.json](./22715-pulse-volume-one.json) |
 | Pulseball | 169536 | [169536-pulseball.json](./169536-pulseball.json) |
 | Pulsebreaker | 353643 | [353643-pulsebreaker.json](./353643-pulsebreaker.json) |
+| PulseCharge | 33610 | [33610-pulsecharge.json](./33610-pulsecharge.json) |
 | PulseChaser | 112320 | [112320-pulsechaser.json](./112320-pulsechaser.json) |
 | Pulseman | 45760 | [45760-pulseman.json](./45760-pulseman.json) |
 | Pulseman Amabilis | 215241 | [215241-pulseman-amabilis.json](./215241-pulseman-amabilis.json) |
@@ -21897,6 +21902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pythagorea | 57739 | [57739-pythagorea.json](./57739-pythagorea.json) |
 | Pythagorea 60° | 309096 | [309096-pythagorea-60.json](./309096-pythagorea-60.json) |
 | Pythagorean Complex | 130288 | [130288-pythagorean-complex.json](./130288-pythagorean-complex.json) |
+| Pythagoria | 33723 | [33723-pythagoria.json](./33723-pythagoria.json) |
 | Pythetron | 14892 | [14892-pythetron.json](./14892-pythetron.json) |
 | Pythian | 163922 | [163922-pythian.json](./163922-pythian.json) |
 | Pytho's Mask | 60016 | [60016-pythos-mask.json](./60016-pythos-mask.json) |
