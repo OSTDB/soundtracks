@@ -1293,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veg Slop | 401955 | [401955-veg-slop.json](./401955-veg-slop.json) |
 | Vega | 231107 | [231107-vega.json](./231107-vega.json) |
 | Vega | 235272 | [235272-vega.json](./235272-vega.json) |
+| Vega Conflict | 23627 | [23627-vega-conflict.json](./23627-vega-conflict.json) |
 | Vega Conflict: Bastion Cruiser Pack | 168309 | [168309-vega-conflict-bastion-cruiser-pack.json](./168309-vega-conflict-bastion-cruiser-pack.json) |
 | Vega Conflict: Cavalier Cutter Pack | 168313 | [168313-vega-conflict-cavalier-cutter-pack.json](./168313-vega-conflict-cavalier-cutter-pack.json) |
 | Vega Conflict: Dread Battleship Pack | 168310 | [168310-vega-conflict-dread-battleship-pack.json](./168310-vega-conflict-dread-battleship-pack.json) |
