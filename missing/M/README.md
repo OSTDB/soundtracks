@@ -25283,6 +25283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Sleeping Castle | 301467 | [301467-mystery-of-the-sleeping-castle.json](./301467-mystery-of-the-sleeping-castle.json) |
 | Mystery of Time and Space | 78675 | [78675-mystery-of-time-and-space.json](./78675-mystery-of-time-and-space.json) |
 | Mystery of Unicorn Castle | 368930 | [368930-mystery-of-unicorn-castle.json](./368930-mystery-of-unicorn-castle.json) |
+| Mystery of Unicorn Castle: The Beastmaster | 33876 | [33876-mystery-of-unicorn-castle-the-beastmaster.json](./33876-mystery-of-unicorn-castle-the-beastmaster.json) |
 | Mystery P.I. - Lost in Los Angeles | 14816 | [14816-mystery-p-i-lost-in-los-angeles.json](./14816-mystery-p-i-lost-in-los-angeles.json) |
 | Mystery P.I. - The New York Fortune | 14814 | [14814-mystery-p-i-the-new-york-fortune.json](./14814-mystery-p-i-the-new-york-fortune.json) |
 | Mystery P.I. - The Vegas Heist | 14812 | [14812-mystery-p-i-the-vegas-heist.json](./14812-mystery-p-i-the-vegas-heist.json) |
