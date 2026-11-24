@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Slasher Hero | 208955 | [208955-vampire-slasher-hero.json](./208955-vampire-slasher-hero.json) |
 | Vampire Slave: A Yaoi Visual Novel | 154122 | [154122-vampire-slave-a-yaoi-visual-novel.json](./154122-vampire-slave-a-yaoi-visual-novel.json) |
 | Vampire Slayer | 229227 | [229227-vampire-slayer.json](./229227-vampire-slayer.json) |
+| Vampire Slayer FPS | 428701 | [428701-vampire-slayer-fps.json](./428701-vampire-slayer-fps.json) |
 | Vampire Slayer: New Blood | 192618 | [192618-vampire-slayer-new-blood.json](./192618-vampire-slayer-new-blood.json) |
 | Vampire Slayer: The Resurrection | 231065 | [231065-vampire-slayer-the-resurrection.json](./231065-vampire-slayer-the-resurrection.json) |
 | Vampire Story | 241780 | [241780-vampire-story.json](./241780-vampire-story.json) |
