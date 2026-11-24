@@ -17638,6 +17638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakless | 137744 | [137744-breakless.json](./137744-breakless.json) |
 | Breakline | 147279 | [147279-breakline.json](./147279-breakline.json) |
 | BreakLoop | 383953 | [383953-breakloop.json](./383953-breakloop.json) |
+| Breakneck | 33751 | [33751-breakneck.json](./33751-breakneck.json) |
 | Breakneck | 78593 | [78593-breakneck.json](./78593-breakneck.json) |
 | Breakneck City | 127730 | [127730-breakneck-city.json](./127730-breakneck-city.json) |
 | Breakneck: Emergence | 123102 | [123102-breakneck-emergence.json](./123102-breakneck-emergence.json) |
@@ -18772,6 +18773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brushland | 424034 | [424034-brushland.json](./424034-brushland.json) |
 | Brushlings Pale Moon | 155968 | [155968-brushlings-pale-moon.json](./155968-brushlings-pale-moon.json) |
 | Brushpath | 424538 | [424538-brushpath.json](./424538-brushpath.json) |
+| Brushwood Buddies | 33692 | [33692-brushwood-buddies.json](./33692-brushwood-buddies.json) |
 | Brushwood Saga | 297938 | [297938-brushwood-saga.json](./297938-brushwood-saga.json) |
 | Brut@l | 14759 | [14759-brut-l.json](./14759-brut-l.json) |
 | Brutal | 407674 | [407674-brutal.json](./407674-brutal.json) |
