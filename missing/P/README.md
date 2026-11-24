@@ -8411,6 +8411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong Masters '93 | 65412 | [65412-ping-pong-masters-93.json](./65412-ping-pong-masters-93.json) |
 | Ping Pong Palz | 180508 | [180508-ping-pong-palz.json](./180508-ping-pong-palz.json) |
 | Ping Pong Peg | 226090 | [226090-ping-pong-peg.json](./226090-ping-pong-peg.json) |
+| Ping Pong Pow | 23605 | [23605-ping-pong-pow.json](./23605-ping-pong-pow.json) |
 | Ping Pong Power | 59599 | [59599-ping-pong-power.json](./59599-ping-pong-power.json) |
 | Ping Pong Pufferfish | 188985 | [188985-ping-pong-pufferfish.json](./188985-ping-pong-pufferfish.json) |
 | Ping Pong Run | 241565 | [241565-ping-pong-run.json](./241565-ping-pong-run.json) |
@@ -8986,6 +8987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates: The Legend of Black Kat | 5983 | [5983-pirates-the-legend-of-black-kat.json](./5983-pirates-the-legend-of-black-kat.json) |
 | Pirates: The Legend of the Kraken | 255185 | [255185-pirates-the-legend-of-the-kraken.json](./255185-pirates-the-legend-of-the-kraken.json) |
 | Pirates: The Spectacular Treasure Trail | 354720 | [354720-pirates-the-spectacular-treasure-trail.json](./354720-pirates-the-spectacular-treasure-trail.json) |
+| Pirates: Tides of Fortune | 23592 | [23592-pirates-tides-of-fortune.json](./23592-pirates-tides-of-fortune.json) |
 | Pirates: Treasure Hunters | 58332 | [58332-pirates-treasure-hunters.json](./58332-pirates-treasure-hunters.json) |
 | Pirates: Wind of Chaos | 248875 | [248875-pirates-wind-of-chaos.json](./248875-pirates-wind-of-chaos.json) |
 | Pirates! | 267320 | [267320-pirates.json](./267320-pirates.json) |
@@ -12212,6 +12214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PocketWorlds | 179405 | [179405-pocketworlds.json](./179405-pocketworlds.json) |
 | Pockey | 81177 | [81177-pockey.json](./81177-pockey.json) |
 | Pockie Ninja | 46944 | [46944-pockie-ninja.json](./46944-pockie-ninja.json) |
+| Pockie Pirates | 23594 | [23594-pockie-pirates.json](./23594-pockie-pirates.json) |
 | Pocky & Rocky Reshrined | 144285 | [144285-pocky-and-rocky-reshrined.json](./144285-pocky-and-rocky-reshrined.json) |
 | Poco a Poco | 177449 | [177449-poco-a-poco.json](./177449-poco-a-poco.json) |
 | Poco In | 155731 | [155731-poco-in.json](./155731-poco-in.json) |
@@ -20825,6 +20828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putinization | 102919 | [102919-putinization.json](./102919-putinization.json) |
 | Putinoids vs. Navalnyats | 100477 | [100477-putinoids-vs-navalnyats.json](./100477-putinoids-vs-navalnyats.json) |
 | Putlestory | 133628 | [133628-putlestory.json](./133628-putlestory.json) |
+| Putrefaction | 26533 | [26533-putrefaction.json](./26533-putrefaction.json) |
 | Putrefaction 2: Rumble in the Hometown | 68797 | [68797-putrefaction-2-rumble-in-the-hometown.json](./68797-putrefaction-2-rumble-in-the-hometown.json) |
 | Putrefaction 2: Void Walker | 30131 | [30131-putrefaction-2-void-walker.json](./30131-putrefaction-2-void-walker.json) |
 | Putrefier | 256824 | [256824-putrefier.json](./256824-putrefier.json) |
@@ -21366,6 +21370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Plowing A Field | 147681 | [147681-puzzle-plowing-a-field.json](./147681-puzzle-plowing-a-field.json) |
 | Puzzle Plunder | 110505 | [110505-puzzle-plunder.json](./110505-puzzle-plunder.json) |
 | Puzzle Plunder: Vampire Night | 163538 | [163538-puzzle-plunder-vampire-night.json](./163538-puzzle-plunder-vampire-night.json) |
+| Puzzle Poker | 23550 | [23550-puzzle-poker.json](./23550-puzzle-poker.json) |
 | Puzzle Pop | 246361 | [246361-puzzle-pop.json](./246361-puzzle-pop.json) |
 | Puzzle Prism | 215015 | [215015-puzzle-prism.json](./215015-puzzle-prism.json) |
 | Puzzle Puppers | 29812 | [29812-puzzle-puppers.json](./29812-puzzle-puppers.json) |
