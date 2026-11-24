@@ -5264,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Quest | 356666 | [356666-knights-quest.json](./356666-knights-quest.json) |
 | Knight's Raid: Lost Skytopia | 191608 | [191608-knights-raid-lost-skytopia.json](./191608-knights-raid-lost-skytopia.json) |
 | Knight's Redemption: War for Freedom | 298577 | [298577-knights-redemption-war-for-freedom.json](./298577-knights-redemption-war-for-freedom.json) |
+| Knight's Retreat | 132512 | [132512-knights-retreat.json](./132512-knights-retreat.json) |
 | Knight's Rush | 23923 | [23923-knights-rush.json](./23923-knights-rush.json) |
 | Knight's Saga Evil Goblins | 286989 | [286989-knights-saga-evil-goblins.json](./286989-knights-saga-evil-goblins.json) |
 | Knight's Tail: Tactics | 344150 | [344150-knights-tail-tactics.json](./344150-knights-tail-tactics.json) |
