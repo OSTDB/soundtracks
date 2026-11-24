@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic vs. Metal | 196572 | [196572-magic-vs-metal.json](./196572-magic-vs-metal.json) |
 | Magic vs. Mind | 311601 | [311601-magic-vs-mind.json](./311601-magic-vs-mind.json) |
 | Magic Walk | 193283 | [193283-magic-walk.json](./193283-magic-walk.json) |
+| Magic Wand | 27326 | [27326-magic-wand.json](./27326-magic-wand.json) |
 | Magic Wand | 311811 | [311811-magic-wand.json](./311811-magic-wand.json) |
 | Magic Wand | 377306 | [377306-magic-wand.json](./377306-magic-wand.json) |
 | Magic War | 201375 | [201375-magic-war.json](./201375-magic-war.json) |
@@ -11053,6 +11054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merv Griffin's Crosswords | 50945 | [50945-merv-griffins-crosswords.json](./50945-merv-griffins-crosswords.json) |
 | Merv Liberation | 112495 | [112495-merv-liberation.json](./112495-merv-liberation.json) |
 | Merv Reborn | 74594 | [74594-merv-reborn.json](./74594-merv-reborn.json) |
+| Mervils: A VR Adventure | 27385 | [27385-mervils-a-vr-adventure.json](./27385-mervils-a-vr-adventure.json) |
 | Mervin and the Wicked Station | 95246 | [95246-mervin-and-the-wicked-station.json](./95246-mervin-and-the-wicked-station.json) |
 | Meryll wants a Cookie | 183273 | [183273-meryll-wants-a-cookie.json](./183273-meryll-wants-a-cookie.json) |
 | Mes Comptines | 85283 | [85283-mes-comptines.json](./85283-mes-comptines.json) |
@@ -19780,6 +19782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoriArashi | 205235 | [205235-moriarashi.json](./205235-moriarashi.json) |
 | Moriarty Chronicles | 236573 | [236573-moriarty-chronicles.json](./236573-moriarty-chronicles.json) |
 | Moriarty: Endgame VR | 29069 | [29069-moriarty-endgame-vr.json](./29069-moriarty-endgame-vr.json) |
+| Moribund | 27882 | [27882-moribund.json](./27882-moribund.json) |
 | Moribund Gold: A Pirate Adventure | 401054 | [401054-moribund-gold-a-pirate-adventure.json](./401054-moribund-gold-a-pirate-adventure.json) |
 | Moribunderland | 183964 | [183964-moribunderland.json](./183964-moribunderland.json) |
 | Morigami | 260613 | [260613-morigami.json](./260613-morigami.json) |
@@ -22658,6 +22661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushi no Me Matsuri | 395968 | [395968-mushi-no-me-matsuri.json](./395968-mushi-no-me-matsuri.json) |
 | Mushi Taro | 279223 | [279223-mushi-taro.json](./279223-mushi-taro.json) |
 | Mushi! Machi no Konchuu Monogatari | 284160 | [284160-mushi-machi-no-konchuu-monogatari.json](./284160-mushi-machi-no-konchuu-monogatari.json) |
+| Mushihime-sama Futari | 27626 | [27626-mushihime-sama-futari.json](./27626-mushihime-sama-futari.json) |
 | Mushihime-sama Futari Ver 1.5 | 413697 | [413697-mushihime-sama-futari-ver-1-5.json](./413697-mushihime-sama-futari-ver-1-5.json) |
 | Mushihime-sama Futari: Black Label | 79369 | [79369-mushihime-sama-futari-black-label.json](./79369-mushihime-sama-futari-black-label.json) |
 | Mushihimesama | 11051 | [11051-mushihimesama.json](./11051-mushihimesama.json) |
