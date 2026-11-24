@@ -3909,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Adv Steins;Gate | 185787 | [185787-8-bit-adv-steins-gate.json](./185787-8-bit-adv-steins-gate.json) |
 | 8-Bit Adventures 1: Bundle | 186538 | [186538-8-bit-adventures-1-bundle.json](./186538-8-bit-adventures-1-bundle.json) |
 | 8-Bit Adventures 1+2 Bundle | 237592 | [237592-8-bit-adventures-1-2-bundle.json](./237592-8-bit-adventures-1-2-bundle.json) |
+| 8-Bit Adventures 2 | 74653 | [74653-8-bit-adventures-2.json](./74653-8-bit-adventures-2.json) |
 | 8-Bit Adventures: The Forgotten Journey | 139719 | [139719-8-bit-adventures-the-forgotten-journey.json](./139719-8-bit-adventures-the-forgotten-journey.json) |
 | 8-Bit Adventures: The Forgotten Journey - Remastered Edition | 35235 | [35235-8-bit-adventures-the-forgotten-journey-remastered-edition.json](./35235-8-bit-adventures-the-forgotten-journey-remastered-edition.json) |
 | 8-Bit Arena VR | 30627 | [30627-8-bit-arena-vr.json](./30627-8-bit-arena-vr.json) |
