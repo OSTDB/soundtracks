@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Storia della Arcana Famiglia | 81580 | [81580-la-storia-della-arcana-famiglia.json](./81580-la-storia-della-arcana-famiglia.json) |
 | La storia della Arcana Famiglia 2 | 213834 | [213834-la-storia-della-arcana-famiglia-2.json](./213834-la-storia-della-arcana-famiglia-2.json) |
 | La storia della Arcana Famiglia: Rinato | 339376 | [339376-la-storia-della-arcana-famiglia-rinato.json](./339376-la-storia-della-arcana-famiglia-rinato.json) |
+| LA Street Racing | 27553 | [27553-la-street-racing.json](./27553-la-street-racing.json) |
 | La Table des Savoirs | 387434 | [387434-la-table-des-savoirs.json](./387434-la-table-des-savoirs.json) |
 | La Tailor Girl | 198353 | [198353-la-tailor-girl.json](./198353-la-tailor-girl.json) |
 | La Tale | 16856 | [16856-la-tale.json](./16856-la-tale.json) |
@@ -2844,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left to Rot | 217055 | [217055-left-to-rot.json](./217055-left-to-rot.json) |
 | Left to Survive | 106608 | [106608-left-to-survive.json](./106608-left-to-survive.json) |
 | Left Turn Legend | 297515 | [297515-left-turn-legend.json](./297515-left-turn-legend.json) |
+| Left-Hand Path | 32901 | [32901-left-hand-path.json](./32901-left-hand-path.json) |
 | Left-Right: The Mansion | 114202 | [114202-left-right-the-mansion.json](./114202-left-right-the-mansion.json) |
 | Left! Left! LEFT! | 425554 | [425554-left-left-left.json](./425554-left-left-left.json) |
 | Left. | 265979 | [265979-left.json](./265979-left.json) |
@@ -3196,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Seven Paladins | 140401 | [140401-legend-of-the-seven-paladins.json](./140401-legend-of-the-seven-paladins.json) |
 | Legend of the Silver Fox | 182734 | [182734-legend-of-the-silver-fox.json](./182734-legend-of-the-silver-fox.json) |
 | Legend of the Silver Talisman | 170053 | [170053-legend-of-the-silver-talisman.json](./170053-legend-of-the-silver-talisman.json) |
+| Legend of the Skyfish | 27604 | [27604-legend-of-the-skyfish.json](./27604-legend-of-the-skyfish.json) |
 | Legend of the Skyfish 2 | 94965 | [94965-legend-of-the-skyfish-2.json](./94965-legend-of-the-skyfish-2.json) |
 | Legend of the Storm | 340911 | [340911-legend-of-the-storm.json](./340911-legend-of-the-storm.json) |
 | Legend of the Sword | 15248 | [15248-legend-of-the-sword.json](./15248-legend-of-the-sword.json) |
@@ -5134,6 +5137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lies of P: Overture Bundle | 348364 | [348364-lies-of-p-overture-bundle.json](./348364-lies-of-p-overture-bundle.json) |
 | Lies Under Ice | 148989 | [148989-lies-under-ice.json](./148989-lies-under-ice.json) |
 | Liese in the City of Trials | 358928 | [358928-liese-in-the-city-of-trials.json](./358928-liese-in-the-city-of-trials.json) |
+| Lieve Oma | 27648 | [27648-lieve-oma.json](./27648-lieve-oma.json) |
 | Lièyàn Chuánqí | 154348 | [154348-lieyan-chuanqi.json](./154348-lieyan-chuanqi.json) |
 | Lif | 35869 | [35869-lif.json](./35869-lif.json) |
 | Life // Blood | 293679 | [293679-life-blood.json](./293679-life-blood.json) |
@@ -5416,6 +5420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifespan | 173419 | [173419-lifespan.json](./173419-lifespan.json) |
 | Lifespan 5seconds | 107701 | [107701-lifespan-5seconds.json](./107701-lifespan-5seconds.json) |
 | Lifespawn | 169534 | [169534-lifespawn.json](./169534-lifespawn.json) |
+| Lifespeed | 27386 | [27386-lifespeed.json](./27386-lifespeed.json) |
 | Lifestream - A Haunting Text Adventure | 31344 | [31344-lifestream-a-haunting-text-adventure.json](./31344-lifestream-a-haunting-text-adventure.json) |
 | Lifestyle Manager | 64007 | [64007-lifestyle-manager.json](./64007-lifestyle-manager.json) |
 | Lifetakers & Heartbreakers | 340917 | [340917-lifetakers-and-heartbreakers.json](./340917-lifetakers-and-heartbreakers.json) |
