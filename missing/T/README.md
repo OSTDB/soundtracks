@@ -7082,6 +7082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms: Last Expedition | 260284 | [260284-the-backrooms-last-expedition.json](./260284-the-backrooms-last-expedition.json) |
 | The Backrooms: Liminal Reality | 238066 | [238066-the-backrooms-liminal-reality.json](./238066-the-backrooms-liminal-reality.json) |
 | The Backrooms: Liminal Space | 379849 | [379849-the-backrooms-liminal-space.json](./379849-the-backrooms-liminal-space.json) |
+| The Backrooms: Liminalphobia | 428712 | [428712-the-backrooms-liminalphobia.json](./428712-the-backrooms-liminalphobia.json) |
 | The Backrooms: Lost Tape | 197312 | [197312-the-backrooms-lost-tape.json](./197312-the-backrooms-lost-tape.json) |
 | The Backrooms: Lost to the Dark | 370141 | [370141-the-backrooms-lost-to-the-dark.json](./370141-the-backrooms-lost-to-the-dark.json) |
 | The Backrooms: Mass Extinction | 203558 | [203558-the-backrooms-mass-extinction.json](./203558-the-backrooms-mass-extinction.json) |
@@ -7639,6 +7640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bleakest Keep 2 | 421073 | [421073-the-bleakest-keep-2.json](./421073-the-bleakest-keep-2.json) |
 | The Bleeding Tower Of Pisa | 272924 | [272924-the-bleeding-tower-of-pisa.json](./272924-the-bleeding-tower-of-pisa.json) |
 | The Bleeding Tree | 184849 | [184849-the-bleeding-tree.json](./184849-the-bleeding-tree.json) |
+| The Blessed Fool | 428803 | [428803-the-blessed-fool.json](./428803-the-blessed-fool.json) |
 | The Blessing of Airon | 346638 | [346638-the-blessing-of-airon.json](./346638-the-blessing-of-airon.json) |
 | The Blight | 204930 | [204930-the-blight.json](./204930-the-blight.json) |
 | The Blight RPG | 112127 | [112127-the-blight-rpg.json](./112127-the-blight-rpg.json) |
@@ -11007,6 +11009,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Finals: Season 11 Starter Pack | 409999 | [409999-the-finals-season-11-starter-pack.json](./409999-the-finals-season-11-starter-pack.json) |
 | The Finals: Season 11 Ultimate Battle Pass Bundle | 409998 | [409998-the-finals-season-11-ultimate-battle-pass-bundle.json](./409998-the-finals-season-11-ultimate-battle-pass-bundle.json) |
 | The Finals: Season 12 - Prime Time | 424803 | [424803-the-finals-season-12-prime-time.json](./424803-the-finals-season-12-prime-time.json) |
+| The Finals: Season 12 Starter Pack | 428717 | [428717-the-finals-season-12-starter-pack.json](./428717-the-finals-season-12-starter-pack.json) |
+| The Finals: Season 12 Ultimate Battle Pass Bundle | 428718 | [428718-the-finals-season-12-ultimate-battle-pass-bundle.json](./428718-the-finals-season-12-ultimate-battle-pass-bundle.json) |
 | The Finals: Season 2 | 290770 | [290770-the-finals-season-2.json](./290770-the-finals-season-2.json) |
 | The Finals: Season 3 | 305025 | [305025-the-finals-season-3.json](./305025-the-finals-season-3.json) |
 | The Finals: Season 3 Starter Pack | 305527 | [305527-the-finals-season-3-starter-pack.json](./305527-the-finals-season-3-starter-pack.json) |
@@ -11353,6 +11357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fox Awaits Me | 131983 | [131983-the-fox-awaits-me.json](./131983-the-fox-awaits-me.json) |
 | The Fox Awaits Me Hana | 265642 | [265642-the-fox-awaits-me-hana.json](./265642-the-fox-awaits-me-hana.json) |
 | The Fox Awaits Me: Limited Edition | 188644 | [188644-the-fox-awaits-me-limited-edition.json](./188644-the-fox-awaits-me-limited-edition.json) |
+| The Fox Exorcist Wanted to Be Respected. | 428804 | [428804-the-fox-exorcist-wanted-to-be-respected.json](./428804-the-fox-exorcist-wanted-to-be-respected.json) |
 | The Fox Hare Disaster: Chapter One | 321882 | [321882-the-fox-hare-disaster-chapter-one.json](./321882-the-fox-hare-disaster-chapter-one.json) |
 | The Fox in the Forest | 177618 | [177618-the-fox-in-the-forest.json](./177618-the-fox-in-the-forest.json) |
 | The Fox of Capistrano | 407404 | [407404-the-fox-of-capistrano.json](./407404-the-fox-of-capistrano.json) |
@@ -11833,6 +11838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Goracle | 107394 | [107394-the-goracle.json](./107394-the-goracle.json) |
 | The Gorcs' Forge | 158573 | [158573-the-gorcs-forge.json](./158573-the-gorcs-forge.json) |
 | The Gorge | 322392 | [322392-the-gorge.json](./322392-the-gorge.json) |
+| The Gorge | 428794 | [428794-the-gorge.json](./428794-the-gorge.json) |
 | The Gorilla Man | 48760 | [48760-the-gorilla-man.json](./48760-the-gorilla-man.json) |
 | The Gostak | 60655 | [60655-the-gostak.json](./60655-the-gostak.json) |
 | The Goto Family's: The Island Murder Case | 150112 | [150112-the-goto-familys-the-island-murder-case.json](./150112-the-goto-familys-the-island-murder-case.json) |
@@ -22874,6 +22880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theresia | 21300 | [21300-theresia.json](./21300-theresia.json) |
 | Theresia | 425405 | [425405-theresia.json](./425405-theresia.json) |
 | Theresia II: Dear Lizst | 425404 | [425404-theresia-ii-dear-lizst.json](./425404-theresia-ii-dear-lizst.json) |
+| Theresmore | 429304 | [429304-theresmore.json](./429304-theresmore.json) |
 | Therian Crush: Wild Animal Boys | 413959 | [413959-therian-crush-wild-animal-boys.json](./413959-therian-crush-wild-animal-boys.json) |
 | Therian Crush: Wild Animal Girls | 414453 | [414453-therian-crush-wild-animal-girls.json](./414453-therian-crush-wild-animal-girls.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
@@ -23106,6 +23113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief: The Complete Collection | 275496 | [275496-thief-the-complete-collection.json](./275496-thief-the-complete-collection.json) |
 | Thief: The Dark Project | 2 | [2-thief-the-dark-project.json](./2-thief-the-dark-project.json) |
 | Thief: The Dark Project Remastered | 405156 | [405156-thief-the-dark-project-remastered.json](./405156-thief-the-dark-project-remastered.json) |
+| Thief: The Dark Project Remastered - Digital Deluxe Edition | 428721 | [428721-thief-the-dark-project-remastered-digital-deluxe-edition.json](./428721-thief-the-dark-project-remastered-digital-deluxe-edition.json) |
 | Thief: The Trail of the Arch-Heretic | 268465 | [268465-thief-the-trail-of-the-arch-heretic.json](./268465-thief-the-trail-of-the-arch-heretic.json) |
 | Thief's Adventure | 372490 | [372490-thiefs-adventure.json](./372490-thiefs-adventure.json) |
 | Thief's Market | 384798 | [384798-thiefs-market.json](./384798-thiefs-market.json) |
@@ -27084,6 +27092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tincan HD | 333079 | [333079-tincan-hd.json](./333079-tincan-hd.json) |
 | Tincan Race | 383560 | [383560-tincan-race.json](./383560-tincan-race.json) |
 | Tincan! Escape | 85444 | [85444-tincan-escape.json](./85444-tincan-escape.json) |
+| Tincha | 431184 | [431184-tincha.json](./431184-tincha.json) |
 | Tindark | 400436 | [400436-tindark.json](./400436-tindark.json) |
 | Tinge | 68884 | [68884-tinge.json](./68884-tinge.json) |
 | Tinge 2 | 68882 | [68882-tinge-2.json](./68882-tinge-2.json) |
@@ -29536,6 +29545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Fast | 183913 | [183913-too-fast.json](./183913-too-fast.json) |
 | Too Fast RPG | 240277 | [240277-too-fast-rpg.json](./240277-too-fast-rpg.json) |
 | Too Fazed | 183812 | [183812-too-fazed.json](./183812-too-fazed.json) |
+| Too Fun | 431205 | [431205-too-fun.json](./431205-too-fun.json) |
 | Too Hot to Be True | 406715 | [406715-too-hot-to-be-true.json](./406715-too-hot-to-be-true.json) |
 | Too Hot to Handle 2 Netflix | 257782 | [257782-too-hot-to-handle-2-netflix.json](./257782-too-hot-to-handle-2-netflix.json) |
 | Too Hot to Handle 3 | 305103 | [305103-too-hot-to-handle-3.json](./305103-too-hot-to-handle-3.json) |
@@ -31236,6 +31246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tow Truck: Max | 102137 | [102137-tow-truck-max.json](./102137-tow-truck-max.json) |
 | Towa and the Guardians of the Sacred Tree: Deluxe Edition | 349599 | [349599-towa-and-the-guardians-of-the-sacred-tree-deluxe-edition.json](./349599-towa-and-the-guardians-of-the-sacred-tree-deluxe-edition.json) |
 | Towa no Sakura | 203199 | [203199-towa-no-sakura.json](./203199-towa-no-sakura.json) |
+| Towa Powa | 428702 | [428702-towa-powa.json](./428702-towa-powa.json) |
 | Towa Tsugai | 222776 | [222776-towa-tsugai.json](./222776-towa-tsugai.json) |
 | Towaga | 96340 | [96340-towaga.json](./96340-towaga.json) |
 | Towaga 2 | 116641 | [116641-towaga-2.json](./116641-towaga-2.json) |
