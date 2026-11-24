@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-24T14:25:58.217Z",
-  "total_soundtracks": 3941,
+  "generated_at": "2026-11-24T15:26:12.770Z",
+  "total_soundtracks": 3942,
   "games": [
     {
       "igdb_id": 292844,
@@ -23027,6 +23027,20 @@
         {
           "album_name": "Land of Screens (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/21OBljMbBom5zjUMZtOFbH",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 99162,
+      "game_name": "Landinar: Into the Void",
+      "game_url": "https://ostdb.net/games/landinar-into-the-void",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273db4827141a914c10f4ec96e4",
+      "albums": [
+        {
+          "album_name": "Landinar: Into the Void (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7sfEizNlqI0SgPHj8dZ1qU",
           "apple_music_url": "",
           "album_link_url": ""
         }
