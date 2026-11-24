@@ -3157,6 +3157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nervous Brickdown | 9507 | [9507-nervous-brickdown.json](./9507-nervous-brickdown.json) |
 | Nervous Granny | 187170 | [187170-nervous-granny.json](./187170-nervous-granny.json) |
 | Nervous Pinguin | 96034 | [96034-nervous-pinguin.json](./96034-nervous-pinguin.json) |
+| NES Classic Edition | 213361 | [213361-nes-classic-edition.json](./213361-nes-classic-edition.json) |
 | NES Classics | 328666 | [328666-nes-classics.json](./328666-nes-classics.json) |
 | NES Classics | 392737 | [392737-nes-classics.json](./392737-nes-classics.json) |
 | NES Open Tournament Golf | 3400 | [3400-nes-open-tournament-golf.json](./3400-nes-open-tournament-golf.json) |
@@ -6274,6 +6275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninth Circle | 421307 | [421307-ninth-circle.json](./421307-ninth-circle.json) |
 | Ninth Day Memorial | 318721 | [318721-ninth-day-memorial.json](./318721-ninth-day-memorial.json) |
 | Ninth Hotel | 328189 | [328189-ninth-hotel.json](./328189-ninth-hotel.json) |
+| Ninza | 209419 | [209419-ninza.json](./209419-ninza.json) |
 | Nioh 2 | 103330 | [103330-nioh-2.json](./103330-nioh-2.json) |
 | Nioh 2 Remastered: The Complete Edition | 143350 | [143350-nioh-2-remastered-the-complete-edition.json](./143350-nioh-2-remastered-the-complete-edition.json) |
 | Nioh 2 Season Pass | 140055 | [140055-nioh-2-season-pass.json](./140055-nioh-2-season-pass.json) |
