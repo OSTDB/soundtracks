@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
 | Land of the Mage Lords | 208551 | [208551-land-of-the-mage-lords.json](./208551-land-of-the-mage-lords.json) |
 | Land of the Survivors | 249028 | [249028-land-of-the-survivors.json](./249028-land-of-the-survivors.json) |
+| Land of the Vikings | 211376 | [211376-land-of-the-vikings.json](./211376-land-of-the-vikings.json) |
 | Land of the Vikings: Dage Island | 316374 | [316374-land-of-the-vikings-dage-island.json](./316374-land-of-the-vikings-dage-island.json) |
 | Land of the Vikings: Thralls | 321832 | [321832-land-of-the-vikings-thralls.json](./321832-land-of-the-vikings-thralls.json) |
 | Land of the Void | 115363 | [115363-land-of-the-void.json](./115363-land-of-the-void.json) |
@@ -4142,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Manley in: Lost in L.A. | 72090 | [72090-les-manley-in-lost-in-l-a.json](./72090-les-manley-in-lost-in-l-a.json) |
 | Les Manley in: Search for the King | 73837 | [73837-les-manley-in-search-for-the-king.json](./73837-les-manley-in-search-for-the-king.json) |
 | Les Migeons | 183718 | [183718-les-migeons.json](./183718-les-migeons.json) |
+| Les Mills XR Bodycombat | 204582 | [204582-les-mills-xr-bodycombat.json](./204582-les-mills-xr-bodycombat.json) |
 | Les Mills XR Bodycombat 100 | 380584 | [380584-les-mills-xr-bodycombat-100.json](./380584-les-mills-xr-bodycombat-100.json) |
 | Les Mills XR Bodycombat: Bonus Club | 380585 | [380585-les-mills-xr-bodycombat-bonus-club.json](./380585-les-mills-xr-bodycombat-bonus-club.json) |
 | Les Mills XR Bodycombat: Focus Mode | 380586 | [380586-les-mills-xr-bodycombat-focus-mode.json](./380586-les-mills-xr-bodycombat-focus-mode.json) |
@@ -7073,6 +7075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Mouse's Encyclopedia: Ultimate Edition | 231268 | [231268-little-mouses-encyclopedia-ultimate-edition.json](./231268-little-mouses-encyclopedia-ultimate-edition.json) |
 | Little My Maid | 70480 | [70480-little-my-maid.json](./70480-little-my-maid.json) |
 | Little Necromancer | 295944 | [295944-little-necromancer.json](./295944-little-necromancer.json) |
+| Little Nemo and the Guardians of Slumberland | 204380 | [204380-little-nemo-and-the-guardians-of-slumberland.json](./204380-little-nemo-and-the-guardians-of-slumberland.json) |
 | Little Nemo and the Nightmare Fiends | 208309 | [208309-little-nemo-and-the-nightmare-fiends.json](./208309-little-nemo-and-the-nightmare-fiends.json) |
 | Little Nemo the Clown | 213609 | [213609-little-nemo-the-clown.json](./213609-little-nemo-the-clown.json) |
 | Little Nemo: The Dream Master | 9160 | [9160-little-nemo-the-dream-master.json](./9160-little-nemo-the-dream-master.json) |
@@ -8316,6 +8319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Pine | 373641 | [373641-lone-pine.json](./373641-lone-pine.json) |
 | Lone Pirate VR | 38794 | [38794-lone-pirate-vr.json](./38794-lone-pirate-vr.json) |
 | Lone Planet | 196956 | [196956-lone-planet.json](./196956-lone-planet.json) |
+| Lone Ruin | 204013 | [204013-lone-ruin.json](./204013-lone-ruin.json) |
 | Lone Samurai. | 100666 | [100666-lone-samurai.json](./100666-lone-samurai.json) |
 | Lone Shadow | 370997 | [370997-lone-shadow.json](./370997-lone-shadow.json) |
 | Lone Siren | 124670 | [124670-lone-siren.json](./124670-lone-siren.json) |
