@@ -1249,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Economic Miracle | 361486 | [361486-economic-miracle.json](./361486-economic-miracle.json) |
 | Economic War | 202701 | [202701-economic-war.json](./202701-economic-war.json) |
 | Economica | 131218 | [131218-economica.json](./131218-economica.json) |
+| Economics Rulez | 428703 | [428703-economics-rulez.json](./428703-economics-rulez.json) |
 | Economy Bros | 423176 | [423176-economy-bros.json](./423176-economy-bros.json) |
 | Economy Bundle | 193740 | [193740-economy-bundle.json](./193740-economy-bundle.json) |
 | Ecoplanet | 217224 | [217224-ecoplanet.json](./217224-ecoplanet.json) |
@@ -1298,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed, Edd n Eddy: Ed Over Heels | 203093 | [203093-ed-edd-n-eddy-ed-over-heels.json](./203093-ed-edd-n-eddy-ed-over-heels.json) |
 | Ed, Edd n Eddy: Jawbreakers! | 2816 | [2816-ed-edd-n-eddy-jawbreakers.json](./2816-ed-edd-n-eddy-jawbreakers.json) |
 | Ed, Edd n Eddy: Lunchroom Rumble | 203096 | [203096-ed-edd-n-eddy-lunchroom-rumble.json](./203096-ed-edd-n-eddy-lunchroom-rumble.json) |
+| Ed, Edd n Eddy: Pursuit of Jawbreakers | 428710 | [428710-ed-edd-n-eddy-pursuit-of-jawbreakers.json](./428710-ed-edd-n-eddy-pursuit-of-jawbreakers.json) |
 | Ed, Edd n Eddy: Scam of the Century | 2817 | [2817-ed-edd-n-eddy-scam-of-the-century.json](./2817-ed-edd-n-eddy-scam-of-the-century.json) |
 | Ed, Edd n Eddy: Spin Stadium | 142288 | [142288-ed-edd-n-eddy-spin-stadium.json](./142288-ed-edd-n-eddy-spin-stadium.json) |
 | Ed, Edd n Eddy: The Mis-Edventures | 248473 | [248473-ed-edd-n-eddy-the-mis-edventures.json](./248473-ed-edd-n-eddy-the-mis-edventures.json) |
@@ -1942,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ego in a Coma | 141616 | [141616-ego-in-a-coma.json](./141616-ego-in-a-coma.json) |
 | Ego Joe the Idiot Mall Cop | 181199 | [181199-ego-joe-the-idiot-mall-cop.json](./181199-ego-joe-the-idiot-mall-cop.json) |
 | Ego League | 373768 | [373768-ego-league.json](./373768-ego-league.json) |
+| Ego Lifting Simulator | 429306 | [429306-ego-lifting-simulator.json](./429306-ego-lifting-simulator.json) |
 | Ego Protocol | 33930 | [33930-ego-protocol.json](./33930-ego-protocol.json) |
 | Ego Protocol: Remastered | 144688 | [144688-ego-protocol-remastered.json](./144688-ego-protocol-remastered.json) |
 | Ego's Spark | 280158 | [280158-egos-spark.json](./280158-egos-spark.json) |
@@ -2039,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eight Dragons 2 | 307674 | [307674-eight-dragons-2.json](./307674-eight-dragons-2.json) |
 | Eight Forces | 39868 | [39868-eight-forces.json](./39868-eight-forces.json) |
 | Eight Legged Freaks | 74821 | [74821-eight-legged-freaks.json](./74821-eight-legged-freaks.json) |
+| Eight Legs, Seven Nights | 431198 | [431198-eight-legs-seven-nights.json](./431198-eight-legs-seven-nights.json) |
 | Eight Mini Racers | 33694 | [33694-eight-mini-racers.json](./33694-eight-mini-racers.json) |
 | Eight Pool Fever | 322586 | [322586-eight-pool-fever.json](./322586-eight-pool-fever.json) |
 | Eight Stones | 123739 | [123739-eight-stones.json](./123739-eight-stones.json) |
@@ -7312,6 +7316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etos | 260546 | [260546-etos.json](./260546-etos.json) |
 | Etrange Overlord | 376699 | [376699-etrange-overlord.json](./376699-etrange-overlord.json) |
 | Etrange Overlord: Launch Edition | 401968 | [401968-etrange-overlord-launch-edition.json](./401968-etrange-overlord-launch-edition.json) |
+| Etranger In the City of Doom | 429302 | [429302-etranger-in-the-city-of-doom.json](./429302-etranger-in-the-city-of-doom.json) |
 | Etre | 270182 | [270182-etre.json](./270182-etre.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
 | Etrian Mystery Dungeon 2 | 27960 | [27960-etrian-mystery-dungeon-2.json](./27960-etrian-mystery-dungeon-2.json) |
