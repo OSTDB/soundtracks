@@ -5186,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello inc VR | 28941 | [28941-hello-inc-vr.json](./28941-hello-inc-vr.json) |
 | Hello Kitty & Friends: Rock n' World Tour | 83210 | [83210-hello-kitty-and-friends-rock-n-world-tour.json](./83210-hello-kitty-and-friends-rock-n-world-tour.json) |
 | Hello Kitty and Friends: Freeze Tag Party | 371418 | [371418-hello-kitty-and-friends-freeze-tag-party.json](./371418-hello-kitty-and-friends-freeze-tag-party.json) |
+| Hello Kitty and Friends: Happiness Parade | 204458 | [204458-hello-kitty-and-friends-happiness-parade.json](./204458-hello-kitty-and-friends-happiness-parade.json) |
 | Hello Kitty and Sanrio Friends Racing | 35243 | [35243-hello-kitty-and-sanrio-friends-racing.json](./35243-hello-kitty-and-sanrio-friends-racing.json) |
 | Hello Kitty and the Apron of Magic: Rhythm Cooking | 84525 | [84525-hello-kitty-and-the-apron-of-magic-rhythm-cooking.json](./84525-hello-kitty-and-the-apron-of-magic-rhythm-cooking.json) |
 | Hello Kitty AR Kawaii World | 121933 | [121933-hello-kitty-ar-kawaii-world.json](./121933-hello-kitty-ar-kawaii-world.json) |
@@ -10943,6 +10944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homerun Touchdown 2017 | 137588 | [137588-homerun-touchdown-2017.json](./137588-homerun-touchdown-2017.json) |
 | Homerun: Spin-Off Forever | 342815 | [342815-homerun-spin-off-forever.json](./342815-homerun-spin-off-forever.json) |
 | Homescapes | 68316 | [68316-homescapes.json](./68316-homescapes.json) |
+| Homeseek | 214384 | [214384-homeseek.json](./214384-homeseek.json) |
 | Homeshift | 372597 | [372597-homeshift.json](./372597-homeshift.json) |
 | Homesick | 11634 | [11634-homesick.json](./11634-homesick.json) |
 | Homesickened | 244991 | [244991-homesickened.json](./244991-homesickened.json) |
@@ -13700,6 +13702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humankind in a nutshell | 188988 | [188988-humankind-in-a-nutshell.json](./188988-humankind-in-a-nutshell.json) |
 | Humankind: Collection | 205091 | [205091-humankind-collection.json](./205091-humankind-collection.json) |
 | Humankind: Cultures of Africa | 188046 | [188046-humankind-cultures-of-africa.json](./188046-humankind-cultures-of-africa.json) |
+| Humankind: Cultures of Latin America | 204362 | [204362-humankind-cultures-of-latin-america.json](./204362-humankind-cultures-of-latin-america.json) |
 | Humankind: Cultures of Oceania Pack | 264004 | [264004-humankind-cultures-of-oceania-pack.json](./264004-humankind-cultures-of-oceania-pack.json) |
 | Humankind: Day One Edition | 139935 | [139935-humankind-day-one-edition.json](./139935-humankind-day-one-edition.json) |
 | Humankind: Definitive Edition | 283778 | [283778-humankind-definitive-edition.json](./283778-humankind-definitive-edition.json) |
@@ -14554,6 +14557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Gauntlet: Legacy of Nozzlethruster III | 134697 | [134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json](./134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json) |
 | Hyper Gods | 22094 | [22094-hyper-gods.json](./22094-hyper-gods.json) |
 | Hyper Groove AX | 426830 | [426830-hyper-groove-ax.json](./426830-hyper-groove-ax.json) |
+| Hyper Gunsport | 204825 | [204825-hyper-gunsport.json](./204825-hyper-gunsport.json) |
 | Hyper Gym Life 3D: Tough Guys | 270477 | [270477-hyper-gym-life-3d-tough-guys.json](./270477-hyper-gym-life-3d-tough-guys.json) |
 | Hyper Hentai Bikini Party | 246814 | [246814-hyper-hentai-bikini-party.json](./246814-hyper-hentai-bikini-party.json) |
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
