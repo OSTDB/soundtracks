@@ -3504,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Wuxia | 138747 | [138747-path-of-wuxia.json](./138747-path-of-wuxia.json) |
 | Path of Yuusha | 237108 | [237108-path-of-yuusha.json](./237108-path-of-yuusha.json) |
 | Path of Zen | 128096 | [128096-path-of-zen.json](./128096-path-of-zen.json) |
+| Path Out | 74116 | [74116-path-out.json](./74116-path-out.json) |
 | Path to Christmas | 221279 | [221279-path-to-christmas.json](./221279-path-to-christmas.json) |
 | Path To Dragon | 301711 | [301711-path-to-dragon.json](./301711-path-to-dragon.json) |
 | Path to Etinway | 161405 | [161405-path-to-etinway.json](./161405-path-to-etinway.json) |
