@@ -5732,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Championship Wrestling | 137618 | [137618-international-championship-wrestling.json](./137618-international-championship-wrestling.json) |
 | International Cricket | 65196 | [65196-international-cricket.json](./65196-international-cricket.json) |
 | International Cricket 2010 | 22961 | [22961-international-cricket-2010.json](./22961-international-cricket-2010.json) |
+| International Cricket Captain | 23406 | [23406-international-cricket-captain.json](./23406-international-cricket-captain.json) |
 | International Cricket Captain 2 | 63317 | [63317-international-cricket-captain-2.json](./63317-international-cricket-captain-2.json) |
 | International Cricket Captain 2000 | 63318 | [63318-international-cricket-captain-2000.json](./63318-international-cricket-captain-2000.json) |
 | International Cricket Captain 2001 | 63321 | [63321-international-cricket-captain-2001.json](./63321-international-cricket-captain-2001.json) |
@@ -6503,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invizimals | 2994 | [2994-invizimals.json](./2994-invizimals.json) |
 | Invizimals: Hidden Challenges | 203233 | [203233-invizimals-hidden-challenges.json](./203233-invizimals-hidden-challenges.json) |
 | Invizimals: Shadow Zone | 2996 | [2996-invizimals-shadow-zone.json](./2996-invizimals-shadow-zone.json) |
+| Invizimals: The Alliance | 23417 | [23417-invizimals-the-alliance.json](./23417-invizimals-the-alliance.json) |
 | Invizimals: The Lost Tribes | 3001 | [3001-invizimals-the-lost-tribes.json](./3001-invizimals-the-lost-tribes.json) |
 | Invizimals: The Resistance | 42687 | [42687-invizimals-the-resistance.json](./42687-invizimals-the-resistance.json) |
 | Invizimals: The Trilogy | 148657 | [148657-invizimals-the-trilogy.json](./148657-invizimals-the-trilogy.json) |
