@@ -11719,6 +11719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Glitch Witch | 310829 | [310829-the-glitch-witch.json](./310829-the-glitch-witch.json) |
 | The Glitched Attraction | 221852 | [221852-the-glitched-attraction.json](./221852-the-glitched-attraction.json) |
 | The Glitcher 2D | 410564 | [410564-the-glitcher-2d.json](./410564-the-glitcher-2d.json) |
+| The Gloaming Hand | 431444 | [431444-the-gloaming-hand.json](./431444-the-gloaming-hand.json) |
 | The Glob | 40005 | [40005-the-glob.json](./40005-the-glob.json) |
 | The Global Dilemma: Guns or Butter | 70047 | [70047-the-global-dilemma-guns-or-butter.json](./70047-the-global-dilemma-guns-or-butter.json) |
 | The Glorious Colony | 417239 | [417239-the-glorious-colony.json](./417239-the-glorious-colony.json) |
@@ -28419,6 +28420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToHeart2 XRated | 238370 | [238370-toheart2-xrated.json](./238370-toheart2-xrated.json) |
 | ToHeart2: AnotherDays | 242474 | [242474-toheart2-anotherdays.json](./242474-toheart2-anotherdays.json) |
 | TohKago | 427455 | [427455-tohkago.json](./427455-tohkago.json) |
+| Toho Fantasy | 431372 | [431372-toho-fantasy.json](./431372-toho-fantasy.json) |
 | Tohoku Daigaku Karei Igaku Kenkyuusho: Kawashima Ryuuta Kyouju Kanshuu - Mono Sugoku Nou wo Kitaeru 5-Funkan no Oni Training | 136956 | [136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json](./136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json) |
 | Tohotopia | 391609 | [391609-tohotopia.json](./391609-tohotopia.json) |
 | Tohou Sky Arena: Matsuri Climax - Playable Character: Toyosatomimi no Miko | 238033 | [238033-tohou-sky-arena-matsuri-climax-playable-character-toyosatomimi-no-miko.json](./238033-tohou-sky-arena-matsuri-climax-playable-character-toyosatomimi-no-miko.json) |
@@ -35133,6 +35135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traxxpad: Portable Studio | 71039 | [71039-traxxpad-portable-studio.json](./71039-traxxpad-portable-studio.json) |
 | Tray Racers! | 204540 | [204540-tray-racers.json](./204540-tray-racers.json) |
 | Tray Racers! Supporter's Pack | 243347 | [243347-tray-racers-supporters-pack.json](./243347-tray-racers-supporters-pack.json) |
+| Traymon World: Taskbar Monster RPG | 431382 | [431382-traymon-world-taskbar-monster-rpg.json](./431382-traymon-world-taskbar-monster-rpg.json) |
 | Traysia | 397716 | [397716-traysia.json](./397716-traysia.json) |
 | Traysia | 46259 | [46259-traysia.json](./46259-traysia.json) |
 | Trayveler | 179323 | [179323-trayveler.json](./179323-trayveler.json) |
@@ -38240,6 +38243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twelve Sticks | 320840 | [320840-twelve-sticks.json](./320840-twelve-sticks.json) |
 | Twelve Succubus | 364778 | [364778-twelve-succubus.json](./364778-twelve-succubus.json) |
 | Twelve Tales: Conker 64 | 142678 | [142678-twelve-tales-conker-64.json](./142678-twelve-tales-conker-64.json) |
+| Twelve Weeks | 431315 | [431315-twelve-weeks.json](./431315-twelve-weeks.json) |
 | Twelves: Shadow | 360688 | [360688-twelves-shadow.json](./360688-twelves-shadow.json) |
 | Twenties Flappers vs. The Mummy | 269836 | [269836-twenties-flappers-vs-the-mummy.json](./269836-twenties-flappers-vs-the-mummy.json) |
 | Twenty | 59389 | [59389-twenty.json](./59389-twenty.json) |
