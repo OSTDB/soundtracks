@@ -7034,6 +7034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Tonight | 139461 | [139461-fire-tonight.json](./139461-fire-tonight.json) |
 | Fire Trap | 39551 | [39551-fire-trap.json](./39551-fire-trap.json) |
 | Fire Truck | 143172 | [143172-fire-truck.json](./143172-fire-truck.json) |
+| Fire Truck | 40039 | [40039-fire-truck.json](./40039-fire-truck.json) |
 | Fire Truck Simulator | 204022 | [204022-fire-truck-simulator.json](./204022-fire-truck-simulator.json) |
 | Fire Truck: Airport Rescue | 96909 | [96909-fire-truck-airport-rescue.json](./96909-fire-truck-airport-rescue.json) |
 | Fire Trump: Air Combat VR | 171362 | [171362-fire-trump-air-combat-vr.json](./171362-fire-trump-air-combat-vr.json) |
