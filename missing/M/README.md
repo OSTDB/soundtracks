@@ -2935,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make a word! | 55755 | [55755-make-a-word.json](./55755-make-a-word.json) |
 | Make America Great Again | 36447 | [36447-make-america-great-again.json](./36447-make-america-great-again.json) |
 | Make America Great Again: The Trump Presidency | 31663 | [31663-make-america-great-again-the-trump-presidency.json](./31663-make-america-great-again-the-trump-presidency.json) |
+| Make Border Great Again! | 74345 | [74345-make-border-great-again.json](./74345-make-border-great-again.json) |
 | Make Butter Together! | 120013 | [120013-make-butter-together.json](./120013-make-butter-together.json) |
 | Make Candy | 175368 | [175368-make-candy.json](./175368-make-candy.json) |
 | Make Capybara Happy | 335248 | [335248-make-capybara-happy.json](./335248-make-capybara-happy.json) |
@@ -11611,6 +11612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metavaxx | 159052 | [159052-metavaxx.json](./159052-metavaxx.json) |
 | Metaverse | 17885 | [17885-metaverse.json](./17885-metaverse.json) |
 | Metaverse Construction Kit | 34001 | [34001-metaverse-construction-kit.json](./34001-metaverse-construction-kit.json) |
+| Metaverse Keeper | 111984 | [111984-metaverse-keeper.json](./111984-metaverse-keeper.json) |
 | Metaverse: Origins | 147534 | [147534-metaverse-origins.json](./147534-metaverse-origins.json) |
 | Metaverser | 259328 | [259328-metaverser.json](./259328-metaverser.json) |
 | Metavoidal | 221335 | [221335-metavoidal.json](./221335-metavoidal.json) |
@@ -16108,6 +16110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Aliens | 223736 | [223736-mission-aliens.json](./223736-mission-aliens.json) |
 | Mission: Caduceus | 128406 | [128406-mission-caduceus.json](./128406-mission-caduceus.json) |
 | Mission: Chao | 330713 | [330713-mission-chao.json](./330713-mission-chao.json) |
+| Mission: Demolition | 74371 | [74371-mission-demolition.json](./74371-mission-demolition.json) |
 | Mission: Diamond Back | 266045 | [266045-mission-diamond-back.json](./266045-mission-diamond-back.json) |
 | Mission: Driver | 210855 | [210855-mission-driver.json](./210855-mission-driver.json) |
 | Mission: Earth | 413391 | [413391-mission-earth.json](./413391-mission-earth.json) |
@@ -16887,6 +16890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mochi Jump | 152602 | [152602-mochi-jump.json](./152602-mochi-jump.json) |
 | Mochi Jump | 280647 | [280647-mochi-jump.json](./280647-mochi-jump.json) |
 | Mochi Making Mischief | 134854 | [134854-mochi-making-mischief.json](./134854-mochi-making-mischief.json) |
+| Mochi Mochi Boy | 112709 | [112709-mochi-mochi-boy.json](./112709-mochi-mochi-boy.json) |
 | Mochi Sprint | 296297 | [296297-mochi-sprint.json](./296297-mochi-sprint.json) |
 | Mochi Word Puzzles | 100881 | [100881-mochi-word-puzzles.json](./100881-mochi-word-puzzles.json) |
 | Mochi-O | 339988 | [339988-mochi-o.json](./339988-mochi-o.json) |
@@ -21836,6 +21840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man | 277557 | [277557-ms-pac-man.json](./277557-ms-pac-man.json) |
 | Ms. Pac-Man | 277558 | [277558-ms-pac-man.json](./277558-ms-pac-man.json) |
 | Ms. Pac-Man | 277559 | [277559-ms-pac-man.json](./277559-ms-pac-man.json) |
+| Ms. Pac-Man for iPad | 88813 | [88813-ms-pac-man-for-ipad.json](./88813-ms-pac-man-for-ipad.json) |
 | Ms. Pac-Man Plus | 266918 | [266918-ms-pac-man-plus.json](./266918-ms-pac-man-plus.json) |
 | Ms. Pac-Man Pocket Player | 219350 | [219350-ms-pac-man-pocket-player.json](./219350-ms-pac-man-pocket-player.json) |
 | Ms. Pac-Man Returns | 302989 | [302989-ms-pac-man-returns.json](./302989-ms-pac-man-returns.json) |
@@ -22471,6 +22476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery J: Special Stamp - Susan | 325466 | [325466-murder-mystery-j-special-stamp-susan.json](./325466-murder-mystery-j-special-stamp-susan.json) |
 | Murder Mystery J: Special Stamp - Thomas | 325469 | [325469-murder-mystery-j-special-stamp-thomas.json](./325469-murder-mystery-j-special-stamp-thomas.json) |
 | Murder Mystery J: Special Stamp - Vanilla | 325480 | [325480-murder-mystery-j-special-stamp-vanilla.json](./325480-murder-mystery-j-special-stamp-vanilla.json) |
+| Murder Mystery Machine | 111944 | [111944-murder-mystery-machine.json](./111944-murder-mystery-machine.json) |
 | Murder Mystery Mayhem AI | 319073 | [319073-murder-mystery-mayhem-ai.json](./319073-murder-mystery-mayhem-ai.json) |
 | Murder Mystery Paradox: Fifteen Years of Summer | 247526 | [247526-murder-mystery-paradox-fifteen-years-of-summer.json](./247526-murder-mystery-paradox-fifteen-years-of-summer.json) |
 | Murder Mystery- Detective Investigation Story | 130648 | [130648-murder-mystery-detective-investigation-story.json](./130648-murder-mystery-detective-investigation-story.json) |
