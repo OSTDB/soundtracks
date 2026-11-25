@@ -2470,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombiotik | 117446 | [117446-zombiotik.json](./117446-zombiotik.json) |
 | Zombitatos the end of the Pc master race | 31916 | [31916-zombitatos-the-end-of-the-pc-master-race.json](./31916-zombitatos-the-end-of-the-pc-master-race.json) |
 | Zombitatos: Ultimate Game of the Year Edition | 55407 | [55407-zombitatos-ultimate-game-of-the-year-edition.json](./55407-zombitatos-ultimate-game-of-the-year-edition.json) |
+| Zombitsu | 23484 | [23484-zombitsu.json](./23484-zombitsu.json) |
 | ZombiU 2 | 284514 | [284514-zombiu-2.json](./284514-zombiu-2.json) |
 | ZombLabs | 31891 | [31891-zomblabs.json](./31891-zomblabs.json) |
 | ZomBlock: Survival | 101879 | [101879-zomblock-survival.json](./101879-zomblock-survival.json) |
