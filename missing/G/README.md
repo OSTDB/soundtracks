@@ -1858,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gan-gan Gan-chan | 38023 | [38023-gan-gan-gan-chan.json](./38023-gan-gan-gan-chan.json) |
 | Gan! Gan! Pirates | 1366 | [1366-gan-gan-pirates.json](./1366-gan-gan-pirates.json) |
 | Gan's Matchstick Men: Deadly Rhythm | 161450 | [161450-gans-matchstick-men-deadly-rhythm.json](./161450-gans-matchstick-men-deadly-rhythm.json) |
+| Gana Force | 430934 | [430934-gana-force.json](./430934-gana-force.json) |
 | GanaBlade | 253404 | [253404-ganablade.json](./253404-ganablade.json) |
 | Ganba Jack | 212394 | [212394-ganba-jack.json](./212394-ganba-jack.json) |
 | Ganbare Baseball | 284439 | [284439-ganbare-baseball.json](./284439-ganbare-baseball.json) |
@@ -7100,6 +7101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GodMod | 215581 | [215581-godmod.json](./215581-godmod.json) |
 | Godmode Epochs | 252688 | [252688-godmode-epochs.json](./252688-godmode-epochs.json) |
 | Godmorgon: Spooky Ride | 187227 | [187227-godmorgon-spooky-ride.json](./187227-godmorgon-spooky-ride.json) |
+| Godness War | 430986 | [430986-godness-war.json](./430986-godness-war.json) |
 | Godo | 169812 | [169812-godo.json](./169812-godo.json) |
 | Gododo | 148902 | [148902-gododo.json](./148902-gododo.json) |
 | GodOrEvil.1 | 129368 | [129368-godorevil-1.json](./129368-godorevil-1.json) |
