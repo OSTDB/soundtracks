@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Invasion | 187502 | [187502-galactic-invasion.json](./187502-galactic-invasion.json) |
 | Galactic Invasion | 66809 | [66809-galactic-invasion.json](./66809-galactic-invasion.json) |
 | Galactic Jack | 100424 | [100424-galactic-jack.json](./100424-galactic-jack.json) |
+| Galactic Junk League | 26782 | [26782-galactic-junk-league.json](./26782-galactic-junk-league.json) |
 | Galactic Keep | 29594 | [29594-galactic-keep.json](./29594-galactic-keep.json) |
 | Galactic Lander | 109676 | [109676-galactic-lander.json](./109676-galactic-lander.json) |
 | Galactic Landing | 30523 | [30523-galactic-landing.json](./30523-galactic-landing.json) |
