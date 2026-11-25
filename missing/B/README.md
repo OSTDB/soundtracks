@@ -138,7 +138,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baahubali: The Game | 170057 | [170057-baahubali-the-game.json](./170057-baahubali-the-game.json) |
 | Baal | 11929 | [11929-baal.json](./11929-baal.json) |
 | Baalzebub | 236161 | [236161-baalzebub.json](./236161-baalzebub.json) |
-| Baam Squad | 90719 | [90719-baam-squad.json](./90719-baam-squad.json) |
 | Baazi | 360704 | [360704-baazi.json](./360704-baazi.json) |
 | BAB | 302208 | [302208-bab.json](./302208-bab.json) |
 | Bab.gg | 408262 | [408262-bab-gg.json](./408262-bab-gg.json) |
@@ -2024,7 +2023,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Bombs | 300733 | [300733-balls-bombs.json](./300733-balls-bombs.json) |
 | Balls Break Bricks | 384728 | [384728-balls-break-bricks.json](./384728-balls-break-bricks.json) |
 | Balls Bricks Breaker 3 | 227529 | [227529-balls-bricks-breaker-3.json](./227529-balls-bricks-breaker-3.json) |
-| Balls Control | 90767 | [90767-balls-control.json](./90767-balls-control.json) |
 | Balls Crush Simulator | 319432 | [319432-balls-crush-simulator.json](./319432-balls-crush-simulator.json) |
 | Balls Falls, a fantastic unique two finger game! | 23165 | [23165-balls-falls-a-fantastic-unique-two-finger-game.json](./23165-balls-falls-a-fantastic-unique-two-finger-game.json) |
 | Balls Gone Wild | 343220 | [343220-balls-gone-wild.json](./343220-balls-gone-wild.json) |
@@ -3163,7 +3161,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnyard Blaster Lite | 100327 | [100327-barnyard-blaster-lite.json](./100327-barnyard-blaster-lite.json) |
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
 | Barnyard Invasion | 71107 | [71107-barnyard-invasion.json](./71107-barnyard-invasion.json) |
-| Barnyard Mahjong | 90736 | [90736-barnyard-mahjong.json](./90736-barnyard-mahjong.json) |
 | Barnyard Mahjong 3 | 32156 | [32156-barnyard-mahjong-3.json](./32156-barnyard-mahjong-3.json) |
 | Barnyard Puzzles For Kids | 90754 | [90754-barnyard-puzzles-for-kids.json](./90754-barnyard-puzzles-for-kids.json) |
 | Barnyard Sherlock Hooves | 389032 | [389032-barnyard-sherlock-hooves.json](./389032-barnyard-sherlock-hooves.json) |
@@ -4347,7 +4344,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Girl High School | 80692 | [80692-battle-girl-high-school.json](./80692-battle-girl-high-school.json) |
 | Battle Girls | 34405 | [34405-battle-girls.json](./34405-battle-girls.json) |
 | Battle Golf | 233922 | [233922-battle-golf.json](./233922-battle-golf.json) |
-| Battle Golf Online | 90703 | [90703-battle-golf-online.json](./90703-battle-golf-online.json) |
 | Battle Golfer Yui | 4470 | [4470-battle-golfer-yui.json](./4470-battle-golfer-yui.json) |
 | Battle Grand Prix | 42628 | [42628-battle-grand-prix.json](./42628-battle-grand-prix.json) |
 | Battle Grid | 234675 | [234675-battle-grid.json](./234675-battle-grid.json) |
@@ -9736,7 +9732,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Blitz | 406787 | [406787-birdie-blitz.json](./406787-birdie-blitz.json) |
 | Birdie Burglars | 176966 | [176966-birdie-burglars.json](./176966-birdie-burglars.json) |
 | Birdie Crush | 112020 | [112020-birdie-crush.json](./112020-birdie-crush.json) |
-| Birdie Golf | 89783 | [89783-birdie-golf.json](./89783-birdie-golf.json) |
 | Birdie in the Snow | 425660 | [425660-birdie-in-the-snow.json](./425660-birdie-in-the-snow.json) |
 | Birdie King | 40291 | [40291-birdie-king.json](./40291-birdie-king.json) |
 | Birdie King 2 | 40290 | [40290-birdie-king-2.json](./40290-birdie-king-2.json) |
@@ -10042,7 +10037,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitch Hell | 197891 | [197891-bitch-hell.json](./197891-bitch-hell.json) |
 | Bitch Shop Simulator | 389114 | [389114-bitch-shop-simulator.json](./389114-bitch-shop-simulator.json) |
 | Bitchy Boss Bimbofication | 150941 | [150941-bitchy-boss-bimbofication.json](./150941-bitchy-boss-bimbofication.json) |
-| Bitcoin | 90174 | [90174-bitcoin.json](./90174-bitcoin.json) |
 | Bitcoin Billionaire | 24628 | [24628-bitcoin-billionaire.json](./24628-bitcoin-billionaire.json) |
 | Bitcoin Billionaire: Bitstone To The Past | 370236 | [370236-bitcoin-billionaire-bitstone-to-the-past.json](./370236-bitcoin-billionaire-bitstone-to-the-past.json) |
 | Bitcoin Bounce | 208314 | [208314-bitcoin-bounce.json](./208314-bitcoin-bounce.json) |
@@ -12158,7 +12152,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Puzzle Pop!! | 241805 | [241805-block-puzzle-pop.json](./241805-block-puzzle-pop.json) |
 | Block Puzzle Sudoku | 227380 | [227380-block-puzzle-sudoku.json](./227380-block-puzzle-sudoku.json) |
 | Block Puzzle Sudoku | 370361 | [370361-block-puzzle-sudoku.json](./370361-block-puzzle-sudoku.json) |
-| Block Puzzle Wood | 90538 | [90538-block-puzzle-wood.json](./90538-block-puzzle-wood.json) |
 | Block Puzzle Woody Origin | 235024 | [235024-block-puzzle-woody-origin.json](./235024-block-puzzle-woody-origin.json) |
 | Block Puzzle: Gem Legend | 232488 | [232488-block-puzzle-gem-legend.json](./232488-block-puzzle-gem-legend.json) |
 | Block Puzzle: Jewel Blast | 216134 | [216134-block-puzzle-jewel-blast.json](./216134-block-puzzle-jewel-blast.json) |
@@ -13821,7 +13814,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Rage | 235377 | [235377-boat-rage.json](./235377-boat-rage.json) |
 | Boat Rescue Simulator Mobile | 228116 | [228116-boat-rescue-simulator-mobile.json](./228116-boat-rescue-simulator-mobile.json) |
 | Boat Sim | 256212 | [256212-boat-sim.json](./256212-boat-sim.json) |
-| Boat Sim Elite | 90595 | [90595-boat-sim-elite.json](./90595-boat-sim-elite.json) |
 | Boat Sim Pro | 101653 | [101653-boat-sim-pro.json](./101653-boat-sim-pro.json) |
 | Boat Simulator | 231082 | [231082-boat-simulator.json](./231082-boat-simulator.json) |
 | Boat Simulator Apprentice | 187180 | [187180-boat-simulator-apprentice.json](./187180-boat-simulator-apprentice.json) |
@@ -15605,7 +15597,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BornWild Versus S1: Prologue | 215478 | [215478-bornwild-versus-s1-prologue.json](./215478-bornwild-versus-s1-prologue.json) |
 | Borobodur: The Planet of Doom | 14334 | [14334-borobodur-the-planet-of-doom.json](./14334-borobodur-the-planet-of-doom.json) |
 | Borodino | 14335 | [14335-borodino.json](./14335-borodino.json) |
-| Boros | 90455 | [90455-boros.json](./90455-boros.json) |
 | Borrowed Book | 314071 | [314071-borrowed-book.json](./314071-borrowed-book.json) |
 | Borrowed Flesh | 423105 | [423105-borrowed-flesh.json](./423105-borrowed-flesh.json) |
 | Borrowed Landscapes | 176776 | [176776-borrowed-landscapes.json](./176776-borrowed-landscapes.json) |
@@ -15787,7 +15778,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle Collector Run | 370172 | [370172-bottle-collector-run.json](./370172-bottle-collector-run.json) |
 | Bottle Cracks | 230497 | [230497-bottle-cracks.json](./230497-bottle-cracks.json) |
 | Bottle Empire | 257249 | [257249-bottle-empire.json](./257249-bottle-empire.json) |
-| Bottle Flip | 90760 | [90760-bottle-flip.json](./90760-bottle-flip.json) |
 | Bottle Flip 3D | 119199 | [119199-bottle-flip-3d.json](./119199-bottle-flip-3d.json) |
 | Bottle Flip Challenge VR | 28798 | [28798-bottle-flip-challenge-vr.json](./28798-bottle-flip-challenge-vr.json) |
 | Bottle Flip Inc | 423554 | [423554-bottle-flip-inc.json](./423554-bottle-flip-inc.json) |
@@ -16803,7 +16793,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Power | 70868 | [70868-brain-power.json](./70868-brain-power.json) |
 | Brain Practice | 87287 | [87287-brain-practice.json](./87287-brain-practice.json) |
 | Brain Pump | 116155 | [116155-brain-pump.json](./116155-brain-pump.json) |
-| Brain Puzzle | 90203 | [90203-brain-puzzle.json](./90203-brain-puzzle.json) |
 | Brain Puzzle: Tricky Quest | 354394 | [354394-brain-puzzle-tricky-quest.json](./354394-brain-puzzle-tricky-quest.json) |
 | Brain Puzzles Bundle 12 in 1 | 301533 | [301533-brain-puzzles-bundle-12-in-1.json](./301533-brain-puzzles-bundle-12-in-1.json) |
 | Brain Quest Grades 3 & 4 | 68941 | [68941-brain-quest-grades-3-and-4.json](./68941-brain-quest-grades-3-and-4.json) |
