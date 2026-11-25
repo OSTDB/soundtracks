@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oakley's World | 337601 | [337601-oakleys-world.json](./337601-oakleys-world.json) |
 | Oakpointe | 428312 | [428312-oakpointe.json](./428312-oakpointe.json) |
 | Oaks vs. Orcs | 417257 | [417257-oaks-vs-orcs.json](./417257-oaks-vs-orcs.json) |
+| Oakwood | 112433 | [112433-oakwood.json](./112433-oakwood.json) |
 | OAOA: Off and on Again | 115139 | [115139-oaoa-off-and-on-again.json](./115139-oaoa-off-and-on-again.json) |
 | Oar'some Adventures | 411805 | [411805-oarsome-adventures.json](./411805-oarsome-adventures.json) |
 | OASE: Other Age Second Encounter | 34478 | [34478-oase-other-age-second-encounter.json](./34478-oase-other-age-second-encounter.json) |
@@ -4423,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Paladin Melchior Y | 184805 | [184805-orbital-paladin-melchior-y.json](./184805-orbital-paladin-melchior-y.json) |
 | Orbital Patrol | 244783 | [244783-orbital-patrol.json](./244783-orbital-patrol.json) |
 | Orbital Physics Simulator | 409329 | [409329-orbital-physics-simulator.json](./409329-orbital-physics-simulator.json) |
+| Orbital Racer | 74130 | [74130-orbital-racer.json](./74130-orbital-racer.json) |
 | Orbital Shipyards | 123945 | [123945-orbital-shipyards.json](./123945-orbital-shipyards.json) |
 | Orbital Siege | 365057 | [365057-orbital-siege.json](./365057-orbital-siege.json) |
 | Orbital Strike VR | 136464 | [136464-orbital-strike-vr.json](./136464-orbital-strike-vr.json) |
@@ -6060,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlawed | 331339 | [331339-outlawed.json](./331339-outlawed.json) |
 | Outlaws | 115755 | [115755-outlaws.json](./115755-outlaws.json) |
 | Outlaws | 196 | [196-outlaws.json](./196-outlaws.json) |
+| Outlaws + A Handful of Missions | 112809 | [112809-outlaws-a-handful-of-missions.json](./112809-outlaws-a-handful-of-missions.json) |
 | Outlaws + Handful of Missions: Remaster | 361823 | [361823-outlaws-handful-of-missions-remaster.json](./361823-outlaws-handful-of-missions-remaster.json) |
 | Outlaws: Corwin's Treasure | 133153 | [133153-outlaws-corwins-treasure.json](./133153-outlaws-corwins-treasure.json) |
 | Outlaws: Handful of Missions | 80649 | [80649-outlaws-handful-of-missions.json](./80649-outlaws-handful-of-missions.json) |
