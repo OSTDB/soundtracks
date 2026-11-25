@@ -8113,7 +8113,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Captain's Log | 135314 | [135314-the-captains-log.json](./135314-the-captains-log.json) |
 | The Captcha Game | 281405 | [281405-the-captcha-game.json](./281405-the-captcha-game.json) |
 | The Captive | 362814 | [362814-the-captive.json](./362814-the-captive.json) |
-| The Captives: Plot of the Demiurge | 90137 | [90137-the-captives-plot-of-the-demiurge.json](./90137-the-captives-plot-of-the-demiurge.json) |
 | The Capture Worlds | 96635 | [96635-the-capture-worlds.json](./96635-the-capture-worlds.json) |
 | The Capybara P | 219049 | [219049-the-capybara-p.json](./219049-the-capybara-p.json) |
 | The Capybarrier | 310908 | [310908-the-capybarrier.json](./310908-the-capybarrier.json) |
@@ -8776,7 +8775,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Couch | 140715 | [140715-the-couch.json](./140715-the-couch.json) |
 | The Council | 78547 | [78547-the-council.json](./78547-the-council.json) |
 | The Council of Gulls | 179088 | [179088-the-council-of-gulls.json](./179088-the-council-of-gulls.json) |
-| The Council of Hanwell | 89956 | [89956-the-council-of-hanwell.json](./89956-the-council-of-hanwell.json) |
 | The Council: Episode 1 - The Mad Ones | 81117 | [81117-the-council-episode-1-the-mad-ones.json](./81117-the-council-episode-1-the-mad-ones.json) |
 | The Council: Episode 2 - Hide and Seek | 101116 | [101116-the-council-episode-2-hide-and-seek.json](./101116-the-council-episode-2-hide-and-seek.json) |
 | The Council: Episode 3 - Ripples | 106296 | [106296-the-council-episode-3-ripples.json](./106296-the-council-episode-3-ripples.json) |
@@ -10089,7 +10087,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
 | The Egyptian Prophecy: The Fate of Ramses | 17414 | [17414-the-egyptian-prophecy-the-fate-of-ramses.json](./17414-the-egyptian-prophecy-the-fate-of-ramses.json) |
 | The Eidolon | 12950 | [12950-the-eidolon.json](./12950-the-eidolon.json) |
-| The Eigengrau Menagerie | 90480 | [90480-the-eigengrau-menagerie.json](./90480-the-eigengrau-menagerie.json) |
 | The Eightfold Path | 172919 | [172919-the-eightfold-path.json](./172919-the-eightfold-path.json) |
 | The Eighth Continent | 369383 | [369383-the-eighth-continent.json](./369383-the-eighth-continent.json) |
 | The Eigyoudou | 70594 | [70594-the-eigyoudou.json](./70594-the-eigyoudou.json) |
@@ -18618,7 +18615,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The school leaving day | 131688 | [131688-the-school-leaving-day.json](./131688-the-school-leaving-day.json) |
 | The School of HypnoApp: Secret Smartphone App That Turns Seniors Into Mamas | 83033 | [83033-the-school-of-hypnoapp-secret-smartphone-app-that-turns-seniors-into-mamas.json](./83033-the-school-of-hypnoapp-secret-smartphone-app-that-turns-seniors-into-mamas.json) |
 | The School: Swan Song | 58578 | [58578-the-school-swan-song.json](./58578-the-school-swan-song.json) |
-| The School: White Day | 89861 | [89861-the-school-white-day.json](./89861-the-school-white-day.json) |
 | The Scientist Battles | 359559 | [359559-the-scientist-battles.json](./359559-the-scientist-battles.json) |
 | The Scientists' Secret: Hidden Object Game | 259542 | [259542-the-scientists-secret-hidden-object-game.json](./259542-the-scientists-secret-hidden-object-game.json) |
 | The Scoop | 73816 | [73816-the-scoop.json](./73816-the-scoop.json) |
@@ -26454,7 +26450,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilting Tiles: Micro Challenge | 250553 | [250553-tilting-tiles-micro-challenge.json](./250553-tilting-tiles-micro-challenge.json) |
 | Tilting Tiles: Ultimate Tilt Remix | 228766 | [228766-tilting-tiles-ultimate-tilt-remix.json](./228766-tilting-tiles-ultimate-tilt-remix.json) |
 | TilTit | 121794 | [121794-tiltit.json](./121794-tiltit.json) |
-| TiltMaze | 90727 | [90727-tiltmaze.json](./90727-tiltmaze.json) |
 | Tiltoff | 141803 | [141803-tiltoff.json](./141803-tiltoff.json) |
 | Tiltspace | 167673 | [167673-tiltspace.json](./167673-tiltspace.json) |
 | Tilvaryu Recollections | 82684 | [82684-tilvaryu-recollections.json](./82684-tilvaryu-recollections.json) |
@@ -26707,7 +26702,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time of Heroes | 341087 | [341087-time-of-heroes.json](./341087-time-of-heroes.json) |
 | Time of Heroes | 341375 | [341375-time-of-heroes.json](./341375-time-of-heroes.json) |
 | Time of Piracy | 158882 | [158882-time-of-piracy.json](./158882-time-of-piracy.json) |
-| Time of Shadows | 90468 | [90468-time-of-shadows.json](./90468-time-of-shadows.json) |
 | Time of Silence | 30886 | [30886-time-of-silence.json](./30886-time-of-silence.json) |
 | Time of Sorrow | 316606 | [316606-time-of-sorrow.json](./316606-time-of-sorrow.json) |
 | Time of Special Team | 168462 | [168462-time-of-special-team.json](./168462-time-of-special-team.json) |
@@ -28393,7 +28387,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together in the Sky | 254952 | [254952-together-in-the-sky.json](./254952-together-in-the-sky.json) |
 | Together My Headers | 190977 | [190977-together-my-headers.json](./190977-together-my-headers.json) |
 | Together Tree: Romance 911 | 244494 | [244494-together-tree-romance-911.json](./244494-together-tree-romance-911.json) |
-| Together VR | 90151 | [90151-together-vr.json](./90151-together-vr.json) |
 | Together We Fall | 184862 | [184862-together-we-fall.json](./184862-together-we-fall.json) |
 | Together We Live | 221212 | [221212-together-we-live.json](./221212-together-we-live.json) |
 | Together We Play: Help Me Help You! | 336302 | [336302-together-we-play-help-me-help-you.json](./336302-together-we-play-help-me-help-you.json) |
@@ -31311,7 +31304,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Builder | 259157 | [259157-tower-builder.json](./259157-tower-builder.json) |
 | Tower Clash | 200005 | [200005-tower-clash.json](./200005-tower-clash.json) |
 | Tower Climb | 125754 | [125754-tower-climb.json](./125754-tower-climb.json) |
-| Tower climber | 90193 | [90193-tower-climber.json](./90193-tower-climber.json) |
 | Tower Color | 254180 | [254180-tower-color.json](./254180-tower-color.json) |
 | Tower Command | 370908 | [370908-tower-command.json](./370908-tower-command.json) |
 | Tower Craft | 263859 | [263859-tower-craft.json](./263859-tower-craft.json) |
@@ -37242,7 +37234,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TS Online Mobile | 130745 | [130745-ts-online-mobile.json](./130745-ts-online-mobile.json) |
 | TS!Underswap | 212220 | [212220-ts-underswap.json](./212220-ts-underswap.json) |
 | TS2: Train Signalling Simulator | 118713 | [118713-ts2-train-signalling-simulator.json](./118713-ts2-train-signalling-simulator.json) |
-| TSA Frisky VR | 89964 | [89964-tsa-frisky-vr.json](./89964-tsa-frisky-vr.json) |
 | TSA: Thieves Strike Again | 211608 | [211608-tsa-thieves-strike-again.json](./211608-tsa-thieves-strike-again.json) |
 | Tsan-shadow Ninja | 351724 | [351724-tsan-shadow-ninja.json](./351724-tsan-shadow-ninja.json) |
 | Tsardoms: Total War | 356249 | [356249-tsardoms-total-war.json](./356249-tsardoms-total-war.json) |
@@ -38961,7 +38952,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TypeCaster | 374215 | [374215-typecaster.json](./374215-typecaster.json) |
 | Typed82 | 156765 | [156765-typed82.json](./156765-typed82.json) |
 | Typeds | 181542 | [181542-typeds.json](./181542-typeds.json) |
-| Typefighters: Steam Edition | 90589 | [90589-typefighters-steam-edition.json](./90589-typefighters-steam-edition.json) |
 | TypeGG | 416437 | [416437-typegg.json](./416437-typegg.json) |
 | Typegrinder | 407716 | [407716-typegrinder.json](./407716-typegrinder.json) |
 | Typeoids | 387477 | [387477-typeoids.json](./387477-typeoids.json) |
