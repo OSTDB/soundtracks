@@ -11351,6 +11351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Cards | 94839 | [94839-clash-of-cards.json](./94839-clash-of-cards.json) |
 | Clash of Castle | 84042 | [84042-clash-of-castle.json](./84042-clash-of-castle.json) |
 | Clash of Champs | 56529 | [56529-clash-of-champs.json](./56529-clash-of-champs.json) |
+| Clash of Chefs VR | 111704 | [111704-clash-of-chefs-vr.json](./111704-clash-of-chefs-vr.json) |
 | Clash of Chess | 174898 | [174898-clash-of-chess.json](./174898-clash-of-chess.json) |
 | Clash of Clans | 5589 | [5589-clash-of-clans.json](./5589-clash-of-clans.json) |
 | Clash of Clans: Clash-O-Ween Season | 317324 | [317324-clash-of-clans-clash-o-ween-season.json](./317324-clash-of-clans-clash-o-ween-season.json) |
@@ -12725,6 +12726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue Murder at Boddy Mansion | 28097 | [28097-clue-murder-at-boddy-mansion.json](./28097-clue-murder-at-boddy-mansion.json) |
 | Clue Solver | 105532 | [105532-clue-solver.json](./105532-clue-solver.json) |
 | Clue: Black Adder Edition | 280004 | [280004-clue-black-adder-edition.json](./280004-clue-black-adder-edition.json) |
+| Clue: Classic Mystery Game | 88928 | [88928-clue-classic-mystery-game.json](./88928-clue-classic-mystery-game.json) |
 | Clue: Deluxe Edition | 279886 | [279886-clue-deluxe-edition.json](./279886-clue-deluxe-edition.json) |
 | Clue: Murder By Death | 267439 | [267439-clue-murder-by-death.json](./267439-clue-murder-by-death.json) |
 | Clue: Secrets & Spies | 366414 | [366414-clue-secrets-and-spies.json](./366414-clue-secrets-and-spies.json) |
@@ -18310,6 +18312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cover Letter: The Game | 180383 | [180383-cover-letter-the-game.json](./180383-cover-letter-the-game.json) |
 | Cover Orange | 403224 | [403224-cover-orange.json](./403224-cover-orange.json) |
 | Cover Orange | 86862 | [86862-cover-orange.json](./86862-cover-orange.json) |
+| Cover Orange | 90090 | [90090-cover-orange.json](./90090-cover-orange.json) |
 | Cover Orange 2 | 403222 | [403222-cover-orange-2.json](./403222-cover-orange-2.json) |
 | Cover Orange 2 | 89106 | [89106-cover-orange-2.json](./89106-cover-orange-2.json) |
 | Cover Orange 2: Journey | 88889 | [88889-cover-orange-2-journey.json](./88889-cover-orange-2-journey.json) |
@@ -19520,6 +19523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Dino Park | 143448 | [143448-crazy-dino-park.json](./143448-crazy-dino-park.json) |
 | Crazy Donuts | 206413 | [206413-crazy-donuts.json](./206413-crazy-donuts.json) |
 | Crazy Drake | 72807 | [72807-crazy-drake.json](./72807-crazy-drake.json) |
+| Crazy Dreamz: Best Of | 90076 | [90076-crazy-dreamz-best-of.json](./90076-crazy-dreamz-best-of.json) |
 | Crazy Dreamz: MagiCats Edition | 55255 | [55255-crazy-dreamz-magicats-edition.json](./55255-crazy-dreamz-magicats-edition.json) |
 | Crazy Drift | 223298 | [223298-crazy-drift.json](./223298-crazy-drift.json) |
 | Crazy Driller | 175259 | [175259-crazy-driller.json](./175259-crazy-driller.json) |
