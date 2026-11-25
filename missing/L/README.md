@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law Craft | 207832 | [207832-law-craft.json](./207832-law-craft.json) |
 | Law Empire Tycoon | 171810 | [171810-law-empire-tycoon.json](./171810-law-empire-tycoon.json) |
 | Law Law Land | 127693 | [127693-law-law-land.json](./127693-law-law-land.json) |
+| Law Mower | 41933 | [41933-law-mower.json](./41933-law-mower.json) |
 | Law of Creation 2 | 193935 | [193935-law-of-creation-2.json](./193935-law-of-creation-2.json) |
 | Law of Demons | 412081 | [412081-law-of-demons.json](./412081-law-of-demons.json) |
 | Law of Dispute | 295393 | [295393-law-of-dispute.json](./295393-law-of-dispute.json) |
@@ -10173,6 +10174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Is All Around: Love In The Room | 294998 | [294998-love-is-all-around-love-in-the-room.json](./294998-love-is-all-around-love-in-the-room.json) |
 | Love is Blind: Mutants | 33494 | [33494-love-is-blind-mutants.json](./33494-love-is-blind-mutants.json) |
 | Love Is Dangerous | 189277 | [189277-love-is-dangerous.json](./189277-love-is-dangerous.json) |
+| Love is Dead | 33225 | [33225-love-is-dead.json](./33225-love-is-dead.json) |
 | Love is in Bloom | 225300 | [225300-love-is-in-bloom.json](./225300-love-is-in-bloom.json) |
 | Love is in the air | 98264 | [98264-love-is-in-the-air.json](./98264-love-is-in-the-air.json) |
 | Love is in the Airship | 318363 | [318363-love-is-in-the-airship.json](./318363-love-is-in-the-airship.json) |
@@ -11804,6 +11806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxor Amun Rising HD | 30153 | [30153-luxor-amun-rising-hd.json](./30153-luxor-amun-rising-hd.json) |
 | Luxor Evolved | 7542 | [7542-luxor-evolved.json](./7542-luxor-evolved.json) |
 | Luxor HD | 35432 | [35432-luxor-hd.json](./35432-luxor-hd.json) |
+| Luxor Pharaoh's Challenge | 42879 | [42879-luxor-pharaohs-challenge.json](./42879-luxor-pharaohs-challenge.json) |
 | Luxor Solitaire | 115524 | [115524-luxor-solitaire.json](./115524-luxor-solitaire.json) |
 | Luxor: Amun Rising | 7538 | [7538-luxor-amun-rising.json](./7538-luxor-amun-rising.json) |
 | Luxor: Mah Jong | 16004 | [16004-luxor-mah-jong.json](./16004-luxor-mah-jong.json) |
