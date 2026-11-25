@@ -9101,6 +9101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allotropy | 169472 | [169472-allotropy.json](./169472-allotropy.json) |
 | Alloy Soldier Xenia | 225822 | [225822-alloy-soldier-xenia.json](./225822-alloy-soldier-xenia.json) |
 | Alloy: Arena | 318136 | [318136-alloy-arena.json](./318136-alloy-arena.json) |
+| Alloy::Ephemera | 430639 | [430639-alloy-ephemera.json](./430639-alloy-ephemera.json) |
 | Alloyrun | 84361 | [84361-alloyrun.json](./84361-alloyrun.json) |
 | Alloys Over Flowers | 179044 | [179044-alloys-over-flowers.json](./179044-alloys-over-flowers.json) |
 | Allrams Höjdarspel | 383025 | [383025-allrams-hojdarspel.json](./383025-allrams-hojdarspel.json) |
@@ -14521,6 +14522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arbe10: Base 10 | 101096 | [101096-arbe10-base-10.json](./101096-arbe10-base-10.json) |
 | Arbeit Man in another world | 151610 | [151610-arbeit-man-in-another-world.json](./151610-arbeit-man-in-another-world.json) |
 | Arbeiten Spiel! | 239237 | [239237-arbeiten-spiel.json](./239237-arbeiten-spiel.json) |
+| Arbeitszeitbetrug | 430238 | [430238-arbeitszeitbetrug.json](./430238-arbeitszeitbetrug.json) |
 | Arbiter | 204233 | [204233-arbiter.json](./204233-arbiter.json) |
 | Arbiter | 64693 | [64693-arbiter.json](./64693-arbiter.json) |
 | Arbiter 131 | 396854 | [396854-arbiter-131.json](./396854-arbiter-131.json) |
