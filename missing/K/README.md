@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-1 World GP 2005 | 66879 | [66879-k-1-world-gp-2005.json](./66879-k-1-world-gp-2005.json) |
 | K-1 World GP 2006 | 66878 | [66878-k-1-world-gp-2006.json](./66878-k-1-world-gp-2006.json) |
 | K-1 World Grand Prix | 23710 | [23710-k-1-world-grand-prix.json](./23710-k-1-world-grand-prix.json) |
+| K-1 World Grand Prix 2001 | 23469 | [23469-k-1-world-grand-prix-2001.json](./23469-k-1-world-grand-prix-2001.json) |
 | K-1 World Grand Prix 2001 Kaimakuden | 66883 | [66883-k-1-world-grand-prix-2001-kaimakuden.json](./66883-k-1-world-grand-prix-2001-kaimakuden.json) |
 | K-1 World Grand Prix 2003 | 66876 | [66876-k-1-world-grand-prix-2003.json](./66876-k-1-world-grand-prix-2003.json) |
 | K-1 World Grand Prix: The Beast Attack! | 66875 | [66875-k-1-world-grand-prix-the-beast-attack.json](./66875-k-1-world-grand-prix-the-beast-attack.json) |
