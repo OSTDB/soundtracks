@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railpunk Mayhem | 292426 | [292426-railpunk-mayhem.json](./292426-railpunk-mayhem.json) |
 | RaiLRhythm | 312147 | [312147-railrhythm.json](./312147-railrhythm.json) |
 | Railriders | 420400 | [420400-railriders.json](./420400-railriders.json) |
+| Railroad Corporation | 112362 | [112362-railroad-corporation.json](./112362-railroad-corporation.json) |
 | Railroad Corporation 2 | 190449 | [190449-railroad-corporation-2.json](./190449-railroad-corporation-2.json) |
 | Railroad Corporation: All or Nothing | 174164 | [174164-railroad-corporation-all-or-nothing.json](./174164-railroad-corporation-all-or-nothing.json) |
 | Railroad Corporation: Christmas Rush | 170572 | [170572-railroad-corporation-christmas-rush.json](./170572-railroad-corporation-christmas-rush.json) |
@@ -7913,6 +7914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhem 3: The Secret Library | 68869 | [68869-rhem-3-the-secret-library.json](./68869-rhem-3-the-secret-library.json) |
 | Rhem 4: The Golden Fragments | 25291 | [25291-rhem-4-the-golden-fragments.json](./25291-rhem-4-the-golden-fragments.json) |
 | Rhem I SE: The Mysterious Land | 50510 | [50510-rhem-i-se-the-mysterious-land.json](./50510-rhem-i-se-the-mysterious-land.json) |
+| Rhem II SE: The Cave | 112131 | [112131-rhem-ii-se-the-cave.json](./112131-rhem-ii-se-the-cave.json) |
 | Rhem IV SE: The Golden Fragments | 91320 | [91320-rhem-iv-se-the-golden-fragments.json](./91320-rhem-iv-se-the-golden-fragments.json) |
 | Rhentsu | 193642 | [193642-rhentsu.json](./193642-rhentsu.json) |
 | Rhetoric Public Speaking Game | 197690 | [197690-rhetoric-public-speaking-game.json](./197690-rhetoric-public-speaking-game.json) |
