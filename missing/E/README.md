@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthworm Jim PSP | 140104 | [140104-earthworm-jim-psp.json](./140104-earthworm-jim-psp.json) |
 | Earthworm Jim: Menace 2 the Galaxy | 3482 | [3482-earthworm-jim-menace-2-the-galaxy.json](./3482-earthworm-jim-menace-2-the-galaxy.json) |
 | Earthworm Jim: Special Edition | 19769 | [19769-earthworm-jim-special-edition.json](./19769-earthworm-jim-special-edition.json) |
+| EarthX 2 | 430918 | [430918-earthx-2.json](./430918-earthx-2.json) |
 | EarthX: Future Astronauts Edition | 260928 | [260928-earthx-future-astronauts-edition.json](./260928-earthx-future-astronauts-edition.json) |
 | Earwax Sculptures | 418131 | [418131-earwax-sculptures.json](./418131-earwax-sculptures.json) |
 | EarWorm | 340931 | [340931-earworm.json](./340931-earworm.json) |
@@ -1733,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg vs. Chicken | 79770 | [79770-egg-vs-chicken.json](./79770-egg-vs-chicken.json) |
 | Egg War Puzzle | 257916 | [257916-egg-war-puzzle.json](./257916-egg-war-puzzle.json) |
 | Egg Yolk Life | 129715 | [129715-egg-yolk-life.json](./129715-egg-yolk-life.json) |
+| Egg-cremental | 430925 | [430925-egg-cremental.json](./430925-egg-cremental.json) |
 | Egg, Inc. | 58133 | [58133-egg-inc.json](./58133-egg-inc.json) |
 | Egg! | 231966 | [231966-egg.json](./231966-egg.json) |
 | Eggball.io | 426019 | [426019-eggball-io.json](./426019-eggball-io.json) |
