@@ -53,8 +53,8 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 | 39 | **Crazy Taxi** | [🔎 Find on Spotify](https://open.spotify.com/search/Crazy%20Taxi%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/1805-crazy-taxi.json) |
 | 40 | **Duck Hunt** | [🔎 Find on Spotify](https://open.spotify.com/search/Duck%20Hunt%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/2741-duck-hunt.json) |
 | 41 | **Duke Nukem Forever** | [🔎 Find on Spotify](https://open.spotify.com/search/Duke%20Nukem%20Forever%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/490-duke-nukem-forever.json) |
-| 42 | **SteamWorld Dig** | [🔎 Find on Spotify](https://open.spotify.com/search/SteamWorld%20Dig%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/5772-steamworld-dig.json) |
-| 43 | **Grand Theft Auto: Vice City Stories** | [🔎 Find on Spotify](https://open.spotify.com/search/Grand%20Theft%20Auto%3A%20Vice%20City%20Stories%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/G/3262-grand-theft-auto-vice-city-stories.json) |
+| 42 | **Grand Theft Auto: Vice City Stories** | [🔎 Find on Spotify](https://open.spotify.com/search/Grand%20Theft%20Auto%3A%20Vice%20City%20Stories%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/G/3262-grand-theft-auto-vice-city-stories.json) |
+| 43 | **SteamWorld Dig** | [🔎 Find on Spotify](https://open.spotify.com/search/SteamWorld%20Dig%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/5772-steamworld-dig.json) |
 | 44 | **Metroid** | [🔎 Find on Spotify](https://open.spotify.com/search/Metroid%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/M/1101-metroid.json) |
 | 45 | **Need for Speed: Porsche Unleashed** | [🔎 Find on Spotify](https://open.spotify.com/search/Need%20for%20Speed%3A%20Porsche%20Unleashed%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/N/94-need-for-speed-porsche-unleashed.json) |
 | 46 | **Life is Strange: True Colors** | [🔎 Find on Spotify](https://open.spotify.com/search/Life%20is%20Strange%3A%20True%20Colors%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/L/144765-life-is-strange-true-colors.json) |
@@ -67,20 +67,20 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 21834 games | 21477 games | 24421 games | 22683 games | 9911 games | 16507 games | 13372 games |
+| 21832 games | 21474 games | 24418 games | 22682 games | 9911 games | 16507 games | 13372 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 15026 games | 8076 games | 4932 games | 7493 games | 11894 games | 25829 games | 9056 games |
+| 15026 games | 8076 games | 4932 games | 7493 games | 11894 games | 25828 games | 9056 games |
 
 | **[O](./O/README.md)** | **[P](./P/README.md)** | **[Q](./Q/README.md)** | **[R](./R/README.md)** | **[S](./S/README.md)** | **[T](./T/README.md)** | **[U](./U/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 6840 games | 21913 games | 1495 games | 15207 games | 42197 games | 39099 games | 4240 games |
+| 6840 games | 21913 games | 1495 games | 15207 games | 42196 games | 39099 games | 4240 games |
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
-| 5017 games | 11135 games | 1235 games | 2497 games | 3076 games | 4320 games |
+| 5017 games | 11133 games | 1235 games | 2497 games | 3076 games | 4320 games |
 
 ---
 
-_370782 games missing a soundtrack · last updated 2026-11-24T18:25:18.333Z_
+_370769 games missing a soundtrack · last updated 2026-11-25T02:37:43.302Z_
