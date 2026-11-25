@@ -445,7 +445,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jailbreak!: Source | 165134 | [165134-jailbreak-source.json](./165134-jailbreak-source.json) |
 | JailBreaker | 274775 | [274775-jailbreaker.json](./274775-jailbreaker.json) |
 | JailBreaker | 98478 | [98478-jailbreaker.json](./98478-jailbreaker.json) |
-| Jaipur: the board game | 91985 | [91985-jaipur-the-board-game.json](./91985-jaipur-the-board-game.json) |
 | Jaja-Kun Jr. Denshouki | 49612 | [49612-jaja-kun-jr-denshouki.json](./49612-jaja-kun-jr-denshouki.json) |
 | JaJaMaru Gekimaden: Maboroshi no Kinmajou | 48458 | [48458-jajamaru-gekimaden-maboroshi-no-kinmajou.json](./48458-jajamaru-gekimaden-maboroshi-no-kinmajou.json) |
 | JaJaMaru Jr: Denshouki Jaleco Memorial | 122912 | [122912-jajamaru-jr-denshouki-jaleco-memorial.json](./122912-jajamaru-jr-denshouki-jaleco-memorial.json) |
@@ -1140,7 +1139,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Brawl: Classic | 173191 | [173191-jelly-brawl-classic.json](./173191-jelly-brawl-classic.json) |
 | Jelly Bubble | 359055 | [359055-jelly-bubble.json](./359055-jelly-bubble.json) |
 | Jelly Collapse | 421799 | [421799-jelly-collapse.json](./421799-jelly-collapse.json) |
-| Jelly Copter | 95093 | [95093-jelly-copter.json](./95093-jelly-copter.json) |
 | Jelly Cube Blast | 233908 | [233908-jelly-cube-blast.json](./233908-jelly-cube-blast.json) |
 | Jelly Dance | 96383 | [96383-jelly-dance.json](./96383-jelly-dance.json) |
 | Jelly Defense | 22206 | [22206-jelly-defense.json](./22206-jelly-defense.json) |
@@ -2037,7 +2035,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle | 94953 | [94953-jigsaw-puzzle.json](./94953-jigsaw-puzzle.json) |
 | Jigsaw Puzzle Brawl BS Stars | 213077 | [213077-jigsaw-puzzle-brawl-bs-stars.json](./213077-jigsaw-puzzle-brawl-bs-stars.json) |
 | Jigsaw Puzzle Bug | 167672 | [167672-jigsaw-puzzle-bug.json](./167672-jigsaw-puzzle-bug.json) |
-| Jigsaw Puzzle by MobilityWare | 90982 | [90982-jigsaw-puzzle-by-mobilityware.json](./90982-jigsaw-puzzle-by-mobilityware.json) |
 | Jigsaw Puzzle Cats Kitten | 202765 | [202765-jigsaw-puzzle-cats-kitten.json](./202765-jigsaw-puzzle-cats-kitten.json) |
 | Jigsaw Puzzle Collection HD | 89112 | [89112-jigsaw-puzzle-collection-hd.json](./89112-jigsaw-puzzle-collection-hd.json) |
 | Jigsaw Puzzle Dreams | 167128 | [167128-jigsaw-puzzle-dreams.json](./167128-jigsaw-puzzle-dreams.json) |
@@ -2065,7 +2062,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate Germany 2 | 272326 | [272326-jigsaw-puzzle-pack-pixel-puzzles-ultimate-germany-2.json](./272326-jigsaw-puzzle-pack-pixel-puzzles-ultimate-germany-2.json) |
 | Jigsaw Puzzle Passport: Spain | 393628 | [393628-jigsaw-puzzle-passport-spain.json](./393628-jigsaw-puzzle-passport-spain.json) |
 | Jigsaw Puzzle Platinum Edition | 275479 | [275479-jigsaw-puzzle-platinum-edition.json](./275479-jigsaw-puzzle-platinum-edition.json) |
-| Jigsaw Puzzle Pro | 91316 | [91316-jigsaw-puzzle-pro.json](./91316-jigsaw-puzzle-pro.json) |
 | Jigsaw Puzzle Utopia | 322071 | [322071-jigsaw-puzzle-utopia.json](./322071-jigsaw-puzzle-utopia.json) |
 | Jigsaw Puzzle Villa | 220206 | [220206-jigsaw-puzzle-villa.json](./220206-jigsaw-puzzle-villa.json) |
 | Jigsaw Puzzle VR | 153074 | [153074-jigsaw-puzzle-vr.json](./153074-jigsaw-puzzle-vr.json) |
@@ -2165,7 +2161,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle. Women's Day | 105903 | [105903-jigsaw-puzzle-womens-day.json](./105903-jigsaw-puzzle-womens-day.json) |
 | Jigsaw Puzzles | 357894 | [357894-jigsaw-puzzles.json](./357894-jigsaw-puzzles.json) |
 | Jigsaw Puzzles | 56658 | [56658-jigsaw-puzzles.json](./56658-jigsaw-puzzles.json) |
-| Jigsaw Puzzles | 91249 | [91249-jigsaw-puzzles.json](./91249-jigsaw-puzzles.json) |
 | Jigsaw Puzzles - Games for Girls | 90029 | [90029-jigsaw-puzzles-games-for-girls.json](./90029-jigsaw-puzzles-games-for-girls.json) |
 | Jigsaw Puzzles All in One | 239115 | [239115-jigsaw-puzzles-all-in-one.json](./239115-jigsaw-puzzles-all-in-one.json) |
 | Jigsaw Puzzles Epic | 83424 | [83424-jigsaw-puzzles-epic.json](./83424-jigsaw-puzzles-epic.json) |
@@ -2173,7 +2168,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzles for Kids and Adults: Cute | 162232 | [162232-jigsaw-puzzles-for-kids-and-adults-cute.json](./162232-jigsaw-puzzles-for-kids-and-adults-cute.json) |
 | Jigsaw Puzzles for Kids and Adults: Europe | 162236 | [162236-jigsaw-puzzles-for-kids-and-adults-europe.json](./162236-jigsaw-puzzles-for-kids-and-adults-europe.json) |
 | Jigsaw Puzzles for Kids and Adults: Islands | 162231 | [162231-jigsaw-puzzles-for-kids-and-adults-islands.json](./162231-jigsaw-puzzles-for-kids-and-adults-islands.json) |
-| Jigsaw Puzzles Free by WallpaperFusion | 90937 | [90937-jigsaw-puzzles-free-by-wallpaperfusion.json](./90937-jigsaw-puzzles-free-by-wallpaperfusion.json) |
 | Jigsaw Puzzles Halloween | 88340 | [88340-jigsaw-puzzles-halloween.json](./88340-jigsaw-puzzles-halloween.json) |
 | Jigsaw Puzzles Infinite | 197498 | [197498-jigsaw-puzzles-infinite.json](./197498-jigsaw-puzzles-infinite.json) |
 | Jigsaw Puzzles Infinite: Cats & Dogs Puzzle Pack | 286238 | [286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json](./286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json) |
@@ -2264,8 +2258,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu '98: Kettei-ban | 229572 | [229572-jikkyou-pawafuru-puroyakyu-98-kettei-ban.json](./229572-jikkyou-pawafuru-puroyakyu-98-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu '99: Kaimaku-ban | 138738 | [138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json](./138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json) |
 | Jikkyou Pawafuru Puroyakyu '99: Kettei-ban | 229574 | [229574-jikkyou-pawafuru-puroyakyu-99-kettei-ban.json](./229574-jikkyou-pawafuru-puroyakyu-99-kettei-ban.json) |
-| Jikkyou Pawafuru Puroyakyu 10 | 92692 | [92692-jikkyou-pawafuru-puroyakyu-10.json](./92692-jikkyou-pawafuru-puroyakyu-10.json) |
-| Jikkyou Pawafuru Puroyakyu 11 | 92693 | [92693-jikkyou-pawafuru-puroyakyu-11.json](./92693-jikkyou-pawafuru-puroyakyu-11.json) |
 | Jikkyou Pawafuru Puroyakyu 12 | 124494 | [124494-jikkyou-pawafuru-puroyakyu-12.json](./124494-jikkyou-pawafuru-puroyakyu-12.json) |
 | Jikkyou Pawafuru Puroyakyu 12: Kettei-ban | 229545 | [229545-jikkyou-pawafuru-puroyakyu-12-kettei-ban.json](./229545-jikkyou-pawafuru-puroyakyu-12-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 13 | 78581 | [78581-jikkyou-pawafuru-puroyakyu-13.json](./78581-jikkyou-pawafuru-puroyakyu-13.json) |
@@ -2302,7 +2294,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 7: Kettei-ban | 229541 | [229541-jikkyou-pawafuru-puroyakyu-7-kettei-ban.json](./229541-jikkyou-pawafuru-puroyakyu-7-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 8 | 74702 | [74702-jikkyou-pawafuru-puroyakyu-8.json](./74702-jikkyou-pawafuru-puroyakyu-8.json) |
 | Jikkyou Pawafuru Puroyakyu 8: Kettei-ban | 229543 | [229543-jikkyou-pawafuru-puroyakyu-8-kettei-ban.json](./229543-jikkyou-pawafuru-puroyakyu-8-kettei-ban.json) |
-| Jikkyou Pawafuru Puroyakyu 9 | 92694 | [92694-jikkyou-pawafuru-puroyakyu-9.json](./92694-jikkyou-pawafuru-puroyakyu-9.json) |
 | Jikkyou Pawafuru Puroyakyu Championship 2017 | 98511 | [98511-jikkyou-pawafuru-puroyakyu-championship-2017.json](./98511-jikkyou-pawafuru-puroyakyu-championship-2017.json) |
 | Jikkyou Pawafuru Puroyakyu Heroes | 57868 | [57868-jikkyou-pawafuru-puroyakyu-heroes.json](./57868-jikkyou-pawafuru-puroyakyu-heroes.json) |
 | Jikkyou Pawafuru Puroyakyu Next | 229557 | [229557-jikkyou-pawafuru-puroyakyu-next.json](./229557-jikkyou-pawafuru-puroyakyu-next.json) |
@@ -2861,7 +2852,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Trigger: Sniper | 250578 | [250578-johnny-trigger-sniper.json](./250578-johnny-trigger-sniper.json) |
 | Johnny Trigger: Triple Rebel Edition | 375143 | [375143-johnny-trigger-triple-rebel-edition.json](./375143-johnny-trigger-triple-rebel-edition.json) |
 | Johnny Turbo | 331374 | [331374-johnny-turbo.json](./331374-johnny-turbo.json) |
-| Johnny Turbo's Arcade: Bad Dudes | 95025 | [95025-johnny-turbos-arcade-bad-dudes.json](./95025-johnny-turbos-arcade-bad-dudes.json) |
 | Johnny Turbo's Arcade: Break Thru | 111913 | [111913-johnny-turbos-arcade-break-thru.json](./111913-johnny-turbos-arcade-break-thru.json) |
 | Johnny Turbo's Arcade: Express Raider | 105625 | [105625-johnny-turbos-arcade-express-raider.json](./105625-johnny-turbos-arcade-express-raider.json) |
 | Johnny Turbo's Arcade: Fighter's History | 114203 | [114203-johnny-turbos-arcade-fighters-history.json](./114203-johnny-turbos-arcade-fighters-history.json) |
@@ -4406,7 +4396,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park: The Game | 7025 | [7025-jurassic-park-the-game.json](./7025-jurassic-park-the-game.json) |
 | Jurassic Park: The Game 1 HD | 89173 | [89173-jurassic-park-the-game-1-hd.json](./89173-jurassic-park-the-game-1-hd.json) |
 | Jurassic Park: The Game 2 HD | 89174 | [89174-jurassic-park-the-game-2-hd.json](./89174-jurassic-park-the-game-2-hd.json) |
-| Jurassic Park: The Game 3 HD | 90866 | [90866-jurassic-park-the-game-3-hd.json](./90866-jurassic-park-the-game-3-hd.json) |
 | Jurassic Park: The Game 4 HD | 87272 | [87272-jurassic-park-the-game-4-hd.json](./87272-jurassic-park-the-game-4-hd.json) |
 | Jurassic Pet: Virtual World | 263581 | [263581-jurassic-pet-virtual-world.json](./263581-jurassic-pet-virtual-world.json) |
 | Jurassic Pinball | 102306 | [102306-jurassic-pinball.json](./102306-jurassic-pinball.json) |
