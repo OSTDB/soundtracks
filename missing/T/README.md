@@ -2785,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapper's Fiefdom | 393491 | [393491-tappers-fiefdom.json](./393491-tappers-fiefdom.json) |
 | Tappi Bear All in 1 | 219898 | [219898-tappi-bear-all-in-1.json](./219898-tappi-bear-all-in-1.json) |
 | Tapping Skill Test | 130487 | [130487-tapping-skill-test.json](./130487-tapping-skill-test.json) |
+| Tappingo | 23517 | [23517-tappingo.json](./23517-tappingo.json) |
 | Tappingo 2 | 61991 | [61991-tappingo-2.json](./61991-tappingo-2.json) |
 | Tapple: Idle Clicker | 314240 | [314240-tapple-idle-clicker.json](./314240-tapple-idle-clicker.json) |
 | TapPlease | 107046 | [107046-tapplease.json](./107046-tapplease.json) |
@@ -18383,6 +18384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Romance Theorem | 185367 | [185367-the-romance-theorem.json](./185367-the-romance-theorem.json) |
 | The Romantic Blue | 232551 | [232551-the-romantic-blue.json](./232551-the-romantic-blue.json) |
 | The Rondo of Oblivion | 299007 | [299007-the-rondo-of-oblivion.json](./299007-the-rondo-of-oblivion.json) |
+| The Roof | 23418 | [23418-the-roof.json](./23418-the-roof.json) |
 | The Rookery | 312744 | [312744-the-rookery.json](./312744-the-rookery.json) |
 | The Rookery Way | 286047 | [286047-the-rookery-way.json](./286047-the-rookery-way.json) |
 | The Rookie Prince's Defense Trials | 430103 | [430103-the-rookie-princes-defense-trials.json](./430103-the-rookie-princes-defense-trials.json) |
@@ -19584,6 +19586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smol Mushroomancer | 349073 | [349073-the-smol-mushroomancer.json](./349073-the-smol-mushroomancer.json) |
 | The Smugglers | 191187 | [191187-the-smugglers.json](./191187-the-smugglers.json) |
 | The Smurfs | 106272 | [106272-the-smurfs.json](./106272-the-smurfs.json) |
+| The Smurfs | 23482 | [23482-the-smurfs.json](./23482-the-smurfs.json) |
 | The Smurfs | 287139 | [287139-the-smurfs.json](./287139-the-smurfs.json) |
 | The Smurfs | 287140 | [287140-the-smurfs.json](./287140-the-smurfs.json) |
 | The Smurfs | 287141 | [287141-the-smurfs.json](./287141-the-smurfs.json) |
@@ -27442,6 +27445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Step | 267333 | [267333-tiny-step.json](./267333-tiny-step.json) |
 | Tiny Stories: Santa Closes | 185928 | [185928-tiny-stories-santa-closes.json](./185928-tiny-stories-santa-closes.json) |
 | Tiny Strife | 158083 | [158083-tiny-strife.json](./158083-tiny-strife.json) |
+| Tiny Striker | 23408 | [23408-tiny-striker.json](./23408-tiny-striker.json) |
 | Tiny Striker: World Football | 86939 | [86939-tiny-striker-world-football.json](./86939-tiny-striker-world-football.json) |
 | Tiny Survivors | 244131 | [244131-tiny-survivors.json](./244131-tiny-survivors.json) |
 | Tiny Survivors | 413902 | [413902-tiny-survivors.json](./413902-tiny-survivors.json) |
@@ -38219,6 +38223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twelfth Life | 211989 | [211989-twelfth-life.json](./211989-twelfth-life.json) |
 | Twell | 241379 | [241379-twell.json](./241379-twell.json) |
 | Twelve : Legend of Sealed Gods during the Turbulent Age | 72864 | [72864-twelve-legend-of-sealed-gods-during-the-turbulent-age.json](./72864-twelve-legend-of-sealed-gods-during-the-turbulent-age.json) |
+| Twelve a Dozen | 23428 | [23428-twelve-a-dozen.json](./23428-twelve-a-dozen.json) |
 | Twelve Absent Men | 57282 | [57282-twelve-absent-men.json](./57282-twelve-absent-men.json) |
 | Twelve Chairs | 94370 | [94370-twelve-chairs.json](./94370-twelve-chairs.json) |
 | Twelve Containers | 137187 | [137187-twelve-containers.json](./137187-twelve-containers.json) |
