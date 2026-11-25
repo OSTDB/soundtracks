@@ -4267,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Land VR | 118911 | [118911-dead-land-vr.json](./118911-dead-land-vr.json) |
 | Dead Land: Polygon VR | 324028 | [324028-dead-land-polygon-vr.json](./324028-dead-land-polygon-vr.json) |
 | Dead Lasso: Temple Of Shadows | 398423 | [398423-dead-lasso-temple-of-shadows.json](./398423-dead-lasso-temple-of-shadows.json) |
+| Dead Last | 431450 | [431450-dead-last.json](./431450-dead-last.json) |
 | Dead Letter Dept. | 157024 | [157024-dead-letter-dept.json](./157024-dead-letter-dept.json) |
 | Dead Letters | 276358 | [276358-dead-letters.json](./276358-dead-letters.json) |
 | Dead Like Ants | 216240 | [216240-dead-like-ants.json](./216240-dead-like-ants.json) |
@@ -7076,6 +7077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivering Hope | 260095 | [260095-delivering-hope.json](./260095-delivering-hope.json) |
 | Delivering Letters | 227137 | [227137-delivering-letters.json](./227137-delivering-letters.json) |
 | DeliverwarTH | 372229 | [372229-deliverwarth.json](./372229-deliverwarth.json) |
+| DeliverX | 431400 | [431400-deliverx.json](./431400-deliverx.json) |
 | Delivery | 122596 | [122596-delivery.json](./122596-delivery.json) |
 | Delivery & Beyond | 342937 | [342937-delivery-and-beyond.json](./342937-delivery-and-beyond.json) |
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
@@ -8559,6 +8561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Nard | 389544 | [389544-desktop-nard.json](./389544-desktop-nard.json) |
 | Desktop Pals | 306687 | [306687-desktop-pals.json](./306687-desktop-pals.json) |
 | Desktop Pasture | 360667 | [360667-desktop-pasture.json](./360667-desktop-pasture.json) |
+| Desktop Pecks | 431316 | [431316-desktop-pecks.json](./431316-desktop-pecks.json) |
 | Desktop Pet | 265195 | [265195-desktop-pet.json](./265195-desktop-pet.json) |
 | Desktop Pet Project | 367527 | [367527-desktop-pet-project.json](./367527-desktop-pet-project.json) |
 | Desktop Pinforge | 408873 | [408873-desktop-pinforge.json](./408873-desktop-pinforge.json) |
@@ -15891,6 +15894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dosmine | 71700 | [71700-dosmine.json](./71700-dosmine.json) |
 | DoSolFa-lite | 28146 | [28146-dosolfa-lite.json](./28146-dosolfa-lite.json) |
 | DosQ | 119439 | [119439-dosq.json](./119439-dosq.json) |
+| DosQubos | 431324 | [431324-dosqubos.json](./431324-dosqubos.json) |
 | Dossun! Ganseki Battle | 42560 | [42560-dossun-ganseki-battle.json](./42560-dossun-ganseki-battle.json) |
 | Dostavka | 358930 | [358930-dostavka.json](./358930-dostavka.json) |
 | Dosukoi Densetsu | 397896 | [397896-dosukoi-densetsu.json](./397896-dosukoi-densetsu.json) |
@@ -21170,6 +21174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hunter Champions | 97279 | [97279-dungeon-hunter-champions.json](./97279-dungeon-hunter-champions.json) |
 | Dungeon Hunter Survival | 240881 | [240881-dungeon-hunter-survival.json](./240881-dungeon-hunter-survival.json) |
 | Dungeon Hunter: Alliance | 21140 | [21140-dungeon-hunter-alliance.json](./21140-dungeon-hunter-alliance.json) |
+| Dungeon Idler | 431387 | [431387-dungeon-idler.json](./431387-dungeon-idler.json) |
 | Dungeon Ikusa | 191274 | [191274-dungeon-ikusa.json](./191274-dungeon-ikusa.json) |
 | Dungeon in a Bottle | 222353 | [222353-dungeon-in-a-bottle.json](./222353-dungeon-in-a-bottle.json) |
 | Dungeon in Grid Puzzles | 237244 | [237244-dungeon-in-grid-puzzles.json](./237244-dungeon-in-grid-puzzles.json) |
