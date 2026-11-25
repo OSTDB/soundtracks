@@ -3344,7 +3344,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JPEG | 408591 | [408591-jpeg.json](./408591-jpeg.json) |
 | JPN Burst | 158345 | [158345-jpn-burst.json](./158345-jpn-burst.json) |
 | JQ: Beautiful Japan | 358647 | [358647-jq-beautiful-japan.json](./358647-jq-beautiful-japan.json) |
-| JQ: chemistry | 96633 | [96633-jq-chemistry.json](./96633-jq-chemistry.json) |
 | JQ: cosmos | 117116 | [117116-jq-cosmos.json](./117116-jq-cosmos.json) |
 | JQ: dogs & cats | 91159 | [91159-jq-dogs-and-cats.json](./91159-jq-dogs-and-cats.json) |
 | JR East Train Simulator | 215093 | [215093-jr-east-train-simulator.json](./215093-jr-east-train-simulator.json) |
