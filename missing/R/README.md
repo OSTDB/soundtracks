@@ -8740,6 +8740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rim: Soul Jar | 311163 | [311163-rim-soul-jar.json](./311163-rim-soul-jar.json) |
 | Rima: The Story Begins | 207859 | [207859-rima-the-story-begins.json](./207859-rima-the-story-begins.json) |
 | Rimal Game | 290535 | [290535-rimal-game.json](./290535-rimal-game.json) |
+| Rimba: Keeper of Borneo | 431343 | [431343-rimba-keeper-of-borneo.json](./431343-rimba-keeper-of-borneo.json) |
 | Rime | 299319 | [299319-rime.json](./299319-rime.json) |
 | Rime Berta | 17616 | [17616-rime-berta.json](./17616-rime-berta.json) |
 | Rime's Quest | 293015 | [293015-rimes-quest.json](./293015-rimes-quest.json) |
@@ -8933,6 +8934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rip Cord | 39516 | [39516-rip-cord.json](./39516-rip-cord.json) |
 | Rip Current | 370308 | [370308-rip-current.json](./370308-rip-current.json) |
 | Rip It! Card Collector | 419579 | [419579-rip-it-card-collector.json](./419579-rip-it-card-collector.json) |
+| Rip Me! | 431246 | [431246-rip-me.json](./431246-rip-me.json) |
 | Rip N Ship Simulator | 415279 | [415279-rip-n-ship-simulator.json](./415279-rip-n-ship-simulator.json) |
 | Rip Off | 18742 | [18742-rip-off.json](./18742-rip-off.json) |
 | RIP Party | 375806 | [375806-rip-party.json](./375806-rip-party.json) |
@@ -10678,6 +10680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band: Track Pack - Volume 2 | 80287 | [80287-rock-band-track-pack-volume-2.json](./80287-rock-band-track-pack-volume-2.json) |
 | Rock Blast | 47778 | [47778-rock-blast.json](./47778-rock-blast.json) |
 | Rock Boshers DX | 22112 | [22112-rock-boshers-dx.json](./22112-rock-boshers-dx.json) |
+| Rock Boshers DX: Director's Cut | 23224 | [23224-rock-boshers-dx-directors-cut.json](./23224-rock-boshers-dx-directors-cut.json) |
 | Rock Boshers DX: Ultra Bundle | 119082 | [119082-rock-boshers-dx-ultra-bundle.json](./119082-rock-boshers-dx-ultra-bundle.json) |
 | Rock Bottom | 141856 | [141856-rock-bottom.json](./141856-rock-bottom.json) |
 | Rock Bottom | 184982 | [184982-rock-bottom.json](./184982-rock-bottom.json) |
@@ -14437,6 +14440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Master III: Sangokushi Eiketsuden | 41667 | [41667-rune-master-iii-sangokushi-eiketsuden.json](./41667-rune-master-iii-sangokushi-eiketsuden.json) |
 | Rune Monster | 402883 | [402883-rune-monster.json](./402883-rune-monster.json) |
 | Rune Monsters | 236478 | [236478-rune-monsters.json](./236478-rune-monsters.json) |
+| Rune Night | 431236 | [431236-rune-night.json](./431236-rune-night.json) |
 | Rune No Joka: Hikari To Yami No Seioujo | 295942 | [295942-rune-no-joka-hikari-to-yami-no-seioujo.json](./295942-rune-no-joka-hikari-to-yami-no-seioujo.json) |
 | Rune of Eternity | 194372 | [194372-rune-of-eternity.json](./194372-rune-of-eternity.json) |
 | Rune of Fate | 70753 | [70753-rune-of-fate.json](./70753-rune-of-fate.json) |
