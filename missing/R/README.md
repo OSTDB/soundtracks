@@ -213,7 +213,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids: Legends of the Multiverse | 300343 | [300343-rabbids-legends-of-the-multiverse.json](./300343-rabbids-legends-of-the-multiverse.json) |
 | Rabbids: Party of Legends | 201254 | [201254-rabbids-party-of-legends.json](./201254-rabbids-party-of-legends.json) |
 | Rabbiman Adventures | 318339 | [318339-rabbiman-adventures.json](./318339-rabbiman-adventures.json) |
-| RabbiruN | 93692 | [93692-rabbirun.json](./93692-rabbirun.json) |
 | Rabbit | 46850 | [46850-rabbit.json](./46850-rabbit.json) |
 | Rabbit & Dominoes | 192874 | [192874-rabbit-and-dominoes.json](./192874-rabbit-and-dominoes.json) |
 | Rabbit & Steel: Extra Mode | 388550 | [388550-rabbit-and-steel-extra-mode.json](./388550-rabbit-and-steel-extra-mode.json) |
@@ -1389,7 +1388,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rails | 101017 | [101017-rails.json](./101017-rails.json) |
 | Rails & Rivals | 398621 | [398621-rails-and-rivals.json](./398621-rails-and-rivals.json) |
 | Rails Across America | 68741 | [68741-rails-across-america.json](./68741-rails-across-america.json) |
-| Rails Lite | 91277 | [91277-rails-lite.json](./91277-rails-lite.json) |
 | Rails West | 24661 | [24661-rails-west.json](./24661-rails-west.json) |
 | Railshot | 420430 | [420430-railshot.json](./420430-railshot.json) |
 | Railstrider | 392593 | [392593-railstrider.json](./392593-railstrider.json) |
@@ -1487,7 +1485,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain on Your Parade + Just Crow Things | 331909 | [331909-rain-on-your-parade-just-crow-things.json](./331909-rain-on-your-parade-just-crow-things.json) |
 | Rain on Your Parade + Levels and Features DLC! | 199818 | [199818-rain-on-your-parade-levels-and-features-dlc.json](./199818-rain-on-your-parade-levels-and-features-dlc.json) |
 | Rain on Your Parade: Rain on Your DLC | 199914 | [199914-rain-on-your-parade-rain-on-your-dlc.json](./199914-rain-on-your-parade-rain-on-your-dlc.json) |
-| Rain Project | 90855 | [90855-rain-project.json](./90855-rain-project.json) |
 | Rain Puzzle | 190753 | [190753-rain-puzzle.json](./190753-rain-puzzle.json) |
 | Rain reader | 176313 | [176313-rain-reader.json](./176313-rain-reader.json) |
 | Rain Ruin | 207358 | [207358-rain-ruin.json](./207358-rain-ruin.json) |
@@ -3984,7 +3981,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReBlade: The Death Spiral | 387145 | [387145-reblade-the-death-spiral.json](./387145-reblade-the-death-spiral.json) |
 | Reblica | 289290 | [289290-reblica.json](./289290-reblica.json) |
 | Rebloom | 351101 | [351101-rebloom.json](./351101-rebloom.json) |
-| Reboant - Endless Dawn | 95171 | [95171-reboant-endless-dawn.json](./95171-reboant-endless-dawn.json) |
 | Reboant: Rise of the Nuhort | 75519 | [75519-reboant-rise-of-the-nuhort.json](./75519-reboant-rise-of-the-nuhort.json) |
 | Rebolt | 360062 | [360062-rebolt.json](./360062-rebolt.json) |
 | Rebons | 68890 | [68890-rebons.json](./68890-rebons.json) |
@@ -7013,7 +7009,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Granny's Garden | 70921 | [70921-retro-grannys-garden.json](./70921-retro-grannys-garden.json) |
 | Retro Grid | 348745 | [348745-retro-grid.json](./348745-retro-grid.json) |
 | Retro Gunner | 393021 | [393021-retro-gunner.json](./393021-retro-gunner.json) |
-| Retro Hacker | 90858 | [90858-retro-hacker.json](./90858-retro-hacker.json) |
 | Retro Highway | 241705 | [241705-retro-highway.json](./241705-retro-highway.json) |
 | Retro Highway | 96593 | [96593-retro-highway.json](./96593-retro-highway.json) |
 | Retro Hockey Coach 2021 | 174380 | [174380-retro-hockey-coach-2021.json](./174380-retro-hockey-coach-2021.json) |
@@ -7712,7 +7707,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revload | 298188 | [298188-revload.json](./298188-revload.json) |
 | Revn | 131342 | [131342-revn.json](./131342-revn.json) |
 | Revo | 154694 | [154694-revo.json](./154694-revo.json) |
-| Revoke | 93726 | [93726-revoke.json](./93726-revoke.json) |
 | Revoland | 210661 | [210661-revoland.json](./210661-revoland.json) |
 | Revolgear II | 124390 | [124390-revolgear-ii.json](./124390-revolgear-ii.json) |
 | Revolgear II Ver.D Revision+Ex | 268028 | [268028-revolgear-ii-ver-d-revision-ex.json](./268028-revolgear-ii-ver-d-revision-ex.json) |
@@ -9788,7 +9782,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Runner and Wile E. Coyote | 71438 | [71438-road-runner-and-wile-e-coyote.json](./71438-road-runner-and-wile-e-coyote.json) |
 | Road Runner's Death Valley Rally | 8099 | [8099-road-runners-death-valley-rally.json](./8099-road-runners-death-valley-rally.json) |
 | Road Rush Racer | 235125 | [235125-road-rush-racer.json](./235125-road-rush-racer.json) |
-| Road Scars: Origins | 93060 | [93060-road-scars-origins.json](./93060-road-scars-origins.json) |
 | Road Spirits | 41998 | [41998-road-spirits.json](./41998-road-spirits.json) |
 | Road Star | 359383 | [359383-road-star.json](./359383-road-star.json) |
 | Road Star | 359384 | [359384-road-star.json](./359384-road-star.json) |
@@ -12885,7 +12878,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose of Wind | 365613 | [365613-rose-of-wind.json](./365613-rose-of-wind.json) |
 | Rose of Winter | 26610 | [26610-rose-of-winter.json](./26610-rose-of-winter.json) |
 | Rose Online | 16391 | [16391-rose-online.json](./16391-rose-online.json) |
-| Rose Puzzle | 91097 | [91097-rose-puzzle.json](./91097-rose-puzzle.json) |
 | Rose Racer | 60946 | [60946-rose-racer.json](./60946-rose-racer.json) |
 | Rose Riddle 2: Werewolf Shadow | 127619 | [127619-rose-riddle-2-werewolf-shadow.json](./127619-rose-riddle-2-werewolf-shadow.json) |
 | Rose Riddle: Fairy Tale Detective | 121975 | [121975-rose-riddle-fairy-tale-detective.json](./121975-rose-riddle-fairy-tale-detective.json) |
@@ -14706,7 +14698,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runt | 392177 | [392177-runt.json](./392177-runt.json) |
 | Runt of the Litter | 27586 | [27586-runt-of-the-litter.json](./27586-runt-of-the-litter.json) |
 | Runtalis | 384117 | [384117-runtalis.json](./384117-runtalis.json) |
-| Runventure | 92117 | [92117-runventure.json](./92117-runventure.json) |
 | RunVR | 30732 | [30732-runvr.json](./30732-runvr.json) |
 | Runway | 174345 | [174345-runway.json](./174345-runway.json) |
 | Runway | 370076 | [370076-runway.json](./370076-runway.json) |
