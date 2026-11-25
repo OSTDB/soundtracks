@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia: Adapt and Evolve | 74756 | [74756-gaia-adapt-and-evolve.json](./74756-gaia-adapt-and-evolve.json) |
 | Gaia's Blessing | 278735 | [278735-gaias-blessing.json](./278735-gaias-blessing.json) |
 | Gaia's Decision | 127853 | [127853-gaias-decision.json](./127853-gaias-decision.json) |
+| Gaia's Melody: Echoed Melodies | 74231 | [74231-gaias-melody-echoed-melodies.json](./74231-gaias-melody-echoed-melodies.json) |
 | Gaia's Moon | 63025 | [63025-gaias-moon.json](./63025-gaias-moon.json) |
 | Gaiabreaker | 61316 | [61316-gaiabreaker.json](./61316-gaiabreaker.json) |
 | Gaiadon: Eternal Quest | 318761 | [318761-gaiadon-eternal-quest.json](./318761-gaiadon-eternal-quest.json) |
@@ -1606,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
 | Game Show Wizard | 70167 | [70167-game-show-wizard.json](./70167-game-show-wizard.json) |
 | Game Software wo Tsukurou | 333557 | [333557-game-software-wo-tsukurou.json](./333557-game-software-wo-tsukurou.json) |
+| Game Soup | 112966 | [112966-game-soup.json](./112966-game-soup.json) |
 | Game Stock Car | 63211 | [63211-game-stock-car.json](./63211-game-stock-car.json) |
 | Game Stock Car 2012 | 63210 | [63210-game-stock-car-2012.json](./63210-game-stock-car-2012.json) |
 | Game Stock Car 2013 | 62132 | [62132-game-stock-car-2013.json](./62132-game-stock-car-2013.json) |
@@ -5158,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl and chocolate | 82519 | [82519-girl-and-chocolate.json](./82519-girl-and-chocolate.json) |
 | Girl and Demon 1 | 212829 | [212829-girl-and-demon-1.json](./212829-girl-and-demon-1.json) |
 | Girl as Sweet as Candy | 392515 | [392515-girl-as-sweet-as-candy.json](./392515-girl-as-sweet-as-candy.json) |
+| Girl Blonde | 74178 | [74178-girl-blonde.json](./74178-girl-blonde.json) |
 | Girl Cafe Gun | 139383 | [139383-girl-cafe-gun.json](./139383-girl-cafe-gun.json) |
 | Girl Card Battle | 340301 | [340301-girl-card-battle.json](./340301-girl-card-battle.json) |
 | Girl Design | 415316 | [415316-girl-design.json](./415316-girl-design.json) |
