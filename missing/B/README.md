@@ -3126,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barn Runner: Christmas Soup | 299083 | [299083-barn-runner-christmas-soup.json](./299083-barn-runner-christmas-soup.json) |
 | Barn Runner: The Mayor's New Dress | 299082 | [299082-barn-runner-the-mayors-new-dress.json](./299082-barn-runner-the-mayors-new-dress.json) |
 | Barn Rush | 425449 | [425449-barn-rush.json](./425449-barn-rush.json) |
+| Barn to Orbit | 430976 | [430976-barn-to-orbit.json](./430976-barn-to-orbit.json) |
 | Barn Yarn | 63435 | [63435-barn-yarn.json](./63435-barn-yarn.json) |
 | Barn Yarn: Collector's Edition | 339835 | [339835-barn-yarn-collectors-edition.json](./339835-barn-yarn-collectors-edition.json) |
 | Barnacle | 405614 | [405614-barnacle.json](./405614-barnacle.json) |
@@ -15629,6 +15630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss | 245105 | [245105-boss.json](./245105-boss.json) |
 | Boss 101 | 34959 | [34959-boss-101.json](./34959-boss-101.json) |
 | Boss 101 with S.T.E.V.E. and Max | 59844 | [59844-boss-101-with-s-t-e-v-e-and-max.json](./59844-boss-101-with-s-t-e-v-e-and-max.json) |
+| Boss After Boss | 430922 | [430922-boss-after-boss.json](./430922-boss-after-boss.json) |
 | Boss Barrage | 110986 | [110986-boss-barrage.json](./110986-boss-barrage.json) |
 | Boss Bashing Button Brawlers | 176764 | [176764-boss-bashing-button-brawlers.json](./176764-boss-bashing-button-brawlers.json) |
 | Boss Battle Arena | 371065 | [371065-boss-battle-arena.json](./371065-boss-battle-arena.json) |
