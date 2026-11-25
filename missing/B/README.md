@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bagel Love Story | 298691 | [298691-bagel-love-story.json](./298691-bagel-love-story.json) |
 | Bagelball | 341300 | [341300-bagelball.json](./341300-bagelball.json) |
 | Bagels | 242135 | [242135-bagels.json](./242135-bagels.json) |
+| Baggage Belt | 431392 | [431392-baggage-belt.json](./431392-baggage-belt.json) |
 | Baggage Handler Simulator | 364772 | [364772-baggage-handler-simulator.json](./364772-baggage-handler-simulator.json) |
 | Baggage Inspector | 293854 | [293854-baggage-inspector.json](./293854-baggage-inspector.json) |
 | Baggio's Magical Kicks | 64973 | [64973-baggios-magical-kicks.json](./64973-baggios-magical-kicks.json) |
