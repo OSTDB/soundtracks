@@ -3220,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming-Simulator 2009 | 3169 | [3169-farming-simulator-2009.json](./3169-farming-simulator-2009.json) |
 | Farming-Simulator: Gold Edition | 3170 | [3170-farming-simulator-gold-edition.json](./3170-farming-simulator-gold-edition.json) |
 | FarmingCat | 204369 | [204369-farmingcat.json](./204369-farmingcat.json) |
+| Farmington Tales | 44093 | [44093-farmington-tales.json](./44093-farmington-tales.json) |
 | Farmington Tales 2: Winter Crop | 294225 | [294225-farmington-tales-2-winter-crop.json](./294225-farmington-tales-2-winter-crop.json) |
 | Farmistic | 224263 | [224263-farmistic.json](./224263-farmistic.json) |
 | Farmland Realm | 203990 | [203990-farmland-realm.json](./203990-farmland-realm.json) |
@@ -7254,6 +7255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firewheels Tidy Up Sort Together | 429564 | [429564-firewheels-tidy-up-sort-together.json](./429564-firewheels-tidy-up-sort-together.json) |
 | Firewind | 73322 | [73322-firewind.json](./73322-firewind.json) |
 | FireWing 64 | 57188 | [57188-firewing-64.json](./57188-firewing-64.json) |
+| Firewood | 44574 | [44574-firewood.json](./44574-firewood.json) |
 | Firework | 112854 | [112854-firework.json](./112854-firework.json) |
 | Firework | 139082 | [139082-firework.json](./139082-firework.json) |
 | Firework | 399603 | [399603-firework.json](./399603-firework.json) |
