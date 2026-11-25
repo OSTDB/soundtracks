@@ -1305,7 +1305,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Club | 97059 | [97059-quiz-club.json](./97059-quiz-club.json) |
 | Quiz Club by Breizhae | 427645 | [427645-quiz-club-by-breizhae.json](./427645-quiz-club-by-breizhae.json) |
 | Quiz Country Flags | 104110 | [104110-quiz-country-flags.json](./104110-quiz-country-flags.json) |
-| Quiz Crossword | 90766 | [90766-quiz-crossword.json](./90766-quiz-crossword.json) |
 | Quiz Daisousa Sen: The Last Count Down | 75510 | [75510-quiz-daisousa-sen-the-last-count-down.json](./75510-quiz-daisousa-sen-the-last-count-down.json) |
 | Quiz de Gakuensai | 419046 | [419046-quiz-de-gakuensai.json](./419046-quiz-de-gakuensai.json) |
 | Quiz de Idol! Hot Debut | 137147 | [137147-quiz-de-idol-hot-debut.json](./137147-quiz-de-idol-hot-debut.json) |
@@ -1438,7 +1437,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quizz | 277976 | [277976-quizz.json](./277976-quizz.json) |
 | Quizz: Multiplayer Pack | 285325 | [285325-quizz-multiplayer-pack.json](./285325-quizz-multiplayer-pack.json) |
 | Quizzical | 306776 | [306776-quizzical.json](./306776-quizzical.json) |
-| Quizzitive | 90287 | [90287-quizzitive.json](./90287-quizzitive.json) |
 | QuizzLingo | 353196 | [353196-quizzlingo.json](./353196-quizzlingo.json) |
 | Quizzummah | 104559 | [104559-quizzummah.json](./104559-quizzummah.json) |
 | Qūlíngshī | 128957 | [128957-qulingshi.json](./128957-qulingshi.json) |
