@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Motor | 37334 | [37334-mad-motor.json](./37334-mad-motor.json) |
 | Mad Murder's Mystery Pie Shop | 196891 | [196891-mad-murders-mystery-pie-shop.json](./196891-mad-murders-mystery-pie-shop.json) |
 | Mad Mustache | 152789 | [152789-mad-mustache.json](./152789-mad-mustache.json) |
+| Mad Muzzles | 41925 | [41925-mad-muzzles.json](./41925-mad-muzzles.json) |
 | Mad News | 265973 | [265973-mad-news.json](./265973-mad-news.json) |
 | Mad News | 79752 | [79752-mad-news.json](./79752-mad-news.json) |
 | Mad Nords: Probably an Epic Quest | 34327 | [34327-mad-nords-probably-an-epic-quest.json](./34327-mad-nords-probably-an-epic-quest.json) |
@@ -775,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Chambers | 246947 | [246947-madness-chambers.json](./246947-madness-chambers.json) |
 | Madness Combat | 252101 | [252101-madness-combat.json](./252101-madness-combat.json) |
 | Madness Combat FPS: Fueled by Hot Dogs | 281629 | [281629-madness-combat-fps-fueled-by-hot-dogs.json](./281629-madness-combat-fps-fueled-by-hot-dogs.json) |
+| Madness Cubed | 33259 | [33259-madness-cubed.json](./33259-madness-cubed.json) |
 | Madness Fantasy | 132930 | [132930-madness-fantasy.json](./132930-madness-fantasy.json) |
 | Madness Hydraulic | 290417 | [290417-madness-hydraulic.json](./290417-madness-hydraulic.json) |
 | Madness in Square Garden | 214965 | [214965-madness-in-square-garden.json](./214965-madness-in-square-garden.json) |
