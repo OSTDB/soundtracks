@@ -9833,6 +9833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman Collection | 74880 | [74880-hitman-collection.json](./74880-hitman-collection.json) |
 | Hitman Go | 6073 | [6073-hitman-go.json](./6073-hitman-go.json) |
 | Hitman Go: Definitive Edition | 21580 | [21580-hitman-go-definitive-edition.json](./21580-hitman-go-definitive-edition.json) |
+| Hitman Go: VR Edition | 23487 | [23487-hitman-go-vr-edition.json](./23487-hitman-go-vr-edition.json) |
 | Hitman HD Enhanced Collection | 113533 | [113533-hitman-hd-enhanced-collection.json](./113533-hitman-hd-enhanced-collection.json) |
 | Hitman HD Pack | 106171 | [106171-hitman-hd-pack.json](./106171-hitman-hd-pack.json) |
 | Hitman HD Trilogy | 20749 | [20749-hitman-hd-trilogy.json](./20749-hitman-hd-trilogy.json) |
