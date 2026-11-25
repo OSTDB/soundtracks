@@ -4771,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Knight | 151408 | [151408-cat-knight.json](./151408-cat-knight.json) |
 | Cat Knights | 90096 | [90096-cat-knights.json](./90096-cat-knights.json) |
 | Cat Lab! | 344527 | [344527-cat-lab.json](./344527-cat-lab.json) |
+| Cat Lady: The Card Game | 129839 | [129839-cat-lady-the-card-game.json](./129839-cat-lady-the-card-game.json) |
 | Cat Leather Jackets | 162435 | [162435-cat-leather-jackets.json](./162435-cat-leather-jackets.json) |
 | Cat Legend | 274554 | [274554-cat-legend.json](./274554-cat-legend.json) |
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
@@ -9150,6 +9151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chook & Sosig: A Case of Murder | 134411 | [134411-chook-and-sosig-a-case-of-murder.json](./134411-chook-and-sosig-a-case-of-murder.json) |
 | Chook & Sosig: Hit the Club | 134413 | [134413-chook-and-sosig-hit-the-club.json](./134413-chook-and-sosig-hit-the-club.json) |
 | Chook & Sosig: Long Weekend | 134412 | [134412-chook-and-sosig-long-weekend.json](./134412-chook-and-sosig-long-weekend.json) |
+| Chook & Sosig: Walk the Plank | 113014 | [113014-chook-and-sosig-walk-the-plank.json](./113014-chook-and-sosig-walk-the-plank.json) |
 | Choom | 392983 | [392983-choom.json](./392983-choom.json) |
 | Choose | 349536 | [349536-choose.json](./349536-choose.json) |
 | Choose a Mech | 395896 | [395896-choose-a-mech.json](./395896-choose-a-mech.json) |
@@ -11850,6 +11852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleimos | 260945 | [260945-cleimos.json](./260945-cleimos.json) |
 | Cleimos II | 260946 | [260946-cleimos-ii.json](./260946-cleimos-ii.json) |
 | Cleithrophobia | 152706 | [152706-cleithrophobia.json](./152706-cleithrophobia.json) |
+| Clem | 203449 | [203449-clem.json](./203449-clem.json) |
 | Clem: The First Attribute | 280093 | [280093-clem-the-first-attribute.json](./280093-clem-the-first-attribute.json) |
 | Clency and Livia | 284293 | [284293-clency-and-livia.json](./284293-clency-and-livia.json) |
 | Cleo: A Pirate's Tale | 137216 | [137216-cleo-a-pirates-tale.json](./137216-cleo-a-pirates-tale.json) |
@@ -15878,6 +15881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connection | 322574 | [322574-connection.json](./322574-connection.json) |
 | Connection Crawler | 418586 | [418586-connection-crawler.json](./418586-connection-crawler.json) |
 | Connection Error | 234022 | [234022-connection-error.json](./234022-connection-error.json) |
+| Connection Haunted | 130152 | [130152-connection-haunted.json](./130152-connection-haunted.json) |
 | Connection Lost | 212176 | [212176-connection-lost.json](./212176-connection-lost.json) |
 | Connection of Worlds: Mirrored Earths - Collector's Edition | 338062 | [338062-connection-of-worlds-mirrored-earths-collectors-edition.json](./338062-connection-of-worlds-mirrored-earths-collectors-edition.json) |
 | Connection Pools | 338150 | [338150-connection-pools.json](./338150-connection-pools.json) |
@@ -21004,6 +21008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossout: Wholesale Recall Pack | 226838 | [226838-crossout-wholesale-recall-pack.json](./226838-crossout-wholesale-recall-pack.json) |
 | Crossover Clover | 365798 | [365798-crossover-clover.json](./365798-crossover-clover.json) |
 | Crossover Collab | 379890 | [379890-crossover-collab.json](./379890-crossover-collab.json) |
+| CrossOver: Roll For Initiative | 202861 | [202861-crossover-roll-for-initiative.json](./202861-crossover-roll-for-initiative.json) |
 | Crossovers 2 by Powgi | 140417 | [140417-crossovers-2-by-powgi.json](./140417-crossovers-2-by-powgi.json) |
 | Crossovers by Powgi | 117488 | [117488-crossovers-by-powgi.json](./117488-crossovers-by-powgi.json) |
 | Crossovertale | 330368 | [330368-crossovertale.json](./330368-crossovertale.json) |
