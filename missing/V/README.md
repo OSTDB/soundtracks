@@ -4030,6 +4030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volatility | 415551 | [415551-volatility.json](./415551-volatility.json) |
 | Volcan Defend the Tower | 110481 | [110481-volcan-defend-the-tower.json](./110481-volcan-defend-the-tower.json) |
 | Volcanewt | 304572 | [304572-volcanewt.json](./304572-volcanewt.json) |
+| Volcango | 430606 | [430606-volcango.json](./430606-volcango.json) |
 | Volcania Peaks | 254120 | [254120-volcania-peaks.json](./254120-volcania-peaks.json) |
 | Volcanic Bird: Bird Quest | 278883 | [278883-volcanic-bird-bird-quest.json](./278883-volcanic-bird-bird-quest.json) |
 | Volcanic Blocks | 108335 | [108335-volcanic-blocks.json](./108335-volcanic-blocks.json) |
