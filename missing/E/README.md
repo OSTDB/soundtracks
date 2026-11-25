@@ -2788,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements Destiny | 143432 | [143432-elements-destiny.json](./143432-elements-destiny.json) |
 | Elements Divided | 341790 | [341790-elements-divided.json](./341790-elements-divided.json) |
 | Elements For Money | 287243 | [287243-elements-for-money.json](./287243-elements-for-money.json) |
+| Elements II: Hearts of Light | 33352 | [33352-elements-ii-hearts-of-light.json](./33352-elements-ii-hearts-of-light.json) |
 | Elements of Destruction | 210292 | [210292-elements-of-destruction.json](./210292-elements-of-destruction.json) |
 | Elements of Destruction | 21517 | [21517-elements-of-destruction.json](./21517-elements-of-destruction.json) |
 | Elements of Dreams | 189002 | [189002-elements-of-dreams.json](./189002-elements-of-dreams.json) |
@@ -5129,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EnvironmentZ | 374724 | [374724-environmentz.json](./374724-environmentz.json) |
 | Envoy | 265360 | [265360-envoy.json](./265360-envoy.json) |
 | Envoy | 33413 | [33413-envoy.json](./33413-envoy.json) |
+| Envoy 2 | 33367 | [33367-envoy-2.json](./33367-envoy-2.json) |
 | Envoy of Nezphere | 105309 | [105309-envoy-of-nezphere.json](./105309-envoy-of-nezphere.json) |
 | Envy the Dead | 33227 | [33227-envy-the-dead.json](./33227-envy-the-dead.json) |
 | Envyus | 269967 | [269967-envyus.json](./269967-envyus.json) |
