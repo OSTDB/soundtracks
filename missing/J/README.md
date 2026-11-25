@@ -4429,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution 2: Cretaceous Predator Pack | 277848 | [277848-jurassic-world-evolution-2-cretaceous-predator-pack.json](./277848-jurassic-world-evolution-2-cretaceous-predator-pack.json) |
 | Jurassic World Evolution 2: Deluxe Edition | 169166 | [169166-jurassic-world-evolution-2-deluxe-edition.json](./169166-jurassic-world-evolution-2-deluxe-edition.json) |
 | Jurassic World Evolution 2: Dominion Biosyn Bundle | 207940 | [207940-jurassic-world-evolution-2-dominion-biosyn-bundle.json](./207940-jurassic-world-evolution-2-dominion-biosyn-bundle.json) |
+| Jurassic World Evolution 2: Dominion Biosyn Expansion | 203760 | [203760-jurassic-world-evolution-2-dominion-biosyn-expansion.json](./203760-jurassic-world-evolution-2-dominion-biosyn-expansion.json) |
 | Jurassic World Evolution 2: Dominion Bundle | 228844 | [228844-jurassic-world-evolution-2-dominion-bundle.json](./228844-jurassic-world-evolution-2-dominion-bundle.json) |
 | Jurassic World Evolution 2: Dominion Malta Expansion | 228747 | [228747-jurassic-world-evolution-2-dominion-malta-expansion.json](./228747-jurassic-world-evolution-2-dominion-malta-expansion.json) |
 | Jurassic World Evolution 2: Early Cretaceous Pack | 226867 | [226867-jurassic-world-evolution-2-early-cretaceous-pack.json](./226867-jurassic-world-evolution-2-early-cretaceous-pack.json) |
