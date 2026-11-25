@@ -9937,6 +9937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drill RPG | 159939 | [159939-the-drill-rpg.json](./159939-the-drill-rpg.json) |
 | The Driver | 65624 | [65624-the-driver.json](./65624-the-driver.json) |
 | The Driver Syndicate | 374545 | [374545-the-driver-syndicate.json](./374545-the-driver-syndicate.json) |
+| The Driver Takeshiba | 418130 | [418130-the-driver-takeshiba.json](./418130-the-driver-takeshiba.json) |
 | The Driver's Mission | 121195 | [121195-the-drivers-mission.json](./121195-the-drivers-mission.json) |
 | The Drone Lord | 343308 | [343308-the-drone-lord.json](./343308-the-drone-lord.json) |
 | The Drone Racing League Simulator | 76735 | [76735-the-drone-racing-league-simulator.json](./76735-the-drone-racing-league-simulator.json) |
@@ -17988,6 +17989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rapture is Here and You will be Forcibly Removed from Your Home | 62315 | [62315-the-rapture-is-here-and-you-will-be-forcibly-removed-from-your-home.json](./62315-the-rapture-is-here-and-you-will-be-forcibly-removed-from-your-home.json) |
 | The Raptured | 289967 | [289967-the-raptured.json](./289967-the-raptured.json) |
 | The Rare Nine | 74612 | [74612-the-rare-nine.json](./74612-the-rare-nine.json) |
+| The Rat Eater | 423501 | [423501-the-rat-eater.json](./423501-the-rat-eater.json) |
 | The Rat Plague | 212024 | [212024-the-rat-plague.json](./212024-the-rat-plague.json) |
 | The Ratchelor Season 2 | 191517 | [191517-the-ratchelor-season-2.json](./191517-the-ratchelor-season-2.json) |
 | The Ratchelor Season 3: Rats in the City | 279804 | [279804-the-ratchelor-season-3-rats-in-the-city.json](./279804-the-ratchelor-season-3-rats-in-the-city.json) |
@@ -28085,6 +28087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Moon: Sigmund Minisode 2 | 191337 | [191337-to-the-moon-sigmund-minisode-2.json](./191337-to-the-moon-sigmund-minisode-2.json) |
 | To the Moon: Sigmund Minisode 2 (Holiday Special) | 327444 | [327444-to-the-moon-sigmund-minisode-2-holiday-special.json](./327444-to-the-moon-sigmund-minisode-2-holiday-special.json) |
 | To the Mountain | 331128 | [331128-to-the-mountain.json](./331128-to-the-mountain.json) |
+| To the Next Dawn | 419637 | [419637-to-the-next-dawn.json](./419637-to-the-next-dawn.json) |
 | To the Ones We Lost | 186600 | [186600-to-the-ones-we-lost.json](./186600-to-the-ones-we-lost.json) |
 | To the Other Side of the World | 128812 | [128812-to-the-other-side-of-the-world.json](./128812-to-the-other-side-of-the-world.json) |
 | To the Rescue | 359443 | [359443-to-the-rescue.json](./359443-to-the-rescue.json) |
@@ -32445,6 +32448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trails of Gold Privateers | 191139 | [191139-trails-of-gold-privateers.json](./191139-trails-of-gold-privateers.json) |
 | Trails of Illusion | 197951 | [197951-trails-of-illusion.json](./197951-trails-of-illusion.json) |
 | Trails of Starlight | 423386 | [423386-trails-of-starlight.json](./423386-trails-of-starlight.json) |
+| Trails of Suebia | 419139 | [419139-trails-of-suebia.json](./419139-trails-of-suebia.json) |
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
 | Trails of Tenere | 182791 | [182791-trails-of-tenere.json](./182791-trails-of-tenere.json) |
 | Trails of the Ancestors | 212828 | [212828-trails-of-the-ancestors.json](./212828-trails-of-the-ancestors.json) |
