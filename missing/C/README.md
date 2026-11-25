@@ -3499,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Command: Gaea Mission | 6934 | [6934-carrier-command-gaea-mission.json](./6934-carrier-command-gaea-mission.json) |
 | Carrier Commander | 186799 | [186799-carrier-commander.json](./186799-carrier-commander.json) |
 | Carrier Cuties: Pets in Mechs! | 403371 | [403371-carrier-cuties-pets-in-mechs.json](./403371-carrier-cuties-pets-in-mechs.json) |
+| Carrier Deck | 40566 | [40566-carrier-deck.json](./40566-carrier-deck.json) |
 | Carrier Force | 24388 | [24388-carrier-force.json](./24388-carrier-force.json) |
 | Carrier Joe 2 | 207845 | [207845-carrier-joe-2.json](./207845-carrier-joe-2.json) |
 | Carrier Landing HD | 103940 | [103940-carrier-landing-hd.json](./103940-carrier-landing-hd.json) |
@@ -4249,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Lust: Hentai Fantasy Game | 368023 | [368023-castle-of-lust-hentai-fantasy-game.json](./368023-castle-of-lust-hentai-fantasy-game.json) |
 | Castle of Magic | 21855 | [21855-castle-of-magic.json](./21855-castle-of-magic.json) |
 | Castle of Monsters: The Last Knight | 428375 | [428375-castle-of-monsters-the-last-knight.json](./428375-castle-of-monsters-the-last-knight.json) |
+| Castle of no Escape | 41958 | [41958-castle-of-no-escape.json](./41958-castle-of-no-escape.json) |
 | Castle of no Escape 1+2 Bundle | 218464 | [218464-castle-of-no-escape-1-2-bundle.json](./218464-castle-of-no-escape-1-2-bundle.json) |
 | Castle of No Escape 2 | 30947 | [30947-castle-of-no-escape-2.json](./30947-castle-of-no-escape-2.json) |
 | Castle of Oblivion | 271955 | [271955-castle-of-oblivion.json](./271955-castle-of-oblivion.json) |
@@ -6690,6 +6692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chamber.Repeat(); | 186053 | [186053-chamber-repeat.json](./186053-chamber-repeat.json) |
 | Chamberbound | 247363 | [247363-chamberbound.json](./247363-chamberbound.json) |
 | Chambered | 385381 | [385381-chambered.json](./385381-chambered.json) |
+| Chambered | 40708 | [40708-chambered.json](./40708-chambered.json) |
 | Chambered Fate | 267249 | [267249-chambered-fate.json](./267249-chambered-fate.json) |
 | ChamberedGML | 325200 | [325200-chamberedgml.json](./325200-chamberedgml.json) |
 | Chamberflame | 275540 | [275540-chamberflame.json](./275540-chamberflame.json) |
@@ -13182,6 +13185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: OOC | 413828 | [413828-code-ooc.json](./413828-code-ooc.json) |
 | Code: R | 193825 | [193825-code-r.json](./193825-code-r.json) |
 | Code: Realize - Bouquet of Rainbows | 41822 | [41822-code-realize-bouquet-of-rainbows.json](./41822-code-realize-bouquet-of-rainbows.json) |
+| Code: Realize - Future Blessings | 41821 | [41821-code-realize-future-blessings.json](./41821-code-realize-future-blessings.json) |
 | Code: Realize - Guardian of Rebirth | 19475 | [19475-code-realize-guardian-of-rebirth.json](./19475-code-realize-guardian-of-rebirth.json) |
 | Code: Realize - Wintertide Miracles | 105000 | [105000-code-realize-wintertide-miracles.json](./105000-code-realize-wintertide-miracles.json) |
 | Code: Realize ~Bouquet of Rainbows~ Limited Edition | 121210 | [121210-code-realize-bouquet-of-rainbows-limited-edition.json](./121210-code-realize-bouquet-of-rainbows-limited-edition.json) |
@@ -15265,6 +15269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Community College Hero: Trial by Fire | 34205 | [34205-community-college-hero-trial-by-fire.json](./34205-community-college-hero-trial-by-fire.json) |
 | Community Garden | 68589 | [68589-community-garden.json](./68589-community-garden.json) |
 | Community Helpers Play & Learn | 88999 | [88999-community-helpers-play-and-learn.json](./88999-community-helpers-play-and-learn.json) |
+| Community Inc | 40546 | [40546-community-inc.json](./40546-community-inc.json) |
 | Community Pom | 62873 | [62873-community-pom.json](./62873-community-pom.json) |
 | CommunityUs | 117570 | [117570-communityus.json](./117570-communityus.json) |
 | Commutator | 393758 | [393758-commutator.json](./393758-commutator.json) |
