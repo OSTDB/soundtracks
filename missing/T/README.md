@@ -15281,6 +15281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Longest Road on Earth | 145079 | [145079-the-longest-road-on-earth.json](./145079-the-longest-road-on-earth.json) |
 | The Longest Road on Earth: Backstage Edition | 159695 | [159695-the-longest-road-on-earth-backstage-edition.json](./159695-the-longest-road-on-earth-backstage-edition.json) |
 | The Longest Road on Earth: World Tour Bundle | 223446 | [223446-the-longest-road-on-earth-world-tour-bundle.json](./223446-the-longest-road-on-earth-world-tour-bundle.json) |
+| The Longest Sword | 431292 | [431292-the-longest-sword.json](./431292-the-longest-sword.json) |
 | The Longest Tale | 338110 | [338110-the-longest-tale.json](./338110-the-longest-tale.json) |
 | The Longest Walk | 215736 | [215736-the-longest-walk.json](./215736-the-longest-walk.json) |
 | The Longing | 107927 | [107927-the-longing.json](./107927-the-longing.json) |
