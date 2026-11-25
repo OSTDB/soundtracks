@@ -2769,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Planet | 427884 | [427884-one-more-planet.json](./427884-one-more-planet.json) |
 | One More Plate | 322091 | [322091-one-more-plate.json](./322091-one-more-plate.json) |
 | One More Question | 341506 | [341506-one-more-question.json](./341506-one-more-question.json) |
+| One More Rock! | 431284 | [431284-one-more-rock.json](./431284-one-more-rock.json) |
 | One More Run | 338534 | [338534-one-more-run.json](./338534-one-more-run.json) |
 | One More Run: Endless Cricket Runner | 233161 | [233161-one-more-run-endless-cricket-runner.json](./233161-one-more-run-endless-cricket-runner.json) |
 | One More Shooter Game | 271609 | [271609-one-more-shooter-game.json](./271609-one-more-shooter-game.json) |
@@ -4651,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore & Odds | 400688 | [400688-ore-and-odds.json](./400688-ore-and-odds.json) |
 | Ore Dake no Idol: eye no Sainou | 194594 | [194594-ore-dake-no-idol-eye-no-sainou.json](./194594-ore-dake-no-idol-eye-no-sainou.json) |
 | Ore Excavation | 233697 | [233697-ore-excavation.json](./233697-ore-excavation.json) |
+| Ore Express | 431280 | [431280-ore-express.json](./431280-ore-express.json) |
 | Ore Factory Squad | 395307 | [395307-ore-factory-squad.json](./395307-ore-factory-squad.json) |
 | Ore ga Konna ni Tsuyoi no mo Akira Maeda no Cracker | 280458 | [280458-ore-ga-konna-ni-tsuyoi-no-mo-akira-maeda-no-cracker.json](./280458-ore-ga-konna-ni-tsuyoi-no-mo-akira-maeda-no-cracker.json) |
 | Ore ga Omae wo Mamoru | 69213 | [69213-ore-ga-omae-wo-mamoru.json](./69213-ore-ga-omae-wo-mamoru.json) |
@@ -6122,6 +6124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outracer | 51575 | [51575-outracer.json](./51575-outracer.json) |
 | OutRage: Fight Fest | 262662 | [262662-outrage-fight-fest.json](./262662-outrage-fight-fest.json) |
 | Outrageous Grounds: The Maze | 31739 | [31739-outrageous-grounds-the-maze.json](./31739-outrageous-grounds-the-maze.json) |
+| Outralism | 431282 | [431282-outralism.json](./431282-outralism.json) |
 | Outranked | 220617 | [220617-outranked.json](./220617-outranked.json) |
 | Outrankers | 361944 | [361944-outrankers.json](./361944-outrankers.json) |
 | Outreach | 25218 | [25218-outreach.json](./25218-outreach.json) |
