@@ -6498,6 +6498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phineas and Ferb Ride Again | 66260 | [66260-phineas-and-ferb-ride-again.json](./66260-phineas-and-ferb-ride-again.json) |
 | Phineas and Ferb: Across the Second Dimension | 291548 | [291548-phineas-and-ferb-across-the-second-dimension.json](./291548-phineas-and-ferb-across-the-second-dimension.json) |
 | Phineas and Ferb: Across the Second Dimension | 52668 | [52668-phineas-and-ferb-across-the-second-dimension.json](./52668-phineas-and-ferb-across-the-second-dimension.json) |
+| Phineas and Ferb: Day of Doofenshmirtz | 23476 | [23476-phineas-and-ferb-day-of-doofenshmirtz.json](./23476-phineas-and-ferb-day-of-doofenshmirtz.json) |
 | Phineas and Ferb: New Inventions | 17743 | [17743-phineas-and-ferb-new-inventions.json](./17743-phineas-and-ferb-new-inventions.json) |
 | Phineas and Ferb: Quest for Cool Stuff | 5318 | [5318-phineas-and-ferb-quest-for-cool-stuff.json](./5318-phineas-and-ferb-quest-for-cool-stuff.json) |
 | Phineas and Ferb: The Movie Game - The Dimension of Doooom! | 395843 | [395843-phineas-and-ferb-the-movie-game-the-dimension-of-doooom.json](./395843-phineas-and-ferb-the-movie-game-the-dimension-of-doooom.json) |
@@ -20883,6 +20884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puym: Lake | 242972 | [242972-puym-lake.json](./242972-puym-lake.json) |
 | Puyo Card | 253761 | [253761-puyo-card.json](./253761-puyo-card.json) |
 | Puyo Ponyo Lines | 260895 | [260895-puyo-ponyo-lines.json](./260895-puyo-ponyo-lines.json) |
+| Puyo Pop | 23455 | [23455-puyo-pop.json](./23455-puyo-pop.json) |
 | Puyo Pop | 81459 | [81459-puyo-pop.json](./81459-puyo-pop.json) |
 | Puyo Pop | 86662 | [86662-puyo-pop.json](./86662-puyo-pop.json) |
 | Puyo Pop Fever | 248503 | [248503-puyo-pop-fever.json](./248503-puyo-pop-fever.json) |
