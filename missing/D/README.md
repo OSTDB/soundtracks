@@ -535,7 +535,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dairantou Kanoair Smash 2002 | 196867 | [196867-dairantou-kanoair-smash-2002.json](./196867-dairantou-kanoair-smash-2002.json) |
 | Dairojo! Samurai Defenders | 85067 | [85067-dairojo-samurai-defenders.json](./85067-dairojo-samurai-defenders.json) |
 | Dairoku: Agents of Sakuratani | 146180 | [146180-dairoku-agents-of-sakuratani.json](./146180-dairoku-agents-of-sakuratani.json) |
-| Dairy Dash | 90700 | [90700-dairy-dash.json](./90700-dairy-dash.json) |
 | Dairy Dave | 157316 | [157316-dairy-dave.json](./157316-dairy-dave.json) |
 | Dairy Empire | 424434 | [424434-dairy-empire.json](./424434-dairy-empire.json) |
 | Dairy of the Dead | 339362 | [339362-dairy-of-the-dead.json](./339362-dairy-of-the-dead.json) |
@@ -946,7 +945,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Praise: The Original | 209001 | [209001-dance-praise-the-original.json](./209001-dance-praise-the-original.json) |
 | Dance Rail 3 | 220889 | [220889-dance-rail-3.json](./220889-dance-rail-3.json) |
 | Dance Reality | 115948 | [115948-dance-reality.json](./115948-dance-reality.json) |
-| Dance School Stories | 89824 | [89824-dance-school-stories.json](./89824-dance-school-stories.json) |
 | Dance Sensation! | 50667 | [50667-dance-sensation.json](./50667-dance-sensation.json) |
 | Dance Sparkle: Girls Tournament | 420837 | [420837-dance-sparkle-girls-tournament.json](./420837-dance-sparkle-girls-tournament.json) |
 | Dance Station Stepper | 141588 | [141588-dance-station-stepper.json](./141588-dance-station-stepper.json) |
@@ -1415,7 +1413,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darby is Here Forever | 325764 | [325764-darby-is-here-forever.json](./325764-darby-is-here-forever.json) |
 | Darby the Dragon | 72931 | [72931-darby-the-dragon.json](./72931-darby-the-dragon.json) |
 | Darcade | 28447 | [28447-darcade.json](./28447-darcade.json) |
-| Darco: Reign of Elements | 90092 | [90092-darco-reign-of-elements.json](./90092-darco-reign-of-elements.json) |
 | Darconika: The Cube of Soul | 32850 | [32850-darconika-the-cube-of-soul.json](./32850-darconika-the-cube-of-soul.json) |
 | Dardeep | 232967 | [232967-dardeep.json](./232967-dardeep.json) |
 | Dare | 130352 | [130352-dare.json](./130352-dare.json) |
@@ -7268,7 +7265,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deluxe Ski Jump 4 | 7500 | [7500-deluxe-ski-jump-4.json](./7500-deluxe-ski-jump-4.json) |
 | Deluxe Space Invaders | 64077 | [64077-deluxe-space-invaders.json](./64077-deluxe-space-invaders.json) |
 | Deluxe Sudoku | 88575 | [88575-deluxe-sudoku.json](./88575-deluxe-sudoku.json) |
-| Deluxe Track&Field | 90506 | [90506-deluxe-track-and-field.json](./90506-deluxe-track-and-field.json) |
 | Deluxe Trivial Pursuit | 265974 | [265974-deluxe-trivial-pursuit.json](./265974-deluxe-trivial-pursuit.json) |
 | Delve | 102445 | [102445-delve.json](./102445-delve.json) |
 | Delve | 361676 | [361676-delve.json](./361676-delve.json) |
@@ -7427,7 +7423,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Master 3D HD | 175447 | [175447-demolition-master-3d-hd.json](./175447-demolition-master-3d-hd.json) |
 | Demolition Master: Project Implode All | 224993 | [224993-demolition-master-project-implode-all.json](./224993-demolition-master-project-implode-all.json) |
 | Demolition Party | 235815 | [235815-demolition-party.json](./235815-demolition-party.json) |
-| Demolition Physics | 90510 | [90510-demolition-physics.json](./90510-demolition-physics.json) |
 | Demolition Plant | 270710 | [270710-demolition-plant.json](./270710-demolition-plant.json) |
 | Demolition Pro Online | 225992 | [225992-demolition-pro-online.json](./225992-demolition-pro-online.json) |
 | Demolition Race | 192974 | [192974-demolition-race.json](./192974-demolition-race.json) |
@@ -10556,7 +10551,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digerati Horror Bundle | 188178 | [188178-digerati-horror-bundle.json](./188178-digerati-horror-bundle.json) |
 | Digerati Horror Bundle Vol. 2 | 164683 | [164683-digerati-horror-bundle-vol-2.json](./164683-digerati-horror-bundle-vol-2.json) |
 | Digerati Indie Bundle: INK & HackyZack | 111149 | [111149-digerati-indie-bundle-ink-and-hackyzack.json](./111149-digerati-indie-bundle-ink-and-hackyzack.json) |
-| Digerati Pixel Art Bundle Part 1 | 90663 | [90663-digerati-pixel-art-bundle-part-1.json](./90663-digerati-pixel-art-bundle-part-1.json) |
 | Digerati Presents: If You Don't Have Xbox Game Pass Bundle | 200513 | [200513-digerati-presents-if-you-dont-have-xbox-game-pass-bundle.json](./200513-digerati-presents-if-you-dont-have-xbox-game-pass-bundle.json) |
 | Digerati Presents: Indie Darling Bundle Vol. 5 | 204275 | [204275-digerati-presents-indie-darling-bundle-vol-5.json](./204275-digerati-presents-indie-darling-bundle-vol-5.json) |
 | Digerati Presents: Make It Quick Bundle Vol. 1 | 146946 | [146946-digerati-presents-make-it-quick-bundle-vol-1.json](./146946-digerati-presents-make-it-quick-bundle-vol-1.json) |
@@ -11773,7 +11767,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Frenzy | 296720 | [296720-disc-frenzy.json](./296720-disc-frenzy.json) |
 | Disc Golf | 273694 | [273694-disc-golf.json](./273694-disc-golf.json) |
 | Disc Golf | 67809 | [67809-disc-golf.json](./67809-disc-golf.json) |
-| Disc Golf 3D | 89808 | [89808-disc-golf-3d.json](./89808-disc-golf-3d.json) |
 | Disc Golf Adventure 2 VR | 148481 | [148481-disc-golf-adventure-2-vr.json](./148481-disc-golf-adventure-2-vr.json) |
 | Disc Golf Adventure VR | 126822 | [126822-disc-golf-adventure-vr.json](./126822-disc-golf-adventure-vr.json) |
 | Disc Golf City | 350805 | [350805-disc-golf-city.json](./350805-disc-golf-city.json) |
@@ -13291,7 +13284,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You Even Forklift? | 347479 | [347479-do-you-even-forklift.json](./347479-do-you-even-forklift.json) |
 | Do You Have a Moment to Talk About Our Lord and Savior? | 336668 | [336668-do-you-have-a-moment-to-talk-about-our-lord-and-savior.json](./336668-do-you-have-a-moment-to-talk-about-our-lord-and-savior.json) |
 | Do you have Akira points? | 159590 | [159590-do-you-have-akira-points.json](./159590-do-you-have-akira-points.json) |
-| Do you know de way | 89966 | [89966-do-you-know-de-way.json](./89966-do-you-know-de-way.json) |
 | Do You Know Kimchi? | 311852 | [311852-do-you-know-kimchi.json](./311852-do-you-know-kimchi.json) |
 | Do You Like Horny Bunnies? 2 | 72261 | [72261-do-you-like-horny-bunnies-2.json](./72261-do-you-like-horny-bunnies-2.json) |
 | Do You Like Horny Bunnies? Complete Collection | 201172 | [201172-do-you-like-horny-bunnies-complete-collection.json](./201172-do-you-like-horny-bunnies-complete-collection.json) |
@@ -14681,7 +14673,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pop Yellow or White | 200214 | [200214-dont-pop-yellow-or-white.json](./200214-dont-pop-yellow-or-white.json) |
 | Don't Pop! Dungeon | 56786 | [56786-dont-pop-dungeon.json](./56786-dont-pop-dungeon.json) |
 | Don’t Pop!: Splash Race | 410512 | [410512-don-t-pop-splash-race.json](./410512-don-t-pop-splash-race.json) |
-| Don't Pray to Satan | 89953 | [89953-dont-pray-to-satan.json](./89953-dont-pray-to-satan.json) |
 | Don't Press A to Jump | 279484 | [279484-dont-press-a-to-jump.json](./279484-dont-press-a-to-jump.json) |
 | Don't Press The Button | 402948 | [402948-dont-press-the-button.json](./402948-dont-press-the-button.json) |
 | Don't Press This Sh*t | 430401 | [430401-dont-press-this-sh-t.json](./430401-dont-press-this-sh-t.json) |
@@ -14720,7 +14711,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Spill | 167385 | [167385-dont-spill.json](./167385-dont-spill.json) |
 | Don't Spill Your Coffee! | 176685 | [176685-dont-spill-your-coffee.json](./176685-dont-spill-your-coffee.json) |
 | Don't Split the Party | 119164 | [119164-dont-split-the-party.json](./119164-dont-split-the-party.json) |
-| Don't Stand Out | 90134 | [90134-dont-stand-out.json](./90134-dont-stand-out.json) |
 | Don't Stare | 153936 | [153936-dont-stare.json](./153936-dont-stare.json) |
 | Don't Stare | 385644 | [385644-dont-stare.json](./385644-dont-stare.json) |
 | Don't Starve Alone Pack Plus | 227173 | [227173-dont-starve-alone-pack-plus.json](./227173-dont-starve-alone-pack-plus.json) |
@@ -19432,7 +19422,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drink Drank Drunk | 153578 | [153578-drink-drank-drunk.json](./153578-drink-drank-drunk.json) |
 | Drink Factory Simulator | 359634 | [359634-drink-factory-simulator.json](./359634-drink-factory-simulator.json) |
 | Drink Human Beans | 274571 | [274571-drink-human-beans.json](./274571-drink-human-beans.json) |
-| Drink Inc. | 90280 | [90280-drink-inc.json](./90280-drink-inc.json) |
 | Drink it Bitter | 341262 | [341262-drink-it-bitter.json](./341262-drink-it-bitter.json) |
 | Drink More Glurp | 117180 | [117180-drink-more-glurp.json](./117180-drink-more-glurp.json) |
 | Drink Pro Tycoon | 87997 | [87997-drink-pro-tycoon.json](./87997-drink-pro-tycoon.json) |
@@ -21219,7 +21208,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Lord! | 212395 | [212395-dungeon-lord.json](./212395-dungeon-lord.json) |
 | Dungeon Lords MMXII | 138038 | [138038-dungeon-lords-mmxii.json](./138038-dungeon-lords-mmxii.json) |
 | Dungeon Lords: Collector's Edition | 138039 | [138039-dungeon-lords-collectors-edition.json](./138039-dungeon-lords-collectors-edition.json) |
-| Dungeon Lords: Steam Edition | 90564 | [90564-dungeon-lords-steam-edition.json](./90564-dungeon-lords-steam-edition.json) |
 | Dungeon Lords: The Orb and the Oracle | 72614 | [72614-dungeon-lords-the-orb-and-the-oracle.json](./72614-dungeon-lords-the-orb-and-the-oracle.json) |
 | Dungeon Lurk II - Leona | 17834 | [17834-dungeon-lurk-ii-leona.json](./17834-dungeon-lurk-ii-leona.json) |
 | Dungeon Lurker | 403803 | [403803-dungeon-lurker.json](./403803-dungeon-lurker.json) |
@@ -21853,7 +21841,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons: Into the Dark | 10266 | [10266-dungeons-into-the-dark.json](./10266-dungeons-into-the-dark.json) |
 | Dungeons: Map Pack | 138049 | [138049-dungeons-map-pack.json](./138049-dungeons-map-pack.json) |
 | Dungeons: Steam Special Edition | 90477 | [90477-dungeons-steam-special-edition.json](./90477-dungeons-steam-special-edition.json) |
-| Dungeons: The Dark Lord - Steam Special Edition | 90486 | [90486-dungeons-the-dark-lord-steam-special-edition.json](./90486-dungeons-the-dark-lord-steam-special-edition.json) |
 | Dungeons: The Eye of Draconus | 17444 | [17444-dungeons-the-eye-of-draconus.json](./17444-dungeons-the-eye-of-draconus.json) |
 | DungeonScape | 181261 | [181261-dungeonscape.json](./181261-dungeonscape.json) |
 | DungeonSlime | 195708 | [195708-dungeonslime.json](./195708-dungeonslime.json) |
@@ -22577,7 +22564,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 8: Xu Shu 'Kisaragi Ritsu' Costume | 306731 | [306731-dynasty-warriors-8-xu-shu-kisaragi-ritsu-costume.json](./306731-dynasty-warriors-8-xu-shu-kisaragi-ritsu-costume.json) |
 | Dynasty Warriors 8: Zhao Yun 'Ibuki' Costume | 306779 | [306779-dynasty-warriors-8-zhao-yun-ibuki-costume.json](./306779-dynasty-warriors-8-zhao-yun-ibuki-costume.json) |
 | Dynasty Warriors 9 Mobile | 116235 | [116235-dynasty-warriors-9-mobile.json](./116235-dynasty-warriors-9-mobile.json) |
-| Dynasty Warriors 9 with Bonus | 90690 | [90690-dynasty-warriors-9-with-bonus.json](./90690-dynasty-warriors-9-with-bonus.json) |
 | Dynasty Warriors 9: Additional Scenarios Pack | 223820 | [223820-dynasty-warriors-9-additional-scenarios-pack.json](./223820-dynasty-warriors-9-additional-scenarios-pack.json) |
 | Dynasty Warriors 9: Complete Edition | 199637 | [199637-dynasty-warriors-9-complete-edition.json](./199637-dynasty-warriors-9-complete-edition.json) |
 | Dynasty Warriors 9: Digital Deluxe Edition | 118662 | [118662-dynasty-warriors-9-digital-deluxe-edition.json](./118662-dynasty-warriors-9-digital-deluxe-edition.json) |
