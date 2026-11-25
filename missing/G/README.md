@@ -11640,6 +11640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grumpy Jack | 391288 | [391288-grumpy-jack.json](./391288-grumpy-jack.json) |
 | Grumpy Librarian | 181681 | [181681-grumpy-librarian.json](./181681-grumpy-librarian.json) |
 | Grumpy Reaper | 84495 | [84495-grumpy-reaper.json](./84495-grumpy-reaper.json) |
+| Grumpy Scampi | 429940 | [429940-grumpy-scampi.json](./429940-grumpy-scampi.json) |
 | Grumpy Witch | 115015 | [115015-grumpy-witch.json](./115015-grumpy-witch.json) |
 | Grunder | 278517 | [278517-grunder.json](./278517-grunder.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
@@ -12711,6 +12712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundham's Calamitous Quest for Coochie | 227212 | [227212-gundhams-calamitous-quest-for-coochie.json](./227212-gundhams-calamitous-quest-for-coochie.json) |
 | Gundhara: Juudan Arashi | 37336 | [37336-gundhara-juudan-arashi.json](./37336-gundhara-juudan-arashi.json) |
 | GunDress | 213042 | [213042-gundress.json](./213042-gundress.json) |
+| Gundrobe | 429967 | [429967-gundrobe.json](./429967-gundrobe.json) |
 | Gundroid | 249799 | [249799-gundroid.json](./249799-gundroid.json) |
 | Gunducky Industries | 54455 | [54455-gunducky-industries.json](./54455-gunducky-industries.json) |
 | Gunducky Industries++ | 146426 | [146426-gunducky-industries.json](./146426-gunducky-industries.json) |
@@ -12837,6 +12839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunmetal Arcadia | 36176 | [36176-gunmetal-arcadia.json](./36176-gunmetal-arcadia.json) |
 | Gunmetal Arcadia Zero | 22713 | [22713-gunmetal-arcadia-zero.json](./22713-gunmetal-arcadia-zero.json) |
 | Gunmetal Gothic | 252581 | [252581-gunmetal-gothic.json](./252581-gunmetal-gothic.json) |
+| Gunmetal Orbit | 430071 | [430071-gunmetal-orbit.json](./430071-gunmetal-orbit.json) |
 | Gunmetal Rails | 420137 | [420137-gunmetal-rails.json](./420137-gunmetal-rails.json) |
 | GunNail | 39837 | [39837-gunnail.json](./39837-gunnail.json) |
 | Gunnel Vision | 305993 | [305993-gunnel-vision.json](./305993-gunnel-vision.json) |
