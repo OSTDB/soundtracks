@@ -3691,6 +3691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TechnoRun | 9251 | [9251-technorun.json](./9251-technorun.json) |
 | TechnoRunner | 156037 | [156037-technorunner.json](./156037-technorunner.json) |
 | Technōs Arcade I | 149286 | [149286-technos-arcade-i.json](./149286-technos-arcade-i.json) |
+| Technōs Collection I | 130692 | [130692-technos-collection-i.json](./130692-technos-collection-i.json) |
 | TechnoSorcery | 333610 | [333610-technosorcery.json](./333610-technosorcery.json) |
 | Technosphere | 75311 | [75311-technosphere.json](./75311-technosphere.json) |
 | Technotopia | 291318 | [291318-technotopia.json](./291318-technotopia.json) |
@@ -6651,8 +6652,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Shrinking Man | 123537 | [123537-the-amazing-shrinking-man.json](./123537-the-amazing-shrinking-man.json) |
 | The Amazing Spider-Man | 11896 | [11896-the-amazing-spider-man.json](./11896-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 1376 | [1376-the-amazing-spider-man.json](./1376-the-amazing-spider-man.json) |
+| The Amazing Spider-Man | 203136 | [203136-the-amazing-spider-man.json](./203136-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 203138 | [203138-the-amazing-spider-man.json](./203138-the-amazing-spider-man.json) |
+| The Amazing Spider-Man | 203140 | [203140-the-amazing-spider-man.json](./203140-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 203141 | [203141-the-amazing-spider-man.json](./203141-the-amazing-spider-man.json) |
+| The Amazing Spider-Man | 203143 | [203143-the-amazing-spider-man.json](./203143-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 254522 | [254522-the-amazing-spider-man.json](./254522-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 83898 | [83898-the-amazing-spider-man.json](./83898-the-amazing-spider-man.json) |
 | The Amazing Spider-Man 2 | 107330 | [107330-the-amazing-spider-man-2.json](./107330-the-amazing-spider-man-2.json) |
@@ -14407,6 +14411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legacy: Forgotten Gates | 55546 | [55546-the-legacy-forgotten-gates.json](./55546-the-legacy-forgotten-gates.json) |
 | The Legacy: Prisoner | 104187 | [104187-the-legacy-prisoner.json](./104187-the-legacy-prisoner.json) |
 | The Legacy: Realm of Terror | 79233 | [79233-the-legacy-realm-of-terror.json](./79233-the-legacy-realm-of-terror.json) |
+| The Legacy: The Tree of Might | 112988 | [112988-the-legacy-the-tree-of-might.json](./112988-the-legacy-the-tree-of-might.json) |
 | The Legend Beyond Legends | 302441 | [302441-the-legend-beyond-legends.json](./302441-the-legend-beyond-legends.json) |
 | The Legend of Alfur | 210793 | [210793-the-legend-of-alfur.json](./210793-the-legend-of-alfur.json) |
 | The Legend of Alon D'ar | 19420 | [19420-the-legend-of-alon-dar.json](./19420-the-legend-of-alon-dar.json) |
@@ -16929,6 +16934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oregon Trail | 78864 | [78864-the-oregon-trail.json](./78864-the-oregon-trail.json) |
 | The Oregon Trail Deluxe | 83359 | [83359-the-oregon-trail-deluxe.json](./83359-the-oregon-trail-deluxe.json) |
 | The Oregon Trail: 3rd Edition | 73240 | [73240-the-oregon-trail-3rd-edition.json](./73240-the-oregon-trail-3rd-edition.json) |
+| The Oregon Trail: 40th Anniversary Edition | 202693 | [202693-the-oregon-trail-40th-anniversary-edition.json](./202693-the-oregon-trail-40th-anniversary-edition.json) |
 | The Oregon Trail: 4th Edition | 68054 | [68054-the-oregon-trail-4th-edition.json](./68054-the-oregon-trail-4th-edition.json) |
 | The Oregon Trail: 5th Edition | 68343 | [68343-the-oregon-trail-5th-edition.json](./68343-the-oregon-trail-5th-edition.json) |
 | The Oregon Trail: American Settler | 63611 | [63611-the-oregon-trail-american-settler.json](./63611-the-oregon-trail-american-settler.json) |
@@ -36028,6 +36034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity Shells | 328042 | [328042-trinity-shells.json](./328042-trinity-shells.json) |
 | Trinity Survivors | 282271 | [282271-trinity-survivors.json](./282271-trinity-survivors.json) |
 | Trinity Town Monastery \| Martial Art and Meditation | 116812 | [116812-trinity-town-monastery-martial-art-and-meditation.json](./116812-trinity-town-monastery-martial-art-and-meditation.json) |
+| Trinity Trigger | 202850 | [202850-trinity-trigger.json](./202850-trinity-trigger.json) |
 | Trinity Trigger DX | 420686 | [420686-trinity-trigger-dx.json](./420686-trinity-trigger-dx.json) |
 | Trinity Trigger: Day 1 Edition | 221947 | [221947-trinity-trigger-day-1-edition.json](./221947-trinity-trigger-day-1-edition.json) |
 | Trinity Trigger: Deluxe Edition | 220905 | [220905-trinity-trigger-deluxe-edition.json](./220905-trinity-trigger-deluxe-edition.json) |
