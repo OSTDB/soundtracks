@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vida | 70017 | [70017-vida.json](./70017-vida.json) |
 | Vida Loka Simulator | 397246 | [397246-vida-loka-simulator.json](./397246-vida-loka-simulator.json) |
 | Vidalia's Adventure | 360502 | [360502-vidalias-adventure.json](./360502-vidalias-adventure.json) |
+| Vidar | 27191 | [27191-vidar.json](./27191-vidar.json) |
 | Videgoame | 134946 | [134946-videgoame.json](./134946-videgoame.json) |
 | Video 8 Ball | 252115 | [252115-video-8-ball.json](./252115-video-8-ball.json) |
 | Video Action | 80019 | [80019-video-action.json](./80019-video-action.json) |
