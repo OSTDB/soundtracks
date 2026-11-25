@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceball 2000 | 299462 | [299462-faceball-2000.json](./299462-faceball-2000.json) |
 | Faceball 2000 DX | 279728 | [279728-faceball-2000-dx.json](./279728-faceball-2000-dx.json) |
 | Faceball Captain | 356203 | [356203-faceball-captain.json](./356203-faceball-captain.json) |
+| Faceball Remastered | 428754 | [428754-faceball-remastered.json](./428754-faceball-remastered.json) |
 | FaceBreaker | 4852 | [4852-facebreaker.json](./4852-facebreaker.json) |
 | FaceBreaker K.O. Party | 85129 | [85129-facebreaker-k-o-party.json](./85129-facebreaker-k-o-party.json) |
 | FaceChase | 407615 | [407615-facechase.json](./407615-facechase.json) |
@@ -8727,6 +8728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Snooker Game | 161562 | [161562-flash-snooker-game.json](./161562-flash-snooker-game.json) |
 | Flash Splash | 94592 | [94592-flash-splash.json](./94592-flash-splash.json) |
 | Flash Tennis | 312805 | [312805-flash-tennis.json](./312805-flash-tennis.json) |
+| Flash the Floppy Fish | 428324 | [428324-flash-the-floppy-fish.json](./428324-flash-the-floppy-fish.json) |
 | Flash The Simpsons Pacman | 334955 | [334955-flash-the-simpsons-pacman.json](./334955-flash-the-simpsons-pacman.json) |
 | Flash Traffic: City of Angels | 70063 | [70063-flash-traffic-city-of-angels.json](./70063-flash-traffic-city-of-angels.json) |
 | Flash's Bounty | 418461 | [418461-flashs-bounty.json](./418461-flashs-bounty.json) |
@@ -9700,6 +9702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower | 142294 | [142294-flower.json](./142294-flower.json) |
 | Flower | 179226 | [179226-flower.json](./179226-flower.json) |
 | Flower | 405238 | [405238-flower.json](./405238-flower.json) |
+| FLOWer | 425936 | [425936-flower.json](./425936-flower.json) |
 | Flower and Animal 3D Encyclopedia | 77006 | [77006-flower-and-animal-3d-encyclopedia.json](./77006-flower-and-animal-3d-encyclopedia.json) |
 | Flower Bears | 307732 | [307732-flower-bears.json](./307732-flower-bears.json) |
 | Flower Blooming Competition | 341835 | [341835-flower-blooming-competition.json](./341835-flower-blooming-competition.json) |
