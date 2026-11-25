@@ -2265,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Shaddai: Zero Nine Reversi | 398072 | [398072-el-shaddai-zero-nine-reversi.json](./398072-el-shaddai-zero-nine-reversi.json) |
 | El Silla | 139288 | [139288-el-silla.json](./139288-el-silla.json) |
 | El Silla: Arcade Edition | 114182 | [114182-el-silla-arcade-edition.json](./114182-el-silla-arcade-edition.json) |
+| El Sonido de un Sueño | 427166 | [427166-el-sonido-de-un-sueno.json](./427166-el-sonido-de-un-sueno.json) |
 | El Sorrado Speedway | 307402 | [307402-el-sorrado-speedway.json](./307402-el-sorrado-speedway.json) |
 | El Stompo | 333925 | [333925-el-stompo.json](./333925-el-stompo.json) |
 | El Taco Diablo | 115127 | [115127-el-taco-diablo.json](./115127-el-taco-diablo.json) |
@@ -6587,6 +6588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Undertaker | 256839 | [256839-escape-the-undertaker.json](./256839-escape-the-undertaker.json) |
 | Escape the Unknown | 201602 | [201602-escape-the-unknown.json](./201602-escape-the-unknown.json) |
 | Escape the Unknown: Awaken the Realm | 243856 | [243856-escape-the-unknown-awaken-the-realm.json](./243856-escape-the-unknown-awaken-the-realm.json) |
+| Escape the Urban Underground. | 428337 | [428337-escape-the-urban-underground.json](./428337-escape-the-urban-underground.json) |
 | Escape the Virus: Shoot 'Em Up! | 85119 | [85119-escape-the-virus-shoot-em-up.json](./85119-escape-the-virus-shoot-em-up.json) |
 | Escape the Virus: Swarm Survival | 23678 | [23678-escape-the-virus-swarm-survival.json](./23678-escape-the-virus-swarm-survival.json) |
 | Escape the Void | 183920 | [183920-escape-the-void.json](./183920-escape-the-void.json) |
