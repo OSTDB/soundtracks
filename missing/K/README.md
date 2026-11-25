@@ -4016,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Night | 117531 | [117531-kingdom-of-night.json](./117531-kingdom-of-night.json) |
 | Kingdom of Nyabur: The Shattered Realm | 217501 | [217501-kingdom-of-nyabur-the-shattered-realm.json](./217501-kingdom-of-nyabur-the-shattered-realm.json) |
 | Kingdom of Paradise | 259656 | [259656-kingdom-of-paradise.json](./259656-kingdom-of-paradise.json) |
+| Kingdom of Paradise | 42878 | [42878-kingdom-of-paradise.json](./42878-kingdom-of-paradise.json) |
 | Kingdom Of Peace | 295775 | [295775-kingdom-of-peace.json](./295775-kingdom-of-peace.json) |
 | Kingdom of Piss | 340882 | [340882-kingdom-of-piss.json](./340882-kingdom-of-piss.json) |
 | Kingdom of Pixels | 306219 | [306219-kingdom-of-pixels.json](./306219-kingdom-of-pixels.json) |
@@ -4951,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klabater Bundle: The Amazing American Circus, Moonshine Inc., Heliborne and Crossroads Inn | 269170 | [269170-klabater-bundle-the-amazing-american-circus-moonshine-inc-heliborne-and-crossroads-inn.json](./269170-klabater-bundle-the-amazing-american-circus-moonshine-inc-heliborne-and-crossroads-inn.json) |
 | Klabater Complete Bundle | 401940 | [401940-klabater-complete-bundle.json](./401940-klabater-complete-bundle.json) |
 | Klabater Franchise Bundle | 401941 | [401941-klabater-franchise-bundle.json](./401941-klabater-franchise-bundle.json) |
+| Klabi | 33029 | [33029-klabi.json](./33029-klabi.json) |
 | Klac | 119456 | [119456-klac.json](./119456-klac.json) |
 | Klang 2 | 131563 | [131563-klang-2.json](./131563-klang-2.json) |
 | Klangwelt | 89207 | [89207-klangwelt.json](./89207-klangwelt.json) |
