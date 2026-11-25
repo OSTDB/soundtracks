@@ -2988,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoNoid | 414791 | [414791-neonoid.json](./414791-neonoid.json) |
 | NeoNomicon | 37005 | [37005-neonomicon.json](./37005-neonomicon.json) |
 | Neonova | 313646 | [313646-neonova.json](./313646-neonova.json) |
+| Neonova Puzzle: Orange | 431410 | [431410-neonova-puzzle-orange.json](./431410-neonova-puzzle-orange.json) |
 | NeonPlat | 61930 | [61930-neonplat.json](./61930-neonplat.json) |
 | NeonPlat Adventures | 61929 | [61929-neonplat-adventures.json](./61929-neonplat-adventures.json) |
 | NeonPlat Extreme | 61951 | [61951-neonplat-extreme.json](./61951-neonplat-extreme.json) |
@@ -4701,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nienix: Cosmic Warfare | 139629 | [139629-nienix-cosmic-warfare.json](./139629-nienix-cosmic-warfare.json) |
 | Nientum: Opus Zero | 292173 | [292173-nientum-opus-zero.json](./292173-nientum-opus-zero.json) |
 | Nièpán zhī Lù | 116728 | [116728-niepan-zhi-lu.json](./116728-niepan-zhi-lu.json) |
+| NieR Gestalt Port | 431309 | [431309-nier-gestalt-port.json](./431309-nier-gestalt-port.json) |
 | NieR Gestalt ver.1.22474487139... | 412056 | [412056-nier-gestalt-ver-1-22474487139.json](./412056-nier-gestalt-ver-1-22474487139.json) |
 | NieR Re[in]carnation: The People and the World | 259669 | [259669-nier-re-in-carnation-the-people-and-the-world.json](./259669-nier-re-in-carnation-the-people-and-the-world.json) |
 | NieR Re[in]carnation: The Sun and the Moon | 259657 | [259657-nier-re-in-carnation-the-sun-and-the-moon.json](./259657-nier-re-in-carnation-the-sun-and-the-moon.json) |
@@ -8079,6 +8081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not the Robots | 16723 | [16723-not-the-robots.json](./16723-not-the-robots.json) |
 | Not Their Will | 164930 | [164930-not-their-will.json](./164930-not-their-will.json) |
 | Not those monsters again... | 233011 | [233011-not-those-monsters-again.json](./233011-not-those-monsters-again.json) |
+| Not to Spec | 431463 | [431463-not-to-spec.json](./431463-not-to-spec.json) |
 | Not Tonight | 96088 | [96088-not-tonight.json](./96088-not-tonight.json) |
 | Not Tonight & Not Tonight 2 | 292922 | [292922-not-tonight-and-not-tonight-2.json](./292922-not-tonight-and-not-tonight-2.json) |
 | Not Tonight: One Love | 154560 | [154560-not-tonight-one-love.json](./154560-not-tonight-one-love.json) |
