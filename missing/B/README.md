@@ -7540,6 +7540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bengan Yes | 228939 | [228939-bengan-yes.json](./228939-bengan-yes.json) |
 | Bengarachou Hakubutsushi | 254611 | [254611-bengarachou-hakubutsushi.json](./254611-bengarachou-hakubutsushi.json) |
 | Bengbo | 257104 | [257104-bengbo.json](./257104-bengbo.json) |
+| Benidorm Cruiser Order | 430445 | [430445-benidorm-cruiser-order.json](./430445-benidorm-cruiser-order.json) |
 | Benighted | 226251 | [226251-benighted.json](./226251-benighted.json) |
 | Benign Land | 329137 | [329137-benign-land.json](./329137-benign-land.json) |
 | Beniiro Tenjyo Ayakashi Kitan Futaai | 145091 | [145091-beniiro-tenjyo-ayakashi-kitan-futaai.json](./145091-beniiro-tenjyo-ayakashi-kitan-futaai.json) |
