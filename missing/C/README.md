@@ -11774,6 +11774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaner Company | 346684 | [346684-cleaner-company.json](./346684-cleaner-company.json) |
 | Cleaner Simulator 2026 | 391254 | [391254-cleaner-simulator-2026.json](./391254-cleaner-simulator-2026.json) |
 | CleanFall | 284819 | [284819-cleanfall.json](./284819-cleanfall.json) |
+| Cleaning Angel Wired | 430897 | [430897-cleaning-angel-wired.json](./430897-cleaning-angel-wired.json) |
 | Cleaning Girls | 258174 | [258174-cleaning-girls.json](./258174-cleaning-girls.json) |
 | Cleaning house | 176350 | [176350-cleaning-house.json](./176350-cleaning-house.json) |
 | Cleaning Queens | 234655 | [234655-cleaning-queens.json](./234655-cleaning-queens.json) |
@@ -12144,6 +12145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb, Cube, Climb! | 414596 | [414596-climb-cube-climb.json](./414596-climb-cube-climb.json) |
 | Climb! | 118752 | [118752-climb.json](./118752-climb.json) |
 | Climb! A Mountain in Your Pocket | 197730 | [197730-climb-a-mountain-in-your-pocket.json](./197730-climb-a-mountain-in-your-pocket.json) |
+| Climb! Nyaruma Action Puzzle | 430893 | [430893-climb-nyaruma-action-puzzle.json](./430893-climb-nyaruma-action-puzzle.json) |
 | Climber | 100578 | [100578-climber.json](./100578-climber.json) |
 | Climber | 125338 | [125338-climber.json](./125338-climber.json) |
 | Climber | 195035 | [195035-climber.json](./195035-climber.json) |
@@ -13571,6 +13573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coiny Block | 98441 | [98441-coiny-block.json](./98441-coiny-block.json) |
 | Coke | 274842 | [274842-coke.json](./274842-coke.json) |
 | Coke Bugs | 265398 | [265398-coke-bugs.json](./265398-coke-bugs.json) |
+| Col de Berg | 430969 | [430969-col-de-berg.json](./430969-col-de-berg.json) |
 | Col:Verse | 293830 | [293830-col-verse.json](./293830-col-verse.json) |
 | Cola | 372202 | [372202-cola.json](./372202-cola.json) |
 | Cola Riders | 308303 | [308303-cola-riders.json](./308303-cola-riders.json) |
@@ -18094,6 +18097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Snipe | 265672 | [265672-counter-snipe.json](./265672-counter-snipe.json) |
 | Counter Spell | 35703 | [35703-counter-spell.json](./35703-counter-spell.json) |
 | Counter Spell Reforged | 122853 | [122853-counter-spell-reforged.json](./122853-counter-spell-reforged.json) |
+| Counter Targets Clicker | 430923 | [430923-counter-targets-clicker.json](./430923-counter-targets-clicker.json) |
 | Counter Terror | 387112 | [387112-counter-terror.json](./387112-counter-terror.json) |
 | Counter Terrorism - Minesweeper | 127025 | [127025-counter-terrorism-minesweeper.json](./127025-counter-terrorism-minesweeper.json) |
 | Counter Terrorism Unit | 52304 | [52304-counter-terrorism-unit.json](./52304-counter-terrorism-unit.json) |
@@ -21192,6 +21196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Gambit | 258015 | [258015-crown-gambit.json](./258015-crown-gambit.json) |
 | Crown Jewelz | 297103 | [297103-crown-jewelz.json](./297103-crown-jewelz.json) |
 | Crown Land | 159844 | [159844-crown-land.json](./159844-crown-land.json) |
+| Crown Must Hold | 430994 | [430994-crown-must-hold.json](./430994-crown-must-hold.json) |
 | Crown of Arthain | 129812 | [129812-crown-of-arthain.json](./129812-crown-of-arthain.json) |
 | Crown of Ashes and Flames | 319113 | [319113-crown-of-ashes-and-flames.json](./319113-crown-of-ashes-and-flames.json) |
 | Crown Of Blight | 417413 | [417413-crown-of-blight.json](./417413-crown-of-blight.json) |
