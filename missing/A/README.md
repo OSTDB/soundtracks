@@ -2775,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Drift | 372014 | [372014-abyssal-drift.json](./372014-abyssal-drift.json) |
 | Abyssal Elevator: Idle Breaker | 424952 | [424952-abyssal-elevator-idle-breaker.json](./424952-abyssal-elevator-idle-breaker.json) |
 | Abyssal Fall | 54885 | [54885-abyssal-fall.json](./54885-abyssal-fall.json) |
+| Abyssal Fish | 431365 | [431365-abyssal-fish.json](./431365-abyssal-fish.json) |
 | Abyssal Frontier | 283875 | [283875-abyssal-frontier.json](./283875-abyssal-frontier.json) |
 | Abyssal Guardians | 423275 | [423275-abyssal-guardians.json](./423275-abyssal-guardians.json) |
 | Abyssal Lab | 183500 | [183500-abyssal-lab.json](./183500-abyssal-lab.json) |
@@ -6579,6 +6580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Force Gear | 125271 | [125271-air-force-gear.json](./125271-air-force-gear.json) |
 | Air Force Missions | 320380 | [320380-air-force-missions.json](./320380-air-force-missions.json) |
 | Air Force One Pinball | 334393 | [334393-air-force-one-pinball.json](./334393-air-force-one-pinball.json) |
+| Air Force Shooter Sky Strike | 431361 | [431361-air-force-shooter-sky-strike.json](./431361-air-force-shooter-sky-strike.json) |
 | Air Force Special Ops: Nightfall | 315907 | [315907-air-force-special-ops-nightfall.json](./315907-air-force-special-ops-nightfall.json) |
 | Air Forte | 16183 | [16183-air-forte.json](./16183-air-forte.json) |
 | Air Fortress | 8791 | [8791-air-fortress.json](./8791-air-fortress.json) |
@@ -9188,6 +9190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone Among The Stars | 316529 | [316529-alone-among-the-stars.json](./316529-alone-among-the-stars.json) |
 | Alone Among the Stars: Twine Edition | 179773 | [179773-alone-among-the-stars-twine-edition.json](./179773-alone-among-the-stars-twine-edition.json) |
 | Alone and Dangerous | 274323 | [274323-alone-and-dangerous.json](./274323-alone-and-dangerous.json) |
+| Alone at School: Christmas | 431380 | [431380-alone-at-school-christmas.json](./431380-alone-at-school-christmas.json) |
 | Alone but Strong | 369625 | [369625-alone-but-strong.json](./369625-alone-but-strong.json) |
 | Alone Girl | 411281 | [411281-alone-girl.json](./411281-alone-girl.json) |
 | Alone House | 419949 | [419949-alone-house.json](./419949-alone-house.json) |
@@ -11500,6 +11503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels | 246124 | [246124-angels.json](./246124-angels.json) |
 | Angels & Demigods | 32023 | [32023-angels-and-demigods.json](./32023-angels-and-demigods.json) |
 | Angels & Demons | 262767 | [262767-angels-and-demons.json](./262767-angels-and-demons.json) |
+| Angels & Demons vs. Aliens | 431333 | [431333-angels-and-demons-vs-aliens.json](./431333-angels-and-demons-vs-aliens.json) |
 | Angels Bleeding | 223189 | [223189-angels-bleeding.json](./223189-angels-bleeding.json) |
 | Angels Blue Collection | 52579 | [52579-angels-blue-collection.json](./52579-angels-blue-collection.json) |
 | Angels Cove | 172879 | [172879-angels-cove.json](./172879-angels-cove.json) |
@@ -15984,6 +15988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Kingdoms | 265690 | [265690-arena-kingdoms.json](./265690-arena-kingdoms.json) |
 | Arena Master | 30802 | [30802-arena-master.json](./30802-arena-master.json) |
 | Arena Masters: Legend Begins | 77587 | [77587-arena-masters-legend-begins.json](./77587-arena-masters-legend-begins.json) |
+| Arena Mayhem | 431407 | [431407-arena-mayhem.json](./431407-arena-mayhem.json) |
 | Arena Maze of Death GG2SMS | 369478 | [369478-arena-maze-of-death-gg2sms.json](./369478-arena-maze-of-death-gg2sms.json) |
 | Arena Medieval | 426180 | [426180-arena-medieval.json](./426180-arena-medieval.json) |
 | Arena Monarchy | 367917 | [367917-arena-monarchy.json](./367917-arena-monarchy.json) |
@@ -17690,6 +17695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASH II: Shadows | 65269 | [65269-ash-ii-shadows.json](./65269-ash-ii-shadows.json) |
 | Ash of Gods: Arena | 133417 | [133417-ash-of-gods-arena.json](./133417-ash-of-gods-arena.json) |
 | Ash of Gods: Fan Edition | 257095 | [257095-ash-of-gods-fan-edition.json](./257095-ash-of-gods-fan-edition.json) |
+| Ash of Gods: Tactics | 431453 | [431453-ash-of-gods-tactics.json](./431453-ash-of-gods-tactics.json) |
 | Ash of Gods: The Way | 192439 | [192439-ash-of-gods-the-way.json](./192439-ash-of-gods-the-way.json) |
 | Ash of Gods: The Way - Deluxe Edition | 248233 | [248233-ash-of-gods-the-way-deluxe-edition.json](./248233-ash-of-gods-the-way-deluxe-edition.json) |
 | Ash of Gods: Universe Bundle | 257096 | [257096-ash-of-gods-universe-bundle.json](./257096-ash-of-gods-universe-bundle.json) |
