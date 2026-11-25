@@ -5156,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleSky Brigade: TapTap | 122763 | [122763-battlesky-brigade-taptap.json](./122763-battlesky-brigade-taptap.json) |
 | BattleSky Brigade: Tribes | 122762 | [122762-battlesky-brigade-tribes.json](./122762-battlesky-brigade-tribes.json) |
 | Battlesloths | 22699 | [22699-battlesloths.json](./22699-battlesloths.json) |
+| Battlesloths 2025: The Great Pizza Wars | 33090 | [33090-battlesloths-2025-the-great-pizza-wars.json](./33090-battlesloths-2025-the-great-pizza-wars.json) |
 | Battlesmiths: Blade and Forge | 269762 | [269762-battlesmiths-blade-and-forge.json](./269762-battlesmiths-blade-and-forge.json) |
 | Battlesnake | 151464 | [151464-battlesnake.json](./151464-battlesnake.json) |
 | BattleSouls | 15013 | [15013-battlesouls.json](./15013-battlesouls.json) |
@@ -16360,6 +16361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowser's Valley | 268009 | [268009-bowsers-valley.json](./268009-bowsers-valley.json) |
 | Bowsette | 161572 | [161572-bowsette.json](./161572-bowsette.json) |
 | Bowsette Cave Escape | 243468 | [243468-bowsette-cave-escape.json](./243468-bowsette-cave-escape.json) |
+| Bowslinger | 33088 | [33088-bowslinger.json](./33088-bowslinger.json) |
 | Box | 130782 | [130782-box.json](./130782-box.json) |
 | Box | 131332 | [131332-box.json](./131332-box.json) |
 | BoX -containment- | 32529 | [32529-box-containment.json](./32529-box-containment.json) |
