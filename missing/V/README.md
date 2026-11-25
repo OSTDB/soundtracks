@@ -2485,7 +2485,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viki Spotter: Complete Bundle | 268331 | [268331-viki-spotter-complete-bundle.json](./268331-viki-spotter-complete-bundle.json) |
 | Viki Spotter: Professions | 109387 | [109387-viki-spotter-professions.json](./109387-viki-spotter-professions.json) |
 | Viki Spotter: School | 89609 | [89609-viki-spotter-school.json](./89609-viki-spotter-school.json) |
-| Viki Spotter: Space Mission | 97116 | [97116-viki-spotter-space-mission.json](./97116-viki-spotter-space-mission.json) |
 | Viki Spotter: The Farm | 83539 | [83539-viki-spotter-the-farm.json](./83539-viki-spotter-the-farm.json) |
 | Viki Spotter: Undersea | 84091 | [84091-viki-spotter-undersea.json](./84091-viki-spotter-undersea.json) |
 | Vikindor | 207305 | [207305-vikindor.json](./207305-vikindor.json) |
@@ -3392,7 +3391,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viscerafest | 137358 | [137358-viscerafest.json](./137358-viscerafest.json) |
 | Visceral | 419860 | [419860-visceral.json](./419860-visceral.json) |
 | Visceral Abyss | 379104 | [379104-visceral-abyss.json](./379104-visceral-abyss.json) |
-| Visceral Cubes | 96462 | [96462-visceral-cubes.json](./96462-visceral-cubes.json) |
 | Visceratum | 132696 | [132696-visceratum.json](./132696-visceratum.json) |
 | Visco Arcade 1 | 420321 | [420321-visco-arcade-1.json](./420321-visco-arcade-1.json) |
 | Visco Arcade 2 | 420387 | [420387-visco-arcade-2.json](./420387-visco-arcade-2.json) |
@@ -4130,7 +4128,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voltage: Super Retro | 170188 | [170188-voltage-super-retro.json](./170188-voltage-super-retro.json) |
 | VoltAge:Genesis | 135320 | [135320-voltage-genesis.json](./135320-voltage-genesis.json) |
 | Voltaire: The Vegan Vampire | 203242 | [203242-voltaire-the-vegan-vampire.json](./203242-voltaire-the-vegan-vampire.json) |
-| Volted | 97025 | [97025-volted.json](./97025-volted.json) |
 | VolticPistol | 127801 | [127801-volticpistol.json](./127801-volticpistol.json) |
 | Voltline | 366778 | [366778-voltline.json](./366778-voltline.json) |
 | Voltorb Flip | 356235 | [356235-voltorb-flip.json](./356235-voltorb-flip.json) |
@@ -4574,7 +4571,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR King of Battle Cards | 155674 | [155674-vr-king-of-battle-cards.json](./155674-vr-king-of-battle-cards.json) |
 | VR Lander: Lunar Edition | 365932 | [365932-vr-lander-lunar-edition.json](./365932-vr-lander-lunar-edition.json) |
 | VR Laser Harp | 30761 | [30761-vr-laser-harp.json](./30761-vr-laser-harp.json) |
-| VR Laser Puzzle | 96685 | [96685-vr-laser-puzzle.json](./96685-vr-laser-puzzle.json) |
 | VR Long March | 159512 | [159512-vr-long-march.json](./159512-vr-long-march.json) |
 | VR Lunar Base Skirmish: Control the Moon | 165749 | [165749-vr-lunar-base-skirmish-control-the-moon.json](./165749-vr-lunar-base-skirmish-control-the-moon.json) |
 | VR Luxury Life (Be a Billionaire) | 163037 | [163037-vr-luxury-life-be-a-billionaire.json](./163037-vr-luxury-life-be-a-billionaire.json) |
@@ -4992,7 +4988,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vuntra City | 295580 | [295580-vuntra-city.json](./295580-vuntra-city.json) |
 | Vuosterávdnjái | 223202 | [223202-vuosteravdnjai.json](./223202-vuosteravdnjai.json) |
 | Vupechat | 340125 | [340125-vupechat.json](./340125-vupechat.json) |
-| Vuzzl - Create Animated Jigsaw Puzzles | 95527 | [95527-vuzzl-create-animated-jigsaw-puzzles.json](./95527-vuzzl-create-animated-jigsaw-puzzles.json) |
 | Vvintercore | 398119 | [398119-vvintercore.json](./398119-vvintercore.json) |
 | Vvlw | 184664 | [184664-vvlw.json](./184664-vvlw.json) |
 | VVVV | 225771 | [225771-vvvv.json](./225771-vvvv.json) |
