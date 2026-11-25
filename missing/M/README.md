@@ -1135,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magi Death Fight: Mahou Gakuen | 58878 | [58878-magi-death-fight-mahou-gakuen.json](./58878-magi-death-fight-mahou-gakuen.json) |
 | Magi Nation | 49708 | [49708-magi-nation.json](./49708-magi-nation.json) |
 | Magi Nation: Keeper's Quest | 315445 | [315445-magi-nation-keepers-quest.json](./315445-magi-nation-keepers-quest.json) |
+| Magi Trials | 33449 | [33449-magi-trials.json](./33449-magi-trials.json) |
 | Magi: Aratanaru Sekai | 222480 | [222480-magi-aratanaru-sekai.json](./222480-magi-aratanaru-sekai.json) |
 | Magi: Hajimari no Meikyuu | 191666 | [191666-magi-hajimari-no-meikyuu.json](./191666-magi-hajimari-no-meikyuu.json) |
 | Magi: Magical Strategy Game | 73895 | [73895-magi-magical-strategy-game.json](./73895-magi-magical-strategy-game.json) |
@@ -4220,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maria 2: Jutai Kokuchi no Nazo | 74346 | [74346-maria-2-jutai-kokuchi-no-nazo.json](./74346-maria-2-jutai-kokuchi-no-nazo.json) |
 | Maria Adventure | 220821 | [220821-maria-adventure.json](./220821-maria-adventure.json) |
 | Maria no Jisatsu | 417162 | [417162-maria-no-jisatsu.json](./417162-maria-no-jisatsu.json) |
+| Maria the Witch | 33406 | [33406-maria-the-witch.json](./33406-maria-the-witch.json) |
 | Maria Way | 254716 | [254716-maria-way.json](./254716-maria-way.json) |
 | Maria-sama ga Gyakuten | 97525 | [97525-maria-sama-ga-gyakuten.json](./97525-maria-sama-ga-gyakuten.json) |
 | Maria-sama ga Gyakuten: Etape de l'hiver | 300584 | [300584-maria-sama-ga-gyakuten-etape-de-lhiver.json](./300584-maria-sama-ga-gyakuten-etape-de-lhiver.json) |
@@ -24470,6 +24472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Secret Idol Girlfriend | 222649 | [222649-my-secret-idol-girlfriend.json](./222649-my-secret-idol-girlfriend.json) |
 | My Secret Life | 419068 | [419068-my-secret-life.json](./419068-my-secret-life.json) |
 | My Secret Ocean Boyfriend | 298979 | [298979-my-secret-ocean-boyfriend.json](./298979-my-secret-ocean-boyfriend.json) |
+| My Secret Pets! | 33396 | [33396-my-secret-pets.json](./33396-my-secret-pets.json) |
 | My Secret Spies | 299618 | [299618-my-secret-spies.json](./299618-my-secret-spies.json) |
 | My Secret Spy Lovers | 228433 | [228433-my-secret-spy-lovers.json](./228433-my-secret-spy-lovers.json) |
 | My Secret World by Imagine | 7915 | [7915-my-secret-world-by-imagine.json](./7915-my-secret-world-by-imagine.json) |
