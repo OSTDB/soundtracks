@@ -3540,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Overload | 337099 | [337099-carrot-overload.json](./337099-carrot-overload.json) |
 | Carrot Overload | 394937 | [394937-carrot-overload.json](./394937-carrot-overload.json) |
 | Carrot Paradise | 311243 | [311243-carrot-paradise.json](./311243-carrot-paradise.json) |
+| Carrot Planet | 431420 | [431420-carrot-planet.json](./431420-carrot-planet.json) |
 | Carrot Rescue | 284622 | [284622-carrot-rescue.json](./284622-carrot-rescue.json) |
 | Carrot Revenge | 219222 | [219222-carrot-revenge.json](./219222-carrot-revenge.json) |
 | Carrot Slime 2 | 159125 | [159125-carrot-slime-2.json](./159125-carrot-slime-2.json) |
@@ -13678,6 +13679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Zero: The Last Stand | 52521 | [52521-cold-zero-the-last-stand.json](./52521-cold-zero-the-last-stand.json) |
 | Coldage | 166922 | [166922-coldage.json](./166922-coldage.json) |
 | Coldblooded | 403007 | [403007-coldblooded.json](./403007-coldblooded.json) |
+| ColdBurn | 431421 | [431421-coldburn.json](./431421-coldburn.json) |
 | Colddigger | 118996 | [118996-colddigger.json](./118996-colddigger.json) |
 | Coldfall | 113005 | [113005-coldfall.json](./113005-coldfall.json) |
 | Coldfire Keep | 9799 | [9799-coldfire-keep.json](./9799-coldfire-keep.json) |
@@ -17223,6 +17225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cornerpond | 341374 | [341374-cornerpond.json](./341374-cornerpond.json) |
 | CornerQuest | 393782 | [393782-cornerquest.json](./393782-cornerquest.json) |
 | Corners | 149841 | [149841-corners.json](./149841-corners.json) |
+| Cornerwitch | 431443 | [431443-cornerwitch.json](./431443-cornerwitch.json) |
 | Cornfield | 409273 | [409273-cornfield.json](./409273-cornfield.json) |
 | CornField | 319697 | [319697-cornfield.json](./319697-cornfield.json) |
 | Cornfield Escape | 370575 | [370575-cornfield-escape.json](./370575-cornfield-escape.json) |
