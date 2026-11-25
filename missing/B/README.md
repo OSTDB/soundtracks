@@ -14183,6 +14183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boing Bang Adventure | 264919 | [264919-boing-bang-adventure.json](./264919-boing-bang-adventure.json) |
 | Boing Boing | 303866 | [303866-boing-boing.json](./303866-boing-boing.json) |
 | Boing Boing Bros | 404976 | [404976-boing-boing-bros.json](./404976-boing-boing-bros.json) |
+| Boing Fight | 431276 | [431276-boing-fight.json](./431276-boing-fight.json) |
 | Boing Noir | 140356 | [140356-boing-noir.json](./140356-boing-noir.json) |
 | Boing Odyssey | 280889 | [280889-boing-odyssey.json](./280889-boing-odyssey.json) |
 | Boing! | 11141 | [11141-boing.json](./11141-boing.json) |
@@ -21395,6 +21396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By Moonlight | 114968 | [114968-by-moonlight.json](./114968-by-moonlight.json) |
 | By My Side | 407785 | [407785-by-my-side.json](./407785-by-my-side.json) |
 | By Myself | 390185 | [390185-by-myself.json](./390185-by-myself.json) |
+| By Royal Charter | 431319 | [431319-by-royal-charter.json](./431319-by-royal-charter.json) |
 | By Royal Request | 419060 | [419060-by-royal-request.json](./419060-by-royal-request.json) |
 | By Sword & Road | 394371 | [394371-by-sword-and-road.json](./394371-by-sword-and-road.json) |
 | By the Balls | 365383 | [365383-by-the-balls.json](./365383-by-the-balls.json) |
