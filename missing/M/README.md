@@ -5628,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Shelley's Frankenstein | 257663 | [257663-mary-shelleys-frankenstein.json](./257663-mary-shelleys-frankenstein.json) |
 | Mary Shelley's Frankenstein | 5403 | [5403-mary-shelleys-frankenstein.json](./5403-mary-shelleys-frankenstein.json) |
 | Mary Shelley's Frankenstein / Bram Stoker's Dracula | 257664 | [257664-mary-shelleys-frankenstein-bram-stokers-dracula.json](./257664-mary-shelleys-frankenstein-bram-stokers-dracula.json) |
+| Mary Skelter 2 | 89548 | [89548-mary-skelter-2.json](./89548-mary-skelter-2.json) |
 | Mary Skelter 2: Limited Edition | 166266 | [166266-mary-skelter-2-limited-edition.json](./166266-mary-skelter-2-limited-edition.json) |
 | Mary Skelter Finale | 131974 | [131974-mary-skelter-finale.json](./131974-mary-skelter-finale.json) |
 | Mary Skelter Finale: Day One Edition | 171284 | [171284-mary-skelter-finale-day-one-edition.json](./171284-mary-skelter-finale-day-one-edition.json) |
@@ -14642,6 +14643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper | 408207 | [408207-minesweeper.json](./408207-minesweeper.json) |
 | Minesweeper | 413617 | [413617-minesweeper.json](./413617-minesweeper.json) |
 | Minesweeper | 418989 | [418989-minesweeper.json](./418989-minesweeper.json) |
+| Minesweeper | 89153 | [89153-minesweeper.json](./89153-minesweeper.json) |
 | Minesweeper | 99334 | [99334-minesweeper.json](./99334-minesweeper.json) |
 | MineSweeper | 306019 | [306019-minesweeper.json](./306019-minesweeper.json) |
 | Minesweeper !! | 88352 | [88352-minesweeper.json](./88352-minesweeper.json) |
@@ -18300,6 +18302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hide | 283320 | [283320-monster-hide.json](./283320-monster-hide.json) |
 | Monster High Skulltimate Secrets | 314521 | [314521-monster-high-skulltimate-secrets.json](./314521-monster-high-skulltimate-secrets.json) |
 | Monster High: 13 Wishes | 25142 | [25142-monster-high-13-wishes.json](./25142-monster-high-13-wishes.json) |
+| Monster High: Beauty Shop | 89146 | [89146-monster-high-beauty-shop.json](./89146-monster-high-beauty-shop.json) |
 | Monster High: Ghoul Spirit | 8567 | [8567-monster-high-ghoul-spirit.json](./8567-monster-high-ghoul-spirit.json) |
 | Monster High: Minis Mania | 232507 | [232507-monster-high-minis-mania.json](./232507-monster-high-minis-mania.json) |
 | Monster High: New Ghoul in School | 19318 | [19318-monster-high-new-ghoul-in-school.json](./19318-monster-high-new-ghoul-in-school.json) |
@@ -24337,6 +24340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Oil Empire | 212480 | [212480-my-oil-empire.json](./212480-my-oil-empire.json) |
 | My Old Car Was Green | 413415 | [413415-my-old-car-was-green.json](./413415-my-old-car-was-green.json) |
 | My Older Sister Left the Computer So I Got on & Found Myself Trying to Coordinate a Raid in a Game & I Don't Play MMO's | 146394 | [146394-my-older-sister-left-the-computer-so-i-got-on-and-found-myself-trying-to-coordinate-a-raid-in-a-game-and-i-dont-play-mmos.json](./146394-my-older-sister-left-the-computer-so-i-got-on-and-found-myself-trying-to-coordinate-a-raid-in-a-game-and-i-dont-play-mmos.json) |
+| My Om Nom | 88980 | [88980-my-om-nom.json](./88980-my-om-nom.json) |
 | My Only | 375859 | [375859-my-only.json](./375859-my-only.json) |
 | My Only Sunshine | 122152 | [122152-my-only-sunshine.json](./122152-my-only-sunshine.json) |
 | My Otaku Academia | 190405 | [190405-my-otaku-academia.json](./190405-my-otaku-academia.json) |
@@ -24640,6 +24644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Talking Cat Lily | 257255 | [257255-my-talking-cat-lily.json](./257255-my-talking-cat-lily.json) |
 | My Talking Dog 2 | 269099 | [269099-my-talking-dog-2.json](./269099-my-talking-dog-2.json) |
 | My Talking Girl | 300429 | [300429-my-talking-girl.json](./300429-my-talking-girl.json) |
+| My Talking Hank | 88875 | [88875-my-talking-hank.json](./88875-my-talking-hank.json) |
 | My Talking Pretty Girl | 300430 | [300430-my-talking-pretty-girl.json](./300430-my-talking-pretty-girl.json) |
 | My Talking Tom | 87024 | [87024-my-talking-tom.json](./87024-my-talking-tom.json) |
 | My Talking Tom 2 | 180604 | [180604-my-talking-tom-2.json](./180604-my-talking-tom-2.json) |
@@ -24710,6 +24715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town: Haunted House | 88967 | [88967-my-town-haunted-house.json](./88967-my-town-haunted-house.json) |
 | My Town: Home | 362420 | [362420-my-town-home.json](./362420-my-town-home.json) |
 | My Town: Hospital | 88955 | [88955-my-town-hospital.json](./88955-my-town-hospital.json) |
+| My Town: Museum | 89126 | [89126-my-town-museum.json](./89126-my-town-museum.json) |
 | My Town: Pets | 88961 | [88961-my-town-pets.json](./88961-my-town-pets.json) |
 | My Town: Police Station | 214319 | [214319-my-town-police-station.json](./214319-my-town-police-station.json) |
 | My Town: Shopping Mall | 88919 | [88919-my-town-shopping-mall.json](./88919-my-town-shopping-mall.json) |
