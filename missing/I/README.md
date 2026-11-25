@@ -4082,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inertial Craft | 309953 | [309953-inertial-craft.json](./309953-inertial-craft.json) |
 | Inertial Drift | 127770 | [127770-inertial-drift.json](./127770-inertial-drift.json) |
 | Inertial Drift: Twilight Rivals | 227054 | [227054-inertial-drift-twilight-rivals.json](./227054-inertial-drift-twilight-rivals.json) |
+| Inertial Drift: Twilight Rivals Edition | 203517 | [203517-inertial-drift-twilight-rivals-edition.json](./203517-inertial-drift-twilight-rivals-edition.json) |
 | Inertix | 264974 | [264974-inertix.json](./264974-inertix.json) |
 | Ines | 340925 | [340925-ines.json](./340925-ines.json) |
 | Inescapable | 17302 | [17302-inescapable.json](./17302-inescapable.json) |
@@ -5866,6 +5867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interplanetary Voyage | 41541 | [41541-interplanetary-voyage.json](./41541-interplanetary-voyage.json) |
 | Interplanetary: Enhanced Edition | 54506 | [54506-interplanetary-enhanced-edition.json](./54506-interplanetary-enhanced-edition.json) |
 | Interplay Collection 1 | 130816 | [130816-interplay-collection-1.json](./130816-interplay-collection-1.json) |
+| Interplay Collection 2 | 130687 | [130687-interplay-collection-2.json](./130687-interplay-collection-2.json) |
 | Interplay Klondike Solitaire | 308359 | [308359-interplay-klondike-solitaire.json](./308359-interplay-klondike-solitaire.json) |
 | Interplay Solitaire | 36423 | [36423-interplay-solitaire.json](./36423-interplay-solitaire.json) |
 | Interplay Sports Baseball 2000 | 44735 | [44735-interplay-sports-baseball-2000.json](./44735-interplay-sports-baseball-2000.json) |
