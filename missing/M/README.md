@@ -3946,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marathon: Resurrection | 256152 | [256152-marathon-resurrection.json](./256152-marathon-resurrection.json) |
 | Marathon: Rubicon X | 140942 | [140942-marathon-rubicon-x.json](./140942-marathon-rubicon-x.json) |
 | Marathon: Season 2 - Nightfall | 404051 | [404051-marathon-season-2-nightfall.json](./404051-marathon-season-2-nightfall.json) |
+| Marathon: Symbiosis | 429131 | [429131-marathon-symbiosis.json](./429131-marathon-symbiosis.json) |
 | Maratoma do Faustão | 242648 | [242648-maratoma-do-faustao.json](./242648-maratoma-do-faustao.json) |
 | Maratón | 268120 | [268120-maraton.json](./268120-maraton.json) |
 | Marauder | 18488 | [18488-marauder.json](./18488-marauder.json) |
@@ -4639,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Yoshi Tour | 361179 | [361179-mario-kart-tour-yoshi-tour.json](./361179-mario-kart-tour-yoshi-tour.json) |
 | Mario Kart Tour: Yoshi Tour | 361206 | [361206-mario-kart-tour-yoshi-tour.json](./361206-mario-kart-tour-yoshi-tour.json) |
 | Mario Kart Wii | 191437 | [191437-mario-kart-wii.json](./191437-mario-kart-wii.json) |
+| Mario Kart Wii 3DS | 423766 | [423766-mario-kart-wii-3ds.json](./423766-mario-kart-wii-3ds.json) |
 | Mario Kart Wii Deluxe | 178145 | [178145-mario-kart-wii-deluxe.json](./178145-mario-kart-wii-deluxe.json) |
 | Mario Kart Wii Item-matching Game | 328673 | [328673-mario-kart-wii-item-matching-game.json](./328673-mario-kart-wii-item-matching-game.json) |
 | Mario Kart Wii Tournament Museum | 301127 | [301127-mario-kart-wii-tournament-museum.json](./301127-mario-kart-wii-tournament-museum.json) |
@@ -7079,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maybot Run | 74124 | [74124-maybot-run.json](./74124-maybot-run.json) |
 | Mayday | 38577 | [38577-mayday.json](./38577-mayday.json) |
 | Mayday | 392860 | [392860-mayday.json](./392860-mayday.json) |
+| Mayday Airways | 428713 | [428713-mayday-airways.json](./428713-mayday-airways.json) |
 | MayDay MayDie | 405973 | [405973-mayday-maydie.json](./405973-mayday-maydie.json) |
 | Mayday Memory | 133602 | [133602-mayday-memory.json](./133602-mayday-memory.json) |
 | Mayday Protocol | 382328 | [382328-mayday-protocol.json](./382328-mayday-protocol.json) |
@@ -20240,6 +20243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortimer Beckett and the Time Paradox | 8327 | [8327-mortimer-beckett-and-the-time-paradox.json](./8327-mortimer-beckett-and-the-time-paradox.json) |
 | Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
 | Mortis Chronicles: Tale of Cowardice | 190012 | [190012-mortis-chronicles-tale-of-cowardice.json](./190012-mortis-chronicles-tale-of-cowardice.json) |
+| Mortiscript: Undead Auto Battler | 428223 | [428223-mortiscript-undead-auto-battler.json](./428223-mortiscript-undead-auto-battler.json) |
 | Mortisomem | 272604 | [272604-mortisomem.json](./272604-mortisomem.json) |
 | Mortmentum | 202473 | [202473-mortmentum.json](./202473-mortmentum.json) |
 | Morto: Chapter 1 | 163700 | [163700-morto-chapter-1.json](./163700-morto-chapter-1.json) |
