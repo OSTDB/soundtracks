@@ -11970,6 +11970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Valley | 348860 | [348860-forsaken-valley.json](./348860-forsaken-valley.json) |
 | Forsaken Walls | 423578 | [423578-forsaken-walls.json](./423578-forsaken-walls.json) |
 | Forsaken Woods | 26386 | [26386-forsaken-woods.json](./26386-forsaken-woods.json) |
+| Forsaken World Mobile | 27046 | [27046-forsaken-world-mobile.json](./27046-forsaken-world-mobile.json) |
 | Forsaken World: Gods and Demons | 169020 | [169020-forsaken-world-gods-and-demons.json](./169020-forsaken-world-gods-and-demons.json) |
 | Forsaker: DingDing&Blade | 347020 | [347020-forsaker-dingding-and-blade.json](./347020-forsaker-dingding-and-blade.json) |
 | Forsaker: ​Innocent Paws | 392311 | [392311-forsaker-innocent-paws.json](./392311-forsaker-innocent-paws.json) |
@@ -12744,6 +12745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four-Sight | 148359 | [148359-four-sight.json](./148359-four-sight.json) |
 | Four-Wheels-Drive | 184922 | [184922-four-wheels-drive.json](./184922-four-wheels-drive.json) |
 | Four: The Space Fight | 242174 | [242174-four-the-space-fight.json](./242174-four-the-space-fight.json) |
+| FourChords Guitar Karaoke | 26861 | [26861-fourchords-guitar-karaoke.json](./26861-fourchords-guitar-karaoke.json) |
 | FourFeather | 322442 | [322442-fourfeather.json](./322442-fourfeather.json) |
 | Fourfit | 92983 | [92983-fourfit.json](./92983-fourfit.json) |
 | FourFourTwo Touchline Passion | 68711 | [68711-fourfourtwo-touchline-passion.json](./68711-fourfourtwo-touchline-passion.json) |
@@ -13657,6 +13659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freegglers | 185159 | [185159-freegglers.json](./185159-freegglers.json) |
 | FreeGuessr | 338640 | [338640-freeguessr.json](./338640-freeguessr.json) |
 | Freehand Solitaire | 90497 | [90497-freehand-solitaire.json](./90497-freehand-solitaire.json) |
+| FreeHolder | 32937 | [32937-freeholder.json](./32937-freeholder.json) |
 | FreeInfantry | 291224 | [291224-freeinfantry.json](./291224-freeinfantry.json) |
 | Freeing Quency | 179192 | [179192-freeing-quency.json](./179192-freeing-quency.json) |
 | FreeJack | 51276 | [51276-freejack.json](./51276-freejack.json) |
