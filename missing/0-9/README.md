@@ -4113,7 +4113,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 R.I.P.: Special Edition | 257269 | [257269-9-r-i-p-special-edition.json](./257269-9-r-i-p-special-edition.json) |
 | 9 Realms | 258564 | [258564-9-realms.json](./258564-9-realms.json) |
 | 9 Souls | 357763 | [357763-9-souls.json](./357763-9-souls.json) |
-| 9 Tiles . | 95525 | [95525-9-tiles.json](./95525-9-tiles.json) |
 | 9 Till Void | 133230 | [133230-9-till-void.json](./133230-9-till-void.json) |
 | 9 to 5 Smash It | 107028 | [107028-9-to-5-smash-it.json](./107028-9-to-5-smash-it.json) |
 | 9 To Ashes | 377407 | [377407-9-to-ashes.json](./377407-9-to-ashes.json) |
