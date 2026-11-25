@@ -1149,7 +1149,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Worlds | 372391 | [372391-war-of-the-worlds.json](./372391-war-of-the-worlds.json) |
 | War of the Worlds | 39425 | [39425-war-of-the-worlds.json](./39425-war-of-the-worlds.json) |
 | War of the Wormholes: Janitor Duty | 397991 | [397991-war-of-the-wormholes-janitor-duty.json](./397991-war-of-the-wormholes-janitor-duty.json) |
-| War of the Zombie | 90516 | [90516-war-of-the-zombie.json](./90516-war-of-the-zombie.json) |
 | War of Three Kingdoms | 113779 | [113779-war-of-three-kingdoms.json](./113779-war-of-three-kingdoms.json) |
 | War of Thrones | 245263 | [245263-war-of-thrones.json](./245263-war-of-thrones.json) |
 | War of Velana | 130492 | [130492-war-of-velana.json](./130492-war-of-velana.json) |
@@ -2246,7 +2245,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Cats: Clans of the Forest - Prophecy Pack | 421804 | [421804-warrior-cats-clans-of-the-forest-prophecy-pack.json](./421804-warrior-cats-clans-of-the-forest-prophecy-pack.json) |
 | Warrior Cats: Untold Tales | 217630 | [217630-warrior-cats-untold-tales.json](./217630-warrior-cats-untold-tales.json) |
 | Warrior Chef | 270179 | [270179-warrior-chef.json](./270179-warrior-chef.json) |
-| Warrior Chess | 90389 | [90389-warrior-chess.json](./90389-warrior-chess.json) |
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
 | Warrior Dragon | 73093 | [73093-warrior-dragon.json](./73093-warrior-dragon.json) |
 | Warrior Epic | 22995 | [22995-warrior-epic.json](./22995-warrior-epic.json) |
@@ -4524,7 +4522,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Pixelated? | 88476 | [88476-whats-pixelated.json](./88476-whats-pixelated.json) |
 | What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
 | What's the Baby Animal? | 233064 | [233064-whats-the-baby-animal.json](./233064-whats-the-baby-animal.json) |
-| What's the Difference? Spot It | 90182 | [90182-whats-the-difference-spot-it.json](./90182-whats-the-difference-spot-it.json) |
 | What's the Dog Doing? | 325553 | [325553-whats-the-dog-doing.json](./325553-whats-the-dog-doing.json) |
 | What's the Logo?: Guess the Company Brand Word Game | 232623 | [232623-whats-the-logo-guess-the-company-brand-word-game.json](./232623-whats-the-logo-guess-the-company-brand-word-game.json) |
 | What's the Matter? | 164337 | [164337-whats-the-matter.json](./164337-whats-the-matter.json) |
@@ -4692,7 +4689,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheely 4: Time Travel | 102004 | [102004-wheely-4-time-travel.json](./102004-wheely-4-time-travel.json) |
 | Wheely 5: Armageddon | 101901 | [101901-wheely-5-armageddon.json](./101901-wheely-5-armageddon.json) |
 | Wheely World | 109265 | [109265-wheely-world.json](./109265-wheely-world.json) |
-| Wheelz2 | 90115 | [90115-wheelz2.json](./90115-wheelz2.json) |
 | Whelm | 296363 | [296363-whelm.json](./296363-whelm.json) |
 | Whemy the Witch | 349778 | [349778-whemy-the-witch.json](./349778-whemy-the-witch.json) |
 | When a Man Lose His Job | 147874 | [147874-when-a-man-lose-his-job.json](./147874-when-a-man-lose-his-job.json) |
@@ -6393,7 +6389,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will Hero | 92116 | [92116-will-hero.json](./92116-will-hero.json) |
 | Will I Survive Tonight? | 298618 | [298618-will-i-survive-tonight.json](./298618-will-i-survive-tonight.json) |
 | Will it Crush? | 102785 | [102785-will-it-crush.json](./102785-will-it-crush.json) |
-| Will it Crush? | 90034 | [90034-will-it-crush.json](./90034-will-it-crush.json) |
 | Will It Ever End? | 143572 | [143572-will-it-ever-end.json](./143572-will-it-ever-end.json) |
 | Will It Launch? | 421623 | [421623-will-it-launch.json](./421623-will-it-launch.json) |
 | Will it Stand? | 422955 | [422955-will-it-stand.json](./422955-will-it-stand.json) |
@@ -7588,7 +7583,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witching Ihatov | 418044 | [418044-witching-ihatov.json](./418044-witching-ihatov.json) |
 | Witching Morning | 182134 | [182134-witching-morning.json](./182134-witching-morning.json) |
 | Witching Stone | 284839 | [284839-witching-stone.json](./284839-witching-stone.json) |
-| Witching Tower | 90121 | [90121-witching-tower.json](./90121-witching-tower.json) |
 | Witching Tower: Heroes | 132252 | [132252-witching-tower-heroes.json](./132252-witching-tower-heroes.json) |
 | Witching Well | 304010 | [304010-witching-well.json](./304010-witching-well.json) |
 | Witchinour | 38978 | [38978-witchinour.json](./38978-witchinour.json) |
@@ -8098,7 +8092,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wojak Rush | 232936 | [232936-wojak-rush.json](./232936-wojak-rush.json) |
 | Wojak This Game | 221633 | [221633-wojak-this-game.json](./221633-wojak-this-game.json) |
 | Wojak Wants Hentai | 243484 | [243484-wojak-wants-hentai.json](./243484-wojak-wants-hentai.json) |
-| Wojdan | 90488 | [90488-wojdan.json](./90488-wojdan.json) |
 | Wok Planet | 220628 | [220628-wok-planet.json](./220628-wok-planet.json) |
 | Wok This Way! | 399148 | [399148-wok-this-way.json](./399148-wok-this-way.json) |
 | Woka Woka | 98076 | [98076-woka-woka.json](./98076-woka-woka.json) |
@@ -8114,7 +8107,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf | 9573 | [9573-wolf.json](./9573-wolf.json) |
 | Wolf & Eggs! | 178532 | [178532-wolf-and-eggs.json](./178532-wolf-and-eggs.json) |
 | Wolf & Pigs | 127197 | [127197-wolf-and-pigs.json](./127197-wolf-and-pigs.json) |
-| Wolf & Rabbit | 90027 | [90027-wolf-and-rabbit.json](./90027-wolf-and-rabbit.json) |
 | Wolf Adventures | 164518 | [164518-wolf-adventures.json](./164518-wolf-adventures.json) |
 | Wolf And Moon: Nonogram | 312365 | [312365-wolf-and-moon-nonogram.json](./312365-wolf-and-moon-nonogram.json) |
 | Wolf And Moon: Sudoku | 312362 | [312362-wolf-and-moon-sudoku.json](./312362-wolf-and-moon-sudoku.json) |
