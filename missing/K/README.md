@@ -2147,7 +2147,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kepler Galaxy Wars: Rebel Alliance Mission | 99981 | [99981-kepler-galaxy-wars-rebel-alliance-mission.json](./99981-kepler-galaxy-wars-rebel-alliance-mission.json) |
 | Kepler-2100 | 283031 | [283031-kepler-2100.json](./283031-kepler-2100.json) |
 | Keplerian Space Discovery | 339528 | [339528-keplerian-space-discovery.json](./339528-keplerian-space-discovery.json) |
-| Keplerth | 95587 | [95587-keplerth.json](./95587-keplerth.json) |
 | Kept Man Life | 56145 | [56145-kept-man-life.json](./56145-kept-man-life.json) |
 | Keptosh: The Search for Junc | 110887 | [110887-keptosh-the-search-for-junc.json](./110887-keptosh-the-search-for-junc.json) |
 | Ker-Chunk! | 312159 | [312159-ker-chunk.json](./312159-ker-chunk.json) |
@@ -2711,7 +2710,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Doodle - Movie Kids Color & Draw | 86988 | [86988-kids-doodle-movie-kids-color-and-draw.json](./86988-kids-doodle-movie-kids-color-and-draw.json) |
 | Kids Dreamland Adventures | 101552 | [101552-kids-dreamland-adventures.json](./101552-kids-dreamland-adventures.json) |
 | Kids Fun Favorites | 89698 | [89698-kids-fun-favorites.json](./89698-kids-fun-favorites.json) |
-| Kids Hair Spa Salon | 95344 | [95344-kids-hair-spa-salon.json](./95344-kids-hair-spa-salon.json) |
 | Kids Halloween Puzzles and Logic Games | 87109 | [87109-kids-halloween-puzzles-and-logic-games.json](./87109-kids-halloween-puzzles-and-logic-games.json) |
 | Kids Hidden Object | 99198 | [99198-kids-hidden-object.json](./99198-kids-hidden-object.json) |
 | Kids in the Kitchen - Cooking Recipes | 95796 | [95796-kids-in-the-kitchen-cooking-recipes.json](./95796-kids-in-the-kitchen-cooking-recipes.json) |
@@ -4772,7 +4770,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Island | 251112 | [251112-kitten-island.json](./251112-kitten-island.json) |
 | Kitten Kaboodle | 40236 | [40236-kitten-kaboodle.json](./40236-kitten-kaboodle.json) |
 | Kitten Kingdom | 231704 | [231704-kitten-kingdom.json](./231704-kitten-kingdom.json) |
-| Kitten Life Simulator | 97496 | [97496-kitten-life-simulator.json](./97496-kitten-life-simulator.json) |
 | Kitten Lost Her Box | 235490 | [235490-kitten-lost-her-box.json](./235490-kitten-lost-her-box.json) |
 | Kitten Madness | 81028 | [81028-kitten-madness.json](./81028-kitten-madness.json) |
 | Kitten Milk Replacer | 260080 | [260080-kitten-milk-replacer.json](./260080-kitten-milk-replacer.json) |
@@ -4897,7 +4894,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kivi, Toilet and Shotgun | 16308 | [16308-kivi-toilet-and-shotgun.json](./16308-kivi-toilet-and-shotgun.json) |
 | Kivi's Underworld | 27552 | [27552-kivis-underworld.json](./27552-kivis-underworld.json) |
 | Kiwame Mahjong Deluxe: Mirai Senshi 21 | 128365 | [128365-kiwame-mahjong-deluxe-mirai-senshi-21.json](./128365-kiwame-mahjong-deluxe-mirai-senshi-21.json) |
-| Kiwame Mahjong DX II | 97872 | [97872-kiwame-mahjong-dx-ii.json](./97872-kiwame-mahjong-dx-ii.json) |
 | Kiwame Mahjong DXII: The 4th Mondo21Cup Competition | 80432 | [80432-kiwame-mahjong-dxii-the-4th-mondo21cup-competition.json](./80432-kiwame-mahjong-dxii-the-4th-mondo21cup-competition.json) |
 | Kiwamero! Shunkan Jump Kentei | 222453 | [222453-kiwamero-shunkan-jump-kentei.json](./222453-kiwamero-shunkan-jump-kentei.json) |
 | Kiwamete Yoku aru Dasshutsu Game | 320046 | [320046-kiwamete-yoku-aru-dasshutsu-game.json](./320046-kiwamete-yoku-aru-dasshutsu-game.json) |
