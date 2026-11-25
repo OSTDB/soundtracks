@@ -3987,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Taxi: The Simulation | 54249 | [54249-new-york-taxi-the-simulation.json](./54249-new-york-taxi-the-simulation.json) |
 | New York Times Crossword | 88991 | [88991-new-york-times-crossword.json](./88991-new-york-times-crossword.json) |
 | New York Times Crosswords | 210105 | [210105-new-york-times-crosswords.json](./210105-new-york-times-crosswords.json) |
+| New York Times Crosswords | 44069 | [44069-new-york-times-crosswords.json](./44069-new-york-times-crosswords.json) |
 | New York Warriors | 39033 | [39033-new-york-warriors.json](./39033-new-york-warriors.json) |
 | New York! New York! | 40379 | [40379-new-york-new-york.json](./40379-new-york-new-york.json) |
 | New Zealand Jigsaw Puzzles | 274766 | [274766-new-zealand-jigsaw-puzzles.json](./274766-new-zealand-jigsaw-puzzles.json) |
@@ -4428,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Eastside Hockey Manager | 74037 | [74037-nhl-eastside-hockey-manager.json](./74037-nhl-eastside-hockey-manager.json) |
 | NHL Eastside Hockey Manager 2005 | 80334 | [80334-nhl-eastside-hockey-manager-2005.json](./80334-nhl-eastside-hockey-manager-2005.json) |
 | NHL Eastside Hockey Manager 2007 | 70454 | [70454-nhl-eastside-hockey-manager-2007.json](./70454-nhl-eastside-hockey-manager-2007.json) |
+| NHL Face Off '97 | 43696 | [43696-nhl-face-off-97.json](./43696-nhl-face-off-97.json) |
 | NHL FaceOff | 20428 | [20428-nhl-faceoff.json](./20428-nhl-faceoff.json) |
 | NHL FaceOff 2000 | 20432 | [20432-nhl-faceoff-2000.json](./20432-nhl-faceoff-2000.json) |
 | NHL FaceOff 2001 | 20433 | [20433-nhl-faceoff-2001.json](./20433-nhl-faceoff-2001.json) |
@@ -6088,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Tycoon | 83811 | [83811-ninja-tycoon.json](./83811-ninja-tycoon.json) |
 | Ninja Up | 58914 | [58914-ninja-up.json](./58914-ninja-up.json) |
 | Ninja USA | 100277 | [100277-ninja-usa.json](./100277-ninja-usa.json) |
+| Ninja Usagimaru: The Mysterious Karakuri Castle | 44391 | [44391-ninja-usagimaru-the-mysterious-karakuri-castle.json](./44391-ninja-usagimaru-the-mysterious-karakuri-castle.json) |
 | Ninja Usagimaru: Two Tails of Adventure | 44484 | [44484-ninja-usagimaru-two-tails-of-adventure.json](./44484-ninja-usagimaru-two-tails-of-adventure.json) |
 | Ninja Village | 61080 | [61080-ninja-village.json](./61080-ninja-village.json) |
 | Ninja Village Wars 2 | 80005 | [80005-ninja-village-wars-2.json](./80005-ninja-village-wars-2.json) |
