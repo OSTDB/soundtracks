@@ -1165,7 +1165,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic 2014: Duels of the Planeswalkers - Deck Pack 3 | 362460 | [362460-magic-2014-duels-of-the-planeswalkers-deck-pack-3.json](./362460-magic-2014-duels-of-the-planeswalkers-deck-pack-3.json) |
 | Magic 2014: Duels of the Planeswalkers - Expansion | 362457 | [362457-magic-2014-duels-of-the-planeswalkers-expansion.json](./362457-magic-2014-duels-of-the-planeswalkers-expansion.json) |
 | Magic Academy | 311117 | [311117-magic-academy.json](./311117-magic-academy.json) |
-| Magic Academy | 91307 | [91307-magic-academy.json](./91307-magic-academy.json) |
 | Magic Academy 2 | 19201 | [19201-magic-academy-2.json](./19201-magic-academy-2.json) |
 | Magic Adventures | 155025 | [155025-magic-adventures.json](./155025-magic-adventures.json) |
 | Magic Alliance | 323587 | [323587-magic-alliance.json](./323587-magic-alliance.json) |
@@ -2431,7 +2430,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongg Compilation | 91596 | [91596-mahjongg-compilation.json](./91596-mahjongg-compilation.json) |
 | Mahjongg Compilation | 91597 | [91597-mahjongg-compilation.json](./91597-mahjongg-compilation.json) |
 | Mahjongg Dimensions Deluxe | 93871 | [93871-mahjongg-dimensions-deluxe.json](./93871-mahjongg-dimensions-deluxe.json) |
-| Mahjongg DS | 91318 | [91318-mahjongg-ds.json](./91318-mahjongg-ds.json) |
 | Mahjongg Empire | 210203 | [210203-mahjongg-empire.json](./210203-mahjongg-empire.json) |
 | Mahjongg MAC | 131010 | [131010-mahjongg-mac.json](./131010-mahjongg-mac.json) |
 | Mahjongg Master | 94305 | [94305-mahjongg-master.json](./94305-mahjongg-master.json) |
@@ -5171,7 +5169,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Troopers | 105229 | [105229-mars-troopers.json](./105229-mars-troopers.json) |
 | Mars Type I | 181855 | [181855-mars-type-i.json](./181855-mars-type-i.json) |
 | Mars Vice | 217167 | [217167-mars-vice.json](./217167-mars-vice.json) |
-| Mars VR | 91120 | [91120-mars-vr.json](./91120-mars-vr.json) |
 | Mars vs. Robots | 319693 | [319693-mars-vs-robots.json](./319693-mars-vs-robots.json) |
 | Mars Wars | 117583 | [117583-mars-wars.json](./117583-mars-wars.json) |
 | Mars Xplorer | 239114 | [239114-mars-xplorer.json](./239114-mars-xplorer.json) |
@@ -8263,7 +8260,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Shepherd | 425827 | [425827-medieval-shepherd.json](./425827-medieval-shepherd.json) |
 | Medieval Shop Simulator | 152726 | [152726-medieval-shop-simulator.json](./152726-medieval-shop-simulator.json) |
 | Medieval Shop Simulator | 350333 | [350333-medieval-shop-simulator.json](./350333-medieval-shop-simulator.json) |
-| Medieval Shopkeeper Simulator | 95121 | [95121-medieval-shopkeeper-simulator.json](./95121-medieval-shopkeeper-simulator.json) |
 | Medieval Shopman | 349757 | [349757-medieval-shopman.json](./349757-medieval-shopman.json) |
 | Medieval Shorts 2 | 101775 | [101775-medieval-shorts-2.json](./101775-medieval-shorts-2.json) |
 | Medieval Shorts 3 | 101752 | [101752-medieval-shorts-3.json](./101752-medieval-shorts-3.json) |
@@ -12272,7 +12268,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Mike | 245083 | [245083-micro-mike.json](./245083-micro-mike.json) |
 | Micro Miners | 74338 | [74338-micro-miners.json](./74338-micro-miners.json) |
 | Micro Monster Park | 105874 | [105874-micro-monster-park.json](./105874-micro-monster-park.json) |
-| Micro Monster Truck | 91352 | [91352-micro-monster-truck.json](./91352-micro-monster-truck.json) |
 | Micro Mouse | 138087 | [138087-micro-mouse.json](./138087-micro-mouse.json) |
 | Micro Mouse Game | 91957 | [91957-micro-mouse-game.json](./91957-micro-mouse-game.json) |
 | Micro Murder: But It's Robots So It's OK | 181238 | [181238-micro-murder-but-its-robots-so-its-ok.json](./181238-micro-murder-but-its-robots-so-its-ok.json) |
@@ -12910,7 +12905,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Bowling | 21802 | [21802-midnight-bowling.json](./21802-midnight-bowling.json) |
 | Midnight Bowling 3 | 239474 | [239474-midnight-bowling-3.json](./239474-midnight-bowling-3.json) |
 | Midnight Building | 93172 | [93172-midnight-building.json](./93172-midnight-building.json) |
-| Midnight Calling: Anabel | 91139 | [91139-midnight-calling-anabel.json](./91139-midnight-calling-anabel.json) |
 | Midnight Calling: Anabel - Collector's Edition | 29020 | [29020-midnight-calling-anabel-collectors-edition.json](./29020-midnight-calling-anabel-collectors-edition.json) |
 | Midnight Calling: Jeronimo | 102792 | [102792-midnight-calling-jeronimo.json](./102792-midnight-calling-jeronimo.json) |
 | Midnight Calling: Jeronimo - Collector's Edition | 170199 | [170199-midnight-calling-jeronimo-collectors-edition.json](./170199-midnight-calling-jeronimo-collectors-edition.json) |
@@ -14688,7 +14682,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Puzzle Bomb | 104113 | [104113-minesweeper-puzzle-bomb.json](./104113-minesweeper-puzzle-bomb.json) |
 | Minesweeper Puzzle HD | 87434 | [87434-minesweeper-puzzle-hd.json](./87434-minesweeper-puzzle-hd.json) |
 | Minesweeper Q Premium | 174254 | [174254-minesweeper-q-premium.json](./174254-minesweeper-q-premium.json) |
-| MineSweeper Reloaded | 91089 | [91089-minesweeper-reloaded.json](./91089-minesweeper-reloaded.json) |
 | Minesweeper Retro | 99825 | [99825-minesweeper-retro.json](./99825-minesweeper-retro.json) |
 | Minesweeper Run | 151757 | [151757-minesweeper-run.json](./151757-minesweeper-run.json) |
 | MineSweeper Rush | 362387 | [362387-minesweeper-rush.json](./362387-minesweeper-rush.json) |
@@ -15201,7 +15194,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniMoni: Onegaio Hoshisama! | 49685 | [49685-minimoni-onegaio-hoshisama.json](./49685-minimoni-onegaio-hoshisama.json) |
 | Minimonos | 365184 | [365184-minimonos.json](./365184-minimonos.json) |
 | Minimonos Flight | 383765 | [383765-minimonos-flight.json](./383765-minimonos-flight.json) |
-| Minimonsters Crush | 90820 | [90820-minimonsters-crush.json](./90820-minimonsters-crush.json) |
 | MiniMow | 262590 | [262590-minimow.json](./262590-minimow.json) |
 | Minimum Mage Effort | 401049 | [401049-minimum-mage-effort.json](./401049-minimum-mage-effort.json) |
 | Minimum Nanonic | 70401 | [70401-minimum-nanonic.json](./70401-minimum-nanonic.json) |
@@ -17431,7 +17423,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momentum Missile Mayhem 4 | 388203 | [388203-momentum-missile-mayhem-4.json](./388203-momentum-missile-mayhem-4.json) |
 | Momentum Mod | 58157 | [58157-momentum-mod.json](./58157-momentum-mod.json) |
 | Momentum Tenebris | 184678 | [184678-momentum-tenebris.json](./184678-momentum-tenebris.json) |
-| Momery | 95135 | [95135-momery.json](./95135-momery.json) |
 | Momi | 358564 | [358564-momi.json](./358564-momi.json) |
 | Momibosu | 151726 | [151726-momibosu.json](./151726-momibosu.json) |
 | Momiji From Purgatory | 152490 | [152490-momiji-from-purgatory.json](./152490-momiji-from-purgatory.json) |
@@ -21270,7 +21261,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mówù Diàocházhě | 154027 | [154027-mowu-diaochazhe.json](./154027-mowu-diaochazhe.json) |
 | Mówù Jǐngjiè | 159946 | [159946-mowu-jingjie.json](./159946-mowu-jingjie.json) |
 | Mówùniáng Wùyǔ | 100540 | [100540-mowuniang-wuyu.json](./100540-mowuniang-wuyu.json) |
-| Mowy Lawn | 92096 | [92096-mowy-lawn.json](./92096-mowy-lawn.json) |
 | Mowzie's Mobs | 331346 | [331346-mowzies-mobs.json](./331346-mowzies-mobs.json) |
 | Mox Nox | 426585 | [426585-mox-nox.json](./426585-mox-nox.json) |
 | Moxie | 363591 | [363591-moxie.json](./363591-moxie.json) |
@@ -22302,7 +22292,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MunchiesGretel | 406394 | [406394-munchiesgretel.json](./406394-munchiesgretel.json) |
 | Munchkin Digital | 220682 | [220682-munchkin-digital.json](./220682-munchkin-digital.json) |
 | Munchkin Digital: Unnatural Axe | 255020 | [255020-munchkin-digital-unnatural-axe.json](./255020-munchkin-digital-unnatural-axe.json) |
-| Munchkin Match | 90788 | [90788-munchkin-match.json](./90788-munchkin-match.json) |
 | Munchkin Match: Magic Home Building | 106223 | [106223-munchkin-match-magic-home-building.json](./106223-munchkin-match-magic-home-building.json) |
 | Munchkin: Quacked Quest | 110314 | [110314-munchkin-quacked-quest.json](./110314-munchkin-quacked-quest.json) |
 | Munchkin.io | 111823 | [111823-munchkin-io.json](./111823-munchkin-io.json) |
@@ -22318,6 +22307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mundial Ronaldinho Soccer 64 | 135373 | [135373-mundial-ronaldinho-soccer-64.json](./135373-mundial-ronaldinho-soccer-64.json) |
 | Mundo Gaturro | 138285 | [138285-mundo-gaturro.json](./138285-mundo-gaturro.json) |
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
+| Mundowow | 428507 | [428507-mundowow.json](./428507-mundowow.json) |
 | Mundus: Impossible Universe | 95572 | [95572-mundus-impossible-universe.json](./95572-mundus-impossible-universe.json) |
 | Mundus: Impossible Universe 2 | 118020 | [118020-mundus-impossible-universe-2.json](./118020-mundus-impossible-universe-2.json) |
 | MundusHex | 277986 | [277986-mundushex.json](./277986-mundushex.json) |
@@ -24006,7 +23996,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Kingdom for the Princess HD | 95536 | [95536-my-kingdom-for-the-princess-hd.json](./95536-my-kingdom-for-the-princess-hd.json) |
 | My Kingdom for the Princess II | 259831 | [259831-my-kingdom-for-the-princess-ii.json](./259831-my-kingdom-for-the-princess-ii.json) |
 | My Kingdom for the Princess II HD | 102140 | [102140-my-kingdom-for-the-princess-ii-hd.json](./102140-my-kingdom-for-the-princess-ii-hd.json) |
-| My Kingdom for the Princess III | 90781 | [90781-my-kingdom-for-the-princess-iii.json](./90781-my-kingdom-for-the-princess-iii.json) |
 | My Kingdom for the Princess III HD | 102634 | [102634-my-kingdom-for-the-princess-iii-hd.json](./102634-my-kingdom-for-the-princess-iii-hd.json) |
 | My Kingdom for the Princess IV | 90734 | [90734-my-kingdom-for-the-princess-iv.json](./90734-my-kingdom-for-the-princess-iv.json) |
 | My Kingdom for the Princess IV HD | 106348 | [106348-my-kingdom-for-the-princess-iv-hd.json](./106348-my-kingdom-for-the-princess-iv-hd.json) |
@@ -24146,7 +24135,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Princess | 90367 | [90367-my-little-princess.json](./90367-my-little-princess.json) |
 | My Little Princess : Castle | 86878 | [86878-my-little-princess-castle.json](./86878-my-little-princess-castle.json) |
 | My Little Princess : Fairy Forest | 102455 | [102455-my-little-princess-fairy-forest.json](./102455-my-little-princess-fairy-forest.json) |
-| My Little Princess : Wizard | 91990 | [91990-my-little-princess-wizard.json](./91990-my-little-princess-wizard.json) |
 | My Little Princess: Stores | 88958 | [88958-my-little-princess-stores.json](./88958-my-little-princess-stores.json) |
 | My Little Puppy | 335660 | [335660-my-little-puppy.json](./335660-my-little-puppy.json) |
 | My Little Ramenbar | 175815 | [175815-my-little-ramenbar.json](./175815-my-little-ramenbar.json) |
@@ -25242,7 +25230,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Mine | 30134 | [30134-mystery-mine.json](./30134-mystery-mine.json) |
 | Mystery Miniaturist | 183266 | [183266-mystery-miniaturist.json](./183266-mystery-miniaturist.json) |
 | Mystery Mosaics | 87894 | [87894-mystery-mosaics.json](./87894-mystery-mosaics.json) |
-| Mystery Mosaics 2 | 91090 | [91090-mystery-mosaics-2.json](./91090-mystery-mosaics-2.json) |
 | Mystery Murders: Jack the Ripper | 84703 | [84703-mystery-murders-jack-the-ripper.json](./84703-mystery-murders-jack-the-ripper.json) |
 | Mystery Murders: The Sleeping Palace | 84702 | [84702-mystery-murders-the-sleeping-palace.json](./84702-mystery-murders-the-sleeping-palace.json) |
 | Mystery Museum | 146858 | [146858-mystery-museum.json](./146858-mystery-museum.json) |
