@@ -13092,6 +13092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code AOI | 174973 | [174973-code-aoi.json](./174973-code-aoi.json) |
 | Code Arcturus | 133097 | [133097-code-arcturus.json](./133097-code-arcturus.json) |
 | Code Blue | 401137 | [401137-code-blue.json](./401137-code-blue.json) |
+| Code Blue | 431320 | [431320-code-blue.json](./431320-code-blue.json) |
 | Code Blue | 46716 | [46716-code-blue.json](./46716-code-blue.json) |
 | Code Breaker | 315457 | [315457-code-breaker.json](./315457-code-breaker.json) |
 | Code Breaker | 380076 | [380076-code-breaker.json](./380076-code-breaker.json) |
@@ -18534,6 +18535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Hike | 267118 | [267118-cozy-hike.json](./267118-cozy-hike.json) |
 | Cozy Holes | 338547 | [338547-cozy-holes.json](./338547-cozy-holes.json) |
 | Cozy Holiday | 380344 | [380344-cozy-holiday.json](./380344-cozy-holiday.json) |
+| Cozy Holiday 2 | 431305 | [431305-cozy-holiday-2.json](./431305-cozy-holiday-2.json) |
 | Cozy Home | 386876 | [386876-cozy-home.json](./386876-cozy-home.json) |
 | Cozy Home Cleanup | 427466 | [427466-cozy-home-cleanup.json](./427466-cozy-home-cleanup.json) |
 | Cozy Home Unpacking | 403736 | [403736-cozy-home-unpacking.json](./403736-cozy-home-unpacking.json) |
