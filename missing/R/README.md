@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders Sphere 4th | 59176 | [59176-raiders-sphere-4th.json](./59176-raiders-sphere-4th.json) |
 | Raiders took my dog | 101835 | [101835-raiders-took-my-dog.json](./101835-raiders-took-my-dog.json) |
 | Raiders! Forsaken Earth | 153676 | [153676-raiders-forsaken-earth.json](./153676-raiders-forsaken-earth.json) |
+| Raiders5 | 40166 | [40166-raiders5.json](./40166-raiders5.json) |
 | RaidersSphere3rd | 392444 | [392444-raiderssphere3rd.json](./392444-raiderssphere3rd.json) |
 | RaidersSphere4th | 35981 | [35981-raiderssphere4th.json](./35981-raiderssphere4th.json) |
 | RaidersSphereSecond | 392469 | [392469-raidersspheresecond.json](./392469-raidersspheresecond.json) |
@@ -9714,6 +9715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Kings | 361840 | [361840-road-kings.json](./361840-road-kings.json) |
 | Road Legends | 90128 | [90128-road-legends.json](./90128-road-legends.json) |
 | Road Line Puzzle: Connect the Paths | 413954 | [413954-road-line-puzzle-connect-the-paths.json](./413954-road-line-puzzle-connect-the-paths.json) |
+| Road Madness | 33140 | [33140-road-madness.json](./33140-road-madness.json) |
 | Road Maintenance Simulator | 193766 | [193766-road-maintenance-simulator.json](./193766-road-maintenance-simulator.json) |
 | Road Maintenance Simulator 2: Winter Services | 315612 | [315612-road-maintenance-simulator-2-winter-services.json](./315612-road-maintenance-simulator-2-winter-services.json) |
 | Road Master 3D | 303047 | [303047-road-master-3d.json](./303047-road-master-3d.json) |
@@ -11942,6 +11944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll: A Puzzle Contraption | 303664 | [303664-roll-a-puzzle-contraption.json](./303664-roll-a-puzzle-contraption.json) |
 | Roll! | 110114 | [110114-roll.json](./110114-roll.json) |
 | Roll.io | 108260 | [108260-roll-io.json](./108260-roll-io.json) |
+| Roll'd | 33076 | [33076-rolld.json](./33076-rolld.json) |
 | Roll'N With Da Punchez | 316513 | [316513-rolln-with-da-punchez.json](./316513-rolln-with-da-punchez.json) |
 | Roll+Heart | 119718 | [119718-roll-heart.json](./119718-roll-heart.json) |
 | Rolla | 374635 | [374635-rolla.json](./374635-rolla.json) |
