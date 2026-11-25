@@ -1195,7 +1195,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galidor: Defenders of the Outer Dimension | 49172 | [49172-galidor-defenders-of-the-outer-dimension.json](./49172-galidor-defenders-of-the-outer-dimension.json) |
 | Galileo | 125676 | [125676-galileo.json](./125676-galileo.json) |
 | Galileo Mystery: The Crown of Midas | 268118 | [268118-galileo-mystery-the-crown-of-midas.json](./268118-galileo-mystery-the-crown-of-midas.json) |
-| Galimulator | 89971 | [89971-galimulator.json](./89971-galimulator.json) |
 | Galine | 275193 | [275193-galine.json](./275193-galine.json) |
 | Galivan - Cosmo Police | 40020 | [40020-galivan-cosmo-police.json](./40020-galivan-cosmo-police.json) |
 | Galix: NewHorizons | 304695 | [304695-galix-newhorizons.json](./304695-galix-newhorizons.json) |
@@ -2131,7 +2130,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Harvest | 285145 | [285145-garden-harvest.json](./285145-garden-harvest.json) |
 | Garden Hunt | 352263 | [352263-garden-hunt.json](./352263-garden-hunt.json) |
 | Garden Hustle | 422127 | [422127-garden-hustle.json](./422127-garden-hustle.json) |
-| Garden Island Plant Village: Grow & Harvest Fruits & Vegetables on your country farm! | 89825 | [89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json](./89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json) |
 | Garden Life: A Cozy Simulator | 204554 | [204554-garden-life-a-cozy-simulator.json](./204554-garden-life-a-cozy-simulator.json) |
 | Garden Life: Eco-friendly Decoration Set | 286205 | [286205-garden-life-eco-friendly-decoration-set.json](./286205-garden-life-eco-friendly-decoration-set.json) |
 | Garden Life: Garden Party Edition | 286204 | [286204-garden-life-garden-party-edition.json](./286204-garden-life-garden-party-edition.json) |
@@ -3396,7 +3394,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius - Tricky Riddles | 95309 | [95309-genius-tricky-riddles.json](./95309-genius-tricky-riddles.json) |
 | Genius At Work! | 153504 | [153504-genius-at-work.json](./153504-genius-at-work.json) |
 | Genius Bishoujo Romance Bundle | 274235 | [274235-genius-bishoujo-romance-bundle.json](./274235-genius-bishoujo-romance-bundle.json) |
-| Genius Calculator | 90265 | [90265-genius-calculator.json](./90265-genius-calculator.json) |
 | Genius Greedy Mouse: Greedy of XOR | 172368 | [172368-genius-greedy-mouse-greedy-of-xor.json](./172368-genius-greedy-mouse-greedy-of-xor.json) |
 | Genius Killer | 174749 | [174749-genius-killer.json](./174749-genius-killer.json) |
 | Genius Loci | 176239 | [176239-genius-loci.json](./176239-genius-loci.json) |
@@ -4711,7 +4708,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostship Chronicles | 107467 | [107467-ghostship-chronicles.json](./107467-ghostship-chronicles.json) |
 | GhostSlayer | 67039 | [67039-ghostslayer.json](./67039-ghostslayer.json) |
 | Ghostslayers | 325369 | [325369-ghostslayers.json](./325369-ghostslayers.json) |
-| Ghoststory | 89954 | [89954-ghoststory.json](./89954-ghoststory.json) |
 | Ghostus | 263329 | [263329-ghostus.json](./263329-ghostus.json) |
 | GhostVac | 249533 | [249533-ghostvac.json](./249533-ghostvac.json) |
 | Ghostwage | 224694 | [224694-ghostwage.json](./224694-ghostwage.json) |
@@ -7011,7 +7007,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God's League | 341477 | [341477-gods-league.json](./341477-gods-league.json) |
 | God's Legacy: Alchemist | 224049 | [224049-gods-legacy-alchemist.json](./224049-gods-legacy-alchemist.json) |
 | God's Miniature Garden | 263136 | [263136-gods-miniature-garden.json](./263136-gods-miniature-garden.json) |
-| God's One Day World | 90582 | [90582-gods-one-day-world.json](./90582-gods-one-day-world.json) |
 | God's Orbits | 254715 | [254715-gods-orbits.json](./254715-gods-orbits.json) |
 | God's Plan | 291867 | [291867-gods-plan.json](./291867-gods-plan.json) |
 | God's Playing Field | 210663 | [210663-gods-playing-field.json](./210663-gods-playing-field.json) |
@@ -11239,7 +11234,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grønland | 271023 | [271023-gr-nland.json](./271023-gr-nland.json) |
 | Groob | 249945 | [249945-groob.json](./249945-groob.json) |
 | Groober | 426292 | [426292-groober.json](./426292-groober.json) |
-| Grood | 90116 | [90116-grood.json](./90116-grood.json) |
 | Grooh | 197995 | [197995-grooh.json](./197995-grooh.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
 | Grooming Adventure | 111972 | [111972-grooming-adventure.json](./111972-grooming-adventure.json) |
@@ -11904,7 +11898,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardiões do Mundo: estados brasileiros | 290088 | [290088-guardioes-do-mundo-estados-brasileiros.json](./290088-guardioes-do-mundo-estados-brasileiros.json) |
 | Guards | 24208 | [24208-guards.json](./24208-guards.json) |
 | Guards II: Chaos in Hell | 253297 | [253297-guards-ii-chaos-in-hell.json](./253297-guards-ii-chaos-in-hell.json) |
-| Guards of the Gate | 90168 | [90168-guards-of-the-gate.json](./90168-guards-of-the-gate.json) |
 | Guards! | 266605 | [266605-guards.json](./266605-guards.json) |
 | Guards!: Vanguard Supporter Pack | 289322 | [289322-guards-vanguard-supporter-pack.json](./289322-guards-vanguard-supporter-pack.json) |
 | Guarrd the Rum | 176800 | [176800-guarrd-the-rum.json](./176800-guarrd-the-rum.json) |
