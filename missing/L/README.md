@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth: Maou no Meikyuu | 65662 | [65662-labyrinth-maou-no-meikyuu.json](./65662-labyrinth-maou-no-meikyuu.json) |
 | Labyrinth: Roll of Fate | 309494 | [309494-labyrinth-roll-of-fate.json](./309494-labyrinth-roll-of-fate.json) |
 | Labyrinth: The Exit Is Closer | 143977 | [143977-labyrinth-the-exit-is-closer.json](./143977-labyrinth-the-exit-is-closer.json) |
+| Labyrinth: The War on Terror | 129983 | [129983-labyrinth-the-war-on-terror.json](./129983-labyrinth-the-war-on-terror.json) |
 | Labyrinth: The Wizard's Cat | 296486 | [296486-labyrinth-the-wizards-cat.json](./296486-labyrinth-the-wizards-cat.json) |
 | Labyrinth.os | 144691 | [144691-labyrinth-os.json](./144691-labyrinth-os.json) |
 | Labyrinthatory | 258639 | [258639-labyrinthatory.json](./258639-labyrinthatory.json) |
