@@ -7722,6 +7722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shades of Black | 36009 | [36009-shades-of-black.json](./36009-shades-of-black.json) |
 | Shades of Darkness | 268884 | [268884-shades-of-darkness.json](./268884-shades-of-darkness.json) |
 | Shades of Doom | 71518 | [71518-shades-of-doom.json](./71518-shades-of-doom.json) |
+| Shades of Fear: North Loop | 430350 | [430350-shades-of-fear-north-loop.json](./430350-shades-of-fear-north-loop.json) |
 | Shades of Heroes | 126843 | [126843-shades-of-heroes.json](./126843-shades-of-heroes.json) |
 | Shades of Manhattan 2 | 182453 | [182453-shades-of-manhattan-2.json](./182453-shades-of-manhattan-2.json) |
 | Shades of Rayna | 147017 | [147017-shades-of-rayna.json](./147017-shades-of-rayna.json) |
@@ -10447,6 +10448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmadow | 34594 | [34594-shmadow.json](./34594-shmadow.json) |
 | Shmoblins | 386919 | [386919-shmoblins.json](./386919-shmoblins.json) |
 | Shmooblin Blaster | 346557 | [346557-shmooblin-blaster.json](./346557-shmooblin-blaster.json) |
+| Shmork Adventures | 430200 | [430200-shmork-adventures.json](./430200-shmork-adventures.json) |
 | Shmoup | 283533 | [283533-shmoup.json](./283533-shmoup.json) |
 | Shmoupity Shmoup | 316493 | [316493-shmoupity-shmoup.json](./316493-shmoupity-shmoup.json) |
 | Shmubedi Boo | 147665 | [147665-shmubedi-boo.json](./147665-shmubedi-boo.json) |
@@ -13300,6 +13302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Since Memories: Off the Starry Sky - Limited Edition | 148041 | [148041-since-memories-off-the-starry-sky-limited-edition.json](./148041-since-memories-off-the-starry-sky-limited-edition.json) |
 | Since November | 327853 | [327853-since-november.json](./327853-since-november.json) |
 | Sincere Deceit | 328230 | [328230-sincere-deceit.json](./328230-sincere-deceit.json) |
+| Sincerely, Your Diary | 430227 | [430227-sincerely-your-diary.json](./430227-sincerely-your-diary.json) |
 | SincereMen | 121129 | [121129-sinceremen.json](./121129-sinceremen.json) |
 | Sinclair User DoubleHits 5 | 85759 | [85759-sinclair-user-doublehits-5.json](./85759-sinclair-user-doublehits-5.json) |
 | SinClient | 82951 | [82951-sinclient.json](./82951-sinclient.json) |
@@ -30212,6 +30215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steal Then Just Escape | 279151 | [279151-steal-then-just-escape.json](./279151-steal-then-just-escape.json) |
 | Stealer | 347728 | [347728-stealer.json](./347728-stealer.json) |
 | Stealin' Steve | 421820 | [421820-stealin-steve.json](./421820-stealin-steve.json) |
+| Stealing Christmas | 430404 | [430404-stealing-christmas.json](./430404-stealing-christmas.json) |
 | Stealing Them Softly | 379695 | [379695-stealing-them-softly.json](./379695-stealing-them-softly.json) |
 | Stealpop's Basics | 341935 | [341935-stealpops-basics.json](./341935-stealpops-basics.json) |
 | Stealpop's Basics Unity | 354899 | [354899-stealpops-basics-unity.json](./354899-stealpops-basics-unity.json) |
@@ -30941,6 +30945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stepbystep | 111978 | [111978-stepbystep.json](./111978-stepbystep.json) |
 | StepByStep | 371906 | [371906-stepbystep.json](./371906-stepbystep.json) |
 | Stepfight | 370048 | [370048-stepfight.json](./370048-stepfight.json) |
+| StepHaven | 430482 | [430482-stephaven.json](./430482-stephaven.json) |
 | Stephen Huneck's PuzzleSpace | 58286 | [58286-stephen-hunecks-puzzlespace.json](./58286-stephen-hunecks-puzzlespace.json) |
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
 | Stephen King's F13 | 92828 | [92828-stephen-kings-f13.json](./92828-stephen-kings-f13.json) |
@@ -42134,6 +42139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SyS KillMirror | 316616 | [316616-sys-killmirror.json](./316616-sys-killmirror.json) |
 | SYS: Save Your Soul | 386330 | [386330-sys-save-your-soul.json](./386330-sys-save-your-soul.json) |
 | Sys//Purge | 395041 | [395041-sys-purge.json](./395041-sys-purge.json) |
+| Sysadmin Hell | 430473 | [430473-sysadmin-hell.json](./430473-sysadmin-hell.json) |
 | SysAdmin Odyssey: Back to the office | 293870 | [293870-sysadmin-odyssey-back-to-the-office.json](./293870-sysadmin-odyssey-back-to-the-office.json) |
 | Syscrusher | 134905 | [134905-syscrusher.json](./134905-syscrusher.json) |
 | Sysop | 130950 | [130950-sysop.json](./130950-sysop.json) |
