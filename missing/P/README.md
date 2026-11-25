@@ -5583,7 +5583,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PES 2018 Mobile | 240469 | [240469-pes-2018-mobile.json](./240469-pes-2018-mobile.json) |
 | PES Club Manager | 70709 | [70709-pes-club-manager.json](./70709-pes-club-manager.json) |
 | Pesadelo: O Início | 187383 | [187383-pesadelo-o-inicio.json](./187383-pesadelo-o-inicio.json) |
-| Pesadelo: Regressão | 90611 | [90611-pesadelo-regressao.json](./90611-pesadelo-regressao.json) |
 | Pesca La Micro | 428753 | [428753-pesca-la-micro.json](./428753-pesca-la-micro.json) |
 | Pescatore | 48830 | [48830-pescatore.json](./48830-pescatore.json) |
 | Pesco | 69748 | [69748-pesco.json](./69748-pesco.json) |
@@ -8498,7 +8497,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink World 2 | 388952 | [388952-pink-world-2.json](./388952-pink-world-2.json) |
 | Pink World 3 | 388953 | [388953-pink-world-3.json](./388953-pink-world-3.json) |
 | Pinkalicious | 9746 | [9746-pinkalicious.json](./9746-pinkalicious.json) |
-| Pinkalicious Party | 89767 | [89767-pinkalicious-party.json](./89767-pinkalicious-party.json) |
 | Pinkalicious/Silverlicious 2-Pack | 9747 | [9747-pinkalicious-silverlicious-2-pack.json](./9747-pinkalicious-silverlicious-2-pack.json) |
 | Pinkatana | 242275 | [242275-pinkatana.json](./242275-pinkatana.json) |
 | PinKeep | 381179 | [381179-pinkeep.json](./381179-pinkeep.json) |
@@ -8533,7 +8531,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinochestein 3D | 314772 | [314772-pinochestein-3d.json](./314772-pinochestein-3d.json) |
 | Pinochle | 83700 | [83700-pinochle.json](./83700-pinochle.json) |
 | Pinochle by Webfoot | 99396 | [99396-pinochle-by-webfoot.json](./99396-pinochle-by-webfoot.json) |
-| Pinochle HD | 90707 | [90707-pinochle-hd.json](./90707-pinochle-hd.json) |
 | Pinochle Plus | 105937 | [105937-pinochle-plus.json](./105937-pinochle-plus.json) |
 | Pinochle Pro | 90088 | [90088-pinochle-pro.json](./90088-pinochle-pro.json) |
 | Pinocle Games | 116669 | [116669-pinocle-games.json](./116669-pinocle-games.json) |
@@ -8617,7 +8614,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe | 358445 | [358445-pipe.json](./358445-pipe.json) |
 | Pipe | 57798 | [57798-pipe.json](./57798-pipe.json) |
 | Pipe Ball | 197732 | [197732-pipe-ball.json](./197732-pipe-ball.json) |
-| Pipe by BMX Streets | 89977 | [89977-pipe-by-bmx-streets.json](./89977-pipe-by-bmx-streets.json) |
 | Pipe connect | 193087 | [193087-pipe-connect.json](./193087-pipe-connect.json) |
 | Pipe Connect | 290422 | [290422-pipe-connect.json](./290422-pipe-connect.json) |
 | Pipe Connect | 332740 | [332740-pipe-connect.json](./332740-pipe-connect.json) |
@@ -13685,7 +13681,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polandball: The Black Apocalypse | 374345 | [374345-polandball-the-black-apocalypse.json](./374345-polandball-the-black-apocalypse.json) |
 | Polanie | 50460 | [50460-polanie.json](./50460-polanie.json) |
 | Polar | 171689 | [171689-polar.json](./171689-polar.json) |
-| Polar Bear Cub: games for kids | 90028 | [90028-polar-bear-cub-games-for-kids.json](./90028-polar-bear-cub-games-for-kids.json) |
 | Polar Bear Game | 234574 | [234574-polar-bear-game.json](./234574-polar-bear-game.json) |
 | Polar Bear in Space! | 250934 | [250934-polar-bear-in-space.json](./250934-polar-bear-in-space.json) |
 | Polar Bear Is Hungry | 429673 | [429673-polar-bear-is-hungry.json](./429673-polar-bear-is-hungry.json) |
@@ -14455,7 +14450,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool 2 | 335496 | [335496-pool-2.json](./335496-pool-2.json) |
 | Pool 2D - Poolians | 107406 | [107406-pool-2d-poolians.json](./107406-pool-2d-poolians.json) |
 | Pool 3D | 86900 | [86900-pool-3d.json](./86900-pool-3d.json) |
-| Pool 8 Ball | 90756 | [90756-pool-8-ball.json](./90756-pool-8-ball.json) |
 | Pool Academy | 279207 | [279207-pool-academy.json](./279207-pool-academy.json) |
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
 | Pool Ball Battle Royale | 235679 | [235679-pool-ball-battle-royale.json](./235679-pool-ball-battle-royale.json) |
@@ -19321,7 +19315,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protogen Inc. | 372754 | [372754-protogen-inc.json](./372754-protogen-inc.json) |
 | Protogenisis | 118824 | [118824-protogenisis.json](./118824-protogenisis.json) |
 | ProtoHunter | 133743 | [133743-protohunter.json](./133743-protohunter.json) |
-| Protolife | 89973 | [89973-protolife.json](./89973-protolife.json) |
 | Protolife: Other Side | 244889 | [244889-protolife-other-side.json](./244889-protolife-other-side.json) |
 | Protologic | 10430 | [10430-protologic.json](./10430-protologic.json) |
 | ProtoMasons | 61226 | [61226-protomasons.json](./61226-protomasons.json) |
@@ -20523,7 +20516,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory 2 | 145185 | [145185-purgatory-2.json](./145185-purgatory-2.json) |
 | Purgatory Ashes | 87769 | [87769-purgatory-ashes.json](./87769-purgatory-ashes.json) |
 | Purgatory Dungeoneer | 202581 | [202581-purgatory-dungeoneer.json](./202581-purgatory-dungeoneer.json) |
-| Purgatory Fell | 90254 | [90254-purgatory-fell.json](./90254-purgatory-fell.json) |
 | Purgatory Guardian | 130084 | [130084-purgatory-guardian.json](./130084-purgatory-guardian.json) |
 | Purgatory II | 36723 | [36723-purgatory-ii.json](./36723-purgatory-ii.json) |
 | Purgatory Of the Golden Witch | 382438 | [382438-purgatory-of-the-golden-witch.json](./382438-purgatory-of-the-golden-witch.json) |
@@ -21208,7 +21200,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Game | 263775 | [263775-puzzle-game.json](./263775-puzzle-game.json) |
 | Puzzle Game | 328906 | [328906-puzzle-game.json](./328906-puzzle-game.json) |
 | Puzzle Game | 366919 | [366919-puzzle-game.json](./366919-puzzle-game.json) |
-| Puzzle Game Blast | 90741 | [90741-puzzle-game-blast.json](./90741-puzzle-game-blast.json) |
 | Puzzle Game Bundle | 198073 | [198073-puzzle-game-bundle.json](./198073-puzzle-game-bundle.json) |
 | Puzzle game for kids | 113313 | [113313-puzzle-game-for-kids.json](./113313-puzzle-game-for-kids.json) |
 | Puzzle Games | 98818 | [98818-puzzle-games.json](./98818-puzzle-games.json) |
