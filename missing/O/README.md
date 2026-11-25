@@ -1893,7 +1893,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Om Nom: Run 2 - Emerald Edition | 396923 | [396923-om-nom-run-2-emerald-edition.json](./396923-om-nom-run-2-emerald-edition.json) |
 | Om6n | 55421 | [55421-om6n.json](./55421-om6n.json) |
 | OMA: One Man Army | 259701 | [259701-oma-one-man-army.json](./259701-oma-one-man-army.json) |
-| Omae Wa Mou Shindeiru | 98711 | [98711-omae-wa-mou-shindeiru.json](./98711-omae-wa-mou-shindeiru.json) |
 | Omakase | 368220 | [368220-omakase.json](./368220-omakase.json) |
 | Omakase! Savers | 275605 | [275605-omakase-savers.json](./275605-omakase-savers.json) |
 | Omaku | 256487 | [256487-omaku.json](./256487-omaku.json) |
@@ -4989,7 +4988,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Os Três Porquinhos | 281880 | [281880-os-tres-porquinhos.json](./281880-os-tres-porquinhos.json) |
 | OS: Memories | 188787 | [188787-os-memories.json](./188787-os-memories.json) |
 | OS:Memories | 203179 | [203179-os-memories.json](./203179-os-memories.json) |
-| OS:Path | 97084 | [97084-os-path.json](./97084-os-path.json) |
 | OS95 Plus! | 389500 | [389500-os95-plus.json](./389500-os95-plus.json) |
 | Osada | 63472 | [63472-osada.json](./63472-osada.json) |
 | Osaka Kowloonjo | 394451 | [394451-osaka-kowloonjo.json](./394451-osaka-kowloonjo.json) |
@@ -6163,7 +6161,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outrun Them | 296481 | [296481-outrun-them.json](./296481-outrun-them.json) |
 | OutRune | 237213 | [237213-outrune.json](./237213-outrune.json) |
 | Outrunner | 28802 | [28802-outrunner.json](./28802-outrunner.json) |
-| Outrunner 2 | 96630 | [96630-outrunner-2.json](./96630-outrunner-2.json) |
 | Outrunner 3 | 113191 | [113191-outrunner-3.json](./113191-outrunner-3.json) |
 | Outrunner: Complete Edition | 53436 | [53436-outrunner-complete-edition.json](./53436-outrunner-complete-edition.json) |
 | Outrunner: Neon Nights | 258371 | [258371-outrunner-neon-nights.json](./258371-outrunner-neon-nights.json) |
