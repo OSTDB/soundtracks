@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mysteries 4 Play Collection | 145144 | [145144-dark-mysteries-4-play-collection.json](./145144-dark-mysteries-4-play-collection.json) |
 | Dark Mysteries: The Soul Keeper | 57249 | [57249-dark-mysteries-the-soul-keeper.json](./57249-dark-mysteries-the-soul-keeper.json) |
 | Dark Mysteries: The Soul Keeper - Collector's Edition | 88202 | [88202-dark-mysteries-the-soul-keeper-collectors-edition.json](./88202-dark-mysteries-the-soul-keeper-collectors-edition.json) |
+| Dark Mystery | 44252 | [44252-dark-mystery.json](./44252-dark-mystery.json) |
 | Dark Mystery Bundle | 397884 | [397884-dark-mystery-bundle.json](./397884-dark-mystery-bundle.json) |
 | Dark Mystery: Remastered | 233611 | [233611-dark-mystery-remastered.json](./233611-dark-mystery-remastered.json) |
 | Dark Nebula VR | 110506 | [110506-dark-nebula-vr.json](./110506-dark-nebula-vr.json) |
@@ -3317,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DawnOfCombat | 260630 | [260630-dawnofcombat.json](./260630-dawnofcombat.json) |
 | Dawnsbury Days | 278910 | [278910-dawnsbury-days.json](./278910-dawnsbury-days.json) |
 | Dawnshard | 267176 | [267176-dawnshard.json](./267176-dawnshard.json) |
+| Dawnspire: Prelude | 70476 | [70476-dawnspire-prelude.json](./70476-dawnspire-prelude.json) |
 | Dawnssley | 92883 | [92883-dawnssley.json](./92883-dawnssley.json) |
 | Dawnstar | 10169 | [10169-dawnstar.json](./10169-dawnstar.json) |
 | Dawnthorn | 129367 | [129367-dawnthorn.json](./129367-dawnthorn.json) |
@@ -11516,6 +11518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dire Vengeance: Deluxe | 223570 | [223570-dire-vengeance-deluxe.json](./223570-dire-vengeance-deluxe.json) |
 | Dire Wolf Game Room | 153133 | [153133-dire-wolf-game-room.json](./153133-dire-wolf-game-room.json) |
 | Dire: Flesh and Phobia | 278916 | [278916-dire-flesh-and-phobia.json](./278916-dire-flesh-and-phobia.json) |
+| Direct | 70706 | [70706-direct.json](./70706-direct.json) |
 | Direct Contact | 211504 | [211504-direct-contact.json](./211504-direct-contact.json) |
 | Direct Drive | 151992 | [151992-direct-drive.json](./151992-direct-drive.json) |
 | Direct Hit: Missile War | 17671 | [17671-direct-hit-missile-war.json](./17671-direct-hit-missile-war.json) |
@@ -15792,6 +15795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Nobita no Parallel Sayuuki | 349418 | [349418-doraemon-nobita-no-parallel-sayuuki.json](./349418-doraemon-nobita-no-parallel-sayuuki.json) |
 | Doraemon: Nobita no Shin Makai Daibouken DS | 269699 | [269699-doraemon-nobita-no-shin-makai-daibouken-ds.json](./269699-doraemon-nobita-no-shin-makai-daibouken-ds.json) |
 | Doraemon: Nobita no Time Machine Daibouken | 59056 | [59056-doraemon-nobita-no-time-machine-daibouken.json](./59056-doraemon-nobita-no-time-machine-daibouken.json) |
+| Doraemon: Nobita to 3-tsu no Seireiseki | 70797 | [70797-doraemon-nobita-to-3-tsu-no-seireiseki.json](./70797-doraemon-nobita-to-3-tsu-no-seireiseki.json) |
 | Doraemon: Nobita to Buriki no Meikyuu | 349442 | [349442-doraemon-nobita-to-buriki-no-meikyuu.json](./349442-doraemon-nobita-to-buriki-no-meikyuu.json) |
 | Doraemon: Nobita to Fukkatsu no Hoshi | 91772 | [91772-doraemon-nobita-to-fukkatsu-no-hoshi.json](./91772-doraemon-nobita-to-fukkatsu-no-hoshi.json) |
 | Doraemon: Nobita to Midori no Kyojin-den DS | 269700 | [269700-doraemon-nobita-to-midori-no-kyojin-den-ds.json](./269700-doraemon-nobita-to-midori-no-kyojin-den-ds.json) |
@@ -16818,6 +16822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula's Castle | 277490 | [277490-draculas-castle.json](./277490-draculas-castle.json) |
 | Dracula's Legacy | 34613 | [34613-draculas-legacy.json](./34613-draculas-legacy.json) |
 | Dracula's Legacy Remastered | 188064 | [188064-draculas-legacy-remastered.json](./188064-draculas-legacy-remastered.json) |
+| Dracula's Library | 43142 | [43142-draculas-library.json](./43142-draculas-library.json) |
 | Dracula's Library 2 | 76778 | [76778-draculas-library-2.json](./76778-draculas-library-2.json) |
 | Dracula's Pizza Delivery | 184755 | [184755-draculas-pizza-delivery.json](./184755-draculas-pizza-delivery.json) |
 | Dracula's Prey: A Nightmare in Rome | 270020 | [270020-draculas-prey-a-nightmare-in-rome.json](./270020-draculas-prey-a-nightmare-in-rome.json) |
@@ -19476,6 +19481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Hard | 276557 | [276557-drive-hard.json](./276557-drive-hard.json) |
 | Drive Horizon Story | 411141 | [411141-drive-horizon-story.json](./411141-drive-horizon-story.json) |
 | Drive in the Rain | 414818 | [414818-drive-in-the-rain.json](./414818-drive-in-the-rain.json) |
+| Drive Isle | 44178 | [44178-drive-isle.json](./44178-drive-isle.json) |
 | Drive Jump: Offroad Insanity | 237581 | [237581-drive-jump-offroad-insanity.json](./237581-drive-jump-offroad-insanity.json) |
 | Drive Mad | 371327 | [371327-drive-mad.json](./371327-drive-mad.json) |
 | Drive Master: Simple Operation | 206557 | [206557-drive-master-simple-operation.json](./206557-drive-master-simple-operation.json) |
