@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 3,951" src="https://img.shields.io/badge/soundtracks-3%2C951-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 3,468" src="https://img.shields.io/badge/games-3%2C468-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 370,788" src="https://img.shields.io/badge/missing-370%2C788-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 370,651" src="https://img.shields.io/badge/missing-370%2C651-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/atmocity"><img src="https://i.scdn.co/image/ab67616d0000b2732a62e36b283b2e9900946b1f" width="120" height="120" alt="" /></a><br /><sub><b>Atmocity</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/barbearian"><img src="https://i.scdn.co/image/ab67616d0000b2737e0c59ba59fd5834bfb2aa96" width="120" height="120" alt="" /></a><br /><sub><b>Barbearian</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/fission-superstar-x"><img src="https://i.scdn.co/image/ab67616d0000b273e201db05ff16d6c56df753a3" width="120" height="120" alt="" /></a><br /><sub><b>Fission Superstar X</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/superverse"><img src="https://i.scdn.co/image/ab67616d0000b273e0ec1f610cfbcf6706572026" width="120" height="120" alt="" /></a><br /><sub><b>Superverse</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/cubots-the-origins"><img src="https://i.scdn.co/image/ab67616d0000b2732198f85d02103418a0abb6cf" width="120" height="120" alt="" /></a><br /><sub><b>Cubots: The Origins</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/the-cabinets-of-doctor-arcana"><img src="https://i.scdn.co/image/ab67616d0000b2737bd352a07ada9ff03f29ee5f" width="120" height="120" alt="" /></a><br /><sub><b>The Cabinets of Doctor Arcana</b></sub></td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/breakforcist-battle"><img src="https://i.scdn.co/image/ab67616d0000b27350c62f3abdcf631395d19e7c" width="120" height="120" alt="" /></a><br /><sub><b>#Breakforcist Battle</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/ceress-and-orea"><img src="https://i.scdn.co/image/ab67616d0000b273fd6ced7289e247b33ddb04b3" width="120" height="120" alt="" /></a><br /><sub><b>Ceress and Orea</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/ruler-by-default"><img src="https://i.scdn.co/image/ab67616d0000b2736b25f07e5a300ca4fb5d84d4" width="120" height="120" alt="" /></a><br /><sub><b>Ruler by Default</b></sub></td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/landinar-into-the-void"><img src="https://i.scdn.co/image/ab67616d0000b273db4827141a914c10f4ec96e4" width="120" height="120" alt="" /></a><br /><sub><b>Landinar: Into the Void</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/lenin-the-lion"><img src="https://i.scdn.co/image/ab67616d0000b273157cdc7f93e18ad932d975c1" width="120" height="120" alt="" /></a><br /><sub><b>Lenin - The Lion</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/laser-maze"><img src="https://i.scdn.co/image/ab67616d0000b273ae1ea3f3a9a405c16085e092" width="120" height="120" alt="" /></a><br /><sub><b>Laser Maze</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/eqqo"><img src="https://i.scdn.co/image/ab67616d0000b27334132295a831c635da248ca1" width="120" height="120" alt="" /></a><br /><sub><b>Eqqo</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/varius"><img src="https://i.scdn.co/image/ab67616d0000b273494e09674e917d92b2573af2" width="120" height="120" alt="" /></a><br /><sub><b>Varius</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/echoes-of-the-fey-the-last-sacrament"><img src="https://i.scdn.co/image/ab67616d0000b27338e4bed85ae1fed22f073c57" width="120" height="120" alt="" /></a><br /><sub><b>Echoes of the Fey: The Last Sacrament</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (370,788 games).
+More in **[missing/](missing/README.md)** (370,651 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -103,4 +103,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,951 soundtracks &middot; last updated 2026-11-25T15:05:53.185Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,951 soundtracks &middot; last updated 2026-11-25T18:41:07.320Z</sub>
