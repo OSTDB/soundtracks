@@ -10588,6 +10588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foodie Yama | 344439 | [344439-foodie-yama.json](./344439-foodie-yama.json) |
 | Foodie's Furniture | 358095 | [358095-foodies-furniture.json](./358095-foodies-furniture.json) |
 | Foodies | 174619 | [174619-foodies.json](./174619-foodies.json) |
+| Foodo Kitchen | 23419 | [23419-foodo-kitchen.json](./23419-foodo-kitchen.json) |
 | Foodslingers | 344837 | [344837-foodslingers.json](./344837-foodslingers.json) |
 | FoodStars.io | 388131 | [388131-foodstars-io.json](./388131-foodstars-io.json) |
 | Foodtruck Arena | 126982 | [126982-foodtruck-arena.json](./126982-foodtruck-arena.json) |
