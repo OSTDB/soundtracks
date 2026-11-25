@@ -2159,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viceria | 346457 | [346457-viceria.json](./346457-viceria.json) |
 | Vicewave | 141839 | [141839-vicewave.json](./141839-vicewave.json) |
 | Vicewave 1984 | 149344 | [149344-vicewave-1984.json](./149344-vicewave-1984.json) |
+| Vicious Attack Llama Apocalypse | 44289 | [44289-vicious-attack-llama-apocalypse.json](./44289-vicious-attack-llama-apocalypse.json) |
 | Vicious Circle | 119134 | [119134-vicious-circle.json](./119134-vicious-circle.json) |
 | Vicious Circle | 340975 | [340975-vicious-circle.json](./340975-vicious-circle.json) |
 | Vicious Cycle | 422051 | [422051-vicious-cycle.json](./422051-vicious-cycle.json) |
@@ -2584,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings: The Strategy of Ultimate Conquest | 73590 | [73590-vikings-the-strategy-of-ultimate-conquest.json](./73590-vikings-the-strategy-of-ultimate-conquest.json) |
 | Vikings: Valhalla | 266144 | [266144-vikings-valhalla.json](./266144-vikings-valhalla.json) |
 | Vikings: Valhalla Saga | 228120 | [228120-vikings-valhalla-saga.json](./228120-vikings-valhalla-saga.json) |
+| Vikings: War of Clans | 44118 | [44118-vikings-war-of-clans.json](./44118-vikings-war-of-clans.json) |
 | Vikings: Wolves of Midgard | 21429 | [21429-vikings-wolves-of-midgard.json](./21429-vikings-wolves-of-midgard.json) |
 | VikingScape | 269197 | [269197-vikingscape.json](./269197-vikingscape.json) |
 | VikingStory | 149418 | [149418-vikingstory.json](./149418-vikingstory.json) |
