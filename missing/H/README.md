@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haisei Mahjong Ryouga | 38012 | [38012-haisei-mahjong-ryouga.json](./38012-haisei-mahjong-ryouga.json) |
 | Haishan | 250573 | [250573-haishan.json](./250573-haishan.json) |
 | Haishin | 376675 | [376675-haishin.json](./376675-haishin.json) |
+| Haishin | 431386 | [431386-haishin.json](./431386-haishin.json) |
 | Haisonmeguri | 207523 | [207523-haisonmeguri.json](./207523-haisonmeguri.json) |
 | Haitenai RPG | 211725 | [211725-haitenai-rpg.json](./211725-haitenai-rpg.json) |
 | Haitoku no Gakuen: Yami ni Sasagerareta Otome-tachi | 82524 | [82524-haitoku-no-gakuen-yami-ni-sasagerareta-otome-tachi.json](./82524-haitoku-no-gakuen-yami-ni-sasagerareta-otome-tachi.json) |
@@ -2856,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hasbro Family Game Night Value Pack | 268166 | [268166-hasbro-family-game-night-value-pack.json](./268166-hasbro-family-game-night-value-pack.json) |
 | Hasbro Family Game Night: Battleship | 24303 | [24303-hasbro-family-game-night-battleship.json](./24303-hasbro-family-game-night-battleship.json) |
 | Hasbro Family Game Night: Fun Pack | 268157 | [268157-hasbro-family-game-night-fun-pack.json](./268157-hasbro-family-game-night-fun-pack.json) |
+| Hasbro Family Game Night: Volume 2 | 23253 | [23253-hasbro-family-game-night-volume-2.json](./23253-hasbro-family-game-night-volume-2.json) |
 | Hasbro Game Night for Nintendo Switch | 110394 | [110394-hasbro-game-night-for-nintendo-switch.json](./110394-hasbro-game-night-for-nintendo-switch.json) |
 | Hasbro Games Junior Collection | 412107 | [412107-hasbro-games-junior-collection.json](./412107-hasbro-games-junior-collection.json) |
 | Hasbro Kids Bundle | 247582 | [247582-hasbro-kids-bundle.json](./247582-hasbro-kids-bundle.json) |
@@ -3365,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Have Fun Together | 259605 | [259605-have-fun-together.json](./259605-have-fun-together.json) |
 | Have Fun Together | 259671 | [259671-have-fun-together.json](./259671-have-fun-together.json) |
 | Have It Coming | 391331 | [391331-have-it-coming.json](./391331-have-it-coming.json) |
+| Have Mercy on Me | 431441 | [431441-have-mercy-on-me.json](./431441-have-mercy-on-me.json) |
 | Have Relations With... Maho to Kataho | 97545 | [97545-have-relations-with-maho-to-kataho.json](./97545-have-relations-with-maho-to-kataho.json) |
 | Have You Ever? - Harry Potter Edition | 98832 | [98832-have-you-ever-harry-potter-edition.json](./98832-have-you-ever-harry-potter-edition.json) |
 | Have You Heard | 299263 | [299263-have-you-heard.json](./299263-have-you-heard.json) |
@@ -12096,6 +12099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horus Idle | 340485 | [340485-horus-idle.json](./340485-horus-idle.json) |
 | Horus: Desert Survivor | 392097 | [392097-horus-desert-survivor.json](./392097-horus-desert-survivor.json) |
 | Hose Hero | 314032 | [314032-hose-hero.json](./314032-hose-hero.json) |
+| Hose to Mars | 431385 | [431385-hose-to-mars.json](./431385-hose-to-mars.json) |
 | Hoser | 342601 | [342601-hoser.json](./342601-hoser.json) |
 | Hoser Hockey | 141089 | [141089-hoser-hockey.json](./141089-hoser-hockey.json) |
 | Hoshi & Ishi | 76673 | [76673-hoshi-and-ishi.json](./76673-hoshi-and-ishi.json) |
