@@ -11538,6 +11538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Empire | 75077 | [75077-rogue-empire.json](./75077-rogue-empire.json) |
 | Rogue Explorer | 155935 | [155935-rogue-explorer.json](./155935-rogue-explorer.json) |
 | Rogue Fable II | 181247 | [181247-rogue-fable-ii.json](./181247-rogue-fable-ii.json) |
+| Rogue Fable III | 113389 | [113389-rogue-fable-iii.json](./113389-rogue-fable-iii.json) |
 | Rogue Fable IV | 280260 | [280260-rogue-fable-iv.json](./280260-rogue-fable-iv.json) |
 | Rogue Factory | 317996 | [317996-rogue-factory.json](./317996-rogue-factory.json) |
 | Rogue Fantasy: Ever-Shifting Worlds | 400385 | [400385-rogue-fantasy-ever-shifting-worlds.json](./400385-rogue-fantasy-ever-shifting-worlds.json) |
