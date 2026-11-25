@@ -2573,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JJ | 48451 | [48451-jj.json](./48451-jj.json) |
 | JJ Duke Nukem 3D | 273177 | [273177-jj-duke-nukem-3d.json](./273177-jj-duke-nukem-3d.json) |
 | Jjat | 122897 | [122897-jjat.json](./122897-jjat.json) |
+| Jjimjilbang: Plan Guest Paths | 426746 | [426746-jjimjilbang-plan-guest-paths.json](./426746-jjimjilbang-plan-guest-paths.json) |
 | JJJ | 266790 | [266790-jjj.json](./266790-jjj.json) |
 | JK Assassins | 178648 | [178648-jk-assassins.json](./178648-jk-assassins.json) |
 | JK Girl Samurai: Aoi No Mon | 378240 | [378240-jk-girl-samurai-aoi-no-mon.json](./378240-jk-girl-samurai-aoi-no-mon.json) |
