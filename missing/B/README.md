@@ -2683,7 +2683,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarroja | 102903 | [102903-barbarroja.json](./102903-barbarroja.json) |
 | Barbatus no Majo | 337004 | [337004-barbatus-no-majo.json](./337004-barbatus-no-majo.json) |
 | Barbe-Yeux | 420203 | [420203-barbe-yeux.json](./420203-barbe-yeux.json) |
-| Barbearian | 90157 | [90157-barbearian.json](./90157-barbearian.json) |
 | Barbecue | 408222 | [408222-barbecue.json](./408222-barbecue.json) |
 | Barbecue With Friends | 319670 | [319670-barbecue-with-friends.json](./319670-barbecue-with-friends.json) |
 | Barbelé | 236873 | [236873-barbele.json](./236873-barbele.json) |
