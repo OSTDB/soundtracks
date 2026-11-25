@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calculus of Rot | 430519 | [430519-calculus-of-rot.json](./430519-calculus-of-rot.json) |
 | Caldera | 268906 | [268906-caldera.json](./268906-caldera.json) |
 | Caldera | 289385 | [289385-caldera.json](./289385-caldera.json) |
+| Caldra | 430550 | [430550-caldra.json](./430550-caldra.json) |
 | Cale Quest | 90198 | [90198-cale-quest.json](./90198-cale-quest.json) |
 | Caleb Will Have His Revenge On Toronto | 276433 | [276433-caleb-will-have-his-revenge-on-toronto.json](./276433-caleb-will-have-his-revenge-on-toronto.json) |
 | Caleb's Dream | 276400 | [276400-calebs-dream.json](./276400-calebs-dream.json) |
@@ -10450,6 +10451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circo: Dark Story | 187167 | [187167-circo-dark-story.json](./187167-circo-dark-story.json) |
 | Circoid | 296679 | [296679-circoid.json](./296679-circoid.json) |
 | Circolour | 107239 | [107239-circolour.json](./107239-circolour.json) |
+| Circora: Part 1 | 430610 | [430610-circora-part-1.json](./430610-circora-part-1.json) |
 | Circuit | 97944 | [97944-circuit.json](./97944-circuit.json) |
 | Circuit Artist | 338529 | [338529-circuit-artist.json](./338529-circuit-artist.json) |
 | Circuit Beat | 58960 | [58960-circuit-beat.json](./58960-circuit-beat.json) |
@@ -22770,6 +22772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult: Chapter One | 221140 | [221140-cult-chapter-one.json](./221140-cult-chapter-one.json) |
 | Cult: Fear Inside | 72341 | [72341-cult-fear-inside.json](./72341-cult-fear-inside.json) |
 | Cult&Card | 291765 | [291765-cult-and-card.json](./291765-cult-and-card.json) |
+| CultGame | 430494 | [430494-cultgame.json](./430494-cultgame.json) |
 | Cultist | 421159 | [421159-cultist.json](./421159-cultist.json) |
 | Cultist Astronaut | 203968 | [203968-cultist-astronaut.json](./203968-cultist-astronaut.json) |
 | Cultist Simulator | 26878 | [26878-cultist-simulator.json](./26878-cultist-simulator.json) |
