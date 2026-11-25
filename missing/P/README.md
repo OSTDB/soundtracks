@@ -6226,6 +6226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Girls: Ghostbuster | 279546 | [279546-phantom-girls-ghostbuster.json](./279546-phantom-girls-ghostbuster.json) |
 | Phantom Girls: Hellish Hospital | 297183 | [297183-phantom-girls-hellish-hospital.json](./297183-phantom-girls-hellish-hospital.json) |
 | Phantom Grid | 367974 | [367974-phantom-grid.json](./367974-phantom-grid.json) |
+| Phantom Halls | 27199 | [27199-phantom-halls.json](./27199-phantom-halls.json) |
 | Phantom Havoc | 333962 | [333962-phantom-havoc.json](./333962-phantom-havoc.json) |
 | Phantom Hellcat | 214415 | [214415-phantom-hellcat.json](./214415-phantom-hellcat.json) |
 | Phantom Hills | 126767 | [126767-phantom-hills.json](./126767-phantom-hills.json) |
@@ -16894,6 +16895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker for Kakao | 280048 | [280048-princess-maker-for-kakao.json](./280048-princess-maker-for-kakao.json) |
 | Princess Maker Pocket Dai-sakusen | 64809 | [64809-princess-maker-pocket-dai-sakusen.json](./64809-princess-maker-pocket-dai-sakusen.json) |
 | Princess Maker Q | 280046 | [280046-princess-maker-q.json](./280046-princess-maker-q.json) |
+| Princess Maker Refine | 27317 | [27317-princess-maker-refine.json](./27317-princess-maker-refine.json) |
 | Princess Maker Social | 280049 | [280049-princess-maker-social.json](./280049-princess-maker-social.json) |
 | Princess Maker: Children of Revelation | 316082 | [316082-princess-maker-children-of-revelation.json](./316082-princess-maker-children-of-revelation.json) |
 | Princess Maker: Faery Tales Come True | 127847 | [127847-princess-maker-faery-tales-come-true.json](./127847-princess-maker-faery-tales-come-true.json) |
