@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warband | 402459 | [402459-warband.json](./402459-warband.json) |
 | Warband Survivors | 311177 | [311177-warband-survivors.json](./311177-warband-survivors.json) |
 | Warbands: Bushido | 30467 | [30467-warbands-bushido.json](./30467-warbands-bushido.json) |
+| Warbanners | 44166 | [44166-warbanners.json](./44166-warbanners.json) |
 | Warbanners: Death Speaker | 172143 | [172143-warbanners-death-speaker.json](./172143-warbanners-death-speaker.json) |
 | Warbears Mission 01: The Bank Robbery | 237490 | [237490-warbears-mission-01-the-bank-robbery.json](./237490-warbears-mission-01-the-bank-robbery.json) |
 | Warbears Mission 02: Training Time | 237494 | [237494-warbears-mission-02-training-time.json](./237494-warbears-mission-02-training-time.json) |
@@ -6938,6 +6939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Eleven: Pro Evolution Soccer 2007 | 220951 | [220951-winning-eleven-pro-evolution-soccer-2007.json](./220951-winning-eleven-pro-evolution-soccer-2007.json) |
 | Winning Eleven: Pro Evolution Soccer 2007 | 220952 | [220952-winning-eleven-pro-evolution-soccer-2007.json](./220952-winning-eleven-pro-evolution-soccer-2007.json) |
 | Winning Eleven: Pro Evolution Soccer 2007 | 2484 | [2484-winning-eleven-pro-evolution-soccer-2007.json](./2484-winning-eleven-pro-evolution-soccer-2007.json) |
+| Winning Eleven: Pro Evolution Soccer 2007 | 43233 | [43233-winning-eleven-pro-evolution-soccer-2007.json](./43233-winning-eleven-pro-evolution-soccer-2007.json) |
 | Winning Hearts: Wrestling Otome | 244882 | [244882-winning-hearts-wrestling-otome.json](./244882-winning-hearts-wrestling-otome.json) |
 | Winning Love by Daylight | 151900 | [151900-winning-love-by-daylight.json](./151900-winning-love-by-daylight.json) |
 | Winning Lure | 298863 | [298863-winning-lure.json](./298863-winning-lure.json) |
@@ -9232,6 +9234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World at War: Stalingrad | 98910 | [98910-world-at-war-stalingrad.json](./98910-world-at-war-stalingrad.json) |
 | World at War: WW2 Strategy MMO | 141899 | [141899-world-at-war-ww2-strategy-mmo.json](./141899-world-at-war-ww2-strategy-mmo.json) |
 | World Baseball Stars | 234443 | [234443-world-baseball-stars.json](./234443-world-baseball-stars.json) |
+| World Basketball Manager 2 | 44284 | [44284-world-basketball-manager-2.json](./44284-world-basketball-manager-2.json) |
 | World Basketball Manager 2010 | 16154 | [16154-world-basketball-manager-2010.json](./16154-world-basketball-manager-2010.json) |
 | World Basketball Manager 2014 | 53113 | [53113-world-basketball-manager-2014.json](./53113-world-basketball-manager-2014.json) |
 | World Basketball Tycoon | 52129 | [52129-world-basketball-tycoon.json](./52129-world-basketball-tycoon.json) |
