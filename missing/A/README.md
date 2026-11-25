@@ -3346,7 +3346,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Lurker: We Give Up! | 81624 | [81624-achievement-lurker-we-give-up.json](./81624-achievement-lurker-we-give-up.json) |
 | Achievement Monster | 368535 | [368535-achievement-monster.json](./368535-achievement-monster.json) |
 | Achievement Park | 90437 | [90437-achievement-park.json](./90437-achievement-park.json) |
-| Achievement printer part 1 | 93691 | [93691-achievement-printer-part-1.json](./93691-achievement-printer-part-1.json) |
 | Achievement Simulator | 131447 | [131447-achievement-simulator.json](./131447-achievement-simulator.json) |
 | Achievement Unlocked | 141697 | [141697-achievement-unlocked.json](./141697-achievement-unlocked.json) |
 | Achievement Unlocked 2 | 165420 | [165420-achievement-unlocked-2.json](./165420-achievement-unlocked-2.json) |
@@ -5026,7 +5025,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aestha: The runner game | 232153 | [232153-aestha-the-runner-game.json](./232153-aestha-the-runner-game.json) |
 | Aestheta | 349742 | [349742-aestheta.json](./349742-aestheta.json) |
 | Aesthetic | 325102 | [325102-aesthetic.json](./325102-aesthetic.json) |
-| Aesthetic Arena | 93784 | [93784-aesthetic-arena.json](./93784-aesthetic-arena.json) |
 | Aesthetic Clicker | 309906 | [309906-aesthetic-clicker.json](./309906-aesthetic-clicker.json) |
 | Aesthetic Melody | 28894 | [28894-aesthetic-melody.json](./28894-aesthetic-melody.json) |
 | Aesthetic Melody: Digital Deluxe Edition | 52575 | [52575-aesthetic-melody-digital-deluxe-edition.json](./52575-aesthetic-melody-digital-deluxe-edition.json) |
@@ -5192,7 +5190,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL Live 2003 | 47307 | [47307-afl-live-2003.json](./47307-afl-live-2003.json) |
 | AFL Live 2004 | 47306 | [47306-afl-live-2004.json](./47306-afl-live-2004.json) |
 | AFL Live: Premiership Edition | 267518 | [267518-afl-live-premiership-edition.json](./267518-afl-live-premiership-edition.json) |
-| AFL Mascot Manor | 91707 | [91707-afl-mascot-manor.json](./91707-afl-mascot-manor.json) |
 | AFL Premiership 2005 | 73847 | [73847-afl-premiership-2005.json](./73847-afl-premiership-2005.json) |
 | AFL Premiership 2006 | 43452 | [43452-afl-premiership-2006.json](./43452-afl-premiership-2006.json) |
 | AFL Premiership 2007 | 43675 | [43675-afl-premiership-2007.json](./43675-afl-premiership-2007.json) |
@@ -6535,7 +6532,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat | 333953 | [333953-air-combat.json](./333953-air-combat.json) |
 | Air Combat 2015 | 227208 | [227208-air-combat-2015.json](./227208-air-combat-2015.json) |
 | Air Combat 22 | 14749 | [14749-air-combat-22.json](./14749-air-combat-22.json) |
-| Air Combat Arena | 94974 | [94974-air-combat-arena.json](./94974-air-combat-arena.json) |
 | Air Combat Fighter | 119024 | [119024-air-combat-fighter.json](./119024-air-combat-fighter.json) |
 | Air Combat II | 239386 | [239386-air-combat-ii.json](./239386-air-combat-ii.json) |
 | Air Combat II Special | 299793 | [299793-air-combat-ii-special.json](./299793-air-combat-ii-special.json) |
@@ -8954,6 +8950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Under Control | 335069 | [335069-all-under-control.json](./335069-all-under-control.json) |
 | All Valentine Pairs Memory Game | 180101 | [180101-all-valentine-pairs-memory-game.json](./180101-all-valentine-pairs-memory-game.json) |
 | All Walls Must Fall | 27793 | [27793-all-walls-must-fall.json](./27793-all-walls-must-fall.json) |
+| All We Fallen | 428058 | [428058-all-we-fallen.json](./428058-all-we-fallen.json) |
 | All We Need | 263212 | [263212-all-we-need.json](./263212-all-we-need.json) |
 | All Wheel Drive | 425782 | [425782-all-wheel-drive.json](./425782-all-wheel-drive.json) |
 | All Whispering Tome | 318326 | [318326-all-whispering-tome.json](./318326-all-whispering-tome.json) |
@@ -15164,7 +15161,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Hits Pack: Gunblade NY and L.A. Machineguns | 6520 | [6520-arcade-hits-pack-gunblade-ny-and-l-a-machineguns.json](./6520-arcade-hits-pack-gunblade-ny-and-l-a-machineguns.json) |
 | Arcade Hole | 208907 | [208907-arcade-hole.json](./208907-arcade-hole.json) |
 | Arcade Hoops Basketball | 47848 | [47848-arcade-hoops-basketball.json](./47848-arcade-hoops-basketball.json) |
-| Arcade Hoops Basketball HD | 95102 | [95102-arcade-hoops-basketball-hd.json](./95102-arcade-hoops-basketball-hd.json) |
 | Arcade Horse Racing | 206137 | [206137-arcade-horse-racing.json](./206137-arcade-horse-racing.json) |
 | Arcade Hysteria | 420515 | [420515-arcade-hysteria.json](./420515-arcade-hysteria.json) |
 | Arcade Islands: Volume One | 102860 | [102860-arcade-islands-volume-one.json](./102860-arcade-islands-volume-one.json) |
@@ -15932,7 +15928,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AreaZ | 110925 | [110925-areaz.json](./110925-areaz.json) |
 | Areena 4 | 317423 | [317423-areena-4.json](./317423-areena-4.json) |
 | Areena 5 | 134570 | [134570-areena-5.json](./134570-areena-5.json) |
-| Areia: Pathway to Dawn | 95151 | [95151-areia-pathway-to-dawn.json](./95151-areia-pathway-to-dawn.json) |
 | Areigna Tactics | 197820 | [197820-areigna-tactics.json](./197820-areigna-tactics.json) |
 | Arel Wars | 38727 | [38727-arel-wars.json](./38727-arel-wars.json) |
 | Arelite Core | 27031 | [27031-arelite-core.json](./27031-arelite-core.json) |
@@ -17874,7 +17869,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashley Jones and the Heart of Egypt | 52421 | [52421-ashley-jones-and-the-heart-of-egypt.json](./52421-ashley-jones-and-the-heart-of-egypt.json) |
 | Ashley: The Emptiness Inside | 134397 | [134397-ashley-the-emptiness-inside.json](./134397-ashley-the-emptiness-inside.json) |
 | Ashley: The One-Spell Mage | 318622 | [318622-ashley-the-one-spell-mage.json](./318622-ashley-the-one-spell-mage.json) |
-| Ashley: The Story Of Survival | 93754 | [93754-ashley-the-story-of-survival.json](./93754-ashley-the-story-of-survival.json) |
 | Ashley's Adventure: Get a Job or Die Trying | 378209 | [378209-ashleys-adventure-get-a-job-or-die-trying.json](./378209-ashleys-adventure-get-a-job-or-die-trying.json) |
 | Ashmedai: Queen of Lust | 160019 | [160019-ashmedai-queen-of-lust.json](./160019-ashmedai-queen-of-lust.json) |
 | Ashnar's Lair | 427691 | [427691-ashnars-lair.json](./427691-ashnars-lair.json) |
@@ -18298,7 +18292,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault ChaingunS KM | 139097 | [139097-assault-chainguns-km.json](./139097-assault-chainguns-km.json) |
 | Assault City | 46117 | [46117-assault-city.json](./46117-assault-city.json) |
 | Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
-| Assault Commander Ultimate | 91235 | [91235-assault-commander-ultimate.json](./91235-assault-commander-ultimate.json) |
 | Assault CorpsII | 35101 | [35101-assault-corpsii.json](./35101-assault-corpsii.json) |
 | Assault Course | 409051 | [409051-assault-course.json](./409051-assault-course.json) |
 | Assault Course 2 | 409054 | [409054-assault-course-2.json](./409054-assault-course-2.json) |
@@ -21301,6 +21294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaken the Time | 132236 | [132236-awaken-the-time.json](./132236-awaken-the-time.json) |
 | Awaken, Empress of the Night | 423255 | [423255-awaken-empress-of-the-night.json](./423255-awaken-empress-of-the-night.json) |
 | Awaken: Astral Blade | 175679 | [175679-awaken-astral-blade.json](./175679-awaken-astral-blade.json) |
+| Awaken: Astral Blade - Golden Scale Set | 427605 | [427605-awaken-astral-blade-golden-scale-set.json](./427605-awaken-astral-blade-golden-scale-set.json) |
 | Awaken: Chaos Era | 168327 | [168327-awaken-chaos-era.json](./168327-awaken-chaos-era.json) |
 | Awaken: Gunpowder Adventurer Daydream | 99010 | [99010-awaken-gunpowder-adventurer-daydream.json](./99010-awaken-gunpowder-adventurer-daydream.json) |
 | Awaken: Hentai Dice | 306328 | [306328-awaken-hentai-dice.json](./306328-awaken-hentai-dice.json) |
