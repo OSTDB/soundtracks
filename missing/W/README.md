@@ -7253,6 +7253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wired | 105334 | [105334-wired.json](./105334-wired.json) |
 | Wired | 307616 | [307616-wired.json](./307616-wired.json) |
 | Wired 2 Kill | 396668 | [396668-wired-2-kill.json](./396668-wired-2-kill.json) |
+| Wired Coroner | 430080 | [430080-wired-coroner.json](./430080-wired-coroner.json) |
 | Wired Gambit | 307207 | [307207-wired-gambit.json](./307207-wired-gambit.json) |
 | Wired Soul | 269147 | [269147-wired-soul.json](./269147-wired-soul.json) |
 | Wired to the Moon | 185472 | [185472-wired-to-the-moon.json](./185472-wired-to-the-moon.json) |
@@ -10661,6 +10662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wretched Depths | 242595 | [242595-wretched-depths.json](./242595-wretched-depths.json) |
 | Wretched Flesh | 274941 | [274941-wretched-flesh.json](./274941-wretched-flesh.json) |
 | Wretched Star | 333083 | [333083-wretched-star.json](./333083-wretched-star.json) |
+| Wretched Tales: Cinderella | 429985 | [429985-wretched-tales-cinderella.json](./429985-wretched-tales-cinderella.json) |
 | WretchWorks Arcade Pack | 134279 | [134279-wretchworks-arcade-pack.json](./134279-wretchworks-arcade-pack.json) |
 | Wriggle 3D | 96991 | [96991-wriggle-3d.json](./96991-wriggle-3d.json) |
 | Wriggle Apple | 410026 | [410026-wriggle-apple.json](./410026-wriggle-apple.json) |
