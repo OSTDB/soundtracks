@@ -7597,6 +7597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist's Apprentice | 341889 | [341889-alchemists-apprentice.json](./341889-alchemists-apprentice.json) |
 | Alchemist's Apprentice 2: Strength of Stones | 341901 | [341901-alchemists-apprentice-2-strength-of-stones.json](./341901-alchemists-apprentice-2-strength-of-stones.json) |
 | Alchemist's Awakening | 33801 | [33801-alchemists-awakening.json](./33801-alchemists-awakening.json) |
+| Alchemist's Castle | 74449 | [74449-alchemists-castle.json](./74449-alchemists-castle.json) |
 | Alchemist's Fantasy R: A Girl's Alchemic Furnace | 247665 | [247665-alchemists-fantasy-r-a-girls-alchemic-furnace.json](./247665-alchemists-fantasy-r-a-girls-alchemic-furnace.json) |
 | Alchemist's Garden | 399764 | [399764-alchemists-garden.json](./399764-alchemists-garden.json) |
 | Alchemist's Mountain | 173292 | [173292-alchemists-mountain.json](./173292-alchemists-mountain.json) |
@@ -10198,6 +10199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Cup Challenge | 13312 | [13312-americas-cup-challenge.json](./13312-americas-cup-challenge.json) |
 | America's Funniest Home Videos: Interactive DVD Game | 331020 | [331020-americas-funniest-home-videos-interactive-dvd-game.json](./331020-americas-funniest-home-videos-interactive-dvd-game.json) |
 | America's Greatest Arcade Hits 3D | 146195 | [146195-americas-greatest-arcade-hits-3d.json](./146195-americas-greatest-arcade-hits-3d.json) |
+| America's Greatest Game Shows: Wheel of Fortune & Jeopardy! | 112182 | [112182-americas-greatest-game-shows-wheel-of-fortune-and-jeopardy.json](./112182-americas-greatest-game-shows-wheel-of-fortune-and-jeopardy.json) |
 | America's Greatest Solitaire Games | 206114 | [206114-americas-greatest-solitaire-games.json](./206114-americas-greatest-solitaire-games.json) |
 | America's Most Eligible: Book 1 | 313691 | [313691-americas-most-eligible-book-1.json](./313691-americas-most-eligible-book-1.json) |
 | America's Most Eligible: Book 2 | 313692 | [313692-americas-most-eligible-book-2.json](./313692-americas-most-eligible-book-2.json) |
@@ -15529,6 +15531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archaid | 133211 | [133211-archaid.json](./133211-archaid.json) |
 | Archamon | 76077 | [76077-archamon.json](./76077-archamon.json) |
 | Archangel | 26504 | [26504-archangel.json](./26504-archangel.json) |
+| Archangel | 74276 | [74276-archangel.json](./74276-archangel.json) |
 | Archangel Demon Rush | 396574 | [396574-archangel-demon-rush.json](./396574-archangel-demon-rush.json) |
 | Archangel: Hellfire | 36787 | [36787-archangel-hellfire.json](./36787-archangel-hellfire.json) |
 | Archangel: Hellfire - Fully Loaded | 171377 | [171377-archangel-hellfire-fully-loaded.json](./171377-archangel-hellfire-fully-loaded.json) |
@@ -20501,6 +20504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurorablast 2 | 124377 | [124377-aurorablast-2.json](./124377-aurorablast-2.json) |
 | Aurorablast 3 | 124378 | [124378-aurorablast-3.json](./124378-aurorablast-3.json) |
 | AuroraBound | 263585 | [263585-aurorabound.json](./263585-aurorabound.json) |
+| AuroraBound Deluxe | 74370 | [74370-aurorabound-deluxe.json](./74370-aurorabound-deluxe.json) |
 | Aurorae | 287796 | [287796-aurorae.json](./287796-aurorae.json) |
 | Aurorae Equitas | 310915 | [310915-aurorae-equitas.json](./310915-aurorae-equitas.json) |
 | AuroraRL | 33607 | [33607-aurorarl.json](./33607-aurorarl.json) |
