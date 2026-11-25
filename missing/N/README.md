@@ -5162,6 +5162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightHover | 250835 | [250835-nighthover.json](./250835-nighthover.json) |
 | Nighthunt | 204635 | [204635-nighthunt.json](./204635-nighthunt.json) |
 | Nightin Cage | 351701 | [351701-nightin-cage.json](./351701-nightin-cage.json) |
+| Nightingale Downs | 74112 | [74112-nightingale-downs.json](./74112-nightingale-downs.json) |
 | Nightingale: Birth of the Alliance | 194990 | [194990-nightingale-birth-of-the-alliance.json](./194990-nightingale-birth-of-the-alliance.json) |
 | Nightingale: Expanse | 237195 | [237195-nightingale-expanse.json](./237195-nightingale-expanse.json) |
 | Nightingale: Realms Rebuilt | 314408 | [314408-nightingale-realms-rebuilt.json](./314408-nightingale-realms-rebuilt.json) |
@@ -6310,6 +6311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nip for Speed 2: Searching for Pussy | 342067 | [342067-nip-for-speed-2-searching-for-pussy.json](./342067-nip-for-speed-2-searching-for-pussy.json) |
 | NIPA | 336643 | [336643-nipa.json](./336643-nipa.json) |
 | Nipi | 429177 | [429177-nipi.json](./429177-nipi.json) |
+| Niplheim's Hunter - Branded Azel | 112834 | [112834-niplheims-hunter-branded-azel.json](./112834-niplheims-hunter-branded-azel.json) |
 | Niplheim's Hunter: Branded Azel | 82732 | [82732-niplheims-hunter-branded-azel.json](./82732-niplheims-hunter-branded-azel.json) |
 | Niplob Adventure | 225726 | [225726-niplob-adventure.json](./225726-niplob-adventure.json) |
 | Nippets | 326613 | [326613-nippets.json](./326613-nippets.json) |
