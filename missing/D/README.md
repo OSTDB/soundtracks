@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad Hungry! | 341146 | [341146-dad-hungry.json](./341146-dad-hungry.json) |
 | Dad Left Me in the Car | 343318 | [343318-dad-left-me-in-the-car.json](./343318-dad-left-me-in-the-car.json) |
 | Dad n' Me | 134300 | [134300-dad-n-me.json](./134300-dad-n-me.json) |
+| Dad Quest | 27145 | [27145-dad-quest.json](./27145-dad-quest.json) |
 | Dad's co-worker | 81605 | [81605-dads-co-worker.json](./81605-dads-co-worker.json) |
 | Dad's Coming | 212671 | [212671-dads-coming.json](./212671-dads-coming.json) |
 | Dad's Dice: History of Legends | 217461 | [217461-dads-dice-history-of-legends.json](./217461-dads-dice-history-of-legends.json) |
@@ -4754,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlined. | 410485 | [410485-deadlined.json](./410485-deadlined.json) |
 | Deadliners | 46489 | [46489-deadliners.json](./46489-deadliners.json) |
 | Deadlings | 60700 | [60700-deadlings.json](./60700-deadlings.json) |
+| Deadlings: Rotten Edition | 26822 | [26822-deadlings-rotten-edition.json](./26822-deadlings-rotten-edition.json) |
 | Deadlist | 387444 | [387444-deadlist.json](./387444-deadlist.json) |
 | Deadlivery Night | 375130 | [375130-deadlivery-night.json](./375130-deadlivery-night.json) |
 | Deadlock | 31699 | [31699-deadlock.json](./31699-deadlock.json) |
@@ -6029,6 +6031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deemo: Reborn - Rayark Selection Vol.2 | 356585 | [356585-deemo-reborn-rayark-selection-vol-2.json](./356585-deemo-reborn-rayark-selection-vol-2.json) |
 | Deemo: Reborn - Rayark Selection vol.3 | 356583 | [356583-deemo-reborn-rayark-selection-vol-3.json](./356583-deemo-reborn-rayark-selection-vol-3.json) |
 | Deemo: Reborn - Taiko no Tatsujin Collaboration Collection | 356443 | [356443-deemo-reborn-taiko-no-tatsujin-collaboration-collection.json](./356443-deemo-reborn-taiko-no-tatsujin-collaboration-collection.json) |
+| Deemo: The Last Recital | 26996 | [26996-deemo-the-last-recital.json](./26996-deemo-the-last-recital.json) |
 | Deep | 121999 | [121999-deep.json](./121999-deep.json) |
 | Deep | 177985 | [177985-deep.json](./177985-deep.json) |
 | Deep | 184605 | [184605-deep.json](./184605-deep.json) |
@@ -15411,6 +15414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Zero | 142176 | [142176-doom-zero.json](./142176-doom-zero.json) |
 | Doom: A Very Graphic Adventure | 320788 | [320788-doom-a-very-graphic-adventure.json](./320788-doom-a-very-graphic-adventure.json) |
 | Doom: Barracks Zone | 260825 | [260825-doom-barracks-zone.json](./260825-doom-barracks-zone.json) |
+| Doom: Bloodfall | 26558 | [26558-doom-bloodfall.json](./26558-doom-bloodfall.json) |
 | DOOM: Collector's Edition | 41614 | [41614-doom-collectors-edition.json](./41614-doom-collectors-edition.json) |
 | Doom: Damnation | 276881 | [276881-doom-damnation.json](./276881-doom-damnation.json) |
 | DOOM: Day One Edition | 136168 | [136168-doom-day-one-edition.json](./136168-doom-day-one-edition.json) |
