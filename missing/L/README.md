@@ -3038,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Elements | 368160 | [368160-legend-of-elements.json](./368160-legend-of-elements.json) |
 | Legend of Empress | 255118 | [255118-legend-of-empress.json](./255118-legend-of-empress.json) |
 | Legend of Equip > Pants | 396346 | [396346-legend-of-equip-pants.json](./396346-legend-of-equip-pants.json) |
+| Legend of Ertugrul | 428057 | [428057-legend-of-ertugrul.json](./428057-legend-of-ertugrul.json) |
 | Legend of Etad | 208211 | [208211-legend-of-etad.json](./208211-legend-of-etad.json) |
 | Legend of Everything | 126827 | [126827-legend-of-everything.json](./126827-legend-of-everything.json) |
 | Legend of Fae | 16262 | [16262-legend-of-fae.json](./16262-legend-of-fae.json) |
@@ -5434,7 +5435,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifetakers & Heartbreakers | 340917 | [340917-lifetakers-and-heartbreakers.json](./340917-lifetakers-and-heartbreakers.json) |
 | Lifetime | 236400 | [236400-lifetime.json](./236400-lifetime.json) |
 | Lifeway | 211768 | [211768-lifeway.json](./211768-lifeway.json) |
-| LifeZ - Survival | 93707 | [93707-lifez-survival.json](./93707-lifez-survival.json) |
 | Lifing | 167362 | [167362-lifing.json](./167362-lifing.json) |
 | Lifo | 185615 | [185615-lifo.json](./185615-lifo.json) |
 | Lifo Harvester | 55237 | [55237-lifo-harvester.json](./55237-lifo-harvester.json) |
@@ -5850,6 +5850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like a Dragon: Ishin! - Shinsengumi Captain's Set | 239212 | [239212-like-a-dragon-ishin-shinsengumi-captains-set.json](./239212-like-a-dragon-ishin-shinsengumi-captains-set.json) |
 | Like a Dragon: Ishin! - Sword Upgrade Materials Kit | 239214 | [239214-like-a-dragon-ishin-sword-upgrade-materials-kit.json](./239214-like-a-dragon-ishin-sword-upgrade-materials-kit.json) |
 | Like a Dragon: Ishin! - Third Division Armament Expansion Kit | 239213 | [239213-like-a-dragon-ishin-third-division-armament-expansion-kit.json](./239213-like-a-dragon-ishin-third-division-armament-expansion-kit.json) |
+| Like a Dragon: Kenzan! English Patch | 427436 | [427436-like-a-dragon-kenzan-english-patch.json](./427436-like-a-dragon-kenzan-english-patch.json) |
 | Like a Dragon: Pirate Yakuza in Hawaii - Collector's Edition | 327838 | [327838-like-a-dragon-pirate-yakuza-in-hawaii-collectors-edition.json](./327838-like-a-dragon-pirate-yakuza-in-hawaii-collectors-edition.json) |
 | Like a Dragon: Pirate Yakuza in Hawaii - Deluxe Edition | 332379 | [332379-like-a-dragon-pirate-yakuza-in-hawaii-deluxe-edition.json](./332379-like-a-dragon-pirate-yakuza-in-hawaii-deluxe-edition.json) |
 | Like a Dragon: Pirate Yakuza in Hawaii - Extra Karaoke & CD Pack | 374435 | [374435-like-a-dragon-pirate-yakuza-in-hawaii-extra-karaoke-and-cd-pack.json](./374435-like-a-dragon-pirate-yakuza-in-hawaii-extra-karaoke-and-cd-pack.json) |
@@ -7550,7 +7551,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends Remastered: Wrath of the Beast - Collector's Edition | 241421 | [241421-living-legends-remastered-wrath-of-the-beast-collectors-edition.json](./241421-living-legends-remastered-wrath-of-the-beast-collectors-edition.json) |
 | Living Legends: Beasts of Bremen | 188004 | [188004-living-legends-beasts-of-bremen.json](./188004-living-legends-beasts-of-bremen.json) |
 | Living Legends: Beasts of Bremen - Collector's Edition | 396979 | [396979-living-legends-beasts-of-bremen-collectors-edition.json](./396979-living-legends-beasts-of-bremen-collectors-edition.json) |
-| Living Legends: Bound by Wishes | 94880 | [94880-living-legends-bound-by-wishes.json](./94880-living-legends-bound-by-wishes.json) |
 | Living Legends: Bound by Wishes - Collector's Edition | 212207 | [212207-living-legends-bound-by-wishes-collectors-edition.json](./212207-living-legends-bound-by-wishes-collectors-edition.json) |
 | Living Legends: Fallen Sky | 295660 | [295660-living-legends-fallen-sky.json](./295660-living-legends-fallen-sky.json) |
 | Living Legends: Fallen Sky - Collector's Edition | 397042 | [397042-living-legends-fallen-sky-collectors-edition.json](./397042-living-legends-fallen-sky-collectors-edition.json) |
@@ -10764,7 +10764,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucido Cancels Everything | 295309 | [295309-lucido-cancels-everything.json](./295309-lucido-cancels-everything.json) |
 | Lucidscape | 141067 | [141067-lucidscape.json](./141067-lucidscape.json) |
 | Lucidus Mortem | 154075 | [154075-lucidus-mortem.json](./154075-lucidus-mortem.json) |
-| Lucie | 90834 | [90834-lucie.json](./90834-lucie.json) |
 | Lucie's Bistro | 215787 | [215787-lucies-bistro.json](./215787-lucies-bistro.json) |
 | Lucie's Potager | 199261 | [199261-lucies-potager.json](./199261-lucies-potager.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
@@ -11255,14 +11254,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumines Live! | 4691 | [4691-lumines-live.json](./4691-lumines-live.json) |
 | Lumines Plus | 21389 | [21389-lumines-plus.json](./21389-lumines-plus.json) |
 | Lumines: Advance Pack | 66219 | [66219-lumines-advance-pack.json](./66219-lumines-advance-pack.json) |
-| Lumines: Advanced Pack | 93825 | [93825-lumines-advanced-pack.json](./93825-lumines-advanced-pack.json) |
 | Lumines: Puzzle & Music | 58123 | [58123-lumines-puzzle-and-music.json](./58123-lumines-puzzle-and-music.json) |
 | Lumines: Puzzle Fusion | 78329 | [78329-lumines-puzzle-fusion.json](./78329-lumines-puzzle-fusion.json) |
 | Lumines: Touch Fusion | 67577 | [67577-lumines-touch-fusion.json](./67577-lumines-touch-fusion.json) |
 | Luminesca | 53289 | [53289-luminesca.json](./53289-luminesca.json) |
 | Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
 | Luminescence | 343594 | [343594-luminescence.json](./343594-luminescence.json) |
-| Luminescence | 95160 | [95160-luminescence.json](./95160-luminescence.json) |
 | Luminescent | 218084 | [218084-luminescent.json](./218084-luminescent.json) |
 | Luminescent | 360833 | [360833-luminescent.json](./360833-luminescent.json) |
 | Luminesweeper | 246569 | [246569-luminesweeper.json](./246569-luminesweeper.json) |
@@ -11398,7 +11395,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LunaGenesis | 405925 | [405925-lunagenesis.json](./405925-lunagenesis.json) |
 | LunaM: SG | 174602 | [174602-lunam-sg.json](./174602-lunam-sg.json) |
 | Lunamaria Sero Dastiny | 97761 | [97761-lunamaria-sero-dastiny.json](./97761-lunamaria-sero-dastiny.json) |
-| Lunapark VR | 90823 | [90823-lunapark-vr.json](./90823-lunapark-vr.json) |
 | LunaPri from Empire of Angels | 56118 | [56118-lunapri-from-empire-of-angels.json](./56118-lunapri-from-empire-of-angels.json) |
 | LunaQuest | 190473 | [190473-lunaquest.json](./190473-lunaquest.json) |
 | Lunar | 11487 | [11487-lunar.json](./11487-lunar.json) |
