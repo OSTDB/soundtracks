@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A day with Marco | 343160 | [343160-a-day-with-marco.json](./343160-a-day-with-marco.json) |
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
 | A Day With My Cat | 82195 | [82195-a-day-with-my-cat.json](./82195-a-day-with-my-cat.json) |
+| A Day with Professor Zoltan | 429959 | [429959-a-day-with-professor-zoltan.json](./429959-a-day-with-professor-zoltan.json) |
 | A Day with the Wiggles | 273875 | [273875-a-day-with-the-wiggles.json](./273875-a-day-with-the-wiggles.json) |
 | A Day Without Me | 132291 | [132291-a-day-without-me.json](./132291-a-day-without-me.json) |
 | A Day's Work | 307699 | [307699-a-days-work.json](./307699-a-days-work.json) |
@@ -4810,6 +4811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aequor | 276752 | [276752-aequor.json](./276752-aequor.json) |
 | AER: Memories of Old | 11560 | [11560-aer-memories-of-old.json](./11560-aer-memories-of-old.json) |
 | Aera Flying Heroes | 337796 | [337796-aera-flying-heroes.json](./337796-aera-flying-heroes.json) |
+| Aera in the Ink Realm | 430002 | [430002-aera-in-the-ink-realm.json](./430002-aera-in-the-ink-realm.json) |
 | Aerannis | 20028 | [20028-aerannis.json](./20028-aerannis.json) |
 | Aerea | 27794 | [27794-aerea.json](./27794-aerea.json) |
 | AereA: Collector's Edition | 166237 | [166237-aerea-collectors-edition.json](./166237-aerea-collectors-edition.json) |
@@ -5513,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AfterWar | 264765 | [264765-afterwar.json](./264765-afterwar.json) |
 | Afterward | 184986 | [184986-afterward.json](./184986-afterward.json) |
 | Afterwards | 177724 | [177724-afterwards.json](./177724-afterwards.json) |
+| Afterwire | 430033 | [430033-afterwire.json](./430033-afterwire.json) |
 | Afterwork Apocalypse | 425044 | [425044-afterwork-apocalypse.json](./425044-afterwork-apocalypse.json) |
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
 | Afterworld | 388079 | [388079-afterworld.json](./388079-afterworld.json) |
@@ -7675,6 +7678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alcyone | 383604 | [383604-alcyone.json](./383604-alcyone.json) |
 | Alcyone: Chemistry Puzzle | 416284 | [416284-alcyone-chemistry-puzzle.json](./416284-alcyone-chemistry-puzzle.json) |
 | Alcyone: The Last City | 118072 | [118072-alcyone-the-last-city.json](./118072-alcyone-the-last-city.json) |
+| Alda | 430088 | [430088-alda.json](./430088-alda.json) |
 | Aldebaran Legend | 188802 | [188802-aldebaran-legend.json](./188802-aldebaran-legend.json) |
 | Alden Ridge | 78228 | [78228-alden-ridge.json](./78228-alden-ridge.json) |
 | Alder Choke | 217926 | [217926-alder-choke.json](./217926-alder-choke.json) |
@@ -15456,6 +15460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcaneering: Beyond Automation | 356681 | [356681-arcaneering-beyond-automation.json](./356681-arcaneering-beyond-automation.json) |
 | Arcanefall: Darklands | 420290 | [420290-arcanefall-darklands.json](./420290-arcanefall-darklands.json) |
 | ArcaneOutpost | 283935 | [283935-arcaneoutpost.json](./283935-arcaneoutpost.json) |
+| Arcanes | 429994 | [429994-arcanes.json](./429994-arcanes.json) |
 | ArcaneSoul | 24555 | [24555-arcanesoul.json](./24555-arcanesoul.json) |
 | Arcangel: The Legacy of Peace | 52407 | [52407-arcangel-the-legacy-of-peace.json](./52407-arcangel-the-legacy-of-peace.json) |
 | Arcania: Fall of Setarrif | 8331 | [8331-arcania-fall-of-setarrif.json](./8331-arcania-fall-of-setarrif.json) |
@@ -16326,6 +16331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Survival of the Fittest | 24412 | [24412-ark-survival-of-the-fittest.json](./24412-ark-survival-of-the-fittest.json) |
 | Ark: The Center | 169335 | [169335-ark-the-center.json](./169335-ark-the-center.json) |
 | Ark: The Center Ascended | 304378 | [304378-ark-the-center-ascended.json](./304378-ark-the-center-ascended.json) |
+| Ark: The Shadow of Terra | 430030 | [430030-ark-the-shadow-of-terra.json](./430030-ark-the-shadow-of-terra.json) |
 | Ark: Tides of Fortune | 428619 | [428619-ark-tides-of-fortune.json](./428619-ark-tides-of-fortune.json) |
 | Ark: Ultimate Survivor Edition | 152344 | [152344-ark-ultimate-survivor-edition.json](./152344-ark-ultimate-survivor-edition.json) |
 | Ark: Valguero Ascended | 377895 | [377895-ark-valguero-ascended.json](./377895-ark-valguero-ascended.json) |
@@ -21253,6 +21259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid the Roids | 119202 | [119202-avoid-the-roids.json](./119202-avoid-the-roids.json) |
 | Avoid the Stalin's Purge | 418030 | [418030-avoid-the-stalins-purge.json](./418030-avoid-the-stalins-purge.json) |
 | Avoid the Threats | 359439 | [359439-avoid-the-threats.json](./359439-avoid-the-threats.json) |
+| Avoid the Void | 429997 | [429997-avoid-the-void.json](./429997-avoid-the-void.json) |
 | Avoid Them: Breakthrough Gaming Arcade | 146250 | [146250-avoid-them-breakthrough-gaming-arcade.json](./146250-avoid-them-breakthrough-gaming-arcade.json) |
 | Avoid Them: Breakthrough Gaming Arcade - Challenge Mode Edition | 207050 | [207050-avoid-them-breakthrough-gaming-arcade-challenge-mode-edition.json](./207050-avoid-them-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Avoid: Classic Edition | 123227 | [123227-avoid-classic-edition.json](./123227-avoid-classic-edition.json) |
