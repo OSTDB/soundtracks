@@ -17734,6 +17734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Legacy | 416213 | [416213-ashen-legacy.json](./416213-ashen-legacy.json) |
 | Ashen of Thrones | 413886 | [413886-ashen-of-thrones.json](./413886-ashen-of-thrones.json) |
 | Ashen Seed | 385547 | [385547-ashen-seed.json](./385547-ashen-seed.json) |
+| Ashen Siege | 431249 | [431249-ashen-siege.json](./431249-ashen-siege.json) |
 | Ashen Sky | 299596 | [299596-ashen-sky.json](./299596-ashen-sky.json) |
 | Ashen Swarm | 422715 | [422715-ashen-swarm.json](./422715-ashen-swarm.json) |
 | Ashen Testament | 427408 | [427408-ashen-testament.json](./427408-ashen-testament.json) |
@@ -19359,6 +19360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Night: The Nurse | 388279 | [388279-at-night-the-nurse.json](./388279-at-night-the-nurse.json) |
 | At Night: The Student | 385371 | [385371-at-night-the-student.json](./385371-at-night-the-student.json) |
 | At Odds | 176183 | [176183-at-odds.json](./176183-at-odds.json) |
+| At Once, My Lord! | 431350 | [431350-at-once-my-lord.json](./431350-at-once-my-lord.json) |
 | At Run Time | 411637 | [411637-at-run-time.json](./411637-at-run-time.json) |
 | At Sixes and Sevens | 342771 | [342771-at-sixes-and-sevens.json](./342771-at-sixes-and-sevens.json) |
 | At Sundown: Shots in the Dark | 27998 | [27998-at-sundown-shots-in-the-dark.json](./27998-at-sundown-shots-in-the-dark.json) |
@@ -20901,6 +20903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avactor: End of the Fifth Circle | 140648 | [140648-avactor-end-of-the-fifth-circle.json](./140648-avactor-end-of-the-fifth-circle.json) |
 | Avadon 2: The Corruption | 10036 | [10036-avadon-2-the-corruption.json](./10036-avadon-2-the-corruption.json) |
 | Avadon 3: Hint Book & Extras | 51710 | [51710-avadon-3-hint-book-and-extras.json](./51710-avadon-3-hint-book-and-extras.json) |
+| Avadon 3: The Warborn | 23241 | [23241-avadon-3-the-warborn.json](./23241-avadon-3-the-warborn.json) |
 | Avadon 3: The Warborn - Deluxe Edition | 52621 | [52621-avadon-3-the-warborn-deluxe-edition.json](./52621-avadon-3-the-warborn-deluxe-edition.json) |
 | Avadon: The Black Fortress | 7407 | [7407-avadon-the-black-fortress.json](./7407-avadon-the-black-fortress.json) |
 | Avakin Life | 16756 | [16756-avakin-life.json](./16756-avakin-life.json) |
@@ -21088,6 +21091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ave Trail | 359209 | [359209-ave-trail.json](./359209-ave-trail.json) |
 | Avelia | 292318 | [292318-avelia.json](./292318-avelia.json) |
 | Aveliana | 156152 | [156152-aveliana.json](./156152-aveliana.json) |
+| Aveltuner | 431328 | [431328-aveltuner.json](./431328-aveltuner.json) |
 | Avem33 | 94128 | [94128-avem33.json](./94128-avem33.json) |
 | Avem888 | 105751 | [105751-avem888.json](./105751-avem888.json) |
 | Avem888 VR | 105128 | [105128-avem888-vr.json](./105128-avem888-vr.json) |
