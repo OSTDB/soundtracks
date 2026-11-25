@@ -2048,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eight Sweets | 184907 | [184907-eight-sweets.json](./184907-eight-sweets.json) |
 | Eight Thirty, Nowhere | 153652 | [153652-eight-thirty-nowhere.json](./153652-eight-thirty-nowhere.json) |
 | Eight Winds | 253747 | [253747-eight-winds.json](./253747-eight-winds.json) |
+| Eight-Minute Empire | 43080 | [43080-eight-minute-empire.json](./43080-eight-minute-empire.json) |
 | Eight-Minute Empire: Archipelago of Azra Map | 171947 | [171947-eight-minute-empire-archipelago-of-azra-map.json](./171947-eight-minute-empire-archipelago-of-azra-map.json) |
 | Eight-Minute Empire: Complete Edition | 147688 | [147688-eight-minute-empire-complete-edition.json](./147688-eight-minute-empire-complete-edition.json) |
 | Eight-Minute Empire: Mountains | 171946 | [171946-eight-minute-empire-mountains.json](./171946-eight-minute-empire-mountains.json) |
@@ -2502,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electrician Simulator: First Shock | 186506 | [186506-electrician-simulator-first-shock.json](./186506-electrician-simulator-first-shock.json) |
 | Electrician Simulator: Smart Devices | 245991 | [245991-electrician-simulator-smart-devices.json](./245991-electrician-simulator-smart-devices.json) |
 | Electricman 2: The Tournament of Voltagen | 195021 | [195021-electricman-2-the-tournament-of-voltagen.json](./195021-electricman-2-the-tournament-of-voltagen.json) |
+| ElectricScribe | 44222 | [44222-electricscribe.json](./44222-electricscribe.json) |
 | Electrified | 168238 | [168238-electrified.json](./168238-electrified.json) |
 | Electrified | 380312 | [380312-electrified.json](./380312-electrified.json) |
 | Electrify | 167503 | [167503-electrify.json](./167503-electrify.json) |
@@ -4324,6 +4326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Ascent | 289423 | [289423-endless-ascent.json](./289423-endless-ascent.json) |
 | Endless Asphalt | 382950 | [382950-endless-asphalt.json](./382950-endless-asphalt.json) |
 | Endless Asteroids: Crank to Survive | 355969 | [355969-endless-asteroids-crank-to-survive.json](./355969-endless-asteroids-crank-to-survive.json) |
+| Endless ATC | 44194 | [44194-endless-atc.json](./44194-endless-atc.json) |
 | Endless Battle | 109664 | [109664-endless-battle.json](./109664-endless-battle.json) |
 | Endless Battle: Idle & Build | 423090 | [423090-endless-battle-idle-and-build.json](./423090-endless-battle-idle-and-build.json) |
 | Endless Battle: Return of Hero +1 | 169576 | [169576-endless-battle-return-of-hero-1.json](./169576-endless-battle-return-of-hero-1.json) |
@@ -4899,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enlightened | 249883 | [249883-enlightened.json](./249883-enlightened.json) |
 | Enlightened Sentinel | 155667 | [155667-enlightened-sentinel.json](./155667-enlightened-sentinel.json) |
 | Enlightening the Soul Country Light | 280168 | [280168-enlightening-the-soul-country-light.json](./280168-enlightening-the-soul-country-light.json) |
+| Enlightenment | 43155 | [43155-enlightenment.json](./43155-enlightenment.json) |
 | Enlightenment: Druid II | 12585 | [12585-enlightenment-druid-ii.json](./12585-enlightenment-druid-ii.json) |
 | Enlightenus | 100251 | [100251-enlightenus.json](./100251-enlightenus.json) |
 | Enlil: Rise Of the End | 387486 | [387486-enlil-rise-of-the-end.json](./387486-enlil-rise-of-the-end.json) |
