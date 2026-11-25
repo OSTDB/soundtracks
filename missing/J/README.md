@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JamG | 34947 | [34947-jamg.json](./34947-jamg.json) |
 | Jamhouse | 410029 | [410029-jamhouse.json](./410029-jamhouse.json) |
 | Jamie | 245284 | [245284-jamie.json](./245284-jamie.json) |
+| Jamie and Marley Die a Lot | 430947 | [430947-jamie-and-marley-die-a-lot.json](./430947-jamie-and-marley-die-a-lot.json) |
 | Jamie Inside | 278613 | [278613-jamie-inside.json](./278613-jamie-inside.json) |
 | Jamie Quest | 327373 | [327373-jamie-quest.json](./327373-jamie-quest.json) |
 | Jamie's Dream | 63731 | [63731-jamies-dream.json](./63731-jamies-dream.json) |
@@ -2603,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joana's Life | 31713 | [31713-joanas-life.json](./31713-joanas-life.json) |
 | Joanie | 176386 | [176386-joanie.json](./176386-joanie.json) |
 | Job Application Simulator | 183247 | [183247-job-application-simulator.json](./183247-job-application-simulator.json) |
+| Job Application Simulator | 430943 | [430943-job-application-simulator.json](./430943-job-application-simulator.json) |
 | Job Applications | 343041 | [343041-job-applications.json](./343041-job-applications.json) |
 | Job at Risk | 236172 | [236172-job-at-risk.json](./236172-job-at-risk.json) |
 | Job Battle Simulator: Accurate Physics Showdown | 348253 | [348253-job-battle-simulator-accurate-physics-showdown.json](./348253-job-battle-simulator-accurate-physics-showdown.json) |
