@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-25T14:05:57.848Z",
-  "total_soundtracks": 3949,
+  "generated_at": "2026-11-25T14:46:01.220Z",
+  "total_soundtracks": 3950,
   "games": [
     {
       "igdb_id": 292844,
@@ -3947,6 +3947,20 @@
         {
           "album_name": "Bannerman (Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6f8zKBNTmTAvfnI81iN47U",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 90157,
+      "game_name": "Barbearian",
+      "game_url": "https://ostdb.net/games/barbearian",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737e0c59ba59fd5834bfb2aa96",
+      "albums": [
+        {
+          "album_name": "Barbearian (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1ZqtYhGBzeng644irvFKQ1",
           "apple_music_url": "",
           "album_link_url": ""
         }
