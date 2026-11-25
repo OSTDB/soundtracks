@@ -9198,6 +9198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone In Hell | 217852 | [217852-alone-in-hell.json](./217852-alone-in-hell.json) |
 | Alone in Pico | 180163 | [180163-alone-in-pico.json](./180163-alone-in-pico.json) |
 | Alone in Space | 271671 | [271671-alone-in-space.json](./271671-alone-in-space.json) |
+| Alone in Space | 33499 | [33499-alone-in-space.json](./33499-alone-in-space.json) |
 | Alone in the Backrooms | 420950 | [420950-alone-in-the-backrooms.json](./420950-alone-in-the-backrooms.json) |
 | Alone in the Crowd | 213107 | [213107-alone-in-the-crowd.json](./213107-alone-in-the-crowd.json) |
 | Alone in the Dark | 1956 | [1956-alone-in-the-dark.json](./1956-alone-in-the-dark.json) |
@@ -17318,6 +17319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Ambition | 428013 | [428013-artificial-ambition.json](./428013-artificial-ambition.json) |
 | Artificial Bloodline | 414908 | [414908-artificial-bloodline.json](./414908-artificial-bloodline.json) |
 | Artificial Dawn | 419366 | [419366-artificial-dawn.json](./419366-artificial-dawn.json) |
+| Artificial Defense | 33511 | [33511-artificial-defense.json](./33511-artificial-defense.json) |
 | Artificial Detective | 396030 | [396030-artificial-detective.json](./396030-artificial-detective.json) |
 | Artificial Division | 320067 | [320067-artificial-division.json](./320067-artificial-division.json) |
 | Artificial Dreams | 14170 | [14170-artificial-dreams.json](./14170-artificial-dreams.json) |
@@ -17652,6 +17654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASDVD: Umareta Bakari no Love Song | 408250 | [408250-asdvd-umareta-bakari-no-love-song.json](./408250-asdvd-umareta-bakari-no-love-song.json) |
 | Ase Online | 379349 | [379349-ase-online.json](./379349-ase-online.json) |
 | Aselia the Eternal | 86163 | [86163-aselia-the-eternal.json](./86163-aselia-the-eternal.json) |
+| Aselia the Eternal: The Spirit of Eternity Sword | 33476 | [33476-aselia-the-eternal-the-spirit-of-eternity-sword.json](./33476-aselia-the-eternal-the-spirit-of-eternity-sword.json) |
 | Asema | 401989 | [401989-asema.json](./401989-asema.json) |
 | Asemblance | 19167 | [19167-asemblance.json](./19167-asemblance.json) |
 | Asemblance Collection | 110582 | [110582-asemblance-collection.json](./110582-asemblance-collection.json) |
@@ -20437,6 +20440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurail | 39618 | [39618-aurail.json](./39618-aurail.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
 | Auralux | 18485 | [18485-auralux.json](./18485-auralux.json) |
+| Auralux: Constellations | 33527 | [33527-auralux-constellations.json](./33527-auralux-constellations.json) |
 | Aurans | 289672 | [289672-aurans.json](./289672-aurans.json) |
 | Aurascope | 177951 | [177951-aurascope.json](./177951-aurascope.json) |
 | AuraTitan | 417677 | [417677-auratitan.json](./417677-auratitan.json) |
