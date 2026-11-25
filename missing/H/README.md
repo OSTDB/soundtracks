@@ -10447,6 +10447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Home | 265621 | [265621-hollow-home.json](./265621-hollow-home.json) |
 | Hollow Hometown | 339812 | [339812-hollow-hometown.json](./339812-hollow-hometown.json) |
 | Hollow Host | 350224 | [350224-hollow-host.json](./350224-hollow-host.json) |
+| Hollow Hours: Cheap House | 426034 | [426034-hollow-hours-cheap-house.json](./426034-hollow-hours-cheap-house.json) |
 | Hollow Inn | 400349 | [400349-hollow-inn.json](./400349-hollow-inn.json) |
 | Hollow Jump | 348466 | [348466-hollow-jump.json](./348466-hollow-jump.json) |
 | Hollow Knight | 365702 | [365702-hollow-knight.json](./365702-hollow-knight.json) |
