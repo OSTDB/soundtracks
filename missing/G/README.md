@@ -7010,6 +7010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God's Death | 32747 | [32747-gods-death.json](./32747-gods-death.json) |
 | God's Disdain | 331583 | [331583-gods-disdain.json](./331583-gods-disdain.json) |
 | God's Forest | 265133 | [265133-gods-forest.json](./265133-gods-forest.json) |
+| God's Game | 424247 | [424247-gods-game.json](./424247-gods-game.json) |
 | God's Gift | 236876 | [236876-gods-gift.json](./236876-gods-gift.json) |
 | God's League | 341477 | [341477-gods-league.json](./341477-gods-league.json) |
 | God's Legacy: Alchemist | 224049 | [224049-gods-legacy-alchemist.json](./224049-gods-legacy-alchemist.json) |
@@ -10952,6 +10953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimace's Birthday | 369340 | [369340-grimaces-birthday.json](./369340-grimaces-birthday.json) |
 | Grimalkin: Solar Defense Force | 127669 | [127669-grimalkin-solar-defense-force.json](./127669-grimalkin-solar-defense-force.json) |
 | Grimante | 83975 | [83975-grimante.json](./83975-grimante.json) |
+| Grimble | 427654 | [427654-grimble.json](./427654-grimble.json) |
 | Grimblood | 92743 | [92743-grimblood.json](./92743-grimblood.json) |
 | Grimbound | 273775 | [273775-grimbound.json](./273775-grimbound.json) |
 | Grimcastle: Battle Tales | 90156 | [90156-grimcastle-battle-tales.json](./90156-grimcastle-battle-tales.json) |
