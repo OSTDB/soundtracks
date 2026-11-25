@@ -3088,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Josou Gal Bitch Gakuen | 59047 | [59047-josou-gal-bitch-gakuen.json](./59047-josou-gal-bitch-gakuen.json) |
 | Josou Gal Bitch Gakuen: Half Musume Judy no Yuuwaku | 59049 | [59049-josou-gal-bitch-gakuen-half-musume-judy-no-yuuwaku.json](./59049-josou-gal-bitch-gakuen-half-musume-judy-no-yuuwaku.json) |
 | Josou Shite Onnayu ni Sennyuu Shiyou to Shitara, Machigaete Haitta Otokoyu ga Hattenba Datta Ken | 57877 | [57877-josou-shite-onnayu-ni-sennyuu-shiyou-to-shitara-machigaete-haitta-otokoyu-ga-hattenba-datta-ken.json](./57877-josou-shite-onnayu-ni-sennyuu-shiyou-to-shitara-machigaete-haitta-otokoyu-ga-hattenba-datta-ken.json) |
+| JosPlays: Gemhaven | 420867 | [420867-josplays-gemhaven.json](./420867-josplays-gemhaven.json) |
 | JosPlays' Escape: GameJam April 2024 | 303597 | [303597-josplays-escape-gamejam-april-2024.json](./303597-josplays-escape-gamejam-april-2024.json) |
 | Jostle Bastard | 395616 | [395616-jostle-bastard.json](./395616-jostle-bastard.json) |
 | Joth Fading | 372726 | [372726-joth-fading.json](./372726-joth-fading.json) |
