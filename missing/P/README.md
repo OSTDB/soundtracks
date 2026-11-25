@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Splash | 85326 | [85326-paint-splash.json](./85326-paint-splash.json) |
 | Paint the Moon | 420808 | [420808-paint-the-moon.json](./420808-paint-the-moon.json) |
 | Paint the Snow: Idle | 365230 | [365230-paint-the-snow-idle.json](./365230-paint-the-snow-idle.json) |
+| Paint the Town | 431289 | [431289-paint-the-town.json](./431289-paint-the-town.json) |
 | Paint the Town Red VR | 253179 | [253179-paint-the-town-red-vr.json](./253179-paint-the-town-red-vr.json) |
 | Paint the Town Red VR | 376986 | [376986-paint-the-town-red-vr.json](./376986-paint-the-town-red-vr.json) |
 | Paint the World | 425004 | [425004-paint-the-world.json](./425004-paint-the-world.json) |
@@ -5360,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perry Rhodan: Operation Eastside | 72100 | [72100-perry-rhodan-operation-eastside.json](./72100-perry-rhodan-operation-eastside.json) |
 | Perry Rhodan: Thoregon - Die verbotene Stadt | 116601 | [116601-perry-rhodan-thoregon-die-verbotene-stadt.json](./116601-perry-rhodan-thoregon-die-verbotene-stadt.json) |
 | Perry the Pumpkin | 224763 | [224763-perry-the-pumpkin.json](./224763-perry-the-pumpkin.json) |
+| Persaki Cabin | 431352 | [431352-persaki-cabin.json](./431352-persaki-cabin.json) |
 | Persecution: The Elevator | 311154 | [311154-persecution-the-elevator.json](./311154-persecution-the-elevator.json) |
 | Perseids, or, All This Will Go on Forever | 179766 | [179766-perseids-or-all-this-will-go-on-forever.json](./179766-perseids-or-all-this-will-go-on-forever.json) |
 | Persephone | 122151 | [122151-persephone.json](./122151-persephone.json) |
@@ -11503,6 +11505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayUSA | 76073 | [76073-playusa.json](./76073-playusa.json) |
 | PlayVille | 366253 | [366253-playville.json](./366253-playville.json) |
 | PlayWith | 208544 | [208544-playwith.json](./208544-playwith.json) |
+| Playworld Superheroes | 23230 | [23230-playworld-superheroes.json](./23230-playworld-superheroes.json) |
 | PlayZ | 170833 | [170833-playz.json](./170833-playz.json) |
 | Plaza Security | 306427 | [306427-plaza-security.json](./306427-plaza-security.json) |
 | Plaza Sesamo Erase una vez un Monstruo | 209356 | [209356-plaza-sesamo-erase-una-vez-un-monstruo.json](./209356-plaza-sesamo-erase-una-vez-un-monstruo.json) |
@@ -12091,6 +12094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pet | 230730 | [230730-pocket-pet.json](./230730-pocket-pet.json) |
 | Pocket Pets | 122503 | [122503-pocket-pets.json](./122503-pocket-pets.json) |
 | Pocket Pets! | 215267 | [215267-pocket-pets.json](./215267-pocket-pets.json) |
+| Pocket Pilots | 431348 | [431348-pocket-pilots.json](./431348-pocket-pilots.json) |
 | Pocket Ping Pong 2005 | 77092 | [77092-pocket-ping-pong-2005.json](./77092-pocket-ping-pong-2005.json) |
 | Pocket Pioneers | 152388 | [152388-pocket-pioneers.json](./152388-pocket-pioneers.json) |
 | Pocket Pix | 260880 | [260880-pocket-pix.json](./260880-pocket-pix.json) |
@@ -14699,6 +14703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | POP: Methodology Experiment One | 17515 | [17515-pop-methodology-experiment-one.json](./17515-pop-methodology-experiment-one.json) |
 | Pop! | 122281 | [122281-pop.json](./122281-pop.json) |
 | Pop! | 147195 | [147195-pop.json](./147195-pop.json) |
+| Pop! Jelly PangPang | 431323 | [431323-pop-jelly-pangpang.json](./431323-pop-jelly-pangpang.json) |
 | Pop! Pachinko | 407158 | [407158-pop-pachinko.json](./407158-pop-pachinko.json) |
 | Pop! Slots | 370752 | [370752-pop-slots.json](./370752-pop-slots.json) |
 | Pop'n Emojis | 107039 | [107039-popn-emojis.json](./107039-popn-emojis.json) |
