@@ -3272,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Monsters: Full Game plus Arcade + Character DLC Pack Bundle | 263530 | [263530-dawn-of-the-monsters-full-game-plus-arcade-character-dlc-pack-bundle.json](./263530-dawn-of-the-monsters-full-game-plus-arcade-character-dlc-pack-bundle.json) |
 | Dawn of the Others | 158131 | [158131-dawn-of-the-others.json](./158131-dawn-of-the-others.json) |
 | Dawn of the Robot Empire | 33271 | [33271-dawn-of-the-robot-empire.json](./33271-dawn-of-the-robot-empire.json) |
+| Dawn of the Rotten | 430081 | [430081-dawn-of-the-rotten.json](./430081-dawn-of-the-rotten.json) |
 | Dawn of the Saviours | 50813 | [50813-dawn-of-the-saviours.json](./50813-dawn-of-the-saviours.json) |
 | Dawn of the Tiberium Age | 322388 | [322388-dawn-of-the-tiberium-age.json](./322388-dawn-of-the-tiberium-age.json) |
 | Dawn of the Undead | 182016 | [182016-dawn-of-the-undead.json](./182016-dawn-of-the-undead.json) |
@@ -4676,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadBlitz | 261655 | [261655-deadblitz.json](./261655-deadblitz.json) |
 | Deadbolt | 18389 | [18389-deadbolt.json](./18389-deadbolt.json) |
 | Deadboot | 360103 | [360103-deadboot.json](./360103-deadboot.json) |
+| Deadboy Skeleton | 430073 | [430073-deadboy-skeleton.json](./430073-deadboy-skeleton.json) |
 | Deadbreed | 14726 | [14726-deadbreed.json](./14726-deadbreed.json) |
 | Deadburg | 193629 | [193629-deadburg.json](./193629-deadburg.json) |
 | Deadbus | 380452 | [380452-deadbus.json](./380452-deadbus.json) |
@@ -4928,6 +4930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadRoot | 404919 | [404919-deadroot.json](./404919-deadroot.json) |
 | Deadrop | 210684 | [210684-deadrop.json](./210684-deadrop.json) |
 | Deads On The Road: Shoot Zombie Hunting 2024 | 319784 | [319784-deads-on-the-road-shoot-zombie-hunting-2024.json](./319784-deads-on-the-road-shoot-zombie-hunting-2024.json) |
+| DeadShare | 429963 | [429963-deadshare.json](./429963-deadshare.json) |
 | Deadship Protocol | 414086 | [414086-deadship-protocol.json](./414086-deadship-protocol.json) |
 | DeadShore | 356641 | [356641-deadshore.json](./356641-deadshore.json) |
 | Deadshot | 215784 | [215784-deadshot.json](./215784-deadshot.json) |
