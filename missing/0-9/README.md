@@ -2221,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24 Hour Crime Scene: Travel Edition | 176826 | [176826-24-hour-crime-scene-travel-edition.json](./176826-24-hour-crime-scene-travel-edition.json) |
 | 24 Hours | 308346 | [308346-24-hours.json](./308346-24-hours.json) |
 | 24 Hours | 32489 | [32489-24-hours.json](./32489-24-hours.json) |
+| 24 Hours 'til Rescue | 33491 | [33491-24-hours-til-rescue.json](./33491-24-hours-til-rescue.json) |
 | 24 Jingles to Bell | 394832 | [394832-24-jingles-to-bell.json](./394832-24-jingles-to-bell.json) |
 | 24 Killers | 141454 | [141454-24-killers.json](./141454-24-killers.json) |
 | 24 Levels | 200104 | [200104-24-levels.json](./200104-24-levels.json) |
