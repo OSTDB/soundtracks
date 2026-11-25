@@ -11686,6 +11686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girl in the Window | 221722 | [221722-the-girl-in-the-window.json](./221722-the-girl-in-the-window.json) |
 | The Girl In White | 376655 | [376655-the-girl-in-white.json](./376655-the-girl-in-white.json) |
 | The Girl of Glass: A Summer Bird's Tale | 132919 | [132919-the-girl-of-glass-a-summer-birds-tale.json](./132919-the-girl-of-glass-a-summer-birds-tale.json) |
+| The Girl on the Train | 74247 | [74247-the-girl-on-the-train.json](./74247-the-girl-on-the-train.json) |
 | The Girl Under The Tree: Anna | 288796 | [288796-the-girl-under-the-tree-anna.json](./288796-the-girl-under-the-tree-anna.json) |
 | The Girl Walks Back | 393542 | [393542-the-girl-walks-back.json](./393542-the-girl-walks-back.json) |
 | The Girl Who Kicked a Rabbit | 253302 | [253302-the-girl-who-kicked-a-rabbit.json](./253302-the-girl-who-kicked-a-rabbit.json) |
@@ -36292,6 +36293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Tennis Trivia | 96955 | [96955-trivia-vault-tennis-trivia.json](./96955-trivia-vault-tennis-trivia.json) |
 | Trivia Vault: Toy Trivia | 101614 | [101614-trivia-vault-toy-trivia.json](./101614-trivia-vault-toy-trivia.json) |
 | Trivia Vault: TV Trivia | 100150 | [100150-trivia-vault-tv-trivia.json](./100150-trivia-vault-tv-trivia.json) |
+| Trivia Vault: Video Game Trivia Deluxe | 74339 | [74339-trivia-vault-video-game-trivia-deluxe.json](./74339-trivia-vault-video-game-trivia-deluxe.json) |
 | Trivia War | 338607 | [338607-trivia-war.json](./338607-trivia-war.json) |
 | Trivia Whiz | 80313 | [80313-trivia-whiz.json](./80313-trivia-whiz.json) |
 | Triviador | 57979 | [57979-triviador.json](./57979-triviador.json) |
