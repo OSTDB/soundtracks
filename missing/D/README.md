@@ -3092,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daughter of Essence | 158654 | [158654-daughter-of-essence.json](./158654-daughter-of-essence.json) |
 | Daughter of Reyn | 209930 | [209930-daughter-of-reyn.json](./209930-daughter-of-reyn.json) |
 | Daughter of Serpents | 12416 | [12416-daughter-of-serpents.json](./12416-daughter-of-serpents.json) |
+| Daughter of Shadows: An SCP Breach Event | 33300 | [33300-daughter-of-shadows-an-scp-breach-event.json](./33300-daughter-of-shadows-an-scp-breach-event.json) |
 | Daughter of Shadows: An SCP Breach Event - Friend and Foe Expansion | 167317 | [167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json](./167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json) |
 | Daughter of the Rift | 378242 | [378242-daughter-of-the-rift.json](./378242-daughter-of-the-rift.json) |
 | Daughter of Voodoo | 431047 | [431047-daughter-of-voodoo.json](./431047-daughter-of-voodoo.json) |
@@ -18312,6 +18313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn Together | 404311 | [404311-drawn-together.json](./404311-drawn-together.json) |
 | Drawn Together: Soak It! | 388495 | [388495-drawn-together-soak-it.json](./388495-drawn-together-soak-it.json) |
 | Drawn: Dark Flight | 15227 | [15227-drawn-dark-flight.json](./15227-drawn-dark-flight.json) |
+| Drawn: Dark Flight - Collector's Edition | 33294 | [33294-drawn-dark-flight-collectors-edition.json](./33294-drawn-dark-flight-collectors-edition.json) |
 | Drawn: The Painted Tower | 11234 | [11234-drawn-the-painted-tower.json](./11234-drawn-the-painted-tower.json) |
 | Drawn: Trail of Shadows | 65094 | [65094-drawn-trail-of-shadows.json](./65094-drawn-trail-of-shadows.json) |
 | Drawn: Trail of Shadows - Collector's Edition | 30124 | [30124-drawn-trail-of-shadows-collectors-edition.json](./30124-drawn-trail-of-shadows-collectors-edition.json) |
