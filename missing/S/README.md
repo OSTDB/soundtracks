@@ -2615,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saucy Sorcery | 431302 | [431302-saucy-sorcery.json](./431302-saucy-sorcery.json) |
 | Saudade | 317180 | [317180-saudade.json](./317180-saudade.json) |
 | Saudi Drift | 214938 | [214938-saudi-drift.json](./214938-saudi-drift.json) |
+| Saugrausch: Planet Vacuum | 430022 | [430022-saugrausch-planet-vacuum.json](./430022-saugrausch-planet-vacuum.json) |
 | Sauk Mind | 326600 | [326600-sauk-mind.json](./326600-sauk-mind.json) |
 | Sauna | 178039 | [178039-sauna.json](./178039-sauna.json) |
 | Sauna 2000 | 210586 | [210586-sauna-2000.json](./210586-sauna-2000.json) |
@@ -4387,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribo Magi | 178922 | [178922-scribo-magi.json](./178922-scribo-magi.json) |
 | Scripps Spelling Bee | 206644 | [206644-scripps-spelling-bee.json](./206644-scripps-spelling-bee.json) |
 | Script Ship | 182895 | [182895-script-ship.json](./182895-script-ship.json) |
+| ScriptBlade | 430050 | [430050-scriptblade.json](./430050-scriptblade.json) |
 | Scripted Land | 219620 | [219620-scripted-land.json](./219620-scripted-land.json) |
 | Scripted Souls | 200563 | [200563-scripted-souls.json](./200563-scripted-souls.json) |
 | Scriptic: Interactive Dramas | 191860 | [191860-scriptic-interactive-dramas.json](./191860-scriptic-interactive-dramas.json) |
@@ -16510,6 +16512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sly Cooper and the Thievius Raccoonus | 222125 | [222125-sly-cooper-and-the-thievius-raccoonus.json](./222125-sly-cooper-and-the-thievius-raccoonus.json) |
 | Sly Cooper and the Thievius Raccoonus | 304144 | [304144-sly-cooper-and-the-thievius-raccoonus.json](./304144-sly-cooper-and-the-thievius-raccoonus.json) |
 | Sly Cooper: Thieves in Time | 1801 | [1801-sly-cooper-thieves-in-time.json](./1801-sly-cooper-thieves-in-time.json) |
+| Sly Kingdom | 430155 | [430155-sly-kingdom.json](./430155-sly-kingdom.json) |
 | Sly Panda | 198514 | [198514-sly-panda.json](./198514-sly-panda.json) |
 | Sly Pigs | 114585 | [114585-sly-pigs.json](./114585-sly-pigs.json) |
 | Sly Pitch | 124583 | [124583-sly-pitch.json](./124583-sly-pitch.json) |
@@ -16976,6 +16979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMB RMX: Shattered Realms | 370902 | [370902-smb-rmx-shattered-realms.json](./370902-smb-rmx-shattered-realms.json) |
 | SMB1 Autumn Challenge | 322651 | [322651-smb1-autumn-challenge.json](./322651-smb1-autumn-challenge.json) |
 | SMB3: The Rainbow Realms | 372199 | [372199-smb3-the-rainbow-realms.json](./372199-smb3-the-rainbow-realms.json) |
+| SMBFullGame.nes | 430159 | [430159-smbfullgame-nes.json](./430159-smbfullgame-nes.json) |
 | SMBW Randomizer | 280939 | [280939-smbw-randomizer.json](./280939-smbw-randomizer.json) |
 | SMBX: Level Contest Japan | 359515 | [359515-smbx-level-contest-japan.json](./359515-smbx-level-contest-japan.json) |
 | SMBX2 Demo Stages | 328243 | [328243-smbx2-demo-stages.json](./328243-smbx2-demo-stages.json) |
@@ -19395,6 +19399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire 21 Card Sort | 243311 | [243311-solitaire-21-card-sort.json](./243311-solitaire-21-card-sort.json) |
 | Solitaire 220 Plus | 31102 | [31102-solitaire-220-plus.json](./31102-solitaire-220-plus.json) |
 | Solitaire 3D | 89738 | [89738-solitaire-3d.json](./89738-solitaire-3d.json) |
+| Solitaire Adventure | 430066 | [430066-solitaire-adventure.json](./430066-solitaire-adventure.json) |
 | Solitaire Adventure: The Resurrection of Faneruel | 174543 | [174543-solitaire-adventure-the-resurrection-of-faneruel.json](./174543-solitaire-adventure-the-resurrection-of-faneruel.json) |
 | Solitaire After Hours | 386147 | [386147-solitaire-after-hours.json](./386147-solitaire-after-hours.json) |
 | Solitaire Antics Deluxe | 68906 | [68906-solitaire-antics-deluxe.json](./68906-solitaire-antics-deluxe.json) |
