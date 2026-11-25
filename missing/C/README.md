@@ -4319,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Terroretra In Space | 217870 | [217870-castle-terroretra-in-space.json](./217870-castle-terroretra-in-space.json) |
 | Castle Tintagel | 255166 | [255166-castle-tintagel.json](./255166-castle-tintagel.json) |
 | Castle Torgeath Redux | 130180 | [130180-castle-torgeath-redux.json](./130180-castle-torgeath-redux.json) |
+| Castle Torgeath: Descent into Darkness | 26590 | [26590-castle-torgeath-descent-into-darkness.json](./26590-castle-torgeath-descent-into-darkness.json) |
 | Castle Travel | 364563 | [364563-castle-travel.json](./364563-castle-travel.json) |
 | Castle Tycoon Simulator | 393415 | [393415-castle-tycoon-simulator.json](./393415-castle-tycoon-simulator.json) |
 | Castle V Castle | 331947 | [331947-castle-v-castle.json](./331947-castle-v-castle.json) |
@@ -13078,6 +13079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coddle Pets: Dragon Garden | 159022 | [159022-coddle-pets-dragon-garden.json](./159022-coddle-pets-dragon-garden.json) |
 | Code 3: Police Response | 149713 | [149713-code-3-police-response.json](./149713-code-3-police-response.json) |
 | Code 608 | 405968 | [405968-code-608.json](./405968-code-608.json) |
+| Code 7 | 27175 | [27175-code-7.json](./27175-code-7.json) |
 | Code 9 | 55681 | [55681-code-9.json](./55681-code-9.json) |
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
 | Code Adventures | 108271 | [108271-code-adventures.json](./108271-code-adventures.json) |
@@ -18941,6 +18943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranknstein II | 214015 | [214015-cranknstein-ii.json](./214015-cranknstein-ii.json) |
 | Crankoids | 347141 | [347141-crankoids.json](./347141-crankoids.json) |
 | Cranks & Goggles | 56297 | [56297-cranks-and-goggles.json](./56297-cranks-and-goggles.json) |
+| Cranks and Goggles | 26619 | [26619-cranks-and-goggles.json](./26619-cranks-and-goggles.json) |
 | Cranks Playdate Baseball | 273673 | [273673-cranks-playdate-baseball.json](./273673-cranks-playdate-baseball.json) |
 | CrankShaft | 268925 | [268925-crankshaft.json](./268925-crankshaft.json) |
 | Crankstone | 361914 | [361914-crankstone.json](./361914-crankstone.json) |
