@@ -1284,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules | 35932 | [35932-12-labours-of-hercules.json](./35932-12-labours-of-hercules.json) |
 | 12 Labours of Hercules II: The Cretan Bull | 35493 | [35493-12-labours-of-hercules-ii-the-cretan-bull.json](./35493-12-labours-of-hercules-ii-the-cretan-bull.json) |
 | 12 Labours of Hercules III: Girl Power | 35494 | [35494-12-labours-of-hercules-iii-girl-power.json](./35494-12-labours-of-hercules-iii-girl-power.json) |
+| 12 Labours of Hercules IV: Mother Nature | 26601 | [26601-12-labours-of-hercules-iv-mother-nature.json](./26601-12-labours-of-hercules-iv-mother-nature.json) |
 | 12 Labours of Hercules IV: Mother Nature - Collector's Edition | 338895 | [338895-12-labours-of-hercules-iv-mother-nature-collectors-edition.json](./338895-12-labours-of-hercules-iv-mother-nature-collectors-edition.json) |
 | 12 Labours of Hercules IX: A Hero's Moonwalk | 125358 | [125358-12-labours-of-hercules-ix-a-heros-moonwalk.json](./125358-12-labours-of-hercules-ix-a-heros-moonwalk.json) |
 | 12 Labours of Hercules IX: A Hero's Moonwalk - Collector's Edition | 338900 | [338900-12-labours-of-hercules-ix-a-heros-moonwalk-collectors-edition.json](./338900-12-labours-of-hercules-ix-a-heros-moonwalk-collectors-edition.json) |
@@ -2175,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 21 Emon: Mezase! Hotel-Ou | 57442 | [57442-21-emon-mezase-hotel-ou.json](./57442-21-emon-mezase-hotel-ou.json) |
 | 21 Gewinnt | 98932 | [98932-21-gewinnt.json](./98932-21-gewinnt.json) |
 | 21 Mayble Drive | 298202 | [298202-21-mayble-drive.json](./298202-21-mayble-drive.json) |
+| 21 Steps to Soul | 27115 | [27115-21-steps-to-soul.json](./27115-21-steps-to-soul.json) |
 | 21-Emon | 38070 | [38070-21-emon.json](./38070-21-emon.json) |
 | 21-en | 85744 | [85744-21-en.json](./85744-21-en.json) |
 | 21: Blackjack | 65554 | [65554-21-blackjack.json](./65554-21-blackjack.json) |
