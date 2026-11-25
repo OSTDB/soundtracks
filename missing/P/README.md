@@ -13951,6 +13951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Political Mastery | 263053 | [263053-political-mastery.json](./263053-political-mastery.json) |
 | Political Punchers: 2024 Arena | 293701 | [293701-political-punchers-2024-arena.json](./293701-political-punchers-2024-arena.json) |
 | Political Puzzle | 106664 | [106664-political-puzzle.json](./106664-political-puzzle.json) |
+| Political Survival: The Head of State | 422774 | [422774-political-survival-the-head-of-state.json](./422774-political-survival-the-head-of-state.json) |
 | Political Tycoon | 71827 | [71827-political-tycoon.json](./71827-political-tycoon.json) |
 | Politically Yours | 23798 | [23798-politically-yours.json](./23798-politically-yours.json) |
 | PolitiCats | 57365 | [57365-politicats.json](./57365-politicats.json) |
@@ -16493,6 +16494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prey: Mooncrash | 103300 | [103300-prey-mooncrash.json](./103300-prey-mooncrash.json) |
 | Prey: Typhon Hunter | 117748 | [117748-prey-typhon-hunter.json](./117748-prey-typhon-hunter.json) |
 | Preytiger | 181734 | [181734-preytiger.json](./181734-preytiger.json) |
+| PreyVR for PCVR | 422122 | [422122-preyvr-for-pcvr.json](./422122-preyvr-for-pcvr.json) |
 | Prezzemolo in un Viaggio da Sogno | 305292 | [305292-prezzemolo-in-un-viaggio-da-sogno.json](./305292-prezzemolo-in-un-viaggio-da-sogno.json) |
 | Prezzemolo in una Giornata da Incubo | 93026 | [93026-prezzemolo-in-una-giornata-da-incubo.json](./93026-prezzemolo-in-una-giornata-da-incubo.json) |
 | Prezzies | 270071 | [270071-prezzies.json](./270071-prezzies.json) |
