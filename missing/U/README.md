@@ -1964,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under What? | 120911 | [120911-under-what.json](./120911-under-what.json) |
 | Under Your Moon | 318857 | [318857-under-your-moon.json](./318857-under-your-moon.json) |
 | Under Your Spell | 327779 | [327779-under-your-spell.json](./327779-under-your-spell.json) |
+| Under Zero | 33223 | [33223-under-zero.json](./33223-under-zero.json) |
 | Under: Depths of Fear | 122715 | [122715-under-depths-of-fear.json](./122715-under-depths-of-fear.json) |
 | UnderBackrooms | 235054 | [235054-underbackrooms.json](./235054-underbackrooms.json) |
 | Underbloom | 431248 | [431248-underbloom.json](./431248-underbloom.json) |
