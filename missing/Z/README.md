@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhulik.exe | 81770 | [81770-zhulik-exe.json](./81770-zhulik-exe.json) |
 | Zhúlù Hàn Mò | 373690 | [373690-zhulu-han-mo.json](./373690-zhulu-han-mo.json) |
 | Zhuó Lìng | 373296 | [373296-zhuo-ling.json](./373296-zhuo-ling.json) |
+| Zhust: The Illusion Soul | 40463 | [40463-zhust-the-illusion-soul.json](./40463-zhust-the-illusion-soul.json) |
 | Zhūtiān Jì | 157534 | [157534-zhutian-ji.json](./157534-zhutian-ji.json) |
 | ZhuZhu Pets 2: Featuring the Wild Bunch | 50978 | [50978-zhuzhu-pets-2-featuring-the-wild-bunch.json](./50978-zhuzhu-pets-2-featuring-the-wild-bunch.json) |
 | Zhuzi Subdues Demons | 295167 | [295167-zhuzi-subdues-demons.json](./295167-zhuzi-subdues-demons.json) |
