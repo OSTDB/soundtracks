@@ -7823,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Fold | 417456 | [417456-shadow-fold.json](./417456-shadow-fold.json) |
 | Shadow Force | 213106 | [213106-shadow-force.json](./213106-shadow-force.json) |
 | Shadow Force | 77660 | [77660-shadow-force.json](./77660-shadow-force.json) |
+| Shadow Force: Razor Unit | 23461 | [23461-shadow-force-razor-unit.json](./23461-shadow-force-razor-unit.json) |
 | Shadow Gadget | 263833 | [263833-shadow-gadget.json](./263833-shadow-gadget.json) |
 | Shadow Gambit: The Cursed Crew – Complete Edition | 279876 | [279876-shadow-gambit-the-cursed-crew-complete-edition.json](./279876-shadow-gambit-the-cursed-crew-complete-edition.json) |
 | Shadow Gambit: Yuki's Wish | 279538 | [279538-shadow-gambit-yukis-wish.json](./279538-shadow-gambit-yukis-wish.json) |
@@ -28063,6 +28064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox Zero | 11196 | [11196-star-fox-zero.json](./11196-star-fox-zero.json) |
 | Star Fox Zero + Star Fox Guard | 136202 | [136202-star-fox-zero-star-fox-guard.json](./136202-star-fox-zero-star-fox-guard.json) |
 | Star Fox Zero and Star Fox Guard: First Print Edition | 51144 | [51144-star-fox-zero-and-star-fox-guard-first-print-edition.json](./51144-star-fox-zero-and-star-fox-guard-first-print-edition.json) |
+| Star Fox Zero: Limited First Print Edition | 23382 | [23382-star-fox-zero-limited-first-print-edition.json](./23382-star-fox-zero-limited-first-print-edition.json) |
 | Star Fox: Assault | 3243 | [3243-star-fox-assault.json](./3243-star-fox-assault.json) |
 | Star Fox: Event Horizon | 401708 | [401708-star-fox-event-horizon.json](./401708-star-fox-event-horizon.json) |
 | Star Fox: Shindou Edition | 377320 | [377320-star-fox-shindou-edition.json](./377320-star-fox-shindou-edition.json) |
@@ -39394,6 +39396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superposition | 186288 | [186288-superposition.json](./186288-superposition.json) |
 | Superposition | 414401 | [414401-superposition.json](./414401-superposition.json) |
 | SuperPosition | 318946 | [318946-superposition.json](./318946-superposition.json) |
+| SuperPower | 23466 | [23466-superpower.json](./23466-superpower.json) |
 | SuperPower 2 | 24250 | [24250-superpower-2.json](./24250-superpower-2.json) |
 | SuperPower 2: Steam Edition | 90586 | [90586-superpower-2-steam-edition.json](./90586-superpower-2-steam-edition.json) |
 | SuperPower 3 | 171217 | [171217-superpower-3.json](./171217-superpower-3.json) |
@@ -39497,6 +39500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supesu | 103445 | [103445-supesu.json](./103445-supesu.json) |
 | Supesu 2 | 123923 | [123923-supesu-2.json](./123923-supesu-2.json) |
 | Supfly Delivery Simulator | 140158 | [140158-supfly-delivery-simulator.json](./140158-supfly-delivery-simulator.json) |
+| Supipara | 23471 | [23471-supipara.json](./23471-supipara.json) |
 | Supipara: Chapter 1 | 32232 | [32232-supipara-chapter-1.json](./32232-supipara-chapter-1.json) |
 | Suplex | 131036 | [131036-suplex.json](./131036-suplex.json) |
 | Suplex Saga | 54633 | [54633-suplex-saga.json](./54633-suplex-saga.json) |
