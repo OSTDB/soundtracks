@@ -2943,7 +2943,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatchball | 137961 | [137961-hatchball.json](./137961-hatchball.json) |
 | Hatchepsout: The Hell Temple | 277092 | [277092-hatchepsout-the-hell-temple.json](./277092-hatchepsout-the-hell-temple.json) |
 | Hatchi: A Retro Virtual Pet | 102517 | [102517-hatchi-a-retro-virtual-pet.json](./102517-hatchi-a-retro-virtual-pet.json) |
-| Hatchick | 96860 | [96860-hatchick.json](./96860-hatchick.json) |
 | Hatching | 201750 | [201750-hatching.json](./201750-hatching.json) |
 | Hatchling | 182511 | [182511-hatchling.json](./182511-hatchling.json) |
 | Hatchling's Adventure | 180785 | [180785-hatchlings-adventure.json](./180785-hatchlings-adventure.json) |
@@ -5429,7 +5428,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellsprint | 349447 | [349447-hellsprint.json](./349447-hellsprint.json) |
 | Hellsquad Rrrush! | 412078 | [412078-hellsquad-rrrush.json](./412078-hellsquad-rrrush.json) |
 | Hellstar | 182647 | [182647-hellstar.json](./182647-hellstar.json) |
-| HellStar Squadron | 97112 | [97112-hellstar-squadron.json](./97112-hellstar-squadron.json) |
 | Hellstrom Racer | 182963 | [182963-hellstrom-racer.json](./182963-hellstrom-racer.json) |
 | Hellstrom: Reign | 323493 | [323493-hellstrom-reign.json](./323493-hellstrom-reign.json) |
 | Hellstuck: Rage With Your Friends | 200712 | [200712-hellstuck-rage-with-your-friends.json](./200712-hellstuck-rage-with-your-friends.json) |
@@ -7765,7 +7763,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexio | 157451 | [157451-hexio.json](./157451-hexio.json) |
 | Hexiom Connect | 416748 | [416748-hexiom-connect.json](./416748-hexiom-connect.json) |
 | Hexion | 40197 | [40197-hexion.json](./40197-hexion.json) |
-| Hexion | 96216 | [96216-hexion.json](./96216-hexion.json) |
 | Hexis | 291582 | [291582-hexis.json](./291582-hexis.json) |
 | Hexis | 60657 | [60657-hexis.json](./60657-hexis.json) |
 | Hexistence | 394442 | [394442-hexistence.json](./394442-hexistence.json) |
@@ -7773,7 +7770,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexity | 319269 | [319269-hexity.json](./319269-hexity.json) |
 | Hexius | 80341 | [80341-hexius.json](./80341-hexius.json) |
 | Hexiv | 335385 | [335385-hexiv.json](./335385-hexiv.json) |
-| HexLab | 97090 | [97090-hexlab.json](./97090-hexlab.json) |
 | Hexland Heroes | 98024 | [98024-hexland-heroes.json](./98024-hexland-heroes.json) |
 | HexLand: Rise of Blue | 221678 | [221678-hexland-rise-of-blue.json](./221678-hexland-rise-of-blue.json) |
 | HexLands | 238657 | [238657-hexlands.json](./238657-hexlands.json) |
@@ -8139,7 +8135,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Futa | 236287 | [236287-hidden-futa.json](./236287-hidden-futa.json) |
 | Hidden Garden | 63885 | [63885-hidden-garden.json](./63885-hidden-garden.json) |
 | Hidden Garden Fairies | 100883 | [100883-hidden-garden-fairies.json](./100883-hidden-garden-fairies.json) |
-| Hidden Garden Fairy Tale | 95580 | [95580-hidden-garden-fairy-tale.json](./95580-hidden-garden-fairy-tale.json) |
 | Hidden Garden Forest | 102085 | [102085-hidden-garden-forest.json](./102085-hidden-garden-forest.json) |
 | Hidden Garden Heart Breaker | 235138 | [235138-hidden-garden-heart-breaker.json](./235138-hidden-garden-heart-breaker.json) |
 | Hidden Garden Midnight | 69453 | [69453-hidden-garden-midnight.json](./69453-hidden-garden-midnight.json) |
@@ -13225,7 +13220,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Make a Killing | 151370 | [151370-how-to-make-a-killing.json](./151370-how-to-make-a-killing.json) |
 | How to Make a Sequel | 407831 | [407831-how-to-make-a-sequel.json](./407831-how-to-make-a-sequel.json) |
 | How to Make an Atomic Bomb in Your Garden | 391727 | [391727-how-to-make-an-atomic-bomb-in-your-garden.json](./391727-how-to-make-an-atomic-bomb-in-your-garden.json) |
-| How to Make Slime: DIY Jelly Toy Play Fun | 96975 | [96975-how-to-make-slime-diy-jelly-toy-play-fun.json](./96975-how-to-make-slime-diy-jelly-toy-play-fun.json) |
 | How to Make Slime: DIY Slime Making for Kids | 90838 | [90838-how-to-make-slime-diy-slime-making-for-kids.json](./90838-how-to-make-slime-diy-slime-making-for-kids.json) |
 | How to Make Your Grandpa Happy | 31469 | [31469-how-to-make-your-grandpa-happy.json](./31469-how-to-make-your-grandpa-happy.json) |
 | How to Meat People | 75265 | [75265-how-to-meat-people.json](./75265-how-to-meat-people.json) |
@@ -14923,7 +14917,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperTag | 77408 | [77408-hypertag.json](./77408-hypertag.json) |
 | Hypertension | 256498 | [256498-hypertension.json](./256498-hypertension.json) |
 | Hyperthymesia | 382116 | [382116-hyperthymesia.json](./382116-hyperthymesia.json) |
-| Hypertrain | 96430 | [96430-hypertrain.json](./96430-hypertrain.json) |
 | Hypertron | 210058 | [210058-hypertron.json](./210058-hypertron.json) |
 | HyperTyper 2000 | 359685 | [359685-hypertyper-2000.json](./359685-hypertyper-2000.json) |
 | Hyperun | 49512 | [49512-hyperun.json](./49512-hyperun.json) |
