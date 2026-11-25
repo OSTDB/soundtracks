@@ -235,7 +235,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naked Porn Battle | 202205 | [202205-naked-porn-battle.json](./202205-naked-porn-battle.json) |
 | Naked Puzzle: Girls | 367928 | [367928-naked-puzzle-girls.json](./367928-naked-puzzle-girls.json) |
 | Naked Story | 127838 | [127838-naked-story.json](./127838-naked-story.json) |
-| Naked Sun | 93897 | [93897-naked-sun.json](./93897-naked-sun.json) |
 | Naked War | 28962 | [28962-naked-war.json](./28962-naked-war.json) |
 | Naked Warrior | 385305 | [385305-naked-warrior.json](./385305-naked-warrior.json) |
 | NakedMan vs. The Clothes | 29485 | [29485-nakedman-vs-the-clothes.json](./29485-nakedman-vs-the-clothes.json) |
@@ -1127,7 +1126,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Landscape: Grand Canyon | 96426 | [96426-natural-landscape-grand-canyon.json](./96426-natural-landscape-grand-canyon.json) |
 | Natural Landscape: Guilin Landscape | 86416 | [86416-natural-landscape-guilin-landscape.json](./86416-natural-landscape-guilin-landscape.json) |
 | Natural Landscape: Three Gorges | 90214 | [90214-natural-landscape-three-gorges.json](./90214-natural-landscape-three-gorges.json) |
-| Natural Locomotion | 95172 | [95172-natural-locomotion.json](./95172-natural-locomotion.json) |
 | Natural Pressures | 265670 | [265670-natural-pressures.json](./265670-natural-pressures.json) |
 | Natural Selection | 23759 | [23759-natural-selection.json](./23759-natural-selection.json) |
 | Natural Selection 2 - Deluxe DLC | 93808 | [93808-natural-selection-2-deluxe-dlc.json](./93808-natural-selection-2-deluxe-dlc.json) |
@@ -2023,7 +2021,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed Most Wanted U | 21699 | [21699-need-for-speed-most-wanted-u.json](./21699-need-for-speed-most-wanted-u.json) |
 | Need For Speed Pro Street Pepega Edition | 257349 | [257349-need-for-speed-pro-street-pepega-edition.json](./257349-need-for-speed-pro-street-pepega-edition.json) |
 | Need for Speed Rivals: Complete Edition | 118896 | [118896-need-for-speed-rivals-complete-edition.json](./118896-need-for-speed-rivals-complete-edition.json) |
-| Need for Speed Ultimate Bundle | 91300 | [91300-need-for-speed-ultimate-bundle.json](./91300-need-for-speed-ultimate-bundle.json) |
 | Need for Speed Unbound: Palace Edition | 220860 | [220860-need-for-speed-unbound-palace-edition.json](./220860-need-for-speed-unbound-palace-edition.json) |
 | Need for Speed Unbound: Trick or Street Swag Pack | 271923 | [271923-need-for-speed-unbound-trick-or-street-swag-pack.json](./271923-need-for-speed-unbound-trick-or-street-swag-pack.json) |
 | Need for Speed Unbound: Ultimate Collection | 324852 | [324852-need-for-speed-unbound-ultimate-collection.json](./324852-need-for-speed-unbound-ultimate-collection.json) |
@@ -2221,7 +2218,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbours from Hell | 243025 | [243025-neighbours-from-hell.json](./243025-neighbours-from-hell.json) |
 | Neighbours from Hell | 3132 | [3132-neighbours-from-hell.json](./3132-neighbours-from-hell.json) |
 | Neighbours from Hell Compilation | 53411 | [53411-neighbours-from-hell-compilation.json](./53411-neighbours-from-hell-compilation.json) |
-| Neighbours from Hell: Season 1 | 91248 | [91248-neighbours-from-hell-season-1.json](./91248-neighbours-from-hell-season-1.json) |
 | Neighbours From Hell: Season 2 | 89744 | [89744-neighbours-from-hell-season-2.json](./89744-neighbours-from-hell-season-2.json) |
 | Neighbours: The Adventure | 267373 | [267373-neighbours-the-adventure.json](./267373-neighbours-the-adventure.json) |
 | Neil Android | 354582 | [354582-neil-android.json](./354582-neil-android.json) |
@@ -3314,7 +3310,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netsoccer2 | 126247 | [126247-netsoccer2.json](./126247-netsoccer2.json) |
 | NetSpace Saga Ep.1 | 174076 | [174076-netspace-saga-ep-1.json](./174076-netspace-saga-ep-1.json) |
 | Netspectre | 211225 | [211225-netspectre.json](./211225-netspectre.json) |
-| NetStars: VR Goalie Trainer | 93679 | [93679-netstars-vr-goalie-trainer.json](./93679-netstars-vr-goalie-trainer.json) |
 | NetStorm: Islands At War | 1358 | [1358-netstorm-islands-at-war.json](./1358-netstorm-islands-at-war.json) |
 | Netsu Chu! Pro Yakyuu 2002 | 403523 | [403523-netsu-chu-pro-yakyuu-2002.json](./403523-netsu-chu-pro-yakyuu-2002.json) |
 | Nettai Teikiatsu Shoujo | 276895 | [276895-nettai-teikiatsu-shoujo.json](./276895-nettai-teikiatsu-shoujo.json) |
@@ -4094,7 +4089,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NexPets: Puppies | 382105 | [382105-nexpets-puppies.json](./382105-nexpets-puppies.json) |
 | Next | 83878 | [83878-next.json](./83878-next.json) |
 | Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
-| Next 3 | 95189 | [95189-next-3.json](./95189-next-3.json) |
 | Next Acre | 430141 | [430141-next-acre.json](./430141-next-acre.json) |
 | Next Action Frog | 395933 | [395933-next-action-frog.json](./395933-next-action-frog.json) |
 | Next Backgammon | 88796 | [88796-next-backgammon.json](./88796-next-backgammon.json) |
