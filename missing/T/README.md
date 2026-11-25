@@ -5976,6 +5976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tharsis | 15903 | [15903-tharsis.json](./15903-tharsis.json) |
 | That | 294538 | [294538-that.json](./294538-that.json) |
 | That Abysmal Place | 164097 | [164097-that-abysmal-place.json](./164097-that-abysmal-place.json) |
+| That Bastard is Trying to Steal Our Gold! | 33301 | [33301-that-bastard-is-trying-to-steal-our-gold.json](./33301-that-bastard-is-trying-to-steal-our-gold.json) |
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
 | That Bomb Game | 410566 | [410566-that-bomb-game.json](./410566-that-bomb-game.json) |
 | That Castle | 190019 | [190019-that-castle.json](./190019-that-castle.json) |
@@ -12284,6 +12285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunted: Hells Reach - The Island | 193226 | [193226-the-haunted-hells-reach-the-island.json](./193226-the-haunted-hells-reach-the-island.json) |
 | The Haunting | 133000 | [133000-the-haunting.json](./133000-the-haunting.json) |
 | The Haunting Eyes | 328696 | [328696-the-haunting-eyes.json](./328696-the-haunting-eyes.json) |
+| The Haunting of Billy | 33471 | [33471-the-haunting-of-billy.json](./33471-the-haunting-of-billy.json) |
 | The Haunting of Braidwood Manor | 313813 | [313813-the-haunting-of-braidwood-manor.json](./313813-the-haunting-of-braidwood-manor.json) |
 | The Haunting of Joni Evers | 290008 | [290008-the-haunting-of-joni-evers.json](./290008-the-haunting-of-joni-evers.json) |
 | The Haunting of Ptolemy | 341459 | [341459-the-haunting-of-ptolemy.json](./341459-the-haunting-of-ptolemy.json) |
@@ -15954,6 +15956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Memory Thieves | 321599 | [321599-the-memory-thieves.json](./321599-the-memory-thieves.json) |
 | The Memphis Chronicles | 405199 | [405199-the-memphis-chronicles.json](./405199-the-memphis-chronicles.json) |
 | The Men of Yoshiwara: Kikuya | 34964 | [34964-the-men-of-yoshiwara-kikuya.json](./34964-the-men-of-yoshiwara-kikuya.json) |
+| The Men of Yoshiwara: Ohgiya | 33398 | [33398-the-men-of-yoshiwara-ohgiya.json](./33398-the-men-of-yoshiwara-ohgiya.json) |
 | The Menacing | 156030 | [156030-the-menacing.json](./156030-the-menacing.json) |
 | The Menagerie | 80053 | [80053-the-menagerie.json](./80053-the-menagerie.json) |
 | The Mending | 263739 | [263739-the-mending.json](./263739-the-mending.json) |
@@ -16579,6 +16582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next Big Thing | 10958 | [10958-the-next-big-thing.json](./10958-the-next-big-thing.json) |
 | The Next Big Thing | 264879 | [264879-the-next-big-thing.json](./264879-the-next-big-thing.json) |
 | The Next Day After Friday | 89429 | [89429-the-next-day-after-friday.json](./89429-the-next-day-after-friday.json) |
+| The Next Door | 33405 | [33405-the-next-door.json](./33405-the-next-door.json) |
 | The Next Jianghu I | 155867 | [155867-the-next-jianghu-i.json](./155867-the-next-jianghu-i.json) |
 | The Next Journey of Life | 364773 | [364773-the-next-journey-of-life.json](./364773-the-next-journey-of-life.json) |
 | The Next Kingpin | 292569 | [292569-the-next-kingpin.json](./292569-the-next-kingpin.json) |
@@ -18825,6 +18829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
 | The Sentinel Remake | 212230 | [212230-the-sentinel-remake.json](./212230-the-sentinel-remake.json) |
 | The Sentinels | 395897 | [395897-the-sentinels.json](./395897-the-sentinels.json) |
+| The Sequence | 33425 | [33425-the-sequence.json](./33425-the-sequence.json) |
 | The Sequence 2 | 106766 | [106766-the-sequence-2.json](./106766-the-sequence-2.json) |
 | The Sequence 2 | 195836 | [195836-the-sequence-2.json](./195836-the-sequence-2.json) |
 | The Sequencer | 393950 | [393950-the-sequencer.json](./393950-the-sequencer.json) |
@@ -19931,6 +19936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Starfallen Prince | 385241 | [385241-the-starfallen-prince.json](./385241-the-starfallen-prince.json) |
 | The Starfighter | 371585 | [371585-the-starfighter.json](./371585-the-starfighter.json) |
 | The Starfire Soccer Challenge | 70383 | [70383-the-starfire-soccer-challenge.json](./70383-the-starfire-soccer-challenge.json) |
+| The Stargazers | 33478 | [33478-the-stargazers.json](./33478-the-stargazers.json) |
 | The Staring Man | 429073 | [429073-the-staring-man.json](./429073-the-staring-man.json) |
 | The Starlit Escape | 401979 | [401979-the-starlit-escape.json](./401979-the-starlit-escape.json) |
 | The Starlite Project | 273245 | [273245-the-starlite-project.json](./273245-the-starlite-project.json) |
@@ -21068,6 +21074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasures of Montezuma 3 | 17790 | [17790-the-treasures-of-montezuma-3.json](./17790-the-treasures-of-montezuma-3.json) |
 | The Treasures of Montezuma 4 Easter Bundle | 121421 | [121421-the-treasures-of-montezuma-4-easter-bundle.json](./121421-the-treasures-of-montezuma-4-easter-bundle.json) |
 | The Treasures of Montezuma 4 HD | 90871 | [90871-the-treasures-of-montezuma-4-hd.json](./90871-the-treasures-of-montezuma-4-hd.json) |
+| The Treasures of Montezuma 5 | 33510 | [33510-the-treasures-of-montezuma-5.json](./33510-the-treasures-of-montezuma-5.json) |
 | The Treasures of Mystery Island | 175802 | [175802-the-treasures-of-mystery-island.json](./175802-the-treasures-of-mystery-island.json) |
 | The Treasures of Mystery Island 2: The Gates of Fate | 53773 | [53773-the-treasures-of-mystery-island-2-the-gates-of-fate.json](./53773-the-treasures-of-mystery-island-2-the-gates-of-fate.json) |
 | The Treasures of Mystery Island 3: The Ghost Ship | 54295 | [54295-the-treasures-of-mystery-island-3-the-ghost-ship.json](./54295-the-treasures-of-mystery-island-3-the-ghost-ship.json) |
