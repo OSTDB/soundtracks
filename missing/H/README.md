@@ -24,7 +24,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | h Solitaire | 88445 | [88445-h-solitaire.json](./88445-h-solitaire.json) |
 | H to Maid to Mujintou | 416728 | [416728-h-to-maid-to-mujintou.json](./416728-h-to-maid-to-mujintou.json) |
 | H to Maid to My Home | 413760 | [413760-h-to-maid-to-my-home.json](./413760-h-to-maid-to-my-home.json) |
-| h What is the Common | 89806 | [89806-h-what-is-the-common.json](./89806-h-what-is-the-common.json) |
 | H-Craft Championship | 116412 | [116412-h-craft-championship.json](./116412-h-craft-championship.json) |
 | H-Hour: World's Elite | 17229 | [17229-h-hour-worlds-elite.json](./17229-h-hour-worlds-elite.json) |
 | H-Isekai Loves | 164091 | [164091-h-isekai-loves.json](./164091-h-isekai-loves.json) |
@@ -1522,7 +1521,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of the Divine | 294513 | [294513-hand-of-the-divine.json](./294513-hand-of-the-divine.json) |
 | Hand of the Goddess | 273919 | [273919-hand-of-the-goddess.json](./273919-hand-of-the-goddess.json) |
 | Hand of the Gods | 65837 | [65837-hand-of-the-gods.json](./65837-hand-of-the-gods.json) |
-| Hand of the Gods: Core Set Bundle | 90575 | [90575-hand-of-the-gods-core-set-bundle.json](./90575-hand-of-the-gods-core-set-bundle.json) |
 | Hand Physics Lab | 148704 | [148704-hand-physics-lab.json](./148704-hand-physics-lab.json) |
 | Hand Shadow | 217095 | [217095-hand-shadow.json](./217095-hand-shadow.json) |
 | Hand Simulator | 44143 | [44143-hand-simulator.json](./44143-hand-simulator.json) |
@@ -8227,7 +8225,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Nature | 372017 | [372017-hidden-nature.json](./372017-hidden-nature.json) |
 | Hidden Nemesis | 330636 | [330636-hidden-nemesis.json](./330636-hidden-nemesis.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
-| Hidden Object - 12 in 1 bundle | 90581 | [90581-hidden-object-12-in-1-bundle.json](./90581-hidden-object-12-in-1-bundle.json) |
 | Hidden Object - Home Makeover | 71572 | [71572-hidden-object-home-makeover.json](./71572-hidden-object-home-makeover.json) |
 | Hidden Object - Magic of Christmas | 71252 | [71252-hidden-object-magic-of-christmas.json](./71252-hidden-object-magic-of-christmas.json) |
 | Hidden Object - Spring is Here! | 71251 | [71251-hidden-object-spring-is-here.json](./71251-hidden-object-spring-is-here.json) |
@@ -10764,7 +10761,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Design 3D | 34050 | [34050-home-design-3d.json](./34050-home-design-3d.json) |
 | Home Design 3D VR | 276644 | [276644-home-design-3d-vr.json](./276644-home-design-3d-vr.json) |
 | Home Design Makeover | 245203 | [245203-home-design-makeover.json](./245203-home-design-makeover.json) |
-| Home Design Makeover! | 90416 | [90416-home-design-makeover.json](./90416-home-design-makeover.json) |
 | Home Designer Makeover Blast - Ryan's Christmas Living Room | 280545 | [280545-home-designer-makeover-blast-ryans-christmas-living-room.json](./280545-home-designer-makeover-blast-ryans-christmas-living-room.json) |
 | Home Designer Makeover Blast: Halloween | 271926 | [271926-home-designer-makeover-blast-halloween.json](./271926-home-designer-makeover-blast-halloween.json) |
 | Home Designer Makeover Blast: Jason's Industrial Loft | 255068 | [255068-home-designer-makeover-blast-jasons-industrial-loft.json](./255068-home-designer-makeover-blast-jasons-industrial-loft.json) |
@@ -13351,7 +13347,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Children's Collection | 71428 | [71428-hoyle-childrens-collection.json](./71428-hoyle-childrens-collection.json) |
 | Hoyle Classic Board Game Collection 1 | 90884 | [90884-hoyle-classic-board-game-collection-1.json](./90884-hoyle-classic-board-game-collection-1.json) |
 | Hoyle Classic Board Game Collection 2 | 89692 | [89692-hoyle-classic-board-game-collection-2.json](./89692-hoyle-classic-board-game-collection-2.json) |
-| Hoyle Classic Board Game Collection 3 | 90697 | [90697-hoyle-classic-board-game-collection-3.json](./90697-hoyle-classic-board-game-collection-3.json) |
 | Hoyle Classic Board Games | 131359 | [131359-hoyle-classic-board-games.json](./131359-hoyle-classic-board-games.json) |
 | Hoyle Classic Games | 71149 | [71149-hoyle-classic-games.json](./71149-hoyle-classic-games.json) |
 | Hoyle Club House Collection | 99892 | [99892-hoyle-club-house-collection.json](./99892-hoyle-club-house-collection.json) |
