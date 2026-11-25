@@ -6436,7 +6436,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceres - Harvest Among The Stars | 388165 | [388165-ceres-harvest-among-the-stars.json](./388165-ceres-harvest-among-the-stars.json) |
 | Ceres Fauna: Seasons of Promise | 285089 | [285089-ceres-fauna-seasons-of-promise.json](./285089-ceres-fauna-seasons-of-promise.json) |
 | Ceres M | 193938 | [193938-ceres-m.json](./193938-ceres-m.json) |
-| Ceress and Orea | 96651 | [96651-ceress-and-orea.json](./96651-ceress-and-orea.json) |
 | Cereus | 27047 | [27047-cereus.json](./27047-cereus.json) |
 | Cerevrum | 153337 | [153337-cerevrum.json](./153337-cerevrum.json) |
 | Cerita Jabar Sangkuriang | 214632 | [214632-cerita-jabar-sangkuriang.json](./214632-cerita-jabar-sangkuriang.json) |
@@ -15024,7 +15023,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comixxx Swap | 195741 | [195741-comixxx-swap.json](./195741-comixxx-swap.json) |
 | Comixxx Temptations | 286858 | [286858-comixxx-temptations.json](./286858-comixxx-temptations.json) |
 | Comma | 327090 | [327090-comma.json](./327090-comma.json) |
-| Commanager Tycoon | 98992 | [98992-commanager-tycoon.json](./98992-commanager-tycoon.json) |
 | Command | 137940 | [137940-command.json](./137940-command.json) |
 | Command & Colours: The Great War | 175382 | [175382-command-and-colours-the-great-war.json](./175382-command-and-colours-the-great-war.json) |
 | Command & Conquer 3: Alien Prophecies | 408360 | [408360-command-and-conquer-3-alien-prophecies.json](./408360-command-and-conquer-3-alien-prophecies.json) |
@@ -21570,7 +21568,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cry: Hunter's Record - Chapter 1 | 179944 | [179944-cry-hunters-record-chapter-1.json](./179944-cry-hunters-record-chapter-1.json) |
 | Cryamore | 63785 | [63785-cryamore.json](./63785-cryamore.json) |
 | Cryaxion | 215862 | [215862-cryaxion.json](./215862-cryaxion.json) |
-| Cryep | 98751 | [98751-cryep.json](./98751-cryep.json) |
 | Cryght | 188029 | [188029-cryght.json](./188029-cryght.json) |
 | Crying Alone | 277781 | [277781-crying-alone.json](./277781-crying-alone.json) |
 | Crying Aseimei Sendou | 45540 | [45540-crying-aseimei-sendou.json](./45540-crying-aseimei-sendou.json) |
