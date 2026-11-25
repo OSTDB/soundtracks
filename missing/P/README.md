@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packs World | 98827 | [98827-packs-world.json](./98827-packs-world.json) |
 | Packs World 2 | 98826 | [98826-packs-world-2.json](./98826-packs-world-2.json) |
 | Packs World 3D | 16589 | [16589-packs-world-3d.json](./16589-packs-world-3d.json) |
+| Packsmith | 430099 | [430099-packsmith.json](./430099-packsmith.json) |
 | Packy & Marlon | 42475 | [42475-packy-and-marlon.json](./42475-packy-and-marlon.json) |
 | PacMac Deluxe | 146224 | [146224-pacmac-deluxe.json](./146224-pacmac-deluxe.json) |
 | Pacmaga | 214249 | [214249-pacmaga.json](./214249-pacmaga.json) |
@@ -6528,6 +6529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhobLack | 312997 | [312997-phoblack.json](./312997-phoblack.json) |
 | PhoboChromaPhobia | 287310 | [287310-phobochromaphobia.json](./287310-phobochromaphobia.json) |
 | Phobolis | 255854 | [255854-phobolis.json](./255854-phobolis.json) |
+| Phobophilia Syndrome | 430015 | [430015-phobophilia-syndrome.json](./430015-phobophilia-syndrome.json) |
 | PhoboPhobia | 306479 | [306479-phobophobia.json](./306479-phobophobia.json) |
 | Phobophobia 1.0: The Experiment | 377905 | [377905-phobophobia-1-0-the-experiment.json](./377905-phobophobia-1-0-the-experiment.json) |
 | Phobos | 141096 | [141096-phobos.json](./141096-phobos.json) |
@@ -8657,6 +8659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Puzzle | 68929 | [68929-pipe-puzzle.json](./68929-pipe-puzzle.json) |
 | Pipe Race | 247326 | [247326-pipe-race.json](./247326-pipe-race.json) |
 | Pipe Skull | 185127 | [185127-pipe-skull.json](./185127-pipe-skull.json) |
+| Pipedog | 430027 | [430027-pipedog.json](./430027-pipedog.json) |
 | Pipedreamz | 396705 | [396705-pipedreamz.json](./396705-pipedreamz.json) |
 | Pipejob | 30771 | [30771-pipejob.json](./30771-pipejob.json) |
 | PipeLand | 200277 | [200277-pipeland.json](./200277-pipeland.json) |
