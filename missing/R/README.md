@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabid Gophers | 84409 | [84409-rabid-gophers.json](./84409-rabid-gophers.json) |
 | Rabid Helix | 257656 | [257656-rabid-helix.json](./257656-rabid-helix.json) |
 | Rabidja's Revenge | 366162 | [366162-rabidjas-revenge.json](./366162-rabidjas-revenge.json) |
+| Rabiez: Epidemic | 33347 | [33347-rabiez-epidemic.json](./33347-rabiez-epidemic.json) |
 | Rabio | 219169 | [219169-rabio.json](./219169-rabio.json) |
 | Rabio Lepus Special | 38066 | [38066-rabio-lepus-special.json](./38066-rabio-lepus-special.json) |
 | Rabisco+ | 147464 | [147464-rabisco.json](./147464-rabisco.json) |
@@ -1800,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Championships | 12739 | [12739-rally-championships.json](./12739-rally-championships.json) |
 | Rally Chase | 75514 | [75514-rally-chase.json](./75514-rally-chase.json) |
 | Rally Clash | 256140 | [256140-rally-clash.json](./256140-rally-clash.json) |
+| Rally Copters | 33424 | [33424-rally-copters.json](./33424-rally-copters.json) |
 | Rally Cross | 283024 | [283024-rally-cross.json](./283024-rally-cross.json) |
 | Rally Cross | 8647 | [8647-rally-cross.json](./8647-rally-cross.json) |
 | Rally Cross 2 | 8648 | [8648-rally-cross-2.json](./8648-rally-cross-2.json) |
