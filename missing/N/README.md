@@ -1532,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA In the Zone 2000 | 43718 | [43718-nba-in-the-zone-2000.json](./43718-nba-in-the-zone-2000.json) |
 | NBA Infinite | 257015 | [257015-nba-infinite.json](./257015-nba-infinite.json) |
 | NBA Inside Drive 2000 | 79656 | [79656-nba-inside-drive-2000.json](./79656-nba-inside-drive-2000.json) |
+| NBA Inside Drive 2002 | 23446 | [23446-nba-inside-drive-2002.json](./23446-nba-inside-drive-2002.json) |
 | NBA Inside Drive 2003 | 47358 | [47358-nba-inside-drive-2003.json](./47358-nba-inside-drive-2003.json) |
 | NBA Inside Drive 2004 | 24124 | [24124-nba-inside-drive-2004.json](./24124-nba-inside-drive-2004.json) |
 | NBA Jam | 198835 | [198835-nba-jam.json](./198835-nba-jam.json) |
