@@ -2912,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarot | 182718 | [182718-tarot.json](./182718-tarot.json) |
 | Tarot | 334355 | [334355-tarot.json](./334355-tarot.json) |
 | Tarot | 95371 | [95371-tarot.json](./95371-tarot.json) |
+| Tarot Gothique 2026 | 428821 | [428821-tarot-gothique-2026.json](./428821-tarot-gothique-2026.json) |
 | Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
 | Tarot Readings Premium | 118741 | [118741-tarot-readings-premium.json](./118741-tarot-readings-premium.json) |
 | Tarot Realms | 293060 | [293060-tarot-realms.json](./293060-tarot-realms.json) |
@@ -31979,6 +31980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story Mania! | 5241 | [5241-toy-story-mania.json](./5241-toy-story-mania.json) |
 | Toy Story Racer | 18944 | [18944-toy-story-racer.json](./18944-toy-story-racer.json) |
 | Toy Story Racer | 404086 | [404086-toy-story-racer.json](./404086-toy-story-racer.json) |
+| Toy Story Racer / Toy Story 2: Woody and Buzz Bundle | 424421 | [424421-toy-story-racer-toy-story-2-woody-and-buzz-bundle.json](./424421-toy-story-racer-toy-story-2-woody-and-buzz-bundle.json) |
 | Toy Story Survivor | 231890 | [231890-toy-story-survivor.json](./231890-toy-story-survivor.json) |
 | Toy Story Tamagotchi | 230076 | [230076-toy-story-tamagotchi.json](./230076-toy-story-tamagotchi.json) |
 | Toy Story: Free! Interactive DVD-ROM | 325573 | [325573-toy-story-free-interactive-dvd-rom.json](./325573-toy-story-free-interactive-dvd-rom.json) |
