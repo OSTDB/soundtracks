@@ -9,7 +9,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | _____ | 191680 | [191680-.json](./191680-.json) |
 | _________ (What Even Is That Thing?) | 186066 | [186066-what-even-is-that-thing.json](./186066-what-even-is-that-thing.json) |
 | __________ | 176875 | [176875-.json](./176875-.json) |
-| _-_ | 92204 | [92204-.json](./92204-.json) |
 | _Access | 79403 | [79403-access.json](./79403-access.json) |
 | _Dive | 104895 | [104895-dive.json](./104895-dive.json) |
 | _Message: | 273453 | [273453-message.json](./273453-message.json) |
@@ -2781,7 +2780,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Cyber Puck | 300012 | [300012-3d-cyber-puck.json](./300012-3d-cyber-puck.json) |
 | 3D Dark-Stalker: Destruction Simulator | 180330 | [180330-3d-dark-stalker-destruction-simulator.json](./180330-3d-dark-stalker-destruction-simulator.json) |
 | 3D Deathchase | 23075 | [23075-3d-deathchase.json](./23075-3d-deathchase.json) |
-| 3D Deer Sniper Hunting Game 2017 | 94783 | [94783-3d-deer-sniper-hunting-game-2017.json](./94783-3d-deer-sniper-hunting-game-2017.json) |
 | 3D Defenders | 140266 | [140266-3d-defenders.json](./140266-3d-defenders.json) |
 | 3D Dinosaur Hunter | 263459 | [263459-3d-dinosaur-hunter.json](./263459-3d-dinosaur-hunter.json) |
 | 3D Don't Die Mr Robot | 219510 | [219510-3d-dont-die-mr-robot.json](./219510-3d-dont-die-mr-robot.json) |
@@ -3878,7 +3876,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 & 9 Ball Pocket | 186943 | [186943-8-and-9-ball-pocket.json](./186943-8-and-9-ball-pocket.json) |
 | 8 & 9 Ballpocket | 278239 | [278239-8-and-9-ballpocket.json](./278239-8-and-9-ballpocket.json) |
 | 8 Ball | 14150 | [14150-8-ball.json](./14150-8-ball.json) |
-| 8 Ball | 90860 | [90860-8-ball.json](./90860-8-ball.json) |
 | 8 Ball 2 | 219515 | [219515-8-ball-2.json](./219515-8-ball-2.json) |
 | 8 Ball 3 | 232450 | [232450-8-ball-3.json](./232450-8-ball-3.json) |
 | 8 Ball 4 | 400987 | [400987-8-ball-4.json](./400987-8-ball-4.json) |
@@ -4309,6 +4306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ødeborg | 356297 | [356297-deborg.json](./356297-deborg.json) |
 | Öhlins Hyper-Rally | 57871 | [57871-ohlins-hyper-rally.json](./57871-ohlins-hyper-rally.json) |
 | Ōkamiden | 16618 | [16618-okamiden.json](./16618-okamiden.json) |
+| Öoo ElecHead Double Pack | 422023 | [422023-ooo-elechead-double-pack.json](./422023-ooo-elechead-double-pack.json) |
 | Ôpe | 130531 | [130531-ope.json](./130531-ope.json) |
 | Örnöga: Idle | 344651 | [344651-ornoga-idle.json](./344651-ornoga-idle.json) |
 | ​Our Life: Beginnings & Always - Cove Wedding Story | 187442 | [187442-our-life-beginnings-and-always-cove-wedding-story.json](./187442-our-life-beginnings-and-always-cove-wedding-story.json) |
