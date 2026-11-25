@@ -3770,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms VR | 164241 | [164241-realms-vr.json](./164241-realms-vr.json) |
 | RealmScape | 341305 | [341305-realmscape.json](./341305-realmscape.json) |
 | Realmstone | 118980 | [118980-realmstone.json](./118980-realmstone.json) |
+| Realmwake | 431367 | [431367-realmwake.json](./431367-realmwake.json) |
 | Realmweaver | 291192 | [291192-realmweaver.json](./291192-realmweaver.json) |
 | realMyst | 16198 | [16198-realmyst.json](./16198-realmyst.json) |
 | Realmz | 94900 | [94900-realmz.json](./94900-realmz.json) |
@@ -6724,6 +6725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rest House 2: The Wizard | 131593 | [131593-rest-house-2-the-wizard.json](./131593-rest-house-2-the-wizard.json) |
 | Rest House III: Chlorophilia | 247146 | [247146-rest-house-iii-chlorophilia.json](./247146-rest-house-iii-chlorophilia.json) |
 | Rest in Jelly | 68174 | [68174-rest-in-jelly.json](./68174-rest-in-jelly.json) |
+| Rest in Order: Cozy Tomb Tidy Up | 431383 | [431383-rest-in-order-cozy-tomb-tidy-up.json](./431383-rest-in-order-cozy-tomb-tidy-up.json) |
 | Rest in Paws | 358877 | [358877-rest-in-paws.json](./358877-rest-in-paws.json) |
 | Rest In Peace | 174006 | [174006-rest-in-peace.json](./174006-rest-in-peace.json) |
 | Rest In Peace | 30057 | [30057-rest-in-peace.json](./30057-rest-in-peace.json) |
@@ -9832,6 +9834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Vostok | 217304 | [217304-road-to-vostok.json](./217304-road-to-vostok.json) |
 | Road to Wealth | 348873 | [348873-road-to-wealth.json](./348873-road-to-wealth.json) |
 | Road to Yvhalon | 392068 | [392068-road-to-yvhalon.json](./392068-road-to-yvhalon.json) |
+| Road to Zero | 431422 | [431422-road-to-zero.json](./431422-road-to-zero.json) |
 | Road Toad | 290485 | [290485-road-toad.json](./290485-road-toad.json) |
 | Road Toads | 333135 | [333135-road-toads.json](./333135-road-toads.json) |
 | Road Trip | 166458 | [166458-road-trip.json](./166458-road-trip.json) |
@@ -10736,6 +10739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Paper Scissors Ultimate | 217440 | [217440-rock-paper-scissors-ultimate.json](./217440-rock-paper-scissors-ultimate.json) |
 | Rock Paper Scissors: Breakthrough Gaming Arcade | 199781 | [199781-rock-paper-scissors-breakthrough-gaming-arcade.json](./199781-rock-paper-scissors-breakthrough-gaming-arcade.json) |
 | Rock Paper Scissors: Breakthrough Gaming Arcade - Challenge Mode Edition | 207073 | [207073-rock-paper-scissors-breakthrough-gaming-arcade-challenge-mode-edition.json](./207073-rock-paper-scissors-breakthrough-gaming-arcade-challenge-mode-edition.json) |
+| Rock Paper Scissors: Cheap Shots | 431446 | [431446-rock-paper-scissors-cheap-shots.json](./431446-rock-paper-scissors-cheap-shots.json) |
 | Rock Paper Scissors: Extreme Deathmatch | 387956 | [387956-rock-paper-scissors-extreme-deathmatch.json](./387956-rock-paper-scissors-extreme-deathmatch.json) |
 | Rock Paper Scissors: The Final Match | 369705 | [369705-rock-paper-scissors-the-final-match.json](./369705-rock-paper-scissors-the-final-match.json) |
 | Rock Paper Scissors: The Roguelike Puzzle Game | 410207 | [410207-rock-paper-scissors-the-roguelike-puzzle-game.json](./410207-rock-paper-scissors-the-roguelike-puzzle-game.json) |
@@ -11911,6 +11915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll for the Galaxy | 138508 | [138508-roll-for-the-galaxy.json](./138508-roll-for-the-galaxy.json) |
 | Roll Freak | 238807 | [238807-roll-freak.json](./238807-roll-freak.json) |
 | Roll Golf | 417914 | [417914-roll-golf.json](./417914-roll-golf.json) |
+| Roll in Paradise | 431377 | [431377-roll-in-paradise.json](./431377-roll-in-paradise.json) |
 | Roll in the Hole | 64670 | [64670-roll-in-the-hole.json](./64670-roll-in-the-hole.json) |
 | Roll It to the End | 244718 | [244718-roll-it-to-the-end.json](./244718-roll-it-to-the-end.json) |
 | Roll Mad | 397720 | [397720-roll-mad.json](./397720-roll-mad.json) |
