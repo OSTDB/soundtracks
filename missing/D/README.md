@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Clash: Ballet vs Hip Hop | 89111 | [89111-dance-clash-ballet-vs-hip-hop.json](./89111-dance-clash-ballet-vs-hip-hop.json) |
 | Dance Cube | 277186 | [277186-dance-cube.json](./277186-dance-cube.json) |
 | Dance Dance Girl | 121148 | [121148-dance-dance-girl.json](./121148-dance-dance-girl.json) |
+| Dance Dance Incremental | 431291 | [431291-dance-dance-incremental.json](./431291-dance-dance-incremental.json) |
 | Dance Dance Revolution | 135396 | [135396-dance-dance-revolution.json](./135396-dance-dance-revolution.json) |
 | Dance Dance Revolution | 135549 | [135549-dance-dance-revolution.json](./135549-dance-dance-revolution.json) |
 | Dance Dance Revolution | 140274 | [140274-dance-dance-revolution.json](./140274-dance-dance-revolution.json) |
@@ -2968,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data.Expand | 260146 | [260146-data-expand.json](./260146-data-expand.json) |
 | Database Detective: Minor Crimes Division | 399848 | [399848-database-detective-minor-crimes-division.json](./399848-database-detective-minor-crimes-division.json) |
 | Databugs | 267764 | [267764-databugs.json](./267764-databugs.json) |
+| DataCenter Tycoon | 431304 | [431304-datacenter-tycoon.json](./431304-datacenter-tycoon.json) |
 | Dataclysm | 327855 | [327855-dataclysm.json](./327855-dataclysm.json) |
 | DataFall | 393464 | [393464-datafall.json](./393464-datafall.json) |
 | Dataflow | 112353 | [112353-dataflow.json](./112353-dataflow.json) |
@@ -18295,6 +18297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawmi: Card Shop | 416261 | [416261-drawmi-card-shop.json](./416261-drawmi-card-shop.json) |
 | Drawmi: Creature Collector | 416374 | [416374-drawmi-creature-collector.json](./416374-drawmi-creature-collector.json) |
 | Drawmi: Terraform Sim | 424696 | [424696-drawmi-terraform-sim.json](./424696-drawmi-terraform-sim.json) |
+| Drawmi: Twin Stick | 431347 | [431347-drawmi-twin-stick.json](./431347-drawmi-twin-stick.json) |
 | Drawn Before | 401615 | [401615-drawn-before.json](./401615-drawn-before.json) |
 | Drawn Down | 117448 | [117448-drawn-down.json](./117448-drawn-down.json) |
 | Drawn Down Abyss | 123730 | [123730-drawn-down-abyss.json](./123730-drawn-down-abyss.json) |
@@ -22530,6 +22533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Basketball Manager | 414943 | [414943-dynasty-basketball-manager.json](./414943-dynasty-basketball-manager.json) |
 | Dynasty Blades | 58102 | [58102-dynasty-blades.json](./58102-dynasty-blades.json) |
 | Dynasty Detective | 249943 | [249943-dynasty-detective.json](./249943-dynasty-detective.json) |
+| Dynasty Divided: A Three Kingdoms Saga | 431226 | [431226-dynasty-divided-a-three-kingdoms-saga.json](./431226-dynasty-divided-a-three-kingdoms-saga.json) |
 | Dynasty Feud | 27080 | [27080-dynasty-feud.json](./27080-dynasty-feud.json) |
 | Dynasty Feud: The Night Party | 171406 | [171406-dynasty-feud-the-night-party.json](./171406-dynasty-feud-the-night-party.json) |
 | Dynasty Heroes: Romance Samkok | 194061 | [194061-dynasty-heroes-romance-samkok.json](./194061-dynasty-heroes-romance-samkok.json) |
