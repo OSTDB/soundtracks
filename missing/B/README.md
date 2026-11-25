@@ -9644,6 +9644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird | 170496 | [170496-bird.json](./170496-bird.json) |
 | Bird | 380010 | [380010-bird.json](./380010-bird.json) |
 | Bird & Beans | 308408 | [308408-bird-and-beans.json](./308408-bird-and-beans.json) |
+| Bird & Beans | 70765 | [70765-bird-and-beans.json](./70765-bird-and-beans.json) |
 | Bird Alone | 135897 | [135897-bird-alone.json](./135897-bird-alone.json) |
 | Bird and Beans | 201999 | [201999-bird-and-beans.json](./201999-bird-and-beans.json) |
 | Bird and Beast Fantasy | 195003 | [195003-bird-and-beast-fantasy.json](./195003-bird-and-beast-fantasy.json) |
@@ -11710,6 +11711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Justice | 2432 | [2432-blind-justice.json](./2432-blind-justice.json) |
 | Blind Love | 30009 | [30009-blind-love.json](./30009-blind-love.json) |
 | Blind Man's Sun | 369330 | [369330-blind-mans-sun.json](./369330-blind-mans-sun.json) |
+| Blind Men | 44176 | [44176-blind-men.json](./44176-blind-men.json) |
 | Blind Mind | 96877 | [96877-blind-mind.json](./96877-blind-mind.json) |
 | Blind Monk's Society | 201765 | [201765-blind-monks-society.json](./201765-blind-monks-society.json) |
 | Blind Panic | 72526 | [72526-blind-panic.json](./72526-blind-panic.json) |
@@ -21334,6 +21336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz! De slimste van Nederland | 77281 | [77281-buzz-de-slimste-van-nederland.json](./77281-buzz-de-slimste-van-nederland.json) |
 | Buzz! Junior: Dino Den | 43507 | [43507-buzz-junior-dino-den.json](./43507-buzz-junior-dino-den.json) |
 | Buzz! Junior: Jungle Party | 21524 | [21524-buzz-junior-jungle-party.json](./21524-buzz-junior-jungle-party.json) |
+| Buzz! Junior: Monster Rumble | 43506 | [43506-buzz-junior-monster-rumble.json](./43506-buzz-junior-monster-rumble.json) |
 | Buzz! Junior: Robo Jam | 44710 | [44710-buzz-junior-robo-jam.json](./44710-buzz-junior-robo-jam.json) |
 | Buzz! Quiz TV Bundle | 43045 | [43045-buzz-quiz-tv-bundle.json](./43045-buzz-quiz-tv-bundle.json) |
 | Buzz! The Big Quiz | 18716 | [18716-buzz-the-big-quiz.json](./18716-buzz-the-big-quiz.json) |
