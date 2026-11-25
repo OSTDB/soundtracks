@@ -5220,6 +5220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life in the Analog Age: Rainy Day | 181871 | [181871-life-in-the-analog-age-rainy-day.json](./181871-life-in-the-analog-age-rainy-day.json) |
 | Life in the Crater Lake | 407827 | [407827-life-in-the-crater-lake.json](./407827-life-in-the-crater-lake.json) |
 | Life in the Dorms | 107031 | [107031-life-in-the-dorms.json](./107031-life-in-the-dorms.json) |
+| Life in the Fast Lane | 74057 | [74057-life-in-the-fast-lane.json](./74057-life-in-the-fast-lane.json) |
 | Life in the Janitor's Room with a JK Girl | 347391 | [347391-life-in-the-janitors-room-with-a-jk-girl.json](./347391-life-in-the-janitors-room-with-a-jk-girl.json) |
 | Life in the Machine | 189208 | [189208-life-in-the-machine.json](./189208-life-in-the-machine.json) |
 | Life in the Static | 128838 | [128838-life-in-the-static.json](./128838-life-in-the-static.json) |
@@ -5800,6 +5801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightspeer | 137759 | [137759-lightspeer.json](./137759-lightspeer.json) |
 | Lightspire: Fortunes Web | 69202 | [69202-lightspire-fortunes-web.json](./69202-lightspire-fortunes-web.json) |
 | LightSprites | 261186 | [261186-lightsprites.json](./261186-lightsprites.json) |
+| Lightstep Chronicles | 112851 | [112851-lightstep-chronicles.json](./112851-lightstep-chronicles.json) |
 | Lightstream Racer | 100163 | [100163-lightstream-racer.json](./100163-lightstream-racer.json) |
 | LightStrike | 29784 | [29784-lightstrike.json](./29784-lightstrike.json) |
 | LightSup! | 259021 | [259021-lightsup.json](./259021-lightsup.json) |
@@ -6402,6 +6404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LingTian 2: Your Destined Prince | 334525 | [334525-lingtian-2-your-destined-prince.json](./334525-lingtian-2-your-destined-prince.json) |
 | LingTian1 | 292995 | [292995-lingtian1.json](./292995-lingtian1.json) |
 | Língua | 172873 | [172873-lingua.json](./172873-lingua.json) |
+| Lingua Fleur: Lily | 112700 | [112700-lingua-fleur-lily.json](./112700-lingua-fleur-lily.json) |
 | Lingua Franca | 371920 | [371920-lingua-franca.json](./371920-lingua-franca.json) |
 | Lingua Magicka | 89342 | [89342-lingua-magicka.json](./89342-lingua-magicka.json) |
 | Linguist FPS: The Language Learning FPS | 202108 | [202108-linguist-fps-the-language-learning-fps.json](./202108-linguist-fps-the-language-learning-fps.json) |
@@ -8540,6 +8543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LongPath | 150436 | [150436-longpath.json](./150436-longpath.json) |
 | Longphort | 164112 | [164112-longphort.json](./164112-longphort.json) |
 | Longshot Universe | 28259 | [28259-longshot-universe.json](./28259-longshot-universe.json) |
+| LongStory | 74495 | [74495-longstory.json](./74495-longstory.json) |
 | LongStory 2 | 253480 | [253480-longstory-2.json](./253480-longstory-2.json) |
 | Longsword Tabletop Tactics | 41045 | [41045-longsword-tabletop-tactics.json](./41045-longsword-tabletop-tactics.json) |
 | Longtail!! | 351080 | [351080-longtail.json](./351080-longtail.json) |
