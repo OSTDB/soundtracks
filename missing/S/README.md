@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Melody | 216921 | [216921-sakura-melody.json](./216921-sakura-melody.json) |
 | Sakura Mirror | 235413 | [235413-sakura-mirror.json](./235413-sakura-mirror.json) |
 | Sakura MMO | 110779 | [110779-sakura-mmo.json](./110779-sakura-mmo.json) |
+| Sakura MMO 2 | 113123 | [113123-sakura-mmo-2.json](./113123-sakura-mmo-2.json) |
 | Sakura MMO 3 | 119492 | [119492-sakura-mmo-3.json](./119492-sakura-mmo-3.json) |
 | Sakura MMO Extra | 142522 | [142522-sakura-mmo-extra.json](./142522-sakura-mmo-extra.json) |
 | Sakura Mochi | 167485 | [167485-sakura-mochi.json](./167485-sakura-mochi.json) |
@@ -8936,6 +8937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatter Quest | 31007 | [31007-shatter-quest.json](./31007-shatter-quest.json) |
 | Shatter Realm | 257147 | [257147-shatter-realm.json](./257147-shatter-realm.json) |
 | Shatter Remastered | 295433 | [295433-shatter-remastered.json](./295433-shatter-remastered.json) |
+| Shatter Remastered Deluxe | 202146 | [202146-shatter-remastered-deluxe.json](./202146-shatter-remastered-deluxe.json) |
 | Shatter Sky | 148676 | [148676-shatter-sky.json](./148676-shatter-sky.json) |
 | Shatter: Physics Breaker | 417453 | [417453-shatter-physics-breaker.json](./417453-shatter-physics-breaker.json) |
 | Shatterbound | 291053 | [291053-shatterbound.json](./291053-shatterbound.json) |
@@ -12638,7 +12640,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverwing | 159428 | [159428-silverwing.json](./159428-silverwing.json) |
 | Silverwood Bay: An Eleanor Grey Mystery | 291246 | [291246-silverwood-bay-an-eleanor-grey-mystery.json](./291246-silverwood-bay-an-eleanor-grey-mystery.json) |
 | Silverwood Bay: An Eleanor Grey Mystery - Collector's Edition | 426443 | [426443-silverwood-bay-an-eleanor-grey-mystery-collectors-edition.json](./426443-silverwood-bay-an-eleanor-grey-mystery-collectors-edition.json) |
-| Silverworld | 98770 | [98770-silverworld.json](./98770-silverworld.json) |
 | Silverybield Foss | 138778 | [138778-silverybield-foss.json](./138778-silverybield-foss.json) |
 | Sim Brick | 57216 | [57216-sim-brick.json](./57216-sim-brick.json) |
 | SIM Chef: Restaurant management | 197047 | [197047-sim-chef-restaurant-management.json](./197047-sim-chef-restaurant-management.json) |
@@ -28451,6 +28452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek Online: Rise of Discovery | 120207 | [120207-star-trek-online-rise-of-discovery.json](./120207-star-trek-online-rise-of-discovery.json) |
 | Star Trek Online: Victory is Life | 113621 | [113621-star-trek-online-victory-is-life.json](./113621-star-trek-online-victory-is-life.json) |
 | Star Trek Pinball | 72149 | [72149-star-trek-pinball.json](./72149-star-trek-pinball.json) |
+| Star Trek Prodigy: Supernova | 202419 | [202419-star-trek-prodigy-supernova.json](./202419-star-trek-prodigy-supernova.json) |
 | Star Trek Scene It? | 216322 | [216322-star-trek-scene-it.json](./216322-star-trek-scene-it.json) |
 | Star Trek Trexels | 123152 | [123152-star-trek-trexels.json](./123152-star-trek-trexels.json) |
 | Star Trek Trexels II | 108463 | [108463-star-trek-trexels-ii.json](./108463-star-trek-trexels-ii.json) |
@@ -33274,6 +33276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strinova Mobile | 350533 | [350533-strinova-mobile.json](./350533-strinova-mobile.json) |
 | Strip 'Em | 238579 | [238579-strip-em.json](./238579-strip-em.json) |
 | Strip 'Em II: Facka's Game | 385896 | [385896-strip-em-ii-fackas-game.json](./385896-strip-em-ii-fackas-game.json) |
+| Strip 4: Classmate Study | 130057 | [130057-strip-4-classmate-study.json](./130057-strip-4-classmate-study.json) |
 | Strip Battle | 296990 | [296990-strip-battle.json](./296990-strip-battle.json) |
 | Strip Battle Action Cards | 344592 | [344592-strip-battle-action-cards.json](./344592-strip-battle-action-cards.json) |
 | Strip Black Jack: At the Pub | 174115 | [174115-strip-black-jack-at-the-pub.json](./174115-strip-black-jack-at-the-pub.json) |
