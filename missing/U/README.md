@@ -1969,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Your Spell | 327779 | [327779-under-your-spell.json](./327779-under-your-spell.json) |
 | Under: Depths of Fear | 122715 | [122715-under-depths-of-fear.json](./122715-under-depths-of-fear.json) |
 | UnderBackrooms | 235054 | [235054-underbackrooms.json](./235054-underbackrooms.json) |
+| Underbloom | 431248 | [431248-underbloom.json](./431248-underbloom.json) |
 | Underboard | 245819 | [245819-underboard.json](./245819-underboard.json) |
 | Undercards | 57109 | [57109-undercards.json](./57109-undercards.json) |
 | Undercat | 158579 | [158579-undercat.json](./158579-undercat.json) |
