@@ -3683,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Volleyball | 129395 | [129395-king-of-volleyball.json](./129395-king-of-volleyball.json) |
 | King of Water | 220915 | [220915-king-of-water.json](./220915-king-of-water.json) |
 | King of Wildlings | 27810 | [27810-king-of-wildlings.json](./27810-king-of-wildlings.json) |
+| King or Fail | 423542 | [423542-king-or-fail.json](./423542-king-or-fail.json) |
 | King Out | 422141 | [422141-king-out.json](./422141-king-out.json) |
 | King Pig | 203669 | [203669-king-pig.json](./203669-king-pig.json) |
 | King Pins | 140452 | [140452-king-pins.json](./140452-king-pins.json) |
@@ -5304,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightmare | 13011 | [13011-knightmare.json](./13011-knightmare.json) |
 | Knightmare | 13670 | [13670-knightmare.json](./13670-knightmare.json) |
 | Knightmare | 163950 | [163950-knightmare.json](./163950-knightmare.json) |
+| Knightmare | 426574 | [426574-knightmare.json](./426574-knightmare.json) |
 | Knightmare Gold | 259255 | [259255-knightmare-gold.json](./259255-knightmare-gold.json) |
 | Knightmare II: The Maze of Galious | 361716 | [361716-knightmare-ii-the-maze-of-galious.json](./361716-knightmare-ii-the-maze-of-galious.json) |
 | Knightmare II: The Maze of Galious | 36671 | [36671-knightmare-ii-the-maze-of-galious.json](./36671-knightmare-ii-the-maze-of-galious.json) |
