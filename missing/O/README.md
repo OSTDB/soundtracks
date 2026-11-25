@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ohmygod Are You Alright? | 59724 | [59724-ohmygod-are-you-alright.json](./59724-ohmygod-are-you-alright.json) |
 | OhMyRace! | 274900 | [274900-ohmyrace.json](./274900-ohmyrace.json) |
 | OhMyWitch! | 266876 | [266876-ohmywitch.json](./266876-ohmywitch.json) |
+| Ohno Odyssey | 23519 | [23519-ohno-odyssey.json](./23519-ohno-odyssey.json) |
 | Ohota Krepkoe | 43102 | [43102-ohota-krepkoe.json](./43102-ohota-krepkoe.json) |
 | Ohr | 35055 | [35055-ohr.json](./35055-ohr.json) |
 | Ohr Oni | 186620 | [186620-ohr-oni.json](./186620-ohr-oni.json) |
@@ -5763,6 +5764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Park Baseball 25 | 287086 | [287086-out-of-the-park-baseball-25.json](./287086-out-of-the-park-baseball-25.json) |
 | Out of the Park Baseball 26 | 329661 | [329661-out-of-the-park-baseball-26.json](./329661-out-of-the-park-baseball-26.json) |
 | Out of the Park Baseball 3 | 73596 | [73596-out-of-the-park-baseball-3.json](./73596-out-of-the-park-baseball-3.json) |
+| Out of the Park Baseball 4 | 23458 | [23458-out-of-the-park-baseball-4.json](./23458-out-of-the-park-baseball-4.json) |
 | Out of the Park Baseball 5 | 66490 | [66490-out-of-the-park-baseball-5.json](./66490-out-of-the-park-baseball-5.json) |
 | Out of the Shadows | 343199 | [343199-out-of-the-shadows.json](./343199-out-of-the-shadows.json) |
 | Out of the Shelter | 156701 | [156701-out-of-the-shelter.json](./156701-out-of-the-shelter.json) |
