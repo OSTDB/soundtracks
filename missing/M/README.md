@@ -7199,6 +7199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Art: Red | 387489 | [387489-maze-art-red.json](./387489-maze-art-red.json) |
 | Maze Art: Yellow | 190855 | [190855-maze-art-yellow.json](./190855-maze-art-yellow.json) |
 | Maze Ball Neon | 176367 | [176367-maze-ball-neon.json](./176367-maze-ball-neon.json) |
+| Maze Bandit | 43177 | [43177-maze-bandit.json](./43177-maze-bandit.json) |
 | Maze Banquet | 155950 | [155950-maze-banquet.json](./155950-maze-banquet.json) |
 | Maze Blaze | 219287 | [219287-maze-blaze.json](./219287-maze-blaze.json) |
 | Maze Break | 56415 | [56415-maze-break.json](./56415-maze-break.json) |
@@ -7478,6 +7479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McDonaldland | 285031 | [285031-mcdonaldland.json](./285031-mcdonaldland.json) |
 | McDoomguy's Slaughterific Sample Platter | 307814 | [307814-mcdoomguys-slaughterific-sample-platter.json](./307814-mcdoomguys-slaughterific-sample-platter.json) |
 | McDroid | 16689 | [16689-mcdroid.json](./16689-mcdroid.json) |
+| McFarlane's Evil Prophecy | 43633 | [43633-mcfarlanes-evil-prophecy.json](./43633-mcfarlanes-evil-prophecy.json) |
 | McGroovz Dance Craze | 209535 | [209535-mcgroovz-dance-craze.json](./209535-mcgroovz-dance-craze.json) |
 | McKenzie & Co. | 78442 | [78442-mckenzie-and-co.json](./78442-mckenzie-and-co.json) |
 | McKenzie & Co.: More Friends | 94465 | [94465-mckenzie-and-co-more-friends.json](./94465-mckenzie-and-co-more-friends.json) |
@@ -9259,6 +9261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Match | 209530 | [209530-mega-match.json](./209530-mega-match.json) |
 | Mega Math | 19670 | [19670-mega-math.json](./19670-mega-math.json) |
 | Mega Math Blaster | 10675 | [10675-mega-math-blaster.json](./10675-mega-math-blaster.json) |
+| Mega Maze | 44287 | [44287-mega-maze.json](./44287-mega-maze.json) |
 | Mega Memory | 389915 | [389915-mega-memory.json](./389915-mega-memory.json) |
 | Mega Merge | 414874 | [414874-mega-merge.json](./414874-mega-merge.json) |
 | Mega Met | 326496 | [326496-mega-met.json](./326496-mega-met.json) |
@@ -13221,6 +13224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic: Duel of Champions - Time of Renewal | 383117 | [383117-might-and-magic-duel-of-champions-time-of-renewal.json](./383117-might-and-magic-duel-of-champions-time-of-renewal.json) |
 | Might & Magic: Duel of Champions - Void Rising | 383109 | [383109-might-and-magic-duel-of-champions-void-rising.json](./383109-might-and-magic-duel-of-champions-void-rising.json) |
 | Might & Magic: Dynasty | 170779 | [170779-might-and-magic-dynasty.json](./170779-might-and-magic-dynasty.json) |
+| Might & Magic: Elemental Guardians | 70707 | [70707-might-and-magic-elemental-guardians.json](./70707-might-and-magic-elemental-guardians.json) |
 | Might & Magic: Heroes Kingdoms | 66416 | [66416-might-and-magic-heroes-kingdoms.json](./66416-might-and-magic-heroes-kingdoms.json) |
 | Might & Magic: Heroes Online | 20177 | [20177-might-and-magic-heroes-online.json](./20177-might-and-magic-heroes-online.json) |
 | Might & Magic: Heroes VI | 373 | [373-might-and-magic-heroes-vi.json](./373-might-and-magic-heroes-vi.json) |
