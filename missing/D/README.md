@@ -8545,6 +8545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Garden | 177478 | [177478-desktop-garden.json](./177478-desktop-garden.json) |
 | Desktop Garden | 377977 | [377977-desktop-garden.json](./377977-desktop-garden.json) |
 | Desktop Girlfriend Neo | 384815 | [384815-desktop-girlfriend-neo.json](./384815-desktop-girlfriend-neo.json) |
+| Desktop Goblins | 430907 | [430907-desktop-goblins.json](./430907-desktop-goblins.json) |
 | Desktop Golf | 336430 | [336430-desktop-golf.json](./336430-desktop-golf.json) |
 | Desktop Golf | 376367 | [376367-desktop-golf.json](./376367-desktop-golf.json) |
 | Desktop Goose | 135622 | [135622-desktop-goose.json](./135622-desktop-goose.json) |
@@ -9745,6 +9746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo III: Battle Chest | 136083 | [136083-diablo-iii-battle-chest.json](./136083-diablo-iii-battle-chest.json) |
 | Diablo III: Collector's Edition | 136279 | [136279-diablo-iii-collectors-edition.json](./136279-diablo-iii-collectors-edition.json) |
 | Diablo III: Eternal Collection | 90628 | [90628-diablo-iii-eternal-collection.json](./90628-diablo-iii-eternal-collection.json) |
+| Diablo III: Eternal Collection Switch Recomp | 430956 | [430956-diablo-iii-eternal-collection-switch-recomp.json](./430956-diablo-iii-eternal-collection-switch-recomp.json) |
 | Diablo III: Reaper of Souls - Collector's Edition | 136278 | [136278-diablo-iii-reaper-of-souls-collectors-edition.json](./136278-diablo-iii-reaper-of-souls-collectors-edition.json) |
 | Diablo III: Reaper of Souls - Ultimate Evil Edition | 47452 | [47452-diablo-iii-reaper-of-souls-ultimate-evil-edition.json](./47452-diablo-iii-reaper-of-souls-ultimate-evil-edition.json) |
 | Diablo Island | 405462 | [405462-diablo-island.json](./405462-diablo-island.json) |
@@ -11594,6 +11596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bike Unchained | 196432 | [196432-dirt-bike-unchained.json](./196432-dirt-bike-unchained.json) |
 | Dirt Bike: Unlimited Bike Experience | 296895 | [296895-dirt-bike-unlimited-bike-experience.json](./296895-dirt-bike-unlimited-bike-experience.json) |
 | Dirt Bikes Super Racing | 88359 | [88359-dirt-bikes-super-racing.json](./88359-dirt-bikes-super-racing.json) |
+| Dirt Clicker | 430924 | [430924-dirt-clicker.json](./430924-dirt-clicker.json) |
 | Dirt Dash | 39827 | [39827-dirt-dash.json](./39827-dirt-dash.json) |
 | Dirt Devils | 39448 | [39448-dirt-devils.json](./39448-dirt-devils.json) |
 | Dirt Digger | 428000 | [428000-dirt-digger.json](./428000-dirt-digger.json) |
