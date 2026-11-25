@@ -172,7 +172,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Monster Buck Hunter | 24345 | [24345-cabelas-monster-buck-hunter.json](./24345-cabelas-monster-buck-hunter.json) |
 | Cabela's North American Adventures | 7809 | [7809-cabelas-north-american-adventures.json](./7809-cabelas-north-american-adventures.json) |
 | Cabela's Outdoor Adventures | 3844 | [3844-cabelas-outdoor-adventures.json](./3844-cabelas-outdoor-adventures.json) |
-| Cabela's Outdoor Adventures | 91390 | [91390-cabelas-outdoor-adventures.json](./91390-cabelas-outdoor-adventures.json) |
 | Cabela's Outdoor Adventures | 95007 | [95007-cabelas-outdoor-adventures.json](./95007-cabelas-outdoor-adventures.json) |
 | Cabela's Sportman's Challenge | 93435 | [93435-cabelas-sportmans-challenge.json](./93435-cabelas-sportmans-challenge.json) |
 | Cabela's Ultimate Deer Hunt | 72036 | [72036-cabelas-ultimate-deer-hunt.json](./72036-cabelas-ultimate-deer-hunt.json) |
@@ -3710,7 +3709,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network: Battle Crashers | 254362 | [254362-cartoon-network-battle-crashers.json](./254362-cartoon-network-battle-crashers.json) |
 | Cartoon Network: Battle Crashers | 25795 | [25795-cartoon-network-battle-crashers.json](./25795-cartoon-network-battle-crashers.json) |
 | Cartoon Network: Block Party | 2809 | [2809-cartoon-network-block-party.json](./2809-cartoon-network-block-party.json) |
-| Cartoon Network: Match Land | 95100 | [95100-cartoon-network-match-land.json](./95100-cartoon-network-match-land.json) |
 | Cartoon Network: Punch Time Explosion | 2798 | [2798-cartoon-network-punch-time-explosion.json](./2798-cartoon-network-punch-time-explosion.json) |
 | Cartoon Network: Punch Time Explosion XL | 21151 | [21151-cartoon-network-punch-time-explosion-xl.json](./21151-cartoon-network-punch-time-explosion-xl.json) |
 | Cartoon Network: Toon Jam! | 206759 | [206759-cartoon-network-toon-jam.json](./206759-cartoon-network-toon-jam.json) |
@@ -5026,7 +5024,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catalina's Horror Adventure | 306856 | [306856-catalinas-horror-adventure.json](./306856-catalinas-horror-adventure.json) |
 | Cataline | 209710 | [209710-cataline.json](./209710-cataline.json) |
 | Cataline HD | 175315 | [175315-cataline-hd.json](./175315-cataline-hd.json) |
-| Cataline Kitty | 90849 | [90849-cataline-kitty.json](./90849-cataline-kitty.json) |
 | Catalypse | 186640 | [186640-catalypse.json](./186640-catalypse.json) |
 | Catalyst | 114333 | [114333-catalyst.json](./114333-catalyst.json) |
 | Catalyst | 352260 | [352260-catalyst.json](./352260-catalyst.json) |
@@ -6912,7 +6909,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Change : A Little Story | 113146 | [113146-change-a-little-story.json](./113146-change-a-little-story.json) |
 | Change Air Blade | 39833 | [39833-change-air-blade.json](./39833-change-air-blade.json) |
 | Change and Drop | 317469 | [317469-change-and-drop.json](./317469-change-and-drop.json) |
-| Change Color to Reach Points | 90840 | [90840-change-color-to-reach-points.json](./90840-change-color-to-reach-points.json) |
 | Change Lanes | 292098 | [292098-change-lanes.json](./292098-change-lanes.json) |
 | Change Maker | 71769 | [71769-change-maker.json](./71769-change-maker.json) |
 | Change the Formality | 401303 | [401303-change-the-formality.json](./401303-change-the-formality.json) |
@@ -7922,7 +7918,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess is Stupid! | 230735 | [230735-chess-is-stupid.json](./230735-chess-is-stupid.json) |
 | Chess Kids | 72303 | [72303-chess-kids.json](./72303-chess-kids.json) |
 | Chess Kingdom | 165895 | [165895-chess-kingdom.json](./165895-chess-kingdom.json) |
-| Chess Knight | 90847 | [90847-chess-knight.json](./90847-chess-knight.json) |
 | Chess Knight 2 | 31313 | [31313-chess-knight-2.json](./31313-chess-knight-2.json) |
 | Chess Knights: Eldritch Hunter | 160166 | [160166-chess-knights-eldritch-hunter.json](./160166-chess-knights-eldritch-hunter.json) |
 | Chess Knights: High Noon | 149168 | [149168-chess-knights-high-noon.json](./149168-chess-knights-high-noon.json) |
@@ -8781,7 +8776,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Checkers | 91326 | [91326-chinese-checkers.json](./91326-chinese-checkers.json) |
 | Chinese Checkers - Dames Chinoises | 87440 | [87440-chinese-checkers-dames-chinoises.json](./87440-chinese-checkers-dames-chinoises.json) |
 | Chinese Checkers Deluxe | 67983 | [67983-chinese-checkers-deluxe.json](./67983-chinese-checkers-deluxe.json) |
-| Chinese Checkers Master | 91251 | [91251-chinese-checkers-master.json](./91251-chinese-checkers-master.json) |
 | Chinese Chess - Best Xiangqi | 102839 | [102839-chinese-chess-best-xiangqi.json](./102839-chinese-chess-best-xiangqi.json) |
 | Chinese Chess Deluxe | 146922 | [146922-chinese-chess-deluxe.json](./146922-chinese-chess-deluxe.json) |
 | Chinese Chess Online - Play Xiangqi Live | 87244 | [87244-chinese-chess-online-play-xiangqi-live.json](./87244-chinese-chess-online-play-xiangqi-live.json) |
@@ -11001,7 +10995,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Police Helicopter Flight Simulator | 100995 | [100995-city-police-helicopter-flight-simulator.json](./100995-city-police-helicopter-flight-simulator.json) |
 | City Police Simulator: Cop Car Games & Shooter | 266527 | [266527-city-police-simulator-cop-car-games-and-shooter.json](./266527-city-police-simulator-cop-car-games-and-shooter.json) |
 | City Quest | 17565 | [17565-city-quest.json](./17565-city-quest.json) |
-| City Racer | 92242 | [92242-city-racer.json](./92242-city-racer.json) |
 | City Racing | 159173 | [159173-city-racing.json](./159173-city-racing.json) |
 | City Racing 2 | 181309 | [181309-city-racing-2.json](./181309-city-racing-2.json) |
 | City Rain | 25497 | [25497-city-rain.json](./25497-city-rain.json) |
@@ -11349,7 +11342,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Blades | 265109 | [265109-clash-of-blades.json](./265109-clash-of-blades.json) |
 | Clash of Builders | 393220 | [393220-clash-of-builders.json](./393220-clash-of-builders.json) |
 | Clash of Busts | 330471 | [330471-clash-of-busts.json](./330471-clash-of-busts.json) |
-| Clash of Cards | 94839 | [94839-clash-of-cards.json](./94839-clash-of-cards.json) |
 | Clash of Castle | 84042 | [84042-clash-of-castle.json](./84042-clash-of-castle.json) |
 | Clash of Champs | 56529 | [56529-clash-of-champs.json](./56529-clash-of-champs.json) |
 | Clash of Chefs VR | 111704 | [111704-clash-of-chefs-vr.json](./111704-clash-of-chefs-vr.json) |
@@ -14838,7 +14830,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combine Destiny | 222417 | [222417-combine-destiny.json](./222417-combine-destiny.json) |
 | Combine Supermax | 253154 | [253154-combine-supermax.json](./253154-combine-supermax.json) |
 | Combine War Toys | 111029 | [111029-combine-war-toys.json](./111029-combine-war-toys.json) |
-| Combine! Dino Robot - Dino Corps | 90971 | [90971-combine-dino-robot-dino-corps.json](./90971-combine-dino-robot-dino-corps.json) |
 | Combined Arms Operations Series | 169713 | [169713-combined-arms-operations-series.json](./169713-combined-arms-operations-series.json) |
 | Combined Arms: World War II | 59523 | [59523-combined-arms-world-war-ii.json](./59523-combined-arms-world-war-ii.json) |
 | Combined_Arms | 143116 | [143116-combined-arms.json](./143116-combined-arms.json) |
@@ -14912,6 +14903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comeback | 179762 | [179762-comeback.json](./179762-comeback.json) |
 | Comeback | 386758 | [386758-comeback.json](./386758-comeback.json) |
 | Comeback Golf | 181716 | [181716-comeback-golf.json](./181716-comeback-golf.json) |
+| Comeback Jam | 428060 | [428060-comeback-jam.json](./428060-comeback-jam.json) |
 | Comedy Quest | 34508 | [34508-comedy-quest.json](./34508-comedy-quest.json) |
 | Comer | 94225 | [94225-comer.json](./94225-comer.json) |
 | Comet | 153222 | [153222-comet.json](./153222-comet.json) |
@@ -20143,7 +20135,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage | 116572 | [116572-cribbage.json](./116572-cribbage.json) |
 | Cribbage | 83490 | [83490-cribbage.json](./83490-cribbage.json) |
 | Cribbage | 83492 | [83492-cribbage.json](./83492-cribbage.json) |
-| Cribbage Academy | 91279 | [91279-cribbage-academy.json](./91279-cribbage-academy.json) |
 | Cribbage Blitz | 125940 | [125940-cribbage-blitz.json](./125940-cribbage-blitz.json) |
 | Cribbage by Dodofox | 107541 | [107541-cribbage-by-dodofox.json](./107541-cribbage-by-dodofox.json) |
 | Cribbage Daily | 370353 | [370353-cribbage-daily.json](./370353-cribbage-daily.json) |
