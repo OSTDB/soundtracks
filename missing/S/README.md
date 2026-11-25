@@ -6579,6 +6579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senti Metrica | 423893 | [423893-senti-metrica.json](./423893-senti-metrica.json) |
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
 | Sentience | 341388 | [341388-sentience.json](./341388-sentience.json) |
+| Sentience | 430971 | [430971-sentience.json](./430971-sentience.json) |
 | Sentience: The Android's Tale | 36631 | [36631-sentience-the-androids-tale.json](./36631-sentience-the-androids-tale.json) |
 | Sentient | 227966 | [227966-sentient.json](./227966-sentient.json) |
 | Sentient Noir | 219618 | [219618-sentient-noir.json](./219618-sentient-noir.json) |
@@ -8763,6 +8764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shard Shuffle | 288052 | [288052-shard-shuffle.json](./288052-shard-shuffle.json) |
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
 | Shard Squad - Wind Character Pack | 394955 | [394955-shard-squad-wind-character-pack.json](./394955-shard-squad-wind-character-pack.json) |
+| Shard Squad: Ice Character Pack | 430983 | [430983-shard-squad-ice-character-pack.json](./430983-shard-squad-ice-character-pack.json) |
 | Shard Storm | 41043 | [41043-shard-storm.json](./41043-shard-storm.json) |
 | Shardbound | 27747 | [27747-shardbound.json](./27747-shardbound.json) |
 | Shardbreakers | 351254 | [351254-shardbreakers.json](./351254-shardbreakers.json) |
@@ -23220,6 +23222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Needle VR | 34139 | [34139-space-needle-vr.json](./34139-space-needle-vr.json) |
 | Space Ninja Simulator | 157404 | [157404-space-ninja-simulator.json](./157404-space-ninja-simulator.json) |
 | Space Nomads | 51675 | [51675-space-nomads.json](./51675-space-nomads.json) |
+| Space Numbers Go Up | 430931 | [430931-space-numbers-go-up.json](./430931-space-numbers-go-up.json) |
 | Space Oddity | 384924 | [384924-space-oddity.json](./384924-space-oddity.json) |
 | Space Oddity 2 | 392732 | [392732-space-oddity-2.json](./392732-space-oddity-2.json) |
 | Space Oddsock | 430603 | [430603-space-oddsock.json](./430603-space-oddsock.json) |
@@ -26810,6 +26813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprite's City Scramble | 378690 | [378690-sprites-city-scramble.json](./378690-sprites-city-scramble.json) |
 | Sprite's Honor! | 291491 | [291491-sprites-honor.json](./291491-sprites-honor.json) |
 | Sprited Away, the Boiler Room | 115732 | [115732-sprited-away-the-boiler-room.json](./115732-sprited-away-the-boiler-room.json) |
+| Spritelith | 430939 | [430939-spritelith.json](./430939-spritelith.json) |
 | Spriters, Hopes Blooming Dawn | 248042 | [248042-spriters-hopes-blooming-dawn.json](./248042-spriters-hopes-blooming-dawn.json) |
 | Sprites | 116231 | [116231-sprites.json](./116231-sprites.json) |
 | Sprites are 1derful | 277105 | [277105-sprites-are-1derful.json](./277105-sprites-are-1derful.json) |
