@@ -253,7 +253,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nalani: Legacy of the Ancients | 341357 | [341357-nalani-legacy-of-the-ancients.json](./341357-nalani-legacy-of-the-ancients.json) |
 | Nali Chronicles | 261020 | [261020-nali-chronicles.json](./261020-nali-chronicles.json) |
 | Nalleland | 179646 | [179646-nalleland.json](./179646-nalleland.json) |
-| Nalogi 2 | 96899 | [96899-nalogi-2.json](./96899-nalogi-2.json) |
 | Nam | 2534 | [2534-nam.json](./2534-nam.json) |
 | Nam | 26288 | [26288-nam.json](./26288-nam.json) |
 | Nam-1975 | 95471 | [95471-nam-1975.json](./95471-nam-1975.json) |
@@ -3805,7 +3804,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Sinbad 7 | 40380 | [40380-new-sinbad-7.json](./40380-new-sinbad-7.json) |
 | New Slippery Samurai | 169715 | [169715-new-slippery-samurai.json](./169715-new-slippery-samurai.json) |
 | New Solitaire | 88871 | [88871-new-solitaire.json](./88871-new-solitaire.json) |
-| New Solitaire Card Game | 96973 | [96973-new-solitaire-card-game.json](./96973-new-solitaire-card-game.json) |
 | New Space Order | 62784 | [62784-new-space-order.json](./62784-new-space-order.json) |
 | New Spirits | 151964 | [151964-new-spirits.json](./151964-new-spirits.json) |
 | New Spring: Survival | 235907 | [235907-new-spring-survival.json](./235907-new-spring-survival.json) |
