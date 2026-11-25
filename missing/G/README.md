@@ -4168,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gettysburg: The Turning Point | 26396 | [26396-gettysburg-the-turning-point.json](./26396-gettysburg-the-turning-point.json) |
 | Geunyeoga Dasi Noraehal Ttaekkaji | 225325 | [225325-geunyeoga-dasi-noraehal-ttaekkaji.json](./225325-geunyeoga-dasi-noraehal-ttaekkaji.json) |
 | Geunyeoneun Baekseolgongju | 234636 | [234636-geunyeoneun-baekseolgongju.json](./234636-geunyeoneun-baekseolgongju.json) |
+| Gevaudan | 41106 | [41106-gevaudan.json](./41106-gevaudan.json) |
 | Gewevo: Interstellar | 173892 | [173892-gewevo-interstellar.json](./173892-gewevo-interstellar.json) |
 | Gex | 4309 | [4309-gex.json](./4309-gex.json) |
 | Gex 3: Deep Cover Gecko | 210294 | [210294-gex-3-deep-cover-gecko.json](./210294-gex-3-deep-cover-gecko.json) |
@@ -5341,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls X Battle: GXB Global | 104098 | [104098-girls-x-battle-gxb-global.json](./104098-girls-x-battle-gxb-global.json) |
 | Girls, I Just Want to Get Paid! | 378284 | [378284-girls-i-just-want-to-get-paid.json](./378284-girls-i-just-want-to-get-paid.json) |
 | Girls! Girls! Girls!? | 219796 | [219796-girls-girls-girls.json](./219796-girls-girls-girls.json) |
+| Girls' civilization | 113267 | [113267-girls-civilization.json](./113267-girls-civilization.json) |
 | Girls' Civilization 2 | 143395 | [143395-girls-civilization-2.json](./143395-girls-civilization-2.json) |
 | Girls' Civilization 3 | 207398 | [207398-girls-civilization-3.json](./207398-girls-civilization-3.json) |
 | Girls' Crush | 220236 | [220236-girls-crush.json](./220236-girls-crush.json) |
@@ -11135,6 +11137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grip: Digital Deluxe | 118945 | [118945-grip-digital-deluxe.json](./118945-grip-digital-deluxe.json) |
 | Grip: Garage Bundle Pack | 116656 | [116656-grip-garage-bundle-pack.json](./116656-grip-garage-bundle-pack.json) |
 | Gripless: Drift Valley | 386885 | [386885-gripless-drift-valley.json](./386885-gripless-drift-valley.json) |
+| Gripper | 130776 | [130776-gripper.json](./130776-gripper.json) |
 | Gripper's 3D/VR Adventure | 380359 | [380359-grippers-3d-vr-adventure.json](./380359-grippers-3d-vr-adventure.json) |
 | Gripper's Adventure | 89272 | [89272-grippers-adventure.json](./89272-grippers-adventure.json) |
 | Grippy | 177179 | [177179-grippy.json](./177179-grippy.json) |
