@@ -8904,6 +8904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Slinger | 93187 | [93187-word-slinger.json](./93187-word-slinger.json) |
 | Word Solitaire | 243642 | [243642-word-solitaire.json](./243642-word-solitaire.json) |
 | Word Solitaire: Spell Cards | 428836 | [428836-word-solitaire-spell-cards.json](./428836-word-solitaire-spell-cards.json) |
+| Word Soup | 23405 | [23405-word-soup.json](./23405-word-soup.json) |
 | Word Space | 270775 | [270775-word-space.json](./270775-word-space.json) |
 | Word Spell Game: Yes or No ? | 266833 | [266833-word-spell-game-yes-or-no.json](./266833-word-spell-game-yes-or-no.json) |
 | Word Spinner | 71546 | [71546-word-spinner.json](./71546-word-spinner.json) |
@@ -9577,6 +9578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Outlaws: Dirt Racing 2023 - Ultimate Edition | 261877 | [261877-world-of-outlaws-dirt-racing-2023-ultimate-edition.json](./261877-world-of-outlaws-dirt-racing-2023-ultimate-edition.json) |
 | World of Outlaws: Dirt Racing 24 | 315930 | [315930-world-of-outlaws-dirt-racing-24.json](./315930-world-of-outlaws-dirt-racing-24.json) |
 | World of Outlaws: Dirt Racing 24 Gold Edition | 330341 | [330341-world-of-outlaws-dirt-racing-24-gold-edition.json](./330341-world-of-outlaws-dirt-racing-24-gold-edition.json) |
+| World of Outlaws: Sprint Cars 2002 | 23474 | [23474-world-of-outlaws-sprint-cars-2002.json](./23474-world-of-outlaws-sprint-cars-2002.json) |
 | World of Padman | 51251 | [51251-world-of-padman.json](./51251-world-of-padman.json) |
 | World of PaintBall | 392832 | [392832-world-of-paintball.json](./392832-world-of-paintball.json) |
 | World of Paranoia | 167292 | [167292-world-of-paranoia.json](./167292-world-of-paranoia.json) |
@@ -9927,6 +9929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Tour Racing | 46923 | [46923-world-tour-racing.json](./46923-world-tour-racing.json) |
 | World Tour Soccer | 22291 | [22291-world-tour-soccer.json](./22291-world-tour-soccer.json) |
 | World Tour Soccer 06 | 24180 | [24180-world-tour-soccer-06.json](./24180-world-tour-soccer-06.json) |
+| World Tour Soccer 2002 | 23444 | [23444-world-tour-soccer-2002.json](./23444-world-tour-soccer-2002.json) |
 | World Tour Soccer 2003 | 71327 | [71327-world-tour-soccer-2003.json](./71327-world-tour-soccer-2003.json) |
 | World Tour Soccer 2005 | 23546 | [23546-world-tour-soccer-2005.json](./23546-world-tour-soccer-2005.json) |
 | World Tour Soccer: Challenge Edition | 77087 | [77087-world-tour-soccer-challenge-edition.json](./77087-world-tour-soccer-challenge-edition.json) |
