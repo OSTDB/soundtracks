@@ -4482,7 +4482,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What We Carry | 405565 | [405565-what-we-carry.json](./405565-what-we-carry.json) |
 | What We Pretend to Be | 142173 | [142173-what-we-pretend-to-be.json](./142173-what-we-pretend-to-be.json) |
 | What would Google say? | 108370 | [108370-what-would-google-say.json](./108370-what-would-google-say.json) |
-| What Would You Choose? Rather | 91145 | [91145-what-would-you-choose-rather.json](./91145-what-would-you-choose-rather.json) |
 | What Would You Do? | 31396 | [31396-what-would-you-do.json](./31396-what-would-you-do.json) |
 | What would you like to have today? | 177855 | [177855-what-would-you-like-to-have-today.json](./177855-what-would-you-like-to-have-today.json) |
 | What You Didn't See | 428099 | [428099-what-you-didnt-see.json](./428099-what-you-didnt-see.json) |
@@ -6340,7 +6339,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Simulator: Wolf | 86902 | [86902-wildlife-simulator-wolf.json](./86902-wildlife-simulator-wolf.json) |
 | Wildlife Sports: Untamed | 332916 | [332916-wildlife-sports-untamed.json](./332916-wildlife-sports-untamed.json) |
 | WildLife Tetris | 144621 | [144621-wildlife-tetris.json](./144621-wildlife-tetris.json) |
-| Wildlife Tycoon: Venture Africa | 91661 | [91661-wildlife-tycoon-venture-africa.json](./91661-wildlife-tycoon-venture-africa.json) |
 | Wildlife VR | 32111 | [32111-wildlife-vr.json](./32111-wildlife-vr.json) |
 | Wildlife Zoo | 61441 | [61441-wildlife-zoo.json](./61441-wildlife-zoo.json) |
 | Wildlife: Forest Survival | 53046 | [53046-wildlife-forest-survival.json](./53046-wildlife-forest-survival.json) |
@@ -7257,7 +7255,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wired Soul | 269147 | [269147-wired-soul.json](./269147-wired-soul.json) |
 | Wired to the Moon | 185472 | [185472-wired-to-the-moon.json](./185472-wired-to-the-moon.json) |
 | Wired Tokyo | 395793 | [395793-wired-tokyo.json](./395793-wired-tokyo.json) |
-| Wired Twin-Stick Bundle | 90956 | [90956-wired-twin-stick-bundle.json](./90956-wired-twin-stick-bundle.json) |
 | Wired Witch | 413788 | [413788-wired-witch.json](./413788-wired-witch.json) |
 | Wireframe Warfare | 340989 | [340989-wireframe-warfare.json](./340989-wireframe-warfare.json) |
 | Wirehead | 5462 | [5462-wirehead.json](./5462-wirehead.json) |
@@ -9157,7 +9154,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordy Weapon | 381666 | [381666-wordy-weapon.json](./381666-wordy-weapon.json) |
 | WordyBuilder | 245972 | [245972-wordybuilder.json](./245972-wordybuilder.json) |
 | Wordz | 79790 | [79790-wordz.json](./79790-wordz.json) |
-| Wordz + | 90894 | [90894-wordz.json](./90894-wordz.json) |
 | WordZap | 282342 | [282342-wordzap.json](./282342-wordzap.json) |
 | WordZap Deluxe | 205885 | [205885-wordzap-deluxe.json](./205885-wordzap-deluxe.json) |
 | Wordzy | 68415 | [68415-wordzy.json](./68415-wordzy.json) |
