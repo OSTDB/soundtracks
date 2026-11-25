@@ -1792,10 +1792,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Freezeria HD | 88886 | [88886-papas-freezeria-hd.json](./88886-papas-freezeria-hd.json) |
 | Papa's Freezeria to Go! | 95739 | [95739-papas-freezeria-to-go.json](./95739-papas-freezeria-to-go.json) |
 | Papa's Hot Doggeria | 210491 | [210491-papas-hot-doggeria.json](./210491-papas-hot-doggeria.json) |
+| Papa's Hot Doggeria HD | 88892 | [88892-papas-hot-doggeria-hd.json](./88892-papas-hot-doggeria-hd.json) |
 | Papa's Mocharia Deluxe | 399974 | [399974-papas-mocharia-deluxe.json](./399974-papas-mocharia-deluxe.json) |
 | Papa's Mocharia to Go! | 185727 | [185727-papas-mocharia-to-go.json](./185727-papas-mocharia-to-go.json) |
 | Papa's Paleteria To Go! | 290074 | [290074-papas-paleteria-to-go.json](./290074-papas-paleteria-to-go.json) |
 | Papa's Pancakeria | 142945 | [142945-papas-pancakeria.json](./142945-papas-pancakeria.json) |
+| Papa's Pancakeria HD | 88891 | [88891-papas-pancakeria-hd.json](./88891-papas-pancakeria-hd.json) |
 | Papa's Pastaria | 210501 | [210501-papas-pastaria.json](./210501-papas-pastaria.json) |
 | Papa's Pastaria To Go! | 420003 | [420003-papas-pastaria-to-go.json](./420003-papas-pastaria-to-go.json) |
 | Papa's Pizzeria | 206853 | [206853-papas-pizzeria.json](./206853-papas-pizzeria.json) |
@@ -11943,6 +11945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Bravery MD | 414847 | [414847-pocket-bravery-md.json](./414847-pocket-bravery-md.json) |
 | Pocket Bravery: Rick | 389552 | [389552-pocket-bravery-rick.json](./389552-pocket-bravery-rick.json) |
 | Pocket Breeder: Oguri Cap II-sei | 284458 | [284458-pocket-breeder-oguri-cap-ii-sei.json](./284458-pocket-breeder-oguri-cap-ii-sei.json) |
+| Pocket Build | 88881 | [88881-pocket-build.json](./88881-pocket-build.json) |
 | Pocket Button Soccer | 207969 | [207969-pocket-button-soccer.json](./207969-pocket-button-soccer.json) |
 | Pocket Car: VR Ground | 113749 | [113749-pocket-car-vr-ground.json](./113749-pocket-car-vr-ground.json) |
 | Pocket Card Jockey: Ride On! | 230543 | [230543-pocket-card-jockey-ride-on.json](./230543-pocket-card-jockey-ride-on.json) |
@@ -14698,6 +14701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop-Pop | 146186 | [146186-pop-pop.json](./146186-pop-pop.json) |
 | Pop-up Fox | 101471 | [101471-pop-up-fox.json](./101471-pop-up-fox.json) |
 | Pop-up Pilgrams | 87677 | [87677-pop-up-pilgrams.json](./87677-pop-up-pilgrams.json) |
+| Pop-Up Pilgrims | 90094 | [90094-pop-up-pilgrims.json](./90094-pop-up-pilgrims.json) |
 | Pop-Up Purgatory | 428652 | [428652-pop-up-purgatory.json](./428652-pop-up-purgatory.json) |
 | POP: Methodology Experiment One | 17515 | [17515-pop-methodology-experiment-one.json](./17515-pop-methodology-experiment-one.json) |
 | Pop! | 122281 | [122281-pop.json](./122281-pop.json) |
