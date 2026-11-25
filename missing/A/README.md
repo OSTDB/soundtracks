@@ -2121,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaero 2: Arcade Paradise Music Pack | 377420 | [377420-aaero-2-arcade-paradise-music-pack.json](./377420-aaero-2-arcade-paradise-music-pack.json) |
 | Aaero 2: Black Razor Edition | 366211 | [366211-aaero-2-black-razor-edition.json](./366211-aaero-2-black-razor-edition.json) |
 | Aaero 2: Lania Kea Music Pack | 377421 | [377421-aaero-2-lania-kea-music-pack.json](./377421-aaero-2-lania-kea-music-pack.json) |
+| Aaero: Complete Edition | 113196 | [113196-aaero-complete-edition.json](./113196-aaero-complete-edition.json) |
 | Aaero2 | 304670 | [304670-aaero2.json](./304670-aaero2.json) |
 | Aaero2: Black Razor Edition | 380587 | [380587-aaero2-black-razor-edition.json](./380587-aaero2-black-razor-edition.json) |
 | Aah Impossible Rescue | 66256 | [66256-aah-impossible-rescue.json](./66256-aah-impossible-rescue.json) |
@@ -2919,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: The Ultimate 11 - SNK Football Championship | 115665 | [115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json](./115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json) |
 | ACA Neo Geo: Thrash Rally | 111836 | [111836-aca-neo-geo-thrash-rally.json](./111836-aca-neo-geo-thrash-rally.json) |
 | ACA Neo Geo: Top Player's Golf | 118542 | [118542-aca-neo-geo-top-players-golf.json](./118542-aca-neo-geo-top-players-golf.json) |
+| ACA Neo Geo: Twinkle Star Sprites | 113209 | [113209-aca-neo-geo-twinkle-star-sprites.json](./113209-aca-neo-geo-twinkle-star-sprites.json) |
 | ACA Neo Geo: Waku Waku 7 | 28416 | [28416-aca-neo-geo-waku-waku-7.json](./28416-aca-neo-geo-waku-waku-7.json) |
 | ACA Neo Geo: World Heroes | 76578 | [76578-aca-neo-geo-world-heroes.json](./76578-aca-neo-geo-world-heroes.json) |
 | ACA Neo Geo: World Heroes 2 | 99740 | [99740-aca-neo-geo-world-heroes-2.json](./99740-aca-neo-geo-world-heroes-2.json) |
@@ -6016,7 +6018,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agerasia | 377756 | [377756-agerasia.json](./377756-agerasia.json) |
 | Ages of Cataria | 189233 | [189233-ages-of-cataria.json](./189233-ages-of-cataria.json) |
 | Ages of Conflict: World War Simulator | 223829 | [223829-ages-of-conflict-world-war-simulator.json](./223829-ages-of-conflict-world-war-simulator.json) |
-| Ages of Mages: The Last Keeper | 98755 | [98755-ages-of-mages-the-last-keeper.json](./98755-ages-of-mages-the-last-keeper.json) |
 | Aggelos | 103517 | [103517-aggelos.json](./103517-aggelos.json) |
 | Aggelos 2 | 358583 | [358583-aggelos-2.json](./358583-aggelos-2.json) |
 | Aggi's Tiny Friends | 344343 | [344343-aggis-tiny-friends.json](./344343-aggis-tiny-friends.json) |
@@ -7914,6 +7915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algorithm Prescription | 393977 | [393977-algorithm-prescription.json](./393977-algorithm-prescription.json) |
 | Algorithomus | 422345 | [422345-algorithomus.json](./422345-algorithomus.json) |
 | Algos United: Live! | 336627 | [336627-algos-united-live.json](./336627-algos-united-live.json) |
+| Algotica Iterations | 113253 | [113253-algotica-iterations.json](./113253-algotica-iterations.json) |
 | Alhambra Game | 95655 | [95655-alhambra-game.json](./95655-alhambra-game.json) |
 | Ali | 84413 | [84413-ali.json](./84413-ali.json) |
 | Ali Baba | 76196 | [76196-ali-baba.json](./76196-ali-baba.json) |
@@ -9968,6 +9970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Space Frog 2018 | 95289 | [95289-amazing-space-frog-2018.json](./95289-amazing-space-frog-2018.json) |
 | Amazing Studly Strikes | 235152 | [235152-amazing-studly-strikes.json](./235152-amazing-studly-strikes.json) |
 | Amazing Superhero Squad | 159862 | [159862-amazing-superhero-squad.json](./159862-amazing-superhero-squad.json) |
+| AMazing TD | 130181 | [130181-amazing-td.json](./130181-amazing-td.json) |
 | Amazing Tetris | 74306 | [74306-amazing-tetris.json](./74306-amazing-tetris.json) |
 | Amazing Thailand VR Experience | 48003 | [48003-amazing-thailand-vr-experience.json](./48003-amazing-thailand-vr-experience.json) |
 | Amazing Thief | 134389 | [134389-amazing-thief.json](./134389-amazing-thief.json) |
@@ -10212,7 +10215,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Next Top Model | 78528 | [78528-americas-next-top-model.json](./78528-americas-next-top-model.json) |
 | America's Next Top Model Game | 95128 | [95128-americas-next-top-model-game.json](./95128-americas-next-top-model-game.json) |
 | America's Next Top Pornstar | 304675 | [304675-americas-next-top-pornstar.json](./304675-americas-next-top-pornstar.json) |
-| America's Retribution | 98763 | [98763-americas-retribution.json](./98763-americas-retribution.json) |
 | America's Retribution Term 2 | 117796 | [117796-americas-retribution-term-2.json](./117796-americas-retribution-term-2.json) |
 | America's Test Kitchen: Let's Get Cooking | 24343 | [24343-americas-test-kitchen-lets-get-cooking.json](./24343-americas-test-kitchen-lets-get-cooking.json) |
 | America's Toughest 18 | 73065 | [73065-americas-toughest-18.json](./73065-americas-toughest-18.json) |
@@ -12042,6 +12044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Shelter | 327688 | [327688-animal-shelter.json](./327688-animal-shelter.json) |
 | Animal Shelter 2 | 283926 | [283926-animal-shelter-2.json](./283926-animal-shelter-2.json) |
 | Animal Shelter 2: Hunting Dogs Pack | 399968 | [399968-animal-shelter-2-hunting-dogs-pack.json](./399968-animal-shelter-2-hunting-dogs-pack.json) |
+| Animal Shelter Simulator | 130134 | [130134-animal-shelter-simulator.json](./130134-animal-shelter-simulator.json) |
 | Animal Shelter Simulator: Horse Shelter DLC | 232523 | [232523-animal-shelter-simulator-horse-shelter-dlc.json](./232523-animal-shelter-simulator-horse-shelter-dlc.json) |
 | Animal Shelter Simulator: Puppies & Kittens | 209661 | [209661-animal-shelter-simulator-puppies-and-kittens.json](./209661-animal-shelter-simulator-puppies-and-kittens.json) |
 | Animal Shelter: Vet Clinic | 259886 | [259886-animal-shelter-vet-clinic.json](./259886-animal-shelter-vet-clinic.json) |
@@ -19419,6 +19422,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Classics Games | 301495 | [301495-atari-classics-games.json](./301495-atari-classics-games.json) |
 | Atari Classics: Evolved | 46023 | [46023-atari-classics-evolved.json](./46023-atari-classics-evolved.json) |
 | Atari Climber | 40769 | [40769-atari-climber.json](./40769-atari-climber.json) |
+| Atari Collection 1 | 130813 | [130813-atari-collection-1.json](./130813-atari-collection-1.json) |
+| Atari Collection 2 | 130814 | [130814-atari-collection-2.json](./130814-atari-collection-2.json) |
 | Atari Collection: Action | 70228 | [70228-atari-collection-action.json](./70228-atari-collection-action.json) |
 | Atari Collection: Brettspiele | 70357 | [70357-atari-collection-brettspiele.json](./70357-atari-collection-brettspiele.json) |
 | Atari Collection: Racing | 255608 | [255608-atari-collection-racing.json](./255608-atari-collection-racing.json) |
@@ -19449,6 +19454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback Blast! Vol. 1 | 277068 | [277068-atari-flashback-blast-vol-1.json](./277068-atari-flashback-blast-vol-1.json) |
 | Atari Flashback Blast! Vol. 2 | 277070 | [277070-atari-flashback-blast-vol-2.json](./277070-atari-flashback-blast-vol-2.json) |
 | Atari Flashback Blast! Vol. 3 | 277071 | [277071-atari-flashback-blast-vol-3.json](./277071-atari-flashback-blast-vol-3.json) |
+| Atari Flashback Classics | 113382 | [113382-atari-flashback-classics.json](./113382-atari-flashback-classics.json) |
 | Atari Flashback Classics Vol. 1 | 24891 | [24891-atari-flashback-classics-vol-1.json](./24891-atari-flashback-classics-vol-1.json) |
 | Atari Flashback Classics Vol. 2 | 24962 | [24962-atari-flashback-classics-vol-2.json](./24962-atari-flashback-classics-vol-2.json) |
 | Atari Flashback Classics Vol. 3 | 83671 | [83671-atari-flashback-classics-vol-3.json](./83671-atari-flashback-classics-vol-3.json) |
@@ -19466,6 +19472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Karts | 40802 | [40802-atari-karts.json](./40802-atari-karts.json) |
 | Atari Kids 2006 | 94478 | [94478-atari-kids-2006.json](./94478-atari-kids-2006.json) |
 | Atari Legends Vol. 1 | 185884 | [185884-atari-legends-vol-1.json](./185884-atari-legends-vol-1.json) |
+| Atari Lynx Collection 1 | 130345 | [130345-atari-lynx-collection-1.json](./130345-atari-lynx-collection-1.json) |
 | Atari Lynx Collection 2 | 134382 | [134382-atari-lynx-collection-2.json](./134382-atari-lynx-collection-2.json) |
 | Atari Masterpieces Vol. I | 47570 | [47570-atari-masterpieces-vol-i.json](./47570-atari-masterpieces-vol-i.json) |
 | Atari Masterpieces Vol. II | 47569 | [47569-atari-masterpieces-vol-ii.json](./47569-atari-masterpieces-vol-ii.json) |
