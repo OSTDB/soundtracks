@@ -4692,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Wars: Animated Trading Card Game | 16732 | [16732-infinity-wars-animated-trading-card-game.json](./16732-infinity-wars-animated-trading-card-game.json) |
 | Infinity Wings - Scout & Grunt | 33360 | [33360-infinity-wings-scout-and-grunt.json](./33360-infinity-wings-scout-and-grunt.json) |
 | Infinity ZigZag | 148688 | [148688-infinity-zigzag.json](./148688-infinity-zigzag.json) |
+| Infinity: Battlescape | 26990 | [26990-infinity-battlescape.json](./26990-infinity-battlescape.json) |
 | Infinity: HexaDome Tactics | 275699 | [275699-infinity-hexadome-tactics.json](./275699-infinity-hexadome-tactics.json) |
 | InfinityAngel | 214928 | [214928-infinityangel.json](./214928-infinityangel.json) |
 | InfinityMine | 408592 | [408592-infinitymine.json](./408592-infinitymine.json) |
