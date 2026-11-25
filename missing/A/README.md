@@ -3336,7 +3336,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Zombie 3 | 368354 | [368354-achievement-hunter-zombie-3.json](./368354-achievement-hunter-zombie-3.json) |
 | Achievement Idler Black | 95124 | [95124-achievement-idler-black.json](./95124-achievement-idler-black.json) |
 | Achievement Idler: Red | 97229 | [97229-achievement-idler-red.json](./97229-achievement-idler-red.json) |
-| Achievement Lurker: Another one bites the dust | 95214 | [95214-achievement-lurker-another-one-bites-the-dust.json](./95214-achievement-lurker-another-one-bites-the-dust.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
 | Achievement Lurker: Dad Jokes | 75802 | [75802-achievement-lurker-dad-jokes.json](./75802-achievement-lurker-dad-jokes.json) |
 | Achievement Lurker: Easiest Cosmetic Numbers | 90120 | [90120-achievement-lurker-easiest-cosmetic-numbers.json](./90120-achievement-lurker-easiest-cosmetic-numbers.json) |
@@ -6210,7 +6209,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Dummy | 75434 | [75434-ai-dummy.json](./75434-ai-dummy.json) |
 | AI Dungeon | 203870 | [203870-ai-dungeon.json](./203870-ai-dungeon.json) |
 | AI Empire Tycoon | 426887 | [426887-ai-empire-tycoon.json](./426887-ai-empire-tycoon.json) |
-| AI Escort | 96421 | [96421-ai-escort.json](./96421-ai-escort.json) |
 | AI Fantasy | 293500 | [293500-ai-fantasy.json](./293500-ai-fantasy.json) |
 | AI Fightclub | 303890 | [303890-ai-fightclub.json](./303890-ai-fightclub.json) |
 | Ai ga Mie Hajimetara | 151840 | [151840-ai-ga-mie-hajimetara.json](./151840-ai-ga-mie-hajimetara.json) |
@@ -6696,7 +6694,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Tactical | 55224 | [55224-air-tactical.json](./55224-air-tactical.json) |
 | Air Taxi | 94633 | [94633-air-taxi.json](./94633-air-taxi.json) |
 | Air Tennis | 302760 | [302760-air-tennis.json](./302760-air-tennis.json) |
-| Air Threat | 97276 | [97276-air-threat.json](./97276-air-threat.json) |
 | Air Time | 179993 | [179993-air-time.json](./179993-air-time.json) |
 | Air Toons | 364397 | [364397-air-toons.json](./364397-air-toons.json) |
 | Air Traffic | 190928 | [190928-air-traffic.json](./190928-air-traffic.json) |
@@ -8056,7 +8053,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice: Madness Returns - Ultimate Edition | 99962 | [99962-alice-madness-returns-ultimate-edition.json](./99962-alice-madness-returns-ultimate-edition.json) |
 | Alice! | 186324 | [186324-alice.json](./186324-alice.json) |
 | Alice's 1997 | 315592 | [315592-alices-1997.json](./315592-alices-1997.json) |
-| Alice's Adventures | 96939 | [96939-alices-adventures.json](./96939-alices-adventures.json) |
 | Alice's Adventures in Wonderland | 319323 | [319323-alices-adventures-in-wonderland.json](./319323-alices-adventures-in-wonderland.json) |
 | Alice's Adventures in Wonderland | 95466 | [95466-alices-adventures-in-wonderland.json](./95466-alices-adventures-in-wonderland.json) |
 | Alice's Burger Shop | 223485 | [223485-alices-burger-shop.json](./223485-alices-burger-shop.json) |
@@ -8940,7 +8936,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All the Mons | 387071 | [387071-all-the-mons.json](./387071-all-the-mons.json) |
 | All The Places You'll Go (Women As Place) | 393497 | [393497-all-the-places-youll-go-women-as-place.json](./393497-all-the-places-youll-go-women-as-place.json) |
 | All the Promised Burn: An Yssaia Game | 430101 | [430101-all-the-promised-burn-an-yssaia-game.json](./430101-all-the-promised-burn-an-yssaia-game.json) |
-| All the Rain | 96699 | [96699-all-the-rain.json](./96699-all-the-rain.json) |
 | All The Stars | 364866 | [364866-all-the-stars.json](./364866-all-the-stars.json) |
 | All the Way Down | 171978 | [171978-all-the-way-down.json](./171978-all-the-way-down.json) |
 | All the Wiser | 274011 | [274011-all-the-wiser.json](./274011-all-the-wiser.json) |
@@ -9854,7 +9849,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze Dark Times | 55285 | [55285-amaze-dark-times.json](./55285-amaze-dark-times.json) |
 | AMaze DOS | 191078 | [191078-amaze-dos.json](./191078-amaze-dos.json) |
 | Amaze Double | 75005 | [75005-amaze-double.json](./75005-amaze-double.json) |
-| Amaze Frozen | 95276 | [95276-amaze-frozen.json](./95276-amaze-frozen.json) |
 | Amaze Gears | 88087 | [88087-amaze-gears.json](./88087-amaze-gears.json) |
 | Amaze Gears 2 | 125095 | [125095-amaze-gears-2.json](./125095-amaze-gears-2.json) |
 | Amaze Gears 3 | 158660 | [158660-amaze-gears-3.json](./158660-amaze-gears-3.json) |
@@ -9945,7 +9939,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Love: Cupid's Arrows | 232570 | [232570-amazing-love-cupids-arrows.json](./232570-amazing-love-cupids-arrows.json) |
 | Amazing Machines | 187385 | [187385-amazing-machines.json](./187385-amazing-machines.json) |
 | Amazing Mahjong: Zen | 89743 | [89743-amazing-mahjong-zen.json](./89743-amazing-mahjong-zen.json) |
-| Amazing Match-Word Learning Games for Kids | 95335 | [95335-amazing-match-word-learning-games-for-kids.json](./95335-amazing-match-word-learning-games-for-kids.json) |
 | Amazing Math Starring Marvel Super Heroes | 316021 | [316021-amazing-math-starring-marvel-super-heroes.json](./316021-amazing-math-starring-marvel-super-heroes.json) |
 | Amazing Maze | 18115 | [18115-amazing-maze.json](./18115-amazing-maze.json) |
 | Amazing Maze | 217486 | [217486-amazing-maze.json](./217486-amazing-maze.json) |
@@ -10321,7 +10314,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Powerhaul Train Simulator | 33522 | [33522-american-powerhaul-train-simulator.json](./33522-american-powerhaul-train-simulator.json) |
 | American Pro Football | 46152 | [46152-american-pro-football.json](./46152-american-pro-football.json) |
 | American Racing Games Collection | 142032 | [142032-american-racing-games-collection.json](./142032-american-racing-games-collection.json) |
-| American Railroads: Summit River & Pine Valley | 96855 | [96855-american-railroads-summit-river-and-pine-valley.json](./96855-american-railroads-summit-river-and-pine-valley.json) |
 | American Rodeo: Bull Rider 2000 | 202055 | [202055-american-rodeo-bull-rider-2000.json](./202055-american-rodeo-bull-rider-2000.json) |
 | American Sign Language Tutor | 94948 | [94948-american-sign-language-tutor.json](./94948-american-sign-language-tutor.json) |
 | American Soccer | 41806 | [41806-american-soccer.json](./41806-american-soccer.json) |
@@ -19038,7 +19030,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Ryders | 397514 | [397514-astro-ryders.json](./397514-astro-ryders.json) |
 | Astro Sailor | 217057 | [217057-astro-sailor.json](./217057-astro-sailor.json) |
 | Astro Sentai Jarbonder | 150924 | [150924-astro-sentai-jarbonder.json](./150924-astro-sentai-jarbonder.json) |
-| Astro Shooter | 95341 | [95341-astro-shooter.json](./95341-astro-shooter.json) |
 | Astro Smash 'n' Blast! | 233553 | [233553-astro-smash-n-blast.json](./233553-astro-smash-n-blast.json) |
 | Astro Spider: Between Threads and Stars | 364067 | [364067-astro-spider-between-threads-and-stars.json](./364067-astro-spider-between-threads-and-stars.json) |
 | Astro Surge | 353551 | [353551-astro-surge.json](./353551-astro-surge.json) |
@@ -20695,7 +20686,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autocraft | 265563 | [265563-autocraft.json](./265563-autocraft.json) |
 | Autocrash | 13353 | [13353-autocrash.json](./13353-autocrash.json) |
 | Autocrats | 283954 | [283954-autocrats.json](./283954-autocrats.json) |
-| Autocross Madness | 96274 | [96274-autocross-madness.json](./96274-autocross-madness.json) |
 | Autocrusher: Bumper Cars | 213608 | [213608-autocrusher-bumper-cars.json](./213608-autocrusher-bumper-cars.json) |
 | AutoCube | 190770 | [190770-autocube.json](./190770-autocube.json) |
 | AutoDemo Levels in SADX | 198544 | [198544-autodemo-levels-in-sadx.json](./198544-autodemo-levels-in-sadx.json) |
@@ -20963,7 +20953,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avara | 78569 | [78569-avara.json](./78569-avara.json) |
 | Avara Aftershock 1.5 | 339141 | [339141-avara-aftershock-1-5.json](./339141-avara-aftershock-1-5.json) |
 | Avaria: Iron Rule | 399009 | [399009-avaria-iron-rule.json](./399009-avaria-iron-rule.json) |
-| Avariavs | 98405 | [98405-avariavs.json](./98405-avariavs.json) |
 | Avarice | 125408 | [125408-avarice.json](./125408-avarice.json) |
 | Avarice | 217859 | [217859-avarice.json](./217859-avarice.json) |
 | Avarice | 383169 | [383169-avarice.json](./383169-avarice.json) |
@@ -21469,7 +21458,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe Champ Shoot Out | 322659 | [322659-axe-champ-shoot-out.json](./322659-axe-champ-shoot-out.json) |
 | Axe Champ vs. | 342339 | [342339-axe-champ-vs.json](./342339-axe-champ-vs.json) |
 | Axe Champ! | 107663 | [107663-axe-champ.json](./107663-axe-champ.json) |
-| Axe Climber | 96715 | [96715-axe-climber.json](./96715-axe-climber.json) |
 | Axe Cop | 128955 | [128955-axe-cop.json](./128955-axe-cop.json) |
 | Axe Descent | 425752 | [425752-axe-descent.json](./425752-axe-descent.json) |
 | Axe Gang | 151494 | [151494-axe-gang.json](./151494-axe-gang.json) |
