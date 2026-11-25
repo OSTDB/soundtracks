@@ -8344,6 +8344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Defense: Chapter Earth | 166730 | [166730-wonder-defense-chapter-earth.json](./166730-wonder-defense-chapter-earth.json) |
 | Wonder Dog | 5463 | [5463-wonder-dog.json](./5463-wonder-dog.json) |
 | Wonder Flick | 53042 | [53042-wonder-flick.json](./53042-wonder-flick.json) |
+| Wonder Garden: Desktop Plants | 431240 | [431240-wonder-garden-desktop-plants.json](./431240-wonder-garden-desktop-plants.json) |
 | Wonder Gravity | 76189 | [76189-wonder-gravity.json](./76189-wonder-gravity.json) |
 | Wonder House | 130545 | [130545-wonder-house.json](./130545-wonder-house.json) |
 | Wonder Kid | 57284 | [57284-wonder-kid.json](./57284-wonder-kid.json) |
