@@ -232,7 +232,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Hole | 345532 | [345532-rabbit-hole.json](./345532-rabbit-hole.json) |
 | Rabbit Hole | 345533 | [345533-rabbit-hole.json](./345533-rabbit-hole.json) |
 | Rabbit Hole 3D | 10750 | [10750-rabbit-hole-3d.json](./10750-rabbit-hole-3d.json) |
-| Rabbit Hole 3D: Steam Edition | 90584 | [90584-rabbit-hole-3d-steam-edition.json](./90584-rabbit-hole-3d-steam-edition.json) |
 | Rabbit Hop | 245417 | [245417-rabbit-hop.json](./245417-rabbit-hop.json) |
 | Rabbit Horror Show | 319705 | [319705-rabbit-horror-show.json](./319705-rabbit-horror-show.json) |
 | Rabbit in Dungeon | 316411 | [316411-rabbit-in-dungeon.json](./316411-rabbit-in-dungeon.json) |
@@ -554,7 +553,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Game Bundle | 379006 | [379006-racing-game-bundle.json](./379006-racing-game-bundle.json) |
 | Racing Gears Advance | 6551 | [6551-racing-gears-advance.json](./6551-racing-gears-advance.json) |
 | Racing Girl | 212498 | [212498-racing-girl.json](./212498-racing-girl.json) |
-| Racing Glider | 90681 | [90681-racing-glider.json](./90681-racing-glider.json) |
 | Racing Go | 262380 | [262380-racing-go.json](./262380-racing-go.json) |
 | Racing Go | 285333 | [285333-racing-go.json](./285333-racing-go.json) |
 | Racing Guy | 247271 | [247271-racing-guy.json](./247271-racing-guy.json) |
@@ -3360,7 +3358,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Dodger 3D | 256355 | [256355-real-dodger-3d.json](./256355-real-dodger-3d.json) |
 | Real Dominoes | 209275 | [209275-real-dominoes.json](./209275-real-dominoes.json) |
 | Real Drags | 24992 | [24992-real-drags.json](./24992-real-drags.json) |
-| Real Drift | 89963 | [89963-real-drift.json](./89963-real-drift.json) |
 | Real Drift Car Racing | 60308 | [60308-real-drift-car-racing.json](./60308-real-drift-car-racing.json) |
 | Real Drift Multiplayer | 256564 | [256564-real-drift-multiplayer.json](./256564-real-drift-multiplayer.json) |
 | Real Drift Multiplayer 2 | 265586 | [265586-real-drift-multiplayer-2.json](./265586-real-drift-multiplayer-2.json) |
@@ -3459,7 +3456,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Puzzles | 208841 | [208841-real-puzzles.json](./208841-real-puzzles.json) |
 | Real Racing | 67213 | [67213-real-racing.json](./67213-real-racing.json) |
 | Real Racing 2 | 11652 | [11652-real-racing-2.json](./11652-real-racing-2.json) |
-| Real Racing 2 HD | 90669 | [90669-real-racing-2-hd.json](./90669-real-racing-2-hd.json) |
 | Real Racing GTI | 343794 | [343794-real-racing-gti.json](./343794-real-racing-gti.json) |
 | Real Racing Next | 174956 | [174956-real-racing-next.json](./174956-real-racing-next.json) |
 | Real Rage | 207716 | [207716-real-rage.json](./207716-real-rage.json) |
@@ -3555,7 +3551,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealEscape | 425978 | [425978-realescape.json](./425978-realescape.json) |
 | RealFighter | 370887 | [370887-realfighter.json](./370887-realfighter.json) |
 | RealFit (VR fitness) | 153471 | [153471-realfit-vr-fitness.json](./153471-realfit-vr-fitness.json) |
-| RealFlight 8 | 90068 | [90068-realflight-8.json](./90068-realflight-8.json) |
 | RealFlight 8 Horizon: Hobby Edition | 162745 | [162745-realflight-8-horizon-hobby-edition.json](./162745-realflight-8-horizon-hobby-edition.json) |
 | RealFlight Evolution | 225210 | [225210-realflight-evolution.json](./225210-realflight-evolution.json) |
 | RealFlight Evolution: 2024 Year Content Pass | 297729 | [297729-realflight-evolution-2024-year-content-pass.json](./297729-realflight-evolution-2024-year-content-pass.json) |
@@ -7556,7 +7551,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverie in the Moonlight | 347433 | [347433-reverie-in-the-moonlight.json](./347433-reverie-in-the-moonlight.json) |
 | Reverie Knights Tactics | 151555 | [151555-reverie-knights-tactics.json](./151555-reverie-knights-tactics.json) |
 | Reverie Knights Tactics: Prologue | 156214 | [156214-reverie-knights-tactics-prologue.json](./156214-reverie-knights-tactics-prologue.json) |
-| Reverie: A Heroes Tale | 89951 | [89951-reverie-a-heroes-tale.json](./89951-reverie-a-heroes-tale.json) |
 | Reverie: An Odd Sim Date | 419152 | [419152-reverie-an-odd-sim-date.json](./419152-reverie-an-odd-sim-date.json) |
 | Reverie: Limited Edition | 166303 | [166303-reverie-limited-edition.json](./166303-reverie-limited-edition.json) |
 | Reverie: Sweet As Edition | 114418 | [114418-reverie-sweet-as-edition.json](./114418-reverie-sweet-as-edition.json) |
@@ -7979,7 +7973,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Fighter | 129413 | [129413-rhythm-fighter.json](./129413-rhythm-fighter.json) |
 | Rhythm Flash | 234445 | [234445-rhythm-flash.json](./234445-rhythm-flash.json) |
 | Rhythm Flow | 417915 | [417915-rhythm-flow.json](./417915-rhythm-flow.json) |
-| Rhythm Girl | 90070 | [90070-rhythm-girl.json](./90070-rhythm-girl.json) |
 | Rhythm Good | 216207 | [216207-rhythm-good.json](./216207-rhythm-good.json) |
 | Rhythm Heaven Fever | 5122 | [5122-rhythm-heaven-fever.json](./5122-rhythm-heaven-fever.json) |
 | Rhythm Heaven Groove | 337031 | [337031-rhythm-heaven-groove.json](./337031-rhythm-heaven-groove.json) |
@@ -10233,7 +10226,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robocraft | 7871 | [7871-robocraft.json](./7871-robocraft.json) |
 | Robocraft 2 | 217298 | [217298-robocraft-2.json](./217298-robocraft-2.json) |
 | Robocraft Infinity | 93843 | [93843-robocraft-infinity.json](./93843-robocraft-infinity.json) |
-| Robocraft Royale | 89976 | [89976-robocraft-royale.json](./89976-robocraft-royale.json) |
 | RoboCritters | 38749 | [38749-robocritters.json](./38749-robocritters.json) |
 | Robocrush | 364807 | [364807-robocrush.json](./364807-robocrush.json) |
 | Roboctletes | 272465 | [272465-roboctletes.json](./272465-roboctletes.json) |
@@ -14863,7 +14855,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russia | 278304 | [278304-russia.json](./278304-russia.json) |
 | Russia 2055 | 125293 | [125293-russia-2055.json](./125293-russia-2055.json) |
 | Russia Battlegrounds | 105271 | [105271-russia-battlegrounds.json](./105271-russia-battlegrounds.json) |
-| Russia Horror 20!8 | 90212 | [90212-russia-horror-20-8.json](./90212-russia-horror-20-8.json) |
 | Russia Inside Out: New Year | 368072 | [368072-russia-inside-out-new-year.json](./368072-russia-inside-out-new-year.json) |
 | Russia Roguelike | 116117 | [116117-russia-roguelike.json](./116117-russia-roguelike.json) |
 | Russia: The Great War in the East 1941-1945 | 44124 | [44124-russia-the-great-war-in-the-east-1941-1945.json](./44124-russia-the-great-war-in-the-east-1941-1945.json) |
@@ -14904,7 +14895,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Prison Mafia | 396960 | [396960-russian-prison-mafia.json](./396960-russian-prison-mafia.json) |
 | Russian Prison Sport: Ochko | 96458 | [96458-russian-prison-sport-ochko.json](./96458-russian-prison-sport-ochko.json) |
 | Russian Prison Tattoo Simulator | 155884 | [155884-russian-prison-tattoo-simulator.json](./155884-russian-prison-tattoo-simulator.json) |
-| Russian Prisoner VS Nazi Zombies | 90177 | [90177-russian-prisoner-vs-nazi-zombies.json](./90177-russian-prisoner-vs-nazi-zombies.json) |
 | Russian Psychiatric Pastoral | 248910 | [248910-russian-psychiatric-pastoral.json](./248910-russian-psychiatric-pastoral.json) |
 | Russian Random Speedmap Pack 3 | 311463 | [311463-russian-random-speedmap-pack-3.json](./311463-russian-random-speedmap-pack-3.json) |
 | Russian Roads | 81228 | [81228-russian-roads.json](./81228-russian-roads.json) |
