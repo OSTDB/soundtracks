@@ -8031,7 +8031,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cabin Game | 398960 | [398960-the-cabin-game.json](./398960-the-cabin-game.json) |
 | The Cabin: Summer Vacation \| Episode 1 | 215956 | [215956-the-cabin-summer-vacation-episode-1.json](./215956-the-cabin-summer-vacation-episode-1.json) |
 | The Cabin: VR Escape the Room | 30389 | [30389-the-cabin-vr-escape-the-room.json](./30389-the-cabin-vr-escape-the-room.json) |
-| The Cabinets of Doctor Arcana | 95597 | [95597-the-cabinets-of-doctor-arcana.json](./95597-the-cabinets-of-doctor-arcana.json) |
 | The Cable Center: Virtual Archive | 29025 | [29025-the-cable-center-virtual-archive.json](./29025-the-cable-center-virtual-archive.json) |
 | The Cable Guy | 261683 | [261683-the-cable-guy.json](./261683-the-cable-guy.json) |
 | The Cadaver Synod | 171838 | [171838-the-cadaver-synod.json](./171838-the-cadaver-synod.json) |
