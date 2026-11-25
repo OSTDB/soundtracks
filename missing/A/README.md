@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pizza Delivery | 328195 | [328195-a-pizza-delivery.json](./328195-a-pizza-delivery.json) |
 | A Place Far Away | 367479 | [367479-a-place-far-away.json](./367479-a-place-far-away.json) |
 | A Place for Every Potion | 425139 | [425139-a-place-for-every-potion.json](./425139-a-place-for-every-potion.json) |
+| A Place for Hue | 430889 | [430889-a-place-for-hue.json](./430889-a-place-for-hue.json) |
 | A Place in the Sun | 305424 | [305424-a-place-in-the-sun.json](./305424-a-place-in-the-sun.json) |
 | A Place of Significance | 414838 | [414838-a-place-of-significance.json](./414838-a-place-of-significance.json) |
 | A Place Where Summer Rain Falls | 399547 | [399547-a-place-where-summer-rain-falls.json](./399547-a-place-where-summer-rain-falls.json) |
@@ -2688,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss | 265405 | [265405-abyss.json](./265405-abyss.json) |
 | Abyss | 377542 | [377542-abyss.json](./377542-abyss.json) |
 | Abyss | 414121 | [414121-abyss.json](./414121-abyss.json) |
+| Abyss | 430999 | [430999-abyss.json](./430999-abyss.json) |
 | Abyss | 80512 | [80512-abyss.json](./80512-abyss.json) |
 | Abyss and Dark: The King's Secret Pledge | 103146 | [103146-abyss-and-dark-the-kings-secret-pledge.json](./103146-abyss-and-dark-the-kings-secret-pledge.json) |
 | Abyss and Dungeon | 292164 | [292164-abyss-and-dungeon.json](./292164-abyss-and-dungeon.json) |
@@ -12743,6 +12745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalith: Anomaly Zone Countermeasures DLC Set | 404267 | [404267-anomalith-anomaly-zone-countermeasures-dlc-set.json](./404267-anomalith-anomaly-zone-countermeasures-dlc-set.json) |
 | Anomalith: Digital Deluxe Edition | 404273 | [404273-anomalith-digital-deluxe-edition.json](./404273-anomalith-digital-deluxe-edition.json) |
 | Anomalogenos | 404998 | [404998-anomalogenos.json](./404998-anomalogenos.json) |
+| Anomalogist: Inumaki Manor | 430894 | [430894-anomalogist-inumaki-manor.json](./430894-anomalogist-inumaki-manor.json) |
 | Anomalous | 159426 | [159426-anomalous.json](./159426-anomalous.json) |
 | Anomalous Adventure | 309951 | [309951-anomalous-adventure.json](./309951-anomalous-adventure.json) |
 | Anomalous City | 250274 | [250274-anomalous-city.json](./250274-anomalous-city.json) |
@@ -14326,6 +14329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
 | Aquarium Designer: Japan | 238551 | [238551-aquarium-designer-japan.json](./238551-aquarium-designer-japan.json) |
 | Aquarium Designer: Sea Life | 199595 | [199595-aquarium-designer-sea-life.json](./199595-aquarium-designer-sea-life.json) |
+| Aquarium Empire | 430914 | [430914-aquarium-empire.json](./430914-aquarium-empire.json) |
 | Aquarium HD | 92030 | [92030-aquarium-hd.json](./92030-aquarium-hd.json) |
 | Aquarium in Cafe | 301743 | [301743-aquarium-in-cafe.json](./301743-aquarium-in-cafe.json) |
 | Aquarium Island: Underwater Kingdom | 99207 | [99207-aquarium-island-underwater-kingdom.json](./99207-aquarium-island-underwater-kingdom.json) |
@@ -16444,6 +16448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arknights: Endfield - Update 1.4: Homecoming | 410274 | [410274-arknights-endfield-update-1-4-homecoming.json](./410274-arknights-endfield-update-1-4-homecoming.json) |
 | Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
 | Arknights: Endfield - Update 1.6: Sanctuary of Ink | 423775 | [423775-arknights-endfield-update-1-6-sanctuary-of-ink.json](./423775-arknights-endfield-update-1-6-sanctuary-of-ink.json) |
+| Arknights: Endfield - Update 1.7: Meeting You in the World o’Shrooms | 430920 | [430920-arknights-endfield-update-1-7-meeting-you-in-the-world-o-shrooms.json](./430920-arknights-endfield-update-1-7-meeting-you-in-the-world-o-shrooms.json) |
 | Arknights: Release | 253344 | [253344-arknights-release.json](./253344-arknights-release.json) |
 | Arko | 143972 | [143972-arko.json](./143972-arko.json) |
 | Arkona | 398632 | [398632-arkona.json](./398632-arkona.json) |
