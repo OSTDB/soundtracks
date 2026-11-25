@@ -8480,6 +8480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
 | Mega Casanova | 270229 | [270229-mega-casanova.json](./270229-mega-casanova.json) |
 | Mega Cat Studios Collection | 413408 | [413408-mega-cat-studios-collection.json](./413408-mega-cat-studios-collection.json) |
+| Mega Cat Studios Collection 1 | 130688 | [130688-mega-cat-studios-collection-1.json](./130688-mega-cat-studios-collection-1.json) |
 | Mega Cat Studios Collection 2 | 145832 | [145832-mega-cat-studios-collection-2.json](./145832-mega-cat-studios-collection-2.json) |
 | Mega Cat Studios Collection 3 | 420397 | [420397-mega-cat-studios-collection-3.json](./420397-mega-cat-studios-collection-3.json) |
 | Mega City Force | 238767 | [238767-mega-city-force.json](./238767-mega-city-force.json) |
@@ -21442,7 +21443,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Giggle | 138201 | [138201-mr-giggle.json](./138201-mr-giggle.json) |
 | Mr Giggle 2 | 143043 | [143043-mr-giggle-2.json](./143043-mr-giggle-2.json) |
 | Mr Greedy: Tricky Riddles | 422513 | [422513-mr-greedy-tricky-riddles.json](./422513-mr-greedy-tricky-riddles.json) |
-| Mr Gun | 98848 | [98848-mr-gun.json](./98848-mr-gun.json) |
 | Mr Henry and his Magical Hat | 58508 | [58508-mr-henry-and-his-magical-hat.json](./58508-mr-henry-and-his-magical-hat.json) |
 | Mr Hero | 299410 | [299410-mr-hero.json](./299410-mr-hero.json) |
 | Mr Husky | 111210 | [111210-mr-husky.json](./111210-mr-husky.json) |
