@@ -12389,6 +12389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero Of Pixel Spire | 370912 | [370912-the-hero-of-pixel-spire.json](./370912-the-hero-of-pixel-spire.json) |
 | The Hero Project: Open Season | 96193 | [96193-the-hero-project-open-season.json](./96193-the-hero-project-open-season.json) |
 | The Hero Project: Open Season - Prodigal's Database for Powereds | 159595 | [159595-the-hero-project-open-season-prodigals-database-for-powereds.json](./159595-the-hero-project-open-season-prodigals-database-for-powereds.json) |
+| The Hero Project: Redemption Season | 33089 | [33089-the-hero-project-redemption-season.json](./33089-the-hero-project-redemption-season.json) |
 | The Hero Project: Redemption Season - MeChip Warning System | 170822 | [170822-the-hero-project-redemption-season-mechip-warning-system.json](./170822-the-hero-project-redemption-season-mechip-warning-system.json) |
 | The Hero Trap | 61922 | [61922-the-hero-trap.json](./61922-the-hero-trap.json) |
 | The Hero Unmasked! | 52274 | [52274-the-hero-unmasked.json](./52274-the-hero-unmasked.json) |
@@ -31614,6 +31615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower!2011:SE - Seattle KSEA Airport | 168190 | [168190-tower-2011-se-seattle-ksea-airport.json](./168190-tower-2011-se-seattle-ksea-airport.json) |
 | Tower!2011:SE - Toronto CYYZ Airport | 168195 | [168195-tower-2011-se-toronto-cyyz-airport.json](./168195-tower-2011-se-toronto-cyyz-airport.json) |
 | Tower!2011:SE - Washington KIAD Airport | 168197 | [168197-tower-2011-se-washington-kiad-airport.json](./168197-tower-2011-se-washington-kiad-airport.json) |
+| Tower!3D | 33091 | [33091-tower-3d.json](./33091-tower-3d.json) |
 | Tower!3D Pro | 29566 | [29566-tower-3d-pro.json](./29566-tower-3d-pro.json) |
 | Tower!3D Pro: CYVR Airport | 162293 | [162293-tower-3d-pro-cyvr-airport.json](./162293-tower-3d-pro-cyvr-airport.json) |
 | Tower!3D Pro: EDDF Airport | 162304 | [162304-tower-3d-pro-eddf-airport.json](./162304-tower-3d-pro-eddf-airport.json) |
