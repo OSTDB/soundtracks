@@ -2643,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidnapped | 79064 | [79064-kidnapped.json](./79064-kidnapped.json) |
 | Kidnapped Girl | 144969 | [144969-kidnapped-girl.json](./144969-kidnapped-girl.json) |
 | Kidnapped in Vostok | 235596 | [235596-kidnapped-in-vostok.json](./235596-kidnapped-in-vostok.json) |
+| Kidnapped Simulator | 420935 | [420935-kidnapped-simulator.json](./420935-kidnapped-simulator.json) |
 | Kidnapped! A Royal Birthday | 150398 | [150398-kidnapped-a-royal-birthday.json](./150398-kidnapped-a-royal-birthday.json) |
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kidnelis | 302832 | [302832-kidnelis.json](./302832-kidnelis.json) |
@@ -2948,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill The Emoji 2 | 342417 | [342417-kill-the-emoji-2.json](./342417-kill-the-emoji-2.json) |
 | Kill The Emperor | 398173 | [398173-kill-the-emperor.json](./398173-kill-the-emperor.json) |
 | Kill the God | 258626 | [258626-kill-the-god.json](./258626-kill-the-god.json) |
+| Kill the Hero | 421896 | [421896-kill-the-hero.json](./421896-kill-the-hero.json) |
 | Kill the Humans | 167269 | [167269-kill-the-humans.json](./167269-kill-the-humans.json) |
 | Kill the Ice Age Baby Adventure The Game | 318659 | [318659-kill-the-ice-age-baby-adventure-the-game.json](./318659-kill-the-ice-age-baby-adventure-the-game.json) |
 | Kill The K.O.T.H | 261794 | [261794-kill-the-k-o-t-h.json](./261794-kill-the-k-o-t-h.json) |
@@ -4024,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Pixels | 306219 | [306219-kingdom-of-pixels.json](./306219-kingdom-of-pixels.json) |
 | Kingdom of Rhea | 119026 | [119026-kingdom-of-rhea.json](./119026-kingdom-of-rhea.json) |
 | Kingdom of Secrets | 222963 | [222963-kingdom-of-secrets.json](./222963-kingdom-of-secrets.json) |
+| Kingdom of the Ants | 418121 | [418121-kingdom-of-the-ants.json](./418121-kingdom-of-the-ants.json) |
 | Kingdom of the Dead | 166793 | [166793-kingdom-of-the-dead.json](./166793-kingdom-of-the-dead.json) |
 | Kingdom of the Dinosaurs | 65072 | [65072-kingdom-of-the-dinosaurs.json](./65072-kingdom-of-the-dinosaurs.json) |
 | Kingdom of the Dragon | 54866 | [54866-kingdom-of-the-dragon.json](./54866-kingdom-of-the-dragon.json) |
@@ -5878,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koiken Otome | 141941 | [141941-koiken-otome.json](./141941-koiken-otome.json) |
 | Koikoi | 105266 | [105266-koikoi.json](./105266-koikoi.json) |
 | KoiKoi Revolution RX | 97850 | [97850-koikoi-revolution-rx.json](./97850-koikoi-revolution-rx.json) |
+| Koimori | 420563 | [420563-koimori.json](./420563-koimori.json) |
 | Koino no Kokoro Ikusei Game | 49683 | [49683-koino-no-kokoro-ikusei-game.json](./49683-koino-no-kokoro-ikusei-game.json) |
 | Koinori | 415117 | [415117-koinori.json](./415117-koinori.json) |
 | Koinu de Kururin | 412988 | [412988-koinu-de-kururin.json](./412988-koinu-de-kururin.json) |
@@ -6849,6 +6853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krzyżacy: The Knights of the Cross - Shining Stars | 289320 | [289320-krzyzacy-the-knights-of-the-cross-shining-stars.json](./289320-krzyzacy-the-knights-of-the-cross-shining-stars.json) |
 | Ks Tank War | 373311 | [373311-ks-tank-war.json](./373311-ks-tank-war.json) |
 | KSame | 64431 | [64431-ksame.json](./64431-ksame.json) |
+| KSEF | 423094 | [423094-ksef.json](./423094-ksef.json) |
 | Kselebox | 169978 | [169978-kselebox.json](./169978-kselebox.json) |
 | KSI Unleashed | 350371 | [350371-ksi-unleashed.json](./350371-ksi-unleashed.json) |
 | Ksiega Dzungli | 318486 | [318486-ksiega-dzungli.json](./318486-ksiega-dzungli.json) |
