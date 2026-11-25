@@ -9683,6 +9683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow Weaver | 140703 | [140703-flow-weaver.json](./140703-flow-weaver.json) |
 | Flow: Last Origins | 267471 | [267471-flow-last-origins.json](./267471-flow-last-origins.json) |
 | Flow: Syn x Vertue | 278265 | [278265-flow-syn-x-vertue.json](./278265-flow-syn-x-vertue.json) |
+| Flow: The Sliding | 41934 | [41934-flow-the-sliding.json](./41934-flow-the-sliding.json) |
 | Flow: Urban Dance Uprising | 43385 | [43385-flow-urban-dance-uprising.json](./43385-flow-urban-dance-uprising.json) |
 | Flow's Island | 143868 | [143868-flows-island.json](./143868-flows-island.json) |
 | Flowa | 239837 | [239837-flowa.json](./239837-flowa.json) |
@@ -10017,6 +10018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Over! 100KM! Mountains! | 373677 | [373677-fly-over-100km-mountains.json](./373677-fly-over-100km-mountains.json) |
 | Fly Punch Boom: First Impact! | 132201 | [132201-fly-punch-boom-first-impact.json](./132201-fly-punch-boom-first-impact.json) |
 | Fly Punch Boom! | 98110 | [98110-fly-punch-boom.json](./98110-fly-punch-boom.json) |
+| Fly Simulator | 40706 | [40706-fly-simulator.json](./40706-fly-simulator.json) |
 | Fly Spy | 12997 | [12997-fly-spy.json](./12997-fly-spy.json) |
 | Fly Swatter | 359725 | [359725-fly-swatter.json](./359725-fly-swatter.json) |
 | Fly Tales | 211630 | [211630-fly-tales.json](./211630-fly-tales.json) |
@@ -13459,6 +13461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy's Pizza Parlor Survival | 245306 | [245306-freddys-pizza-parlor-survival.json](./245306-freddys-pizza-parlor-survival.json) |
 | Freddy's Rescue Roundup | 72088 | [72088-freddys-rescue-roundup.json](./72088-freddys-rescue-roundup.json) |
 | Frederic 2: Evil Strikes Back | 85154 | [85154-frederic-2-evil-strikes-back.json](./85154-frederic-2-evil-strikes-back.json) |
+| Frederic: Resurrection of Music - Director's Cut | 33261 | [33261-frederic-resurrection-of-music-directors-cut.json](./33261-frederic-resurrection-of-music-directors-cut.json) |
 | Free | 287512 | [287512-free.json](./287512-free.json) |
 | Free Afternoon | 185445 | [185445-free-afternoon.json](./185445-free-afternoon.json) |
 | Free Agency | 128116 | [128116-free-agency.json](./128116-free-agency.json) |
