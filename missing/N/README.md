@@ -5630,6 +5630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nilia | 146898 | [146898-nilia.json](./146898-nilia.json) |
 | Nillhana | 82252 | [82252-nillhana.json](./82252-nillhana.json) |
 | Nils Holgerssons wunderbare Reise | 325680 | [325680-nils-holgerssons-wunderbare-reise.json](./325680-nils-holgerssons-wunderbare-reise.json) |
+| Nilsh | 423912 | [423912-nilsh.json](./423912-nilsh.json) |
 | Nilspace | 150102 | [150102-nilspace.json](./150102-nilspace.json) |
 | Nim | 100217 | [100217-nim.json](./100217-nim.json) |
 | Nim | 359761 | [359761-nim.json](./359761-nim.json) |
@@ -5865,6 +5866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden 3DS | 269572 | [269572-ninja-gaiden-3ds.json](./269572-ninja-gaiden-3ds.json) |
 | Ninja Gaiden 4: The Two Masters | 370951 | [370951-ninja-gaiden-4-the-two-masters.json](./370951-ninja-gaiden-4-the-two-masters.json) |
 | Ninja Gaiden Black | 18735 | [18735-ninja-gaiden-black.json](./18735-ninja-gaiden-black.json) |
+| Ninja Gaiden Black Recompiled | 424074 | [424074-ninja-gaiden-black-recompiled.json](./424074-ninja-gaiden-black-recompiled.json) |
 | Ninja Gaiden Clans | 65046 | [65046-ninja-gaiden-clans.json](./65046-ninja-gaiden-clans.json) |
 | Ninja Gaiden Hurricane Pack II | 215548 | [215548-ninja-gaiden-hurricane-pack-ii.json](./215548-ninja-gaiden-hurricane-pack-ii.json) |
 | Ninja Gaiden II | 198838 | [198838-ninja-gaiden-ii.json](./198838-ninja-gaiden-ii.json) |
@@ -7151,6 +7153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Shadow | 102840 | [102840-nobunagas-shadow.json](./102840-nobunagas-shadow.json) |
 | Nobuyuki Forces 4 | 54610 | [54610-nobuyuki-forces-4.json](./54610-nobuyuki-forces-4.json) |
 | NoCanNoTap | 254158 | [254158-nocannotap.json](./254158-nocannotap.json) |
+| Nocciolino & the Creamy Adventure | 424171 | [424171-nocciolino-and-the-creamy-adventure.json](./424171-nocciolino-and-the-creamy-adventure.json) |
 | Noce | 111848 | [111848-noce.json](./111848-noce.json) |
 | Noch | 139173 | [139173-noch.json](./139173-noch.json) |
 | Noch mal! | 108581 | [108581-noch-mal.json](./108581-noch-mal.json) |
