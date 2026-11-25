@@ -10496,6 +10496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plan Z | 166859 | [166859-plan-z.json](./166859-plan-z.json) |
 | Plan Z Chapter 1 | 32420 | [32420-plan-z-chapter-1.json](./32420-plan-z-chapter-1.json) |
 | Plana Gravatatis | 135076 | [135076-plana-gravatatis.json](./135076-plana-gravatatis.json) |
+| Planar Conquest | 33335 | [33335-planar-conquest.json](./33335-planar-conquest.json) |
 | Planaris 2+ | 119996 | [119996-planaris-2.json](./119996-planaris-2.json) |
 | Planarity | 246117 | [246117-planarity.json](./246117-planarity.json) |
 | Planck | 92468 | [92468-planck.json](./92468-planck.json) |
@@ -14077,6 +14078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Synth Gunner | 166797 | [166797-poly-synth-gunner.json](./166797-poly-synth-gunner.json) |
 | Poly TD | 333342 | [333342-poly-td.json](./333342-poly-td.json) |
 | Poly Tower | 347712 | [347712-poly-tower.json](./347712-poly-tower.json) |
+| Poly Towns | 33588 | [33588-poly-towns.json](./33588-poly-towns.json) |
 | Poly Truck | 406181 | [406181-poly-truck.json](./406181-poly-truck.json) |
 | Poly Vita | 175604 | [175604-poly-vita.json](./175604-poly-vita.json) |
 | Poly World | 90129 | [90129-poly-world.json](./90129-poly-world.json) |
@@ -19746,6 +19748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pual Blarp Ghoul Cop | 327945 | [327945-pual-blarp-ghoul-cop.json](./327945-pual-blarp-ghoul-cop.json) |
 | PUB Bubbles | 104360 | [104360-pub-bubbles.json](./104360-pub-bubbles.json) |
 | Pub Darts | 77101 | [77101-pub-darts.json](./77101-pub-darts.json) |
+| Pub Encounter | 33397 | [33397-pub-encounter.json](./33397-pub-encounter.json) |
 | Pub Fascination | 226735 | [226735-pub-fascination.json](./226735-pub-fascination.json) |
 | Pub Games | 223092 | [223092-pub-games.json](./223092-pub-games.json) |
 | Pub Games | 399605 | [399605-pub-games.json](./399605-pub-games.json) |
