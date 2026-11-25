@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-25T03:35:56.245Z",
-  "total_soundtracks": 3945,
+  "generated_at": "2026-11-25T05:05:56.708Z",
+  "total_soundtracks": 3946,
   "games": [
     {
       "igdb_id": 292844,
@@ -42755,6 +42755,20 @@
         {
           "album_name": "The Bottom of the Well Original Game Soundtrack",
           "spotify_url": "https://open.spotify.com/album/0od5m8SYhsj7JSRnpJRlFW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 95597,
+      "game_name": "The Cabinets of Doctor Arcana",
+      "game_url": "https://ostdb.net/games/the-cabinets-of-doctor-arcana",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737bd352a07ada9ff03f29ee5f",
+      "albums": [
+        {
+          "album_name": "The Cabinets of Doctor Arcana (Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6CwDG7LY9mc5zsSXq3oOio",
           "apple_music_url": "",
           "album_link_url": ""
         }
