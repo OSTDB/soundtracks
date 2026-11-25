@@ -15325,6 +15325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash Em | 176825 | [176825-slash-em.json](./176825-slash-em.json) |
 | Slash It | 30129 | [30129-slash-it.json](./30129-slash-it.json) |
 | Slash It 2 | 29694 | [29694-slash-it-2.json](./29694-slash-it-2.json) |
+| Slash It Ultimate | 44285 | [44285-slash-it-ultimate.json](./44285-slash-it-ultimate.json) |
 | Slash Mr. M | 181152 | [181152-slash-mr-m.json](./181152-slash-mr-m.json) |
 | Slash Ninja | 147651 | [147651-slash-ninja.json](./147651-slash-ninja.json) |
 | Slash of Bullet | 151675 | [151675-slash-of-bullet.json](./151675-slash-of-bullet.json) |
@@ -17910,6 +17911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SNK Arcade Classics Vol. 1 | 5162 | [5162-snk-arcade-classics-vol-1.json](./5162-snk-arcade-classics-vol-1.json) |
 | SNK Fighting Legends | 149285 | [149285-snk-fighting-legends.json](./149285-snk-fighting-legends.json) |
 | SNK Fighting Legends: Collector's Edition | 163143 | [163143-snk-fighting-legends-collectors-edition.json](./163143-snk-fighting-legends-collectors-edition.json) |
+| SNK Gals' Fighters | 43983 | [43983-snk-gals-fighters.json](./43983-snk-gals-fighters.json) |
 | SNK Heroines: Tag Team Frenzy | 81146 | [81146-snk-heroines-tag-team-frenzy.json](./81146-snk-heroines-tag-team-frenzy.json) |
 | SNK Heroines: Tag Team Frenzy - Diamond Dream Edition | 81576 | [81576-snk-heroines-tag-team-frenzy-diamond-dream-edition.json](./81576-snk-heroines-tag-team-frenzy-diamond-dream-edition.json) |
 | SNK Heroines: Tag Team Frenzy - Miss X | 405898 | [405898-snk-heroines-tag-team-frenzy-miss-x.json](./405898-snk-heroines-tag-team-frenzy-miss-x.json) |
@@ -19268,6 +19270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldiers of Fortune | 4527 | [4527-soldiers-of-fortune.json](./4527-soldiers-of-fortune.json) |
 | Soldiers of Freedom | 54847 | [54847-soldiers-of-freedom.json](./54847-soldiers-of-freedom.json) |
 | Soldiers of Heaven VR | 367703 | [367703-soldiers-of-heaven-vr.json](./367703-soldiers-of-heaven-vr.json) |
+| Soldiers of the Universe | 43883 | [43883-soldiers-of-the-universe.json](./43883-soldiers-of-the-universe.json) |
 | Soldiers of Vietnam: American | 220048 | [220048-soldiers-of-vietnam-american.json](./220048-soldiers-of-vietnam-american.json) |
 | Soldiers vs. Zombies: Tower Defense | 345385 | [345385-soldiers-vs-zombies-tower-defense.json](./345385-soldiers-vs-zombies-tower-defense.json) |
 | Soldiers: Arena | 34024 | [34024-soldiers-arena.json](./34024-soldiers-arena.json) |
@@ -32225,6 +32228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strangers | 286803 | [286803-strangers.json](./286803-strangers.json) |
 | Strangers at Night | 178511 | [178511-strangers-at-night.json](./178511-strangers-at-night.json) |
 | Strangers Awaken | 262377 | [262377-strangers-awaken.json](./262377-strangers-awaken.json) |
+| Strangers in a Strange Land | 44202 | [44202-strangers-in-a-strange-land.json](./44202-strangers-in-a-strange-land.json) |
 | Strangers In The Land Of Turnabouts | 303247 | [303247-strangers-in-the-land-of-turnabouts.json](./303247-strangers-in-the-land-of-turnabouts.json) |
 | Strangers Lurk | 335263 | [335263-strangers-lurk.json](./335263-strangers-lurk.json) |
 | Strangers of the Power | 55398 | [55398-strangers-of-the-power.json](./55398-strangers-of-the-power.json) |
@@ -41515,6 +41519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Souls: Neverseen | 94772 | [94772-swords-and-souls-neverseen.json](./94772-swords-and-souls-neverseen.json) |
 | Swords and Galleons | 68985 | [68985-swords-and-galleons.json](./68985-swords-and-galleons.json) |
 | Swords and Hexes | 274346 | [274346-swords-and-hexes.json](./274346-swords-and-hexes.json) |
+| Swords and Sandals 2 Redux: Maximus Edition | 43131 | [43131-swords-and-sandals-2-redux-maximus-edition.json](./43131-swords-and-sandals-2-redux-maximus-edition.json) |
 | Swords and Sandals 5 Redux | 81817 | [81817-swords-and-sandals-5-redux.json](./81817-swords-and-sandals-5-redux.json) |
 | Swords and Sandals Classic Collection | 117173 | [117173-swords-and-sandals-classic-collection.json](./117173-swords-and-sandals-classic-collection.json) |
 | Swords and Sandals Crusader | 321862 | [321862-swords-and-sandals-crusader.json](./321862-swords-and-sandals-crusader.json) |
