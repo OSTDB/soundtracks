@@ -7658,6 +7658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin² | 313360 | [313360-pikmin2.json](./313360-pikmin2.json) |
 | Piko Fox! | 336610 | [336610-piko-fox.json](./336610-piko-fox.json) |
 | Piko Interactive Arcade 1 | 251707 | [251707-piko-interactive-arcade-1.json](./251707-piko-interactive-arcade-1.json) |
+| Piko Interactive Collection 1 | 130691 | [130691-piko-interactive-collection-1.json](./130691-piko-interactive-collection-1.json) |
 | Piko Interactive Collection 2 | 138894 | [138894-piko-interactive-collection-2.json](./138894-piko-interactive-collection-2.json) |
 | Piko Interactive Collection 3 | 241982 | [241982-piko-interactive-collection-3.json](./241982-piko-interactive-collection-3.json) |
 | Piko Interactive Collection 4 | 291545 | [291545-piko-interactive-collection-4.json](./291545-piko-interactive-collection-4.json) |
@@ -10888,6 +10889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetside | 299854 | [299854-planetside.json](./299854-planetside.json) |
 | PlanetSide 2 | 1265 | [1265-planetside-2.json](./1265-planetside-2.json) |
 | PlanetSide 2: Essential Pack | 225573 | [225573-planetside-2-essential-pack.json](./225573-planetside-2-essential-pack.json) |
+| PlanetSide Arena | 113362 | [113362-planetside-arena.json](./113362-planetside-arena.json) |
 | PlanetSide Arena: Legendary Edition | 154452 | [154452-planetside-arena-legendary-edition.json](./154452-planetside-arena-legendary-edition.json) |
 | PlanetSide Arena: Recruit Edition | 154451 | [154451-planetside-arena-recruit-edition.json](./154451-planetside-arena-recruit-edition.json) |
 | PlanetSide: Aftershock | 201891 | [201891-planetside-aftershock.json](./201891-planetside-aftershock.json) |
@@ -15401,6 +15403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potio Mellow | 239695 | [239695-potio-mellow.json](./239695-potio-mellow.json) |
 | Potion Approaching | 426888 | [426888-potion-approaching.json](./426888-potion-approaching.json) |
 | Potion Brew | 236552 | [236552-potion-brew.json](./236552-potion-brew.json) |
+| Potion Commotion | 130128 | [130128-potion-commotion.json](./130128-potion-commotion.json) |
 | Potion Commotion | 180864 | [180864-potion-commotion.json](./180864-potion-commotion.json) |
 | Potion Commotion | 246494 | [246494-potion-commotion.json](./246494-potion-commotion.json) |
 | Potion Commotion: Heart Edition | 135697 | [135697-potion-commotion-heart-edition.json](./135697-potion-commotion-heart-edition.json) |
