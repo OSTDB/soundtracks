@@ -2010,7 +2010,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Quest | 144926 | [144926-happy-quest.json](./144926-happy-quest.json) |
 | Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
 | Happy Race | 195041 | [195041-happy-race.json](./195041-happy-race.json) |
-| Happy Racing - Top Wheels Game | 91350 | [91350-happy-racing-top-wheels-game.json](./91350-happy-racing-top-wheels-game.json) |
 | Happy Racing: Online Wheels | 87349 | [87349-happy-racing-online-wheels.json](./87349-happy-racing-online-wheels.json) |
 | Happy Ranch | 183653 | [183653-happy-ranch.json](./183653-happy-ranch.json) |
 | Happy Rider 2 | 95789 | [95789-happy-rider-2.json](./95789-happy-rider-2.json) |
@@ -3822,7 +3821,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heard of the Story? | 211791 | [211791-heard-of-the-story.json](./211791-heard-of-the-story.json) |
 | Heard There Was A Chosen One | 148009 | [148009-heard-there-was-a-chosen-one.json](./148009-heard-there-was-a-chosen-one.json) |
 | Heardle | 193526 | [193526-heardle.json](./193526-heardle.json) |
-| Hearing | 94131 | [94131-hearing.json](./94131-hearing.json) |
 | Hearing Voices | 405323 | [405323-hearing-voices.json](./405323-hearing-voices.json) |
 | Hearsay | 426731 | [426731-hearsay.json](./426731-hearsay.json) |
 | Hearse Hero | 406119 | [406119-hearse-hero.json](./406119-hearse-hero.json) |
