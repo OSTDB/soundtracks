@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Elcano | 291898 | [291898-race-elcano.json](./291898-race-elcano.json) |
 | Race for Grace | 389151 | [389151-race-for-grace.json](./389151-race-for-grace.json) |
 | Race For Nuts | 359481 | [359481-race-for-nuts.json](./359481-race-for-nuts.json) |
+| Race for the Galaxy | 44528 | [44528-race-for-the-galaxy.json](./44528-race-for-the-galaxy.json) |
 | Race for the Galaxy: Brink of War | 171486 | [171486-race-for-the-galaxy-brink-of-war.json](./171486-race-for-the-galaxy-brink-of-war.json) |
 | Race for the Galaxy: Rebel vs. Imperium | 167759 | [167759-race-for-the-galaxy-rebel-vs-imperium.json](./167759-race-for-the-galaxy-rebel-vs-imperium.json) |
 | Race for The White House | 234170 | [234170-race-for-the-white-house.json](./234170-race-for-the-white-house.json) |
@@ -8088,6 +8089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ria | 237712 | [237712-ria.json](./237712-ria.json) |
 | Ria Action Adventure | 197737 | [197737-ria-action-adventure.json](./197737-ria-action-adventure.json) |
 | Ria's Hook | 95213 | [95213-rias-hook.json](./95213-rias-hook.json) |
+| Riaaf the Spider | 44114 | [44114-riaaf-the-spider.json](./44114-riaaf-the-spider.json) |
 | Riajuu Plus ver. Komatsuzaki Kaname | 83386 | [83386-riajuu-plus-ver-komatsuzaki-kaname.json](./83386-riajuu-plus-ver-komatsuzaki-kaname.json) |
 | Riana Rouge | 3713 | [3713-riana-rouge.json](./3713-riana-rouge.json) |
 | Riba | 176710 | [176710-riba.json](./176710-riba.json) |
@@ -13798,6 +13800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League Live 2: Quick Match | 106013 | [106013-rugby-league-live-2-quick-match.json](./106013-rugby-league-live-2-quick-match.json) |
 | Rugby League Live 2: World Cup Edition | 194940 | [194940-rugby-league-live-2-world-cup-edition.json](./194940-rugby-league-live-2-world-cup-edition.json) |
 | Rugby League Live 3 | 17623 | [17623-rugby-league-live-3.json](./17623-rugby-league-live-3.json) |
+| Rugby League Live 4 | 43061 | [43061-rugby-league-live-4.json](./43061-rugby-league-live-4.json) |
 | Rugby League Live 4: World Cup Edition | 83777 | [83777-rugby-league-live-4-world-cup-edition.json](./83777-rugby-league-live-4-world-cup-edition.json) |
 | Rugby League Raw | 385080 | [385080-rugby-league-raw.json](./385080-rugby-league-raw.json) |
 | Rugby League Riot | 274478 | [274478-rugby-league-riot.json](./274478-rugby-league-riot.json) |
