@@ -1622,7 +1622,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | False Feed | 428475 | [428475-false-feed.json](./428475-false-feed.json) |
 | False Flag | 401805 | [401805-false-flag.json](./401805-false-flag.json) |
 | False Frights | 405299 | [405299-false-frights.json](./405299-false-frights.json) |
-| False Front | 97920 | [97920-false-front.json](./97920-false-front.json) |
 | False Fruit | 399201 | [399201-false-fruit.json](./399201-false-fruit.json) |
 | False God | 399172 | [399172-false-god.json](./399172-false-god.json) |
 | False Hero | 275734 | [275734-false-hero.json](./275734-false-hero.json) |
@@ -3853,7 +3852,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fated Flatline | 317649 | [317649-fated-flatline.json](./317649-fated-flatline.json) |
 | Fated Haven | 61724 | [61724-fated-haven.json](./61724-fated-haven.json) |
 | Fated Haven: Chapter One | 384467 | [384467-fated-haven-chapter-one.json](./384467-fated-haven-chapter-one.json) |
-| Fated Kingdom | 97111 | [97111-fated-kingdom.json](./97111-fated-kingdom.json) |
 | Fated Land | 317164 | [317164-fated-land.json](./317164-fated-land.json) |
 | Fated Mate | 381974 | [381974-fated-mate.json](./381974-fated-mate.json) |
 | Fated Retrace: Operation Ascension | 286865 | [286865-fated-retrace-operation-ascension.json](./286865-fated-retrace-operation-ascension.json) |
@@ -10515,7 +10513,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Force | 70363 | [70363-food-force.json](./70363-food-force.json) |
 | Food Frenzy | 209465 | [209465-food-frenzy.json](./209465-food-frenzy.json) |
 | Food From a Stranger | 378211 | [378211-food-from-a-stranger.json](./378211-food-from-a-stranger.json) |
-| Food From the Sky | 96966 | [96966-food-from-the-sky.json](./96966-food-from-the-sky.json) |
 | Food Gang | 144361 | [144361-food-gang.json](./144361-food-gang.json) |
 | Food Girls - Bubbles' Drink Stand VR | 131823 | [131823-food-girls-bubbles-drink-stand-vr.json](./131823-food-girls-bubbles-drink-stand-vr.json) |
 | Food Girls: Civil War | 127701 | [127701-food-girls-civil-war.json](./127701-food-girls-civil-war.json) |
