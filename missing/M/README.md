@@ -14844,6 +14844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Pur | 79640 | [79640-mini-golf-pur.json](./79640-mini-golf-pur.json) |
 | Mini Golf Quest | 386373 | [386373-mini-golf-quest.json](./386373-mini-golf-quest.json) |
 | Mini Golf Resort | 26587 | [26587-mini-golf-resort.json](./26587-mini-golf-resort.json) |
+| Mini Golf Resort DS | 26588 | [26588-mini-golf-resort-ds.json](./26588-mini-golf-resort-ds.json) |
 | Mini Golf RPG | 188400 | [188400-mini-golf-rpg.json](./188400-mini-golf-rpg.json) |
 | Mini Golf Simulator | 324808 | [324808-mini-golf-simulator.json](./324808-mini-golf-simulator.json) |
 | Mini Golf Simulator | 407552 | [407552-mini-golf-simulator.json](./407552-mini-golf-simulator.json) |
@@ -15862,6 +15863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Clue: Peril In Pemberley! | 229888 | [229888-miss-clue-peril-in-pemberley.json](./229888-miss-clue-peril-in-pemberley.json) |
 | Miss Clue: Secret of the Haunted Garden | 405176 | [405176-miss-clue-secret-of-the-haunted-garden.json](./405176-miss-clue-secret-of-the-haunted-garden.json) |
 | Miss Detective's Undercover | 202817 | [202817-miss-detectives-undercover.json](./202817-miss-detectives-undercover.json) |
+| Miss Fisher and the Deathly Maze | 26783 | [26783-miss-fisher-and-the-deathly-maze.json](./26783-miss-fisher-and-the-deathly-maze.json) |
 | Miss Furry | 156731 | [156731-miss-furry.json](./156731-miss-furry.json) |
 | Miss Inconspicuous Maid Girl Cleaning Co. | 327905 | [327905-miss-inconspicuous-maid-girl-cleaning-co.json](./327905-miss-inconspicuous-maid-girl-cleaning-co.json) |
 | Miss Inconspicuous Maid Girl Cleaning Co. 2 | 375454 | [375454-miss-inconspicuous-maid-girl-cleaning-co-2.json](./375454-miss-inconspicuous-maid-girl-cleaning-co-2.json) |
@@ -19880,6 +19882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphine | 26520 | [26520-morphine.json](./26520-morphine.json) |
 | Morphing | 335215 | [335215-morphing.json](./335215-morphing.json) |
 | Morphing Blocks | 428952 | [428952-morphing-blocks.json](./428952-morphing-blocks.json) |
+| Morphite | 27314 | [27314-morphite.json](./27314-morphite.json) |
 | Morphling | 184337 | [184337-morphling.json](./184337-morphling.json) |
 | Morphman | 232517 | [232517-morphman.json](./232517-morphman.json) |
 | Morpho Reverie | 415726 | [415726-morpho-reverie.json](./415726-morpho-reverie.json) |
@@ -22440,6 +22443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Miners X | 265159 | [265159-murder-miners-x.json](./265159-murder-miners-x.json) |
 | Murder Mystery 2: Criminal Case | 130649 | [130649-murder-mystery-2-criminal-case.json](./130649-murder-mystery-2-criminal-case.json) |
 | Murder Mystery 3: A Life of Crime | 130650 | [130650-murder-mystery-3-a-life-of-crime.json](./130650-murder-mystery-3-a-life-of-crime.json) |
+| Murder Mystery Adventure | 27302 | [27302-murder-mystery-adventure.json](./27302-murder-mystery-adventure.json) |
 | Murder Mystery Bundle | 259134 | [259134-murder-mystery-bundle.json](./259134-murder-mystery-bundle.json) |
 | Murder Mystery Case 3: Who Killed Brett Penance - The Environmental Surfer | 73640 | [73640-murder-mystery-case-3-who-killed-brett-penance-the-environmental-surfer.json](./73640-murder-mystery-case-3-who-killed-brett-penance-the-environmental-surfer.json) |
 | Murder Mystery Case 4: Who Killed Taylor French - The Case of the Undressed Reporter | 71136 | [71136-murder-mystery-case-4-who-killed-taylor-french-the-case-of-the-undressed-reporter.json](./71136-murder-mystery-case-4-who-killed-taylor-french-the-case-of-the-undressed-reporter.json) |
