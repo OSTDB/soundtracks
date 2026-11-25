@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-25T02:35:56.642Z",
-  "total_soundtracks": 3944,
+  "generated_at": "2026-11-25T03:35:56.245Z",
+  "total_soundtracks": 3945,
   "games": [
     {
       "igdb_id": 292844,
@@ -15,6 +15,20 @@
         {
           "album_name": "[REDACTED] (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6PC15BlCr8XSHfGsZIWFzy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 96199,
+      "game_name": "#Breakforcist Battle",
+      "game_url": "https://ostdb.net/games/breakforcist-battle",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27350c62f3abdcf631395d19e7c",
+      "albums": [
+        {
+          "album_name": "#Breakforcist Battle (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2R00efuLG7SkOi68k87MTo",
           "apple_music_url": "",
           "album_link_url": ""
         }
