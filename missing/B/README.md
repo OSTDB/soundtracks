@@ -4010,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battaglia Navale & Forza 4 | 324748 | [324748-battaglia-navale-and-forza-4.json](./324748-battaglia-navale-and-forza-4.json) |
 | Battal Gazi: Stone of Yada | 172991 | [172991-battal-gazi-stone-of-yada.json](./172991-battal-gazi-stone-of-yada.json) |
 | Battalion Commander | 26289 | [26289-battalion-commander.json](./26289-battalion-commander.json) |
+| Battalion Commander | 27128 | [27128-battalion-commander.json](./27128-battalion-commander.json) |
 | Battalion Legacy | 17446 | [17446-battalion-legacy.json](./17446-battalion-legacy.json) |
 | Battalion Wars | 3797 | [3797-battalion-wars.json](./3797-battalion-wars.json) |
 | Battalion Wars 2 | 4708 | [4708-battalion-wars-2.json](./4708-battalion-wars-2.json) |
@@ -4717,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Support | 336727 | [336727-battle-support.json](./336727-battle-support.json) |
 | Battle Support: Deluxe Edition | 256110 | [256110-battle-support-deluxe-edition.json](./256110-battle-support-deluxe-edition.json) |
 | Battle Support: Ultimate Edition | 256109 | [256109-battle-support-ultimate-edition.json](./256109-battle-support-ultimate-edition.json) |
+| Battle Supremacy | 26895 | [26895-battle-supremacy.json](./26895-battle-supremacy.json) |
 | Battle Supremacy: Evolution | 88673 | [88673-battle-supremacy-evolution.json](./88673-battle-supremacy-evolution.json) |
 | Battle Supremacy: Ground Assault | 122468 | [122468-battle-supremacy-ground-assault.json](./122468-battle-supremacy-ground-assault.json) |
 | Battle Survival in Space | 215472 | [215472-battle-survival-in-space.json](./215472-battle-survival-in-space.json) |
@@ -8129,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Inseparable | 257701 | [257701-beyond-inseparable.json](./257701-beyond-inseparable.json) |
 | Beyond Kung-Fu | 263650 | [263650-beyond-kung-fu.json](./263650-beyond-kung-fu.json) |
 | Beyond Lost Planets | 386300 | [386300-beyond-lost-planets.json](./386300-beyond-lost-planets.json) |
+| Beyond Magic | 32941 | [32941-beyond-magic.json](./32941-beyond-magic.json) |
 | Beyond Mankind: The Awakening | 160002 | [160002-beyond-mankind-the-awakening.json](./160002-beyond-mankind-the-awakening.json) |
 | Beyond Melee | 294576 | [294576-beyond-melee.json](./294576-beyond-melee.json) |
 | Beyond Memoria | 386302 | [386302-beyond-memoria.json](./386302-beyond-memoria.json) |
