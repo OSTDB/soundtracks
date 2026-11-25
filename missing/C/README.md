@@ -11636,6 +11636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classroom Mystery Secrets Behind the Lessons | 420681 | [420681-classroom-mystery-secrets-behind-the-lessons.json](./420681-classroom-mystery-secrets-behind-the-lessons.json) |
 | Classroom of the Elite: Merge Puzzle Special Exam | 350524 | [350524-classroom-of-the-elite-merge-puzzle-special-exam.json](./350524-classroom-of-the-elite-merge-puzzle-special-exam.json) |
 | Classroom Whispers | 321729 | [321729-classroom-whispers.json](./321729-classroom-whispers.json) |
+| ClassWarfare | 422282 | [422282-classwarfare.json](./422282-classwarfare.json) |
 | Classy Train | 213021 | [213021-classy-train.json](./213021-classy-train.json) |
 | Clatter | 112721 | [112721-clatter.json](./112721-clatter.json) |
 | Clatter | 385397 | [385397-clatter.json](./385397-clatter.json) |
@@ -13339,6 +13340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee & Boobs | 347219 | [347219-coffee-and-boobs.json](./347219-coffee-and-boobs.json) |
 | Coffee & Boobs: Grand Gala | 351386 | [351386-coffee-and-boobs-grand-gala.json](./351386-coffee-and-boobs-grand-gala.json) |
 | Coffee & Boobs: Raiders of the Witch’s Elixir | 372184 | [372184-coffee-and-boobs-raiders-of-the-witch-s-elixir.json](./372184-coffee-and-boobs-raiders-of-the-witch-s-elixir.json) |
+| Coffee & Fox | 418469 | [418469-coffee-and-fox.json](./418469-coffee-and-fox.json) |
 | Coffee Addict | 62808 | [62808-coffee-addict.json](./62808-coffee-addict.json) |
 | Coffee At Night | 339351 | [339351-coffee-at-night.json](./339351-coffee-at-night.json) |
 | Coffee Bar Renovator | 216608 | [216608-coffee-bar-renovator.json](./216608-coffee-bar-renovator.json) |
@@ -15814,6 +15816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conker: Gettin' Medieval | 284540 | [284540-conker-gettin-medieval.json](./284540-conker-gettin-medieval.json) |
 | Conker: Live & Reloaded | 1425 | [1425-conker-live-and-reloaded.json](./1425-conker-live-and-reloaded.json) |
 | Conker's Bad Fur Day | 1286 | [1286-conkers-bad-fur-day.json](./1286-conkers-bad-fur-day.json) |
+| Conker's Bad Fur Day: Recompiled | 420268 | [420268-conkers-bad-fur-day-recompiled.json](./420268-conkers-bad-fur-day-recompiled.json) |
 | Conker's Bad Fur Day: Reloaded | 421201 | [421201-conkers-bad-fur-day-reloaded.json](./421201-conkers-bad-fur-day-reloaded.json) |
 | Conker's High Rule Tail | 42207 | [42207-conkers-high-rule-tail.json](./42207-conkers-high-rule-tail.json) |
 | Conker's Other Bad Fur Day | 77970 | [77970-conkers-other-bad-fur-day.json](./77970-conkers-other-bad-fur-day.json) |
@@ -16751,6 +16754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Beena: o-Ryouri Dekichatta! | 327569 | [327569-cooking-beena-o-ryouri-dekichatta.json](./327569-cooking-beena-o-ryouri-dekichatta.json) |
 | Cooking Bride to Primrose Lake | 417602 | [417602-cooking-bride-to-primrose-lake.json](./417602-cooking-bride-to-primrose-lake.json) |
 | Cooking by the Numbers | 364616 | [364616-cooking-by-the-numbers.json](./364616-cooking-by-the-numbers.json) |
+| Cooking Carnage | 420897 | [420897-cooking-carnage.json](./420897-cooking-carnage.json) |
 | Cooking Cat-Astrophe | 393882 | [393882-cooking-cat-astrophe.json](./393882-cooking-cat-astrophe.json) |
 | Cooking Champions | 119017 | [119017-cooking-champions.json](./119017-cooking-champions.json) |
 | Cooking Championship | 204325 | [204325-cooking-championship.json](./204325-cooking-championship.json) |
