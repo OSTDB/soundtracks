@@ -6256,6 +6256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes and Knights | 317434 | [317434-gnomes-and-knights.json](./317434-gnomes-and-knights.json) |
 | Gnomes and Knights: Path of Success | 347324 | [347324-gnomes-and-knights-path-of-success.json](./347324-gnomes-and-knights-path-of-success.json) |
 | Gnomes Garden | 34122 | [34122-gnomes-garden.json](./34122-gnomes-garden.json) |
+| Gnomes Garden 2 | 33329 | [33329-gnomes-garden-2.json](./33329-gnomes-garden-2.json) |
 | Gnomes Garden 3 In 1 Bundle | 117892 | [117892-gnomes-garden-3-in-1-bundle.json](./117892-gnomes-garden-3-in-1-bundle.json) |
 | Gnomes Garden 3: The Thief of Castles | 30869 | [30869-gnomes-garden-3-the-thief-of-castles.json](./30869-gnomes-garden-3-the-thief-of-castles.json) |
 | Gnomes Garden Collection | 284868 | [284868-gnomes-garden-collection.json](./284868-gnomes-garden-collection.json) |
@@ -12936,6 +12937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Gaia | 353779 | [353779-guns-of-gaia.json](./353779-guns-of-gaia.json) |
 | Guns of Glory | 91267 | [91267-guns-of-glory.json](./91267-guns-of-glory.json) |
 | Guns of Icarus Alliance | 21989 | [21989-guns-of-icarus-alliance.json](./21989-guns-of-icarus-alliance.json) |
+| Guns of Infinity | 33440 | [33440-guns-of-infinity.json](./33440-guns-of-infinity.json) |
 | Guns of Liberty | 74715 | [74715-guns-of-liberty.json](./74715-guns-of-liberty.json) |
 | Guns of Mercy | 114176 | [114176-guns-of-mercy.json](./114176-guns-of-mercy.json) |
 | Guns of Mercy: Rangers Edition | 115297 | [115297-guns-of-mercy-rangers-edition.json](./115297-guns-of-mercy-rangers-edition.json) |
