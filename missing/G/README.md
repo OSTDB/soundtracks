@@ -9583,6 +9583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grauen no Torikago: Kapitel 6 - Senritsu | 315063 | [315063-grauen-no-torikago-kapitel-6-senritsu.json](./315063-grauen-no-torikago-kapitel-6-senritsu.json) |
 | Graularm | 126430 | [126430-graularm.json](./126430-graularm.json) |
 | Grav | 18290 | [18290-grav.json](./18290-grav.json) |
+| Grav Blazer | 43082 | [43082-grav-blazer.json](./43082-grav-blazer.json) |
 | Grav Blazer Squared | 55716 | [55716-grav-blazer-squared.json](./55716-grav-blazer-squared.json) |
 | Grav Factor | 236323 | [236323-grav-factor.json](./236323-grav-factor.json) |
 | Grav Grav Gravity | 43163 | [43163-grav-grav-gravity.json](./43163-grav-grav-gravity.json) |
@@ -10082,6 +10083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graywalkers: Purgatory | 61562 | [61562-graywalkers-purgatory.json](./61562-graywalkers-purgatory.json) |
 | Graywood: Noir Detective | 167492 | [167492-graywood-noir-detective.json](./167492-graywood-noir-detective.json) |
 | Graze | 180172 | [180172-graze.json](./180172-graze.json) |
+| Graze Counter | 44163 | [44163-graze-counter.json](./44163-graze-counter.json) |
 | Graze Counter GM | 211893 | [211893-graze-counter-gm.json](./211893-graze-counter-gm.json) |
 | Grazed: Incremental Arcade | 424045 | [424045-grazed-incremental-arcade.json](./424045-grazed-incremental-arcade.json) |
 | Grazers | 307167 | [307167-grazers.json](./307167-grazers.json) |
@@ -11050,6 +11052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire of Hecate: Tower of Starlight | 423556 | [423556-grimoire-of-hecate-tower-of-starlight.json](./423556-grimoire-of-hecate-tower-of-starlight.json) |
 | Grimoire of Syvnta | 264745 | [264745-grimoire-of-syvnta.json](./264745-grimoire-of-syvnta.json) |
 | Grimoire Organizer | 282146 | [282146-grimoire-organizer.json](./282146-grimoire-organizer.json) |
+| Grimoire: Heralds of the Winged Exemplar | 43487 | [43487-grimoire-heralds-of-the-winged-exemplar.json](./43487-grimoire-heralds-of-the-winged-exemplar.json) |
 | Grimoire: Manastorm | 9904 | [9904-grimoire-manastorm.json](./9904-grimoire-manastorm.json) |
 | Grimoire: Manastorm - Earth Class | 170331 | [170331-grimoire-manastorm-earth-class.json](./170331-grimoire-manastorm-earth-class.json) |
 | Grimoire: Manastorm - Fire Class | 170329 | [170329-grimoire-manastorm-fire-class.json](./170329-grimoire-manastorm-fire-class.json) |
