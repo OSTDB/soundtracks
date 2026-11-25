@@ -5699,6 +5699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobold Siege | 285993 | [285993-kobold-siege.json](./285993-kobold-siege.json) |
 | Kobold Slayer | 111690 | [111690-kobold-slayer.json](./111690-kobold-slayer.json) |
 | Kobold Underground Agency | 296923 | [296923-kobold-underground-agency.json](./296923-kobold-underground-agency.json) |
+| Kobold: Chapter I | 112055 | [112055-kobold-chapter-i.json](./112055-kobold-chapter-i.json) |
 | KoboldAI | 198695 | [198695-koboldai.json](./198695-koboldai.json) |
 | KoboldKare | 344381 | [344381-koboldkare.json](./344381-koboldkare.json) |
 | KoboldKroniken | 258939 | [258939-koboldkroniken.json](./258939-koboldkroniken.json) |
