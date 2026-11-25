@@ -10727,7 +10727,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Fusion | 79464 | [79464-football-fusion.json](./79464-football-fusion.json) |
 | Football Games 2023 Offline | 296773 | [296773-football-games-2023-offline.json](./296773-football-games-2023-offline.json) |
 | Football Games Room | 100259 | [100259-football-games-room.json](./100259-football-games-room.json) |
-| Football General Manager | 90206 | [90206-football-general-manager.json](./90206-football-general-manager.json) |
 | Football Generation | 68804 | [68804-football-generation.json](./68804-football-generation.json) |
 | Football Genius: The Ultimate Quiz | 67763 | [67763-football-genius-the-ultimate-quiz.json](./67763-football-genius-the-ultimate-quiz.json) |
 | Football girl | 161366 | [161366-football-girl.json](./161366-football-girl.json) |
@@ -12225,7 +12224,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Darkest Grumblings Pack | 331962 | [331962-fortnite-darkest-grumblings-pack.json](./331962-fortnite-darkest-grumblings-pack.json) |
 | Fortnite: Darkfire Bundle | 135967 | [135967-fortnite-darkfire-bundle.json](./135967-fortnite-darkfire-bundle.json) |
 | Fortnite: Deep Freeze Bundle | 110839 | [110839-fortnite-deep-freeze-bundle.json](./110839-fortnite-deep-freeze-bundle.json) |
-| Fortnite: Deluxe Founder's Pack | 90660 | [90660-fortnite-deluxe-founders-pack.json](./90660-fortnite-deluxe-founders-pack.json) |
 | Fortnite: Diamond Diva Pack | 254667 | [254667-fortnite-diamond-diva-pack.json](./254667-fortnite-diamond-diva-pack.json) |
 | Fortnite: Drakon Steel Hybrid Crew Pack | 275307 | [275307-fortnite-drakon-steel-hybrid-crew-pack.json](./275307-fortnite-drakon-steel-hybrid-crew-pack.json) |
 | Fortnite: Extinction Code Pack | 305609 | [305609-fortnite-extinction-code-pack.json](./305609-fortnite-extinction-code-pack.json) |
@@ -12321,7 +12319,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress of Zorlac | 319579 | [319579-fortress-of-zorlac.json](./319579-fortress-of-zorlac.json) |
 | Fortress S | 247491 | [247491-fortress-s.json](./247491-fortress-s.json) |
 | Fortress Saga | 259634 | [259634-fortress-saga.json](./259634-fortress-saga.json) |
-| Fortress Under Siege | 89795 | [89795-fortress-under-siege.json](./89795-fortress-under-siege.json) |
 | Fortress Underground | 49515 | [49515-fortress-underground.json](./49515-fortress-underground.json) |
 | Fortress V2 | 124408 | [124408-fortress-v2.json](./124408-fortress-v2.json) |
 | Fortress VR | 239730 | [239730-fortress-vr.json](./239730-fortress-vr.json) |
@@ -12934,7 +12931,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPV Drone Simulator | 55608 | [55608-fpv-drone-simulator.json](./55608-fpv-drone-simulator.json) |
 | FPV Event | 57415 | [57415-fpv-event.json](./57415-fpv-event.json) |
 | FPV Freerider | 58893 | [58893-fpv-freerider.json](./58893-fpv-freerider.json) |
-| FPV Freerider Recharged | 90412 | [90412-fpv-freerider-recharged.json](./90412-fpv-freerider-recharged.json) |
 | FPV Kamikaze Drone | 280172 | [280172-fpv-kamikaze-drone.json](./280172-fpv-kamikaze-drone.json) |
 | FPV Kamikaze Drone Simulator | 372972 | [372972-fpv-kamikaze-drone-simulator.json](./372972-fpv-kamikaze-drone-simulator.json) |
 | FPV Logic | 255248 | [255248-fpv-logic.json](./255248-fpv-logic.json) |
@@ -14145,7 +14141,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fringe Planet | 121393 | [121393-fringe-planet.json](./121393-fringe-planet.json) |
 | Fringe Wars | 74724 | [74724-fringe-wars.json](./74724-fringe-wars.json) |
 | Fringes of the Empire | 34426 | [34426-fringes-of-the-empire.json](./34426-fringes-of-the-empire.json) |
-| Frio2 - Memory of my sister | 90004 | [90004-frio2-memory-of-my-sister.json](./90004-frio2-memory-of-my-sister.json) |
 | Frio3 - Parting and Meeting | 114249 | [114249-frio3-parting-and-meeting.json](./114249-frio3-parting-and-meeting.json) |
 | Frip and Froop's Logical Labyrinth | 56509 | [56509-frip-and-froops-logical-labyrinth.json](./56509-frip-and-froops-logical-labyrinth.json) |
 | Frip and Froop's Logical Labyrinth DX | 328181 | [328181-frip-and-froops-logical-labyrinth-dx.json](./328181-frip-and-froops-logical-labyrinth-dx.json) |
