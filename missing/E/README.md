@@ -4755,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engage Princess: Nemureru Himegimi to Yume no Mahoutsukai | 205618 | [205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json](./205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json) |
 | Engage Souls | 247442 | [247442-engage-souls.json](./247442-engage-souls.json) |
 | Engage to Jabberwock | 194351 | [194351-engage-to-jabberwock.json](./194351-engage-to-jabberwock.json) |
+| Engagement | 431290 | [431290-engagement.json](./431290-engagement.json) |
 | Engaging Destiny | 259115 | [259115-engaging-destiny.json](./259115-engaging-destiny.json) |
 | Engaging Snowflakes | 364385 | [364385-engaging-snowflakes.json](./364385-engaging-snowflakes.json) |
 | Engawa Danshi to Kemono Tan | 222242 | [222242-engawa-danshi-to-kemono-tan.json](./222242-engawa-danshi-to-kemono-tan.json) |
@@ -5046,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entities | 380323 | [380323-entities.json](./380323-entities.json) |
 | Entities Declassified: Winter Hungers | 427822 | [427822-entities-declassified-winter-hungers.json](./427822-entities-declassified-winter-hungers.json) |
 | Entities' Repose | 298820 | [298820-entities-repose.json](./298820-entities-repose.json) |
+| Entitled | 431339 | [431339-entitled.json](./431339-entitled.json) |
 | Entity | 171620 | [171620-entity.json](./171620-entity.json) |
 | Entity | 177408 | [177408-entity.json](./177408-entity.json) |
 | Entity | 282713 | [282713-entity.json](./282713-entity.json) |
@@ -7978,6 +7980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everise | 388980 | [388980-everise.json](./388980-everise.json) |
 | Everland | 38669 | [38669-everland.json](./38669-everland.json) |
 | Everlands | 200130 | [200130-everlands.json](./200130-everlands.json) |
+| Everlane Online | 431399 | [431399-everlane-online.json](./431399-everlane-online.json) |
 | Everlast | 210416 | [210416-everlast.json](./210416-everlast.json) |
 | Everlast: Undying Tale | 381335 | [381335-everlast-undying-tale.json](./381335-everlast-undying-tale.json) |
 | Everlasting Abundance | 247420 | [247420-everlasting-abundance.json](./247420-everlasting-abundance.json) |
