@@ -19844,7 +19844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atma | 120569 | [120569-atma.json](./120569-atma.json) |
 | Atman: Rebel Flame | 292388 | [292388-atman-rebel-flame.json](./292388-atman-rebel-flame.json) |
 | AtmaSphere 2 | 261706 | [261706-atmasphere-2.json](./261706-atmasphere-2.json) |
-| Atmocity | 90077 | [90077-atmocity.json](./90077-atmocity.json) |
 | Atmocopter | 58400 | [58400-atmocopter.json](./58400-atmocopter.json) |
 | Atmoids | 92833 | [92833-atmoids.json](./92833-atmoids.json) |
 | Atmos | 398400 | [398400-atmos.json](./398400-atmos.json) |
