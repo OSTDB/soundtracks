@@ -311,6 +311,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum Archives Volume 1 | 135173 | [135173-namco-museum-archives-volume-1.json](./135173-namco-museum-archives-volume-1.json) |
 | Namco Museum Archives Volume 2 | 135174 | [135174-namco-museum-archives-volume-2.json](./135174-namco-museum-archives-volume-2.json) |
 | Namco Museum Battle Collection | 46000 | [46000-namco-museum-battle-collection.json](./46000-namco-museum-battle-collection.json) |
+| Namco Museum Collection 1 | 130689 | [130689-namco-museum-collection-1.json](./130689-namco-museum-collection-1.json) |
+| Namco Museum Collection 2 | 130690 | [130690-namco-museum-collection-2.json](./130690-namco-museum-collection-2.json) |
 | Namco Museum DS | 2646 | [2646-namco-museum-ds.json](./2646-namco-museum-ds.json) |
 | Namco Museum Encore | 44785 | [44785-namco-museum-encore.json](./44785-namco-museum-encore.json) |
 | Namco Museum Essentials | 52608 | [52608-namco-museum-essentials.json](./52608-namco-museum-essentials.json) |
@@ -6436,6 +6438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NIV Bible & the 20 Lost Levels of Joshua | 70062 | [70062-niv-bible-and-the-20-lost-levels-of-joshua.json](./70062-niv-bible-and-the-20-lost-levels-of-joshua.json) |
 | Niva | 341480 | [341480-niva.json](./341480-niva.json) |
 | Niva | 97303 | [97303-niva.json](./97303-niva.json) |
+| Nivalis Nights | 203301 | [203301-nivalis-nights.json](./203301-nivalis-nights.json) |
 | Nivearum | 184183 | [184183-nivearum.json](./184183-nivearum.json) |
 | Niveil: Red Riding Hood story | 230467 | [230467-niveil-red-riding-hood-story.json](./230467-niveil-red-riding-hood-story.json) |
 | Niverium | 426850 | [426850-niverium.json](./426850-niverium.json) |
@@ -8807,6 +8810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numerix Math Game | 56760 | [56760-numerix-math-game.json](./56760-numerix-math-game.json) |
 | Numerology of Artifacts | 263143 | [263143-numerology-of-artifacts.json](./263143-numerology-of-artifacts.json) |
 | Numerous Ninjas | 409658 | [409658-numerous-ninjas.json](./409658-numerous-ninjas.json) |
+| Numgeon | 113059 | [113059-numgeon.json](./113059-numgeon.json) |
 | Numgrid | 92905 | [92905-numgrid.json](./92905-numgrid.json) |
 | Numiares: A Dark Tale | 420566 | [420566-numiares-a-dark-tale.json](./420566-numiares-a-dark-tale.json) |
 | Numina | 141250 | [141250-numina.json](./141250-numina.json) |
