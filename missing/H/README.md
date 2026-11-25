@@ -10611,6 +10611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloParade | 276842 | [276842-holoparade.json](./276842-holoparade.json) |
 | HoloParade: Deluxe Edition | 346003 | [346003-holoparade-deluxe-edition.json](./346003-holoparade-deluxe-edition.json) |
 | HoloParade: DLC with BGM and Costume - Shirakami Fubuki | 302580 | [302580-holoparade-dlc-with-bgm-and-costume-shirakami-fubuki.json](./302580-holoparade-dlc-with-bgm-and-costume-shirakami-fubuki.json) |
+| Holopoint | 33147 | [33147-holopoint.json](./33147-holopoint.json) |
 | Holoquest | 180136 | [180136-holoquest.json](./180136-holoquest.json) |
 | HoloReality | 322160 | [322160-holoreality.json](./322160-holoreality.json) |
 | HoloRun | 361794 | [361794-holorun.json](./361794-holorun.json) |
@@ -11410,6 +11411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooligan Simulator: Survive in Urban Jungle | 250891 | [250891-hooligan-simulator-survive-in-urban-jungle.json](./250891-hooligan-simulator-survive-in-urban-jungle.json) |
 | Hooligan Vasja | 31632 | [31632-hooligan-vasja.json](./31632-hooligan-vasja.json) |
 | Hooligan Vasja 2: Journey through time | 95177 | [95177-hooligan-vasja-2-journey-through-time.json](./95177-hooligan-vasja-2-journey-through-time.json) |
+| Hooligan Vasja: Halloween | 41899 | [41899-hooligan-vasja-halloween.json](./41899-hooligan-vasja-halloween.json) |
 | Hooligans | 63101 | [63101-hooligans.json](./63101-hooligans.json) |
 | Hooligans: Storm Over Europe | 73846 | [73846-hooligans-storm-over-europe.json](./73846-hooligans-storm-over-europe.json) |
 | Hools: Football Club Territory | 81353 | [81353-hools-football-club-territory.json](./81353-hools-football-club-territory.json) |
@@ -14991,6 +14993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypogean | 221311 | [221311-hypogean.json](./221311-hypogean.json) |
 | Hypogean Descent | 266791 | [266791-hypogean-descent.json](./266791-hypogean-descent.json) |
 | Hyposolus | 409360 | [409360-hyposolus.json](./409360-hyposolus.json) |
+| Hyposphere | 33020 | [33020-hyposphere.json](./33020-hyposphere.json) |
 | Hyposphere 2 | 187918 | [187918-hyposphere-2.json](./187918-hyposphere-2.json) |
 | Hyposphere 3: Overdrive | 181655 | [181655-hyposphere-3-overdrive.json](./181655-hyposphere-3-overdrive.json) |
 | Hyposphere Z | 158632 | [158632-hyposphere-z.json](./158632-hyposphere-z.json) |
