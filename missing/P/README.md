@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 284369 | [284369-pac-man.json](./284369-pac-man.json) |
 | Pac-Man | 292000 | [292000-pac-man.json](./292000-pac-man.json) |
 | Pac-Man | 311349 | [311349-pac-man.json](./311349-pac-man.json) |
+| Pac-Man | 426990 | [426990-pac-man.json](./426990-pac-man.json) |
 | Pac-Man | 63639 | [63639-pac-man.json](./63639-pac-man.json) |
 | Pac-Man (speedup) | 308719 | [308719-pac-man-speedup.json](./308719-pac-man-speedup.json) |
 | Pac-Man 12-in-1 Legacy Series | 253713 | [253713-pac-man-12-in-1-legacy-series.json](./253713-pac-man-12-in-1-legacy-series.json) |
@@ -5622,6 +5623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pestilent Hunters | 201563 | [201563-pestilent-hunters.json](./201563-pestilent-hunters.json) |
 | Pestle: Volume 1 | 220238 | [220238-pestle-volume-1.json](./220238-pestle-volume-1.json) |
 | Pet | 240170 | [240170-pet.json](./240170-pet.json) |
+| Pet | 426987 | [426987-pet.json](./426987-pet.json) |
 | Pet & Dog Simulator | 333736 | [333736-pet-and-dog-simulator.json](./333736-pet-and-dog-simulator.json) |
 | Pet Adoption Center | 122470 | [122470-pet-adoption-center.json](./122470-pet-adoption-center.json) |
 | Pet Buddies | 356732 | [356732-pet-buddies.json](./356732-pet-buddies.json) |
@@ -6397,6 +6399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phase 10: World Tour | 138638 | [138638-phase-10-world-tour.json](./138638-phase-10-world-tour.json) |
 | Phase Cross | 347787 | [347787-phase-cross.json](./347787-phase-cross.json) |
 | Phase D | 42762 | [42762-phase-d.json](./42762-phase-d.json) |
+| Phase Distorter | 423768 | [423768-phase-distorter.json](./423768-phase-distorter.json) |
 | Phase Edge | 53458 | [53458-phase-edge.json](./53458-phase-edge.json) |
 | Phase Knight | 397304 | [397304-phase-knight.json](./397304-phase-knight.json) |
 | Phase Line: Raider Assault | 239667 | [239667-phase-line-raider-assault.json](./239667-phase-line-raider-assault.json) |
@@ -21622,6 +21625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles of the Paladin | 289168 | [289168-puzzles-of-the-paladin.json](./289168-puzzles-of-the-paladin.json) |
 | Puzzles of the World | 377645 | [377645-puzzles-of-the-world.json](./377645-puzzles-of-the-world.json) |
 | Puzzles Planets | 424999 | [424999-puzzles-planets.json](./424999-puzzles-planets.json) |
+| Puzzles Raccoons | 427627 | [427627-puzzles-raccoons.json](./427627-puzzles-raccoons.json) |
 | Puzzles Snow | 415546 | [415546-puzzles-snow.json](./415546-puzzles-snow.json) |
 | Puzzles Trees | 428145 | [428145-puzzles-trees.json](./428145-puzzles-trees.json) |
 | Puzzles Under the Hill | 32409 | [32409-puzzles-under-the-hill.json](./32409-puzzles-under-the-hill.json) |
