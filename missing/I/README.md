@@ -1190,7 +1190,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Together: A Cozy Parlor Simulator | 343163 | [343163-ice-cream-together-a-cozy-parlor-simulator.json](./343163-ice-cream-together-a-cozy-parlor-simulator.json) |
 | Ice Cream Trip | 207829 | [207829-ice-cream-trip.json](./207829-ice-cream-trip.json) |
 | Ice Cream Truck | 155511 | [155511-ice-cream-truck.json](./155511-ice-cream-truck.json) |
-| Ice Cream Truck! | 90789 | [90789-ice-cream-truck.json](./90789-ice-cream-truck.json) |
 | Ice Cream Uncle | 88214 | [88214-ice-cream-uncle.json](./88214-ice-cream-uncle.json) |
 | Ice Cream Wars | 311565 | [311565-ice-cream-wars.json](./311565-ice-cream-wars.json) |
 | Ice Cream: Super Stacking Slot Machine | 345114 | [345114-ice-cream-super-stacking-slot-machine.json](./345114-ice-cream-super-stacking-slot-machine.json) |
@@ -1945,7 +1944,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Transport Tycoon | 263027 | [263027-idle-transport-tycoon.json](./263027-idle-transport-tycoon.json) |
 | Idle Tree | 365747 | [365747-idle-tree.json](./365747-idle-tree.json) |
 | Idle Trillionaire | 294137 | [294137-idle-trillionaire.json](./294137-idle-trillionaire.json) |
-| Idle Tuber Empire | 95097 | [95097-idle-tuber-empire.json](./95097-idle-tuber-empire.json) |
 | Idle Tuber Empire | 96010 | [96010-idle-tuber-empire.json](./96010-idle-tuber-empire.json) |
 | Idle Tycoon Manufacturing | 380951 | [380951-idle-tycoon-manufacturing.json](./380951-idle-tycoon-manufacturing.json) |
 | Idle Ultimate | 368509 | [368509-idle-ultimate.json](./368509-idle-ultimate.json) |
@@ -4356,7 +4354,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InfinitasDM: Teeth of the Bloodwolf | 174506 | [174506-infinitasdm-teeth-of-the-bloodwolf.json](./174506-infinitasdm-teeth-of-the-bloodwolf.json) |
 | Infinite Abyss | 132528 | [132528-infinite-abyss.json](./132528-infinite-abyss.json) |
 | Infinite Adventure | 215824 | [215824-infinite-adventure.json](./215824-infinite-adventure.json) |
-| Infinite Adventures | 95022 | [95022-infinite-adventures.json](./95022-infinite-adventures.json) |
 | Infinite Alliance | 345923 | [345923-infinite-alliance.json](./345923-infinite-alliance.json) |
 | Infinite Ancient: Room Escape | 256739 | [256739-infinite-ancient-room-escape.json](./256739-infinite-ancient-room-escape.json) |
 | Infinite Arcana | 271440 | [271440-infinite-arcana.json](./271440-infinite-arcana.json) |
@@ -6759,6 +6756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Front: Liberation 1944 D-Day | 53236 | [53236-iron-front-liberation-1944-d-day.json](./53236-iron-front-liberation-1944-d-day.json) |
 | Iron Frontier | 224787 | [224787-iron-frontier.json](./224787-iron-frontier.json) |
 | Iron Frost | 197030 | [197030-iron-frost.json](./197030-iron-frost.json) |
+| Iron Fury | 428271 | [428271-iron-fury.json](./428271-iron-fury.json) |
 | Iron Fury: Robot Boxing | 417070 | [417070-iron-fury-robot-boxing.json](./417070-iron-fury-robot-boxing.json) |
 | Iron Fuse | 410047 | [410047-iron-fuse.json](./410047-iron-fuse.json) |
 | Iron Grasp | 426945 | [426945-iron-grasp.json](./426945-iron-grasp.json) |
@@ -7563,7 +7561,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Istorii Uzhasov: Voskreshenie | 368244 | [368244-istorii-uzhasov-voskreshenie.json](./368244-istorii-uzhasov-voskreshenie.json) |
 | Istoriya Bomzha | 368251 | [368251-istoriya-bomzha.json](./368251-istoriya-bomzha.json) |
 | iStorm | 29111 | [29111-istorm.json](./29111-istorm.json) |
-| iStreet Basket Deluxe | 90863 | [90863-istreet-basket-deluxe.json](./90863-istreet-basket-deluxe.json) |
 | Istrolid | 33326 | [33326-istrolid.json](./33326-istrolid.json) |
 | iStunt 2 | 90888 | [90888-istunt-2.json](./90888-istunt-2.json) |
 | iSurf | 90908 | [90908-isurf.json](./90908-isurf.json) |
