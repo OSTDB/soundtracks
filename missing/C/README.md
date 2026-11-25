@@ -3983,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassandra's Journey 2: The Fifth Sun of Nostradamus | 56901 | [56901-cassandras-journey-2-the-fifth-sun-of-nostradamus.json](./56901-cassandras-journey-2-the-fifth-sun-of-nostradamus.json) |
 | Cassandra's Journey: The Legacy of Nostradamus | 64725 | [64725-cassandras-journey-the-legacy-of-nostradamus.json](./64725-cassandras-journey-the-legacy-of-nostradamus.json) |
 | Casse-Croute Deckbuilder | 399401 | [399401-casse-croute-deckbuilder.json](./399401-casse-croute-deckbuilder.json) |
+| Casserolade | 430070 | [430070-casserolade.json](./430070-casserolade.json) |
 | Cassette | 295291 | [295291-cassette.json](./295291-cassette.json) |
 | Cassette 50 | 93344 | [93344-cassette-50.json](./93344-cassette-50.json) |
 | Cassette Beasts 2002 | 404378 | [404378-cassette-beasts-2002.json](./404378-cassette-beasts-2002.json) |
@@ -8236,6 +8237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chichen-Itza | 178052 | [178052-chichen-itza.json](./178052-chichen-itza.json) |
 | Chichens | 192102 | [192102-chichens.json](./192102-chichens.json) |
 | Chichi's Idle Bakery Tycoon | 426738 | [426738-chichis-idle-bakery-tycoon.json](./426738-chichis-idle-bakery-tycoon.json) |
+| Chichi's Typing Battle | 430053 | [430053-chichis-typing-battle.json](./430053-chichis-typing-battle.json) |
 | Chick 'N Sword | 183592 | [183592-chick-n-sword.json](./183592-chick-n-sword.json) |
 | Chick Boy Adventures | 190149 | [190149-chick-boy-adventures.json](./190149-chick-boy-adventures.json) |
 | Chick Chaser | 70507 | [70507-chick-chaser.json](./70507-chick-chaser.json) |
@@ -18204,6 +18206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countryhumans: Dating Sim | 177659 | [177659-countryhumans-dating-sim.json](./177659-countryhumans-dating-sim.json) |
 | Countryle | 330769 | [330769-countryle.json](./330769-countryle.json) |
 | Countryside Bears | 43502 | [43502-countryside-bears.json](./43502-countryside-bears.json) |
+| Countryside Big Catch | 429979 | [429979-countryside-big-catch.json](./429979-countryside-big-catch.json) |
 | Countryside Farm Clues | 402930 | [402930-countryside-farm-clues.json](./402930-countryside-farm-clues.json) |
 | Countryside Legends | 339327 | [339327-countryside-legends.json](./339327-countryside-legends.json) |
 | Countryside Life | 331798 | [331798-countryside-life.json](./331798-countryside-life.json) |
@@ -20609,6 +20612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Kart | 122216 | [122216-critter-kart.json](./122216-critter-kart.json) |
 | Critter Loop | 412267 | [412267-critter-loop.json](./412267-critter-loop.json) |
 | Critter Panic! | 212410 | [212410-critter-panic.json](./212410-critter-panic.json) |
+| Critter Park | 430003 | [430003-critter-park.json](./430003-critter-park.json) |
 | Critter Round-Up | 21824 | [21824-critter-round-up.json](./21824-critter-round-up.json) |
 | Critter Switcher | 394880 | [394880-critter-switcher.json](./394880-critter-switcher.json) |
 | Critter Town | 323597 | [323597-critter-town.json](./323597-critter-town.json) |
@@ -21247,6 +21251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowned in Steel | 278482 | [278482-crowned-in-steel.json](./278482-crowned-in-steel.json) |
 | Crowned Sun | 423338 | [423338-crowned-sun.json](./423338-crowned-sun.json) |
 | CrownFall | 82506 | [82506-crownfall.json](./82506-crownfall.json) |
+| Crownfall: Kingdoms | 430145 | [430145-crownfall-kingdoms.json](./430145-crownfall-kingdoms.json) |
 | Crownfall: Young Hero | 373649 | [373649-crownfall-young-hero.json](./373649-crownfall-young-hero.json) |
 | Crownhold | 414112 | [414112-crownhold.json](./414112-crownhold.json) |
 | Crowning Calamity | 284332 | [284332-crowning-calamity.json](./284332-crowning-calamity.json) |
