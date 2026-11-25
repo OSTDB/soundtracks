@@ -2357,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Bang Barrage | 313190 | [313190-bang-bang-barrage.json](./313190-bang-bang-barrage.json) |
 | Bang Bang Car | 29466 | [29466-bang-bang-car.json](./29466-bang-bang-car.json) |
 | Bang Bang Fruit | 29557 | [29557-bang-bang-fruit.json](./29557-bang-bang-fruit.json) |
+| Bang Bang Fruit 2 | 74373 | [74373-bang-bang-fruit-2.json](./74373-bang-bang-fruit-2.json) |
 | Bang Bang Fruit 3 | 105661 | [105661-bang-bang-fruit-3.json](./105661-bang-bang-fruit-3.json) |
 | Bang Bang Girls: Moe Panic | 376757 | [376757-bang-bang-girls-moe-panic.json](./376757-bang-bang-girls-moe-panic.json) |
 | Bang Bang Homeroom | 82736 | [82736-bang-bang-homeroom.json](./82736-bang-bang-homeroom.json) |
@@ -11109,6 +11110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blamcon Shooting Gallery | 274294 | [274294-blamcon-shooting-gallery.json](./274294-blamcon-shooting-gallery.json) |
 | Blamdodge | 177640 | [177640-blamdodge.json](./177640-blamdodge.json) |
 | Blamdown Udder Fury | 33063 | [33063-blamdown-udder-fury.json](./33063-blamdown-udder-fury.json) |
+| Blame him | 111802 | [111802-blame-him.json](./111802-blame-him.json) |
 | Blame the Intern | 185369 | [185369-blame-the-intern.json](./185369-blame-the-intern.json) |
 | BlameChat | 415969 | [415969-blamechat.json](./415969-blamechat.json) |
 | Blamed | 259107 | [259107-blamed.json](./259107-blamed.json) |
@@ -17328,6 +17330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrawlQuest | 103637 | [103637-brawlquest.json](./103637-brawlquest.json) |
 | Brawlygon | 276252 | [276252-brawlygon.json](./276252-brawlygon.json) |
 | Braxx Bluff | 13435 | [13435-braxx-bluff.json](./13435-braxx-bluff.json) |
+| Brayan Odleys Numbers | 74377 | [74377-brayan-odleys-numbers.json](./74377-brayan-odleys-numbers.json) |
 | Brayz | 407998 | [407998-brayz.json](./407998-brayz.json) |
 | Brazed | 32443 | [32443-brazed.json](./32443-brazed.json) |
 | Brazen | 399776 | [399776-brazen.json](./399776-brazen.json) |
