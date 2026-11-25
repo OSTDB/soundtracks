@@ -3044,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barely Alive | 387111 | [387111-barely-alive.json](./387111-barely-alive.json) |
 | Barely Breakout! Underwater ReMix | 82551 | [82551-barely-breakout-underwater-remix.json](./82551-barely-breakout-underwater-remix.json) |
 | Barely Breathing | 405281 | [405281-barely-breathing.json](./405281-barely-breathing.json) |
+| Barely Developers | 430111 | [430111-barely-developers.json](./430111-barely-developers.json) |
 | Barely Floating | 138214 | [138214-barely-floating.json](./138214-barely-floating.json) |
 | Barely Intersex | 419616 | [419616-barely-intersex.json](./419616-barely-intersex.json) |
 | Barely Racing | 149170 | [149170-barely-racing.json](./149170-barely-racing.json) |
@@ -8369,6 +8370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi & Tina: Mikoschs großer Auftritt | 151206 | [151206-bibi-and-tina-mikoschs-gro-er-auftritt.json](./151206-bibi-and-tina-mikoschs-gro-er-auftritt.json) |
 | Bibi & Tina: New Adventures with Horses | 194979 | [194979-bibi-and-tina-new-adventures-with-horses.json](./194979-bibi-and-tina-new-adventures-with-horses.json) |
 | Bibi & Tina: Ready, Set, Ride! | 417439 | [417439-bibi-and-tina-ready-set-ride.json](./417439-bibi-and-tina-ready-set-ride.json) |
+| Bibi Beep World | 430057 | [430057-bibi-beep-world.json](./430057-bibi-beep-world.json) |
 | Bibi Blocksberg: Big Broom Race 3 | 110685 | [110685-bibi-blocksberg-big-broom-race-3.json](./110685-bibi-blocksberg-big-broom-race-3.json) |
 | Bibi Blocksberg: Big Broom Race 4 | 375406 | [375406-bibi-blocksberg-big-broom-race-4.json](./375406-bibi-blocksberg-big-broom-race-4.json) |
 | Bibi Blocksberg: Das gestohlene Hexbuch | 215850 | [215850-bibi-blocksberg-das-gestohlene-hexbuch.json](./215850-bibi-blocksberg-das-gestohlene-hexbuch.json) |
@@ -10794,6 +10796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout | 221817 | [221817-blackout.json](./221817-blackout.json) |
 | Blackout | 284008 | [284008-blackout.json](./284008-blackout.json) |
 | Blackout | 406395 | [406395-blackout.json](./406395-blackout.json) |
+| Blackout | 430106 | [430106-blackout.json](./430106-blackout.json) |
 | Blackout | 85674 | [85674-blackout.json](./85674-blackout.json) |
 | BlackOut | 63061 | [63061-blackout.json](./63061-blackout.json) |
 | Blackout Arena | 390436 | [390436-blackout-arena.json](./390436-blackout-arena.json) |
@@ -21349,6 +21352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BuzzKill | 392552 | [392552-buzzkill.json](./392552-buzzkill.json) |
 | BuzzLabs | 291790 | [291790-buzzlabs.json](./291790-buzzlabs.json) |
 | Buzzle | 148866 | [148866-buzzle.json](./148866-buzzle.json) |
+| Buzzness Tycoon | 430074 | [430074-buzzness-tycoon.json](./430074-buzzness-tycoon.json) |
 | Buzzopolis: Hive Incremental | 373814 | [373814-buzzopolis-hive-incremental.json](./373814-buzzopolis-hive-incremental.json) |
 | Buzzsaw | 60760 | [60760-buzzsaw.json](./60760-buzzsaw.json) |
 | Buzzsaw Cat | 184407 | [184407-buzzsaw-cat.json](./184407-buzzsaw-cat.json) |
