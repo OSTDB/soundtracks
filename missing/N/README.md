@@ -8721,6 +8721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Balls | 359312 | [359312-number-balls.json](./359312-number-balls.json) |
 | Number Battle | 85408 | [85408-number-battle.json](./85408-number-battle.json) |
 | Number Builder | 41201 | [41201-number-builder.json](./41201-number-builder.json) |
+| Number Bumper | 431345 | [431345-number-bumper.json](./431345-number-bumper.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
 | Number Chaser | 41011 | [41011-number-chaser.json](./41011-number-chaser.json) |
 | Number Color | 104396 | [104396-number-color.json](./104396-number-color.json) |
