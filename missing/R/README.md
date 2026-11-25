@@ -4644,7 +4644,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Riding Hood | 225309 | [225309-red-riding-hood.json](./225309-red-riding-hood.json) |
 | Red Riding Hood | 54319 | [54319-red-riding-hood.json](./54319-red-riding-hood.json) |
 | Red Riding Hood on All Fours | 393709 | [393709-red-riding-hood-on-all-fours.json](./393709-red-riding-hood-on-all-fours.json) |
-| Red Riding Hood: Star Crossed Lovers | 96880 | [96880-red-riding-hood-star-crossed-lovers.json](./96880-red-riding-hood-star-crossed-lovers.json) |
 | Red Ring of Immortality | 238010 | [238010-red-ring-of-immortality.json](./238010-red-ring-of-immortality.json) |
 | Red Risk | 18178 | [18178-red-risk.json](./18178-red-risk.json) |
 | Red River | 360727 | [360727-red-river.json](./360727-red-river.json) |
@@ -6391,7 +6390,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Researcher | 143476 | [143476-researcher.json](./143476-researcher.json) |
 | Reseed | 372063 | [372063-reseed.json](./372063-reseed.json) |
 | Resensory | 133577 | [133577-resensory.json](./133577-resensory.json) |
-| Resequenced | 96650 | [96650-resequenced.json](./96650-resequenced.json) |
 | Reservoir Dogs | 6003 | [6003-reservoir-dogs.json](./6003-reservoir-dogs.json) |
 | Reservoir Stroggs | 402809 | [402809-reservoir-stroggs.json](./402809-reservoir-stroggs.json) |
 | Reset | 15831 | [15831-reset.json](./15831-reset.json) |
@@ -6880,7 +6878,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rethawed | 320929 | [320929-rethawed.json](./320929-rethawed.json) |
 | ReThink | 29260 | [29260-rethink.json](./29260-rethink.json) |
 | ReThink \| Evolved | 55757 | [55757-rethink-evolved.json](./55757-rethink-evolved.json) |
-| ReThink \| Evolved 2 | 95206 | [95206-rethink-evolved-2.json](./95206-rethink-evolved-2.json) |
 | ReThink \| Evolved 3 | 118007 | [118007-rethink-evolved-3.json](./118007-rethink-evolved-3.json) |
 | ReThink \| Evolved 5 | 244849 | [244849-rethink-evolved-5.json](./244849-rethink-evolved-5.json) |
 | ReThink \| Evolved 6 | 398607 | [398607-rethink-evolved-6.json](./398607-rethink-evolved-6.json) |
@@ -7671,7 +7668,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revery Rebirth | 121619 | [121619-revery-rebirth.json](./121619-revery-rebirth.json) |
 | Rêves: Lettres et Ciel | 228423 | [228423-reves-lettres-et-ciel.json](./228423-reves-lettres-et-ciel.json) |
 | Revhead: Turbo | 170958 | [170958-revhead-turbo.json](./170958-revhead-turbo.json) |
-| Review: Jashin Fukkatsu | 97233 | [97233-review-jashin-fukkatsu.json](./97233-review-jashin-fukkatsu.json) |
 | Revila | 350700 | [350700-revila.json](./350700-revila.json) |
 | Reviser | 125103 | [125103-reviser.json](./125103-reviser.json) |
 | Revisitor | 148832 | [148832-revisitor.json](./148832-revisitor.json) |
@@ -9971,7 +9967,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roaring Twenties Solitaire | 213935 | [213935-roaring-twenties-solitaire.json](./213935-roaring-twenties-solitaire.json) |
 | Roark Games: Congressman | 143957 | [143957-roark-games-congressman.json](./143957-roark-games-congressman.json) |
 | Roark's Attack on Titan Fan Game | 152751 | [152751-roarks-attack-on-titan-fan-game.json](./152751-roarks-attack-on-titan-fan-game.json) |
-| Roarr! | 96870 | [96870-roarr.json](./96870-roarr.json) |
 | Roarr!: Jurassic Edition | 111909 | [111909-roarr-jurassic-edition.json](./111909-roarr-jurassic-edition.json) |
 | Roary the Racing Car | 223113 | [223113-roary-the-racing-car.json](./223113-roary-the-racing-car.json) |
 | Roary the Racing Car: Rollin' Road | 67617 | [67617-roary-the-racing-car-rollin-road.json](./67617-roary-the-racing-car-rollin-road.json) |
@@ -10695,7 +10690,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Climbing? | 288790 | [288790-rock-climbing.json](./288790-rock-climbing.json) |
 | Rock Core | 427556 | [427556-rock-core.json](./427556-rock-core.json) |
 | Rock Crawler | 242286 | [242286-rock-crawler.json](./242286-rock-crawler.json) |
-| Rock Crawler: Offroad Driving | 95297 | [95297-rock-crawler-offroad-driving.json](./95297-rock-crawler-offroad-driving.json) |
 | Rock Crusher | 333032 | [333032-rock-crusher.json](./333032-rock-crusher.json) |
 | Rock Declutterer | 420207 | [420207-rock-declutterer.json](./420207-rock-declutterer.json) |
 | Rock Defender | 26650 | [26650-rock-defender.json](./26650-rock-defender.json) |
@@ -13098,7 +13092,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette | 11521 | [11521-roulette.json](./11521-roulette.json) |
 | Roulette | 147900 | [147900-roulette.json](./147900-roulette.json) |
 | Roulette | 366926 | [366926-roulette.json](./366926-roulette.json) |
-| Roulette 3D | 95231 | [95231-roulette-3d.json](./95231-roulette-3d.json) |
 | Roulette at Aces Casino | 147867 | [147867-roulette-at-aces-casino.json](./147867-roulette-at-aces-casino.json) |
 | Roulette Club | 368547 | [368547-roulette-club.json](./368547-roulette-club.json) |
 | Roulette Dungeon | 330004 | [330004-roulette-dungeon.json](./330004-roulette-dungeon.json) |
@@ -14873,7 +14866,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russia: The Great War in the East 1941-1945 | 44124 | [44124-russia-the-great-war-in-the-east-1941-1945.json](./44124-russia-the-great-war-in-the-east-1941-1945.json) |
 | Russia.2028 | 76877 | [76877-russia-2028.json](./76877-russia-2028.json) |
 | Russian Anime | 156034 | [156034-russian-anime.json](./156034-russian-anime.json) |
-| Russian AYE Horror | 96887 | [96887-russian-aye-horror.json](./96887-russian-aye-horror.json) |
 | Russian AYE Race | 86678 | [86678-russian-aye-race.json](./86678-russian-aye-race.json) |
 | Russian bank - card game | 106568 | [106568-russian-bank-card-game.json](./106568-russian-bank-card-game.json) |
 | Russian Car Driver | 30142 | [30142-russian-car-driver.json](./30142-russian-car-driver.json) |
@@ -14905,7 +14897,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Mailman Simulator | 157496 | [157496-russian-mailman-simulator.json](./157496-russian-mailman-simulator.json) |
 | Russian Overkill | 134501 | [134501-russian-overkill.json](./134501-russian-overkill.json) |
 | Russian Pawn Store | 211749 | [211749-russian-pawn-store.json](./211749-russian-pawn-store.json) |
-| Russian Peace Duck: Take My Nalogi | 96614 | [96614-russian-peace-duck-take-my-nalogi.json](./96614-russian-peace-duck-take-my-nalogi.json) |
 | Russian Pinocchio | 270463 | [270463-russian-pinocchio.json](./270463-russian-pinocchio.json) |
 | Russian Prison Mafia | 396960 | [396960-russian-prison-mafia.json](./396960-russian-prison-mafia.json) |
 | Russian Prison Sport: Ochko | 96458 | [96458-russian-prison-sport-ochko.json](./96458-russian-prison-sport-ochko.json) |
