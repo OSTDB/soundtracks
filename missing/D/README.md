@@ -6572,6 +6572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend the Fort | 173267 | [173267-defend-the-fort.json](./173267-defend-the-fort.json) |
 | Defend the Highlands | 35108 | [35108-defend-the-highlands.json](./35108-defend-the-highlands.json) |
 | Defend the Highlands: World Tour | 31325 | [31325-defend-the-highlands-world-tour.json](./31325-defend-the-highlands-world-tour.json) |
+| Defend the King | 419452 | [419452-defend-the-king.json](./419452-defend-the-king.json) |
 | Defend the Kingdom | 154907 | [154907-defend-the-kingdom.json](./154907-defend-the-kingdom.json) |
 | Defend the Night | 127646 | [127646-defend-the-night.json](./127646-defend-the-night.json) |
 | Defend the planet | 81875 | [81875-defend-the-planet.json](./81875-defend-the-planet.json) |
@@ -7166,6 +7167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Manager | 398464 | [398464-delta-manager.json](./398464-delta-manager.json) |
 | Delta Manifold | 201509 | [201509-delta-manifold.json](./201509-delta-manifold.json) |
 | Delta MMORPG | 274944 | [274944-delta-mmorpg.json](./274944-delta-mmorpg.json) |
+| Delta Neutral | 418610 | [418610-delta-neutral.json](./418610-delta-neutral.json) |
 | Delta Online | 390011 | [390011-delta-online.json](./390011-delta-online.json) |
 | Delta Ops: Army Special Forces | 27481 | [27481-delta-ops-army-special-forces.json](./27481-delta-ops-army-special-forces.json) |
 | Delta Park | 274329 | [274329-delta-park.json](./274329-delta-park.json) |
@@ -8916,6 +8918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy the Dummies | 158641 | [158641-destroy-the-dummies.json](./158641-destroy-the-dummies.json) |
 | Destroy the Hexons | 156129 | [156129-destroy-the-hexons.json](./156129-destroy-the-hexons.json) |
 | Destroy the Monoliths | 244644 | [244644-destroy-the-monoliths.json](./244644-destroy-the-monoliths.json) |
+| Destroy the Moon | 418386 | [418386-destroy-the-moon.json](./418386-destroy-the-moon.json) |
 | Destroy the Porn | 50256 | [50256-destroy-the-porn.json](./50256-destroy-the-porn.json) |
 | Destroy the Shogun | 167520 | [167520-destroy-the-shogun.json](./167520-destroy-the-shogun.json) |
 | Destroy The Universe: Solar Mayhem | 411813 | [411813-destroy-the-universe-solar-mayhem.json](./411813-destroy-the-universe-solar-mayhem.json) |
@@ -10867,6 +10870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digscovery | 249791 | [249791-digscovery.json](./249791-digscovery.json) |
 | Digseum | 325317 | [325317-digseum.json](./325317-digseum.json) |
 | DigSite | 334333 | [334333-digsite.json](./334333-digsite.json) |
+| Digsite Zero | 420900 | [420900-digsite-zero.json](./420900-digsite-zero.json) |
 | Dìguó Wángcháo (Yàsè Chuánshuō) | 78437 | [78437-diguo-wangchao-yase-chuanshuo.json](./78437-diguo-wangchao-yase-chuanshuo.json) |
 | DigWorld | 404408 | [404408-digworld.json](./404408-digworld.json) |
 | Diib's Dilemma | 32592 | [32592-diibs-dilemma.json](./32592-diibs-dilemma.json) |
@@ -13690,6 +13694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog of Dracula 2: Cyber Monogatari | 228436 | [228436-dog-of-dracula-2-cyber-monogatari.json](./228436-dog-of-dracula-2-cyber-monogatari.json) |
 | Dog of Dracula: Barbecue Densetsu | 414686 | [414686-dog-of-dracula-barbecue-densetsu.json](./414686-dog-of-dracula-barbecue-densetsu.json) |
 | Dog of Wisdom | 411876 | [411876-dog-of-wisdom.json](./411876-dog-of-wisdom.json) |
+| Dog Online | 419193 | [419193-dog-online.json](./419193-dog-online.json) |
 | Dog Pairs | 98906 | [98906-dog-pairs.json](./98906-dog-pairs.json) |
 | Dog Patch | 91487 | [91487-dog-patch.json](./91487-dog-patch.json) |
 | Dog Petting Simulator | 182237 | [182237-dog-petting-simulator.json](./182237-dog-petting-simulator.json) |
