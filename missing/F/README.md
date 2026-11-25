@@ -413,7 +413,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face the Immortal | 392243 | [392243-face-the-immortal.json](./392243-face-the-immortal.json) |
 | Face the Puzzle: Masked Journey | 416305 | [416305-face-the-puzzle-masked-journey.json](./416305-face-the-puzzle-masked-journey.json) |
 | Face to Face | 340167 | [340167-face-to-face.json](./340167-face-to-face.json) |
-| Face Training: Facial Exercises to Strengthen and Relax from Fumiko Inudo | 91846 | [91846-face-training-facial-exercises-to-strengthen-and-relax-from-fumiko-inudo.json](./91846-face-training-facial-exercises-to-strengthen-and-relax-from-fumiko-inudo.json) |
 | Face Word | 232482 | [232482-face-word.json](./232482-face-word.json) |
 | Face Wound | 64132 | [64132-face-wound.json](./64132-face-wound.json) |
 | Face Your Demons | 121296 | [121296-face-your-demons.json](./121296-face-your-demons.json) |
@@ -1811,7 +1810,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud Cartridge #3 | 198738 | [198738-family-feud-cartridge-3.json](./198738-family-feud-cartridge-3.json) |
 | Family Feud HD | 90067 | [90067-family-feud-hd.json](./90067-family-feud-hd.json) |
 | Family Feud II | 209244 | [209244-family-feud-ii.json](./209244-family-feud-ii.json) |
-| Family Feud Live! | 91127 | [91127-family-feud-live.json](./91127-family-feud-live.json) |
 | Family Feud Pocket | 405193 | [405193-family-feud-pocket.json](./405193-family-feud-pocket.json) |
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
 | Family Feud: 2012 Edition | 6678 | [6678-family-feud-2012-edition.json](./6678-family-feud-2012-edition.json) |
@@ -2870,7 +2868,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy Prostokvashino | 320397 | [320397-farm-frenzy-prostokvashino.json](./320397-farm-frenzy-prostokvashino.json) |
 | Farm Frenzy: Ancient Rome | 54029 | [54029-farm-frenzy-ancient-rome.json](./54029-farm-frenzy-ancient-rome.json) |
 | Farm Frenzy: Animal Country | 201278 | [201278-farm-frenzy-animal-country.json](./201278-farm-frenzy-animal-country.json) |
-| Farm Frenzy: Crazy Bear Island | 90893 | [90893-farm-frenzy-crazy-bear-island.json](./90893-farm-frenzy-crazy-bear-island.json) |
 | Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
 | Farm Frenzy: Gone Fishing | 54028 | [54028-farm-frenzy-gone-fishing.json](./54028-farm-frenzy-gone-fishing.json) |
 | Farm Frenzy: Heave Ho | 34629 | [34629-farm-frenzy-heave-ho.json](./34629-farm-frenzy-heave-ho.json) |
@@ -3331,7 +3328,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Friends: Super Edition | 262328 | [262328-fashion-friends-super-edition.json](./262328-fashion-friends-super-edition.json) |
 | Fashion Friends: Super Version | 313512 | [313512-fashion-friends-super-version.json](./313512-fashion-friends-super-version.json) |
 | Fashion Fupa | 397138 | [397138-fashion-fupa.json](./397138-fashion-fupa.json) |
-| Fashion Girl - Makeup and Dress Up Game | 93649 | [93649-fashion-girl-makeup-and-dress-up-game.json](./93649-fashion-girl-makeup-and-dress-up-game.json) |
 | Fashion Girls | 213214 | [213214-fashion-girls.json](./213214-fashion-girls.json) |
 | Fashion Girls: All in One Edition | 271502 | [271502-fashion-girls-all-in-one-edition.json](./271502-fashion-girls-all-in-one-edition.json) |
 | Fashion Girls: Silver Edition | 315865 | [315865-fashion-girls-silver-edition.json](./315865-fashion-girls-silver-edition.json) |
@@ -4799,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudalism | 34945 | [34945-feudalism.json](./34945-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
 | Feudalism III | 281586 | [281586-feudalism-iii.json](./281586-feudalism-iii.json) |
+| Feuds | 427602 | [427602-feuds.json](./427602-feuds.json) |
 | Feudums | 217086 | [217086-feudums.json](./217086-feudums.json) |
 | Feuerwache: Mission - Leben retten | 81479 | [81479-feuerwache-mission-leben-retten.json](./81479-feuerwache-mission-leben-retten.json) |
 | Feuerwehr 3D | 93448 | [93448-feuerwehr-3d.json](./93448-feuerwehr-3d.json) |
@@ -8817,6 +8814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flatout: Stuntman | 309217 | [309217-flatout-stuntman.json](./309217-flatout-stuntman.json) |
 | FlatOut: Ultimate Carnage | 3777 | [3777-flatout-ultimate-carnage.json](./3777-flatout-ultimate-carnage.json) |
 | FlatOut: Ultimate Carnage Collector's Edition | 312397 | [312397-flatout-ultimate-carnage-collectors-edition.json](./312397-flatout-ultimate-carnage-collectors-edition.json) |
+| FlatPackers | 427603 | [427603-flatpackers.json](./427603-flatpackers.json) |
 | Flats | 174840 | [174840-flats.json](./174840-flats.json) |
 | Flats Full of Cats | 379382 | [379382-flats-full-of-cats.json](./379382-flats-full-of-cats.json) |
 | Flats Full of Cats: Bugs & Bolts | 379384 | [379384-flats-full-of-cats-bugs-and-bolts.json](./379384-flats-full-of-cats-bugs-and-bolts.json) |
@@ -9115,7 +9113,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Simulator (Bombardier CRJ 900 Edition) - Become Airplane Pilot | 103728 | [103728-flight-simulator-bombardier-crj-900-edition-become-airplane-pilot.json](./103728-flight-simulator-bombardier-crj-900-edition-become-airplane-pilot.json) |
 | Flight Simulator 0 | 102231 | [102231-flight-simulator-0.json](./102231-flight-simulator-0.json) |
 | Flight Simulator 2.0 | 50293 | [50293-flight-simulator-2-0.json](./50293-flight-simulator-2-0.json) |
-| Flight Simulator 2016 FlyWings - Collectors Edition | 90803 | [90803-flight-simulator-2016-flywings-collectors-edition.json](./90803-flight-simulator-2016-flywings-collectors-edition.json) |
 | Flight Simulator 2025 | 371411 | [371411-flight-simulator-2025.json](./371411-flight-simulator-2025.json) |
 | Flight Simulator 2025 VR | 335088 | [335088-flight-simulator-2025-vr.json](./335088-flight-simulator-2025-vr.json) |
 | Flight Simulator 2026 | 401128 | [401128-flight-simulator-2026.json](./401128-flight-simulator-2026.json) |
@@ -9676,6 +9673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow Handcrafted | 75663 | [75663-flow-handcrafted.json](./75663-flow-handcrafted.json) |
 | Flow Legends | 392546 | [392546-flow-legends.json](./392546-flow-legends.json) |
 | Flow levels | 95755 | [95755-flow-levels.json](./95755-flow-levels.json) |
+| Flow of Banners: Grim Whistles | 428065 | [428065-flow-of-banners-grim-whistles.json](./428065-flow-of-banners-grim-whistles.json) |
 | Flow of Sound | 262764 | [262764-flow-of-sound.json](./262764-flow-of-sound.json) |
 | Flow of War | 272262 | [272262-flow-of-war.json](./272262-flow-of-war.json) |
 | Flow Parkour | 260894 | [260894-flow-parkour.json](./260894-flow-parkour.json) |
@@ -10105,7 +10103,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Doggy | 270571 | [270571-flying-doggy.json](./270571-flying-doggy.json) |
 | Flying Dragon | 3497 | [3497-flying-dragon.json](./3497-flying-dragon.json) |
 | Flying Dragon: The Secret Scroll | 48127 | [48127-flying-dragon-the-secret-scroll.json](./48127-flying-dragon-the-secret-scroll.json) |
-| Flying Duckling | 91245 | [91245-flying-duckling.json](./91245-flying-duckling.json) |
 | Flying Feathers | 13847 | [13847-flying-feathers.json](./13847-flying-feathers.json) |
 | Flying Felix | 165905 | [165905-flying-felix.json](./165905-flying-felix.json) |
 | Flying Ferret | 295834 | [295834-flying-ferret.json](./295834-flying-ferret.json) |
@@ -11488,7 +11485,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Yours | 418561 | [418561-forever-yours.json](./418561-forever-yours.json) |
 | Forever-Happy-Town | 370656 | [370656-forever-happy-town.json](./370656-forever-happy-town.json) |
 | Forever, watching Perseids | 183931 | [183931-forever-watching-perseids.json](./183931-forever-watching-perseids.json) |
-| Foreveracers | 91328 | [91328-foreveracers.json](./91328-foreveracers.json) |
 | Foreverhood | 265739 | [265739-foreverhood.json](./265739-foreverhood.json) |
 | Foreverred | 142484 | [142484-foreverred.json](./142484-foreverred.json) |
 | Foreverthorn | 361904 | [361904-foreverthorn.json](./361904-foreverthorn.json) |
@@ -13537,7 +13533,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Skies | 316175 | [316175-free-skies.json](./316175-free-skies.json) |
 | Free Slots Fun Factory | 299573 | [299573-free-slots-fun-factory.json](./299573-free-slots-fun-factory.json) |
 | Free Solitaire | 340250 | [340250-free-solitaire.json](./340250-free-solitaire.json) |
-| Free Solitaire 3D | 90985 | [90985-free-solitaire-3d.json](./90985-free-solitaire-3d.json) |
 | Free Solitaire: Animals | 340253 | [340253-free-solitaire-animals.json](./340253-free-solitaire-animals.json) |
 | Free Solitaire: Art | 340256 | [340256-free-solitaire-art.json](./340256-free-solitaire-art.json) |
 | Free Solitaire: Cats | 340251 | [340251-free-solitaire-cats.json](./340251-free-solitaire-cats.json) |
@@ -14184,7 +14179,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz Chess 10 | 25429 | [25429-fritz-chess-10.json](./25429-fritz-chess-10.json) |
 | Fritz Chess 13 | 25054 | [25054-fritz-chess-13.json](./25054-fritz-chess-13.json) |
 | Fritz Chess 14 | 17050 | [17050-fritz-chess-14.json](./17050-fritz-chess-14.json) |
-| Fritz Chess 16: Steam Edition | 95148 | [95148-fritz-chess-16-steam-edition.json](./95148-fritz-chess-16-steam-edition.json) |
 | Fritz Chess 17 Steam Edition | 162708 | [162708-fritz-chess-17-steam-edition.json](./162708-fritz-chess-17-steam-edition.json) |
 | Fritz Chess Twelfth Edition | 209576 | [209576-fritz-chess-twelfth-edition.json](./209576-fritz-chess-twelfth-edition.json) |
 | Fritz Chess: Grandmaster 11 | 209573 | [209573-fritz-chess-grandmaster-11.json](./209573-fritz-chess-grandmaster-11.json) |
@@ -15330,11 +15324,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Court Heroes | 235625 | [235625-full-court-heroes.json](./235625-full-court-heroes.json) |
 | Full Deck Poker Solitaire | 88733 | [88733-full-deck-poker-solitaire.json](./88733-full-deck-poker-solitaire.json) |
 | Full Deck Pro Solitaire | 87487 | [87487-full-deck-pro-solitaire.json](./87487-full-deck-pro-solitaire.json) |
-| Full Deck Solitaire | 91173 | [91173-full-deck-solitaire.json](./91173-full-deck-solitaire.json) |
 | Full Drift Racing - Drifting & Racing Game | 114728 | [114728-full-drift-racing-drifting-and-racing-game.json](./114728-full-drift-racing-drifting-and-racing-game.json) |
 | Full English City | 310804 | [310804-full-english-city.json](./310804-full-english-city.json) |
 | Full Fathom | 234659 | [234659-full-fathom.json](./234659-full-fathom.json) |
-| Full Frontal Assault | 91282 | [91282-full-frontal-assault.json](./91282-full-frontal-assault.json) |
 | Full Gear | 229922 | [229922-full-gear.json](./229922-full-gear.json) |
 | Full Gear Mong Kok | 388509 | [388509-full-gear-mong-kok.json](./388509-full-gear-mong-kok.json) |
 | Full House | 79540 | [79540-full-house.json](./79540-full-house.json) |
@@ -15822,7 +15814,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funtime with Buffy | 158057 | [158057-funtime-with-buffy.json](./158057-funtime-with-buffy.json) |
 | Funtography: A Gameboy Cameradventure | 265229 | [265229-funtography-a-gameboy-cameradventure.json](./265229-funtography-a-gameboy-cameradventure.json) |
 | Funtoon's World | 51964 | [51964-funtoons-world.json](./51964-funtoons-world.json) |
-| Funtoon's World HD | 92092 | [92092-funtoons-world-hd.json](./92092-funtoons-world-hd.json) |
 | FunTown Mahjong | 77280 | [77280-funtown-mahjong.json](./77280-funtown-mahjong.json) |
 | Funtronics: Jacks | 245474 | [245474-funtronics-jacks.json](./245474-funtronics-jacks.json) |
 | Funtronics: Red Light Green Light | 245473 | [245473-funtronics-red-light-green-light.json](./245473-funtronics-red-light-green-light.json) |
