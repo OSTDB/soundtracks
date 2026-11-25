@@ -3890,7 +3890,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Germany's Next Top Model: Das Offizielle Spiel zur Staffel 2009 | 86128 | [86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json](./86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json) |
 | GermCraft Deluxe | 208013 | [208013-germcraft-deluxe.json](./208013-germcraft-deluxe.json) |
 | Germinal | 202229 | [202229-germinal.json](./202229-germinal.json) |
-| Germination | 95328 | [95328-germination.json](./95328-germination.json) |
 | Germline | 258601 | [258601-germline.json](./258601-germline.json) |
 | GermNation | 94941 | [94941-germnation.json](./94941-germnation.json) |
 | Germophilia | 24503 | [24503-germophilia.json](./24503-germophilia.json) |
@@ -4467,7 +4466,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Shadow | 214199 | [214199-ghost-shadow.json](./214199-ghost-shadow.json) |
 | Ghost Ship | 211829 | [211829-ghost-ship.json](./211829-ghost-ship.json) |
 | Ghost Ship | 287518 | [287518-ghost-ship.json](./287518-ghost-ship.json) |
-| Ghost Ship: Hidden Object Adventure Games | 97210 | [97210-ghost-ship-hidden-object-adventure-games.json](./97210-ghost-ship-hidden-object-adventure-games.json) |
 | Ghost Shock | 346702 | [346702-ghost-shock.json](./346702-ghost-shock.json) |
 | Ghost Shooter | 336223 | [336223-ghost-shooter.json](./336223-ghost-shooter.json) |
 | Ghost Shooter | 381051 | [381051-ghost-shooter.json](./381051-ghost-shooter.json) |
@@ -6019,7 +6017,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory of the Arena | 217349 | [217349-glory-of-the-arena.json](./217349-glory-of-the-arena.json) |
 | Glory of the Colosseum | 167576 | [167576-glory-of-the-colosseum.json](./167576-glory-of-the-colosseum.json) |
 | Glory of the Roman Empire | 298 | [298-glory-of-the-roman-empire.json](./298-glory-of-the-roman-empire.json) |
-| Glory of the Self- Styled Diehard girl | 96746 | [96746-glory-of-the-self-styled-diehard-girl.json](./96746-glory-of-the-self-styled-diehard-girl.json) |
 | Glory of the Survivor | 200134 | [200134-glory-of-the-survivor.json](./200134-glory-of-the-survivor.json) |
 | Glory of War | 209664 | [209664-glory-of-war.json](./209664-glory-of-war.json) |
 | Glory On Pluto | 336126 | [336126-glory-on-pluto.json](./336126-glory-on-pluto.json) |
@@ -6501,7 +6498,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go-Gurt Factory! | 341455 | [341455-go-gurt-factory.json](./341455-go-gurt-factory.json) |
 | Go-Jin Senki | 80525 | [80525-go-jin-senki.json](./80525-go-jin-senki.json) |
 | Go-Kart | 246489 | [246489-go-kart.json](./246489-go-kart.json) |
-| Go-Kart Racing | 96470 | [96470-go-kart-racing.json](./96470-go-kart-racing.json) |
 | Go-Kart Racing 2 | 369178 | [369178-go-kart-racing-2.json](./369178-go-kart-racing-2.json) |
 | Go-Kart Simulator | 326417 | [326417-go-kart-simulator.json](./326417-go-kart-simulator.json) |
 | Go-Kart Simulator | 419552 | [419552-go-kart-simulator.json](./419552-go-kart-simulator.json) |
@@ -10765,7 +10761,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
 | Grief: How to say goodbye | 182851 | [182851-grief-how-to-say-goodbye.json](./182851-grief-how-to-say-goodbye.json) |
 | Griefborn | 424974 | [424974-griefborn.json](./424974-griefborn.json) |
-| Griefer | 95219 | [95219-griefer.json](./95219-griefer.json) |
 | Griefhelm | 125762 | [125762-griefhelm.json](./125762-griefhelm.json) |
 | Griel's Quest for the Sangraal | 73909 | [73909-griels-quest-for-the-sangraal.json](./73909-griels-quest-for-the-sangraal.json) |
 | Grievance | 135614 | [135614-grievance.json](./135614-grievance.json) |
