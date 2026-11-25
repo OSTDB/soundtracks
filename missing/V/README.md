@@ -2483,7 +2483,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigtafl | 185036 | [185036-vigtafl.json](./185036-vigtafl.json) |
 | VII | 129121 | [129121-vii.json](./129121-vii.json) |
 | Vikavoltius | 136501 | [136501-vikavoltius.json](./136501-vikavoltius.json) |
-| Viki Spotter: Around The World | 89962 | [89962-viki-spotter-around-the-world.json](./89962-viki-spotter-around-the-world.json) |
 | Viki Spotter: Camping | 105366 | [105366-viki-spotter-camping.json](./105366-viki-spotter-camping.json) |
 | Viki Spotter: Complete Bundle | 268331 | [268331-viki-spotter-complete-bundle.json](./268331-viki-spotter-complete-bundle.json) |
 | Viki Spotter: Professions | 109387 | [109387-viki-spotter-professions.json](./109387-viki-spotter-professions.json) |
@@ -3177,7 +3176,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pet Dragon | 89687 | [89687-virtual-pet-dragon.json](./89687-virtual-pet-dragon.json) |
 | Virtual Pet Elephant | 90428 | [90428-virtual-pet-elephant.json](./90428-virtual-pet-elephant.json) |
 | Virtual Pet Great White Shark | 106574 | [106574-virtual-pet-great-white-shark.json](./106574-virtual-pet-great-white-shark.json) |
-| Virtual Pet Horse | 90022 | [90022-virtual-pet-horse.json](./90022-virtual-pet-horse.json) |
 | Virtual Pet Kitty Cat | 89227 | [89227-virtual-pet-kitty-cat.json](./89227-virtual-pet-kitty-cat.json) |
 | Virtual Pet Orca - The Killer Whale | 90039 | [90039-virtual-pet-orca-the-killer-whale.json](./90039-virtual-pet-orca-the-killer-whale.json) |
 | Virtual Pet Robot | 102895 | [102895-virtual-pet-robot.json](./102895-virtual-pet-robot.json) |
