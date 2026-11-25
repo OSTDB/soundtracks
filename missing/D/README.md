@@ -8291,6 +8291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent: Road to Legend | 32545 | [32545-descent-road-to-legend.json](./32545-descent-road-to-legend.json) |
 | Descent: Road to Legend - The Delve | 166009 | [166009-descent-road-to-legend-the-delve.json](./166009-descent-road-to-legend-the-delve.json) |
 | Descent: Road to Legend - Trials of Frostgate | 171576 | [171576-descent-road-to-legend-trials-of-frostgate.json](./171576-descent-road-to-legend-trials-of-frostgate.json) |
+| Descent: Silence of Mind | 41905 | [41905-descent-silence-of-mind.json](./41905-descent-silence-of-mind.json) |
 | Descent: The Dark Corridors | 298450 | [298450-descent-the-dark-corridors.json](./298450-descent-the-dark-corridors.json) |
 | Descentia | 265380 | [265380-descentia.json](./265380-descentia.json) |
 | Descentium | 211139 | [211139-descentium.json](./211139-descentium.json) |
