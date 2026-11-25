@@ -4354,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Fire: The Chosen Few | 145344 | [145344-heavy-fire-the-chosen-few.json](./145344-heavy-fire-the-chosen-few.json) |
 | Heavy Front | 380710 | [380710-heavy-front.json](./380710-heavy-front.json) |
 | Heavy Gear | 51364 | [51364-heavy-gear.json](./51364-heavy-gear.json) |
+| Heavy Gear Assault | 26704 | [26704-heavy-gear-assault.json](./26704-heavy-gear-assault.json) |
 | Heavy Gear II | 742 | [742-heavy-gear-ii.json](./742-heavy-gear-ii.json) |
 | Heavy Gear III | 100191 | [100191-heavy-gear-iii.json](./100191-heavy-gear-iii.json) |
 | Heavy Hand: Complete DLC Bundle | 317677 | [317677-heavy-hand-complete-dlc-bundle.json](./317677-heavy-hand-complete-dlc-bundle.json) |
@@ -5065,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helleidoscope | 364674 | [364674-helleidoscope.json](./364674-helleidoscope.json) |
 | Hellementalz | 19213 | [19213-hellementalz.json](./19213-hellementalz.json) |
 | Hellen's Gallery | 269290 | [269290-hellens-gallery.json](./269290-hellens-gallery.json) |
+| Hellenica | 26952 | [26952-hellenica.json](./26952-hellenica.json) |
 | Hellescape | 392459 | [392459-hellescape.json](./392459-hellescape.json) |
 | HellEscape | 215349 | [215349-hellescape.json](./215349-hellescape.json) |
 | Hellevator | 150120 | [150120-hellevator.json](./150120-hellevator.json) |
@@ -7408,6 +7410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroki | 96612 | [96612-heroki.json](./96612-heroki.json) |
 | Heroland | 103238 | [103238-heroland.json](./103238-heroland.json) |
 | Heroland: Knowble Edition | 136194 | [136194-heroland-knowble-edition.json](./136194-heroland-knowble-edition.json) |
+| Herolike | 26785 | [26785-herolike.json](./26785-herolike.json) |
 | Heroll: If | 418692 | [418692-heroll-if.json](./418692-heroll-if.json) |
 | Heromantic | 293561 | [293561-heromantic.json](./293561-heromantic.json) |
 | Heron: Steam Machine | 67239 | [67239-heron-steam-machine.json](./67239-heron-steam-machine.json) |
