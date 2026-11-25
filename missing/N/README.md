@@ -2951,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Tide | 120912 | [120912-neon-tide.json](./120912-neon-tide.json) |
 | Neon Tower Blast | 120757 | [120757-neon-tower-blast.json](./120757-neon-tower-blast.json) |
 | Neon Trap Defense | 185526 | [185526-neon-trap-defense.json](./185526-neon-trap-defense.json) |
+| Neon Tyrant | 430072 | [430072-neon-tyrant.json](./430072-neon-tyrant.json) |
 | Neon Ultra | 31296 | [31296-neon-ultra.json](./31296-neon-ultra.json) |
 | Neon Universe | 104433 | [104433-neon-universe.json](./104433-neon-universe.json) |
 | Neon Valley: Revenge | 84098 | [84098-neon-valley-revenge.json](./84098-neon-valley-revenge.json) |
