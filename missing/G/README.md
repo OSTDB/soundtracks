@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachaminer | 180227 | [180227-gachaminer.json](./180227-gachaminer.json) |
 | Gachamon | 358267 | [358267-gachamon.json](./358267-gachamon.json) |
 | Gachanimals | 373444 | [373444-gachanimals.json](./373444-gachanimals.json) |
+| Gachanime | 431238 | [431238-gachanime.json](./431238-gachanime.json) |
 | Gachapin & Mukku no Daiundoukai | 198194 | [198194-gachapin-and-mukku-no-daiundoukai.json](./198194-gachapin-and-mukku-no-daiundoukai.json) |
 | Gachapin Bomberman | 198038 | [198038-gachapin-bomberman.json](./198038-gachapin-bomberman.json) |
 | Gachapin Challenge DS | 124013 | [124013-gachapin-challenge-ds.json](./124013-gachapin-challenge-ds.json) |
@@ -5637,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glay: Complete Works | 286588 | [286588-glay-complete-works.json](./286588-glay-complete-works.json) |
 | Glaze Cup: Journey to the West | 164156 | [164156-glaze-cup-journey-to-the-west.json](./164156-glaze-cup-journey-to-the-west.json) |
 | Glazed Mirror: Myriad Cards | 417338 | [417338-glazed-mirror-myriad-cards.json](./417338-glazed-mirror-myriad-cards.json) |
+| Glazeyard | 431301 | [431301-glazeyard.json](./431301-glazeyard.json) |
 | Gleam and The Eternal Night | 274075 | [274075-gleam-and-the-eternal-night.json](./274075-gleam-and-the-eternal-night.json) |
 | Gleam of Fire | 105817 | [105817-gleam-of-fire.json](./105817-gleam-of-fire.json) |
 | Gleamlight | 127304 | [127304-gleamlight.json](./127304-gleamlight.json) |
