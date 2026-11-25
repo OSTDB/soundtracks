@@ -51,9 +51,9 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 | 37 | **Quake 4** | [🔎 Find on Spotify](https://open.spotify.com/search/Quake%204%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/Q/356-quake-4.json) |
 | 38 | **Hitman 3** | [🔎 Find on Spotify](https://open.spotify.com/search/Hitman%203%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/H/134595-hitman-3.json) |
 | 39 | **Crazy Taxi** | [🔎 Find on Spotify](https://open.spotify.com/search/Crazy%20Taxi%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/1805-crazy-taxi.json) |
-| 40 | **Duck Hunt** | [🔎 Find on Spotify](https://open.spotify.com/search/Duck%20Hunt%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/2741-duck-hunt.json) |
-| 41 | **Duke Nukem Forever** | [🔎 Find on Spotify](https://open.spotify.com/search/Duke%20Nukem%20Forever%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/490-duke-nukem-forever.json) |
-| 42 | **Grand Theft Auto: Vice City Stories** | [🔎 Find on Spotify](https://open.spotify.com/search/Grand%20Theft%20Auto%3A%20Vice%20City%20Stories%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/G/3262-grand-theft-auto-vice-city-stories.json) |
+| 40 | **Grand Theft Auto: Vice City Stories** | [🔎 Find on Spotify](https://open.spotify.com/search/Grand%20Theft%20Auto%3A%20Vice%20City%20Stories%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/G/3262-grand-theft-auto-vice-city-stories.json) |
+| 41 | **Duck Hunt** | [🔎 Find on Spotify](https://open.spotify.com/search/Duck%20Hunt%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/2741-duck-hunt.json) |
+| 42 | **Duke Nukem Forever** | [🔎 Find on Spotify](https://open.spotify.com/search/Duke%20Nukem%20Forever%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/490-duke-nukem-forever.json) |
 | 43 | **SteamWorld Dig** | [🔎 Find on Spotify](https://open.spotify.com/search/SteamWorld%20Dig%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/5772-steamworld-dig.json) |
 | 44 | **Metroid** | [🔎 Find on Spotify](https://open.spotify.com/search/Metroid%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/M/1101-metroid.json) |
 | 45 | **Need for Speed: Porsche Unleashed** | [🔎 Find on Spotify](https://open.spotify.com/search/Need%20for%20Speed%3A%20Porsche%20Unleashed%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/N/94-need-for-speed-porsche-unleashed.json) |
@@ -67,20 +67,20 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 21834 games | 21449 games | 24416 games | 22671 games | 9915 games | 16502 games | 13370 games |
+| 21838 games | 21452 games | 24418 games | 22671 games | 9915 games | 16503 games | 13373 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 15026 games | 8074 games | 4923 games | 7485 games | 11896 games | 25813 games | 9060 games |
+| 15028 games | 8074 games | 4924 games | 7486 games | 11900 games | 25819 games | 9062 games |
 
 | **[O](./O/README.md)** | **[P](./P/README.md)** | **[Q](./Q/README.md)** | **[R](./R/README.md)** | **[S](./S/README.md)** | **[T](./T/README.md)** | **[U](./U/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 6841 games | 21905 games | 1492 games | 15192 games | 42185 games | 39096 games | 4244 games |
+| 6844 games | 21906 games | 1492 games | 15194 games | 42192 games | 39098 games | 4245 games |
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
-| 5014 games | 11122 games | 1236 games | 2497 games | 3073 games | 4320 games |
+| 5015 games | 11125 games | 1236 games | 2498 games | 3073 games | 4320 games |
 
 ---
 
-_370651 games missing a soundtrack · last updated 2026-11-25T18:23:09.048Z_
+_370701 games missing a soundtrack · last updated 2026-11-25T21:50:49.604Z_
