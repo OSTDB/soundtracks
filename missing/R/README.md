@@ -5703,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remains | 274157 | [274157-remains.json](./274157-remains.json) |
 | Remains of Morrow | 197447 | [197447-remains-of-morrow.json](./197447-remains-of-morrow.json) |
 | Remains of Yith | 340007 | [340007-remains-of-yith.json](./340007-remains-of-yith.json) |
+| Remains on the Bus | 430985 | [430985-remains-on-the-bus.json](./430985-remains-on-the-bus.json) |
 | Remains: Echoes of Strength | 391127 | [391127-remains-echoes-of-strength.json](./391127-remains-echoes-of-strength.json) |
 | Remake Lover | 403194 | [403194-remake-lover.json](./403194-remake-lover.json) |
 | Remalmok | 149259 | [149259-remalmok.json](./149259-remalmok.json) |
@@ -8632,6 +8633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftborn | 370459 | [370459-riftborn.json](./370459-riftborn.json) |
 | Riftborne | 398474 | [398474-riftborne.json](./398474-riftborne.json) |
 | Riftcast | 311635 | [311635-riftcast.json](./311635-riftcast.json) |
+| Rifted Earth | 431007 | [431007-rifted-earth.json](./431007-rifted-earth.json) |
 | Rifted Worlds | 280439 | [280439-rifted-worlds.json](./280439-rifted-worlds.json) |
 | Riftella | 395960 | [395960-riftella.json](./395960-riftella.json) |
 | Rifter | 255498 | [255498-rifter.json](./255498-rifter.json) |
@@ -8780,6 +8782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Battle | 361737 | [361737-ring-battle.json](./361737-ring-battle.json) |
 | Ring Craft | 291843 | [291843-ring-craft.json](./291843-ring-craft.json) |
 | Ring Cycle | 2499 | [2499-ring-cycle.json](./2499-ring-cycle.json) |
+| Ring Dash SMS | 430982 | [430982-ring-dash-sms.json](./430982-ring-dash-sms.json) |
 | Ring Fit Adventure: Rhythm Game | 320954 | [320954-ring-fit-adventure-rhythm-game.json](./320954-ring-fit-adventure-rhythm-game.json) |
 | Ring Flyer | 411314 | [411314-ring-flyer.json](./411314-ring-flyer.json) |
 | Ring II: Twilight of the Gods | 73656 | [73656-ring-ii-twilight-of-the-gods.json](./73656-ring-ii-twilight-of-the-gods.json) |
@@ -13046,6 +13049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotten Apples | 255543 | [255543-rotten-apples.json](./255543-rotten-apples.json) |
 | Rotten Chamber | 399886 | [399886-rotten-chamber.json](./399886-rotten-chamber.json) |
 | Rotten Crop | 357749 | [357749-rotten-crop.json](./357749-rotten-crop.json) |
+| Rotten Crown | 430996 | [430996-rotten-crown.json](./430996-rotten-crown.json) |
 | Rotten Dinner | 254092 | [254092-rotten-dinner.json](./254092-rotten-dinner.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
 | Rotten Flesh | 274815 | [274815-rotten-flesh.json](./274815-rotten-flesh.json) |
@@ -13349,6 +13353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Envoy: Campaign for the Crown - Collector's Edition | 356131 | [356131-royal-envoy-campaign-for-the-crown-collectors-edition.json](./356131-royal-envoy-campaign-for-the-crown-collectors-edition.json) |
 | Royal Envoy: Collector's Edition | 209049 | [209049-royal-envoy-collectors-edition.json](./209049-royal-envoy-collectors-edition.json) |
 | Royal Escape | 71203 | [71203-royal-escape.json](./71203-royal-escape.json) |
+| Royal Escort: Idle Battles | 430886 | [430886-royal-escort-idle-battles.json](./430886-royal-escort-idle-battles.json) |
 | Royal Farm | 254750 | [254750-royal-farm.json](./254750-royal-farm.json) |
 | Royal Flush | 423641 | [423641-royal-flush.json](./423641-royal-flush.json) |
 | Royal Flush | 79182 | [79182-royal-flush.json](./79182-royal-flush.json) |
