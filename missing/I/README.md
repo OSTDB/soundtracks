@@ -2725,7 +2725,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imago | 97864 | [97864-imago.json](./97864-imago.json) |
 | Imago: Beyond the Nightmares | 214232 | [214232-imago-beyond-the-nightmares.json](./214232-imago-beyond-the-nightmares.json) |
 | Imagynasium | 222814 | [222814-imagynasium.json](./222814-imagynasium.json) |
-| iMahjong - Mahjong Pairs | 90041 | [90041-imahjong-mahjong-pairs.json](./90041-imahjong-mahjong-pairs.json) |
 | iMahjong - Mahjong Pairs (Full) | 90062 | [90062-imahjong-mahjong-pairs-full.json](./90062-imahjong-mahjong-pairs-full.json) |
 | iMake IcePops | 101554 | [101554-imake-icepops.json](./101554-imake-icepops.json) |
 | iMake Lollipops-Candy Making Kitchen Games | 98861 | [98861-imake-lollipops-candy-making-kitchen-games.json](./98861-imake-lollipops-candy-making-kitchen-games.json) |
