@@ -14175,6 +14175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolly Wars: Auto Tactics | 224829 | [224829-dolly-wars-auto-tactics.json](./224829-dolly-wars-auto-tactics.json) |
 | Dolly Wars: Auto Tactics - Holiday Nightmares Campaign | 235584 | [235584-dolly-wars-auto-tactics-holiday-nightmares-campaign.json](./235584-dolly-wars-auto-tactics-holiday-nightmares-campaign.json) |
 | Dollyban | 422167 | [422167-dollyban.json](./422167-dollyban.json) |
+| Dollynho: The Great Adventure | 430355 | [430355-dollynho-the-great-adventure.json](./430355-dollynho-the-great-adventure.json) |
 | Dolmen | 40102 | [40102-dolmen.json](./40102-dolmen.json) |
 | Dolmen: Day One Edition | 191499 | [191499-dolmen-day-one-edition.json](./191499-dolmen-day-one-edition.json) |
 | Dolmenia : Chroniques Gauloises | 125369 | [125369-dolmenia-chroniques-gauloises.json](./125369-dolmenia-chroniques-gauloises.json) |
@@ -21036,6 +21037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Creepster | 29379 | [29379-dungeon-creepster.json](./29379-dungeon-creepster.json) |
 | Dungeon Croaker | 267694 | [267694-dungeon-croaker.json](./267694-dungeon-croaker.json) |
 | Dungeon Cross | 221251 | [221251-dungeon-cross.json](./221251-dungeon-cross.json) |
+| Dungeon Crush | 430247 | [430247-dungeon-crush.json](./430247-dungeon-crush.json) |
 | Dungeon Crusher Kiritan | 138640 | [138640-dungeon-crusher-kiritan.json](./138640-dungeon-crusher-kiritan.json) |
 | Dungeon Crusher: Soul Hunters | 142999 | [142999-dungeon-crusher-soul-hunters.json](./142999-dungeon-crusher-soul-hunters.json) |
 | Dungeon Crystal | 322851 | [322851-dungeon-crystal.json](./322851-dungeon-crystal.json) |
