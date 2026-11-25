@@ -2498,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leafy Trails: Magic Tree | 264556 | [264556-leafy-trails-magic-tree.json](./264556-leafy-trails-magic-tree.json) |
 | League Bowling | 40206 | [40206-league-bowling.json](./40206-league-bowling.json) |
 | League Challenge | 78820 | [78820-league-challenge.json](./78820-league-challenge.json) |
+| League Champion | 430620 | [430620-league-champion.json](./430620-league-champion.json) |
 | League Funny | 243543 | [243543-league-funny.json](./243543-league-funny.json) |
 | League Manager 2022 | 188979 | [188979-league-manager-2022.json](./188979-league-manager-2022.json) |
 | League Manager 2023 | 235696 | [235696-league-manager-2023.json](./235696-league-manager-2023.json) |
@@ -9966,6 +9967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love & Knights Solitaire | 336987 | [336987-love-and-knights-solitaire.json](./336987-love-and-knights-solitaire.json) |
 | Love & Pies | 417327 | [417327-love-and-pies.json](./417327-love-and-pies.json) |
 | Love & Sex: Second Base | 229010 | [229010-love-and-sex-second-base.json](./229010-love-and-sex-second-base.json) |
+| Love & Sex: Second Base - For A Few Waifus More | 430373 | [430373-love-and-sex-second-base-for-a-few-waifus-more.json](./430373-love-and-sex-second-base-for-a-few-waifus-more.json) |
 | Love & Survival | 193777 | [193777-love-and-survival.json](./193777-love-and-survival.json) |
 | Love 15 | 341182 | [341182-love-15.json](./341182-love-15.json) |
 | Love 2 Torokko | 143667 | [143667-love-2-torokko.json](./143667-love-2-torokko.json) |
@@ -10662,6 +10664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LSD Battlefield Simulator | 340927 | [340927-lsd-battlefield-simulator.json](./340927-lsd-battlefield-simulator.json) |
 | LSD: Dream Emulator | 9235 | [9235-lsd-dream-emulator.json](./9235-lsd-dream-emulator.json) |
 | LSD: Dream Emulator Retro | 333780 | [333780-lsd-dream-emulator-retro.json](./333780-lsd-dream-emulator-retro.json) |
+| LSD: FIH | 430417 | [430417-lsd-fih.json](./430417-lsd-fih.json) |
 | LSD: Revamped | 25031 | [25031-lsd-revamped.json](./25031-lsd-revamped.json) |
 | LSD: The Game | 116998 | [116998-lsd-the-game.json](./116998-lsd-the-game.json) |
 | LSDos: Digital Simulation Simulator | 421887 | [421887-lsdos-digital-simulation-simulator.json](./421887-lsdos-digital-simulation-simulator.json) |
