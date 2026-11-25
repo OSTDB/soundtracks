@@ -6994,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickle | 314264 | [314264-pickle.json](./314264-pickle.json) |
 | Pickle | 314284 | [314284-pickle.json](./314284-pickle.json) |
 | Pickle Clicker | 212592 | [212592-pickle-clicker.json](./212592-pickle-clicker.json) |
+| Pickle Factory | 430903 | [430903-pickle-factory.json](./430903-pickle-factory.json) |
 | Pickle Frickle | 211717 | [211717-pickle-frickle.json](./211717-pickle-frickle.json) |
 | Pickle Fun | 219110 | [219110-pickle-fun.json](./219110-pickle-fun.json) |
 | Pickle Invasion | 327542 | [327542-pickle-invasion.json](./327542-pickle-invasion.json) |
@@ -7319,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieces of Me | 318759 | [318759-pieces-of-me.json](./318759-pieces-of-me.json) |
 | Pieces of Me: Northbound | 127464 | [127464-pieces-of-me-northbound.json](./127464-pieces-of-me-northbound.json) |
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
+| Pieces of the Deep | 430895 | [430895-pieces-of-the-deep.json](./430895-pieces-of-the-deep.json) |
 | Pieces of the Kingdom | 377965 | [377965-pieces-of-the-kingdom.json](./377965-pieces-of-the-kingdom.json) |
 | Pieces of the Past | 293042 | [293042-pieces-of-the-past.json](./293042-pieces-of-the-past.json) |
 | Pieces to Find | 363130 | [363130-pieces-to-find.json](./363130-pieces-to-find.json) |
