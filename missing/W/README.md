@@ -3356,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Need an Army | 363952 | [363952-we-need-an-army.json](./363952-we-need-an-army.json) |
 | We Need More Guns | 277778 | [277778-we-need-more-guns.json](./277778-we-need-more-guns.json) |
 | We Need More Humans! | 429648 | [429648-we-need-more-humans.json](./429648-we-need-more-humans.json) |
+| We Need More Nails | 431376 | [431376-we-need-more-nails.json](./431376-we-need-more-nails.json) |
 | We Need More Steam! | 282221 | [282221-we-need-more-steam.json](./282221-we-need-more-steam.json) |
 | We Need Space | 297859 | [297859-we-need-space.json](./297859-we-need-space.json) |
 | We Need the Sun | 185610 | [185610-we-need-the-sun.json](./185610-we-need-the-sun.json) |
@@ -5238,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Secrets: Into the Beyond - Collector's Edition | 43180 | [43180-whispered-secrets-into-the-beyond-collectors-edition.json](./43180-whispered-secrets-into-the-beyond-collectors-edition.json) |
 | Whispered Secrets: Into the Wind | 139781 | [139781-whispered-secrets-into-the-wind.json](./139781-whispered-secrets-into-the-wind.json) |
 | Whispered Secrets: Into the Wind - Collector's Edition | 88334 | [88334-whispered-secrets-into-the-wind-collectors-edition.json](./88334-whispered-secrets-into-the-wind-collectors-edition.json) |
+| Whispered Secrets: Morbid Obsession | 431369 | [431369-whispered-secrets-morbid-obsession.json](./431369-whispered-secrets-morbid-obsession.json) |
 | Whispered Secrets: Morbid Obsession - Collector's Edition | 362837 | [362837-whispered-secrets-morbid-obsession-collectors-edition.json](./362837-whispered-secrets-morbid-obsession-collectors-edition.json) |
 | Whispered Secrets: Poisoner's Masquerade | 416626 | [416626-whispered-secrets-poisoners-masquerade.json](./416626-whispered-secrets-poisoners-masquerade.json) |
 | Whispered Secrets: Poisoner's Masquerade - Collector's Edition | 409717 | [409717-whispered-secrets-poisoners-masquerade-collectors-edition.json](./409717-whispered-secrets-poisoners-masquerade-collectors-edition.json) |
