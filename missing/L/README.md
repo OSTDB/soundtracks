@@ -1115,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lapsi | 120337 | [120337-lapsi.json](./120337-lapsi.json) |
 | Lapso | 126618 | [126618-lapso.json](./126618-lapso.json) |
 | Lapso: Nimbo | 135793 | [135793-lapso-nimbo.json](./135793-lapso-nimbo.json) |
+| Lapsus | 431298 | [431298-lapsus.json](./431298-lapsus.json) |
 | Laptick | 56741 | [56741-laptick.json](./56741-laptick.json) |
 | Laptick 2 | 56742 | [56742-laptick-2.json](./56742-laptick-2.json) |
 | Laptop Architect | 406482 | [406482-laptop-architect.json](./406482-laptop-architect.json) |
