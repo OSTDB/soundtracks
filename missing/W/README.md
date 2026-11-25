@@ -3771,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wekele Wordle | 329557 | [329557-wekele-wordle.json](./329557-wekele-wordle.json) |
 | Wéko The Mask Gatherer | 270724 | [270724-weko-the-mask-gatherer.json](./270724-weko-the-mask-gatherer.json) |
 | Wekufu | 190277 | [190277-wekufu.json](./190277-wekufu.json) |
+| Wēlandes | 422245 | [422245-welandes.json](./422245-welandes.json) |
 | Welcome | 183928 | [183928-welcome.json](./183928-welcome.json) |
 | Welcome | 368669 | [368669-welcome.json](./368669-welcome.json) |
 | Welcome | 92277 | [92277-welcome.json](./92277-welcome.json) |
@@ -6357,6 +6358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilds | 141935 | [141935-wilds.json](./141935-wilds.json) |
 | Wilds of Lumithra | 421292 | [421292-wilds-of-lumithra.json](./421292-wilds-of-lumithra.json) |
 | Wilds of the Realmwalker | 356747 | [356747-wilds-of-the-realmwalker.json](./356747-wilds-of-the-realmwalker.json) |
+| Wilds: Night Zookeeper | 421871 | [421871-wilds-night-zookeeper.json](./421871-wilds-night-zookeeper.json) |
 | Wilds.io | 79877 | [79877-wilds-io.json](./79877-wilds-io.json) |
 | Wildseed | 356170 | [356170-wildseed.json](./356170-wildseed.json) |
 | Wildshade Fantasy Horse Races | 233069 | [233069-wildshade-fantasy-horse-races.json](./233069-wildshade-fantasy-horse-races.json) |
@@ -7719,6 +7721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within Yourself | 273762 | [273762-within-yourself.json](./273762-within-yourself.json) |
 | Within: Hannah's Journey | 304011 | [304011-within-hannahs-journey.json](./304011-within-hannahs-journey.json) |
 | Without a Dawn | 333551 | [333551-without-a-dawn.json](./333551-without-a-dawn.json) |
+| Without a Doubt | 419343 | [419343-without-a-doubt.json](./419343-without-a-doubt.json) |
 | Without A Hitch | 381168 | [381168-without-a-hitch.json](./381168-without-a-hitch.json) |
 | Without A Roof (W.A.R.) | 108637 | [108637-without-a-roof-w-a-r.json](./108637-without-a-roof-w-a-r.json) |
 | Without A Voice | 131833 | [131833-without-a-voice.json](./131833-without-a-voice.json) |
@@ -7746,6 +7749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witness of the Night | 207590 | [207590-witness-of-the-night.json](./207590-witness-of-the-night.json) |
 | Witness Of Time | 313842 | [313842-witness-of-time.json](./313842-witness-of-time.json) |
 | Witness the Dark #1: Bloody Burger | 404336 | [404336-witness-the-dark-1-bloody-burger.json](./404336-witness-the-dark-1-bloody-burger.json) |
+| Witness to Mass Incarceration | 420338 | [420338-witness-to-mass-incarceration.json](./420338-witness-to-mass-incarceration.json) |
 | Witness to Plague | 373566 | [373566-witness-to-plague.json](./373566-witness-to-plague.json) |
 | Witness: A Bodyguard Romance | 313846 | [313846-witness-a-bodyguard-romance.json](./313846-witness-a-bodyguard-romance.json) |
 | Witold the Game | 125542 | [125542-witold-the-game.json](./125542-witold-the-game.json) |
