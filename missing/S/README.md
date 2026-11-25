@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saboteur II | 12964 | [12964-saboteur-ii.json](./12964-saboteur-ii.json) |
 | Saboteur II: Avenging Angel | 121089 | [121089-saboteur-ii-avenging-angel.json](./121089-saboteur-ii-avenging-angel.json) |
 | Saboteur SiO | 147702 | [147702-saboteur-sio.json](./147702-saboteur-sio.json) |
+| Saboteur! | 112670 | [112670-saboteur.json](./112670-saboteur.json) |
 | Saboteur! | 26354 | [26354-saboteur.json](./26354-saboteur.json) |
 | Sabotris | 207293 | [207293-sabotris.json](./207293-sabotris.json) |
 | Sabotrix | 357482 | [357482-sabotrix.json](./357482-sabotrix.json) |
@@ -1682,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors 3 Z: Special | 198124 | [198124-samurai-warriors-3-z-special.json](./198124-samurai-warriors-3-z-special.json) |
 | Samurai Warriors 3: Empires | 12295 | [12295-samurai-warriors-3-empires.json](./12295-samurai-warriors-3-empires.json) |
 | Samurai Warriors 4 | 7290 | [7290-samurai-warriors-4.json](./7290-samurai-warriors-4.json) |
+| Samurai Warriors 4 DX | 112910 | [112910-samurai-warriors-4-dx.json](./112910-samurai-warriors-4-dx.json) |
 | Samurai Warriors 4-II | 12279 | [12279-samurai-warriors-4-ii.json](./12279-samurai-warriors-4-ii.json) |
 | Samurai Warriors 4-II: Scenario Set | 225941 | [225941-samurai-warriors-4-ii-scenario-set.json](./225941-samurai-warriors-4-ii-scenario-set.json) |
 | Samurai Warriors 4: Empires | 12280 | [12280-samurai-warriors-4-empires.json](./12280-samurai-warriors-4-empires.json) |
@@ -16830,6 +16832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Hit | 431104 | [431104-smash-hit.json](./431104-smash-hit.json) |
 | Smash Hit Museum | 383180 | [383180-smash-hit-museum.json](./383180-smash-hit-museum.json) |
 | Smash Hit Pak | 56457 | [56457-smash-hit-pak.json](./56457-smash-hit-pak.json) |
+| Smash Hit Plunder | 112180 | [112180-smash-hit-plunder.json](./112180-smash-hit-plunder.json) |
 | Smash Hockey | 133498 | [133498-smash-hockey.json](./133498-smash-hockey.json) |
 | Smash Hue | 263578 | [263578-smash-hue.json](./263578-smash-hue.json) |
 | Smash Hyper Drive | 220667 | [220667-smash-hyper-drive.json](./220667-smash-hyper-drive.json) |
@@ -29889,6 +29892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarTron | 228038 | [228038-startron.json](./228038-startron.json) |
 | StarTropics | 15901 | [15901-startropics.json](./15901-startropics.json) |
 | Startup Company: Console Edition | 228020 | [228020-startup-company-console-edition.json](./228020-startup-company-console-edition.json) |
+| Startup Freak | 74369 | [74369-startup-freak.json](./74369-startup-freak.json) |
 | Startup Grave | 194169 | [194169-startup-grave.json](./194169-startup-grave.json) |
 | Startup Panic | 138859 | [138859-startup-panic.json](./138859-startup-panic.json) |
 | Startup Quest Bakery | 306288 | [306288-startup-quest-bakery.json](./306288-startup-quest-bakery.json) |
@@ -30561,6 +30565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Swarm: Apocalypse | 325886 | [325886-steel-swarm-apocalypse.json](./325886-steel-swarm-apocalypse.json) |
 | Steel Swarm: Invasion | 350084 | [350084-steel-swarm-invasion.json](./350084-steel-swarm-invasion.json) |
 | Steel Swarm: Survivor | 387595 | [387595-steel-swarm-survivor.json](./387595-steel-swarm-survivor.json) |
+| Steel Sword Story | 112949 | [112949-steel-sword-story.json](./112949-steel-sword-story.json) |
 | Steel Sword Story S | 151560 | [151560-steel-sword-story-s.json](./151560-steel-sword-story-s.json) |
 | Steel Symphony | 295231 | [295231-steel-symphony.json](./295231-steel-symphony.json) |
 | Steel Talons | 126454 | [126454-steel-talons.json](./126454-steel-talons.json) |
@@ -34043,6 +34048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Prison | 251887 | [251887-succubus-prison.json](./251887-succubus-prison.json) |
 | Succubus Puttel | 385845 | [385845-succubus-puttel.json](./385845-succubus-puttel.json) |
 | Succubus Quest | 97486 | [97486-succubus-quest.json](./97486-succubus-quest.json) |
+| Succubus Rem | 74452 | [74452-succubus-rem.json](./74452-succubus-rem.json) |
 | Succubus Research Diary | 157107 | [157107-succubus-research-diary.json](./157107-succubus-research-diary.json) |
 | Succubus RoomMate | 261691 | [261691-succubus-roommate.json](./261691-succubus-roommate.json) |
 | Succubus Runa and the Erotic Dungeon | 192693 | [192693-succubus-runa-and-the-erotic-dungeon.json](./192693-succubus-runa-and-the-erotic-dungeon.json) |
@@ -38094,6 +38100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen OG: Infinite Battle | 214614 | [214614-super-robot-taisen-og-infinite-battle.json](./214614-super-robot-taisen-og-infinite-battle.json) |
 | Super Robot Taisen OG: Original Generations | 80450 | [80450-super-robot-taisen-og-original-generations.json](./80450-super-robot-taisen-og-original-generations.json) |
 | Super Robot Taisen R | 6624 | [6624-super-robot-taisen-r.json](./6624-super-robot-taisen-r.json) |
+| Super Robot Taisen T | 112431 | [112431-super-robot-taisen-t.json](./112431-super-robot-taisen-t.json) |
 | Super Robot Taisen T: Bonus Scenario Full Pack | 275061 | [275061-super-robot-taisen-t-bonus-scenario-full-pack.json](./275061-super-robot-taisen-t-bonus-scenario-full-pack.json) |
 | Super Robot Taisen T: Expansion Pack | 275062 | [275062-super-robot-taisen-t-expansion-pack.json](./275062-super-robot-taisen-t-expansion-pack.json) |
 | Super Robot Taisen T: Premium Anime Song & Sound Edition | 167089 | [167089-super-robot-taisen-t-premium-anime-song-and-sound-edition.json](./167089-super-robot-taisen-t-premium-anime-song-and-sound-edition.json) |
