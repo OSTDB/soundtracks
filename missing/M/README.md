@@ -2299,7 +2299,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Lemon Angel | 42004 | [42004-mahjong-lemon-angel.json](./42004-mahjong-lemon-angel.json) |
 | Mahjong Lonely Island: Majong Star Tower Deluxe | 232387 | [232387-mahjong-lonely-island-majong-star-tower-deluxe.json](./232387-mahjong-lonely-island-majong-star-tower-deluxe.json) |
 | Mahjong Magic Islands | 74386 | [74386-mahjong-magic-islands.json](./74386-mahjong-magic-islands.json) |
-| Mahjong Magic Journey | 90763 | [90763-mahjong-magic-journey.json](./90763-mahjong-magic-journey.json) |
 | Mahjong Magic Journey 2 | 109345 | [109345-mahjong-magic-journey-2.json](./109345-mahjong-magic-journey-2.json) |
 | Mahjong Magic Journey 3 | 109343 | [109343-mahjong-magic-journey-3.json](./109343-mahjong-magic-journey-3.json) |
 | Mahjong Mandy: Solitaire Trail | 418007 | [418007-mahjong-mandy-solitaire-trail.json](./418007-mahjong-mandy-solitaire-trail.json) |
@@ -2593,7 +2592,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maiden's Extreme Fist 'Bun-ga-rua' | 360112 | [360112-maidens-extreme-fist-bun-ga-rua.json](./360112-maidens-extreme-fist-bun-ga-rua.json) |
 | Maiden's Reception: Shoujo-tachi no Danmaku Hirouen | 252579 | [252579-maidens-reception-shoujo-tachi-no-danmaku-hirouen.json](./252579-maidens-reception-shoujo-tachi-no-danmaku-hirouen.json) |
 | Maidenless | 204061 | [204061-maidenless.json](./204061-maidenless.json) |
-| Maidens of a Hollow Dream | 90257 | [90257-maidens-of-a-hollow-dream.json](./90257-maidens-of-a-hollow-dream.json) |
 | Maidens of the Ocean Solitaire | 164926 | [164926-maidens-of-the-ocean-solitaire.json](./164926-maidens-of-the-ocean-solitaire.json) |
 | MaidGardener | 253904 | [253904-maidgardener.json](./253904-maidgardener.json) |
 | Maidlien | 130587 | [130587-maidlien.json](./130587-maidlien.json) |
@@ -3052,7 +3050,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makeruna! Makendo 2: Kimero Yokai Souri | 38265 | [38265-makeruna-makendo-2-kimero-yokai-souri.json](./38265-makeruna-makendo-2-kimero-yokai-souri.json) |
 | Makeruna! Makendou Z | 64091 | [64091-makeruna-makendou-z.json](./64091-makeruna-makendou-z.json) |
 | MakeShift Mayhem | 427837 | [427837-makeshift-mayhem.json](./427837-makeshift-mayhem.json) |
-| MakeThatMoney | 90473 | [90473-makethatmoney.json](./90473-makethatmoney.json) |
 | Makeup Artist | 400056 | [400056-makeup-artist.json](./400056-makeup-artist.json) |
 | Makeup ASMR: Makeover Story | 355866 | [355866-makeup-asmr-makeover-story.json](./355866-makeup-asmr-makeover-story.json) |
 | Makeup Girls - Wedding Dress Up & Make Up Game for girls, by Pazu | 107072 | [107072-makeup-girls-wedding-dress-up-and-make-up-game-for-girls-by-pazu.json](./107072-makeup-girls-wedding-dress-up-and-make-up-game-for-girls-by-pazu.json) |
@@ -5161,7 +5158,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Survivor: Red Rifle | 324458 | [324458-mars-survivor-red-rifle.json](./324458-mars-survivor-red-rifle.json) |
 | Mars Survivors | 253538 | [253538-mars-survivors.json](./253538-mars-survivors.json) |
 | Mars Tactics | 189333 | [189333-mars-tactics.json](./189333-mars-tactics.json) |
-| Mars Taken | 90147 | [90147-mars-taken.json](./90147-mars-taken.json) |
 | Mars Taxi | 341707 | [341707-mars-taxi.json](./341707-mars-taxi.json) |
 | Mars Taxi | 70356 | [70356-mars-taxi.json](./70356-mars-taxi.json) |
 | Mars Training Camp | 426637 | [426637-mars-training-camp.json](./426637-mars-training-camp.json) |
@@ -11009,7 +11005,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Secrets14 - Prison Escape | 104465 | [104465-mermaid-secrets14-prison-escape.json](./104465-mermaid-secrets14-prison-escape.json) |
 | Mermaid Secrets9- Hidden Crimes in High School | 95890 | [95890-mermaid-secrets9-hidden-crimes-in-high-school.json](./95890-mermaid-secrets9-hidden-crimes-in-high-school.json) |
 | Mermaid Shores | 180375 | [180375-mermaid-shores.json](./180375-mermaid-shores.json) |
-| Mermaid Spa & Makeover | 90733 | [90733-mermaid-spa-and-makeover.json](./90733-mermaid-spa-and-makeover.json) |
 | Mermaid Splash! | 146522 | [146522-mermaid-splash.json](./146522-mermaid-splash.json) |
 | Mermaid Splash! Passion Festival | 178775 | [178775-mermaid-splash-passion-festival.json](./178775-mermaid-splash-passion-festival.json) |
 | Mermaid Stories: Book 1 - The Lost Gift | 339377 | [339377-mermaid-stories-book-1-the-lost-gift.json](./339377-mermaid-stories-book-1-the-lost-gift.json) |
@@ -16549,7 +16544,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Stickball | 71888 | [71888-mlb-stickball.json](./71888-mlb-stickball.json) |
 | MLB Superstars | 5011 | [5011-mlb-superstars.json](./5011-mlb-superstars.json) |
 | MLB Tap Baseball 2023 | 242462 | [242462-mlb-tap-baseball-2023.json](./242462-mlb-tap-baseball-2023.json) |
-| MLB Tap Sports Baseball 2017 | 90064 | [90064-mlb-tap-sports-baseball-2017.json](./90064-mlb-tap-sports-baseball-2017.json) |
 | MLB Tap Sports Baseball 2020 | 220210 | [220210-mlb-tap-sports-baseball-2020.json](./220210-mlb-tap-sports-baseball-2020.json) |
 | MLB Tap Sports Baseball 2021 | 149138 | [149138-mlb-tap-sports-baseball-2021.json](./149138-mlb-tap-sports-baseball-2021.json) |
 | MLB Tap Sports Baseball 2022 | 196590 | [196590-mlb-tap-sports-baseball-2022.json](./196590-mlb-tap-sports-baseball-2022.json) |
@@ -17064,7 +17058,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Era | 123931 | [123931-moe-era.json](./123931-moe-era.json) |
 | Moe Girl | 188426 | [188426-moe-girl.json](./188426-moe-girl.json) |
 | Moe Hypnotist: Share Dreams With You | 113658 | [113658-moe-hypnotist-share-dreams-with-you.json](./113658-moe-hypnotist-share-dreams-with-you.json) |
-| Moe Jigsaw | 90253 | [90253-moe-jigsaw.json](./90253-moe-jigsaw.json) |
 | Moe Jigsaw: Abnormal Lovers Pack | 162921 | [162921-moe-jigsaw-abnormal-lovers-pack.json](./162921-moe-jigsaw-abnormal-lovers-pack.json) |
 | Moe Jigsaw: Aikagi Pack | 162925 | [162925-moe-jigsaw-aikagi-pack.json](./162925-moe-jigsaw-aikagi-pack.json) |
 | Moe Jigsaw: Amakano Pack | 162909 | [162909-moe-jigsaw-amakano-pack.json](./162909-moe-jigsaw-amakano-pack.json) |
@@ -18553,7 +18546,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Menu: The Scavenger's Cookbook - Deluxe Edition | 216580 | [216580-monster-menu-the-scavengers-cookbook-deluxe-edition.json](./216580-monster-menu-the-scavengers-cookbook-deluxe-edition.json) |
 | Monster Merchant | 370669 | [370669-monster-merchant.json](./370669-monster-merchant.json) |
 | Monster Mercs | 402979 | [402979-monster-mercs.json](./402979-monster-mercs.json) |
-| Monster Merge | 90768 | [90768-monster-merge.json](./90768-monster-merge.json) |
 | Monster Milktruck! | 145670 | [145670-monster-milktruck.json](./145670-monster-milktruck.json) |
 | Monster Mind | 137004 | [137004-monster-mind.json](./137004-monster-mind.json) |
 | Monster Mine Clash | 390245 | [390245-monster-mine-clash.json](./390245-monster-mine-clash.json) |
@@ -25352,7 +25344,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Tales: Dealer's Choices - Collector's Edition | 357675 | [357675-mystery-tales-dealers-choices-collectors-edition.json](./357675-mystery-tales-dealers-choices-collectors-edition.json) |
 | Mystery Tales: Eye of the Fire | 54616 | [54616-mystery-tales-eye-of-the-fire.json](./54616-mystery-tales-eye-of-the-fire.json) |
 | Mystery Tales: Eye of the Fire - Collector's Edition | 426232 | [426232-mystery-tales-eye-of-the-fire-collectors-edition.json](./426232-mystery-tales-eye-of-the-fire-collectors-edition.json) |
-| Mystery Tales: Her Own Eyes HD - A Hidden Object Mystery (Full) | 90065 | [90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json](./90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json) |
 | Mystery Tales: Master of Puppets | 187948 | [187948-mystery-tales-master-of-puppets.json](./187948-mystery-tales-master-of-puppets.json) |
 | Mystery Tales: Master of Puppets - Collector's Edition | 170200 | [170200-mystery-tales-master-of-puppets-collectors-edition.json](./170200-mystery-tales-master-of-puppets-collectors-edition.json) |
 | Mystery Tales: The Hangman Returns - Collector's Edition | 426233 | [426233-mystery-tales-the-hangman-returns-collectors-edition.json](./426233-mystery-tales-the-hangman-returns-collectors-edition.json) |
