@@ -2247,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Poder Oscuro | 85789 | [85789-el-poder-oscuro.json](./85789-el-poder-oscuro.json) |
 | El Principio del Fin | 99684 | [99684-el-principio-del-fin.json](./99684-el-principio-del-fin.json) |
 | El Puppster | 169047 | [169047-el-puppster.json](./169047-el-puppster.json) |
+| El Racon | 431243 | [431243-el-racon.json](./431243-el-racon.json) |
 | El Remedio de Aldorf | 130290 | [130290-el-remedio-de-aldorf.json](./130290-el-remedio-de-aldorf.json) |
 | El Restaurante de Sam | 412426 | [412426-el-restaurante-de-sam.json](./412426-el-restaurante-de-sam.json) |
 | El Rock de tu Vida | 126004 | [126004-el-rock-de-tu-vida.json](./126004-el-rock-de-tu-vida.json) |
