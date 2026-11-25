@@ -1951,7 +1951,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Train Evolution Pack | 272673 | [272673-a-train-evolution-pack.json](./272673-a-train-evolution-pack.json) |
 | A-Train Exp. | 69497 | [69497-a-train-exp.json](./69497-a-train-exp.json) |
 | A-Train Express+ | 136644 | [136644-a-train-express.json](./136644-a-train-express.json) |
-| A-Train PC Classic | 90551 | [90551-a-train-pc-classic.json](./90551-a-train-pc-classic.json) |
 | A-Train: All Aboard! Tourism - Nintendo Switch 2 Edition | 380696 | [380696-a-train-all-aboard-tourism-nintendo-switch-2-edition.json](./380696-a-train-all-aboard-tourism-nintendo-switch-2-edition.json) |
 | A-Train: City Simulator | 85874 | [85874-a-train-city-simulator.json](./85874-a-train-city-simulator.json) |
 | A-Train: Trains, Power, Money | 98269 | [98269-a-train-trains-power-money.json](./98269-a-train-trains-power-money.json) |
@@ -2918,7 +2917,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: The King of Fighters 2002 | 118497 | [118497-aca-neo-geo-the-king-of-fighters-2002.json](./118497-aca-neo-geo-the-king-of-fighters-2002.json) |
 | ACA Neo Geo: The King of Fighters 2003 | 115445 | [115445-aca-neo-geo-the-king-of-fighters-2003.json](./115445-aca-neo-geo-the-king-of-fighters-2003.json) |
 | ACA Neo Geo: The Last Blade | 99507 | [99507-aca-neo-geo-the-last-blade.json](./99507-aca-neo-geo-the-last-blade.json) |
-| ACA Neo Geo: The Last Blade 2 | 90517 | [90517-aca-neo-geo-the-last-blade-2.json](./90517-aca-neo-geo-the-last-blade-2.json) |
 | ACA Neo Geo: The Super Spy | 105122 | [105122-aca-neo-geo-the-super-spy.json](./105122-aca-neo-geo-the-super-spy.json) |
 | ACA Neo Geo: The Ultimate 11 - SNK Football Championship | 115665 | [115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json](./115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json) |
 | ACA Neo Geo: Thrash Rally | 111836 | [111836-aca-neo-geo-thrash-rally.json](./111836-aca-neo-geo-thrash-rally.json) |
@@ -3054,7 +3052,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accurate Segmentation 3 | 334828 | [334828-accurate-segmentation-3.json](./334828-accurate-segmentation-3.json) |
 | Accurate Shot | 288743 | [288743-accurate-shot.json](./288743-accurate-shot.json) |
 | Accurate Tag | 379461 | [379461-accurate-tag.json](./379461-accurate-tag.json) |
-| AccuRC 2 | 90621 | [90621-accurc-2.json](./90621-accurc-2.json) |
 | Accursed | 203864 | [203864-accursed.json](./203864-accursed.json) |
 | Accursed | 420709 | [420709-accursed.json](./420709-accursed.json) |
 | Accursed | 429983 | [429983-accursed.json](./429983-accursed.json) |
@@ -3341,7 +3338,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Idler: Red | 97229 | [97229-achievement-idler-red.json](./97229-achievement-idler-red.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
 | Achievement Lurker: Dad Jokes | 75802 | [75802-achievement-lurker-dad-jokes.json](./75802-achievement-lurker-dad-jokes.json) |
-| Achievement Lurker: Easiest Cosmetic Numbers | 90120 | [90120-achievement-lurker-easiest-cosmetic-numbers.json](./90120-achievement-lurker-easiest-cosmetic-numbers.json) |
 | Achievement Lurker: Respectable Accomplishment | 74625 | [74625-achievement-lurker-respectable-accomplishment.json](./74625-achievement-lurker-respectable-accomplishment.json) |
 | Achievement Lurker: We Give Up! | 81624 | [81624-achievement-lurker-we-give-up.json](./81624-achievement-lurker-we-give-up.json) |
 | Achievement Monster | 368535 | [368535-achievement-monster.json](./368535-achievement-monster.json) |
@@ -6242,7 +6238,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI People | 317314 | [317314-ai-people.json](./317314-ai-people.json) |
 | AI Pixel Battle | 377037 | [377037-ai-pixel-battle.json](./377037-ai-pixel-battle.json) |
 | AI Protocol | 393603 | [393603-ai-protocol.json](./393603-ai-protocol.json) |
-| AI Rebellion | 90465 | [90465-ai-rebellion.json](./90465-ai-rebellion.json) |
 | Ai Ren Lover | 148328 | [148328-ai-ren-lover.json](./148328-ai-ren-lover.json) |
 | AI Roguelite | 192216 | [192216-ai-roguelite.json](./192216-ai-roguelite.json) |
 | AI Roguelite 2D | 287191 | [287191-ai-roguelite-2d.json](./287191-ai-roguelite-2d.json) |
@@ -6808,7 +6803,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airflow | 312675 | [312675-airflow.json](./312675-airflow.json) |
 | Airflow: Seattle ARTCC | 376106 | [376106-airflow-seattle-artcc.json](./376106-airflow-seattle-artcc.json) |
 | AirFlow: Sky Is The Limit | 303126 | [303126-airflow-sky-is-the-limit.json](./303126-airflow-sky-is-the-limit.json) |
-| AirFMC | 90201 | [90201-airfmc.json](./90201-airfmc.json) |
 | Airforce Delta | 3710 | [3710-airforce-delta.json](./3710-airforce-delta.json) |
 | Airforce Delta | 47285 | [47285-airforce-delta.json](./47285-airforce-delta.json) |
 | AirForce Delta Storm | 5718 | [5718-airforce-delta-storm.json](./5718-airforce-delta-storm.json) |
@@ -9394,7 +9388,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabet Memory Match | 108476 | [108476-alphabet-memory-match.json](./108476-alphabet-memory-match.json) |
 | Alphabet Park Adventure | 100121 | [100121-alphabet-park-adventure.json](./100121-alphabet-park-adventure.json) |
 | Alphabet Solitaire Z | 89859 | [89859-alphabet-solitaire-z.json](./89859-alphabet-solitaire-z.json) |
-| Alphabet Solitaire Z: Japanese | 89854 | [89854-alphabet-solitaire-z-japanese.json](./89854-alphabet-solitaire-z-japanese.json) |
 | Alphabet Solitaire Z: Russian | 101576 | [101576-alphabet-solitaire-z-russian.json](./101576-alphabet-solitaire-z-russian.json) |
 | Alphabet Soup for Picky Eaters | 324660 | [324660-alphabet-soup-for-picky-eaters.json](./324660-alphabet-soup-for-picky-eaters.json) |
 | Alphabet Zoo | 12291 | [12291-alphabet-zoo.json](./12291-alphabet-zoo.json) |
@@ -16604,7 +16597,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed Resistance | 98229 | [98229-armed-resistance.json](./98229-armed-resistance.json) |
 | Armed Seven | 35769 | [35769-armed-seven.json](./35769-armed-seven.json) |
 | Armed Snake | 428559 | [428559-armed-snake.json](./428559-armed-snake.json) |
-| Armed to the Gears | 90407 | [90407-armed-to-the-gears.json](./90407-armed-to-the-gears.json) |
 | Armed Warrior VR | 74435 | [74435-armed-warrior-vr.json](./74435-armed-warrior-vr.json) |
 | Armed With Wings | 148494 | [148494-armed-with-wings.json](./148494-armed-with-wings.json) |
 | Armed With Wings 2 | 227333 | [227333-armed-with-wings-2.json](./227333-armed-with-wings-2.json) |
@@ -17202,7 +17194,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art7 | 208429 | [208429-art7.json](./208429-art7.json) |
 | Artania | 54998 | [54998-artania.json](./54998-artania.json) |
 | Artbook: Color by Numbers | 107354 | [107354-artbook-color-by-numbers.json](./107354-artbook-color-by-numbers.json) |
-| ArtDeco Backgammon 3D | 90684 | [90684-artdeco-backgammon-3d.json](./90684-artdeco-backgammon-3d.json) |
 | Artdink Game Log: Aquanaut’s Holiday | 397629 | [397629-artdink-game-log-aquanaut-s-holiday.json](./397629-artdink-game-log-aquanaut-s-holiday.json) |
 | Artdink Game Log: Tail of the Sun | 377258 | [377258-artdink-game-log-tail-of-the-sun.json](./377258-artdink-game-log-tail-of-the-sun.json) |
 | Arté Mecenas | 51490 | [51490-arte-mecenas.json](./51490-arte-mecenas.json) |
