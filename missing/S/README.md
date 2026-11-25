@@ -3000,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara NightCap | 260397 | [260397-sayonara-nightcap.json](./260397-sayonara-nightcap.json) |
 | Sayonara Okaasan | 360846 | [360846-sayonara-okaasan.json](./360846-sayonara-okaasan.json) |
 | Sayonara Sigil Sentry | 331679 | [331679-sayonara-sigil-sentry.json](./331679-sayonara-sigil-sentry.json) |
+| Sayonara Umihara Kawase | 27108 | [27108-sayonara-umihara-kawase.json](./27108-sayonara-umihara-kawase.json) |
 | Sayonara Umihara Kawase + | 27109 | [27109-sayonara-umihara-kawase.json](./27109-sayonara-umihara-kawase.json) |
 | Sayonara Umihara Kawase Smart | 247199 | [247199-sayonara-umihara-kawase-smart.json](./247199-sayonara-umihara-kawase-smart.json) |
 | Sayonara UmiharaKawase ++ | 110017 | [110017-sayonara-umiharakawase.json](./110017-sayonara-umiharakawase.json) |
@@ -5560,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Ninja | 402053 | [402053-sector-ninja.json](./402053-sector-ninja.json) |
 | Sector One | 256610 | [256610-sector-one.json](./256610-sector-one.json) |
 | Sector Shooter | 361266 | [361266-sector-shooter.json](./361266-sector-shooter.json) |
+| Sector Six | 32924 | [32924-sector-six.json](./32924-sector-six.json) |
 | Sector Space | 382135 | [382135-sector-space.json](./382135-sector-space.json) |
 | Sector Strike | 145016 | [145016-sector-strike.json](./145016-sector-strike.json) |
 | Sector Sweep | 224598 | [224598-sector-sweep.json](./224598-sector-sweep.json) |
@@ -9569,6 +9571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift at Midnight | 352789 | [352789-shift-at-midnight.json](./352789-shift-at-midnight.json) |
 | Shift Change | 299868 | [299868-shift-change.json](./299868-shift-change.json) |
 | Shift Chess | 415763 | [415763-shift-chess.json](./415763-shift-chess.json) |
+| Shift DX | 26737 | [26737-shift-dx.json](./26737-shift-dx.json) |
 | Shift Em Mania | 27906 | [27906-shift-em-mania.json](./27906-shift-em-mania.json) |
 | Shift Extended | 44531 | [44531-shift-extended.json](./44531-shift-extended.json) |
 | Shift Happens | 401864 | [401864-shift-happens.json](./401864-shift-happens.json) |
@@ -27787,6 +27790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standbox | 317134 | [317134-standbox.json](./317134-standbox.json) |
 | Standby | 119364 | [119364-standby.json](./119364-standby.json) |
 | Standby | 248069 | [248069-standby.json](./248069-standby.json) |
+| Standby | 26715 | [26715-standby.json](./26715-standby.json) |
 | Standby Say You! | 108836 | [108836-standby-say-you.json](./108836-standby-say-you.json) |
 | Standing on the Shoulders of Giants | 141291 | [141291-standing-on-the-shoulders-of-giants.json](./141291-standing-on-the-shoulders-of-giants.json) |
 | Standing There | 185401 | [185401-standing-there.json](./185401-standing-there.json) |
@@ -29676,6 +29680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Era: Lost Stars | 128238 | [128238-stars-era-lost-stars.json](./128238-stars-era-lost-stars.json) |
 | Stars Era: The Final Defence | 320241 | [320241-stars-era-the-final-defence.json](./320241-stars-era-the-final-defence.json) |
 | Stars Force | 148491 | [148491-stars-force.json](./148491-stars-force.json) |
+| Stars in Shadow | 27089 | [27089-stars-in-shadow.json](./27089-stars-in-shadow.json) |
 | Stars in Shadow: Legacies | 124781 | [124781-stars-in-shadow-legacies.json](./124781-stars-in-shadow-legacies.json) |
 | Stars Link | 234511 | [234511-stars-link.json](./234511-stars-link.json) |
 | Stars of Icarus | 348306 | [348306-stars-of-icarus.json](./348306-stars-of-icarus.json) |
@@ -36336,6 +36341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super GT 24h | 69067 | [69067-super-gt-24h.json](./69067-super-gt-24h.json) |
 | Super GTR Racing | 97115 | [97115-super-gtr-racing.json](./97115-super-gtr-racing.json) |
 | Super Gunfight | 189354 | [189354-super-gunfight.json](./189354-super-gunfight.json) |
+| Super GunWorld 2 | 27300 | [27300-super-gunworld-2.json](./27300-super-gunworld-2.json) |
 | Super Gussun Oyoyo | 42641 | [42641-super-gussun-oyoyo.json](./42641-super-gussun-oyoyo.json) |
 | Super Gussun Oyoyo 2 | 38385 | [38385-super-gussun-oyoyo-2.json](./38385-super-gussun-oyoyo-2.json) |
 | Super Hack Attack! | 318074 | [318074-super-hack-attack.json](./318074-super-hack-attack.json) |
@@ -36738,6 +36744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Light Saga: Dragon Force | 64041 | [64041-super-light-saga-dragon-force.json](./64041-super-light-saga-dragon-force.json) |
 | Super Lion King | 203656 | [203656-super-lion-king.json](./203656-super-lion-king.json) |
 | Super Liquid Soccer | 190414 | [190414-super-liquid-soccer.json](./190414-super-liquid-soccer.json) |
+| Super Little Acorns 3D Turbo | 23523 | [23523-super-little-acorns-3d-turbo.json](./23523-super-little-acorns-3d-turbo.json) |
 | Super Little Jogger | 239433 | [239433-super-little-jogger.json](./239433-super-little-jogger.json) |
 | Super Little Miss A.D.D. World | 277110 | [277110-super-little-miss-a-d-d-world.json](./277110-super-little-miss-a-d-d-world.json) |
 | Super Live Stadium | 301384 | [301384-super-live-stadium.json](./301384-super-live-stadium.json) |
