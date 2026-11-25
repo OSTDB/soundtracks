@@ -64,7 +64,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UAC Invasion: The Supply Depot | 256868 | [256868-uac-invasion-the-supply-depot.json](./256868-uac-invasion-the-supply-depot.json) |
 | UAC Storage Surplus Project | 306864 | [306864-uac-storage-surplus-project.json](./306864-uac-storage-surplus-project.json) |
 | UAC Ultra | 140469 | [140469-uac-ultra.json](./140469-uac-ultra.json) |
-| Uagi-Saba | 95163 | [95163-uagi-saba.json](./95163-uagi-saba.json) |
 | UAL: Universal AIM League | 186478 | [186478-ual-universal-aim-league.json](./186478-ual-universal-aim-league.json) |
 | Uanamon: Rugly Invasion | 260001 | [260001-uanamon-rugly-invasion.json](./260001-uanamon-rugly-invasion.json) |
 | UAV Wars | 92672 | [92672-uav-wars.json](./92672-uav-wars.json) |
@@ -315,7 +314,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFS League | 207883 | [207883-ufs-league.json](./207883-ufs-league.json) |
 | UG | 370848 | [370848-ug.json](./370848-ug.json) |
 | Ug! Caveman Game | 198528 | [198528-ug-caveman-game.json](./198528-ug-caveman-game.json) |
-| Uganda know de way | 93670 | [93670-uganda-know-de-way.json](./93670-uganda-know-de-way.json) |
 | Ugandan Knuckles Pet | 96300 | [96300-ugandan-knuckles-pet.json](./96300-ugandan-knuckles-pet.json) |
 | Ugandan Knuckles Simulator. Meme Salvation 3D | 96575 | [96575-ugandan-knuckles-simulator-meme-salvation-3d.json](./96575-ugandan-knuckles-simulator-meme-salvation-3d.json) |
 | Ugandan Knuckles VR | 223883 | [223883-ugandan-knuckles-vr.json](./223883-ugandan-knuckles-vr.json) |
@@ -537,7 +535,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Bicycle Stunts | 288546 | [288546-ultimate-bicycle-stunts.json](./288546-ultimate-bicycle-stunts.json) |
 | Ultimate Bird Simulator | 87344 | [87344-ultimate-bird-simulator.json](./87344-ultimate-bird-simulator.json) |
 | Ultimate Blackball | 243383 | [243383-ultimate-blackball.json](./243383-ultimate-blackball.json) |
-| Ultimate BlackJack Reloaded | 91107 | [91107-ultimate-blackjack-reloaded.json](./91107-ultimate-blackjack-reloaded.json) |
 | Ultimate Blacksmith Tycoon | 406393 | [406393-ultimate-blacksmith-tycoon.json](./406393-ultimate-blacksmith-tycoon.json) |
 | Ultimate Block Party | 22574 | [22574-ultimate-block-party.json](./22574-ultimate-block-party.json) |
 | Ultimate Body Blows | 8495 | [8495-ultimate-body-blows.json](./8495-ultimate-body-blows.json) |
@@ -3014,7 +3011,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno | 255867 | [255867-uno.json](./255867-uno.json) |
 | Uno | 312931 | [312931-uno.json](./312931-uno.json) |
 | Uno | 81358 | [81358-uno.json](./81358-uno.json) |
-| Uno / Skip-Bo / Uno Freefall | 91430 | [91430-uno-skip-bo-uno-freefall.json](./91430-uno-skip-bo-uno-freefall.json) |
 | UNO & Friends | 28711 | [28711-uno-and-friends.json](./28711-uno-and-friends.json) |
 | Uno 2 Go | 229062 | [229062-uno-2-go.json](./229062-uno-2-go.json) |
 | Uno 2: Small World | 61392 | [61392-uno-2-small-world.json](./61392-uno-2-small-world.json) |
