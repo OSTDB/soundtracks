@@ -5123,6 +5123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch a Duck | 119881 | [119881-catch-a-duck.json](./119881-catch-a-duck.json) |
 | Catch a Falling Star | 33285 | [33285-catch-a-falling-star.json](./33285-catch-a-falling-star.json) |
 | Catch a Lover | 29543 | [29543-catch-a-lover.json](./29543-catch-a-lover.json) |
+| Catch a Pack: Incremental Card Game | 425847 | [425847-catch-a-pack-incremental-card-game.json](./425847-catch-a-pack-incremental-card-game.json) |
 | Catch Beshi!! Scooping Game | 322666 | [322666-catch-beshi-scooping-game.json](./322666-catch-beshi-scooping-game.json) |
 | Catch Bus | 232033 | [232033-catch-bus.json](./232033-catch-bus.json) |
 | Catch Canvas | 33095 | [33095-catch-canvas.json](./33095-catch-canvas.json) |
@@ -5182,6 +5183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Stars: Jigsaw Puzzle | 153152 | [153152-catch-the-stars-jigsaw-puzzle.json](./153152-catch-the-stars-jigsaw-puzzle.json) |
 | Catch the thief | 202011 | [202011-catch-the-thief.json](./202011-catch-the-thief.json) |
 | Catch the Thief, if You Can! | 72456 | [72456-catch-the-thief-if-you-can.json](./72456-catch-the-thief-if-you-can.json) |
+| Catch the Train | 424161 | [424161-catch-the-train.json](./424161-catch-the-train.json) |
 | Catch the Turtle | 410230 | [410230-catch-the-turtle.json](./410230-catch-the-turtle.json) |
 | Catch the Vandal | 298278 | [298278-catch-the-vandal.json](./298278-catch-the-vandal.json) |
 | Catch the Wally - Hide & Seek | 108247 | [108247-catch-the-wally-hide-and-seek.json](./108247-catch-the-wally-hide-and-seek.json) |
@@ -8236,6 +8238,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chichen Itza | 13486 | [13486-chichen-itza.json](./13486-chichen-itza.json) |
 | Chichen-Itza | 178052 | [178052-chichen-itza.json](./178052-chichen-itza.json) |
 | Chichens | 192102 | [192102-chichens.json](./192102-chichens.json) |
+| Chichi Camp | 426745 | [426745-chichi-camp.json](./426745-chichi-camp.json) |
+| Chichi's Baking | 426744 | [426744-chichis-baking.json](./426744-chichis-baking.json) |
+| Chichi's Bread Run: Arcade | 426739 | [426739-chichis-bread-run-arcade.json](./426739-chichis-bread-run-arcade.json) |
 | Chichi's Idle Bakery Tycoon | 426738 | [426738-chichis-idle-bakery-tycoon.json](./426738-chichis-idle-bakery-tycoon.json) |
 | Chichi's Typing Battle | 430053 | [430053-chichis-typing-battle.json](./430053-chichis-typing-battle.json) |
 | Chick 'N Sword | 183592 | [183592-chick-n-sword.json](./183592-chick-n-sword.json) |
@@ -10011,6 +10016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrysler Classic Racing | 51042 | [51042-chrysler-classic-racing.json](./51042-chrysler-classic-racing.json) |
 | Chrysolite | 277460 | [277460-chrysolite.json](./277460-chrysolite.json) |
 | Chrysopoeia | 422723 | [422723-chrysopoeia.json](./422723-chrysopoeia.json) |
+| Chthon | 428395 | [428395-chthon.json](./428395-chthon.json) |
 | Chthonian TD | 406144 | [406144-chthonian-td.json](./406144-chthonian-td.json) |
 | Chthonic Deities | 271346 | [271346-chthonic-deities.json](./271346-chthonic-deities.json) |
 | Chu | 206554 | [206554-chu.json](./206554-chu.json) |
@@ -21104,6 +21110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosswords With Friends | 90063 | [90063-crosswords-with-friends.json](./90063-crosswords-with-friends.json) |
 | Crosswords: World Tour | 332329 | [332329-crosswords-world-tour.json](./332329-crosswords-world-tour.json) |
 | CrossWorlds: Escape | 31810 | [31810-crossworlds-escape.json](./31810-crossworlds-escape.json) |
+| Crossy | 426993 | [426993-crossy.json](./426993-crossy.json) |
 | Crossy Animals Road | 219935 | [219935-crossy-animals-road.json](./219935-crossy-animals-road.json) |
 | Crossy Bridge | 168569 | [168569-crossy-bridge.json](./168569-crossy-bridge.json) |
 | Crossy Cat | 428693 | [428693-crossy-cat.json](./428693-crossy-cat.json) |
@@ -22219,6 +22226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Cube 2 | 365146 | [365146-cube-cube-2.json](./365146-cube-cube-2.json) |
 | Cube Cube! | 234324 | [234324-cube-cube.json](./234324-cube-cube.json) |
 | Cube Dancer | 165364 | [165364-cube-dancer.json](./165364-cube-dancer.json) |
+| Cube Dash | 426991 | [426991-cube-dash.json](./426991-cube-dash.json) |
 | Cube de Grace | 244063 | [244063-cube-de-grace.json](./244063-cube-de-grace.json) |
 | Cube Decider | 203966 | [203966-cube-decider.json](./203966-cube-decider.json) |
 | Cube Defender | 113811 | [113811-cube-defender.json](./113811-cube-defender.json) |
