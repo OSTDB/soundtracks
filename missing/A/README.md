@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pirate's End | 176276 | [176276-a-pirates-end.json](./176276-a-pirates-end.json) |
 | A Pirate's Pleasure | 126685 | [126685-a-pirates-pleasure.json](./126685-a-pirates-pleasure.json) |
 | A Pirate's Pleasure: Bonus Stories | 193124 | [193124-a-pirates-pleasure-bonus-stories.json](./193124-a-pirates-pleasure-bonus-stories.json) |
+| A Pixel Story | 27210 | [27210-a-pixel-story.json](./27210-a-pixel-story.json) |
 | A Pizza Delivery | 328195 | [328195-a-pizza-delivery.json](./328195-a-pizza-delivery.json) |
 | A Place Far Away | 367479 | [367479-a-place-far-away.json](./367479-a-place-far-away.json) |
 | A Place for Every Potion | 425139 | [425139-a-place-for-every-potion.json](./425139-a-place-for-every-potion.json) |
@@ -8927,6 +8928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All That Time | 391370 | [391370-all-that-time.json](./391370-all-that-time.json) |
 | All The Colors That You Paint | 383376 | [383376-all-the-colors-that-you-paint.json](./383376-all-the-colors-that-you-paint.json) |
 | All the Darkest Places | 303131 | [303131-all-the-darkest-places.json](./303131-all-the-darkest-places.json) |
+| All the Delicate Duplicates | 26736 | [26736-all-the-delicate-duplicates.json](./26736-all-the-delicate-duplicates.json) |
 | All the Gold in Fort Locks | 408498 | [408498-all-the-gold-in-fort-locks.json](./408498-all-the-gold-in-fort-locks.json) |
 | All the Hidden Corners | 55875 | [55875-all-the-hidden-corners.json](./55875-all-the-hidden-corners.json) |
 | All the King's Men | 163856 | [163856-all-the-kings-men.json](./163856-all-the-kings-men.json) |
@@ -9629,6 +9631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alucinod | 118422 | [118422-alucinod.json](./118422-alucinod.json) |
 | Alühn | 320332 | [320332-aluhn.json](./320332-aluhn.json) |
 | Alula | 185428 | [185428-alula.json](./185428-alula.json) |
+| Alum | 26873 | [26873-alum.json](./26873-alum.json) |
 | Alum | 28576 | [28576-alum.json](./28576-alum.json) |
 | Alumbra | 417084 | [417084-alumbra.json](./417084-alumbra.json) |
 | Aluminium | 189234 | [189234-aluminium.json](./189234-aluminium.json) |
@@ -14253,6 +14256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquametsis | 278427 | [278427-aquametsis.json](./278427-aquametsis.json) |
 | Aquamorphosis | 242716 | [242716-aquamorphosis.json](./242716-aquamorphosis.json) |
 | Aquamorta | 428127 | [428127-aquamorta.json](./428127-aquamorta.json) |
+| AquaMoto Racing 3D | 23521 | [23521-aquamoto-racing-3d.json](./23521-aquamoto-racing-3d.json) |
 | Aquanaut | 14168 | [14168-aquanaut.json](./14168-aquanaut.json) |
 | Aquanaut | 153788 | [153788-aquanaut.json](./153788-aquanaut.json) |
 | Aquanaut | 153790 | [153790-aquanaut.json](./153790-aquanaut.json) |
