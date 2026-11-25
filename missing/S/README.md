@@ -1604,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown | 191471 | [191471-samurai-shodown.json](./191471-samurai-shodown.json) |
 | Samurai Shodown | 242326 | [242326-samurai-shodown.json](./242326-samurai-shodown.json) |
 | Samurai Shodown | 422664 | [422664-samurai-shodown.json](./422664-samurai-shodown.json) |
+| Samurai Shodown | 422669 | [422669-samurai-shodown.json](./422669-samurai-shodown.json) |
 | Samurai Shodown | 422681 | [422681-samurai-shodown.json](./422681-samurai-shodown.json) |
 | Samurai Shodown 64 | 19990 | [19990-samurai-shodown-64.json](./19990-samurai-shodown-64.json) |
 | Samurai Shodown 64: Warriors Rage | 19991 | [19991-samurai-shodown-64-warriors-rage.json](./19991-samurai-shodown-64-warriors-rage.json) |
@@ -11854,6 +11855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side View Golf | 256026 | [256026-side-view-golf.json](./256026-side-view-golf.json) |
 | Side Walls Multi Kicks | 364812 | [364812-side-walls-multi-kicks.json](./364812-side-walls-multi-kicks.json) |
 | Side Whoop | 390656 | [390656-side-whoop.json](./390656-side-whoop.json) |
+| Side42: The Tavern of Infinity | 422915 | [422915-side42-the-tavern-of-infinity.json](./422915-side42-the-tavern-of-infinity.json) |
 | SideArms | 125513 | [125513-sidearms.json](./125513-sidearms.json) |
 | Sidecar Evolution 2024 | 254900 | [254900-sidecar-evolution-2024.json](./254900-sidecar-evolution-2024.json) |
 | Sidecar Evolution 2025 | 385834 | [385834-sidecar-evolution-2025.json](./385834-sidecar-evolution-2025.json) |
@@ -19581,6 +19583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire: Victorian Picnic 2 | 147031 | [147031-solitaire-victorian-picnic-2.json](./147031-solitaire-victorian-picnic-2.json) |
 | Solitaire: Wild Park | 234426 | [234426-solitaire-wild-park.json](./234426-solitaire-wild-park.json) |
 | Solitaire. Dragon Light | 113246 | [113246-solitaire-dragon-light.json](./113246-solitaire-dragon-light.json) |
+| Solitaire.com: Classic Cards | 418291 | [418291-solitaire-com-classic-cards.json](./418291-solitaire-com-classic-cards.json) |
 | Solitaire's Journey | 47022 | [47022-solitaires-journey.json](./47022-solitaires-journey.json) |
 | SolitaireX | 388039 | [388039-solitairex.json](./388039-solitairex.json) |
 | Solitairica | 24464 | [24464-solitairica.json](./24464-solitairica.json) |
@@ -21990,6 +21993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls | 290622 | [290622-souls.json](./290622-souls.json) |
 | Souls | 51417 | [51417-souls.json](./51417-souls.json) |
 | Souls Alive: Origins | 366612 | [366612-souls-alive-origins.json](./366612-souls-alive-origins.json) |
+| Souls Caps | 422223 | [422223-souls-caps.json](./422223-souls-caps.json) |
 | Souls Chess | 301057 | [301057-souls-chess.json](./301057-souls-chess.json) |
 | Souls Divided | 410228 | [410228-souls-divided.json](./410228-souls-divided.json) |
 | Souls End | 345667 | [345667-souls-end.json](./345667-souls-end.json) |
@@ -27508,6 +27512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | St. Maria Village | 295315 | [295315-st-maria-village.json](./295315-st-maria-village.json) |
 | St. Nick | 42198 | [42198-st-nick.json](./42198-st-nick.json) |
 | St. Nick's: Dash Away All! | 184931 | [184931-st-nicks-dash-away-all.json](./184931-st-nicks-dash-away-all.json) |
+| St. Nozomi | 418120 | [418120-st-nozomi.json](./418120-st-nozomi.json) |
 | St. Orchint's Orphanage | 180914 | [180914-st-orchints-orphanage.json](./180914-st-orchints-orphanage.json) |
 | St. Thomas | 123171 | [123171-st-thomas.json](./123171-st-thomas.json) |
 | St. Yariman's Former Sluts: Mega MILF Edition | 371177 | [371177-st-yarimans-former-sluts-mega-milf-edition.json](./371177-st-yarimans-former-sluts-mega-milf-edition.json) |
@@ -28379,6 +28384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Splash: Shattered Star | 85392 | [85392-star-splash-shattered-star.json](./85392-star-splash-shattered-star.json) |
 | Star Squadron | 345441 | [345441-star-squadron.json](./345441-star-squadron.json) |
 | Star Squadron: Student Driver | 149548 | [149548-star-squadron-student-driver.json](./149548-star-squadron-student-driver.json) |
+| Star Squadrons: Galactic Trading Card Game | 422196 | [422196-star-squadrons-galactic-trading-card-game.json](./422196-star-squadrons-galactic-trading-card-game.json) |
 | Star Stable | 60338 | [60338-star-stable.json](./60338-star-stable.json) |
 | Star Stable: The Autumn Rider | 283667 | [283667-star-stable-the-autumn-rider.json](./283667-star-stable-the-autumn-rider.json) |
 | Star Stable: The Spring Rider | 283568 | [283568-star-stable-the-spring-rider.json](./283568-star-stable-the-spring-rider.json) |
@@ -40332,6 +40338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspira | 430389 | [430389-suspira.json](./430389-suspira.json) |
 | Suspirium | 180902 | [180902-suspirium.json](./180902-suspirium.json) |
 | Sussy Cat | 401075 | [401075-sussy-cat.json](./401075-sussy-cat.json) |
+| Sussy NPC | 420914 | [420914-sussy-npc.json](./420914-sussy-npc.json) |
 | Sussy's Floppy Disk-venture | 204212 | [204212-sussys-floppy-disk-venture.json](./204212-sussys-floppy-disk-venture.json) |
 | Sustainable Shaun | 207839 | [207839-sustainable-shaun.json](./207839-sustainable-shaun.json) |
 | Sustained | 291834 | [291834-sustained.json](./291834-sustained.json) |
