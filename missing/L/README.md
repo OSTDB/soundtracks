@@ -1208,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Las Diablas Blackjack | 84187 | [84187-las-diablas-blackjack.json](./84187-las-diablas-blackjack.json) |
 | Las gafas nuevas del yayo Carmelo | 314380 | [314380-las-gafas-nuevas-del-yayo-carmelo.json](./314380-las-gafas-nuevas-del-yayo-carmelo.json) |
 | Las Gymkhanikas de Uli | 377290 | [377290-las-gymkhanikas-de-uli.json](./377290-las-gymkhanikas-de-uli.json) |
+| LAS Recomp | 423779 | [423779-las-recomp.json](./423779-las-recomp.json) |
 | Las Vegas | 305463 | [305463-las-vegas.json](./305463-las-vegas.json) |
 | Las Vegas | 367874 | [367874-las-vegas.json](./367874-las-vegas.json) |
 | Las Vegas | 41423 | [41423-las-vegas.json](./41423-las-vegas.json) |
