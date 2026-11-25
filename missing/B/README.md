@@ -5904,6 +5904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beastmancer | 30346 | [30346-beastmancer.json](./30346-beastmancer.json) |
 | Beastmaster | 195378 | [195378-beastmaster.json](./195378-beastmaster.json) |
 | Beastmaster and Princes | 121737 | [121737-beastmaster-and-princes.json](./121737-beastmaster-and-princes.json) |
+| Beastopia: Raiders | 428249 | [428249-beastopia-raiders.json](./428249-beastopia-raiders.json) |
 | Beastria | 228156 | [228156-beastria.json](./228156-beastria.json) |
 | Beastro | 362043 | [362043-beastro.json](./362043-beastro.json) |
 | Beastrun | 151205 | [151205-beastrun.json](./151205-beastrun.json) |
@@ -12934,6 +12935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodMasque | 62956 | [62956-bloodmasque.json](./62956-bloodmasque.json) |
 | Bloodmatch | 366728 | [366728-bloodmatch.json](./366728-bloodmatch.json) |
 | Bloodmoney | 362163 | [362163-bloodmoney.json](./362163-bloodmoney.json) |
+| Bloodmoney: Requiem | 424324 | [424324-bloodmoney-requiem.json](./424324-bloodmoney-requiem.json) |
 | Bloodmoon | 380024 | [380024-bloodmoon.json](./380024-bloodmoon.json) |
 | BloodMoon | 267484 | [267484-bloodmoon.json](./267484-bloodmoon.json) |
 | Bloodmoon Bastion | 424713 | [424713-bloodmoon-bastion.json](./424713-bloodmoon-bastion.json) |
@@ -14673,6 +14675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman: Panic Bomber | 39663 | [39663-bomberman-panic-bomber.json](./39663-bomberman-panic-bomber.json) |
 | Bomberman: Party Edition | 18786 | [18786-bomberman-party-edition.json](./18786-bomberman-party-edition.json) |
 | Bomberman: Users Battle | 42055 | [42055-bomberman-users-battle.json](./42055-bomberman-users-battle.json) |
+| BombermanRecomp | 423776 | [423776-bombermanrecomp.json](./423776-bombermanrecomp.json) |
 | Bombernaut 67 | 418602 | [418602-bombernaut-67.json](./418602-bombernaut-67.json) |
 | Bombernauts | 16627 | [16627-bombernauts.json](./16627-bombernauts.json) |
 | BomberPengu | 286689 | [286689-bomberpengu.json](./286689-bomberpengu.json) |
