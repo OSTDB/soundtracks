@@ -13568,6 +13568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins of a Solar Empire: Ultimate Edition | 227177 | [227177-sins-of-a-solar-empire-ultimate-edition.json](./227177-sins-of-a-solar-empire-ultimate-edition.json) |
 | Sins Of Kaleido | 276733 | [276733-sins-of-kaleido.json](./276733-sins-of-kaleido.json) |
 | Sins of Sinister: The Viscera-Eater | 403645 | [403645-sins-of-sinister-the-viscera-eater.json](./403645-sins-of-sinister-the-viscera-eater.json) |
+| Sins of the Demon RPG | 33004 | [33004-sins-of-the-demon-rpg.json](./33004-sins-of-the-demon-rpg.json) |
 | Sins of the Everlasting Twilight | 298995 | [298995-sins-of-the-everlasting-twilight.json](./298995-sins-of-the-everlasting-twilight.json) |
 | Sins of Treatment | 275362 | [275362-sins-of-treatment.json](./275362-sins-of-treatment.json) |
 | Sins OV Cigar | 294944 | [294944-sins-ov-cigar.json](./294944-sins-ov-cigar.json) |
@@ -17984,6 +17985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snooker Fever: Value Edition | 394756 | [394756-snooker-fever-value-edition.json](./394756-snooker-fever-value-edition.json) |
 | Snooker Live Pro | 38948 | [38948-snooker-live-pro.json](./38948-snooker-live-pro.json) |
 | Snooker Loopy Pro | 159646 | [159646-snooker-loopy-pro.json](./159646-snooker-loopy-pro.json) |
+| Snooker Nation Championship | 33123 | [33123-snooker-nation-championship.json](./33123-snooker-nation-championship.json) |
 | Snooker Stars | 121613 | [121613-snooker-stars.json](./121613-snooker-stars.json) |
 | SnookerWorld | 31475 | [31475-snookerworld.json](./31475-snookerworld.json) |
 | Snookicker | 224190 | [224190-snookicker.json](./224190-snookicker.json) |
@@ -28778,6 +28780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Racer Revenge | 19419 | [19419-star-wars-racer-revenge.json](./19419-star-wars-racer-revenge.json) |
 | Star Wars: Rebel Assault | 161 | [161-star-wars-rebel-assault.json](./161-star-wars-rebel-assault.json) |
 | Star Wars: Rebel Assault - Special Edition | 209257 | [209257-star-wars-rebel-assault-special-edition.json](./209257-star-wars-rebel-assault-special-edition.json) |
+| Star Wars: Rebel Assault I + II | 33161 | [33161-star-wars-rebel-assault-i-ii.json](./33161-star-wars-rebel-assault-i-ii.json) |
 | Star Wars: Rebel Assault II - The Hidden Empire | 300715 | [300715-star-wars-rebel-assault-ii-the-hidden-empire.json](./300715-star-wars-rebel-assault-ii-the-hidden-empire.json) |
 | Star Wars: Rebel Forces | 199016 | [199016-star-wars-rebel-forces.json](./199016-star-wars-rebel-forces.json) |
 | Star Wars: Rebel Forces Laser Game | 198925 | [198925-star-wars-rebel-forces-laser-game.json](./198925-star-wars-rebel-forces-laser-game.json) |
@@ -29048,6 +29051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardawn Heroes | 270900 | [270900-stardawn-heroes.json](./270900-stardawn-heroes.json) |
 | Stardeus | 139453 | [139453-stardeus.json](./139453-stardeus.json) |
 | Stardew Valley Expanded | 210537 | [210537-stardew-valley-expanded.json](./210537-stardew-valley-expanded.json) |
+| Stardew Valley: Collector's Edition | 42895 | [42895-stardew-valley-collectors-edition.json](./42895-stardew-valley-collectors-edition.json) |
 | Stardiver | 150279 | [150279-stardiver.json](./150279-stardiver.json) |
 | Stardoll | 114643 | [114643-stardoll.json](./114643-stardoll.json) |
 | Stardoll Dress Up Blog Stars | 357220 | [357220-stardoll-dress-up-blog-stars.json](./357220-stardoll-dress-up-blog-stars.json) |
@@ -31382,6 +31386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Life 2 | 6176 | [6176-still-life-2.json](./6176-still-life-2.json) |
 | Still Life 2 - Director's Cut | 100723 | [100723-still-life-2-directors-cut.json](./100723-still-life-2-directors-cut.json) |
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
+| Still Not Dead | 41952 | [41952-still-not-dead.json](./41952-still-not-dead.json) |
 | Still Rain: The Arrival | 414626 | [414626-still-rain-the-arrival.json](./414626-still-rain-the-arrival.json) |
 | Still Remember | 424726 | [424726-still-remember.json](./424726-still-remember.json) |
 | Still Residue | 342929 | [342929-still-residue.json](./342929-still-residue.json) |
@@ -37404,6 +37409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World: Mario to Yoshi no Bouken Land | 230281 | [230281-super-mario-world-mario-to-yoshi-no-bouken-land.json](./230281-super-mario-world-mario-to-yoshi-no-bouken-land.json) |
 | Super Mario World: Neeberz's Hack | 268374 | [268374-super-mario-world-neeberzs-hack.json](./268374-super-mario-world-neeberzs-hack.json) |
 | Super Mario World: Piranha Island | 131895 | [131895-super-mario-world-piranha-island.json](./131895-super-mario-world-piranha-island.json) |
+| Super Mario World: Return to Dinosaur Land | 42525 | [42525-super-mario-world-return-to-dinosaur-land.json](./42525-super-mario-world-return-to-dinosaur-land.json) |
 | Super Mario World: Super Mario Advance 2 | 16617 | [16617-super-mario-world-super-mario-advance-2.json](./16617-super-mario-world-super-mario-advance-2.json) |
 | Super Mario World: The Great Sixth | 268389 | [268389-super-mario-world-the-great-sixth.json](./268389-super-mario-world-the-great-sixth.json) |
 | Super Mario World: The Huge Adventure | 267968 | [267968-super-mario-world-the-huge-adventure.json](./267968-super-mario-world-the-huge-adventure.json) |
@@ -38593,6 +38599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sports Blast | 143160 | [143160-super-sports-blast.json](./143160-super-sports-blast.json) |
 | Super Sports Challenge | 369131 | [369131-super-sports-challenge.json](./369131-super-sports-challenge.json) |
 | Super Sports Isle | 410197 | [410197-super-sports-isle.json](./410197-super-sports-isle.json) |
+| Super Sports Surgery | 40843 | [40843-super-sports-surgery.json](./40843-super-sports-surgery.json) |
 | Super Spray n' Slay 3D | 184107 | [184107-super-spray-n-slay-3d.json](./184107-super-spray-n-slay-3d.json) |
 | Super Sprint | 217981 | [217981-super-sprint.json](./217981-super-sprint.json) |
 | Super Sprint | 267540 | [267540-super-sprint.json](./267540-super-sprint.json) |
@@ -38638,6 +38645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Wars: Return of the Jedi | 48939 | [48939-super-star-wars-return-of-the-jedi.json](./48939-super-star-wars-return-of-the-jedi.json) |
 | Super Star Wars: The Empire Strikes Back | 44463 | [44463-super-star-wars-the-empire-strikes-back.json](./44463-super-star-wars-the-empire-strikes-back.json) |
 | Super Stardust | 12351 | [12351-super-stardust.json](./12351-super-stardust.json) |
+| Super Stardust Delta | 42694 | [42694-super-stardust-delta.json](./42694-super-stardust-delta.json) |
 | Super Stardust Delta Blast Pack | 140060 | [140060-super-stardust-delta-blast-pack.json](./140060-super-stardust-delta-blast-pack.json) |
 | Super Stardust HD | 2133 | [2133-super-stardust-hd.json](./2133-super-stardust-hd.json) |
 | Super Stardust HD Impact Mode | 140056 | [140056-super-stardust-hd-impact-mode.json](./140056-super-stardust-hd-impact-mode.json) |
