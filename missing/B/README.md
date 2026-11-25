@@ -10193,6 +10193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizarre | 272138 | [272138-bizarre.json](./272138-bizarre.json) |
 | Bizarre | 313139 | [313139-bizarre.json](./313139-bizarre.json) |
 | Bizarre Barber | 128174 | [128174-bizarre-barber.json](./128174-bizarre-barber.json) |
+| Bizarre Earthquake | 33385 | [33385-bizarre-earthquake.json](./33385-bizarre-earthquake.json) |
 | Bizarre Hunteress Rin | 82879 | [82879-bizarre-hunteress-rin.json](./82879-bizarre-hunteress-rin.json) |
 | Bizarre Job Agency | 427892 | [427892-bizarre-job-agency.json](./427892-bizarre-job-agency.json) |
 | Bizarre Journey | 103164 | [103164-bizarre-journey.json](./103164-bizarre-journey.json) |
