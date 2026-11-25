@@ -20828,6 +20828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn Aurora 2 | 376213 | [376213-autumn-aurora-2.json](./376213-autumn-aurora-2.json) |
 | Autumn Break | 255556 | [255556-autumn-break.json](./255556-autumn-break.json) |
 | Autumn Dynasty | 200286 | [200286-autumn-dynasty.json](./200286-autumn-dynasty.json) |
+| Autumn Dynasty Warlords | 23424 | [23424-autumn-dynasty-warlords.json](./23424-autumn-dynasty-warlords.json) |
 | Autumn Garden | 82181 | [82181-autumn-garden.json](./82181-autumn-garden.json) |
 | Autumn Hike | 257431 | [257431-autumn-hike.json](./257431-autumn-hike.json) |
 | Autumn Isle | 362352 | [362352-autumn-isle.json](./362352-autumn-isle.json) |
