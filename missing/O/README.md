@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Town | 278965 | [278965-odd-town.json](./278965-odd-town.json) |
 | Odd Woods | 223719 | [223719-odd-woods.json](./223719-odd-woods.json) |
 | Odd-mensional | 184117 | [184117-odd-mensional.json](./184117-odd-mensional.json) |
+| Odd\|\|Even | 33196 | [33196-odd-even.json](./33196-odd-even.json) |
 | Oddada | 204518 | [204518-oddada.json](./204518-oddada.json) |
 | OddBallers | 119089 | [119089-oddballers.json](./119089-oddballers.json) |
 | Oddballz: Your Wacky Computer Petz | 78013 | [78013-oddballz-your-wacky-computer-petz.json](./78013-oddballz-your-wacky-computer-petz.json) |
@@ -4819,6 +4820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origin Unknown | 247859 | [247859-origin-unknown.json](./247859-origin-unknown.json) |
 | Origin Wars: Arena | 428256 | [428256-origin-wars-arena.json](./428256-origin-wars-arena.json) |
 | Original | 117226 | [117226-original.json](./117226-original.json) |
+| Original Journey | 40968 | [40968-original-journey.json](./40968-original-journey.json) |
 | Original Soul | 265783 | [265783-original-soul.json](./265783-original-soul.json) |
 | Original Story from Fairy Tail: Gekitotsu! Kardia Daiseidou | 80340 | [80340-original-story-from-fairy-tail-gekitotsu-kardia-daiseidou.json](./80340-original-story-from-fairy-tail-gekitotsu-kardia-daiseidou.json) |
 | Original Switch Color 2 | 90379 | [90379-original-switch-color-2.json](./90379-original-switch-color-2.json) |
@@ -6125,6 +6127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Output Pasture | 126799 | [126799-output-pasture.json](./126799-output-pasture.json) |
 | Outrace | 196941 | [196941-outrace.json](./196941-outrace.json) |
 | Outracer | 51575 | [51575-outracer.json](./51575-outracer.json) |
+| Outrage | 33144 | [33144-outrage.json](./33144-outrage.json) |
 | OutRage: Fight Fest | 262662 | [262662-outrage-fight-fest.json](./262662-outrage-fight-fest.json) |
 | Outrageous Grounds: The Maze | 31739 | [31739-outrageous-grounds-the-maze.json](./31739-outrageous-grounds-the-maze.json) |
 | Outralism | 431282 | [431282-outralism.json](./431282-outralism.json) |
