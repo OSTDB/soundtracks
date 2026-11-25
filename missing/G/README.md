@@ -2991,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekraxel | 120114 | [120114-gekraxel.json](./120114-gekraxel.json) |
 | Gel-Tank | 142801 | [142801-gel-tank.json](./142801-gel-tank.json) |
 | Gel: Set & Match | 93921 | [93921-gel-set-and-match.json](./93921-gel-set-and-match.json) |
+| Gelatia | 430499 | [430499-gelatia.json](./430499-gelatia.json) |
 | Gelatina is Hungry | 304961 | [304961-gelatina-is-hungry.json](./304961-gelatina-is-hungry.json) |
 | Gelatine | 199254 | [199254-gelatine.json](./199254-gelatine.json) |
 | Gelatinous: Humanity Lost | 260312 | [260312-gelatinous-humanity-lost.json](./260312-gelatinous-humanity-lost.json) |
@@ -4111,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get!! Colonies | 67082 | [67082-get-colonies.json](./67082-get-colonies.json) |
 | Get'em Gary | 29232 | [29232-getem-gary.json](./29232-getem-gary.json) |
 | Get'Trump'ed Trivia | 380495 | [380495-gettrumped-trivia.json](./380495-gettrumped-trivia.json) |
+| Get65 | 430561 | [430561-get65.json](./430561-get65.json) |
 | Getamped 2 | 57925 | [57925-getamped-2.json](./57925-getamped-2.json) |
 | GetAmped Fighters | 225320 | [225320-getamped-fighters.json](./225320-getamped-fighters.json) |
 | GetAmped Mobile | 114178 | [114178-getamped-mobile.json](./114178-getamped-mobile.json) |
@@ -10266,6 +10268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed: Black Border | 10377 | [10377-greed-black-border.json](./10377-greed-black-border.json) |
 | Greed's Grub | 349365 | [349365-greeds-grub.json](./349365-greeds-grub.json) |
 | Greeded | 266606 | [266606-greeded.json](./266606-greeded.json) |
+| GreedFall: Adventurer's Gear | 430588 | [430588-greedfall-adventurers-gear.json](./430588-greedfall-adventurers-gear.json) |
 | GreedFall: Gold Edition | 145989 | [145989-greedfall-gold-edition.json](./145989-greedfall-gold-edition.json) |
 | GreedFall: The De Vespe Conspiracy | 154771 | [154771-greedfall-the-de-vespe-conspiracy.json](./154771-greedfall-the-de-vespe-conspiracy.json) |
 | GreedFall: The Dying World - Deluxe Edition | 426910 | [426910-greedfall-the-dying-world-deluxe-edition.json](./426910-greedfall-the-dying-world-deluxe-edition.json) |
