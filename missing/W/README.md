@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waking Up: Way Back Home | 264511 | [264511-waking-up-way-back-home.json](./264511-waking-up-way-back-home.json) |
 | Waking Violet | 103415 | [103415-waking-violet.json](./103415-waking-violet.json) |
 | Wakka Follow the Treasure Ring | 326246 | [326246-wakka-follow-the-treasure-ring.json](./326246-wakka-follow-the-treasure-ring.json) |
+| Wakppu Tower | 426749 | [426749-wakppu-tower.json](./426749-wakppu-tower.json) |
 | Waktunya Kerja! | 385599 | [385599-waktunya-kerja.json](./385599-waktunya-kerja.json) |
 | Waku Waku 7 | 27593 | [27593-waku-waku-7.json](./27593-waku-waku-7.json) |
 | Waku Waku Derby | 394402 | [394402-waku-waku-derby.json](./394402-waku-waku-derby.json) |
@@ -4355,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Happened At Sugar Hill? | 394117 | [394117-what-happened-at-sugar-hill.json](./394117-what-happened-at-sugar-hill.json) |
 | What Happened in Addison's Grotto | 203637 | [203637-what-happened-in-addisons-grotto.json](./203637-what-happened-in-addisons-grotto.json) |
 | What Happened on the Moon? | 335710 | [335710-what-happened-on-the-moon.json](./335710-what-happened-on-the-moon.json) |
+| What Happened to Emily | 423606 | [423606-what-happened-to-emily.json](./423606-what-happened-to-emily.json) |
 | What Happened to Kate | 298136 | [298136-what-happened-to-kate.json](./298136-what-happened-to-kate.json) |
 | What Happened to Lily? | 342848 | [342848-what-happened-to-lily.json](./342848-what-happened-to-lily.json) |
 | What Happened to Penelope Rose? | 427582 | [427582-what-happened-to-penelope-rose.json](./427582-what-happened-to-penelope-rose.json) |
@@ -5335,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of Wings Jigsaw Puzzles: Expansion Pack 3 | 357965 | [357965-whispers-of-wings-jigsaw-puzzles-expansion-pack-3.json](./357965-whispers-of-wings-jigsaw-puzzles-expansion-pack-3.json) |
 | Whispers of Wings Jigsaw Puzzles: Expansion Pack 4 | 357966 | [357966-whispers-of-wings-jigsaw-puzzles-expansion-pack-4.json](./357966-whispers-of-wings-jigsaw-puzzles-expansion-pack-4.json) |
 | Whispers of Yashan | 278803 | [278803-whispers-of-yashan.json](./278803-whispers-of-yashan.json) |
+| Whispers Within: Halloween Terror | 427648 | [427648-whispers-within-halloween-terror.json](./427648-whispers-within-halloween-terror.json) |
 | Whispers: Interactive Stories | 223892 | [223892-whispers-interactive-stories.json](./223892-whispers-interactive-stories.json) |
 | Whispers: Last Hope | 29720 | [29720-whispers-last-hope.json](./29720-whispers-last-hope.json) |
 | Whisperstring | 329970 | [329970-whisperstring.json](./329970-whisperstring.json) |
