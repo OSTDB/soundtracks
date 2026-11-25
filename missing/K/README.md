@@ -6762,6 +6762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kritsana | 424882 | [424882-kritsana.json](./424882-kritsana.json) |
 | Kritter: Defend Together | 223226 | [223226-kritter-defend-together.json](./223226-kritter-defend-together.json) |
 | Kritzel Krieg | 414873 | [414873-kritzel-krieg.json](./414873-kritzel-krieg.json) |
+| Krizgame | 430076 | [430076-krizgame.json](./430076-krizgame.json) |
 | Krizl | 106297 | [106297-krizl.json](./106297-krizl.json) |
 | Kroc & Roll | 25427 | [25427-kroc-and-roll.json](./25427-kroc-and-roll.json) |
 | Krog Wars | 57766 | [57766-krog-wars.json](./57766-krog-wars.json) |
