@@ -5628,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathtrap Dungeon | 8470 | [8470-deathtrap-dungeon.json](./8470-deathtrap-dungeon.json) |
 | Deathtrap Dungeon Trilogy | 126494 | [126494-deathtrap-dungeon-trilogy.json](./126494-deathtrap-dungeon-trilogy.json) |
 | Deathtrap Dungeon: The Golden Room | 161492 | [161492-deathtrap-dungeon-the-golden-room.json](./161492-deathtrap-dungeon-the-golden-room.json) |
+| Deathtrap Dungeon: The Interactive Video Adventure | 129936 | [129936-deathtrap-dungeon-the-interactive-video-adventure.json](./129936-deathtrap-dungeon-the-interactive-video-adventure.json) |
 | Deathtrip | 297872 | [297872-deathtrip.json](./297872-deathtrip.json) |
 | Deathtroopers: The Outpost | 298391 | [298391-deathtroopers-the-outpost.json](./298391-deathtroopers-the-outpost.json) |
 | Deathverse: Let It Die | 178297 | [178297-deathverse-let-it-die.json](./178297-deathverse-let-it-die.json) |
@@ -9510,6 +9511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Island | 216648 | [216648-devils-island.json](./216648-devils-island.json) |
 | Devil's Island | 313102 | [313102-devils-island.json](./313102-devils-island.json) |
 | Devil's Island Pinball | 70331 | [70331-devils-island-pinball.json](./70331-devils-island-pinball.json) |
+| Devil's Kiss | 130127 | [130127-devils-kiss.json](./130127-devils-kiss.json) |
 | Devil's Land | 81827 | [81827-devils-land.json](./81827-devils-land.json) |
 | Devil's Liminal | 231173 | [231173-devils-liminal.json](./231173-devils-liminal.json) |
 | Devil's Logic | 405765 | [405765-devils-logic.json](./405765-devils-logic.json) |
@@ -20975,7 +20977,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Break TD | 152969 | [152969-dungeon-break-td.json](./152969-dungeon-break-td.json) |
 | Dungeon Breakers | 188281 | [188281-dungeon-breakers.json](./188281-dungeon-breakers.json) |
 | Dungeon Breakout: Chapter 1 | 252616 | [252616-dungeon-breakout-chapter-1.json](./252616-dungeon-breakout-chapter-1.json) |
-| Dungeon Brewmaster | 98734 | [98734-dungeon-brewmaster.json](./98734-dungeon-brewmaster.json) |
 | Dungeon Bricker | 159015 | [159015-dungeon-bricker.json](./159015-dungeon-bricker.json) |
 | Dungeon Bucko | 416376 | [416376-dungeon-bucko.json](./416376-dungeon-bucko.json) |
 | Dungeon Builder S | 44199 | [44199-dungeon-builder-s.json](./44199-dungeon-builder-s.json) |
@@ -22560,6 +22561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 7: Empires | 6834 | [6834-dynasty-warriors-7-empires.json](./6834-dynasty-warriors-7-empires.json) |
 | Dynasty Warriors 7: Special | 269527 | [269527-dynasty-warriors-7-special.json](./269527-dynasty-warriors-7-special.json) |
 | Dynasty Warriors 7: Xtreme Legends | 6833 | [6833-dynasty-warriors-7-xtreme-legends.json](./6833-dynasty-warriors-7-xtreme-legends.json) |
+| Dynasty Warriors 7: Xtreme Legends - Definitive Edition | 113386 | [113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json](./113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json) |
 | Dynasty Warriors 8 | 6976 | [6976-dynasty-warriors-8.json](./6976-dynasty-warriors-8.json) |
 | Dynasty Warriors 8: Empires | 13669 | [13669-dynasty-warriors-8-empires.json](./13669-dynasty-warriors-8-empires.json) |
 | Dynasty Warriors 8: Empires - Castle and Scenario Pack | 227074 | [227074-dynasty-warriors-8-empires-castle-and-scenario-pack.json](./227074-dynasty-warriors-8-empires-castle-and-scenario-pack.json) |
