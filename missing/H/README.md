@@ -9276,6 +9276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikari no Senshi Photon: The Ultimate Game on Planet Earth | 48491 | [48491-hikari-no-senshi-photon-the-ultimate-game-on-planet-earth.json](./48491-hikari-no-senshi-photon-the-ultimate-game-on-planet-earth.json) |
 | Hikari no Shima: Seven Lithographs in Shining Island | 259488 | [259488-hikari-no-shima-seven-lithographs-in-shining-island.json](./259488-hikari-no-shima-seven-lithographs-in-shining-island.json) |
 | Hikari no Valusia | 378203 | [378203-hikari-no-valusia.json](./378203-hikari-no-valusia.json) |
+| Hikari! Clover Rescue | 113063 | [113063-hikari-clover-rescue.json](./113063-hikari-clover-rescue.json) |
 | Hikari! Love Potion | 128006 | [128006-hikari-love-potion.json](./128006-hikari-love-potion.json) |
 | Hikariblade RPG | 88038 | [88038-hikariblade-rpg.json](./88038-hikariblade-rpg.json) |
 | Hikaru Genji: Roller Panic | 41308 | [41308-hikaru-genji-roller-panic.json](./41308-hikaru-genji-roller-panic.json) |
@@ -14222,6 +14223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Shark: Sea Monster 3D | 87421 | [87421-hunting-shark-sea-monster-3d.json](./87421-hunting-shark-sea-monster-3d.json) |
 | Hunting Simulator | 239044 | [239044-hunting-simulator.json](./239044-hunting-simulator.json) |
 | Hunting Simulator | 27697 | [27697-hunting-simulator.json](./27697-hunting-simulator.json) |
+| Hunting Simulator 2 | 130000 | [130000-hunting-simulator-2.json](./130000-hunting-simulator-2.json) |
 | Hunting Simulator 2: A Ranger's Life | 172235 | [172235-hunting-simulator-2-a-rangers-life.json](./172235-hunting-simulator-2-a-rangers-life.json) |
 | Hunting Simulator 2: Bear Hunter Edition | 164746 | [164746-hunting-simulator-2-bear-hunter-edition.json](./164746-hunting-simulator-2-bear-hunter-edition.json) |
 | Hunting Simulator 2: Bear Hunter Pack | 224221 | [224221-hunting-simulator-2-bear-hunter-pack.json](./224221-hunting-simulator-2-bear-hunter-pack.json) |
