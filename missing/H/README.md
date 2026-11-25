@@ -3016,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku Logic Paint S+: Snow Miku Sky Town | 426539 | [426539-hatsune-miku-logic-paint-s-snow-miku-sky-town.json](./426539-hatsune-miku-logic-paint-s-snow-miku-sky-town.json) |
 | Hatsune Miku Starry Party | 409132 | [409132-hatsune-miku-starry-party.json](./409132-hatsune-miku-starry-party.json) |
 | Hatsune Miku Tycoon | 216034 | [216034-hatsune-miku-tycoon.json](./216034-hatsune-miku-tycoon.json) |
+| Hatsune Miku VR | 89847 | [89847-hatsune-miku-vr.json](./89847-hatsune-miku-vr.json) |
 | Hatsune Miku VR: 5 Songs pack 1 | 223587 | [223587-hatsune-miku-vr-5-songs-pack-1.json](./223587-hatsune-miku-vr-5-songs-pack-1.json) |
 | Hatsune Miku VR: 5 Songs pack 2 | 223589 | [223589-hatsune-miku-vr-5-songs-pack-2.json](./223589-hatsune-miku-vr-5-songs-pack-2.json) |
 | Hatsune Miku VR: 5 Songs pack 3 | 223588 | [223588-hatsune-miku-vr-5-songs-pack-3.json](./223588-hatsune-miku-vr-5-songs-pack-3.json) |
