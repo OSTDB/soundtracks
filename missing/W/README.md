@@ -3134,6 +3134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way to the Woods | 90012 | [90012-way-to-the-woods.json](./90012-way-to-the-woods.json) |
 | Way to Town | 358466 | [358466-way-to-town.json](./358466-way-to-town.json) |
 | Way to Yaatra | 140604 | [140604-way-to-yaatra.json](./140604-way-to-yaatra.json) |
+| Way Too Many Eggs | 430933 | [430933-way-too-many-eggs.json](./430933-way-too-many-eggs.json) |
 | Way Too Many Fish! | 421267 | [421267-way-too-many-fish.json](./421267-way-too-many-fish.json) |
 | Way Walkers: University | 168695 | [168695-way-walkers-university.json](./168695-way-walkers-university.json) |
 | Way Walkers: University 2 | 160088 | [160088-way-walkers-university-2.json](./160088-way-walkers-university-2.json) |
