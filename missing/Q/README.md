@@ -180,7 +180,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qomp2 | 263923 | [263923-qomp2.json](./263923-qomp2.json) |
 | QontoWars | 190492 | [190492-qontowars.json](./190492-qontowars.json) |
 | Qoosh | 418460 | [418460-qoosh.json](./418460-qoosh.json) |
-| Qop | 91315 | [91315-qop.json](./91315-qop.json) |
 | Qop 2 | 76379 | [76379-qop-2.json](./76379-qop-2.json) |
 | qop: DLC | 171435 | [171435-qop-dlc.json](./171435-qop-dlc.json) |
 | Qora | 17492 | [17492-qora.json](./17492-qora.json) |
