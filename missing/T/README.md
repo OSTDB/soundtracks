@@ -3051,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TastyPlanet Back for SecondsHD | 88644 | [88644-tastyplanet-back-for-secondshd.json](./88644-tastyplanet-back-for-secondshd.json) |
 | Tasu Bowl | 349101 | [349101-tasu-bowl.json](./349101-tasu-bowl.json) |
 | Tasukemono | 250766 | [250766-tasukemono.json](./250766-tasukemono.json) |
+| Tatakabu-Do: Hammer and Helmet | 430890 | [430890-tatakabu-do-hammer-and-helmet.json](./430890-tatakabu-do-hammer-and-helmet.json) |
 | Tatakae Butasan | 221579 | [221579-tatakae-butasan.json](./221579-tatakae-butasan.json) |
 | Tatakae RX! | 218246 | [218246-tatakae-rx.json](./218246-tatakae-rx.json) |
 | Tatakae! Draft Redder | 385811 | [385811-tatakae-draft-redder.json](./385811-tatakae-draft-redder.json) |
@@ -10332,6 +10333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End: Pronton | 240749 | [240749-the-end-pronton.json](./240749-the-end-pronton.json) |
 | The Endarkenment | 292559 | [292559-the-endarkenment.json](./292559-the-endarkenment.json) |
 | The Endgame | 261621 | [261621-the-endgame.json](./261621-the-endgame.json) |
+| The Endgame Is Me | 430896 | [430896-the-endgame-is-me.json](./430896-the-endgame-is-me.json) |
 | The Endless Adventure | 165686 | [165686-the-endless-adventure.json](./165686-the-endless-adventure.json) |
 | The Endless Backgate | 372807 | [372807-the-endless-backgate.json](./372807-the-endless-backgate.json) |
 | The Endless Dream | 253833 | [253833-the-endless-dream.json](./253833-the-endless-dream.json) |
@@ -23646,6 +23648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Against the Odds | 338975 | [338975-three-against-the-odds.json](./338975-three-against-the-odds.json) |
 | Three Alpha One Nine | 312133 | [312133-three-alpha-one-nine.json](./312133-three-alpha-one-nine.json) |
 | Three Blades Ranch | 266584 | [266584-three-blades-ranch.json](./266584-three-blades-ranch.json) |
+| Three Blocks to Go | 430984 | [430984-three-blocks-to-go.json](./430984-three-blocks-to-go.json) |
 | Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
 | Three Bulky Bears | 301865 | [301865-three-bulky-bears.json](./301865-three-bulky-bears.json) |
 | Three Cards to Midnight | 67830 | [67830-three-cards-to-midnight.json](./67830-three-cards-to-midnight.json) |
@@ -28443,6 +28446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Chronicles | 199576 | [199576-toilet-chronicles.json](./199576-toilet-chronicles.json) |
 | Toilet Chronicles: Staff Only | 228801 | [228801-toilet-chronicles-staff-only.json](./228801-toilet-chronicles-staff-only.json) |
 | Toilet Farm | 185005 | [185005-toilet-farm.json](./185005-toilet-farm.json) |
+| Toilet Femdom 2: Christmas Afterparty | 430921 | [430921-toilet-femdom-2-christmas-afterparty.json](./430921-toilet-femdom-2-christmas-afterparty.json) |
 | Toilet Femdom 3: Christmas Punks | 418806 | [418806-toilet-femdom-3-christmas-punks.json](./418806-toilet-femdom-3-christmas-punks.json) |
 | Toilet Fight: Open World | 273945 | [273945-toilet-fight-open-world.json](./273945-toilet-fight-open-world.json) |
 | Toilet Flushing Simulator | 175710 | [175710-toilet-flushing-simulator.json](./175710-toilet-flushing-simulator.json) |
@@ -35954,6 +35958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Saint | 35627 | [35627-trigger-saint.json](./35627-trigger-saint.json) |
 | Trigger Spree | 195623 | [195623-trigger-spree.json](./195623-trigger-spree.json) |
 | Trigger Table | 113028 | [113028-trigger-table.json](./113028-trigger-table.json) |
+| Trigger Tails | 430989 | [430989-trigger-tails.json](./430989-trigger-tails.json) |
 | Trigger Tennis | 255698 | [255698-trigger-tennis.json](./255698-trigger-tennis.json) |
 | Trigger Time | 28750 | [28750-trigger-time.json](./28750-trigger-time.json) |
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
@@ -36485,6 +36490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trooper Truck | 62609 | [62609-trooper-truck.json](./62609-trooper-truck.json) |
 | Troopers | 264498 | [264498-troopers.json](./264498-troopers.json) |
 | Troopstuck | 278344 | [278344-troopstuck.json](./278344-troopstuck.json) |
+| Tropalm | 430900 | [430900-tropalm.json](./430900-tropalm.json) |
 | Trope Tales | 290825 | [290825-trope-tales.json](./290825-trope-tales.json) |
 | Trophiends | 409897 | [409897-trophiends.json](./409897-trophiends.json) |
 | Trophies | 286064 | [286064-trophies.json](./286064-trophies.json) |
