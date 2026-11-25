@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | o: | 175181 | [175181-o.json](./175181-o.json) |
 | O:anquan | 230214 | [230214-o-anquan.json](./230214-o-anquan.json) |
 | O! Holy Knight | 285588 | [285588-o-holy-knight.json](./285588-o-holy-knight.json) |
+| O! My Genesis VR | 27182 | [27182-o-my-genesis-vr.json](./27182-o-my-genesis-vr.json) |
 | O! Strelalka!!! | 55265 | [55265-o-strelalka.json](./55265-o-strelalka.json) |
 | O.A.C: World Begins | 197581 | [197581-o-a-c-world-begins.json](./197581-o-a-c-world-begins.json) |
 | O.B.O.L | 402359 | [402359-o-b-o-l.json](./402359-o-b-o-l.json) |
@@ -5802,6 +5803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbound | 286869 | [286869-outbound.json](./286869-outbound.json) |
 | Outbound: School Bus Adventures | 401492 | [401492-outbound-school-bus-adventures.json](./401492-outbound-school-bus-adventures.json) |
 | Outbraking | 188883 | [188883-outbraking.json](./188883-outbraking.json) |
+| Outbreak | 26909 | [26909-outbreak.json](./26909-outbreak.json) |
 | Outbreak | 275475 | [275475-outbreak.json](./275475-outbreak.json) |
 | Outbreak | 302484 | [302484-outbreak.json](./302484-outbreak.json) |
 | Outbreak | 377163 | [377163-outbreak.json](./377163-outbreak.json) |
