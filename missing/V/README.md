@@ -2075,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VGM Quiz | 219270 | [219270-vgm-quiz.json](./219270-vgm-quiz.json) |
 | VGMQ: Video Game Music Quiz | 317121 | [317121-vgmq-video-game-music-quiz.json](./317121-vgmq-video-game-music-quiz.json) |
 | VHAIP | 150955 | [150955-vhaip.json](./150955-vhaip.json) |
+| Vhalgrim: Age of Ruin | 430970 | [430970-vhalgrim-age-of-ruin.json](./430970-vhalgrim-age-of-ruin.json) |
 | Vheda | 345054 | [345054-vheda.json](./345054-vheda.json) |
 | VHHS: Backrooms | 282017 | [282017-vhhs-backrooms.json](./282017-vhhs-backrooms.json) |
 | Vholume | 378143 | [378143-vholume.json](./378143-vholume.json) |
