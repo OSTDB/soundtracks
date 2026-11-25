@@ -5345,7 +5345,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Saver | 247989 | [247989-life-saver.json](./247989-life-saver.json) |
 | Life Seeker | 398802 | [398802-life-seeker.json](./398802-life-seeker.json) |
 | Life Sim | 404409 | [404409-life-sim.json](./404409-life-sim.json) |
-| Life Sim | 90515 | [90515-life-sim.json](./90515-life-sim.json) |
 | Life Sim Bundle | 301534 | [301534-life-sim-bundle.json](./301534-life-sim-bundle.json) |
 | Life Sim: Rise From Nothing | 390376 | [390376-life-sim-rise-from-nothing.json](./390376-life-sim-rise-from-nothing.json) |
 | Life Simulator | 10959 | [10959-life-simulator.json](./10959-life-simulator.json) |
@@ -10648,7 +10647,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loya | 239661 | [239661-loya.json](./239661-loya.json) |
 | Loya Online | 124450 | [124450-loya-online.json](./124450-loya-online.json) |
 | Loyalty | 419776 | [419776-loyalty.json](./419776-loyalty.json) |
-| Loyalty and Blood: Viktor Origins | 89774 | [89774-loyalty-and-blood-viktor-origins.json](./89774-loyalty-and-blood-viktor-origins.json) |
 | Loyalty for Love | 299066 | [299066-loyalty-for-love.json](./299066-loyalty-for-love.json) |
 | LoYuno | 251946 | [251946-loyuno.json](./251946-loyuno.json) |
 | Lozenge | 88010 | [88010-lozenge.json](./88010-lozenge.json) |
