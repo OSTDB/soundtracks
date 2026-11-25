@@ -6646,6 +6646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Becherov | 50316 | [50316-becherov.json](./50316-becherov.json) |
 | Beck: The Game | 61425 | [61425-beck-the-game.json](./61425-beck-the-game.json) |
 | Becker Derby | 109133 | [109133-becker-derby.json](./109133-becker-derby.json) |
+| Beckett | 89504 | [89504-beckett.json](./89504-beckett.json) |
 | Beckon the Hellspawn | 260488 | [260488-beckon-the-hellspawn.json](./260488-beckon-the-hellspawn.json) |
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
 | Becky Brogan: The Mystery of Meane Manor | 125303 | [125303-becky-brogan-the-mystery-of-meane-manor.json](./125303-becky-brogan-the-mystery-of-meane-manor.json) |
@@ -7420,6 +7421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Ultimate Alien | 230343 | [230343-ben-10-ultimate-alien.json](./230343-ben-10-ultimate-alien.json) |
 | Ben 10: Ultimate Alien - Cosmic Destruction | 2807 | [2807-ben-10-ultimate-alien-cosmic-destruction.json](./2807-ben-10-ultimate-alien-cosmic-destruction.json) |
 | Ben 10: Ultimate Alien - Cosmic Destruction | 377688 | [377688-ben-10-ultimate-alien-cosmic-destruction.json](./377688-ben-10-ultimate-alien-cosmic-destruction.json) |
+| Ben 10: Up to Speed | 88937 | [88937-ben-10-up-to-speed.json](./88937-ben-10-up-to-speed.json) |
 | Ben 10: Vengeance of Vilgax | 206736 | [206736-ben-10-vengeance-of-vilgax.json](./206736-ben-10-vengeance-of-vilgax.json) |
 | Ben 10/Generator Rex: Heroes United | 176854 | [176854-ben-10-generator-rex-heroes-united.json](./176854-ben-10-generator-rex-heroes-united.json) |
 | Ben and Ed | 20176 | [20176-ben-and-ed.json](./20176-ben-and-ed.json) |
@@ -7469,7 +7471,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bendy and the Ink Machine: Chapter Three | 164636 | [164636-bendy-and-the-ink-machine-chapter-three.json](./164636-bendy-and-the-ink-machine-chapter-three.json) |
 | Bendy and the Ink Machine: Chapter Two | 164637 | [164637-bendy-and-the-ink-machine-chapter-two.json](./164637-bendy-and-the-ink-machine-chapter-two.json) |
 | Bendy in Nightmare Run | 90246 | [90246-bendy-in-nightmare-run.json](./90246-bendy-in-nightmare-run.json) |
-| Bendy Road | 98782 | [98782-bendy-road.json](./98782-bendy-road.json) |
 | Bendy Royale | 283438 | [283438-bendy-royale.json](./283438-bendy-royale.json) |
 | Bendy Scary & Ink Machines | 216095 | [216095-bendy-scary-and-ink-machines.json](./216095-bendy-scary-and-ink-machines.json) |
 | Bendy Tracks | 106647 | [106647-bendy-tracks.json](./106647-bendy-tracks.json) |
@@ -9798,6 +9799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds Watching | 391179 | [391179-birds-watching.json](./391179-birds-watching.json) |
 | Birds With Feelings | 118177 | [118177-birds-with-feelings.json](./118177-birds-with-feelings.json) |
 | Birds With Guns | 187613 | [187613-birds-with-guns.json](./187613-birds-with-guns.json) |
+| Birds'n'Blocks | 88843 | [88843-birdsnblocks.json](./88843-birdsnblocks.json) |
 | Birds'n'Blocks 2 | 87694 | [87694-birdsnblocks-2.json](./87694-birdsnblocks-2.json) |
 | BirdsBorough: Town of Alchemy | 214368 | [214368-birdsborough-town-of-alchemy.json](./214368-birdsborough-town-of-alchemy.json) |
 | Birdseed VR | 380580 | [380580-birdseed-vr.json](./380580-birdseed-vr.json) |
@@ -12239,10 +12241,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block;Shift | 293103 | [293103-block-shift.json](./293103-block-shift.json) |
 | Block: Puzzle Game | 87543 | [87543-block-puzzle-game.json](./87543-block-puzzle-game.json) |
 | Block! | 246592 | [246592-block.json](./246592-block.json) |
+| Block! Hexa Puzzle | 88914 | [88914-block-hexa-puzzle.json](./88914-block-hexa-puzzle.json) |
 | Block! Triangle Puzzle: Tangram | 106633 | [106633-block-triangle-puzzle-tangram.json](./106633-block-triangle-puzzle-tangram.json) |
 | Block'D | 273978 | [273978-blockd.json](./273978-blockd.json) |
 | Block'Em! | 149849 | [149849-blockem.json](./149849-blockem.json) |
-| Block'hood VR | 98989 | [98989-blockhood-vr.json](./98989-blockhood-vr.json) |
 | Block+Hole | 366424 | [366424-block-hole.json](./366424-block-hole.json) |
 | Blockade | 116295 | [116295-blockade.json](./116295-blockade.json) |
 | Blockade | 18118 | [18118-blockade.json](./18118-blockade.json) |
@@ -13058,7 +13060,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Bunny: The Game | 144358 | [144358-bloody-bunny-the-game.json](./144358-bloody-bunny-the-game.json) |
 | Bloody Call | 60933 | [60933-bloody-call.json](./60933-bloody-call.json) |
 | Bloody Checkers | 272068 | [272068-bloody-checkers.json](./272068-bloody-checkers.json) |
-| Bloody Chronicles Act 1: New Cycle of Death | 98789 | [98789-bloody-chronicles-act-1-new-cycle-of-death.json](./98789-bloody-chronicles-act-1-new-cycle-of-death.json) |
 | Bloody Cleanup | 326785 | [326785-bloody-cleanup.json](./326785-bloody-cleanup.json) |
 | Bloody Cleanup Togheter | 405692 | [405692-bloody-cleanup-togheter.json](./405692-bloody-cleanup-togheter.json) |
 | Bloody Cruise | 158850 | [158850-bloody-cruise.json](./158850-bloody-cruise.json) |
@@ -13232,6 +13233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons TD 4 | 85511 | [85511-bloons-td-4.json](./85511-bloons-td-4.json) |
 | Bloons TD 4 HD | 88190 | [88190-bloons-td-4-hd.json](./88190-bloons-td-4-hd.json) |
 | Bloons TD 5 | 17520 | [17520-bloons-td-5.json](./17520-bloons-td-5.json) |
+| Bloons TD 5 HD | 88911 | [88911-bloons-td-5-hd.json](./88911-bloons-td-5-hd.json) |
 | Bloons TD 6: Frontier Legends | 381278 | [381278-bloons-td-6-frontier-legends.json](./381278-bloons-td-6-frontier-legends.json) |
 | Bloons TD 6: Rogue Legends | 330334 | [330334-bloons-td-6-rogue-legends.json](./330334-bloons-td-6-rogue-legends.json) |
 | Bloons TD Battles | 33501 | [33501-bloons-td-battles.json](./33501-bloons-td-battles.json) |
@@ -15006,6 +15008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobs or [Redacted] | 368061 | [368061-boobs-or-redacted.json](./368061-boobs-or-redacted.json) |
 | Boobs Puzzle | 107528 | [107528-boobs-puzzle.json](./107528-boobs-puzzle.json) |
 | Boobs Puzzle 2 | 109806 | [109806-boobs-puzzle-2.json](./109806-boobs-puzzle-2.json) |
+| Boobs Saga | 89322 | [89322-boobs-saga.json](./89322-boobs-saga.json) |
 | Boobs VR | 367875 | [367875-boobs-vr.json](./367875-boobs-vr.json) |
 | Boobs vs Aliens | 229234 | [229234-boobs-vs-aliens.json](./229234-boobs-vs-aliens.json) |
 | Boobs vs Zombies | 114292 | [114292-boobs-vs-zombies.json](./114292-boobs-vs-zombies.json) |
