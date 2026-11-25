@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-25T07:35:57.480Z",
-  "total_soundtracks": 3947,
+  "generated_at": "2026-11-25T07:45:58.896Z",
+  "total_soundtracks": 3948,
   "games": [
     {
       "igdb_id": 292844,
@@ -41161,6 +41161,20 @@
         {
           "album_name": "SuperMash (Official Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/67Bmz4HYAxmIdgWkagvCof",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 94065,
+      "game_name": "Superverse",
+      "game_url": "https://ostdb.net/games/superverse",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e0ec1f610cfbcf6706572026",
+      "albums": [
+        {
+          "album_name": "Superverse (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/25Gc1z0dFn2It0WebI2AfW",
           "apple_music_url": "",
           "album_link_url": ""
         }
