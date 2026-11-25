@@ -5504,7 +5504,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whitetail Extreme | 120516 | [120516-whitetail-extreme.json](./120516-whitetail-extreme.json) |
 | WhiteTrick | 278931 | [278931-whitetrick.json](./278931-whitetrick.json) |
 | WhiteTrick: Western | 289481 | [289481-whitetrick-western.json](./289481-whitetrick-western.json) |
-| Whitevale Defender | 98774 | [98774-whitevale-defender.json](./98774-whitevale-defender.json) |
 | Whiteverse: No Country for Old Men | 121690 | [121690-whiteverse-no-country-for-old-men.json](./121690-whiteverse-no-country-for-old-men.json) |
 | Whitewash | 62005 | [62005-whitewash.json](./62005-whitewash.json) |
 | WhiteWash | 370774 | [370774-whitewash.json](./370774-whitewash.json) |
@@ -8522,7 +8521,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood Block Escape Puzzles 2 | 152431 | [152431-wood-block-escape-puzzles-2.json](./152431-wood-block-escape-puzzles-2.json) |
 | Wood Block Escape Puzzles 3 | 158788 | [158788-wood-block-escape-puzzles-3.json](./158788-wood-block-escape-puzzles-3.json) |
 | Wood Block Puzzle | 220190 | [220190-wood-block-puzzle.json](./220190-wood-block-puzzle.json) |
-| Wood Block Puzzle Game | 98830 | [98830-wood-block-puzzle-game.json](./98830-wood-block-puzzle-game.json) |
 | Wood Blocks 3D | 294547 | [294547-wood-blocks-3d.json](./294547-wood-blocks-3d.json) |
 | Wood Brothers Flying Colours | 188901 | [188901-wood-brothers-flying-colours.json](./188901-wood-brothers-flying-colours.json) |
 | Wood Chipper Truck | 108164 | [108164-wood-chipper-truck.json](./108164-wood-chipper-truck.json) |
@@ -9321,6 +9319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Conqueror 3 | 14891 | [14891-world-conqueror-3.json](./14891-world-conqueror-3.json) |
 | World Conqueror 3D | 85497 | [85497-world-conqueror-3d.json](./85497-world-conqueror-3d.json) |
 | World Conqueror 4 | 86872 | [86872-world-conqueror-4.json](./86872-world-conqueror-4.json) |
+| World Conqueror X | 89152 | [89152-world-conqueror-x.json](./89152-world-conqueror-x.json) |
 | World Court Tennis | 37732 | [37732-world-court-tennis.json](./37732-world-court-tennis.json) |
 | World Craft Epic Dream Island | 86953 | [86953-world-craft-epic-dream-island.json](./86953-world-craft-epic-dream-island.json) |
 | World Craft HD | 89105 | [89105-world-craft-hd.json](./89105-world-craft-hd.json) |
@@ -9502,6 +9501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Crypts | 298387 | [298387-world-of-crypts.json](./298387-world-of-crypts.json) |
 | World of Cube | 204104 | [204104-world-of-cube.json](./204104-world-of-cube.json) |
 | World of Cubes | 204798 | [204798-world-of-cubes.json](./204798-world-of-cubes.json) |
+| World of Cubes Survival Craft | 89187 | [89187-world-of-cubes-survival-craft.json](./89187-world-of-cubes-survival-craft.json) |
 | World of Cubes Survival Craft Multiplayer | 89066 | [89066-world-of-cubes-survival-craft-multiplayer.json](./89066-world-of-cubes-survival-craft-multiplayer.json) |
 | World of Dark | 283864 | [283864-world-of-dark.json](./283864-world-of-dark.json) |
 | World of Darkness | 77001 | [77001-world-of-darkness.json](./77001-world-of-darkness.json) |
