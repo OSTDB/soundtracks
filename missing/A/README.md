@@ -16313,6 +16313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Astraeos | 428614 | [428614-ark-astraeos.json](./428614-ark-astraeos.json) |
 | Ark: Bob's Bundle | 331560 | [331560-ark-bobs-bundle.json](./331560-ark-bobs-bundle.json) |
 | Ark: Bob's Tall Tales | 294908 | [294908-ark-bobs-tall-tales.json](./294908-ark-bobs-tall-tales.json) |
+| Ark: Crystal Isles | 428626 | [428626-ark-crystal-isles.json](./428626-ark-crystal-isles.json) |
 | ARK: Dinosaur Discovery | 223802 | [223802-ark-dinosaur-discovery.json](./223802-ark-dinosaur-discovery.json) |
 | Ark: Dragontopia | 428616 | [428616-ark-dragontopia.json](./428616-ark-dragontopia.json) |
 | Ark: Extinction | 103515 | [103515-ark-extinction.json](./103515-ark-extinction.json) |
@@ -16320,6 +16321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Fantastic Tames - Pyromane | 304377 | [304377-ark-fantastic-tames-pyromane.json](./304377-ark-fantastic-tames-pyromane.json) |
 | Ark: Genesis | 131698 | [131698-ark-genesis.json](./131698-ark-genesis.json) |
 | Ark: Lost Colony | 382572 | [382572-ark-lost-colony.json](./382572-ark-lost-colony.json) |
+| Ark: Lost Island | 428628 | [428628-ark-lost-island.json](./428628-ark-lost-island.json) |
 | Ark: Ragnarok | 238148 | [238148-ark-ragnarok.json](./238148-ark-ragnarok.json) |
 | Ark: Ragnarok Ascended | 350531 | [350531-ark-ragnarok-ascended.json](./350531-ark-ragnarok-ascended.json) |
 | Ark: Scorched Earth | 103514 | [103514-ark-scorched-earth.json](./103514-ark-scorched-earth.json) |
