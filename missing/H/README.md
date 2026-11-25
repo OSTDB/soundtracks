@@ -3959,6 +3959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeartandAxe | 114060 | [114060-heartandaxe.json](./114060-heartandaxe.json) |
 | Heartbaked | 177504 | [177504-heartbaked.json](./177504-heartbaked.json) |
 | Heartbeat | 176978 | [176978-heartbeat.json](./176978-heartbeat.json) |
+| Heartbeat | 430952 | [430952-heartbeat.json](./430952-heartbeat.json) |
 | Heartbeat at Midnight | 407310 | [407310-heartbeat-at-midnight.json](./407310-heartbeat-at-midnight.json) |
 | Heartbeat Boxing | 61241 | [61241-heartbeat-boxing.json](./61241-heartbeat-boxing.json) |
 | Heartbeat Girlfriend | 278100 | [278100-heartbeat-girlfriend.json](./278100-heartbeat-girlfriend.json) |
@@ -5193,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Hero | 23590 | [23590-hello-hero.json](./23590-hello-hero.json) |
 | Hello Human | 135716 | [135716-hello-human.json](./135716-hello-human.json) |
 | Hello inc VR | 28941 | [28941-hello-inc-vr.json](./28941-hello-inc-vr.json) |
+| Hello Its Me.wav | 430887 | [430887-hello-its-me-wav.json](./430887-hello-its-me-wav.json) |
 | Hello Kitty & Friends: Rock n' World Tour | 83210 | [83210-hello-kitty-and-friends-rock-n-world-tour.json](./83210-hello-kitty-and-friends-rock-n-world-tour.json) |
 | Hello Kitty and Friends: Freeze Tag Party | 371418 | [371418-hello-kitty-and-friends-freeze-tag-party.json](./371418-hello-kitty-and-friends-freeze-tag-party.json) |
 | Hello Kitty and Friends: Happiness Parade | 204458 | [204458-hello-kitty-and-friends-happiness-parade.json](./204458-hello-kitty-and-friends-happiness-parade.json) |
@@ -7040,6 +7042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Song | 25870 | [25870-heros-song.json](./25870-heros-song.json) |
 | Hero's Spirit | 141380 | [141380-heros-spirit.json](./141380-heros-spirit.json) |
 | Hero's Story | 91220 | [91220-heros-story.json](./91220-heros-story.json) |
+| Hero's Table | 431005 | [431005-heros-table.json](./431005-heros-table.json) |
 | Hero's War | 224214 | [224214-heros-war.json](./224214-heros-war.json) |
 | Hero's Warband | 297913 | [297913-heros-warband.json](./297913-heros-warband.json) |
 | Hero's Way | 253322 | [253322-heros-way.json](./253322-heros-way.json) |
