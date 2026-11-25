@@ -2270,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Trailer Park | 219045 | [219045-zombie-trailer-park.json](./219045-zombie-trailer-park.json) |
 | Zombie Train | 199984 | [199984-zombie-train.json](./199984-zombie-train.json) |
 | Zombie Train | 240101 | [240101-zombie-train.json](./240101-zombie-train.json) |
+| Zombie Training Simulator | 33451 | [33451-zombie-training-simulator.json](./33451-zombie-training-simulator.json) |
 | Zombie Treasure Land | 312489 | [312489-zombie-treasure-land.json](./312489-zombie-treasure-land.json) |
 | Zombie Trigger | 31737 | [31737-zombie-trigger.json](./31737-zombie-trigger.json) |
 | Zombie Tsunami | 38031 | [38031-zombie-tsunami.json](./38031-zombie-tsunami.json) |
