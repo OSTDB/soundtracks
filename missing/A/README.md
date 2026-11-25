@@ -1893,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Escape VR | 31004 | [31004-a-escape-vr.json](./31004-a-escape-vr.json) |
 | A-Force: Armour Force | 62182 | [62182-a-force-armour-force.json](./62182-a-force-armour-force.json) |
 | A-GA: Gekidou no Wakusei | 71939 | [71939-a-ga-gekidou-no-wakusei.json](./71939-a-ga-gekidou-no-wakusei.json) |
+| A-Gents | 33071 | [33071-a-gents.json](./33071-a-gents.json) |
 | A-Girl | 272640 | [272640-a-girl.json](./272640-a-girl.json) |
 | A-Girl: New Character A | 277466 | [277466-a-girl-new-character-a.json](./277466-a-girl-new-character-a.json) |
 | A-Girl: New Character B | 283882 | [283882-a-girl-new-character-b.json](./283882-a-girl-new-character-b.json) |
@@ -5743,6 +5744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Forays | 107980 | [107980-age-of-forays.json](./107980-age-of-forays.json) |
 | Age of Giants | 97019 | [97019-age-of-giants.json](./97019-age-of-giants.json) |
 | Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
+| Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
 | Age of Gladiators II: Death League | 97851 | [97851-age-of-gladiators-ii-death-league.json](./97851-age-of-gladiators-ii-death-league.json) |
 | Age of Gladiators: Reforged | 215459 | [215459-age-of-gladiators-reforged.json](./215459-age-of-gladiators-reforged.json) |
 | Age of Goblins | 265403 | [265403-age-of-goblins.json](./265403-age-of-goblins.json) |
@@ -13895,6 +13897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo | 344860 | [344860-apollo.json](./344860-apollo.json) |
 | Apollo | 377104 | [377104-apollo.json](./377104-apollo.json) |
 | Apollo 11 | 52047 | [52047-apollo-11.json](./52047-apollo-11.json) |
+| Apollo 11 VR | 33145 | [33145-apollo-11-vr.json](./33145-apollo-11-vr.json) |
 | Apollo 11 VR Experience | 19016 | [19016-apollo-11-vr-experience.json](./19016-apollo-11-vr-experience.json) |
 | Apollo 11 VR HD: First Steps | 120713 | [120713-apollo-11-vr-hd-first-steps.json](./120713-apollo-11-vr-hd-first-steps.json) |
 | Apollo 13 | 199021 | [199021-apollo-13.json](./199021-apollo-13.json) |
@@ -15641,6 +15644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archibald & Remus: Minor Lords | 65697 | [65697-archibald-and-remus-minor-lords.json](./65697-archibald-and-remus-minor-lords.json) |
 | Archibald 2 | 116985 | [116985-archibald-2.json](./116985-archibald-2.json) |
 | Archibald Applebrook's Abenteuer | 112058 | [112058-archibald-applebrooks-abenteuer.json](./112058-archibald-applebrooks-abenteuer.json) |
+| Archibald's Adventures | 33046 | [33046-archibalds-adventures.json](./33046-archibalds-adventures.json) |
 | Archie | 170640 | [170640-archie.json](./170640-archie.json) |
 | Archie: Betty or Veronica? | 63403 | [63403-archie-betty-or-veronica.json](./63403-archie-betty-or-veronica.json) |
 | Archie: Riverdale Rescue | 186060 | [186060-archie-riverdale-rescue.json](./186060-archie-riverdale-rescue.json) |
