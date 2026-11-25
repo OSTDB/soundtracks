@@ -11187,6 +11187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metahorror Therapy Session | 338930 | [338930-metahorror-therapy-session.json](./338930-metahorror-therapy-session.json) |
 | Metahustle One | 405794 | [405794-metahustle-one.json](./405794-metahustle-one.json) |
 | Metajo: Furitsu Metatopology Daigaku Fuzoku Joshi Koukou SP | 146656 | [146656-metajo-furitsu-metatopology-daigaku-fuzoku-joshi-koukou-sp.json](./146656-metajo-furitsu-metatopology-daigaku-fuzoku-joshi-koukou-sp.json) |
+| Metal | 430965 | [430965-metal.json](./430965-metal.json) |
 | Metal | 95217 | [95217-metal.json](./95217-metal.json) |
 | Metal & Lace: The Battle of the Robo Babes | 50271 | [50271-metal-and-lace-the-battle-of-the-robo-babes.json](./50271-metal-and-lace-the-battle-of-the-robo-babes.json) |
 | Metal and Hauling RPG Simulator | 292703 | [292703-metal-and-hauling-rpg-simulator.json](./292703-metal-and-hauling-rpg-simulator.json) |
@@ -23541,6 +23542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dinner with André | 227785 | [227785-my-dinner-with-andre.json](./227785-my-dinner-with-andre.json) |
 | My Dino | 111888 | [111888-my-dino.json](./111888-my-dino.json) |
 | My Direct Damag 7 Trillion | 318422 | [318422-my-direct-damag-7-trillion.json](./318422-my-direct-damag-7-trillion.json) |
+| My Dirty Little Lake | 430929 | [430929-my-dirty-little-lake.json](./430929-my-dirty-little-lake.json) |
 | My Disney Kitchen | 44764 | [44764-my-disney-kitchen.json](./44764-my-disney-kitchen.json) |
 | My Divorce Story | 208642 | [208642-my-divorce-story.json](./208642-my-divorce-story.json) |
 | My DIY Slime PlayTime | 106732 | [106732-my-diy-slime-playtime.json](./106732-my-diy-slime-playtime.json) |
