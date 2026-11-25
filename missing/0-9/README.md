@@ -1000,7 +1000,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Cute Cats 5 | 244869 | [244869-1001-jigsaw-cute-cats-5.json](./244869-1001-jigsaw-cute-cats-5.json) |
 | 1001 Jigsaw: Earth Chronicles | 113090 | [113090-1001-jigsaw-earth-chronicles.json](./113090-1001-jigsaw-earth-chronicles.json) |
 | 1001 Jigsaw: Earth Chronicles 2 | 163000 | [163000-1001-jigsaw-earth-chronicles-2.json](./163000-1001-jigsaw-earth-chronicles-2.json) |
-| 1001 Jigsaw: Earth Chronicles 3 | 90040 | [90040-1001-jigsaw-earth-chronicles-3.json](./90040-1001-jigsaw-earth-chronicles-3.json) |
 | 1001 Jigsaw: Earth Chronicles 4 | 87252 | [87252-1001-jigsaw-earth-chronicles-4.json](./87252-1001-jigsaw-earth-chronicles-4.json) |
 | 1001 Jigsaw: Earth Chronicles 5 | 162995 | [162995-1001-jigsaw-earth-chronicles-5.json](./162995-1001-jigsaw-earth-chronicles-5.json) |
 | 1001 Jigsaw: Earth Chronicles 6 | 255939 | [255939-1001-jigsaw-earth-chronicles-6.json](./255939-1001-jigsaw-earth-chronicles-6.json) |
@@ -1443,7 +1442,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 14Days in Dream | 93745 | [93745-14days-in-dream.json](./93745-14days-in-dream.json) |
 | 15 | 250085 | [250085-15.json](./250085-15.json) |
 | 15 Days | 26208 | [26208-15-days.json](./26208-15-days.json) |
-| 15 Defense | 90474 | [90474-15-defense.json](./90474-15-defense.json) |
 | 15 Giant Games, Vol.1 | 131179 | [131179-15-giant-games-vol-1.json](./131179-15-giant-games-vol-1.json) |
 | 15 in 1 Family Games Mega Collection | 332488 | [332488-15-in-1-family-games-mega-collection.json](./332488-15-in-1-family-games-mega-collection.json) |
 | 15 in 1 Solitaire | 187457 | [187457-15-in-1-solitaire.json](./187457-15-in-1-solitaire.json) |
@@ -2614,7 +2612,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 301 Warriors | 358085 | [358085-301-warriors.json](./358085-301-warriors.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
 | 303 Logic, Action & Arcade Games | 228411 | [228411-303-logic-action-and-arcade-games.json](./228411-303-logic-action-and-arcade-games.json) |
-| 303 Squadron: Battle of Britain | 90654 | [90654-303-squadron-battle-of-britain.json](./90654-303-squadron-battle-of-britain.json) |
 | 3030 | 262985 | [262985-3030.json](./262985-3030.json) |
 | 3030 Deathwar | 170080 | [170080-3030-deathwar.json](./170080-3030-deathwar.json) |
 | 304 Seconds | 262835 | [262835-304-seconds.json](./262835-304-seconds.json) |
