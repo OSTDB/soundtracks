@@ -14401,6 +14401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hybrid Wars: Deluxe Edition | 51819 | [51819-hybrid-wars-deluxe-edition.json](./51819-hybrid-wars-deluxe-edition.json) |
 | Hybrid Wars: Yana 'Tesla' Radovich | 168342 | [168342-hybrid-wars-yana-tesla-radovich.json](./168342-hybrid-wars-yana-tesla-radovich.json) |
 | Hybrid Wars: Yoko Takano | 168341 | [168341-hybrid-wars-yoko-takano.json](./168341-hybrid-wars-yoko-takano.json) |
+| Hybrids Arena | 33379 | [33379-hybrids-arena.json](./33379-hybrids-arena.json) |
 | Hybris | 12150 | [12150-hybris.json](./12150-hybris.json) |
 | Hyde | 192967 | [192967-hyde.json](./192967-hyde.json) |
 | Hyde & Seek | 153060 | [153060-hyde-and-seek.json](./153060-hyde-and-seek.json) |
