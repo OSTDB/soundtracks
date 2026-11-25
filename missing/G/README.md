@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabriel's Worlds: The Adventure | 163954 | [163954-gabriels-worlds-the-adventure.json](./163954-gabriels-worlds-the-adventure.json) |
 | Gabriel’s Worlds: The Sokoban Adventure | 378192 | [378192-gabriel-s-worlds-the-sokoban-adventure.json](./378192-gabriel-s-worlds-the-sokoban-adventure.json) |
 | Gabrielle | 221967 | [221967-gabrielle.json](./221967-gabrielle.json) |
+| Gabrielle's Ghostly Groove 3D | 23520 | [23520-gabrielles-ghostly-groove-3d.json](./23520-gabrielles-ghostly-groove-3d.json) |
 | Gabrielle's Ghostly Groove Mini | 85159 | [85159-gabrielles-ghostly-groove-mini.json](./85159-gabrielles-ghostly-groove-mini.json) |
 | Gabrielle's Ghostly Groove: Monster Mix | 23666 | [23666-gabrielles-ghostly-groove-monster-mix.json](./23666-gabrielles-ghostly-groove-monster-mix.json) |
 | Gabrielle's Monster Match | 274843 | [274843-gabrielles-monster-match.json](./274843-gabrielles-monster-match.json) |
@@ -4088,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get to Work Simulator | 353562 | [353562-get-to-work-simulator.json](./353562-get-to-work-simulator.json) |
 | Get to Work, Succubus-Chan! | 169356 | [169356-get-to-work-succubus-chan.json](./169356-get-to-work-succubus-chan.json) |
 | Get Together | 144126 | [144126-get-together.json](./144126-get-together.json) |
+| Get Up and Dance | 23396 | [23396-get-up-and-dance.json](./23396-get-up-and-dance.json) |
 | Get Up and Dance: Let's Party! | 50658 | [50658-get-up-and-dance-lets-party.json](./50658-get-up-and-dance-lets-party.json) |
 | Get Up Family Game Sports | 65717 | [65717-get-up-family-game-sports.json](./65717-get-up-family-game-sports.json) |
 | Get Up In The Night | 304510 | [304510-get-up-in-the-night.json](./304510-get-up-in-the-night.json) |
@@ -4244,6 +4246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Battalion | 414842 | [414842-ghost-battalion.json](./414842-ghost-battalion.json) |
 | Ghost Battle | 78319 | [78319-ghost-battle.json](./78319-ghost-battle.json) |
 | Ghost Beat | 170887 | [170887-ghost-beat.json](./170887-ghost-beat.json) |
+| Ghost Blade | 23442 | [23442-ghost-blade.json](./23442-ghost-blade.json) |
 | Ghost Blade HD | 26947 | [26947-ghost-blade-hd.json](./26947-ghost-blade-hd.json) |
 | Ghost Blade HD: Limited Edition | 166279 | [166279-ghost-blade-hd-limited-edition.json](./166279-ghost-blade-hd-limited-edition.json) |
 | Ghost Blast | 250562 | [250562-ghost-blast.json](./250562-ghost-blast.json) |
@@ -7818,6 +7821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Pro VR | 31261 | [31261-golf-pro-vr.json](./31261-golf-pro-vr.json) |
 | Golf Putt 3D | 259130 | [259130-golf-putt-3d.json](./259130-golf-putt-3d.json) |
 | Golf Resort Tycoon | 73296 | [73296-golf-resort-tycoon.json](./73296-golf-resort-tycoon.json) |
+| Golf Resort Tycoon II | 23465 | [23465-golf-resort-tycoon-ii.json](./23465-golf-resort-tycoon-ii.json) |
 | Golf Rival | 107547 | [107547-golf-rival.json](./107547-golf-rival.json) |
 | Golf Royale | 147140 | [147140-golf-royale.json](./147140-golf-royale.json) |
 | Golf Shiyou yo 2: Aratanaru Chousen | 317349 | [317349-golf-shiyou-yo-2-aratanaru-chousen.json](./317349-golf-shiyou-yo-2-aratanaru-chousen.json) |
