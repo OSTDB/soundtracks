@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncraft Me! | 147333 | [147333-uncraft-me.json](./147333-uncraft-me.json) |
 | Uncraft World | 36042 | [36042-uncraft-world.json](./36042-uncraft-world.json) |
 | Uncrashed: FPV Drone Simulator | 165627 | [165627-uncrashed-fpv-drone-simulator.json](./165627-uncrashed-fpv-drone-simulator.json) |
+| Uncredited | 430218 | [430218-uncredited.json](./430218-uncredited.json) |
 | Uncrewed | 32607 | [32607-uncrewed.json](./32607-uncrewed.json) |
 | Uncrossed | 122539 | [122539-uncrossed.json](./122539-uncrossed.json) |
 | Uncrowded | 26825 | [26825-uncrowded.json](./26825-uncrowded.json) |
@@ -3680,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uppies! | 364588 | [364588-uppies.json](./364588-uppies.json) |
 | Upptäck Rymden med Mulle Meck | 97734 | [97734-upptack-rymden-med-mulle-meck.json](./97734-upptack-rymden-med-mulle-meck.json) |
 | Uppy Cup | 233918 | [233918-uppy-cup.json](./233918-uppy-cup.json) |
+| Upright: Impossible Balance | 430306 | [430306-upright-impossible-balance.json](./430306-upright-impossible-balance.json) |
 | Uprising | 257422 | [257422-uprising.json](./257422-uprising.json) |
 | Uprising | 260470 | [260470-uprising.json](./260470-uprising.json) |
 | Uprising 2: Lead and Destroy | 22803 | [22803-uprising-2-lead-and-destroy.json](./22803-uprising-2-lead-and-destroy.json) |
@@ -3733,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upward | 281907 | [281907-upward.json](./281907-upward.json) |
 | Upward | 409921 | [409921-upward.json](./409921-upward.json) |
 | Upward Restriction | 184155 | [184155-upward-restriction.json](./184155-upward-restriction.json) |
+| Upwardly | 430252 | [430252-upwardly.json](./430252-upwardly.json) |
 | Upwards, Lonely Robot | 34066 | [34066-upwards-lonely-robot.json](./34066-upwards-lonely-robot.json) |
 | Upwards, Rain! The Post Office of Farewells | 318818 | [318818-upwards-rain-the-post-office-of-farewells.json](./318818-upwards-rain-the-post-office-of-farewells.json) |
 | Upwell | 414184 | [414184-upwell.json](./414184-upwell.json) |
@@ -3743,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ur | 295725 | [295725-ur.json](./295725-ur.json) |
 | Ur Game: The Game of Ancient Gods | 164200 | [164200-ur-game-the-game-of-ancient-gods.json](./164200-ur-game-the-game-of-ancient-gods.json) |
 | UR Racing | 200097 | [200097-ur-racing.json](./200097-ur-racing.json) |
+| Ur Round | 430225 | [430225-ur-round.json](./430225-ur-round.json) |
 | Ura Jinsei Enjoi! Tamagotchi Plus | 229953 | [229953-ura-jinsei-enjoi-tamagotchi-plus.json](./229953-ura-jinsei-enjoi-tamagotchi-plus.json) |
 | Ura Kaiten Patissier | 92064 | [92064-ura-kaiten-patissier.json](./92064-ura-kaiten-patissier.json) |
 | Ura Kyoushi: Haitoku no Inetsu Jugyou | 77930 | [77930-ura-kyoushi-haitoku-no-inetsu-jugyou.json](./77930-ura-kyoushi-haitoku-no-inetsu-jugyou.json) |
