@@ -464,6 +464,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima V: Warriors of Destiny | 428465 | [428465-ultima-v-warriors-of-destiny.json](./428465-ultima-v-warriors-of-destiny.json) |
 | Ultima V: Warriors of Destiny | 428466 | [428466-ultima-v-warriors-of-destiny.json](./428466-ultima-v-warriors-of-destiny.json) |
 | Ultima VI: The False Prophet | 12230 | [12230-ultima-vi-the-false-prophet.json](./12230-ultima-vi-the-false-prophet.json) |
+| Ultima VI: The False Prophet | 428725 | [428725-ultima-vi-the-false-prophet.json](./428725-ultima-vi-the-false-prophet.json) |
+| Ultima VI: The False Prophet | 428728 | [428728-ultima-vi-the-false-prophet.json](./428728-ultima-vi-the-false-prophet.json) |
 | Ultima VII: Part Two - Serpent Isle | 9574 | [9574-ultima-vii-part-two-serpent-isle.json](./9574-ultima-vii-part-two-serpent-isle.json) |
 | Ultima VII: Part Two - Serpent Isle: The Silver Seed | 80383 | [80383-ultima-vii-part-two-serpent-isle-the-silver-seed.json](./80383-ultima-vii-part-two-serpent-isle-the-silver-seed.json) |
 | Ultima VII: The Black Gate | 6165 | [6165-ultima-vii-the-black-gate.json](./6165-ultima-vii-the-black-gate.json) |
