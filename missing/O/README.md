@@ -1763,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oleg Mongol | 161331 | [161331-oleg-mongol.json](./161331-oleg-mongol.json) |
 | Oleg Sobolev's ASCII Doom | 217783 | [217783-oleg-sobolevs-ascii-doom.json](./217783-oleg-sobolevs-ascii-doom.json) |
 | Olenveld | 419352 | [419352-olenveld.json](./419352-olenveld.json) |
+| OleoFlight | 431368 | [431368-oleoflight.json](./431368-oleoflight.json) |
 | Olga Doesn't Die | 388837 | [388837-olga-doesnt-die.json](./388837-olga-doesnt-die.json) |
 | Olga: Episode 1 | 292954 | [292954-olga-episode-1.json](./292954-olga-episode-1.json) |
 | Olgob the Bold | 211021 | [211021-olgob-the-bold.json](./211021-olgob-the-bold.json) |
