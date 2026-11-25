@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipsed Realms | 385913 | [385913-eclipsed-realms.json](./385913-eclipsed-realms.json) |
 | Eclipsed Remnant | 385912 | [385912-eclipsed-remnant.json](./385912-eclipsed-remnant.json) |
 | Eclipsic | 341111 | [341111-eclipsic.json](./341111-eclipsic.json) |
+| Eclipsing Binary Star | 430611 | [430611-eclipsing-binary-star.json](./430611-eclipsing-binary-star.json) |
 | Ecliptic | 337151 | [337151-ecliptic.json](./337151-ecliptic.json) |
 | Ecliptica | 398001 | [398001-ecliptica.json](./398001-ecliptica.json) |
 | Eclosion | 266695 | [266695-eclosion.json](./266695-eclosion.json) |
@@ -4253,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End Transmission? | 339751 | [339751-end-transmission.json](./339751-end-transmission.json) |
 | End Up | 172324 | [172324-end-up.json](./172324-end-up.json) |
 | End Up Alone | 261396 | [261396-end-up-alone.json](./261396-end-up-alone.json) |
+| End Us | 430279 | [430279-end-us.json](./430279-end-us.json) |
 | End War RTS | 105711 | [105711-end-war-rts.json](./105711-end-war-rts.json) |
 | End War RTS 2 | 160234 | [160234-end-war-rts-2.json](./160234-end-war-rts-2.json) |
 | End War RTS: Alien invasion | 174463 | [174463-end-war-rts-alien-invasion.json](./174463-end-war-rts-alien-invasion.json) |
@@ -7313,6 +7315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etiquette Elegance | 346195 | [346195-etiquette-elegance.json](./346195-etiquette-elegance.json) |
 | Eto | 339774 | [339774-eto.json](./339774-eto.json) |
 | Eto King | 259711 | [259711-eto-king.json](./259711-eto-king.json) |
+| Eto ni Naritai Neko | 430512 | [430512-eto-ni-naritai-neko.json](./430512-eto-ni-naritai-neko.json) |
 | Eto-cetera In no Maki | 113729 | [113729-eto-cetera-in-no-maki.json](./113729-eto-cetera-in-no-maki.json) |
 | Eto-cetera You no Maki | 344267 | [344267-eto-cetera-you-no-maki.json](./344267-eto-cetera-you-no-maki.json) |
 | Etoile Princesse | 70834 | [70834-etoile-princesse.json](./70834-etoile-princesse.json) |
@@ -8782,6 +8785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excursus | 177025 | [177025-excursus.json](./177025-excursus.json) |
 | Excuse Me | 202010 | [202010-excuse-me.json](./202010-excuse-me.json) |
 | Excuse Me Sir | 276014 | [276014-excuse-me-sir.json](./276014-excuse-me-sir.json) |
+| Excuse My Bus | 430462 | [430462-excuse-my-bus.json](./430462-excuse-my-bus.json) |
 | Excycle | 266864 | [266864-excycle.json](./266864-excycle.json) |
 | EXD: Extra Dimensional | 380540 | [380540-exd-extra-dimensional.json](./380540-exd-extra-dimensional.json) |
 | ExE | 304991 | [304991-exe.json](./304991-exe.json) |
