@@ -2143,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2069 AD | 98267 | [98267-2069-ad.json](./98267-2069-ad.json) |
 | 2076: Midway Multiverse | 169529 | [169529-2076-midway-multiverse.json](./169529-2076-midway-multiverse.json) |
 | 2080 Apocalypse | 197565 | [197565-2080-apocalypse.json](./197565-2080-apocalypse.json) |
+| 2084 | 113154 | [113154-2084.json](./113154-2084.json) |
 | 2088 | 13264 | [13264-2088.json](./13264-2088.json) |
 | 2088: The Cryllan Mission | 57377 | [57377-2088-the-cryllan-mission.json](./57377-2088-the-cryllan-mission.json) |
 | 2088: The Cryllan Mission - The Second Scenario | 57374 | [57374-2088-the-cryllan-mission-the-second-scenario.json](./57374-2088-the-cryllan-mission-the-second-scenario.json) |
