@@ -39405,6 +39405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperPower: World at War | 250177 | [250177-superpower-world-at-war.json](./250177-superpower-world-at-war.json) |
 | SuperPro Snowboarding | 233525 | [233525-superpro-snowboarding.json](./233525-superpro-snowboarding.json) |
 | SuperQuest | 342636 | [342636-superquest.json](./342636-superquest.json) |
+| SuperReap | 431286 | [431286-superreap.json](./431286-superreap.json) |
 | Superscout | 296238 | [296238-superscout.json](./296238-superscout.json) |
 | SuperSecret | 163211 | [163211-supersecret.json](./163211-supersecret.json) |
 | SuperSharket | 417907 | [417907-supersharket.json](./417907-supersharket.json) |
