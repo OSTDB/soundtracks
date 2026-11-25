@@ -2857,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Turbo's Arcade: Heavy Barrel | 112117 | [112117-johnny-turbos-arcade-heavy-barrel.json](./112117-johnny-turbos-arcade-heavy-barrel.json) |
 | Johnny Turbo's Arcade: Joe and Mac Caveman Ninja | 103106 | [103106-johnny-turbos-arcade-joe-and-mac-caveman-ninja.json](./103106-johnny-turbos-arcade-joe-and-mac-caveman-ninja.json) |
 | Johnny Turbo's Arcade: Joe and Mac Returns | 146860 | [146860-johnny-turbos-arcade-joe-and-mac-returns.json](./146860-johnny-turbos-arcade-joe-and-mac-returns.json) |
+| Johnny Turbo's Arcade: Night Slashers | 111915 | [111915-johnny-turbos-arcade-night-slashers.json](./111915-johnny-turbos-arcade-night-slashers.json) |
 | Johnny Turbo's Arcade: Nitro Ball | 106354 | [106354-johnny-turbos-arcade-nitro-ball.json](./106354-johnny-turbos-arcade-nitro-ball.json) |
 | Johnny Turbo's Arcade: Shoot Out | 105889 | [105889-johnny-turbos-arcade-shoot-out.json](./105889-johnny-turbos-arcade-shoot-out.json) |
 | Johnny Turbo's Arcade: Super Burger Time | 102307 | [102307-johnny-turbos-arcade-super-burger-time.json](./102307-johnny-turbos-arcade-super-burger-time.json) |
