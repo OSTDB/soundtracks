@@ -1795,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Hot Doggeria HD | 88892 | [88892-papas-hot-doggeria-hd.json](./88892-papas-hot-doggeria-hd.json) |
 | Papa's Mocharia Deluxe | 399974 | [399974-papas-mocharia-deluxe.json](./399974-papas-mocharia-deluxe.json) |
 | Papa's Mocharia to Go! | 185727 | [185727-papas-mocharia-to-go.json](./185727-papas-mocharia-to-go.json) |
+| Papa's Paleteria Deluxe | 430258 | [430258-papas-paleteria-deluxe.json](./430258-papas-paleteria-deluxe.json) |
 | Papa's Paleteria To Go! | 290074 | [290074-papas-paleteria-to-go.json](./290074-papas-paleteria-to-go.json) |
 | Papa's Pancakeria | 142945 | [142945-papas-pancakeria.json](./142945-papas-pancakeria.json) |
 | Papa's Pancakeria HD | 88891 | [88891-papas-pancakeria-hd.json](./88891-papas-pancakeria-hd.json) |
@@ -7873,6 +7874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinata Hunter 4 | 402886 | [402886-pinata-hunter-4.json](./402886-pinata-hunter-4.json) |
 | Pinata Punishers: Idle Clicker | 254318 | [254318-pinata-punishers-idle-clicker.json](./254318-pinata-punishers-idle-clicker.json) |
 | Piñata Puppy World | 330386 | [330386-pinata-puppy-world.json](./330386-pinata-puppy-world.json) |
+| Pinata Smash: Incremental Circus | 430642 | [430642-pinata-smash-incremental-circus.json](./430642-pinata-smash-incremental-circus.json) |
 | Pinball | 131467 | [131467-pinball.json](./131467-pinball.json) |
 | Pinball | 131482 | [131482-pinball.json](./131482-pinball.json) |
 | Pinball | 131483 | [131483-pinball.json](./131483-pinball.json) |
@@ -18359,6 +18361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project H.A.Z.A.R.D | 216218 | [216218-project-h-a-z-a-r-d.json](./216218-project-h-a-z-a-r-d.json) |
 | Project Hacker | 72954 | [72954-project-hacker.json](./72954-project-hacker.json) |
 | Project Hacker: Kakusei | 139127 | [139127-project-hacker-kakusei.json](./139127-project-hacker-kakusei.json) |
+| Project Hail Mary: Journey Among the Stars | 430193 | [430193-project-hail-mary-journey-among-the-stars.json](./430193-project-hail-mary-journey-among-the-stars.json) |
 | Project Hailstorm | 331144 | [331144-project-hailstorm.json](./331144-project-hailstorm.json) |
 | Project Hangman | 371488 | [371488-project-hangman.json](./371488-project-hangman.json) |
 | Project Hardline | 253366 | [253366-project-hardline.json](./253366-project-hardline.json) |
