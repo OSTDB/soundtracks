@@ -13180,6 +13180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midwintar | 212031 | [212031-midwintar.json](./212031-midwintar.json) |
 | Midwinter | 12681 | [12681-midwinter.json](./12681-midwinter.json) |
 | Midwinter | 79580 | [79580-midwinter.json](./79580-midwinter.json) |
+| Midwinter Fan Remaster | 429987 | [429987-midwinter-fan-remaster.json](./429987-midwinter-fan-remaster.json) |
 | Midwinter II: Flames of Freedom | 15266 | [15266-midwinter-ii-flames-of-freedom.json](./15266-midwinter-ii-flames-of-freedom.json) |
 | Midwinter Spirits | 179650 | [179650-midwinter-spirits.json](./179650-midwinter-spirits.json) |
 | Midwinter Springtime | 380141 | [380141-midwinter-springtime.json](./380141-midwinter-springtime.json) |
@@ -19939,6 +19940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Blitz | 50747 | [50747-mortal-blitz.json](./50747-mortal-blitz.json) |
 | Mortal Blitz: Combat Arena | 218536 | [218536-mortal-blitz-combat-arena.json](./218536-mortal-blitz-combat-arena.json) |
 | Mortal box | 84057 | [84057-mortal-box.json](./84057-mortal-box.json) |
+| Mortal Caps | 430102 | [430102-mortal-caps.json](./430102-mortal-caps.json) |
 | Mortal Cards | 287366 | [287366-mortal-cards.json](./287366-mortal-cards.json) |
 | Mortal Chess | 429227 | [429227-mortal-chess.json](./429227-mortal-chess.json) |
 | Mortal Coil | 321942 | [321942-mortal-coil.json](./321942-mortal-coil.json) |
