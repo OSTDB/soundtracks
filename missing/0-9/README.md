@@ -3194,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Seasons Girls | 286734 | [286734-4-seasons-girls.json](./286734-4-seasons-girls.json) |
 | 4 Seasons of Doom | 262309 | [262309-4-seasons-of-doom.json](./262309-4-seasons-of-doom.json) |
 | 4 Seasons Runner | 243854 | [243854-4-seasons-runner.json](./243854-4-seasons-runner.json) |
+| 4 Semi | 428818 | [428818-4-semi.json](./428818-4-semi.json) |
 | 4 Snaps | 233765 | [233765-4-snaps.json](./233765-4-snaps.json) |
 | 4 Soccer Simulators | 250292 | [250292-4-soccer-simulators.json](./250292-4-soccer-simulators.json) |
 | 4 Spiele 1 Diskette | 130283 | [130283-4-spiele-1-diskette.json](./130283-4-spiele-1-diskette.json) |
@@ -4240,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9Dragons | 34746 | [34746-9dragons.json](./34746-9dragons.json) |
 | 9Grids VR | 32465 | [32465-9grids-vr.json](./32465-9grids-vr.json) |
 | 9Lives Arena | 134027 | [134027-9lives-arena.json](./134027-9lives-arena.json) |
+| 9Mesh | 431085 | [431085-9mesh.json](./431085-9mesh.json) |
 | 9mm | 18881 | [18881-9mm.json](./18881-9mm.json) |
 | 9mm | 246155 | [246155-9mm.json](./246155-9mm.json) |
 | 9mm Girls The Visual Novel | 318898 | [318898-9mm-girls-the-visual-novel.json](./318898-9mm-girls-the-visual-novel.json) |
