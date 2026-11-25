@@ -4968,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory II: Rise of Persia | 124818 | [124818-field-of-glory-ii-rise-of-persia.json](./124818-field-of-glory-ii-rise-of-persia.json) |
 | Field of Glory II: Swifter than Eagles | 234222 | [234222-field-of-glory-ii-swifter-than-eagles.json](./234222-field-of-glory-ii-swifter-than-eagles.json) |
 | Field of Glory II: Wolves at the Gate | 124887 | [124887-field-of-glory-ii-wolves-at-the-gate.json](./124887-field-of-glory-ii-wolves-at-the-gate.json) |
+| Field of Glory: Empires | 112588 | [112588-field-of-glory-empires.json](./112588-field-of-glory-empires.json) |
 | Field of Glory: Empires - Persia 550-330 BCE | 154941 | [154941-field-of-glory-empires-persia-550-330-bce.json](./154941-field-of-glory-empires-persia-550-330-bce.json) |
 | Field of Glory: Kingdoms | 200987 | [200987-field-of-glory-kingdoms.json](./200987-field-of-glory-kingdoms.json) |
 | Field of Glory: Kingdoms - Rajas and Tribes | 430387 | [430387-field-of-glory-kingdoms-rajas-and-tribes.json](./430387-field-of-glory-kingdoms-rajas-and-tribes.json) |
