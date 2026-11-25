@@ -7785,6 +7785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evel Knievel | 349571 | [349571-evel-knievel.json](./349571-evel-knievel.json) |
 | Evel Knievel | 67718 | [67718-evel-knievel.json](./67718-evel-knievel.json) |
 | Evel Knievel 3D Stunt Game | 92760 | [92760-evel-knievel-3d-stunt-game.json](./92760-evel-knievel-3d-stunt-game.json) |
+| Evel Knievel Evel-ution | 23533 | [23533-evel-knievel-evel-ution.json](./23533-evel-knievel-evel-ution.json) |
 | Eveline | 416057 | [416057-eveline.json](./416057-eveline.json) |
 | Evelone Wrath | 260032 | [260032-evelone-wrath.json](./260032-evelone-wrath.json) |
 | Evelyn's Adventure | 192526 | [192526-evelyns-adventure.json](./192526-evelyns-adventure.json) |
