@@ -6380,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Memoirs: Questionable Side Stories | 247615 | [247615-escape-memoirs-questionable-side-stories.json](./247615-escape-memoirs-questionable-side-stories.json) |
 | Escape Memoirs: Safe House | 280560 | [280560-escape-memoirs-safe-house.json](./280560-escape-memoirs-safe-house.json) |
 | Escape Mind | 123756 | [123756-escape-mind.json](./123756-escape-mind.json) |
+| Escape My Family | 430019 | [430019-escape-my-family.json](./430019-escape-my-family.json) |
 | Escape Mystery-The Dark Fence | 237368 | [237368-escape-mystery-the-dark-fence.json](./237368-escape-mystery-the-dark-fence.json) |
 | Escape Mystery: Alien Impact | 174311 | [174311-escape-mystery-alien-impact.json](./174311-escape-mystery-alien-impact.json) |
 | Escape Ninja | 172819 | [172819-escape-ninja.json](./172819-escape-ninja.json) |
