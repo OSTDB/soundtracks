@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Fencer F: Advent Dark Force - Deluxe Edition | 186883 | [186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json](./186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json) |
 | Fairy Fencer F: Advent Dark Force - Veteran Fencer Armor Set | 430593 | [430593-fairy-fencer-f-advent-dark-force-veteran-fencer-armor-set.json](./430593-fairy-fencer-f-advent-dark-force-veteran-fencer-armor-set.json) |
 | Fairy Fencer F: Advent Dark Force DLC Bundle | 227385 | [227385-fairy-fencer-f-advent-dark-force-dlc-bundle.json](./227385-fairy-fencer-f-advent-dark-force-dlc-bundle.json) |
+| Fairy Fencer F: Refrain Chord | 203092 | [203092-fairy-fencer-f-refrain-chord.json](./203092-fairy-fencer-f-refrain-chord.json) |
 | Fairy Fencer F: Refrain Chord - Day One Edition | 233272 | [233272-fairy-fencer-f-refrain-chord-day-one-edition.json](./233272-fairy-fencer-f-refrain-chord-day-one-edition.json) |
 | Fairy Fencer F: Refrain Chord - Digital Deluxe Edition | 220420 | [220420-fairy-fencer-f-refrain-chord-digital-deluxe-edition.json](./220420-fairy-fencer-f-refrain-chord-digital-deluxe-edition.json) |
 | Fairy Fencer F: Refrain Chord - Limited Edition | 205257 | [205257-fairy-fencer-f-refrain-chord-limited-edition.json](./205257-fairy-fencer-f-refrain-chord-limited-edition.json) |
@@ -4152,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear the Flesh | 397751 | [397751-fear-the-flesh.json](./397751-fear-the-flesh.json) |
 | Fear the Flossom | 138814 | [138814-fear-the-flossom.json](./138814-fear-the-flossom.json) |
 | Fear the Moon | 294261 | [294261-fear-the-moon.json](./294261-fear-the-moon.json) |
+| Fear the Night | 112973 | [112973-fear-the-night.json](./112973-fear-the-night.json) |
 | Fear the Phantom | 236121 | [236121-fear-the-phantom.json](./236121-fear-the-phantom.json) |
 | Fear The Reaper | 329294 | [329294-fear-the-reaper.json](./329294-fear-the-reaper.json) |
 | Fear the Ring Place 0 | 398677 | [398677-fear-the-ring-place-0.json](./398677-fear-the-ring-place-0.json) |
