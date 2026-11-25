@@ -14603,6 +14603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minerest | 184883 | [184883-minerest.json](./184883-minerest.json) |
 | MinerMancers | 411788 | [411788-minermancers.json](./411788-minermancers.json) |
 | Mineroids | 413614 | [413614-mineroids.json](./413614-mineroids.json) |
+| Minerooms | 430615 | [430615-minerooms.json](./430615-minerooms.json) |
 | Miners and Machines | 211120 | [211120-miners-and-machines.json](./211120-miners-and-machines.json) |
 | Miners in the Mountain | 358512 | [358512-miners-in-the-mountain.json](./358512-miners-in-the-mountain.json) |
 | Miners Races | 172865 | [172865-miners-races.json](./172865-miners-races.json) |
@@ -22017,6 +22018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muffy Boy | 61271 | [61271-muffy-boy.json](./61271-muffy-boy.json) |
 | Muffy's Wardrobe | 300604 | [300604-muffys-wardrobe.json](./300604-muffys-wardrobe.json) |
 | Mug | 322830 | [322830-mug.json](./322830-mug.json) |
+| Mug Shot! | 430245 | [430245-mug-shot.json](./430245-mug-shot.json) |
 | Mug Smashers | 148075 | [148075-mug-smashers.json](./148075-mug-smashers.json) |
 | Muga | 202889 | [202889-muga.json](./202889-muga.json) |
 | Mugalon Poker | 232351 | [232351-mugalon-poker.json](./232351-mugalon-poker.json) |
