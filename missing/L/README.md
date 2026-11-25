@@ -3102,7 +3102,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Max | 61261 | [61261-legend-of-max.json](./61261-legend-of-max.json) |
 | Legend of Merchant | 30756 | [30756-legend-of-merchant.json](./30756-legend-of-merchant.json) |
 | Legend of Merchant 2 | 306387 | [306387-legend-of-merchant-2.json](./306387-legend-of-merchant-2.json) |
-| Legend of Mercy | 96280 | [96280-legend-of-mercy.json](./96280-legend-of-mercy.json) |
 | Legend of Mir | 62774 | [62774-legend-of-mir.json](./62774-legend-of-mir.json) |
 | Legend of Mir 2 | 67644 | [67644-legend-of-mir-2.json](./67644-legend-of-mir-2.json) |
 | Legend of Mir 3 | 51197 | [51197-legend-of-mir-3.json](./51197-legend-of-mir-3.json) |
@@ -10622,7 +10621,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lower? Higher!: Buy or Bye | 341186 | [341186-lower-higher-buy-or-bye.json](./341186-lower-higher-buy-or-bye.json) |
 | Lowglow | 18190 | [18190-lowglow.json](./18190-lowglow.json) |
 | Lowland Keepers | 328956 | [328956-lowland-keepers.json](./328956-lowland-keepers.json) |
-| Lowlander | 95556 | [95556-lowlander.json](./95556-lowlander.json) |
 | Lowlander II: Lowerlander | 104706 | [104706-lowlander-ii-lowerlander.json](./104706-lowlander-ii-lowerlander.json) |
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowLife Forms | 304310 | [304310-lowlife-forms.json](./304310-lowlife-forms.json) |
