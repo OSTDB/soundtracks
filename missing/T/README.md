@@ -10074,7 +10074,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Editor | 239783 | [239783-the-editor.json](./239783-the-editor.json) |
 | The Edutainment Vortex Diner | 424297 | [424297-the-edutainment-vortex-diner.json](./424297-the-edutainment-vortex-diner.json) |
 | The Eerie Adventures of Kally | 76109 | [76109-the-eerie-adventures-of-kally.json](./76109-the-eerie-adventures-of-kally.json) |
-| The Eerie Inn | 95595 | [95595-the-eerie-inn.json](./95595-the-eerie-inn.json) |
 | The Eerie Inn VR | 106635 | [106635-the-eerie-inn-vr.json](./106635-the-eerie-inn-vr.json) |
 | The Eerie Surroundings | 290022 | [290022-the-eerie-surroundings.json](./290022-the-eerie-surroundings.json) |
 | The Effective Detective | 300811 | [300811-the-effective-detective.json](./300811-the-effective-detective.json) |
@@ -13995,7 +13994,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The last four | 216794 | [216794-the-last-four.json](./216794-the-last-four.json) |
 | The Last Frame | 385360 | [385360-the-last-frame.json](./385360-the-last-frame.json) |
 | The Last from Mars | 143528 | [143528-the-last-from-mars.json](./143528-the-last-from-mars.json) |
-| The Last Front | 98707 | [98707-the-last-front.json](./98707-the-last-front.json) |
 | The Last Frontier | 388453 | [388453-the-last-frontier.json](./388453-the-last-frontier.json) |
 | The Last Galaxy | 109921 | [109921-the-last-galaxy.json](./109921-the-last-galaxy.json) |
 | The Last Game | 267253 | [267253-the-last-game.json](./267253-the-last-game.json) |
@@ -18334,7 +18332,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road To Druaga | 339383 | [339383-the-road-to-druaga.json](./339383-the-road-to-druaga.json) |
 | The Road to Gelendzhik Palace | 159993 | [159993-the-road-to-gelendzhik-palace.json](./159993-the-road-to-gelendzhik-palace.json) |
 | The Road to Gettysburg | 24885 | [24885-the-road-to-gettysburg.json](./24885-the-road-to-gettysburg.json) |
-| The Road to Hades | 96354 | [96354-the-road-to-hades.json](./96354-the-road-to-hades.json) |
 | The Road To Harvest: Food From Across The Ocean | 328105 | [328105-the-road-to-harvest-food-from-across-the-ocean.json](./328105-the-road-to-harvest-food-from-across-the-ocean.json) |
 | The Road to Recovery: A Personal 2D Adventure Game | 259174 | [259174-the-road-to-recovery-a-personal-2d-adventure-game.json](./259174-the-road-to-recovery-a-personal-2d-adventure-game.json) |
 | The Road to Wellchapel | 180938 | [180938-the-road-to-wellchapel.json](./180938-the-road-to-wellchapel.json) |
@@ -26778,7 +26775,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Tenshi 2: Special Edition | 30407 | [30407-time-tenshi-2-special-edition.json](./30407-time-tenshi-2-special-edition.json) |
 | Time Tenshi 2: Special Edition DLC | 168070 | [168070-time-tenshi-2-special-edition-dlc.json](./168070-time-tenshi-2-special-edition-dlc.json) |
 | Time Tenshi Paradox | 83718 | [83718-time-tenshi-paradox.json](./83718-time-tenshi-paradox.json) |
-| Time Tenshi Paradox: Episode 2 | 96616 | [96616-time-tenshi-paradox-episode-2.json](./96616-time-tenshi-paradox-episode-2.json) |
 | Time Thief | 201590 | [201590-time-thief.json](./201590-time-thief.json) |
 | Time Thief | 232839 | [232839-time-thief.json](./232839-time-thief.json) |
 | Time Thief | 235277 | [235277-time-thief.json](./235277-time-thief.json) |
@@ -34906,7 +34902,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
 | Trash Sorter Simulator | 365042 | [365042-trash-sorter-simulator.json](./365042-trash-sorter-simulator.json) |
 | Trash Squad | 81157 | [81157-trash-squad.json](./81157-trash-squad.json) |
-| Trash Story | 95267 | [95267-trash-story.json](./95267-trash-story.json) |
 | Trash Tag | 358757 | [358757-trash-tag.json](./358757-trash-tag.json) |
 | Trash Taste: The Boys Order Pizza | 214957 | [214957-trash-taste-the-boys-order-pizza.json](./214957-trash-taste-the-boys-order-pizza.json) |
 | Trash the Planet | 144624 | [144624-trash-the-planet.json](./144624-trash-the-planet.json) |
@@ -36286,7 +36281,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Food Trivia | 101625 | [101625-trivia-vault-food-trivia.json](./101625-trivia-vault-food-trivia.json) |
 | Trivia Vault: Golf Trivia | 93772 | [93772-trivia-vault-golf-trivia.json](./93772-trivia-vault-golf-trivia.json) |
 | Trivia Vault: Health Trivia Deluxe | 81880 | [81880-trivia-vault-health-trivia-deluxe.json](./81880-trivia-vault-health-trivia-deluxe.json) |
-| Trivia Vault: Hockey Trivia | 95275 | [95275-trivia-vault-hockey-trivia.json](./95275-trivia-vault-hockey-trivia.json) |
 | Trivia Vault: Literature Trivia | 101626 | [101626-trivia-vault-literature-trivia.json](./101626-trivia-vault-literature-trivia.json) |
 | Trivia Vault: Mini Mixed Trivia | 55739 | [55739-trivia-vault-mini-mixed-trivia.json](./55739-trivia-vault-mini-mixed-trivia.json) |
 | Trivia Vault: Mini Mixed Trivia 2 | 55738 | [55738-trivia-vault-mini-mixed-trivia-2.json](./55738-trivia-vault-mini-mixed-trivia-2.json) |
@@ -38635,7 +38629,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted! Deluxe | 171250 | [171250-twisted-deluxe.json](./171250-twisted-deluxe.json) |
 | Twistedland VR | 160132 | [160132-twistedland-vr.json](./160132-twistedland-vr.json) |
 | Twister | 91394 | [91394-twister.json](./91394-twister.json) |
-| Twister - Best Ride Simulators | 96804 | [96804-twister-best-ride-simulators.json](./96804-twister-best-ride-simulators.json) |
 | Twister Icefun | 307360 | [307360-twister-icefun.json](./307360-twister-icefun.json) |
 | Twister Mania | 20216 | [20216-twister-mania.json](./20216-twister-mania.json) |
 | Twister Road | 125251 | [125251-twister-road.json](./125251-twister-road.json) |
