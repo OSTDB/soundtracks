@@ -1316,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Carmelot: The missing pot of gold | 28345 | [28345-tales-of-carmelot-the-missing-pot-of-gold.json](./28345-tales-of-carmelot-the-missing-pot-of-gold.json) |
 | Tales of Chandar | 149681 | [149681-tales-of-chandar.json](./149681-tales-of-chandar.json) |
 | Tales of Corneria | 323906 | [323906-tales-of-corneria.json](./323906-tales-of-corneria.json) |
+| Tales of Cosmos | 27180 | [27180-tales-of-cosmos.json](./27180-tales-of-cosmos.json) |
 | Tales of Crestoria | 109283 | [109283-tales-of-crestoria.json](./109283-tales-of-crestoria.json) |
 | Tales of Demagost: Exodus | 373326 | [373326-tales-of-demagost-exodus.json](./373326-tales-of-demagost-exodus.json) |
 | Tales of Demons and Gods | 232898 | [232898-tales-of-demons-and-gods.json](./232898-tales-of-demons-and-gods.json) |
@@ -6101,6 +6102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thatre of Pain | 234474 | [234474-thatre-of-pain.json](./234474-thatre-of-pain.json) |
 | Thats Life of Ralph | 169520 | [169520-thats-life-of-ralph.json](./169520-thats-life-of-ralph.json) |
 | Thaumcraft | 232786 | [232786-thaumcraft.json](./232786-thaumcraft.json) |
+| Thaumistry: In Charm's Way | 27280 | [27280-thaumistry-in-charms-way.json](./27280-thaumistry-in-charms-way.json) |
 | ThaumOS | 184462 | [184462-thaumos.json](./184462-thaumos.json) |
 | Thaw | 318294 | [318294-thaw.json](./318294-thaw.json) |
 | Thawed Waters | 260254 | [260254-thawed-waters.json](./260254-thawed-waters.json) |
@@ -30515,6 +30517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TotemBall | 79930 | [79930-totemball.json](./79930-totemball.json) |
 | Totemic | 138037 | [138037-totemic.json](./138037-totemic.json) |
 | Totemlands | 213941 | [213941-totemlands.json](./213941-totemlands.json) |
+| Totemori | 27207 | [27207-totemori.json](./27207-totemori.json) |
 | Totems | 201973 | [201973-totems.json](./201973-totems.json) |
 | Totems | 80732 | [80732-totems.json](./80732-totems.json) |
 | Totems: Game of Conquest | 200188 | [200188-totems-game-of-conquest.json](./200188-totems-game-of-conquest.json) |
