@@ -2100,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haprokon | 115636 | [115636-haprokon.json](./115636-haprokon.json) |
 | Hapunan | 329691 | [329691-hapunan.json](./329691-hapunan.json) |
 | Hapy-y | 264509 | [264509-hapy-y.json](./264509-hapy-y.json) |
+| Hapymaher | 430320 | [430320-hapymaher.json](./430320-hapymaher.json) |
 | Haque | 75364 | [75364-haque.json](./75364-haque.json) |
 | Här Kommer Pippi Långstrump | 337184 | [337184-har-kommer-pippi-langstrump.json](./337184-har-kommer-pippi-langstrump.json) |
 | Hara Katsu! 3: Kozukuri Business Haigyou no Kiki!? | 194478 | [194478-hara-katsu-3-kozukuri-business-haigyou-no-kiki.json](./194478-hara-katsu-3-kozukuri-business-haigyou-no-kiki.json) |
@@ -8972,6 +8973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Tail Hall | 130045 | [130045-high-tail-hall.json](./130045-high-tail-hall.json) |
 | High Tech Low Life | 207426 | [207426-high-tech-low-life.json](./207426-high-tech-low-life.json) |
 | High Templar VR | 36713 | [36713-high-templar-vr.json](./36713-high-templar-vr.json) |
+| High Tide | 430261 | [430261-high-tide.json](./430261-high-tide.json) |
 | High Times | 251915 | [251915-high-times.json](./251915-high-times.json) |
 | High Treason | 129304 | [129304-high-treason.json](./129304-high-treason.json) |
 | High Typer | 423195 | [423195-high-typer.json](./423195-high-typer.json) |
@@ -10348,6 +10350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Bonus Gold | 29929 | [29929-holiday-bonus-gold.json](./29929-holiday-bonus-gold.json) |
 | Holiday Cheer 3 | 173332 | [173332-holiday-cheer-3.json](./173332-holiday-cheer-3.json) |
 | Holiday Dash! | 251357 | [251357-holiday-dash.json](./251357-holiday-dash.json) |
+| Holiday Decorator | 430570 | [430570-holiday-decorator.json](./430570-holiday-decorator.json) |
 | Holiday Escape | 108000 | [108000-holiday-escape.json](./108000-holiday-escape.json) |
 | Holiday Express | 54088 | [54088-holiday-express.json](./54088-holiday-express.json) |
 | Holiday Eye Spy | 332177 | [332177-holiday-eye-spy.json](./332177-holiday-eye-spy.json) |
