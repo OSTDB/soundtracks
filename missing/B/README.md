@@ -340,7 +340,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby's Nightmare Circus | 194385 | [194385-babys-nightmare-circus.json](./194385-babys-nightmare-circus.json) |
 | Baby's Nightmare Circus Bike Fighter | 370552 | [370552-babys-nightmare-circus-bike-fighter.json](./370552-babys-nightmare-circus-bike-fighter.json) |
 | Baby's Nightmare Circus VR: Remake | 336002 | [336002-babys-nightmare-circus-vr-remake.json](./336002-babys-nightmare-circus-vr-remake.json) |
-| Baby's on fire | 95283 | [95283-babys-on-fire.json](./95283-babys-on-fire.json) |
 | Baby's Town | 299835 | [299835-babys-town.json](./299835-babys-town.json) |
 | Babycar Driver | 101401 | [101401-babycar-driver.json](./101401-babycar-driver.json) |
 | Babyface | 141292 | [141292-babyface.json](./141292-babyface.json) |
@@ -5556,7 +5555,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Life | 11822 | [11822-beach-life.json](./11822-beach-life.json) |
 | Beach Life Simulator | 371247 | [371247-beach-life-simulator.json](./371247-beach-life-simulator.json) |
 | Beach Love Shop | 138564 | [138564-beach-love-shop.json](./138564-beach-love-shop.json) |
-| Beach Makeover | 95563 | [95563-beach-makeover.json](./95563-beach-makeover.json) |
 | Beach Mini Golf 2 | 243740 | [243740-beach-mini-golf-2.json](./243740-beach-mini-golf-2.json) |
 | Beach Outlet Simulator | 326472 | [326472-beach-outlet-simulator.json](./326472-beach-outlet-simulator.json) |
 | Beach Paddle | 65860 | [65860-beach-paddle.json](./65860-beach-paddle.json) |
@@ -8622,7 +8620,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Challenge! Go! Go! Bowling | 41330 | [41330-big-challenge-go-go-bowling.json](./41330-big-challenge-go-go-bowling.json) |
 | Big Challenge! Gun Fighter | 41239 | [41239-big-challenge-gun-fighter.json](./41239-big-challenge-gun-fighter.json) |
 | Big Challenge! Judo Senshuken | 41242 | [41242-big-challenge-judo-senshuken.json](./41242-big-challenge-judo-senshuken.json) |
-| Big Chief | 96342 | [96342-big-chief.json](./96342-big-chief.json) |
 | Big Chungus Tries Not To Be The Sus Imposter While Shopping At Walmart For Eggs To Make His Breakfast Casserole | 411894 | [411894-big-chungus-tries-not-to-be-the-sus-imposter-while-shopping-at-walmart-for-eggs-to-make-his-breakfast-casserole.json](./411894-big-chungus-tries-not-to-be-the-sus-imposter-while-shopping-at-walmart-for-eggs-to-make-his-breakfast-casserole.json) |
 | Big City Adventure: Barcelona | 341050 | [341050-big-city-adventure-barcelona.json](./341050-big-city-adventure-barcelona.json) |
 | Big City Adventure: Istanbul | 294743 | [294743-big-city-adventure-istanbul.json](./294743-big-city-adventure-istanbul.json) |
@@ -8890,7 +8887,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigfoot Hunting | 353950 | [353950-bigfoot-hunting.json](./353950-bigfoot-hunting.json) |
 | Bigfoot Life | 309909 | [309909-bigfoot-life.json](./309909-bigfoot-life.json) |
 | Bigfoot Monster Hunter | 216105 | [216105-bigfoot-monster-hunter.json](./216105-bigfoot-monster-hunter.json) |
-| Bigfoot Monster Hunter | 97050 | [97050-bigfoot-monster-hunter.json](./97050-bigfoot-monster-hunter.json) |
 | Bigfoot Quest | 90752 | [90752-bigfoot-quest.json](./90752-bigfoot-quest.json) |
 | Bigfoot vs. Scots | 244257 | [244257-bigfoot-vs-scots.json](./244257-bigfoot-vs-scots.json) |
 | Bigfoot: Chasing Shadows | 69354 | [69354-bigfoot-chasing-shadows.json](./69354-bigfoot-chasing-shadows.json) |
@@ -10838,7 +10834,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksite Theta | 272784 | [272784-blacksite-theta.json](./272784-blacksite-theta.json) |
 | BlackSite: Area 51 | 5730 | [5730-blacksite-area-51.json](./5730-blacksite-area-51.json) |
 | BlackSky | 199446 | [199446-blacksky.json](./199446-blacksky.json) |
-| Blacksmith | 96739 | [96739-blacksmith.json](./96739-blacksmith.json) |
 | Blacksmith Bay | 150604 | [150604-blacksmith-bay.json](./150604-blacksmith-bay.json) |
 | Blacksmith Forger | 231063 | [231063-blacksmith-forger.json](./231063-blacksmith-forger.json) |
 | BlackSmith HIT | 31917 | [31917-blacksmith-hit.json](./31917-blacksmith-hit.json) |
@@ -12527,7 +12522,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blon | 167682 | [167682-blon.json](./167682-blon.json) |
 | Blond Escape | 176212 | [176212-blond-escape.json](./176212-blond-escape.json) |
 | Blonde | 177627 | [177627-blonde.json](./177627-blonde.json) |
-| Blonde Driver | 96435 | [96435-blonde-driver.json](./96435-blonde-driver.json) |
 | Blonde Justice | 37198 | [37198-blonde-justice.json](./37198-blonde-justice.json) |
 | Blonde vs. Brunette Racing | 175593 | [175593-blonde-vs-brunette-racing.json](./175593-blonde-vs-brunette-racing.json) |
 | Blondes | 242963 | [242963-blondes.json](./242963-blondes.json) |
@@ -13623,7 +13617,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blueberry | 130534 | [130534-blueberry.json](./130534-blueberry.json) |
 | Blueberry Tales | 426287 | [426287-blueberry-tales.json](./426287-blueberry-tales.json) |
 | Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
-| BlueberryNova | 95254 | [95254-blueberrynova.json](./95254-blueberrynova.json) |
 | BlueBete | 137556 | [137556-bluebete.json](./137556-bluebete.json) |
 | Bluebird of Happiness | 213470 | [213470-bluebird-of-happiness.json](./213470-bluebird-of-happiness.json) |
 | BlueBirdRP | 378083 | [378083-bluebirdrp.json](./378083-bluebirdrp.json) |
@@ -15004,7 +14997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobs Hidden Ibiza | 367294 | [367294-boobs-hidden-ibiza.json](./367294-boobs-hidden-ibiza.json) |
 | Boobs Hidden Los Angeles | 320329 | [320329-boobs-hidden-los-angeles.json](./320329-boobs-hidden-los-angeles.json) |
 | Boobs Hidden Rio De Janeiro | 344522 | [344522-boobs-hidden-rio-de-janeiro.json](./344522-boobs-hidden-rio-de-janeiro.json) |
-| Boobs on Island | 97179 | [97179-boobs-on-island.json](./97179-boobs-on-island.json) |
 | Boobs or [Redacted] | 368061 | [368061-boobs-or-redacted.json](./368061-boobs-or-redacted.json) |
 | Boobs Puzzle | 107528 | [107528-boobs-puzzle.json](./107528-boobs-puzzle.json) |
 | Boobs Puzzle 2 | 109806 | [109806-boobs-puzzle-2.json](./109806-boobs-puzzle-2.json) |
@@ -17995,7 +17987,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks Breaker Mission | 95808 | [95808-bricks-breaker-mission.json](./95808-bricks-breaker-mission.json) |
 | Bricks Breaker Puzzle Classic | 220807 | [220807-bricks-breaker-puzzle-classic.json](./220807-bricks-breaker-puzzle-classic.json) |
 | Bricks Breaker Quest | 105516 | [105516-bricks-breaker-quest.json](./105516-bricks-breaker-quest.json) |
-| Bricks Breaker Shot | 96821 | [96821-bricks-breaker-shot.json](./96821-bricks-breaker-shot.json) |
 | Bricks Breaker: Manga Girls | 205575 | [205575-bricks-breaker-manga-girls.json](./205575-bricks-breaker-manga-girls.json) |
 | Bricks Crusher Breaker Ball | 249020 | [249020-bricks-crusher-breaker-ball.json](./249020-bricks-crusher-breaker-ball.json) |
 | Bricks Defender | 147572 | [147572-bricks-defender.json](./147572-bricks-defender.json) |
@@ -21210,7 +21201,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butcher's Summit | 406987 | [406987-butchers-summit.json](./406987-butchers-summit.json) |
 | Butcherbird | 320620 | [320620-butcherbird.json](./320620-butcherbird.json) |
 | ButcherBox | 116105 | [116105-butcherbox.json](./116105-butcherbox.json) |
-| ButcherBoy | 95605 | [95605-butcherboy.json](./95605-butcherboy.json) |
 | Butcherman | 388746 | [388746-butcherman.json](./388746-butcherman.json) |
 | Butchers Don't Surf! | 243228 | [243228-butchers-dont-surf.json](./243228-butchers-dont-surf.json) |
 | Buti | 264720 | [264720-buti.json](./264720-buti.json) |
