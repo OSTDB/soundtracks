@@ -1460,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Snail's Pace | 365591 | [365591-a-snails-pace.json](./365591-a-snails-pace.json) |
 | A Snake in a Maze | 159584 | [159584-a-snake-in-a-maze.json](./159584-a-snake-in-a-maze.json) |
 | A Snake's Life | 73921 | [73921-a-snakes-life.json](./73921-a-snakes-life.json) |
+| A Snake's Tale | 43140 | [43140-a-snakes-tale.json](./43140-a-snakes-tale.json) |
 | A Snowman's Chance | 244154 | [244154-a-snowmans-chance.json](./244154-a-snowmans-chance.json) |
 | A Social Platform | 275359 | [275359-a-social-platform.json](./275359-a-social-platform.json) |
 | A Sold House | 133785 | [133785-a-sold-house.json](./133785-a-sold-house.json) |
@@ -3261,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces in the Dust | 160054 | [160054-aces-in-the-dust.json](./160054-aces-in-the-dust.json) |
 | Aces of Avalon | 410690 | [410690-aces-of-avalon.json](./410690-aces-of-avalon.json) |
 | Aces of Ring | 418115 | [418115-aces-of-ring.json](./418115-aces-of-ring.json) |
+| Aces of the Air | 43938 | [43938-aces-of-the-air.json](./43938-aces-of-the-air.json) |
 | Aces of the Deep | 12384 | [12384-aces-of-the-deep.json](./12384-aces-of-the-deep.json) |
 | Aces of the Deep Expansion Disk | 79075 | [79075-aces-of-the-deep-expansion-disk.json](./79075-aces-of-the-deep-expansion-disk.json) |
 | Aces of the Galaxy | 15766 | [15766-aces-of-the-galaxy.json](./15766-aces-of-the-galaxy.json) |
@@ -10345,6 +10347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Gold Edition | 115774 | [115774-american-truck-simulator-gold-edition.json](./115774-american-truck-simulator-gold-edition.json) |
 | American Truck Simulator: Goodyear Tires Pack | 223687 | [223687-american-truck-simulator-goodyear-tires-pack.json](./223687-american-truck-simulator-goodyear-tires-pack.json) |
 | American Truck Simulator: Halloween Paint Jobs Pack | 353401 | [353401-american-truck-simulator-halloween-paint-jobs-pack.json](./353401-american-truck-simulator-halloween-paint-jobs-pack.json) |
+| American Truck Simulator: Heavy Cargo Pack | 44120 | [44120-american-truck-simulator-heavy-cargo-pack.json](./44120-american-truck-simulator-heavy-cargo-pack.json) |
 | American Truck Simulator: Idaho | 167405 | [167405-american-truck-simulator-idaho.json](./167405-american-truck-simulator-idaho.json) |
 | American Truck Simulator: Illinois | 348974 | [348974-american-truck-simulator-illinois.json](./348974-american-truck-simulator-illinois.json) |
 | American Truck Simulator: International 9900i | 195805 | [195805-american-truck-simulator-international-9900i.json](./195805-american-truck-simulator-international-9900i.json) |
@@ -17884,6 +17887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashwend | 429626 | [429626-ashwend.json](./429626-ashwend.json) |
 | Ashwood Conspiracy | 336696 | [336696-ashwood-conspiracy.json](./336696-ashwood-conspiracy.json) |
 | Ashwood Valley | 344121 | [344121-ashwood-valley.json](./344121-ashwood-valley.json) |
+| Ashworld | 43120 | [43120-ashworld.json](./43120-ashworld.json) |
 | Ashworth | 423510 | [423510-ashworth.json](./423510-ashworth.json) |
 | Ashzel & The Power Dagger | 203602 | [203602-ashzel-and-the-power-dagger.json](./203602-ashzel-and-the-power-dagger.json) |
 | Asia Empire 2027 | 219197 | [219197-asia-empire-2027.json](./219197-asia-empire-2027.json) |
