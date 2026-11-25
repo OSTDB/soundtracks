@@ -5356,6 +5356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello, Boss! | 364845 | [364845-hello-boss.json](./364845-hello-boss.json) |
 | Hello, Dot | 387965 | [387965-hello-dot.json](./387965-hello-dot.json) |
 | Hello, Fucking World! | 219827 | [219827-hello-fucking-world.json](./219827-hello-fucking-world.json) |
+| Hello, Good-bye | 111803 | [111803-hello-good-bye.json](./111803-hello-good-bye.json) |
 | Hello, Goodbye, Summer Girl | 151721 | [151721-hello-goodbye-summer-girl.json](./151721-hello-goodbye-summer-girl.json) |
 | Hello, Hello World! | 147705 | [147705-hello-hello-world.json](./147705-hello-hello-world.json) |
 | Hello, Kami-sama Worker | 379354 | [379354-hello-kami-sama-worker.json](./379354-hello-kami-sama-worker.json) |
@@ -11782,6 +11783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hornet Virus: Steel Alcimus II | 161470 | [161470-hornet-virus-steel-alcimus-ii.json](./161470-hornet-virus-steel-alcimus-ii.json) |
 | Hornets | 202613 | [202613-hornets.json](./202613-hornets.json) |
 | Horns of Deliverance | 426704 | [426704-horns-of-deliverance.json](./426704-horns-of-deliverance.json) |
+| Horns of Fear | 74436 | [74436-horns-of-fear.json](./74436-horns-of-fear.json) |
 | Horns of Justice | 211290 | [211290-horns-of-justice.json](./211290-horns-of-justice.json) |
 | Horny Academy | 390747 | [390747-horny-academy.json](./390747-horny-academy.json) |
 | Horny Adventurer Karen | 382666 | [382666-horny-adventurer-karen.json](./382666-horny-adventurer-karen.json) |
