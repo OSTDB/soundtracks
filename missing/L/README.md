@@ -1769,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Seen Online | 98847 | [98847-last-seen-online.json](./98847-last-seen-online.json) |
 | Last Shape Standing | 164910 | [164910-last-shape-standing.json](./164910-last-shape-standing.json) |
 | Last Shark Standing | 123903 | [123903-last-shark-standing.json](./123903-last-shark-standing.json) |
+| Last Shelter: Survival | 89754 | [89754-last-shelter-survival.json](./89754-last-shelter-survival.json) |
 | Last Shelter: War Z | 414472 | [414472-last-shelter-war-z.json](./414472-last-shelter-war-z.json) |
 | Last Shift Standing | 386097 | [386097-last-shift-standing.json](./386097-last-shift-standing.json) |
 | Last Shift: Gas Station | 389640 | [389640-last-shift-gas-station.json](./389640-last-shift-gas-station.json) |
@@ -3729,6 +3730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Island 2: The Brickster's Revenge | 229841 | [229841-lego-island-2-the-bricksters-revenge.json](./229841-lego-island-2-the-bricksters-revenge.json) |
 | LEGO Island 2: The Brickster's Revenge | 229925 | [229925-lego-island-2-the-bricksters-revenge.json](./229925-lego-island-2-the-bricksters-revenge.json) |
 | LEGO Island 2: The Brickster's Revenge | 5616 | [5616-lego-island-2-the-bricksters-revenge.json](./5616-lego-island-2-the-bricksters-revenge.json) |
+| LEGO Juniors | 88873 | [88873-lego-juniors.json](./88873-lego-juniors.json) |
 | LEGO Juniors Create & Cruise | 105878 | [105878-lego-juniors-create-and-cruise.json](./105878-lego-juniors-create-and-cruise.json) |
 | LEGO Jurassic World | 9918 | [9918-lego-jurassic-world.json](./9918-lego-jurassic-world.json) |
 | Lego Jurassic World DLC Pack | 264430 | [264430-lego-jurassic-world-dlc-pack.json](./264430-lego-jurassic-world-dlc-pack.json) |
@@ -11169,6 +11171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumber Plumber | 403751 | [403751-lumber-plumber.json](./403751-lumber-plumber.json) |
 | Lumber Tycoon Island | 418249 | [418249-lumber-tycoon-island.json](./418249-lumber-tycoon-island.json) |
 | Lumber Valley | 353192 | [353192-lumber-valley.json](./353192-lumber-valley.json) |
+| Lumberhill | 111771 | [111771-lumberhill.json](./111771-lumberhill.json) |
 | Lumberhill + It came from space and ate our brains | 287662 | [287662-lumberhill-it-came-from-space-and-ate-our-brains.json](./287662-lumberhill-it-came-from-space-and-ate-our-brains.json) |
 | Lumberhill: Powerful People Pack | 199884 | [199884-lumberhill-powerful-people-pack.json](./199884-lumberhill-powerful-people-pack.json) |
 | Lumberhill: Strong Start Bundle | 199863 | [199863-lumberhill-strong-start-bundle.json](./199863-lumberhill-strong-start-bundle.json) |
