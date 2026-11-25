@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Agents of Death | 32602 | [32602-warhammer-40-000-agents-of-death.json](./32602-warhammer-40-000-agents-of-death.json) |
 | Warhammer 40,000: Armageddon | 17609 | [17609-warhammer-40-000-armageddon.json](./17609-warhammer-40-000-armageddon.json) |
 | Warhammer 40,000: Armageddon - Angels of Death | 53889 | [53889-warhammer-40-000-armageddon-angels-of-death.json](./53889-warhammer-40-000-armageddon-angels-of-death.json) |
+| Warhammer 40,000: Armageddon - Da Orks | 33186 | [33186-warhammer-40-000-armageddon-da-orks.json](./33186-warhammer-40-000-armageddon-da-orks.json) |
 | Warhammer 40,000: Armageddon - Glory of Macragge | 53890 | [53890-warhammer-40-000-armageddon-glory-of-macragge.json](./53890-warhammer-40-000-armageddon-glory-of-macragge.json) |
 | Warhammer 40,000: Armageddon - Golgotha | 53891 | [53891-warhammer-40-000-armageddon-golgotha.json](./53891-warhammer-40-000-armageddon-golgotha.json) |
 | Warhammer 40,000: Armageddon - Imperium Complete | 53892 | [53892-warhammer-40-000-armageddon-imperium-complete.json](./53892-warhammer-40-000-armageddon-imperium-complete.json) |
@@ -2731,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Restoration | 334039 | [334039-watch-restoration.json](./334039-watch-restoration.json) |
 | Watch The Edge Honey | 412350 | [412350-watch-the-edge-honey.json](./412350-watch-the-edge-honey.json) |
 | Watch The Fish | 287190 | [287190-watch-the-fish.json](./287190-watch-the-fish.json) |
+| Watch This! | 33129 | [33129-watch-this.json](./33129-watch-this.json) |
 | Watch Tower | 121356 | [121356-watch-tower.json](./121356-watch-tower.json) |
 | Watch Trader | 339317 | [339317-watch-trader.json](./339317-watch-trader.json) |
 | Watch TV | 179315 | [179315-watch-tv.json](./179315-watch-tv.json) |
