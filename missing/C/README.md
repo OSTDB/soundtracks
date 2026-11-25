@@ -22597,7 +22597,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubot: The Complexity of Simplicity | 9812 | [9812-cubot-the-complexity-of-simplicity.json](./9812-cubot-the-complexity-of-simplicity.json) |
 | Cuboton | 187589 | [187589-cuboton.json](./187589-cuboton.json) |
 | Cubotrox | 31312 | [31312-cubotrox.json](./31312-cubotrox.json) |
-| Cubots: The Origins | 94138 | [94138-cubots-the-origins.json](./94138-cubots-the-origins.json) |
 | Cubounce | 402697 | [402697-cubounce.json](./402697-cubounce.json) |
 | Cubox: Awakening of Gods | 168156 | [168156-cubox-awakening-of-gods.json](./168156-cubox-awakening-of-gods.json) |
 | Cuboy | 251692 | [251692-cuboy.json](./251692-cuboy.json) |
