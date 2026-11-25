@@ -1764,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanatorium | 375324 | [375324-sanatorium.json](./375324-sanatorium.json) |
 | Sanatorium | 64722 | [64722-sanatorium.json](./64722-sanatorium.json) |
 | Sanatorium | 82652 | [82652-sanatorium.json](./82652-sanatorium.json) |
+| Sanatorium of Evil | 431274 | [431274-sanatorium-of-evil.json](./431274-sanatorium-of-evil.json) |
 | Sanatorium Purgatorium | 111140 | [111140-sanatorium-purgatorium.json](./111140-sanatorium-purgatorium.json) |
 | Sanatorium: A Mental Asylum Simulator | 213369 | [213369-sanatorium-a-mental-asylum-simulator.json](./213369-sanatorium-a-mental-asylum-simulator.json) |
 | Sanatorium: Anthropocene Retreat | 171661 | [171661-sanatorium-anthropocene-retreat.json](./171661-sanatorium-anthropocene-retreat.json) |
@@ -2611,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saucy Boy Adventures | 210095 | [210095-saucy-boy-adventures.json](./210095-saucy-boy-adventures.json) |
 | Saucy Devil Gordon | 310660 | [310660-saucy-devil-gordon.json](./310660-saucy-devil-gordon.json) |
 | Saucy Devil Gordon 2 | 310661 | [310661-saucy-devil-gordon-2.json](./310661-saucy-devil-gordon-2.json) |
+| Saucy Sorcery | 431302 | [431302-saucy-sorcery.json](./431302-saucy-sorcery.json) |
 | Saudade | 317180 | [317180-saudade.json](./317180-saudade.json) |
 | Saudi Drift | 214938 | [214938-saudi-drift.json](./214938-saudi-drift.json) |
 | Sauk Mind | 326600 | [326600-sauk-mind.json](./326600-sauk-mind.json) |
@@ -6617,6 +6619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinels Inc. | 279255 | [279255-sentinels-inc.json](./279255-sentinels-inc.json) |
 | Sentinels of Earth-Prime | 244019 | [244019-sentinels-of-earth-prime.json](./244019-sentinels-of-earth-prime.json) |
 | Sentinels of Earth-Prime: Magical Mysteries Mini-Pack | 273672 | [273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json](./273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json) |
+| Sentinels of the Multiverse 2 | 431303 | [431303-sentinels-of-the-multiverse-2.json](./431303-sentinels-of-the-multiverse-2.json) |
 | Sentinels of the Multiverse: Infernal Relics | 170411 | [170411-sentinels-of-the-multiverse-infernal-relics.json](./170411-sentinels-of-the-multiverse-infernal-relics.json) |
 | Sentinels of the Multiverse: Mini-Pack 1 | 170410 | [170410-sentinels-of-the-multiverse-mini-pack-1.json](./170410-sentinels-of-the-multiverse-mini-pack-1.json) |
 | Sentinels of the Multiverse: Mini-Pack 5 - Void Guard | 170413 | [170413-sentinels-of-the-multiverse-mini-pack-5-void-guard.json](./170413-sentinels-of-the-multiverse-mini-pack-5-void-guard.json) |
@@ -9558,6 +9561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shien Mogui | 313957 | [313957-shien-mogui.json](./313957-shien-mogui.json) |
 | Shien's Revenge | 20173 | [20173-shiens-revenge.json](./20173-shiens-revenge.json) |
 | Shienryu | 92074 | [92074-shienryu.json](./92074-shienryu.json) |
+| Shiesty | 431314 | [431314-shiesty.json](./431314-shiesty.json) |
 | Shieven | 330376 | [330376-shieven.json](./330376-shieven.json) |
 | Shift | 181920 | [181920-shift.json](./181920-shift.json) |
 | Shift | 228862 | [228862-shift.json](./228862-shift.json) |
@@ -13348,6 +13352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Single Ennead | 310976 | [310976-single-ennead.json](./310976-single-ennead.json) |
 | Single Espresso | 312743 | [312743-single-espresso.json](./312743-single-espresso.json) |
 | Single Feather | 220495 | [220495-single-feather.json](./220495-single-feather.json) |
+| Single File | 431287 | [431287-single-file.json](./431287-single-file.json) |
 | Single Forever | 347928 | [347928-single-forever.json](./347928-single-forever.json) |
 | Single Line | 225366 | [225366-single-line.json](./225366-single-line.json) |
 | Single Malt Apocalypse | 258336 | [258336-single-malt-apocalypse.json](./258336-single-malt-apocalypse.json) |
@@ -14267,6 +14272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Jumping PVP | 259082 | [259082-ski-jumping-pvp.json](./259082-ski-jumping-pvp.json) |
 | Ski Jumping World Cup | 374349 | [374349-ski-jumping-world-cup.json](./374349-ski-jumping-world-cup.json) |
 | Ski King 2024 | 420179 | [420179-ski-king-2024.json](./420179-ski-king-2024.json) |
+| Ski Lines: Trail Map | 431283 | [431283-ski-lines-trail-map.json](./431283-ski-lines-trail-map.json) |
 | Ski Maniacs | 377866 | [377866-ski-maniacs.json](./377866-ski-maniacs.json) |
 | Ski on Neon HD | 108599 | [108599-ski-on-neon-hd.json](./108599-ski-on-neon-hd.json) |
 | Ski or Die | 11675 | [11675-ski-or-die.json](./11675-ski-or-die.json) |
@@ -30143,6 +30149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay in the White Line: Level Version | 232051 | [232051-stay-in-the-white-line-level-version.json](./232051-stay-in-the-white-line-level-version.json) |
 | Stay in Your Lane | 414906 | [414906-stay-in-your-lane.json](./414906-stay-in-your-lane.json) |
 | Stay Lit, Find Radio | 151042 | [151042-stay-lit-find-radio.json](./151042-stay-lit-find-radio.json) |
+| Stay Live: Ghost Viewers | 431255 | [431255-stay-live-ghost-viewers.json](./431255-stay-live-ghost-viewers.json) |
 | Stay Mayor | 60756 | [60756-stay-mayor.json](./60756-stay-mayor.json) |
 | Stay on Board | 184556 | [184556-stay-on-board.json](./184556-stay-on-board.json) |
 | Stay on Line: Line Runner | 240926 | [240926-stay-on-line-line-runner.json](./240926-stay-on-line-line-runner.json) |
@@ -41744,6 +41751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony of the Night | 181156 | [181156-symphony-of-the-night.json](./181156-symphony-of-the-night.json) |
 | Symphony of the Origin | 39783 | [39783-symphony-of-the-origin.json](./39783-symphony-of-the-origin.json) |
 | Symphony of the Stars | 321464 | [321464-symphony-of-the-stars.json](./321464-symphony-of-the-stars.json) |
+| Symphony of War II: Dominion | 431264 | [431264-symphony-of-war-ii-dominion.json](./431264-symphony-of-war-ii-dominion.json) |
 | Symphony of War: Legends | 252370 | [252370-symphony-of-war-legends.json](./252370-symphony-of-war-legends.json) |
 | Symphony of War: The Nephilim Saga | 192840 | [192840-symphony-of-war-the-nephilim-saga.json](./192840-symphony-of-war-the-nephilim-saga.json) |
 | Symphony Worlds | 59808 | [59808-symphony-worlds.json](./59808-symphony-worlds.json) |
