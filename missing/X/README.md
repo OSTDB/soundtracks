@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenosaga Episode II: Jenseits von Gut und Böse | 1228 | [1228-xenosaga-episode-ii-jenseits-von-gut-und-bose.json](./1228-xenosaga-episode-ii-jenseits-von-gut-und-bose.json) |
 | Xenosaga Episode III: Also sprach Zarathustra | 1229 | [1229-xenosaga-episode-iii-also-sprach-zarathustra.json](./1229-xenosaga-episode-iii-also-sprach-zarathustra.json) |
 | Xenosaga Freaks | 25021 | [25021-xenosaga-freaks.json](./25021-xenosaga-freaks.json) |
+| Xenosaga I & II | 26805 | [26805-xenosaga-i-and-ii.json](./26805-xenosaga-i-and-ii.json) |
 | Xenosaga II to III: A Missing Year | 240497 | [240497-xenosaga-ii-to-iii-a-missing-year.json](./240497-xenosaga-ii-to-iii-a-missing-year.json) |
 | Xenosaga Pied Piper Recreation | 341010 | [341010-xenosaga-pied-piper-recreation.json](./341010-xenosaga-pied-piper-recreation.json) |
 | Xenosaga: Pied Piper | 127790 | [127790-xenosaga-pied-piper.json](./127790-xenosaga-pied-piper.json) |
@@ -981,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xmas Problem | 376515 | [376515-xmas-problem.json](./376515-xmas-problem.json) |
 | Xmas Puzzle | 62036 | [62036-xmas-puzzle.json](./62036-xmas-puzzle.json) |
 | Xmas Santa Mad Sleigh Run | 232082 | [232082-xmas-santa-mad-sleigh-run.json](./232082-xmas-santa-mad-sleigh-run.json) |
+| Xmas Shooting: Scramble!! | 26594 | [26594-xmas-shooting-scramble.json](./26594-xmas-shooting-scramble.json) |
 | Xmas Surprise | 393706 | [393706-xmas-surprise.json](./393706-xmas-surprise.json) |
 | Xmas Survivors | 382876 | [382876-xmas-survivors.json](./382876-xmas-survivors.json) |
 | XMas Toy Merge | 279982 | [279982-xmas-toy-merge.json](./279982-xmas-toy-merge.json) |
