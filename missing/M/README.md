@@ -20537,6 +20537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motian Chengwei Meimei | 403639 | [403639-motian-chengwei-meimei.json](./403639-motian-chengwei-meimei.json) |
 | Motif. | 103084 | [103084-motif.json](./103084-motif.json) |
 | Motion | 130173 | [130173-motion.json](./130173-motion.json) |
+| Motion Archery | 431397 | [431397-motion-archery.json](./431397-motion-archery.json) |
 | Motion Explosion! | 20224 | [20224-motion-explosion.json](./20224-motion-explosion.json) |
 | Motion Gravure Series: Kitagawa Tomomi | 73932 | [73932-motion-gravure-series-kitagawa-tomomi.json](./73932-motion-gravure-series-kitagawa-tomomi.json) |
 | Motion Gravure Series: Mori Hiroko | 71487 | [71487-motion-gravure-series-mori-hiroko.json](./71487-motion-gravure-series-mori-hiroko.json) |
