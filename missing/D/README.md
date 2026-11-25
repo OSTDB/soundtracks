@@ -276,7 +276,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daddy Was A Thief | 103150 | [103150-daddy-was-a-thief.json](./103150-daddy-was-a-thief.json) |
 | Daddy's Christmas | 383411 | [383411-daddys-christmas.json](./383411-daddys-christmas.json) |
 | Daddy's gone a-hunting | 76517 | [76517-daddys-gone-a-hunting.json](./76517-daddys-gone-a-hunting.json) |
-| Daddy's Little Helper | 91084 | [91084-daddys-little-helper.json](./91084-daddys-little-helper.json) |
 | Daddy's Long Milk Run | 340719 | [340719-daddys-long-milk-run.json](./340719-daddys-long-milk-run.json) |
 | Daddy's Messy Day - Help Daddy While Mommy's away | 97052 | [97052-daddys-messy-day-help-daddy-while-mommys-away.json](./97052-daddys-messy-day-help-daddy-while-mommys-away.json) |
 | DaDee | 425123 | [425123-dadee.json](./425123-dadee.json) |
@@ -2014,7 +2013,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: Requiem for the Forgotten Shadow | 139792 | [139792-dark-parables-requiem-for-the-forgotten-shadow.json](./139792-dark-parables-requiem-for-the-forgotten-shadow.json) |
 | Dark Parables: Requiem for the Forgotten Shadow - Collector's Edition | 29341 | [29341-dark-parables-requiem-for-the-forgotten-shadow-collectors-edition.json](./29341-dark-parables-requiem-for-the-forgotten-shadow-collectors-edition.json) |
 | Dark Parables: Return of the Salt Princess | 123634 | [123634-dark-parables-return-of-the-salt-princess.json](./123634-dark-parables-return-of-the-salt-princess.json) |
-| Dark Parables: Return of the Salt Princess - Collector's Edition | 93792 | [93792-dark-parables-return-of-the-salt-princess-collectors-edition.json](./93792-dark-parables-return-of-the-salt-princess-collectors-edition.json) |
 | Dark Parables: Rise of the Snow Queen | 139793 | [139793-dark-parables-rise-of-the-snow-queen.json](./139793-dark-parables-rise-of-the-snow-queen.json) |
 | Dark Parables: Rise of the Snow Queen - Collector's Edition | 32380 | [32380-dark-parables-rise-of-the-snow-queen-collectors-edition.json](./32380-dark-parables-rise-of-the-snow-queen-collectors-edition.json) |
 | Dark Parables: The Exiled Prince | 27027 | [27027-dark-parables-the-exiled-prince.json](./27027-dark-parables-the-exiled-prince.json) |
@@ -4707,7 +4705,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadfall Tropics | 99644 | [99644-deadfall-tropics.json](./99644-deadfall-tropics.json) |
 | DeadFright | 154429 | [154429-deadfright.json](./154429-deadfright.json) |
 | Deadful Leningrad: Developer Life Simulator | 422026 | [422026-deadful-leningrad-developer-life-simulator.json](./422026-deadful-leningrad-developer-life-simulator.json) |
-| DeadGround:Arena | 93805 | [93805-deadground-arena.json](./93805-deadground-arena.json) |
 | Deadhand Theater | 399381 | [399381-deadhand-theater.json](./399381-deadhand-theater.json) |
 | Deadhaus Sonata | 111333 | [111333-deadhaus-sonata.json](./111333-deadhaus-sonata.json) |
 | Deadhead Angel! | 406389 | [406389-deadhead-angel.json](./406389-deadhead-angel.json) |
@@ -6397,7 +6394,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepest Valley | 395832 | [395832-deepest-valley.json](./395832-deepest-valley.json) |
 | Deepest Well | 357713 | [357713-deepest-well.json](./357713-deepest-well.json) |
 | Deepest World | 302050 | [302050-deepest-world.json](./302050-deepest-world.json) |
-| DeepFear | 90991 | [90991-deepfear.json](./90991-deepfear.json) |
 | Deepfield | 211202 | [211202-deepfield.json](./211202-deepfield.json) |
 | Deepfried in Deepspace | 373541 | [373541-deepfried-in-deepspace.json](./373541-deepfried-in-deepspace.json) |
 | DeepFriedCraft, the Worst Modpack Ever | 205066 | [205066-deepfriedcraft-the-worst-modpack-ever.json](./205066-deepfriedcraft-the-worst-modpack-ever.json) |
@@ -7217,6 +7213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Chapter Rewritten - Scampton The Great | 243746 | [243746-deltarune-chapter-rewritten-scampton-the-great.json](./243746-deltarune-chapter-rewritten-scampton-the-great.json) |
 | Deltarune: Friend Inside Me | 345183 | [345183-deltarune-friend-inside-me.json](./345183-deltarune-friend-inside-me.json) |
 | Deltarune: Frozen Heart | 308059 | [308059-deltarune-frozen-heart.json](./308059-deltarune-frozen-heart.json) |
+| Deltarune: Here Come the Cats | 428968 | [428968-deltarune-here-come-the-cats.json](./428968-deltarune-here-come-the-cats.json) |
 | Deltarune: Hummer Jevil | 352215 | [352215-deltarune-hummer-jevil.json](./352215-deltarune-hummer-jevil.json) |
 | Deltarune: Hypothesis | 329606 | [329606-deltarune-hypothesis.json](./329606-deltarune-hypothesis.json) |
 | Deltarune: Internal Demons | 330253 | [330253-deltarune-internal-demons.json](./330253-deltarune-internal-demons.json) |
@@ -7270,7 +7267,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deluxe Ski Jump 3 | 56910 | [56910-deluxe-ski-jump-3.json](./56910-deluxe-ski-jump-3.json) |
 | Deluxe Ski Jump 4 | 7500 | [7500-deluxe-ski-jump-4.json](./7500-deluxe-ski-jump-4.json) |
 | Deluxe Space Invaders | 64077 | [64077-deluxe-space-invaders.json](./64077-deluxe-space-invaders.json) |
-| Deluxe Spider Solitaire | 93689 | [93689-deluxe-spider-solitaire.json](./93689-deluxe-spider-solitaire.json) |
 | Deluxe Sudoku | 88575 | [88575-deluxe-sudoku.json](./88575-deluxe-sudoku.json) |
 | Deluxe Track&Field | 90506 | [90506-deluxe-track-and-field.json](./90506-deluxe-track-and-field.json) |
 | Deluxe Trivial Pursuit | 265974 | [265974-deluxe-trivial-pursuit.json](./265974-deluxe-trivial-pursuit.json) |
@@ -7949,7 +7945,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dentist Jams 2000 | 422409 | [422409-dentist-jams-2000.json](./422409-dentist-jams-2000.json) |
 | Dentist kids Hospital Simulation Teeth Surgery | 101950 | [101950-dentist-kids-hospital-simulation-teeth-surgery.json](./101950-dentist-kids-hospital-simulation-teeth-surgery.json) |
 | Dentist Office Creepers | 88101 | [88101-dentist-office-creepers.json](./88101-dentist-office-creepers.json) |
-| Dentist Surgery Game | 93870 | [93870-dentist-surgery-game.json](./93870-dentist-surgery-game.json) |
 | Dentures and Demons | 137722 | [137722-dentures-and-demons.json](./137722-dentures-and-demons.json) |
 | Dentures and Demons 2 | 145008 | [145008-dentures-and-demons-2.json](./145008-dentures-and-demons-2.json) |
 | Deo | 288087 | [288087-deo.json](./288087-deo.json) |
@@ -9133,7 +9128,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Quest: The Crystal Slipper - Collector's Edition | 418434 | [418434-detective-quest-the-crystal-slipper-collectors-edition.json](./418434-detective-quest-the-crystal-slipper-collectors-edition.json) |
 | Detective R & Prophet J | 402369 | [402369-detective-r-and-prophet-j.json](./402369-detective-r-and-prophet-j.json) |
 | Detective Reborn Bundle | 254705 | [254705-detective-reborn-bundle.json](./254705-detective-reborn-bundle.json) |
-| Detective Riddles: Sherlock's Heritage | 91096 | [91096-detective-riddles-sherlocks-heritage.json](./91096-detective-riddles-sherlocks-heritage.json) |
 | Detective Riddles: Sherlock's Heritage 2 | 100347 | [100347-detective-riddles-sherlocks-heritage-2.json](./100347-detective-riddles-sherlocks-heritage-2.json) |
 | Detective Ridelle | 235406 | [235406-detective-ridelle.json](./235406-detective-ridelle.json) |
 | Detective Ridley and the Mysterious Enigma | 239465 | [239465-detective-ridley-and-the-mysterious-enigma.json](./239465-detective-ridley-and-the-mysterious-enigma.json) |
@@ -10856,6 +10850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digitwars - The Grigits | 101766 | [101766-digitwars-the-grigits.json](./101766-digitwars-the-grigits.json) |
 | Digivice Ver. Portable | 371832 | [371832-digivice-ver-portable.json](./371832-digivice-ver-portable.json) |
 | Dignacia | 253454 | [253454-dignacia.json](./253454-dignacia.json) |
+| Digopolis | 428062 | [428062-digopolis.json](./428062-digopolis.json) |
 | DigRun | 197777 | [197777-digrun.json](./197777-digrun.json) |
 | Digs | 236753 | [236753-digs.json](./236753-digs.json) |
 | Digs Mini Icy | 243584 | [243584-digs-mini-icy.json](./243584-digs-mini-icy.json) |
@@ -13162,6 +13157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DKC New Competition Cartridge | 219079 | [219079-dkc-new-competition-cartridge.json](./219079-dkc-new-competition-cartridge.json) |
 | DKC X Mario | 309141 | [309141-dkc-x-mario.json](./309141-dkc-x-mario.json) |
 | DKC1Recomp | 419011 | [419011-dkc1recomp.json](./419011-dkc1recomp.json) |
+| DKC2Recomp | 416496 | [416496-dkc2recomp.json](./416496-dkc2recomp.json) |
 | DKC3Recomp | 419012 | [419012-dkc3recomp.json](./419012-dkc3recomp.json) |
 | DKDC: Donkey Kong Distortion Country | 162830 | [162830-dkdc-donkey-kong-distortion-country.json](./162830-dkdc-donkey-kong-distortion-country.json) |
 | Dkls | 173276 | [173276-dkls.json](./173276-dkls.json) |
@@ -14448,7 +14444,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Be Scared Of The Factory | 359637 | [359637-dont-be-scared-of-the-factory.json](./359637-dont-be-scared-of-the-factory.json) |
 | Don't Be Squared | 57458 | [57458-dont-be-squared.json](./57458-dont-be-squared.json) |
 | Don't Beg for Help | 245774 | [245774-dont-beg-for-help.json](./245774-dont-beg-for-help.json) |
-| Don't Bite Me Bro! | 95161 | [95161-dont-bite-me-bro.json](./95161-dont-bite-me-bro.json) |
 | Don't Blame You | 229809 | [229809-dont-blame-you.json](./229809-dont-blame-you.json) |
 | Don't Bleed | 76949 | [76949-dont-bleed.json](./76949-dont-bleed.json) |
 | Don't Blink | 155980 | [155980-dont-blink.json](./155980-dont-blink.json) |
@@ -15108,7 +15103,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DonutRun | 188137 | [188137-donutrun.json](./188137-donutrun.json) |
 | Donuts | 263019 | [263019-donuts.json](./263019-donuts.json) |
 | Donuts 'N' Justice | 25932 | [25932-donuts-n-justice.json](./25932-donuts-n-justice.json) |
-| Donuts Drift | 91087 | [91087-donuts-drift.json](./91087-donuts-drift.json) |
 | Donuts for Deer Teeth | 343027 | [343027-donuts-for-deer-teeth.json](./343027-donuts-for-deer-teeth.json) |
 | Donuts in Space | 254060 | [254060-donuts-in-space.json](./254060-donuts-in-space.json) |
 | Donuts Runner | 251839 | [251839-donuts-runner.json](./251839-donuts-runner.json) |
@@ -15242,7 +15236,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Wars Heroes | 174181 | [174181-doodle-wars-heroes.json](./174181-doodle-wars-heroes.json) |
 | Doodle What?! | 32153 | [32153-doodle-what.json](./32153-doodle-what.json) |
 | Doodle Wipeout | 390195 | [390195-doodle-wipeout.json](./390195-doodle-wipeout.json) |
-| Doodle Words | 90879 | [90879-doodle-words.json](./90879-doodle-words.json) |
 | Doodle World | 142429 | [142429-doodle-world.json](./142429-doodle-world.json) |
 | Doodle World: Deluxe | 235577 | [235577-doodle-world-deluxe.json](./235577-doodle-world-deluxe.json) |
 | Doodle World: Redrawn | 261150 | [261150-doodle-world-redrawn.json](./261150-doodle-world-redrawn.json) |
@@ -15458,7 +15451,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed Crew | 378113 | [378113-doomed-crew.json](./378113-doomed-crew.json) |
 | Doomed Detective Game | 336542 | [336542-doomed-detective-game.json](./336542-doomed-detective-game.json) |
 | Doomed Dwarves | 387633 | [387633-doomed-dwarves.json](./387633-doomed-dwarves.json) |
-| Doomed Freedom | 91111 | [91111-doomed-freedom.json](./91111-doomed-freedom.json) |
 | Doomed Hell 64 | 332386 | [332386-doomed-hell-64.json](./332386-doomed-hell-64.json) |
 | Doomed Heretic | 104599 | [104599-doomed-heretic.json](./104599-doomed-heretic.json) |
 | Doomed Inheritance | 361963 | [361963-doomed-inheritance.json](./361963-doomed-inheritance.json) |
@@ -16145,7 +16137,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Jump Ringo Run Action Ranking | 362806 | [362806-double-jump-ringo-run-action-ranking.json](./362806-double-jump-ringo-run-action-ranking.json) |
 | Double K Games Store | 411667 | [411667-double-k-games-store.json](./411667-double-k-games-store.json) |
 | Double Kick Heroes | 29511 | [29511-double-kick-heroes.json](./29511-double-kick-heroes.json) |
-| Double Klondike | 91112 | [91112-double-klondike.json](./91112-double-klondike.json) |
 | Double Knight | 406495 | [406495-double-knight.json](./406495-double-knight.json) |
 | Double Knoxels | 363990 | [363990-double-knoxels.json](./363990-double-knoxels.json) |
 | Double Line | 141854 | [141854-double-line.json](./141854-double-line.json) |
