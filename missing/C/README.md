@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C&T | 197267 | [197267-c-and-t.json](./197267-c-and-t.json) |
 | C0d3 | 57803 | [57803-c0d3.json](./57803-c0d3.json) |
 | C1 Circuit | 143653 | [143653-c1-circuit.json](./143653-c1-circuit.json) |
+| C14 Dating | 33280 | [33280-c14-dating.json](./33280-c14-dating.json) |
 | C15: Horror | 121001 | [121001-c15-horror.json](./121001-c15-horror.json) |
 | C17 | 253346 | [253346-c17.json](./253346-c17.json) |
 | C21 Steel Battle Chronicles | 288406 | [288406-c21-steel-battle-chronicles.json](./288406-c21-steel-battle-chronicles.json) |
@@ -559,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calcium Chaos | 199353 | [199353-calcium-chaos.json](./199353-calcium-chaos.json) |
 | Calcium Contract | 251814 | [251814-calcium-contract.json](./251814-calcium-contract.json) |
 | Calcolo!: Ochimo no Shooting | 146763 | [146763-calcolo-ochimo-no-shooting.json](./146763-calcolo-ochimo-no-shooting.json) |
+| Calcu-Late | 33331 | [33331-calcu-late.json](./33331-calcu-late.json) |
 | Calcul8^2 | 113224 | [113224-calcul8-2.json](./113224-calcul8-2.json) |
 | Calculate It | 317375 | [317375-calculate-it.json](./317375-calculate-it.json) |
 | Calculate It! | 149767 | [149767-calculate-it.json](./149767-calculate-it.json) |
@@ -5118,6 +5120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch a Coke | 367887 | [367887-catch-a-coke.json](./367887-catch-a-coke.json) |
 | Catch A Dot | 57429 | [57429-catch-a-dot.json](./57429-catch-a-dot.json) |
 | Catch a Duck | 119881 | [119881-catch-a-duck.json](./119881-catch-a-duck.json) |
+| Catch a Falling Star | 33285 | [33285-catch-a-falling-star.json](./33285-catch-a-falling-star.json) |
 | Catch a Lover | 29543 | [29543-catch-a-lover.json](./29543-catch-a-lover.json) |
 | Catch Beshi!! Scooping Game | 322666 | [322666-catch-beshi-scooping-game.json](./322666-catch-beshi-scooping-game.json) |
 | Catch Bus | 232033 | [232033-catch-bus.json](./232033-catch-bus.json) |
@@ -16492,6 +16495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contre Jour HD | 101959 | [101959-contre-jour-hd.json](./101959-contre-jour-hd.json) |
 | Contrition | 179748 | [179748-contrition.json](./179748-contrition.json) |
 | Contrition | 393001 | [393001-contrition.json](./393001-contrition.json) |
+| Control Craft 2 | 33560 | [33560-control-craft-2.json](./33560-control-craft-2.json) |
 | Control Craft 3 | 32849 | [32849-control-craft-3.json](./32849-control-craft-3.json) |
 | Control Freak | 111233 | [111233-control-freak.json](./111233-control-freak.json) |
 | Control Freak | 323799 | [323799-control-freak.json](./323799-control-freak.json) |
@@ -18111,6 +18115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Stroke: Grand Building | 212146 | [212146-counter-stroke-grand-building.json](./212146-counter-stroke-grand-building.json) |
 | Counter-Terrorism Ops | 174025 | [174025-counter-terrorism-ops.json](./174025-counter-terrorism-ops.json) |
 | Counterattack | 256877 | [256877-counterattack.json](./256877-counterattack.json) |
+| CounterAttack | 33278 | [33278-counterattack.json](./33278-counterattack.json) |
 | CounterAttack: Uprising | 268324 | [268324-counterattack-uprising.json](./268324-counterattack-uprising.json) |
 | CounterBlocks | 170828 | [170828-counterblocks.json](./170828-counterblocks.json) |
 | Counterclocking | 245849 | [245849-counterclocking.json](./245849-counterclocking.json) |
@@ -22261,6 +22266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Kingdoms | 258967 | [258967-cube-kingdoms.json](./258967-cube-kingdoms.json) |
 | Cube Lab | 339086 | [339086-cube-lab.json](./339086-cube-lab.json) |
 | Cube Land | 422773 | [422773-cube-land.json](./422773-cube-land.json) |
+| Cube Land Arena | 33288 | [33288-cube-land-arena.json](./33288-cube-land-arena.json) |
 | Cube Lands: The Final Wish | 294321 | [294321-cube-lands-the-final-wish.json](./294321-cube-lands-the-final-wish.json) |
 | Cube Life: Island Survival | 60151 | [60151-cube-life-island-survival.json](./60151-cube-life-island-survival.json) |
 | Cube Life: Island Survival 2018 | 96067 | [96067-cube-life-island-survival-2018.json](./96067-cube-life-island-survival-2018.json) |
@@ -22508,6 +22514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubicle Simulator | 185296 | [185296-cubicle-simulator.json](./185296-cubicle-simulator.json) |
 | Cubico | 120787 | [120787-cubico.json](./120787-cubico.json) |
 | Cubicolor | 282717 | [282717-cubicolor.json](./282717-cubicolor.json) |
+| Cubicolor | 33430 | [33430-cubicolor.json](./33430-cubicolor.json) |
 | Cubicorner | 84096 | [84096-cubicorner.json](./84096-cubicorner.json) |
 | CubicPanic | 98980 | [98980-cubicpanic.json](./98980-cubicpanic.json) |
 | CubicTourPlus. | 219936 | [219936-cubictourplus.json](./219936-cubictourplus.json) |
@@ -22556,6 +22563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubiti Parti | 202749 | [202749-cubiti-parti.json](./202749-cubiti-parti.json) |
 | Cubito Mayhem | 101715 | [101715-cubito-mayhem.json](./101715-cubito-mayhem.json) |
 | Cubitrix | 277257 | [277257-cubitrix.json](./277257-cubitrix.json) |
+| Cubium Dreams | 33381 | [33381-cubium-dreams.json](./33381-cubium-dreams.json) |
 | Cubiverse | 108774 | [108774-cubiverse.json](./108774-cubiverse.json) |
 | Cubivore: Survival of the Fittest | 3865 | [3865-cubivore-survival-of-the-fittest.json](./3865-cubivore-survival-of-the-fittest.json) |
 | Cubix | 420185 | [420185-cubix.json](./420185-cubix.json) |
