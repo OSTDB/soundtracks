@@ -3021,7 +3021,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperialism | 14435 | [14435-imperialism.json](./14435-imperialism.json) |
 | Imperialism II: Age of Exploration | 22828 | [22828-imperialism-ii-age-of-exploration.json](./22828-imperialism-ii-age-of-exploration.json) |
 | Imperialism: Concert of Europe | 287229 | [287229-imperialism-concert-of-europe.json](./287229-imperialism-concert-of-europe.json) |
-| Imperialism: The Dark Continent | 97113 | [97113-imperialism-the-dark-continent.json](./97113-imperialism-the-dark-continent.json) |
 | Imperialism:The Dark Continent | 105521 | [105521-imperialism-the-dark-continent.json](./105521-imperialism-the-dark-continent.json) |
 | Imperialist | 400247 | [400247-imperialist.json](./400247-imperialist.json) |
 | Imperializer | 377503 | [377503-imperializer.json](./377503-imperializer.json) |
@@ -3087,7 +3086,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossiball | 26641 | [26641-impossiball.json](./26641-impossiball.json) |
 | Impossiball: Gamers Challenge | 129921 | [129921-impossiball-gamers-challenge.json](./129921-impossiball-gamers-challenge.json) |
 | Impossible | 272198 | [272198-impossible.json](./272198-impossible.json) |
-| Impossible Bottle Flip | 95312 | [95312-impossible-bottle-flip.json](./95312-impossible-bottle-flip.json) |
 | Impossible Bottles | 105407 | [105407-impossible-bottles.json](./105407-impossible-bottles.json) |
 | Impossible Bunny Challenge | 272763 | [272763-impossible-bunny-challenge.json](./272763-impossible-bunny-challenge.json) |
 | Impossible Bus Mega Ramp | 104762 | [104762-impossible-bus-mega-ramp.json](./104762-impossible-bus-mega-ramp.json) |
@@ -4801,7 +4799,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inhuman | 350421 | [350421-inhuman.json](./350421-inhuman.json) |
 | Inhuman Resources: A Literary Machination | 333863 | [333863-inhuman-resources-a-literary-machination.json](./333863-inhuman-resources-a-literary-machination.json) |
 | Inhumane | 60180 | [60180-inhumane.json](./60180-inhumane.json) |
-| Inhumanus | 96689 | [96689-inhumanus.json](./96689-inhumanus.json) |
 | Ini | 197638 | [197638-ini.json](./197638-ini.json) |
 | Inigo Gets Out | 313923 | [313923-inigo-gets-out.json](./313923-inigo-gets-out.json) |
 | Inindo: Way of the Ninja | 47498 | [47498-inindo-way-of-the-ninja.json](./47498-inindo-way-of-the-ninja.json) |
