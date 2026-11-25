@@ -7907,7 +7907,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fission | 164917 | [164917-fission.json](./164917-fission.json) |
 | Fission | 293548 | [293548-fission.json](./293548-fission.json) |
 | Fission | 381021 | [381021-fission.json](./381021-fission.json) |
-| Fission Superstar X | 90312 | [90312-fission-superstar-x.json](./90312-fission-superstar-x.json) |
 | Fissure | 201624 | [201624-fissure.json](./201624-fissure.json) |
 | Fissure | 361809 | [361809-fissure.json](./361809-fissure.json) |
 | Fissure: Cubic | 297078 | [297078-fissure-cubic.json](./297078-fissure-cubic.json) |
