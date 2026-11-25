@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabre Wulf | 6582 | [6582-sabre-wulf.json](./6582-sabre-wulf.json) |
 | Sabre Wulf Remastered | 410196 | [410196-sabre-wulf-remastered.json](./410196-sabre-wulf-remastered.json) |
 | Sabreman Stampede | 175948 | [175948-sabreman-stampede.json](./175948-sabreman-stampede.json) |
+| Sabres of Infinity | 33439 | [33439-sabres-of-infinity.json](./33439-sabres-of-infinity.json) |
 | Sabreurs - A Noble Duel | 107450 | [107450-sabreurs-a-noble-duel.json](./107450-sabreurs-a-noble-duel.json) |
 | Sabrewing 2 | 208725 | [208725-sabrewing-2.json](./208725-sabrewing-2.json) |
 | Sabrina | 71818 | [71818-sabrina.json](./71818-sabrina.json) |
@@ -1450,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sammy the Sperm | 326146 | [326146-sammy-the-sperm.json](./326146-sammy-the-sperm.json) |
 | Sammy's Science House | 67105 | [67105-sammys-science-house.json](./67105-sammys-science-house.json) |
 | Samochodowy Wojownik | 150529 | [150529-samochodowy-wojownik.json](./150529-samochodowy-wojownik.json) |
+| Samoliotik | 33317 | [33317-samoliotik.json](./33317-samoliotik.json) |
 | Samoliotik: Deluxe Edition | 53575 | [53575-samoliotik-deluxe-edition.json](./53575-samoliotik-deluxe-edition.json) |
 | Samopal Protocol | 424101 | [424101-samopal-protocol.json](./424101-samopal-protocol.json) |
 | SamoQ - Quiz Hyoryu Kyoushitsu | 98063 | [98063-samoq-quiz-hyoryu-kyoushitsu.json](./98063-samoq-quiz-hyoryu-kyoushitsu.json) |
@@ -1505,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai & Dragons | 64544 | [64544-samurai-and-dragons.json](./64544-samurai-and-dragons.json) |
 | Samurai Academy: Paws of Fury | 366773 | [366773-samurai-academy-paws-of-fury.json](./366773-samurai-academy-paws-of-fury.json) |
 | Samurai Aces | 210802 | [210802-samurai-aces.json](./210802-samurai-aces.json) |
+| Samurai Aces | 39844 | [39844-samurai-aces.json](./39844-samurai-aces.json) |
 | Samurai Aces III: Sengoku Cannon | 135721 | [135721-samurai-aces-iii-sengoku-cannon.json](./135721-samurai-aces-iii-sengoku-cannon.json) |
 | Samurai Aces III: Sengoku Cannon for Nintendo Switch | 212633 | [212633-samurai-aces-iii-sengoku-cannon-for-nintendo-switch.json](./212633-samurai-aces-iii-sengoku-cannon-for-nintendo-switch.json) |
 | Samurai Arena | 385924 | [385924-samurai-arena.json](./385924-samurai-arena.json) |
@@ -39913,6 +39916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Z | 149219 | [149219-survival-z.json](./149219-survival-z.json) |
 | Survival Z The Alpha | 292304 | [292304-survival-z-the-alpha.json](./292304-survival-z-the-alpha.json) |
 | Survival Zombie | 344300 | [344300-survival-zombie.json](./344300-survival-zombie.json) |
+| Survival Zombies: The Inverted Evolution | 33575 | [33575-survival-zombies-the-inverted-evolution.json](./33575-survival-zombies-the-inverted-evolution.json) |
 | Survival Zone | 171881 | [171881-survival-zone.json](./171881-survival-zone.json) |
 | Survival Zone: Craft, Build & Grow | 336395 | [336395-survival-zone-craft-build-and-grow.json](./336395-survival-zone-craft-build-and-grow.json) |
 | Survival: Caged | 373455 | [373455-survival-caged.json](./373455-survival-caged.json) |
@@ -41170,6 +41174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchboard Copper | 184293 | [184293-switchboard-copper.json](./184293-switchboard-copper.json) |
 | Switchboard Heights | 145917 | [145917-switchboard-heights.json](./145917-switchboard-heights.json) |
 | Switchboard Shuffle | 407018 | [407018-switchboard-shuffle.json](./407018-switchboard-shuffle.json) |
+| Switchcars | 33541 | [33541-switchcars.json](./33541-switchcars.json) |
 | Switchcraft | 191802 | [191802-switchcraft.json](./191802-switchcraft.json) |
 | Switchcraft: Magical Match 3 | 219829 | [219829-switchcraft-magical-match-3.json](./219829-switchcraft-magical-match-3.json) |
 | Switched Destiny | 333879 | [333879-switched-destiny.json](./333879-switched-destiny.json) |
