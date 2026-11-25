@@ -2791,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Tiller's Campaign Series | 129544 | [129544-john-tillers-campaign-series.json](./129544-john-tillers-campaign-series.json) |
 | John Wheel Memorial | 269568 | [269568-john-wheel-memorial.json](./269568-john-wheel-memorial.json) |
 | John Wick | 143750 | [143750-john-wick.json](./143750-john-wick.json) |
+| John Wick Chronicles | 27096 | [27096-john-wick-chronicles.json](./27096-john-wick-chronicles.json) |
 | John Wick Hex | 118219 | [118219-john-wick-hex.json](./118219-john-wick-hex.json) |
 | John Wick: Continental Pursuit | 412080 | [412080-john-wick-continental-pursuit.json](./412080-john-wick-continental-pursuit.json) |
 | John: Car Transporter Truck 3D | 28156 | [28156-john-car-transporter-truck-3d.json](./28156-john-car-transporter-truck-3d.json) |
