@@ -5387,7 +5387,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Tower for Tireless Lovers | 189256 | [189256-epic-tower-for-tireless-lovers.json](./189256-epic-tower-for-tireless-lovers.json) |
 | Epic Trains 4 | 260256 | [260256-epic-trains-4.json](./260256-epic-trains-4.json) |
 | Epic Transport | 379913 | [379913-epic-transport.json](./379913-epic-transport.json) |
-| Epic Truck | 89796 | [89796-epic-truck.json](./89796-epic-truck.json) |
 | Epic Vampire | 307721 | [307721-epic-vampire.json](./307721-epic-vampire.json) |
 | Epic Walk | 324881 | [324881-epic-walk.json](./324881-epic-walk.json) |
 | Epic War 1 | 86057 | [86057-epic-war-1.json](./86057-epic-war-1.json) |
@@ -5653,7 +5652,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eredan Arena | 145870 | [145870-eredan-arena.json](./145870-eredan-arena.json) |
 | Eredan iTCG | 76909 | [76909-eredan-itcg.json](./76909-eredan-itcg.json) |
 | Eredia 2: The Great War | 266437 | [266437-eredia-2-the-great-war.json](./266437-eredia-2-the-great-war.json) |
-| Eredia: The Diary of Heroes | 90718 | [90718-eredia-the-diary-of-heroes.json](./90718-eredia-the-diary-of-heroes.json) |
 | Erefia | 44212 | [44212-erefia.json](./44212-erefia.json) |
 | Erementar Gerad: Matoe, Suifu no Ken | 73018 | [73018-erementar-gerad-matoe-suifu-no-ken.json](./73018-erementar-gerad-matoe-suifu-no-ken.json) |
 | Eremidia: Archivist's Curse | 208588 | [208588-eremidia-archivists-curse.json](./208588-eremidia-archivists-curse.json) |
@@ -6544,7 +6542,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Marine Lab | 406693 | [406693-escape-the-marine-lab.json](./406693-escape-the-marine-lab.json) |
 | Escape the Maze | 366117 | [366117-escape-the-maze.json](./366117-escape-the-maze.json) |
 | Escape the Maze | 371195 | [371195-escape-the-maze.json](./371195-escape-the-maze.json) |
-| Escape the Mazes | 90483 | [90483-escape-the-mazes.json](./90483-escape-the-mazes.json) |
 | Escape the MonStalkers! | 343042 | [343042-escape-the-monstalkers.json](./343042-escape-the-monstalkers.json) |
 | Escape the Museum 2 | 143483 | [143483-escape-the-museum-2.json](./143483-escape-the-museum-2.json) |
 | Escape the Ninja Room | 127429 | [127429-escape-the-ninja-room.json](./127429-escape-the-ninja-room.json) |
