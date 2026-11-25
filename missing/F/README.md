@@ -8279,6 +8279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Stalin | 240674 | [240674-five-nights-at-stalin.json](./240674-five-nights-at-stalin.json) |
 | Five Nights at Starry | 256687 | [256687-five-nights-at-starry.json](./256687-five-nights-at-starry.json) |
 | Five Nights at Stickman | 359074 | [359074-five-nights-at-stickman.json](./359074-five-nights-at-stickman.json) |
+| Five Nights At Stickman | 89037 | [89037-five-nights-at-stickman.json](./89037-five-nights-at-stickman.json) |
 | Five Nights at the Chum Bucket | 359212 | [359212-five-nights-at-the-chum-bucket.json](./359212-five-nights-at-the-chum-bucket.json) |
 | Five Nights at Tinky's | 236046 | [236046-five-nights-at-tinkys.json](./236046-five-nights-at-tinkys.json) |
 | Five Nights at Treasure Island | 238431 | [238431-five-nights-at-treasure-island.json](./238431-five-nights-at-treasure-island.json) |
