@@ -3071,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Forces: Navy SEALs | 84183 | [84183-elite-forces-navy-seals.json](./84183-elite-forces-navy-seals.json) |
 | Elite Forces: Navy SEALs - Weapons of Mass Destruction | 72523 | [72523-elite-forces-navy-seals-weapons-of-mass-destruction.json](./72523-elite-forces-navy-seals-weapons-of-mass-destruction.json) |
 | Elite Forces: Unit 77 | 21291 | [21291-elite-forces-unit-77.json](./21291-elite-forces-unit-77.json) |
+| Elite Forces: WWII - Desert Rats | 23470 | [23470-elite-forces-wwii-desert-rats.json](./23470-elite-forces-wwii-desert-rats.json) |
 | Elite Forces: WWII - Iwo Jima | 25285 | [25285-elite-forces-wwii-iwo-jima.json](./25285-elite-forces-wwii-iwo-jima.json) |
 | Elite Forces: WWII Normandy | 71273 | [71273-elite-forces-wwii-normandy.json](./71273-elite-forces-wwii-normandy.json) |
 | Elite Hacker: Retro Hacking Evolution | 316569 | [316569-elite-hacker-retro-hacking-evolution.json](./316569-elite-hacker-retro-hacking-evolution.json) |
@@ -5144,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enzbots | 123353 | [123353-enzbots.json](./123353-enzbots.json) |
 | Enzio-Ware | 336833 | [336833-enzio-ware.json](./336833-enzio-ware.json) |
 | Eo | 211661 | [211661-eo.json](./211661-eo.json) |
+| EOE: Eve of Extinction | 23454 | [23454-eoe-eve-of-extinction.json](./23454-eoe-eve-of-extinction.json) |
 | EOEOnline | 303515 | [303515-eoeonline.json](./303515-eoeonline.json) |
 | Eojjeonji Joeun Iri Saenggil Geot Gateun Jeonyeok | 213055 | [213055-eojjeonji-joeun-iri-saenggil-geot-gateun-jeonyeok.json](./213055-eojjeonji-joeun-iri-saenggil-geot-gateun-jeonyeok.json) |
 | Eol-ui Moheom | 363981 | [363981-eol-ui-moheom.json](./363981-eol-ui-moheom.json) |
@@ -5475,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epoch | 339758 | [339758-epoch.json](./339758-epoch.json) |
 | Epoch | 369120 | [369120-epoch.json](./369120-epoch.json) |
 | Epoch | 376618 | [376618-epoch.json](./376618-epoch.json) |
+| Epoch 2 | 23485 | [23485-epoch-2.json](./23485-epoch-2.json) |
 | Epoch Cycle | 374134 | [374134-epoch-cycle.json](./374134-epoch-cycle.json) |
 | Epoch Makers | 339760 | [339760-epoch-makers.json](./339760-epoch-makers.json) |
 | Epoch of Guardians | 339759 | [339759-epoch-of-guardians.json](./339759-epoch-of-guardians.json) |
@@ -6857,6 +6860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN NFL 2K5 | 7881 | [7881-espn-nfl-2k5.json](./7881-espn-nfl-2k5.json) |
 | ESPN NFL Football | 8847 | [8847-espn-nfl-football.json](./8847-espn-nfl-football.json) |
 | ESPN NFL Football 2K4 | 47349 | [47349-espn-nfl-football-2k4.json](./47349-espn-nfl-football-2k4.json) |
+| ESPN NFL PrimeTime 2002 | 23447 | [23447-espn-nfl-primetime-2002.json](./23447-espn-nfl-primetime-2002.json) |
 | ESPN NHL 2K5 | 5826 | [5826-espn-nhl-2k5.json](./5826-espn-nhl-2k5.json) |
 | ESPN NHL Hockey | 8841 | [8841-espn-nhl-hockey.json](./8841-espn-nhl-hockey.json) |
 | ESPN Speed World | 46217 | [46217-espn-speed-world.json](./46217-espn-speed-world.json) |
