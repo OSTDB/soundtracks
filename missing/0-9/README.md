@@ -345,11 +345,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 AM Moscow Time | 304848 | [304848-1-am-moscow-time.json](./304848-1-am-moscow-time.json) |
 | 1 Bad Wad | 259374 | [259374-1-bad-wad.json](./259374-1-bad-wad.json) |
 | 1 Ball 1 Cup | 59435 | [59435-1-ball-1-cup.json](./59435-1-ball-1-cup.json) |
+| 1 Bird 1 Color 1 Target | 431364 | [431364-1-bird-1-color-1-target.json](./431364-1-bird-1-color-1-target.json) |
 | 1 Bit Chaos | 412734 | [412734-1-bit-chaos.json](./412734-1-bit-chaos.json) |
 | 1 Bit Survivor | 233992 | [233992-1-bit-survivor.json](./233992-1-bit-survivor.json) |
 | 1 Bit, 2 Bit, 3 Bit, Four. | 178703 | [178703-1-bit-2-bit-3-bit-four.json](./178703-1-bit-2-bit-3-bit-four.json) |
 | 1 Button 2 Language | 401606 | [401606-1-button-2-language.json](./401606-1-button-2-language.json) |
 | 1 CatLine | 391649 | [391649-1-catline.json](./391649-1-catline.json) |
+| 1 Click 1 Line 1 Pop | 431363 | [431363-1-click-1-line-1-pop.json](./431363-1-click-1-line-1-pop.json) |
 | 1 Date Danger | 255815 | [255815-1-date-danger.json](./255815-1-date-danger.json) |
 | 1 Day | 424544 | [424544-1-day.json](./424544-1-day.json) |
 | 1 Day a Mosquito | 308198 | [308198-1-day-a-mosquito.json](./308198-1-day-a-mosquito.json) |
@@ -1131,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Dogs Hidden in Bangkok | 407530 | [407530-101-dogs-hidden-in-bangkok.json](./407530-101-dogs-hidden-in-bangkok.json) |
 | 101 Dogs Hidden in Berlin | 372339 | [372339-101-dogs-hidden-in-berlin.json](./372339-101-dogs-hidden-in-berlin.json) |
 | 101 Dogs Hidden in Brazil | 379070 | [379070-101-dogs-hidden-in-brazil.json](./379070-101-dogs-hidden-in-brazil.json) |
+| 101 Dogs Hidden in Hong Kong | 431403 | [431403-101-dogs-hidden-in-hong-kong.json](./431403-101-dogs-hidden-in-hong-kong.json) |
 | 101 Dogs Hidden in India | 376896 | [376896-101-dogs-hidden-in-india.json](./376896-101-dogs-hidden-in-india.json) |
 | 101 Dogs Hidden in Ireland | 376895 | [376895-101-dogs-hidden-in-ireland.json](./376895-101-dogs-hidden-in-ireland.json) |
 | 101 Dogs Hidden in Istanbul | 401547 | [401547-101-dogs-hidden-in-istanbul.json](./401547-101-dogs-hidden-in-istanbul.json) |
@@ -1222,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10tons Action Puzzle Bundle | 83747 | [83747-10tons-action-puzzle-bundle.json](./83747-10tons-action-puzzle-bundle.json) |
 | 10tons Adventure Puzzles Bundle | 82461 | [82461-10tons-adventure-puzzles-bundle.json](./82461-10tons-adventure-puzzles-bundle.json) |
 | 10tons Cyberpunk Bundle | 83746 | [83746-10tons-cyberpunk-bundle.json](./83746-10tons-cyberpunk-bundle.json) |
+| 10x10 Pirates | 431362 | [431362-10x10-pirates.json](./431362-10x10-pirates.json) |
 | 10x1024 | 276898 | [276898-10x1024.json](./276898-10x1024.json) |
 | 11 Card Games | 268072 | [268072-11-card-games.json](./268072-11-card-games.json) |
 | 11 Doors: Escape From Prison | 358066 | [358066-11-doors-escape-from-prison.json](./358066-11-doors-escape-from-prison.json) |
@@ -3486,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 Cent: Blood on the Sand | 5472 | [5472-50-cent-blood-on-the-sand.json](./5472-50-cent-blood-on-the-sand.json) |
 | 50 Cent: Bulletproof | 4011 | [4011-50-cent-bulletproof.json](./4011-50-cent-bulletproof.json) |
 | 50 Cent: Bulletproof - G-Unit Edition | 23122 | [23122-50-cent-bulletproof-g-unit-edition.json](./23122-50-cent-bulletproof-g-unit-edition.json) |
+| 50 Cent: Bulletproof Recomp | 431311 | [431311-50-cent-bulletproof-recomp.json](./431311-50-cent-bulletproof-recomp.json) |
 | 50 Cents Please | 367504 | [367504-50-cents-please.json](./367504-50-cents-please.json) |
 | 50 Classic Games | 48034 | [48034-50-classic-games.json](./48034-50-classic-games.json) |
 | 50 Classic Games 3D | 44027 | [44027-50-classic-games-3d.json](./44027-50-classic-games-3d.json) |
