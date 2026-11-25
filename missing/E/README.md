@@ -36,7 +36,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-Shop Tycoon | 293624 | [293624-e-shop-tycoon.json](./293624-e-shop-tycoon.json) |
 | E-Shop Tycoon | 390034 | [390034-e-shop-tycoon.json](./390034-e-shop-tycoon.json) |
 | E-Snake | 346280 | [346280-e-snake.json](./346280-e-snake.json) |
-| E-Startup | 96707 | [96707-e-startup.json](./96707-e-startup.json) |
 | E-Startup 2: Business Tycoon | 292488 | [292488-e-startup-2-business-tycoon.json](./292488-e-startup-2-business-tycoon.json) |
 | E-Tech Simulator | 308960 | [308960-e-tech-simulator.json](./308960-e-tech-simulator.json) |
 | E-Type | 61749 | [61749-e-type.json](./61749-e-type.json) |
@@ -5160,7 +5159,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eon's Insomnium | 372833 | [372833-eons-insomnium.json](./372833-eons-insomnium.json) |
 | Eona | 355025 | [355025-eona.json](./355025-eona.json) |
 | Eonheart | 309738 | [309738-eonheart.json](./309738-eonheart.json) |
-| Eonia | 97180 | [97180-eonia.json](./97180-eonia.json) |
 | Eonia Revelations | 259172 | [259172-eonia-revelations.json](./259172-eonia-revelations.json) |
 | Eonica Chess Battle | 137176 | [137176-eonica-chess-battle.json](./137176-eonica-chess-battle.json) |
 | Eons Away | 294411 | [294411-eons-away.json](./294411-eons-away.json) |
@@ -5236,7 +5234,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Blood Quest | 180185 | [180185-epic-blood-quest.json](./180185-epic-blood-quest.json) |
 | Epic Boss Fighter | 242592 | [242592-epic-boss-fighter.json](./242592-epic-boss-fighter.json) |
 | Epic Boss Fighter 2 | 101998 | [101998-epic-boss-fighter-2.json](./101998-epic-boss-fighter-2.json) |
-| Epic Car Factory | 97568 | [97568-epic-car-factory.json](./97568-epic-car-factory.json) |
 | Epic Card Battle Simulator | 407476 | [407476-epic-card-battle-simulator.json](./407476-epic-card-battle-simulator.json) |
 | Epic Card Game | 56420 | [56420-epic-card-game.json](./56420-epic-card-game.json) |
 | Epic Cards Battle | 34973 | [34973-epic-cards-battle.json](./34973-epic-cards-battle.json) |
@@ -6622,7 +6619,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Whisper Valley | 61673 | [61673-escape-whisper-valley.json](./61673-escape-whisper-valley.json) |
 | Escape with AI | 261984 | [261984-escape-with-ai.json](./261984-escape-with-ai.json) |
 | Escape With Bombs | 179134 | [179134-escape-with-bombs.json](./179134-escape-with-bombs.json) |
-| Escape with Monet | 96928 | [96928-escape-with-monet.json](./96928-escape-with-monet.json) |
 | Escape Within | 152581 | [152581-escape-within.json](./152581-escape-within.json) |
 | Escape Your Boss | 425371 | [425371-escape-your-boss.json](./425371-escape-your-boss.json) |
 | Escape Yourself | 208665 | [208665-escape-yourself.json](./208665-escape-yourself.json) |
