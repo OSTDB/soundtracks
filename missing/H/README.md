@@ -10664,6 +10664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Maid Academy | 277479 | [277479-holy-maid-academy.json](./277479-holy-maid-academy.json) |
 | Holy Moly | 185816 | [185816-holy-moly.json](./185816-holy-moly.json) |
 | Holy Moonlight | 401454 | [401454-holy-moonlight.json](./401454-holy-moonlight.json) |
+| Holy Nest | 431293 | [431293-holy-nest.json](./431293-holy-nest.json) |
 | Holy Nope! | 390307 | [390307-holy-nope.json](./390307-holy-nope.json) |
 | Holy Ocean | 239744 | [239744-holy-ocean.json](./239744-holy-ocean.json) |
 | Holy Paladin Cynthia | 235390 | [235390-holy-paladin-cynthia.json](./235390-holy-paladin-cynthia.json) |
@@ -10847,6 +10848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Story: 1971 | 101747 | [101747-home-story-1971.json](./101747-home-story-1971.json) |
 | Home Street: Dream House Sim | 90555 | [90555-home-street-dream-house-sim.json](./90555-home-street-dream-house-sim.json) |
 | Home Survival | 197471 | [197471-home-survival.json](./197471-home-survival.json) |
+| Home Sweet Bunker: Bunker Tycoon | 431353 | [431353-home-sweet-bunker-bunker-tycoon.json](./431353-home-sweet-bunker-bunker-tycoon.json) |
 | Home Sweet Home | 181631 | [181631-home-sweet-home.json](./181631-home-sweet-home.json) |
 | Home Sweet Home | 21793 | [21793-home-sweet-home.json](./21793-home-sweet-home.json) |
 | Home Sweet Home | 346116 | [346116-home-sweet-home.json](./346116-home-sweet-home.json) |
@@ -11670,6 +11672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horde Arena | 334304 | [334304-horde-arena.json](./334304-horde-arena.json) |
 | Horde Attack | 55664 | [55664-horde-attack.json](./55664-horde-attack.json) |
 | Horde Circuit | 420504 | [420504-horde-circuit.json](./420504-horde-circuit.json) |
+| Horde Convoy: Zombie Shooter | 431299 | [431299-horde-convoy-zombie-shooter.json](./431299-horde-convoy-zombie-shooter.json) |
 | Horde Havoc | 261448 | [261448-horde-havoc.json](./261448-horde-havoc.json) |
 | Horde Hunters | 223199 | [223199-horde-hunters.json](./223199-horde-hunters.json) |
 | Horde Mode -Trial of the Dark Lord | 143493 | [143493-horde-mode-trial-of-the-dark-lord.json](./143493-horde-mode-trial-of-the-dark-lord.json) |
@@ -13607,6 +13610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hulk | 3949 | [3949-hulk.json](./3949-hulk.json) |
 | Hulk Recompiled | 429468 | [429468-hulk-recompiled.json](./429468-hulk-recompiled.json) |
 | Hull Rupture | 399255 | [399255-hull-rupture.json](./399255-hull-rupture.json) |
+| Hullabaloo | 431331 | [431331-hullabaloo.json](./431331-hullabaloo.json) |
 | HullBreach: Uncloaked | 85173 | [85173-hullbreach-uncloaked.json](./85173-hullbreach-uncloaked.json) |
 | Hullbreaker | 329157 | [329157-hullbreaker.json](./329157-hullbreaker.json) |
 | Hullbreakers | 240792 | [240792-hullbreakers.json](./240792-hullbreakers.json) |
