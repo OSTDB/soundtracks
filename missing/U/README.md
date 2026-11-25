@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Rally Club | 216175 | [216175-ultimate-rally-club.json](./216175-ultimate-rally-club.json) |
 | Ultimate Reality | 132736 | [132736-ultimate-reality.json](./132736-ultimate-reality.json) |
 | Ultimate Ride | 95444 | [95444-ultimate-ride.json](./95444-ultimate-ride.json) |
+| Ultimate Ride Coaster Deluxe | 23468 | [23468-ultimate-ride-coaster-deluxe.json](./23468-ultimate-ride-coaster-deluxe.json) |
 | Ultimate Ride Jumps Collection | 387670 | [387670-ultimate-ride-jumps-collection.json](./387670-ultimate-ride-jumps-collection.json) |
 | Ultimate Ride: Disney Coaster | 72885 | [72885-ultimate-ride-disney-coaster.json](./72885-ultimate-ride-disney-coaster.json) |
 | Ultimate Riders | 365015 | [365015-ultimate-riders.json](./365015-ultimate-riders.json) |
