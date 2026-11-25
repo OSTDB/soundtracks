@@ -39487,7 +39487,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperTux Wii | 205620 | [205620-supertux-wii.json](./205620-supertux-wii.json) |
 | SuperTux: Octo's Levels | 230761 | [230761-supertux-octos-levels.json](./230761-supertux-octos-levels.json) |
 | SuperTuxKart | 10763 | [10763-supertuxkart.json](./10763-supertuxkart.json) |
-| Superverse | 94065 | [94065-superverse.json](./94065-superverse.json) |
 | SuperVHS | 213268 | [213268-supervhs.json](./213268-supervhs.json) |
 | Supervive | 255078 | [255078-supervive.json](./255078-supervive.json) |
 | Supervoid | 287185 | [287185-supervoid.json](./287185-supervoid.json) |
