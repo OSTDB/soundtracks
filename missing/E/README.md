@@ -5500,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EPS Series Vol. 4: Noise Reduction - Tomoa Yamamoto | 286555 | [286555-eps-series-vol-4-noise-reduction-tomoa-yamamoto.json](./286555-eps-series-vol-4-noise-reduction-tomoa-yamamoto.json) |
 | EPS Series Vol. 5: Believer Dreamer - Junko Mizutani | 286562 | [286562-eps-series-vol-5-believer-dreamer-junko-mizutani.json](./286562-eps-series-vol-5-believer-dreamer-junko-mizutani.json) |
 | Epsilon | 276364 | [276364-epsilon.json](./276364-epsilon.json) |
+| Epsilon corp. | 33082 | [33082-epsilon-corp.json](./33082-epsilon-corp.json) |
 | Epsilon Emerald | 428212 | [428212-epsilon-emerald.json](./428212-epsilon-emerald.json) |
 | Epsilon Eridana | 217301 | [217301-epsilon-eridana.json](./217301-epsilon-eridana.json) |
 | Epsilon Hyperpunk | 423888 | [423888-epsilon-hyperpunk.json](./423888-epsilon-hyperpunk.json) |
