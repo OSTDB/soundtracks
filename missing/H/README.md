@@ -2162,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Days | 267087 | [267087-hard-days.json](./267087-hard-days.json) |
 | Hard Depot | 428125 | [428125-hard-depot.json](./428125-hard-depot.json) |
 | Hard Drive | 381627 | [381627-hard-drive.json](./381627-hard-drive.json) |
+| Hard Drive | 419861 | [419861-hard-drive.json](./419861-hard-drive.json) |
 | Hard Driven | 309276 | [309276-hard-driven.json](./309276-hard-driven.json) |
 | Hard Driver | 151033 | [151033-hard-driver.json](./151033-hard-driver.json) |
 | Hard Driver 2 | 148858 | [148858-hard-driver-2.json](./148858-hard-driver-2.json) |
@@ -5484,6 +5485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Club | 190991 | [190991-help-club.json](./190991-help-club.json) |
 | Help Furby Dodge the Balls | 365776 | [365776-help-furby-dodge-the-balls.json](./365776-help-furby-dodge-the-balls.json) |
 | Help Hurt Hopp | 148934 | [148934-help-hurt-hopp.json](./148934-help-hurt-hopp.json) |
+| Help Is on the Way | 419455 | [419455-help-is-on-the-way.json](./419455-help-is-on-the-way.json) |
 | Help Me | 190038 | [190038-help-me.json](./190038-help-me.json) |
 | Help me Braveman! | 212484 | [212484-help-me-braveman.json](./212484-help-me-braveman.json) |
 | Help me Cleaner Sama!: I Got Isekai'd to Clean Monster Girl Basements | 402756 | [402756-help-me-cleaner-sama-i-got-isekaid-to-clean-monster-girl-basements.json](./402756-help-me-cleaner-sama-i-got-isekaid-to-clean-monster-girl-basements.json) |
@@ -5511,6 +5513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Yourself | 153993 | [153993-help-yourself.json](./153993-help-yourself.json) |
 | Help Zombies | 180329 | [180329-help-zombies.json](./180329-help-zombies.json) |
 | Help, I cast the wrong spell! | 180802 | [180802-help-i-cast-the-wrong-spell.json](./180802-help-i-cast-the-wrong-spell.json) |
+| Help, My Capybaras Escaped! | 422024 | [422024-help-my-capybaras-escaped.json](./422024-help-my-capybaras-escaped.json) |
 | Help: The Game | 32624 | [32624-help-the-game.json](./32624-help-the-game.json) |
 | Help! | 224862 | [224862-help.json](./224862-help.json) |
 | Help! I Need to Stretch Out for Valentines Day! | 210472 | [210472-help-i-need-to-stretch-out-for-valentines-day.json](./210472-help-i-need-to-stretch-out-for-valentines-day.json) |
@@ -9001,6 +9004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higher Ground | 105077 | [105077-higher-ground.json](./105077-higher-ground.json) |
 | Higher or Lower: Spotify Edition | 378504 | [378504-higher-or-lower-spotify-edition.json](./378504-higher-or-lower-spotify-edition.json) |
 | Higher Than Mush | 371000 | [371000-higher-than-mush.json](./371000-higher-than-mush.json) |
+| Higher: The Last Dream | 419178 | [419178-higher-the-last-dream.json](./419178-higher-the-last-dream.json) |
 | HigherLower | 353627 | [353627-higherlower.json](./353627-higherlower.json) |
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
 | Highgrounds | 179824 | [179824-highgrounds.json](./179824-highgrounds.json) |
