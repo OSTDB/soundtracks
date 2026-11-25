@@ -2046,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Place 5 | 272030 | [272030-dark-place-5.json](./272030-dark-place-5.json) |
 | Dark Places | 107473 | [107473-dark-places.json](./107473-dark-places.json) |
 | Dark Planet | 175625 | [175625-dark-planet.json](./175625-dark-planet.json) |
+| Dark Planet: Battle for Natrolis | 23457 | [23457-dark-planet-battle-for-natrolis.json](./23457-dark-planet-battle-for-natrolis.json) |
 | Dark Podval | 164174 | [164174-dark-podval.json](./164174-dark-podval.json) |
 | Dark Points | 408616 | [408616-dark-points.json](./408616-dark-points.json) |
 | Dark Pray | 427383 | [427383-dark-pray.json](./427383-dark-pray.json) |
@@ -2623,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksite | 226024 | [226024-darksite.json](./226024-darksite.json) |
 | Darksong Chronicles | 107604 | [107604-darksong-chronicles.json](./107604-darksong-chronicles.json) |
 | DarkSpace | 209027 | [209027-darkspace.json](./209027-darkspace.json) |
+| DarkSpace | 23448 | [23448-darkspace.json](./23448-darkspace.json) |
 | DarkSpar | 193467 | [193467-darkspar.json](./193467-darkspar.json) |
 | Darkspell Keep | 420372 | [420372-darkspell-keep.json](./420372-darkspell-keep.json) |
 | Darkspore | 18638 | [18638-darkspore.json](./18638-darkspore.json) |
@@ -7395,6 +7397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition City | 236609 | [236609-demolition-city.json](./236609-demolition-city.json) |
 | Demolition Company | 3175 | [3175-demolition-company.json](./3175-demolition-company.json) |
 | Demolition Company | 344435 | [344435-demolition-company.json](./344435-demolition-company.json) |
+| Demolition Company: Gold Edition | 23397 | [23397-demolition-company-gold-edition.json](./23397-demolition-company-gold-edition.json) |
 | Demolition Crew | 119568 | [119568-demolition-crew.json](./119568-demolition-crew.json) |
 | Demolition Derby | 110847 | [110847-demolition-derby.json](./110847-demolition-derby.json) |
 | Demolition Derby | 28379 | [28379-demolition-derby.json](./28379-demolition-derby.json) |
@@ -8923,6 +8926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroyer | 31283 | [31283-destroyer.json](./31283-destroyer.json) |
 | Destroyer 7800 | 304197 | [304197-destroyer-7800.json](./304197-destroyer-7800.json) |
 | Destroyer Burger | 339514 | [339514-destroyer-burger.json](./339514-destroyer-burger.json) |
+| Destroyer Command | 23456 | [23456-destroyer-command.json](./23456-destroyer-command.json) |
 | Destroyer For Windows | 312840 | [312840-destroyer-for-windows.json](./312840-destroyer-for-windows.json) |
 | Destroyer of Worlds | 144223 | [144223-destroyer-of-worlds.json](./144223-destroyer-of-worlds.json) |
 | Destroyer: Invasion | 50754 | [50754-destroyer-invasion.json](./50754-destroyer-invasion.json) |
@@ -20136,6 +20140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druonio | 177013 | [177013-druonio.json](./177013-druonio.json) |
 | Drusilla Dreams | 33149 | [33149-drusilla-dreams.json](./33149-drusilla-dreams.json) |
 | Druta-Cinta | 324619 | [324619-druta-cinta.json](./324619-druta-cinta.json) |
+| Druuna: Morbus Gravis | 23445 | [23445-druuna-morbus-gravis.json](./23445-druuna-morbus-gravis.json) |
 | Dry | 176804 | [176804-dry.json](./176804-dry.json) |
 | Dry | 202356 | [202356-dry.json](./202356-dry.json) |
 | Dry Bones | 345935 | [345935-dry-bones.json](./345935-dry-bones.json) |
