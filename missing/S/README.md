@@ -12180,6 +12180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence-Dream | 310728 | [310728-silence-dream.json](./310728-silence-dream.json) |
 | Silence, Exile, and Cunning | 391061 | [391061-silence-exile-and-cunning.json](./391061-silence-exile-and-cunning.json) |
 | Silenced | 121080 | [121080-silenced.json](./121080-silenced.json) |
+| Silenced: The House | 89438 | [89438-silenced-the-house.json](./89438-silenced-the-house.json) |
 | Silencer | 367912 | [367912-silencer.json](./367912-silencer.json) |
 | Silencer | 93197 | [93197-silencer.json](./93197-silencer.json) |
 | Silencio | 301909 | [301909-silencio.json](./301909-silencio.json) |
@@ -14419,6 +14420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinless The Horror Story Quest | 307870 | [307870-skinless-the-horror-story-quest.json](./307870-skinless-the-horror-story-quest.json) |
 | Skinned Alive | 415493 | [415493-skinned-alive.json](./415493-skinned-alive.json) |
 | Skinner & The Superintendent | 245930 | [245930-skinner-and-the-superintendent.json](./245930-skinner-and-the-superintendent.json) |
+| Skinny | 111768 | [111768-skinny.json](./111768-skinny.json) |
 | Skinny | 408639 | [408639-skinny.json](./408639-skinny.json) |
 | Skinny & Franko: Fists of Violence | 215900 | [215900-skinny-and-franko-fists-of-violence.json](./215900-skinny-and-franko-fists-of-violence.json) |
 | Skinny Girls | 259023 | [259023-skinny-girls.json](./259023-skinny-girls.json) |
@@ -17881,6 +17883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Squad Mission | 99659 | [99659-sniper-squad-mission.json](./99659-sniper-squad-mission.json) |
 | Sniper Strike 3D | 237365 | [237365-sniper-strike-3d.json](./237365-sniper-strike-3d.json) |
 | Sniper Strike: Special Ops | 261423 | [261423-sniper-strike-special-ops.json](./261423-sniper-strike-special-ops.json) |
+| Sniper Strike: Special Ops | 89492 | [89492-sniper-strike-special-ops.json](./89492-sniper-strike-special-ops.json) |
 | Sniper Tactical | 35143 | [35143-sniper-tactical.json](./35143-sniper-tactical.json) |
 | Sniper Tanks | 105187 | [105187-sniper-tanks.json](./105187-sniper-tanks.json) |
 | Sniper Team 2 | 270504 | [270504-sniper-team-2.json](./270504-sniper-team-2.json) |
@@ -19389,6 +19392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire + | 93826 | [93826-solitaire.json](./93826-solitaire.json) |
 | Solitaire 21 Card Sort | 243311 | [243311-solitaire-21-card-sort.json](./243311-solitaire-21-card-sort.json) |
 | Solitaire 220 Plus | 31102 | [31102-solitaire-220-plus.json](./31102-solitaire-220-plus.json) |
+| Solitaire 3D | 89738 | [89738-solitaire-3d.json](./89738-solitaire-3d.json) |
 | Solitaire Adventure: The Resurrection of Faneruel | 174543 | [174543-solitaire-adventure-the-resurrection-of-faneruel.json](./174543-solitaire-adventure-the-resurrection-of-faneruel.json) |
 | Solitaire After Hours | 386147 | [386147-solitaire-after-hours.json](./386147-solitaire-after-hours.json) |
 | Solitaire Antics Deluxe | 68906 | [68906-solitaire-antics-deluxe.json](./68906-solitaire-antics-deluxe.json) |
@@ -22129,6 +22133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sounds of Shadows | 307533 | [307533-sounds-of-shadows.json](./307533-sounds-of-shadows.json) |
 | Sounds of Talent: Kpop Adventure | 116826 | [116826-sounds-of-talent-kpop-adventure.json](./116826-sounds-of-talent-kpop-adventure.json) |
 | Sounds Of Transport | 104167 | [104167-sounds-of-transport.json](./104167-sounds-of-transport.json) |
+| Sounds of Verity | 89938 | [89938-sounds-of-verity.json](./89938-sounds-of-verity.json) |
 | Sounds of War | 297351 | [297351-sounds-of-war.json](./297351-sounds-of-war.json) |
 | Soundsaber | 184660 | [184660-soundsaber.json](./184660-soundsaber.json) |
 | Soundscape | 286996 | [286996-soundscape.json](./286996-soundscape.json) |
@@ -26280,6 +26285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob's Boating Bash | 284106 | [284106-spongebobs-boating-bash.json](./284106-spongebobs-boating-bash.json) |
 | SpongeBob's Boating Bash | 5189 | [5189-spongebobs-boating-bash.json](./5189-spongebobs-boating-bash.json) |
 | SpongeBob's Crossword | 242342 | [242342-spongebobs-crossword.json](./242342-spongebobs-crossword.json) |
+| SpongeBob's Game Frenzy | 88949 | [88949-spongebobs-game-frenzy.json](./88949-spongebobs-game-frenzy.json) |
 | SpongeBob’s Idle Adventures | 266907 | [266907-spongebob-s-idle-adventures.json](./266907-spongebob-s-idle-adventures.json) |
 | SpongeBob's Pizza Toss | 326710 | [326710-spongebobs-pizza-toss.json](./326710-spongebobs-pizza-toss.json) |
 | SpongeBob's Surf & Skate Roadtrip | 284108 | [284108-spongebobs-surf-and-skate-roadtrip.json](./284108-spongebobs-surf-and-skate-roadtrip.json) |
@@ -36454,6 +36460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Indie Square | 121943 | [121943-super-indie-square.json](./121943-super-indie-square.json) |
 | Super Indie Square: Fight Against Time | 171350 | [171350-super-indie-square-fight-against-time.json](./171350-super-indie-square-fight-against-time.json) |
 | Super Indy Champ | 42358 | [42358-super-indy-champ.json](./42358-super-indy-champ.json) |
+| Super Inefficient Golf | 90074 | [90074-super-inefficient-golf.json](./90074-super-inefficient-golf.json) |
 | Super Infiniboss: The Gauntlet | 316553 | [316553-super-infiniboss-the-gauntlet.json](./316553-super-infiniboss-the-gauntlet.json) |
 | Super Intentional Bugs | 135476 | [135476-super-intentional-bugs.json](./135476-super-intentional-bugs.json) |
 | Super Interdimensional Labyrinth Party (For Cats) | 297400 | [297400-super-interdimensional-labyrinth-party-for-cats.json](./297400-super-interdimensional-labyrinth-party-for-cats.json) |
