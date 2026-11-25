@@ -11625,6 +11625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classroom of the Elite: Merge Puzzle Special Exam | 350524 | [350524-classroom-of-the-elite-merge-puzzle-special-exam.json](./350524-classroom-of-the-elite-merge-puzzle-special-exam.json) |
 | Classroom Whispers | 321729 | [321729-classroom-whispers.json](./321729-classroom-whispers.json) |
 | Classy Train | 213021 | [213021-classy-train.json](./213021-classy-train.json) |
+| Clatter | 112721 | [112721-clatter.json](./112721-clatter.json) |
 | Clatter | 385397 | [385397-clatter.json](./385397-clatter.json) |
 | Claude and the Phantom | 183105 | [183105-claude-and-the-phantom.json](./183105-claude-and-the-phantom.json) |
 | Claude Monet: The Water Lily Obsession | 117638 | [117638-claude-monet-the-water-lily-obsession.json](./117638-claude-monet-the-water-lily-obsession.json) |
@@ -20824,6 +20825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Romance: Koi to Mahjong to Hanafuda to | 247346 | [247346-cross-romance-koi-to-mahjong-to-hanafuda-to.json](./247346-cross-romance-koi-to-mahjong-to-hanafuda-to.json) |
 | Cross Seekers | 258987 | [258987-cross-seekers.json](./258987-cross-seekers.json) |
 | Cross Set | 34114 | [34114-cross-set.json](./34114-cross-set.json) |
+| Cross Set Infinity | 74497 | [74497-cross-set-infinity.json](./74497-cross-set-infinity.json) |
 | Cross Shoot | 314221 | [314221-cross-shoot.json](./314221-cross-shoot.json) |
 | Cross Shuriken | 293266 | [293266-cross-shuriken.json](./293266-cross-shuriken.json) |
 | Cross Snake | 311957 | [311957-cross-snake.json](./311957-cross-snake.json) |
