@@ -534,7 +534,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Life | 157315 | [157315-pacific-life.json](./157315-pacific-life.json) |
 | Pacific Minesweeper | 289242 | [289242-pacific-minesweeper.json](./289242-pacific-minesweeper.json) |
 | Pacific Rim | 3763 | [3763-pacific-rim.json](./3763-pacific-rim.json) |
-| Pacific Rim: Breach Wars | 95099 | [95099-pacific-rim-breach-wars.json](./95099-pacific-rim-breach-wars.json) |
 | Pacific Storm 6: Battle for Normandy | 111930 | [111930-pacific-storm-6-battle-for-normandy.json](./111930-pacific-storm-6-battle-for-normandy.json) |
 | Pacific Strike | 14562 | [14562-pacific-strike.json](./14562-pacific-strike.json) |
 | Pacific Strike Speech Pack | 137375 | [137375-pacific-strike-speech-pack.json](./137375-pacific-strike-speech-pack.json) |
@@ -2899,7 +2898,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Every Day | 292167 | [292167-parkour-every-day.json](./292167-parkour-every-day.json) |
 | Parkour Extreme | 103723 | [103723-parkour-extreme.json](./103723-parkour-extreme.json) |
 | Parkour Flight | 86876 | [86876-parkour-flight.json](./86876-parkour-flight.json) |
-| Parkour Flight 2 | 93813 | [93813-parkour-flight-2.json](./93813-parkour-flight-2.json) |
 | Parkour Fortress: Redux | 350570 | [350570-parkour-fortress-redux.json](./350570-parkour-fortress-redux.json) |
 | Parkour Game | 156850 | [156850-parkour-game.json](./156850-parkour-game.json) |
 | Parkour Game 2 | 270957 | [270957-parkour-game-2.json](./270957-parkour-game-2.json) |
@@ -3180,7 +3178,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PartyCade | 420838 | [420838-partycade.json](./420838-partycade.json) |
 | Partygoer! | 329035 | [329035-partygoer.json](./329035-partygoer.json) |
 | PartyIcons | 336943 | [336943-partyicons.json](./336943-partyicons.json) |
-| Partymasters | 90769 | [90769-partymasters.json](./90769-partymasters.json) |
 | Partypit Games | 214905 | [214905-partypit-games.json](./214905-partypit-games.json) |
 | PartySaur: Dino Mayhem | 261731 | [261731-partysaur-dino-mayhem.json](./261731-partysaur-dino-mayhem.json) |
 | PartySparkers | 227010 | [227010-partysparkers.json](./227010-partysparkers.json) |
@@ -3781,7 +3778,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pavephobia | 259047 | [259047-pavephobia.json](./259047-pavephobia.json) |
 | Paver Simulator | 265554 | [265554-paver-simulator.json](./265554-paver-simulator.json) |
 | Paver: Tidy Up Together | 414817 | [414817-paver-tidy-up-together.json](./414817-paver-tidy-up-together.json) |
-| Pavilion: Touch Edition | 90801 | [90801-pavilion-touch-edition.json](./90801-pavilion-touch-edition.json) |
 | Pavlov Shack | 429075 | [429075-pavlov-shack.json](./429075-pavlov-shack.json) |
 | Pavlov VR | 30548 | [30548-pavlov-vr.json](./30548-pavlov-vr.json) |
 | Pavlov's House | 153322 | [153322-pavlovs-house.json](./153322-pavlovs-house.json) |
@@ -6334,6 +6330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantomas | 37029 | [37029-phantomas.json](./37029-phantomas.json) |
 | Phantomas 2 | 45344 | [45344-phantomas-2.json](./45344-phantomas-2.json) |
 | Phantomers Insurreccion | 38030 | [38030-phantomers-insurreccion.json](./38030-phantomers-insurreccion.json) |
+| PhantomGaze: Omni-Sight | 418306 | [418306-phantomgaze-omni-sight.json](./418306-phantomgaze-omni-sight.json) |
 | Phantomoon | 188265 | [188265-phantomoon.json](./188265-phantomoon.json) |
 | Phantomphobia: Yijie | 331945 | [331945-phantomphobia-yijie.json](./331945-phantomphobia-yijie.json) |
 | Phantomphobia: Zhenli | 331946 | [331946-phantomphobia-zhenli.json](./331946-phantomphobia-zhenli.json) |
@@ -7415,7 +7412,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon: A Love Story | 235117 | [235117-pigeon-a-love-story.json](./235117-pigeon-a-love-story.json) |
 | Pigeon: A Love Story | 368542 | [368542-pigeon-a-love-story.json](./368542-pigeon-a-love-story.json) |
 | Pigeon's Mission | 287762 | [287762-pigeons-mission.json](./287762-pigeons-mission.json) |
-| Pigeons Attack | 90831 | [90831-pigeons-attack.json](./90831-pigeons-attack.json) |
 | Pigeons Away | 424583 | [424583-pigeons-away.json](./424583-pigeons-away.json) |
 | Pigface | 343054 | [343054-pigface.json](./343054-pigface.json) |
 | Pigface Massacre | 207719 | [207719-pigface-massacre.json](./207719-pigface-massacre.json) |
@@ -9971,7 +9967,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel: Are You Squared? | 35701 | [35701-pixel-are-you-squared.json](./35701-pixel-are-you-squared.json) |
 | Pixel's Hallows Eve | 139209 | [139209-pixels-hallows-eve.json](./139209-pixels-hallows-eve.json) |
 | Pixel's Time Paradox | 254264 | [254264-pixels-time-paradox.json](./254264-pixels-time-paradox.json) |
-| Pixel's Unknown Battle Ground | 90958 | [90958-pixels-unknown-battle-ground.json](./90958-pixels-unknown-battle-ground.json) |
 | Pixel54 | 335021 | [335021-pixel54.json](./335021-pixel54.json) |
 | Pixelance | 382883 | [382883-pixelance.json](./382883-pixelance.json) |
 | Pixelarium: Free Lands | 392114 | [392114-pixelarium-free-lands.json](./392114-pixelarium-free-lands.json) |
@@ -11708,7 +11703,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plug and Play Sudoku | 263432 | [263432-plug-and-play-sudoku.json](./263432-plug-and-play-sudoku.json) |
 | Plug for Terraria | 87343 | [87343-plug-for-terraria.json](./87343-plug-for-terraria.json) |
 | Plug It In | 288232 | [288232-plug-it-in.json](./288232-plug-it-in.json) |
-| Plug Me | 95145 | [95145-plug-me.json](./95145-plug-me.json) |
 | Plug Priority | 386894 | [386894-plug-priority.json](./386894-plug-priority.json) |
 | Plug the Man | 184148 | [184148-plug-the-man.json](./184148-plug-the-man.json) |
 | Plug Wars: The Game | 148476 | [148476-plug-wars-the-game.json](./148476-plug-wars-the-game.json) |
@@ -12447,6 +12441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokéfeet | 403430 | [403430-pokefeet.json](./403430-pokefeet.json) |
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
 | Pokegg | 405241 | [405241-pokegg.json](./405241-pokegg.json) |
+| PokéGrouik | 428908 | [428908-pokegrouik.json](./428908-pokegrouik.json) |
 | PokéHeroes | 383188 | [383188-pokeheroes.json](./383188-pokeheroes.json) |
 | Pokelike | 402114 | [402114-pokelike.json](./402114-pokelike.json) |
 | Pokémate | 61003 | [61003-pokemate.json](./61003-pokemate.json) |
@@ -14331,7 +14326,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Ping | 238352 | [238352-pong-ping.json](./238352-pong-ping.json) |
 | Pong Pong Candy | 84812 | [84812-pong-pong-candy.json](./84812-pong-pong-candy.json) |
 | Pong Pong Crows | 367077 | [367077-pong-pong-crows.json](./367077-pong-pong-crows.json) |
-| Pong Pong Egg | 95091 | [95091-pong-pong-egg.json](./95091-pong-pong-egg.json) |
 | Pong Pong's Learning Adventure: Animals | 361609 | [361609-pong-pongs-learning-adventure-animals.json](./361609-pong-pongs-learning-adventure-animals.json) |
 | Pong Pong's Learning Adventure: Back to the Future | 188078 | [188078-pong-pongs-learning-adventure-back-to-the-future.json](./188078-pong-pongs-learning-adventure-back-to-the-future.json) |
 | Pong Pong's Learning Adventure: Mysteries of Human Body | 188076 | [188076-pong-pongs-learning-adventure-mysteries-of-human-body.json](./188076-pong-pongs-learning-adventure-mysteries-of-human-body.json) |
@@ -16256,7 +16250,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preschool Colors Toys Train | 99719 | [99719-preschool-colors-toys-train.json](./99719-preschool-colors-toys-train.json) |
 | Preschool EduKidsRoom | 87266 | [87266-preschool-edukidsroom.json](./87266-preschool-edukidsroom.json) |
 | Preschool EduKitchen | 90799 | [90799-preschool-edukitchen.json](./90799-preschool-edukitchen.json) |
-| Preschool EduKitty-Kids Games | 91177 | [91177-preschool-edukitty-kids-games.json](./91177-preschool-edukitty-kids-games.json) |
 | Preschool Game-EduKidsRoom | 89615 | [89615-preschool-game-edukidsroom.json](./89615-preschool-game-edukidsroom.json) |
 | Preschool Games Kids Learning | 107650 | [107650-preschool-games-kids-learning.json](./107650-preschool-games-kids-learning.json) |
 | Preschool Numbers - Play & Learn | 89700 | [89700-preschool-numbers-play-and-learn.json](./89700-preschool-numbers-play-and-learn.json) |
@@ -20481,7 +20474,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Hidden | 54278 | [54278-pure-hidden.json](./54278-pure-hidden.json) |
 | Pure Hold 'Em World Poker Championships | 201056 | [201056-pure-hold-em-world-poker-championships.json](./201056-pure-hold-em-world-poker-championships.json) |
 | Pure Hold'em | 17840 | [17840-pure-holdem.json](./17840-pure-holdem.json) |
-| Pure Hold'em: Full House Poker Bundle | 90984 | [90984-pure-holdem-full-house-poker-bundle.json](./90984-pure-holdem-full-house-poker-bundle.json) |
 | Pure Idle | 398297 | [398297-pure-idle.json](./398297-pure-idle.json) |
 | Pure Instinct Katana | 378122 | [378122-pure-instinct-katana.json](./378122-pure-instinct-katana.json) |
 | Pure Logic | 189303 | [189303-pure-logic.json](./189303-pure-logic.json) |
