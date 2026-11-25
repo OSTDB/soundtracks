@@ -12402,6 +12402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero's After-Ending | 180380 | [180380-the-heros-after-ending.json](./180380-the-heros-after-ending.json) |
 | The Hero's Journey | 178722 | [178722-the-heros-journey.json](./178722-the-heros-journey.json) |
 | The Hero's Journey Through Time | 236466 | [236466-the-heros-journey-through-time.json](./236466-the-heros-journey-through-time.json) |
+| The Hero's Legacy | 429968 | [429968-the-heros-legacy.json](./429968-the-heros-legacy.json) |
 | The Hero's Way | 248079 | [248079-the-heros-way.json](./248079-the-heros-way.json) |
 | The Herobrine Mod | 232684 | [232684-the-herobrine-mod.json](./232684-the-herobrine-mod.json) |
 | The Heroes Around Me | 216918 | [216918-the-heroes-around-me.json](./216918-the-heroes-around-me.json) |
@@ -17364,6 +17365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Photo of God | 341467 | [341467-the-photo-of-god.json](./341467-the-photo-of-god.json) |
 | The Photographer | 338302 | [338302-the-photographer.json](./338302-the-photographer.json) |
 | The Photographer | 418100 | [418100-the-photographer.json](./418100-the-photographer.json) |
+| The Physical | 430077 | [430077-the-physical.json](./430077-the-physical.json) |
 | The Physiology of the Eye | 29705 | [29705-the-physiology-of-the-eye.json](./29705-the-physiology-of-the-eye.json) |
 | The Piano | 20180 | [20180-the-piano.json](./20180-the-piano.json) |
 | The Piano Past | 134270 | [134270-the-piano-past.json](./134270-the-piano-past.json) |
@@ -17621,6 +17623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
 | The Price of Tomorrow | 415351 | [415351-the-price-of-tomorrow.json](./415351-the-price-of-tomorrow.json) |
 | The Prime MoVR | 76659 | [76659-the-prime-movr.json](./76659-the-prime-movr.json) |
+| The Primeval | 430000 | [430000-the-primeval.json](./430000-the-primeval.json) |
 | The Primitive | 392334 | [392334-the-primitive.json](./392334-the-primitive.json) |
 | The Primordial World | 147121 | [147121-the-primordial-world.json](./147121-the-primordial-world.json) |
 | The Primrose Path | 300362 | [300362-the-primrose-path.json](./300362-the-primrose-path.json) |
@@ -37996,6 +37999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnfall | 368294 | [368294-turnfall.json](./368294-turnfall.json) |
 | Turnin' Tail | 180677 | [180677-turnin-tail.json](./180677-turnin-tail.json) |
 | Turning | 249870 | [249870-turning.json](./249870-turning.json) |
+| Turning Box | 430079 | [430079-turning-box.json](./430079-turning-box.json) |
 | Turning Manor | 363953 | [363953-turning-manor.json](./363953-turning-manor.json) |
 | Turning Point: Fall of Liberty | 7221 | [7221-turning-point-fall-of-liberty.json](./7221-turning-point-fall-of-liberty.json) |
 | Turning Red Dancing Tiles Hop | 198240 | [198240-turning-red-dancing-tiles-hop.json](./198240-turning-red-dancing-tiles-hop.json) |
