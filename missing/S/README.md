@@ -8099,7 +8099,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow XS | 197600 | [197600-shadow-xs.json](./197600-shadow-xs.json) |
 | Shadow Zone | 259393 | [259393-shadow-zone.json](./259393-shadow-zone.json) |
 | Shadow: A Parable of Sappho | 405843 | [405843-shadow-a-parable-of-sappho.json](./405843-shadow-a-parable-of-sappho.json) |
-| Shadow: Treachery Cannot Be Tolerated | 90309 | [90309-shadow-treachery-cannot-be-tolerated.json](./90309-shadow-treachery-cannot-be-tolerated.json) |
 | Shadow: Treachery Cannot Be Tolerated - Episode 2: Retaliation | 171950 | [171950-shadow-treachery-cannot-be-tolerated-episode-2-retaliation.json](./171950-shadow-treachery-cannot-be-tolerated-episode-2-retaliation.json) |
 | Shadow: War of Succession | 4325 | [4325-shadow-war-of-succession.json](./4325-shadow-war-of-succession.json) |
 | Shadow's Bullet | 191871 | [191871-shadows-bullet.json](./191871-shadows-bullet.json) |
@@ -10936,7 +10935,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Zone City Driver | 99251 | [99251-shopping-zone-city-driver.json](./99251-shopping-zone-city-driver.json) |
 | ShoppingMall: Manager Simulator | 326356 | [326356-shoppingmall-manager-simulator.json](./326356-shoppingmall-manager-simulator.json) |
 | Shoppy Mart | 60067 | [60067-shoppy-mart.json](./60067-shoppy-mart.json) |
-| Shoppy Mart: Steam Edition | 90633 | [90633-shoppy-mart-steam-edition.json](./90633-shoppy-mart-steam-edition.json) |
 | Shopska Salad | 425884 | [425884-shopska-salad.json](./425884-shopska-salad.json) |
 | Shore | 424369 | [424369-shore.json](./424369-shore.json) |
 | Shore Doodle | 340373 | [340373-shore-doodle.json](./340373-shore-doodle.json) |
@@ -16296,7 +16294,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slope Car | 238989 | [238989-slope-car.json](./238989-slope-car.json) |
 | Slope Down | 97185 | [97185-slope-down.json](./97185-slope-down.json) |
 | Slopecrashers | 154403 | [154403-slopecrashers.json](./154403-slopecrashers.json) |
-| Sloper | 89998 | [89998-sloper.json](./89998-sloper.json) |
 | Slopeside Kings | 389658 | [389658-slopeside-kings.json](./389658-slopeside-kings.json) |
 | Slopestyle | 37226 | [37226-slopestyle.json](./37226-slopestyle.json) |
 | Slopey | 96918 | [96918-slopey.json](./96918-slopey.json) |
@@ -20037,7 +20034,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Wuxia | 129448 | [129448-songs-of-wuxia.json](./129448-songs-of-wuxia.json) |
 | Songs of Yummy | 349040 | [349040-songs-of-yummy.json](./349040-songs-of-yummy.json) |
 | Songs2See | 16634 | [16634-songs2see.json](./16634-songs2see.json) |
-| Songs2See Game | 90553 | [90553-songs2see-game.json](./90553-songs2see-game.json) |
 | Songspot | 414935 | [414935-songspot.json](./414935-songspot.json) |
 | Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
 | SongTrivia 2: Guess the song | 197449 | [197449-songtrivia-2-guess-the-song.json](./197449-songtrivia-2-guess-the-song.json) |
@@ -22742,7 +22738,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Entity | 253622 | [253622-space-entity.json](./253622-space-entity.json) |
 | Space Epic Untitled - Season 1 | 84132 | [84132-space-epic-untitled-season-1.json](./84132-space-epic-untitled-season-1.json) |
 | Space Escape | 322744 | [322744-space-escape.json](./322744-space-escape.json) |
-| Space Escape | 89978 | [89978-space-escape.json](./89978-space-escape.json) |
 | Space Escape Obstacles | 202960 | [202960-space-escape-obstacles.json](./202960-space-escape-obstacles.json) |
 | Space Escaper | 231796 | [231796-space-escaper.json](./231796-space-escaper.json) |
 | Space Evader | 38879 | [38879-space-evader.json](./38879-space-evader.json) |
@@ -27393,7 +27388,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel Madness | 342321 | [342321-squirrel-madness.json](./342321-squirrel-madness.json) |
 | Squirrel Madness & Silent Mist | 371431 | [371431-squirrel-madness-and-silent-mist.json](./371431-squirrel-madness-and-silent-mist.json) |
 | Squirrel Simulator | 389266 | [389266-squirrel-simulator.json](./389266-squirrel-simulator.json) |
-| Squirrel Sphere | 89999 | [89999-squirrel-sphere.json](./89999-squirrel-sphere.json) |
 | Squirrel Stapler | 263382 | [263382-squirrel-stapler.json](./263382-squirrel-stapler.json) |
 | Squirrel University Simulator | 407651 | [407651-squirrel-university-simulator.json](./407651-squirrel-university-simulator.json) |
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
@@ -31246,7 +31240,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Skater | 174341 | [174341-stickman-skater.json](./174341-stickman-skater.json) |
 | Stickman Ski | 252948 | [252948-stickman-ski.json](./252948-stickman-ski.json) |
 | Stickman Soccer | 82315 | [82315-stickman-soccer.json](./82315-stickman-soccer.json) |
-| Stickman Soccer 2016 | 90737 | [90737-stickman-soccer-2016.json](./90737-stickman-soccer-2016.json) |
 | Stickman Soccer 2018 | 95061 | [95061-stickman-soccer-2018.json](./95061-stickman-soccer-2018.json) |
 | Stickman Strikes: Conquer Fantasy World | 317870 | [317870-stickman-strikes-conquer-fantasy-world.json](./317870-stickman-strikes-conquer-fantasy-world.json) |
 | Stickman Super Athletics | 85390 | [85390-stickman-super-athletics.json](./85390-stickman-super-athletics.json) |
@@ -36472,7 +36465,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jet Juck | 111685 | [111685-super-jet-juck.json](./111685-super-jet-juck.json) |
 | Super Jetpak DX | 141618 | [141618-super-jetpak-dx.json](./141618-super-jetpak-dx.json) |
 | Super Jewels Quest | 88550 | [88550-super-jewels-quest.json](./88550-super-jewels-quest.json) |
-| Super Jewels Quest 2 | 90358 | [90358-super-jewels-quest-2.json](./90358-super-jewels-quest-2.json) |
 | Super Jigsaw Puzzle | 86304 | [86304-super-jigsaw-puzzle.json](./86304-super-jigsaw-puzzle.json) |
 | Super Jigsaw Puzzle: Anime | 111622 | [111622-super-jigsaw-puzzle-anime.json](./111622-super-jigsaw-puzzle-anime.json) |
 | Super Jigsaw Puzzle: Anime Reloaded | 292713 | [292713-super-jigsaw-puzzle-anime-reloaded.json](./292713-super-jigsaw-puzzle-anime-reloaded.json) |
@@ -39491,7 +39483,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supesu 2 | 123923 | [123923-supesu-2.json](./123923-supesu-2.json) |
 | Supfly Delivery Simulator | 140158 | [140158-supfly-delivery-simulator.json](./140158-supfly-delivery-simulator.json) |
 | Supipara: Chapter 1 | 32232 | [32232-supipara-chapter-1.json](./32232-supipara-chapter-1.json) |
-| Supipara: Chapter 2 | 90149 | [90149-supipara-chapter-2.json](./90149-supipara-chapter-2.json) |
 | Suplex | 131036 | [131036-suplex.json](./131036-suplex.json) |
 | Suplex Saga | 54633 | [54633-suplex-saga.json](./54633-suplex-saga.json) |
 | Supotto Spot | 379574 | [379574-supotto-spot.json](./379574-supotto-spot.json) |
@@ -39960,7 +39951,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive Disasters Apocalypse | 391248 | [391248-survive-disasters-apocalypse.json](./391248-survive-disasters-apocalypse.json) |
 | Survive Game | 310095 | [310095-survive-game.json](./310095-survive-game.json) |
 | Survive in a little bit | 117698 | [117698-survive-in-a-little-bit.json](./117698-survive-in-a-little-bit.json) |
-| Survive in Angaria | 90125 | [90125-survive-in-angaria.json](./90125-survive-in-angaria.json) |
 | Survive in Angaria TWO | 108337 | [108337-survive-in-angaria-two.json](./108337-survive-in-angaria-two.json) |
 | Survive In Ankara | 303938 | [303938-survive-in-ankara.json](./303938-survive-in-ankara.json) |
 | Survive in Moldova | 235563 | [235563-survive-in-moldova.json](./235563-survive-in-moldova.json) |
