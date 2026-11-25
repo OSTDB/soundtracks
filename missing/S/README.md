@@ -4379,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribblenauts Mega Pack | 104660 | [104660-scribblenauts-mega-pack.json](./104660-scribblenauts-mega-pack.json) |
 | Scribblenauts Remix | 8806 | [8806-scribblenauts-remix.json](./8806-scribblenauts-remix.json) |
 | Scribblenauts Unlimited | 2943 | [2943-scribblenauts-unlimited.json](./2943-scribblenauts-unlimited.json) |
+| Scribblenauts Unlimited | 425567 | [425567-scribblenauts-unlimited.json](./425567-scribblenauts-unlimited.json) |
 | Scribblenauts Unmasked: A DC Comics Adventure | 5033 | [5033-scribblenauts-unmasked-a-dc-comics-adventure.json](./5033-scribblenauts-unmasked-a-dc-comics-adventure.json) |
 | Scribblequest | 219621 | [219621-scribblequest.json](./219621-scribblequest.json) |
 | Scribbly Walrus | 128571 | [128571-scribbly-walrus.json](./128571-scribbly-walrus.json) |
@@ -13228,6 +13229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator XL Bundle | 197977 | [197977-simulator-xl-bundle.json](./197977-simulator-xl-bundle.json) |
 | Simulator Z | 277838 | [277838-simulator-z.json](./277838-simulator-z.json) |
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
+| Simulators 2021 | 425247 | [425247-simulators-2021.json](./425247-simulators-2021.json) |
 | Simulators Mega Bundle: Truck, Construction, Farming, Offroad, Bus | 334998 | [334998-simulators-mega-bundle-truck-construction-farming-offroad-bus.json](./334998-simulators-mega-bundle-truck-construction-farming-offroad-bus.json) |
 | Simulatte: Coffee Shop Simulator | 186501 | [186501-simulatte-coffee-shop-simulator.json](./186501-simulatte-coffee-shop-simulator.json) |
 | Simulayu | 299112 | [299112-simulayu.json](./299112-simulayu.json) |
@@ -39279,6 +39281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman: The New Superman Adventures | 3005 | [3005-superman-the-new-superman-adventures.json](./3005-superman-the-new-superman-adventures.json) |
 | Superman: World's Finest | 112876 | [112876-superman-worlds-finest.json](./112876-superman-worlds-finest.json) |
 | Supermaneuver | 397777 | [397777-supermaneuver.json](./397777-supermaneuver.json) |
+| SuperMarioWorldRecomp | 423777 | [423777-supermarioworldrecomp.json](./423777-supermarioworldrecomp.json) |
 | Supermarket | 234804 | [234804-supermarket.json](./234804-supermarket.json) |
 | Supermarket | 329556 | [329556-supermarket.json](./329556-supermarket.json) |
 | Supermarket & Clothing Store Simulator | 404258 | [404258-supermarket-and-clothing-store-simulator.json](./404258-supermarket-and-clothing-store-simulator.json) |
