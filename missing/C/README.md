@@ -2697,7 +2697,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Tycoon | 362291 | [362291-car-tycoon.json](./362291-car-tycoon.json) |
 | Car Tycoon | 71851 | [71851-car-tycoon.json](./71851-car-tycoon.json) |
 | Car vs Bike Racing | 104717 | [104717-car-vs-bike-racing.json](./104717-car-vs-bike-racing.json) |
-| Car vs. Cops | 90288 | [90288-car-vs-cops.json](./90288-car-vs-cops.json) |
 | Car War | 76388 | [76388-car-war.json](./76388-car-war.json) |
 | Car War Legends | 219223 | [219223-car-war-legends.json](./219223-car-war-legends.json) |
 | Car Wars | 42214 | [42214-car-wars.json](./42214-car-wars.json) |
@@ -3045,7 +3044,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardiganical | 107777 | [107777-cardiganical.json](./107777-cardiganical.json) |
 | Cardinal Arc: Konton no Fuusatsu | 43284 | [43284-cardinal-arc-konton-no-fuusatsu.json](./43284-cardinal-arc-konton-no-fuusatsu.json) |
 | Cardinal Chains | 96221 | [96221-cardinal-chains.json](./96221-cardinal-chains.json) |
-| Cardinal Cross | 90169 | [90169-cardinal-cross.json](./90169-cardinal-cross.json) |
 | Cardinal Descent | 311832 | [311832-cardinal-descent.json](./311832-cardinal-descent.json) |
 | Cardinal Fall | 407576 | [407576-cardinal-fall.json](./407576-cardinal-fall.json) |
 | Cardinal Island | 375915 | [375915-cardinal-island.json](./375915-cardinal-island.json) |
@@ -10813,7 +10811,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Bus Simulator Munich | 52506 | [52506-city-bus-simulator-munich.json](./52506-city-bus-simulator-munich.json) |
 | City Bus Simulator New York | 52505 | [52505-city-bus-simulator-new-york.json](./52505-city-bus-simulator-new-york.json) |
 | City Bus Simulator: New York | 10594 | [10594-city-bus-simulator-new-york.json](./10594-city-bus-simulator-new-york.json) |
-| City Bus Tycoon | 89810 | [89810-city-bus-tycoon.json](./89810-city-bus-tycoon.json) |
 | City Car Driving 2.0 | 403690 | [403690-city-car-driving-2-0.json](./403690-city-car-driving-2-0.json) |
 | City Car Parking Simulator | 256336 | [256336-city-car-parking-simulator.json](./256336-city-car-parking-simulator.json) |
 | City Centurian | 73737 | [73737-city-centurian.json](./73737-city-centurian.json) |
@@ -12419,7 +12416,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
 | Cloth Out | 66295 | [66295-cloth-out.json](./66295-cloth-out.json) |
 | Clothes & Outlet Supermarket Store Simulator | 342346 | [342346-clothes-and-outlet-supermarket-store-simulator.json](./342346-clothes-and-outlet-supermarket-store-simulator.json) |
-| Clothes Forever - Styling Game | 90674 | [90674-clothes-forever-styling-game.json](./90674-clothes-forever-styling-game.json) |
 | Clothes Line | 298764 | [298764-clothes-line.json](./298764-clothes-line.json) |
 | Clothesline Carnage | 51451 | [51451-clothesline-carnage.json](./51451-clothesline-carnage.json) |
 | Clotheslines | 180430 | [180430-clotheslines.json](./180430-clotheslines.json) |
@@ -15603,7 +15599,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concordia: Digital Edition - Salsa | 188529 | [188529-concordia-digital-edition-salsa.json](./188529-concordia-digital-edition-salsa.json) |
 | Concordia: Digital Edition - Venus | 193170 | [193170-concordia-digital-edition-venus.json](./193170-concordia-digital-edition-venus.json) |
 | Concourse X-Ray | 179172 | [179172-concourse-x-ray.json](./179172-concourse-x-ray.json) |
-| ConcPerfect 2017 | 90657 | [90657-concperfect-2017.json](./90657-concperfect-2017.json) |
 | Concrete | 312181 | [312181-concrete.json](./312181-concrete.json) |
 | Concrete Abyss | 402648 | [402648-concrete-abyss.json](./402648-concrete-abyss.json) |
 | Concrete and Steel | 33460 | [33460-concrete-and-steel.json](./33460-concrete-and-steel.json) |
@@ -20138,7 +20133,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage Blitz | 125940 | [125940-cribbage-blitz.json](./125940-cribbage-blitz.json) |
 | Cribbage by Dodofox | 107541 | [107541-cribbage-by-dodofox.json](./107541-cribbage-by-dodofox.json) |
 | Cribbage Daily | 370353 | [370353-cribbage-daily.json](./370353-cribbage-daily.json) |
-| Cribbage Forever | 90023 | [90023-cribbage-forever.json](./90023-cribbage-forever.json) |
 | Cribbage HD | 91118 | [91118-cribbage-hd.json](./91118-cribbage-hd.json) |
 | Cribbage JD | 144781 | [144781-cribbage-jd.json](./144781-cribbage-jd.json) |
 | Cribbage King & Gin King | 14630 | [14630-cribbage-king-and-gin-king.json](./14630-cribbage-king-and-gin-king.json) |
