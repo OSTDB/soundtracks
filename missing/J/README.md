@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jim Henson's Bear in the Big Blue House | 322328 | [322328-jim-hensons-bear-in-the-big-blue-house.json](./322328-jim-hensons-bear-in-the-big-blue-house.json) |
 | Jim Henson's Bear in the Big Blue House | 49914 | [49914-jim-hensons-bear-in-the-big-blue-house.json](./49914-jim-hensons-bear-in-the-big-blue-house.json) |
 | Jim Henson's Muppet Babies: What Do You Want to Be When You Grow Up? | 391485 | [391485-jim-hensons-muppet-babies-what-do-you-want-to-be-when-you-grow-up.json](./391485-jim-hensons-muppet-babies-what-do-you-want-to-be-when-you-grow-up.json) |
+| Jim Henson's Muppets Party Cruise | 43569 | [43569-jim-hensons-muppets-party-cruise.json](./43569-jim-hensons-muppets-party-cruise.json) |
 | Jim Henson's Muppets: Coach Kermit | 198780 | [198780-jim-hensons-muppets-coach-kermit.json](./198780-jim-hensons-muppets-coach-kermit.json) |
 | Jim Henson's Muppets: Street Surfin' | 198781 | [198781-jim-hensons-muppets-street-surfin.json](./198781-jim-hensons-muppets-street-surfin.json) |
 | Jim Henson's The Muppets | 49958 | [49958-jim-hensons-the-muppets.json](./49958-jim-hensons-the-muppets.json) |
@@ -4712,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Ignore Them: Brea's Story Tape 1 | 192456 | [192456-just-ignore-them-breas-story-tape-1.json](./192456-just-ignore-them-breas-story-tape-1.json) |
 | Just in Crime | 258982 | [258982-just-in-crime.json](./258982-just-in-crime.json) |
 | Just in Slime | 193665 | [193665-just-in-slime.json](./193665-just-in-slime.json) |
+| Just In Time Incorporated | 42925 | [42925-just-in-time-incorporated.json](./42925-just-in-time-incorporated.json) |
 | Just in Time Translations | 67654 | [67654-just-in-time-translations.json](./67654-just-in-time-translations.json) |
 | Just JAM | 85226 | [85226-just-jam.json](./85226-just-jam.json) |
 | Just Jammin' | 307719 | [307719-just-jammin.json](./307719-just-jammin.json) |
