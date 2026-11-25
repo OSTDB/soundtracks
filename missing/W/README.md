@@ -2824,7 +2824,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Me Please! | 358819 | [358819-water-me-please.json](./358819-water-me-please.json) |
 | Water Me! | 202649 | [202649-water-me.json](./202649-water-me.json) |
 | Water of M | 399065 | [399065-water-of-m.json](./399065-water-of-m.json) |
-| Water Park: Fun Water Slides | 96974 | [96974-water-park-fun-water-slides.json](./96974-water-park-fun-water-slides.json) |
 | Water Physics Simulation | 175640 | [175640-water-physics-simulation.json](./175640-water-physics-simulation.json) |
 | Water Pipeline | 55235 | [55235-water-pipeline.json](./55235-water-pipeline.json) |
 | Water Pipes | 104092 | [104092-water-pipes.json](./104092-water-pipes.json) |
@@ -5522,7 +5521,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Am I Next?: Animals | 410096 | [410096-who-am-i-next-animals.json](./410096-who-am-i-next-animals.json) |
 | Who Am I: Hidden Object Adventure Full | 175555 | [175555-who-am-i-hidden-object-adventure-full.json](./175555-who-am-i-hidden-object-adventure-full.json) |
 | Who am I: Remedy | 280363 | [280363-who-am-i-remedy.json](./280363-who-am-i-remedy.json) |
-| Who Am I: The Tale of Dorothy | 96654 | [96654-who-am-i-the-tale-of-dorothy.json](./96654-who-am-i-the-tale-of-dorothy.json) |
 | Who am I? | 328408 | [328408-who-am-i.json](./328408-who-am-i.json) |
 | Who Am I? | 363827 | [363827-who-am-i.json](./363827-who-am-i.json) |
 | Who am I? (Biblical) | 100514 | [100514-who-am-i-biblical.json](./100514-who-am-i-biblical.json) |
@@ -6536,7 +6534,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Win That War! | 29347 | [29347-win-that-war.json](./29347-win-that-war.json) |
 | Win the Diamond | 220839 | [220839-win-the-diamond.json](./220839-win-the-diamond.json) |
 | Win The Game | 259773 | [259773-win-the-game.json](./259773-win-the-game.json) |
-| Win the Game: Do It! | 96648 | [96648-win-the-game-do-it.json](./96648-win-the-game-do-it.json) |
 | Win the Game! | 96197 | [96197-win-the-game.json](./96197-win-the-game.json) |
 | Win the White House | 207837 | [207837-win-the-white-house.json](./207837-win-the-white-house.json) |
 | Win With Steadily | 116297 | [116297-win-with-steadily.json](./116297-win-with-steadily.json) |
@@ -7895,7 +7892,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardia | 218344 | [218344-wizardia.json](./218344-wizardia.json) |
 | Wizardians: In Defence of Magic | 126896 | [126896-wizardians-in-defence-of-magic.json](./126896-wizardians-in-defence-of-magic.json) |
 | Wizardish | 202276 | [202276-wizardish.json](./202276-wizardish.json) |
-| WizardLand | 95528 | [95528-wizardland.json](./95528-wizardland.json) |
 | Wizardology | 67747 | [67747-wizardology.json](./67747-wizardology.json) |
 | Wizardous: An Apprentice's Betrayal | 61798 | [61798-wizardous-an-apprentices-betrayal.json](./61798-wizardous-an-apprentices-betrayal.json) |
 | WizardPunk | 128124 | [128124-wizardpunk.json](./128124-wizardpunk.json) |
@@ -8349,7 +8345,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Gravity | 76189 | [76189-wonder-gravity.json](./76189-wonder-gravity.json) |
 | Wonder House | 130545 | [130545-wonder-house.json](./130545-wonder-house.json) |
 | Wonder Kid | 57284 | [57284-wonder-kid.json](./57284-wonder-kid.json) |
-| Wonder Knights VIP : Retro Shooter RPG | 97209 | [97209-wonder-knights-vip-retro-shooter-rpg.json](./97209-wonder-knights-vip-retro-shooter-rpg.json) |
 | Wonder Land | 216483 | [216483-wonder-land.json](./216483-wonder-land.json) |
 | Wonder Land | 231873 | [231873-wonder-land.json](./231873-wonder-land.json) |
 | Wonder League Star: Sok-Magicball Fighting | 40548 | [40548-wonder-league-star-sok-magicball-fighting.json](./40548-wonder-league-star-sok-magicball-fighting.json) |
@@ -8627,7 +8622,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woody Poco | 210801 | [210801-woody-poco.json](./210801-woody-poco.json) |
 | Woody Pop | 21551 | [21551-woody-pop.json](./21551-woody-pop.json) |
 | Woody Pop | 69917 | [69917-woody-pop.json](./69917-woody-pop.json) |
-| Woody Puzzle | 96825 | [96825-woody-puzzle.json](./96825-woody-puzzle.json) |
 | Woody Two-Legs: Attack of the Zombie Pirates | 2073 | [2073-woody-two-legs-attack-of-the-zombie-pirates.json](./2073-woody-two-legs-attack-of-the-zombie-pirates.json) |
 | Woody Woodpecker | 63986 | [63986-woody-woodpecker.json](./63986-woody-woodpecker.json) |
 | Woody Woodpecker | 76008 | [76008-woody-woodpecker.json](./76008-woody-woodpecker.json) |
@@ -8943,11 +8937,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Tuah | 338303 | [338303-word-tuah.json](./338303-word-tuah.json) |
 | Word Turtle Island | 301082 | [301082-word-turtle-island.json](./301082-word-turtle-island.json) |
 | Word Twist! | 241197 | [241197-word-twist.json](./241197-word-twist.json) |
-| Word Typing Game | 95205 | [95205-word-typing-game.json](./95205-word-typing-game.json) |
 | Word U | 104600 | [104600-word-u.json](./104600-word-u.json) |
 | Word Universe | 296551 | [296551-word-universe.json](./296551-word-universe.json) |
 | Word Universe: CrossWord | 296552 | [296552-word-universe-crossword.json](./296552-word-universe-crossword.json) |
-| Word Unscrambler | 95305 | [95305-word-unscrambler.json](./95305-word-unscrambler.json) |
 | Word Up | 206484 | [206484-word-up.json](./206484-word-up.json) |
 | Word Vomit | 342509 | [342509-word-vomit.json](./342509-word-vomit.json) |
 | Word Vs Picture | 232478 | [232478-word-vs-picture.json](./232478-word-vs-picture.json) |
