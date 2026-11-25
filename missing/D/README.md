@@ -338,7 +338,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemonfall | 345115 | [345115-daemonfall.json](./345115-daemonfall.json) |
 | Daemonic Runner | 127779 | [127779-daemonic-runner.json](./127779-daemonic-runner.json) |
 | Daemonica | 51369 | [51369-daemonica.json](./51369-daemonica.json) |
-| Daemonical | 96233 | [96233-daemonical.json](./96233-daemonical.json) |
 | Daemonium | 247668 | [247668-daemonium.json](./247668-daemonium.json) |
 | Daemonologie | 179677 | [179677-daemonologie.json](./179677-daemonologie.json) |
 | Daemonologie | 313586 | [313586-daemonologie.json](./313586-daemonologie.json) |
@@ -994,7 +993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Academy | 85065 | [85065-dancing-academy.json](./85065-dancing-academy.json) |
 | Dancing Angel | 160007 | [160007-dancing-angel.json](./160007-dancing-angel.json) |
 | Dancing Arrow: Beat Smash | 127541 | [127541-dancing-arrow-beat-smash.json](./127541-dancing-arrow-beat-smash.json) |
-| Dancing Ball Saga | 96984 | [96984-dancing-ball-saga.json](./96984-dancing-ball-saga.json) |
 | Dancing Balls-Rolling Ahead Go | 86776 | [86776-dancing-balls-rolling-ahead-go.json](./86776-dancing-balls-rolling-ahead-go.json) |
 | Dancing Ballz: Magic Dance Line Tiles Game | 105993 | [105993-dancing-ballz-magic-dance-line-tiles-game.json](./105993-dancing-ballz-magic-dance-line-tiles-game.json) |
 | Dancing Ballz: One Line Go | 106023 | [106023-dancing-ballz-one-line-go.json](./106023-dancing-ballz-one-line-go.json) |
@@ -2709,7 +2707,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts | 246997 | [246997-darts.json](./246997-darts.json) |
 | Darts | 358830 | [358830-darts.json](./358830-darts.json) |
 | Darts | 359326 | [359326-darts.json](./359326-darts.json) |
-| Darts and Friends | 96627 | [96627-darts-and-friends.json](./96627-darts-and-friends.json) |
 | Darts Club | 287037 | [287037-darts-club.json](./287037-darts-club.json) |
 | Darts Club | 69828 | [69828-darts-club.json](./69828-darts-club.json) |
 | Darts Fever | 328548 | [328548-darts-fever.json](./328548-darts-fever.json) |
@@ -5220,7 +5217,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Escape | 148495 | [148495-death-escape.json](./148495-death-escape.json) |
 | Death Everywhere, So Save Paranoiacally | 397401 | [397401-death-everywhere-so-save-paranoiacally.json](./397401-death-everywhere-so-save-paranoiacally.json) |
 | Death Everywhere, So Save Paranoiacally 2 | 397934 | [397934-death-everywhere-so-save-paranoiacally-2.json](./397934-death-everywhere-so-save-paranoiacally-2.json) |
-| Death Field: The Battle Royale of Disaster | 96234 | [96234-death-field-the-battle-royale-of-disaster.json](./96234-death-field-the-battle-royale-of-disaster.json) |
 | Death Fighter | 285007 | [285007-death-fighter.json](./285007-death-fighter.json) |
 | Death Fighter 2: Necro Fighter | 56205 | [56205-death-fighter-2-necro-fighter.json](./56205-death-fighter-2-necro-fighter.json) |
 | Death Fighter 3: Mort Battel | 56105 | [56105-death-fighter-3-mort-battel.json](./56105-death-fighter-3-mort-battel.json) |
@@ -7652,7 +7648,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Residence | 207878 | [207878-demons-residence.json](./207878-demons-residence.json) |
 | Demon's Revenge | 13587 | [13587-demons-revenge.json](./13587-demons-revenge.json) |
 | Demon's Rise | 237582 | [237582-demons-rise.json](./237582-demons-rise.json) |
-| Demon's Rise - Lords of Chaos | 97899 | [97899-demons-rise-lords-of-chaos.json](./97899-demons-rise-lords-of-chaos.json) |
 | Demon's Rise 2: Lords of Chaos | 104107 | [104107-demons-rise-2-lords-of-chaos.json](./104107-demons-rise-2-lords-of-chaos.json) |
 | Demon's Rise: War for the Deep | 99656 | [99656-demons-rise-war-for-the-deep.json](./99656-demons-rise-war-for-the-deep.json) |
 | Demon's Score | 27148 | [27148-demons-score.json](./27148-demons-score.json) |
@@ -15121,7 +15116,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Alchemy | 348502 | [348502-doodle-alchemy.json](./348502-doodle-alchemy.json) |
 | Doodle Alive | 129286 | [129286-doodle-alive.json](./129286-doodle-alive.json) |
 | Doodle Army | 61655 | [61655-doodle-army.json](./61655-doodle-army.json) |
-| Doodle Army HD | 95288 | [95288-doodle-army-hd.json](./95288-doodle-army-hd.json) |
 | Doodle Art: Drawing Games | 190937 | [190937-doodle-art-drawing-games.json](./190937-doodle-art-drawing-games.json) |
 | Doodle Biker | 105901 | [105901-doodle-biker.json](./105901-doodle-biker.json) |
 | Doodle Bowling | 65451 | [65451-doodle-bowling.json](./65451-doodle-bowling.json) |
@@ -16406,7 +16400,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down. | 134994 | [134994-down.json](./134994-down.json) |
 | Down2Die | 150727 | [150727-down2die.json](./150727-down2die.json) |
 | Downbass Warriors: Heroes of Maydamn | 235561 | [235561-downbass-warriors-heroes-of-maydamn.json](./235561-downbass-warriors-heroes-of-maydamn.json) |
-| Downbreak | 95578 | [95578-downbreak.json](./95578-downbreak.json) |
 | Downer Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Yonpaku Itsuka no Tabi | 396931 | [396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json](./396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json) |
 | Downfall | 100346 | [100346-downfall.json](./100346-downfall.json) |
 | Downfall | 18189 | [18189-downfall.json](./18189-downfall.json) |
@@ -16439,7 +16432,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downhill Slalom | 66952 | [66952-downhill-slalom.json](./66952-downhill-slalom.json) |
 | Downhill Smash | 183136 | [183136-downhill-smash.json](./183136-downhill-smash.json) |
 | Downhill Snow | 143643 | [143643-downhill-snow.json](./143643-downhill-snow.json) |
-| Downhill Snowboard | 95318 | [95318-downhill-snowboard.json](./95318-downhill-snowboard.json) |
 | Downhill Xtreme | 62040 | [62040-downhill-xtreme.json](./62040-downhill-xtreme.json) |
 | DownhillMadness | 235800 | [235800-downhillmadness.json](./235800-downhillmadness.json) |
 | DownhillVR | 308712 | [308712-downhillvr.json](./308712-downhillvr.json) |
@@ -16934,7 +16926,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag-on Dragoon 10th Anniversary | 378980 | [378980-drag-on-dragoon-10th-anniversary.json](./378980-drag-on-dragoon-10th-anniversary.json) |
 | Drag'n Wash | 417585 | [417585-dragn-wash.json](./417585-dragn-wash.json) |
 | Drag'n'Boom | 68318 | [68318-dragnboom.json](./68318-dragnboom.json) |
-| Drag'N'Gems | 95317 | [95317-dragngems.json](./95317-dragngems.json) |
 | Dragabox | 259858 | [259858-dragabox.json](./259858-dragabox.json) |
 | Dragalia Lost | 99118 | [99118-dragalia-lost.json](./99118-dragalia-lost.json) |
 | Dragenas | 297804 | [297804-dragenas.json](./297804-dragenas.json) |
@@ -20433,7 +20424,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Trust | 411312 | [411312-duck-trust.json](./411312-duck-trust.json) |
 | Duck Turnip | 228963 | [228963-duck-turnip.json](./228963-duck-turnip.json) |
 | Duck vs. Evil | 350453 | [350453-duck-vs-evil.json](./350453-duck-vs-evil.json) |
-| Duck Warfare | 96811 | [96811-duck-warfare.json](./96811-duck-warfare.json) |
 | Duck Your Friends | 426322 | [426322-duck-your-friends.json](./426322-duck-your-friends.json) |
 | Duck, Duck, Shoot | 290603 | [290603-duck-duck-shoot.json](./290603-duck-duck-shoot.json) |
 | Duck, Jump, Die! | 181344 | [181344-duck-jump-die.json](./181344-duck-jump-die.json) |
@@ -20666,7 +20656,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Caribbean: Life's a Beach | 18496 | [18496-duke-caribbean-lifes-a-beach.json](./18496-duke-caribbean-lifes-a-beach.json) |
 | Duke Craft | 308455 | [308455-duke-craft.json](./308455-duke-craft.json) |
 | Duke Dashington | 96566 | [96566-duke-dashington.json](./96566-duke-dashington.json) |
-| Duke Dashington Remastered | 96565 | [96565-duke-dashington-remastered.json](./96565-duke-dashington-remastered.json) |
 | Duke Forces | 291977 | [291977-duke-forces.json](./291977-duke-forces.json) |
 | Duke Grabowski: Mighty Swashbuckler | 23982 | [23982-duke-grabowski-mighty-swashbuckler.json](./23982-duke-grabowski-mighty-swashbuckler.json) |
 | Duke Hard | 218118 | [218118-duke-hard.json](./218118-duke-hard.json) |
