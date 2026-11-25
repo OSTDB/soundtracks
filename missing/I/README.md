@@ -7520,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isorropia | 133451 | [133451-isorropia.json](./133451-isorropia.json) |
 | Isoscape | 217283 | [217283-isoscape.json](./217283-isoscape.json) |
 | Isostasy | 212989 | [212989-isostasy.json](./212989-isostasy.json) |
+| Isotiles | 43510 | [43510-isotiles.json](./43510-isotiles.json) |
 | Isotiles 2 | 118983 | [118983-isotiles-2.json](./118983-isotiles-2.json) |
 | Isotope: ASH | 217235 | [217235-isotope-ash.json](./217235-isotope-ash.json) |
 | Isotope: Unstable Atom Puzzles | 430139 | [430139-isotope-unstable-atom-puzzles.json](./430139-isotope-unstable-atom-puzzles.json) |
