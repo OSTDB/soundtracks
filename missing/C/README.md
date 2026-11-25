@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Ghosts - Prestige Edition | 102078 | [102078-call-of-duty-ghosts-prestige-edition.json](./102078-call-of-duty-ghosts-prestige-edition.json) |
 | Call of Duty: Global Operations | 196597 | [196597-call-of-duty-global-operations.json](./196597-call-of-duty-global-operations.json) |
 | Call of Duty: Heroes | 60777 | [60777-call-of-duty-heroes.json](./60777-call-of-duty-heroes.json) |
+| Call of Duty: Infinite Warfare - Absolution | 44149 | [44149-call-of-duty-infinite-warfare-absolution.json](./44149-call-of-duty-infinite-warfare-absolution.json) |
 | Call of Duty: Infinite Warfare - Continuum | 28063 | [28063-call-of-duty-infinite-warfare-continuum.json](./28063-call-of-duty-infinite-warfare-continuum.json) |
 | Call of Duty: Infinite Warfare - Digital Deluxe Edition | 118910 | [118910-call-of-duty-infinite-warfare-digital-deluxe-edition.json](./118910-call-of-duty-infinite-warfare-digital-deluxe-edition.json) |
 | Call of Duty: Infinite Warfare - Digital Legacy Edition | 225379 | [225379-call-of-duty-infinite-warfare-digital-legacy-edition.json](./225379-call-of-duty-infinite-warfare-digital-legacy-edition.json) |
@@ -21012,6 +21013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossquare | 175241 | [175241-crossquare.json](./175241-crossquare.json) |
 | Crossroad | 82343 | [82343-crossroad.json](./82343-crossroad.json) |
 | Crossroad Crash | 178777 | [178777-crossroad-crash.json](./178777-crossroad-crash.json) |
+| Crossroad Crisis | 43739 | [43739-crossroad-crisis.json](./43739-crossroad-crisis.json) |
 | Crossroad Mysteries: The Broken Deal | 56687 | [56687-crossroad-mysteries-the-broken-deal.json](./56687-crossroad-mysteries-the-broken-deal.json) |
 | Crossroad of Sid | 109525 | [109525-crossroad-of-sid.json](./109525-crossroad-of-sid.json) |
 | Crossroad of Worlds: 100 Doors - Collector's Edition | 215516 | [215516-crossroad-of-worlds-100-doors-collectors-edition.json](./215516-crossroad-of-worlds-100-doors-collectors-edition.json) |
