@@ -1013,7 +1013,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xol | 155394 | [155394-xol.json](./155394-xol.json) |
 | XOL: Space Mech Wars | 356334 | [356334-xol-space-mech-wars.json](./356334-xol-space-mech-wars.json) |
 | Xoldiers | 199151 | [199151-xoldiers.json](./199151-xoldiers.json) |
-| Xolitaire | 91246 | [91246-xolitaire.json](./91246-xolitaire.json) |
 | Xolo & the Forgotten Gods | 350414 | [350414-xolo-and-the-forgotten-gods.json](./350414-xolo-and-the-forgotten-gods.json) |
 | Xolotl | 195762 | [195762-xolotl.json](./195762-xolotl.json) |
 | Xolt | 18085 | [18085-xolt.json](./18085-xolt.json) |
