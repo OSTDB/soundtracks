@@ -2152,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Attack VR | 234196 | [234196-banana-attack-vr.json](./234196-banana-attack-vr.json) |
 | Banana Bam | 394448 | [394448-banana-bam.json](./394448-banana-bam.json) |
 | Banana Barrage | 341462 | [341462-banana-barrage.json](./341462-banana-barrage.json) |
+| Banana Bliss: Jungle Puzzles | 23515 | [23515-banana-bliss-jungle-puzzles.json](./23515-banana-bliss-jungle-puzzles.json) |
 | Banana Blitz | 318837 | [318837-banana-blitz.json](./318837-banana-blitz.json) |
 | Banana Blood | 398603 | [398603-banana-blood.json](./398603-banana-blood.json) |
 | Banana Boat | 284442 | [284442-banana-boat.json](./284442-banana-boat.json) |
@@ -7942,6 +7943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BetterSADX | 260492 | [260492-bettersadx.json](./260492-bettersadx.json) |
 | BetterVR | 386425 | [386425-bettervr.json](./386425-bettervr.json) |
 | Betty & Earl | 163977 | [163977-betty-and-earl.json](./163977-betty-and-earl.json) |
+| Betty Bad | 23449 | [23449-betty-bad.json](./23449-betty-bad.json) |
 | Betty Bat's Treasure Hunt | 124435 | [124435-betty-bats-treasure-hunt.json](./124435-betty-bats-treasure-hunt.json) |
 | Betty Boop's Double Shift | 8455 | [8455-betty-boops-double-shift.json](./8455-betty-boops-double-shift.json) |
 | Betty's Beer Bar | 70365 | [70365-bettys-beer-bar.json](./70365-bettys-beer-bar.json) |
@@ -12449,6 +12451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Racer | 82248 | [82248-blocky-racer.json](./82248-blocky-racer.json) |
 | Blocky Racing | 81582 | [81582-blocky-racing.json](./81582-blocky-racing.json) |
 | Blocky Raider | 58202 | [58202-blocky-raider.json](./58202-blocky-raider.json) |
+| Blocky Roads | 23413 | [23413-blocky-roads.json](./23413-blocky-roads.json) |
 | Blocky Roads Winterland | 239240 | [239240-blocky-roads-winterland.json](./239240-blocky-roads-winterland.json) |
 | Blocky Rugby | 58198 | [58198-blocky-rugby.json](./58198-blocky-rugby.json) |
 | Blocky Run | 416884 | [416884-blocky-run.json](./416884-blocky-run.json) |
