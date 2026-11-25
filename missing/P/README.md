@@ -16851,6 +16851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Escape | 82645 | [82645-princess-escape.json](./82645-princess-escape.json) |
 | Princess Evangile | 35882 | [35882-princess-evangile.json](./35882-princess-evangile.json) |
 | Princess Evangile W Happiness | 140525 | [140525-princess-evangile-w-happiness.json](./140525-princess-evangile-w-happiness.json) |
+| Princess Evangile W Happiness | 43360 | [43360-princess-evangile-w-happiness.json](./43360-princess-evangile-w-happiness.json) |
 | Princess Fantasy Catventure | 410887 | [410887-princess-fantasy-catventure.json](./410887-princess-fantasy-catventure.json) |
 | Princess Farmer | 134882 | [134882-princess-farmer.json](./134882-princess-farmer.json) |
 | Princess Guard | 122494 | [122494-princess-guard.json](./122494-princess-guard.json) |
@@ -17846,6 +17847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Watts Memory Match: Fresh Fruit | 106634 | [106634-professor-watts-memory-match-fresh-fruit.json](./106634-professor-watts-memory-match-fresh-fruit.json) |
 | Professor Watts Memory Match: Puppies | 109403 | [109403-professor-watts-memory-match-puppies.json](./109403-professor-watts-memory-match-puppies.json) |
 | Professor Watts Memory Match: Yummy Cupcakes | 106643 | [106643-professor-watts-memory-match-yummy-cupcakes.json](./106643-professor-watts-memory-match-yummy-cupcakes.json) |
+| Professor Watts Word Search: Into the Ocean | 43084 | [43084-professor-watts-word-search-into-the-ocean.json](./43084-professor-watts-word-search-into-the-ocean.json) |
 | Professor Watts Word Search: Pirates Life | 103467 | [103467-professor-watts-word-search-pirates-life.json](./103467-professor-watts-word-search-pirates-life.json) |
 | Professor Watts Word Search: Space Voyage | 103820 | [103820-professor-watts-word-search-space-voyage.json](./103820-professor-watts-word-search-space-voyage.json) |
 | Professor Watts Word Search: Yummy Foods | 103468 | [103468-professor-watts-word-search-yummy-foods.json](./103468-professor-watts-word-search-yummy-foods.json) |
