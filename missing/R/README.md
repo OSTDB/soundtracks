@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.B.I. Baseball '93 | 46203 | [46203-r-b-i-baseball-93.json](./46203-r-b-i-baseball-93.json) |
 | R.B.I. Baseball '94 | 92260 | [92260-r-b-i-baseball-94.json](./92260-r-b-i-baseball-94.json) |
 | R.B.I. Baseball 14 | 62324 | [62324-r-b-i-baseball-14.json](./62324-r-b-i-baseball-14.json) |
+| R.B.I. Baseball 16 | 23379 | [23379-r-b-i-baseball-16.json](./23379-r-b-i-baseball-16.json) |
 | R.B.I. Baseball 17 | 51539 | [51539-r-b-i-baseball-17.json](./51539-r-b-i-baseball-17.json) |
 | R.B.I. Baseball 19 | 115205 | [115205-r-b-i-baseball-19.json](./115205-r-b-i-baseball-19.json) |
 | R.B.I. Baseball 2 | 48090 | [48090-r-b-i-baseball-2.json](./48090-r-b-i-baseball-2.json) |
@@ -3450,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Play Golf | 43215 | [43215-real-play-golf.json](./43215-real-play-golf.json) |
 | Real Pool | 43627 | [43627-real-pool.json](./43627-real-pool.json) |
 | Real Pool | 91838 | [91838-real-pool.json](./91838-real-pool.json) |
+| Real Pool 2 | 23460 | [23460-real-pool-2.json](./23460-real-pool-2.json) |
 | Real Pool 3D | 86533 | [86533-real-pool-3d.json](./86533-real-pool-3d.json) |
 | Real Pool 3D - Poolians | 76749 | [76749-real-pool-3d-poolians.json](./76749-real-pool-3d-poolians.json) |
 | Real Pool 3D Plus | 175307 | [175307-real-pool-3d-plus.json](./175307-real-pool-3d-plus.json) |
@@ -7758,6 +7760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolver reacter | 50243 | [50243-revolver-reacter.json](./50243-revolver-reacter.json) |
 | Revolver roulette | 336697 | [336697-revolver-roulette.json](./336697-revolver-roulette.json) |
 | Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
+| Revolver360 Re:Actor | 23439 | [23439-revolver360-re-actor.json](./23439-revolver360-re-actor.json) |
 | Revolvermen | 344397 | [344397-revolvermen.json](./344397-revolvermen.json) |
 | RevolverRouge | 381115 | [381115-revolverrouge.json](./381115-revolverrouge.json) |
 | RevolVR 3 | 169355 | [169355-revolvr-3.json](./169355-revolvr-3.json) |
@@ -11508,6 +11511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Company: ViVi Starter Pack | 257356 | [257356-rogue-company-vivi-starter-pack.json](./257356-rogue-company-vivi-starter-pack.json) |
 | Rogue Company: Year 1 Pass | 406769 | [406769-rogue-company-year-1-pass.json](./406769-rogue-company-year-1-pass.json) |
 | Rogue Conflict | 333491 | [333491-rogue-conflict.json](./333491-rogue-conflict.json) |
+| Rogue Continuum | 23481 | [23481-rogue-continuum.json](./23481-rogue-continuum.json) |
 | Rogue Contracts: Syndicate | 26696 | [26696-rogue-contracts-syndicate.json](./26696-rogue-contracts-syndicate.json) |
 | Rogue Cube Defense | 234523 | [234523-rogue-cube-defense.json](./234523-rogue-cube-defense.json) |
 | Rogue Day | 253610 | [253610-rogue-day.json](./253610-rogue-day.json) |
