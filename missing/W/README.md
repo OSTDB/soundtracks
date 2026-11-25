@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbits+ | 245923 | [245923-warbits.json](./245923-warbits.json) |
 | Warbl | 280457 | [280457-warbl.json](./280457-warbl.json) |
 | Warblade | 128358 | [128358-warblade.json](./128358-warblade.json) |
+| Warborn: Variable Armour Command | 112598 | [112598-warborn-variable-armour-command.json](./112598-warborn-variable-armour-command.json) |
 | Warborne: Above Ashes | 333102 | [333102-warborne-above-ashes.json](./333102-warborne-above-ashes.json) |
 | Warboss | 390479 | [390479-warboss.json](./390479-warboss.json) |
 | Warbot | 86523 | [86523-warbot.json](./86523-warbot.json) |
@@ -4733,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Rivers Were Trails | 130405 | [130405-when-rivers-were-trails.json](./130405-when-rivers-were-trails.json) |
 | When Silence Fell | 114428 | [114428-when-silence-fell.json](./114428-when-silence-fell.json) |
 | When Sirens Fall Silent | 380417 | [380417-when-sirens-fall-silent.json](./380417-when-sirens-fall-silent.json) |
+| When Ski Lifts Go Wrong | 111908 | [111908-when-ski-lifts-go-wrong.json](./111908-when-ski-lifts-go-wrong.json) |
 | When Stars Align | 424084 | [424084-when-stars-align.json](./424084-when-stars-align.json) |
 | When Stars Collide | 364519 | [364519-when-stars-collide.json](./364519-when-stars-collide.json) |
 | When Stuffed Animals Attack! | 203103 | [203103-when-stuffed-animals-attack.json](./203103-when-stuffed-animals-attack.json) |
@@ -10796,6 +10798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wummsen Village | 361118 | [361118-wummsen-village.json](./361118-wummsen-village.json) |
 | Wumpus | 61029 | [61029-wumpus.json](./61029-wumpus.json) |
 | Wunder: The Double-sided Deckbuilder | 391435 | [391435-wunder-the-double-sided-deckbuilder.json](./391435-wunder-the-double-sided-deckbuilder.json) |
+| Wunderdoktor | 74537 | [74537-wunderdoktor.json](./74537-wunderdoktor.json) |
 | Wunderhaven | 166763 | [166763-wunderhaven.json](./166763-wunderhaven.json) |
 | Wunderheilung | 128560 | [128560-wunderheilung.json](./128560-wunderheilung.json) |
 | Wunderling DX | 219755 | [219755-wunderling-dx.json](./219755-wunderling-dx.json) |
