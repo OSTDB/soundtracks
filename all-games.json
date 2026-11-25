@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-25T14:46:01.220Z",
-  "total_soundtracks": 3950,
+  "generated_at": "2026-11-25T15:06:00.061Z",
+  "total_soundtracks": 3951,
   "games": [
     {
       "igdb_id": 292844,
@@ -3425,6 +3425,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/atlas-fallen-original-game-soundtrack/1724853286?uo=4",
           "album_link_url": "https://album.link/i/1724853286"
+        }
+      ]
+    },
+    {
+      "igdb_id": 90077,
+      "game_name": "Atmocity",
+      "game_url": "https://ostdb.net/games/atmocity",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732a62e36b283b2e9900946b1f",
+      "albums": [
+        {
+          "album_name": "Atmocity (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/51kOwU8bVPi6KRfI7Bio13",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
