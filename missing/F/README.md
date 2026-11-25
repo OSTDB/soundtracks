@@ -2958,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Racing. | 394296 | [394296-farm-racing.json](./394296-farm-racing.json) |
 | Farm Renovator | 216618 | [216618-farm-renovator.json](./216618-farm-renovator.json) |
 | Farm Rescue | 359407 | [359407-farm-rescue.json](./359407-farm-rescue.json) |
+| Farm Ricochet | 419994 | [419994-farm-ricochet.json](./419994-farm-ricochet.json) |
 | Farm RPG | 208184 | [208184-farm-rpg.json](./208184-farm-rpg.json) |
 | Farm Shop: Time Management Game | 235295 | [235295-farm-shop-time-management-game.json](./235295-farm-shop-time-management-game.json) |
 | Farm Simulator 2025 | 368460 | [368460-farm-simulator-2025.json](./368460-farm-simulator-2025.json) |
@@ -3465,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Manicz | 61270 | [61270-fast-manicz.json](./61270-fast-manicz.json) |
 | Fast Mine Sweeping: Skill Awakening | 398070 | [398070-fast-mine-sweeping-skill-awakening.json](./398070-fast-mine-sweeping-skill-awakening.json) |
 | Fast or Dead VR | 215568 | [215568-fast-or-dead-vr.json](./215568-fast-or-dead-vr.json) |
+| Fast Pace | 422803 | [422803-fast-pace.json](./422803-fast-pace.json) |
 | Fast Racing | 99330 | [99330-fast-racing.json](./99330-fast-racing.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
 | Fast Racing Neo | 14886 | [14886-fast-racing-neo.json](./14886-fast-racing-neo.json) |
@@ -4596,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fénhún zhī Mèng | 148684 | [148684-fenhun-zhi-meng.json](./148684-fenhun-zhi-meng.json) |
 | Fenimore Fillmore: 3 Skulls of the Toltecs | 111882 | [111882-fenimore-fillmore-3-skulls-of-the-toltecs.json](./111882-fenimore-fillmore-3-skulls-of-the-toltecs.json) |
 | Fenimore Fillmore: The Westerner | 27496 | [27496-fenimore-fillmore-the-westerner.json](./27496-fenimore-fillmore-the-westerner.json) |
+| Fenimore Fillmore: The Westerner | 418258 | [418258-fenimore-fillmore-the-westerner.json](./418258-fenimore-fillmore-the-westerner.json) |
 | Fenimore Fillmore's Revenge | 27491 | [27491-fenimore-fillmores-revenge.json](./27491-fenimore-fillmores-revenge.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
 | Fenix | 429173 | [429173-fenix.json](./429173-fenix.json) |
@@ -4888,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibs | 417749 | [417749-fibs.json](./417749-fibs.json) |
 | Fibula | 253945 | [253945-fibula.json](./253945-fibula.json) |
 | Fibula Wars | 145293 | [145293-fibula-wars.json](./145293-fibula-wars.json) |
+| Ficciones//Nihility, Sea & Blissful Jellyfish | 422446 | [422446-ficciones-nihility-sea-and-blissful-jellyfish.json](./422446-ficciones-nihility-sea-and-blissful-jellyfish.json) |
 | Fickle Allies | 417495 | [417495-fickle-allies.json](./417495-fickle-allies.json) |
 | Fickle Card Legend | 384259 | [384259-fickle-card-legend.json](./384259-fickle-card-legend.json) |
 | FickleFlame | 367472 | [367472-fickleflame.json](./367472-fickleflame.json) |
@@ -11120,6 +11124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For The Warp: Void Echoes | 429433 | [429433-for-the-warp-void-echoes.json](./429433-for-the-warp-void-echoes.json) |
 | For the Wheat | 361734 | [361734-for-the-wheat.json](./361734-for-the-wheat.json) |
 | For The Win | 321509 | [321509-for-the-win.json](./321509-for-the-win.json) |
+| For the Witch | 418385 | [418385-for-the-witch.json](./418385-for-the-witch.json) |
 | For Those We Forgot | 291369 | [291369-for-those-we-forgot.json](./291369-for-those-we-forgot.json) |
 | For What Will Come | 213010 | [213010-for-what-will-come.json](./213010-for-what-will-come.json) |
 | For What Will Come: Reimagined | 359896 | [359896-for-what-will-come-reimagined.json](./359896-for-what-will-come-reimagined.json) |
@@ -15316,6 +15321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Bet: Fighting Casino | 392189 | [392189-full-bet-fighting-casino.json](./392189-full-bet-fighting-casino.json) |
 | Full Blast Hitchhike | 344479 | [344479-full-blast-hitchhike.json](./344479-full-blast-hitchhike.json) |
 | Full Bloom | 275561 | [275561-full-bloom.json](./275561-full-bloom.json) |
+| Full Bloom | 418118 | [418118-full-bloom.json](./418118-full-bloom.json) |
 | Full Body Rhythm VR | 142538 | [142538-full-body-rhythm-vr.json](./142538-full-body-rhythm-vr.json) |
 | Full Body Workout | 292716 | [292716-full-body-workout.json](./292716-full-body-workout.json) |
 | Full Bokko Heroes X | 59972 | [59972-full-bokko-heroes-x.json](./59972-full-bokko-heroes-x.json) |
