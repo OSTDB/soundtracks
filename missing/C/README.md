@@ -3844,7 +3844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casey Duck: Butter Duck | 218408 | [218408-casey-duck-butter-duck.json](./218408-casey-duck-butter-duck.json) |
 | Casey Noir and Carved Pumpkin's Latte | 353967 | [353967-casey-noir-and-carved-pumpkins-latte.json](./353967-casey-noir-and-carved-pumpkins-latte.json) |
 | Casey Powell Lacrosse 16 | 20969 | [20969-casey-powell-lacrosse-16.json](./20969-casey-powell-lacrosse-16.json) |
-| Casey Powell Lacrosse 18 | 96477 | [96477-casey-powell-lacrosse-18.json](./96477-casey-powell-lacrosse-18.json) |
 | Casey Taylor: Ace Attorney | 302646 | [302646-casey-taylor-ace-attorney.json](./302646-casey-taylor-ace-attorney.json) |
 | Casey's Contraptions | 63646 | [63646-caseys-contraptions.json](./63646-caseys-contraptions.json) |
 | Cash & Stash: A Vaultkeeper Story | 428583 | [428583-cash-and-stash-a-vaultkeeper-story.json](./428583-cash-and-stash-a-vaultkeeper-story.json) |
@@ -5056,7 +5055,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catana | 180993 | [180993-catana.json](./180993-catana.json) |
 | Catana: Red Flowers | 380560 | [380560-catana-red-flowers.json](./380560-catana-red-flowers.json) |
 | Catanks | 409404 | [409404-catanks.json](./409404-catanks.json) |
-| catAnod | 96429 | [96429-catanod.json](./96429-catanod.json) |
 | Cataphract OI | 202894 | [202894-cataphract-oi.json](./202894-cataphract-oi.json) |
 | Cataplexy | 186826 | [186826-cataplexy.json](./186826-cataplexy.json) |
 | Catapole | 405489 | [405489-catapole.json](./405489-catapole.json) |
@@ -5703,7 +5701,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Digger 2 | 266177 | [266177-cave-digger-2.json](./266177-cave-digger-2.json) |
 | Cave Digger 2: Dig Harder | 158682 | [158682-cave-digger-2-dig-harder.json](./158682-cave-digger-2-dig-harder.json) |
 | Cave Digger 2: Mixed Reality Expansion | 306958 | [306958-cave-digger-2-mixed-reality-expansion.json](./306958-cave-digger-2-mixed-reality-expansion.json) |
-| Cave Digger VR | 96467 | [96467-cave-digger-vr.json](./96467-cave-digger-vr.json) |
 | Cave Digger: Riches | 107230 | [107230-cave-digger-riches.json](./107230-cave-digger-riches.json) |
 | Cave Diver | 362819 | [362819-cave-diver.json](./362819-cave-diver.json) |
 | Cave Dude | 282496 | [282496-cave-dude.json](./282496-cave-dude.json) |
@@ -6527,7 +6524,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Slave | 97603 | [97603-chain-slave.json](./97603-chain-slave.json) |
 | Chain Solitaire Royale | 89469 | [89469-chain-solitaire-royale.json](./89469-chain-solitaire-royale.json) |
 | Chain Solitaire: Fun Card Game | 99356 | [99356-chain-solitaire-fun-card-game.json](./99356-chain-solitaire-fun-card-game.json) |
-| Chain Strike | 96546 | [96546-chain-strike.json](./96546-chain-strike.json) |
 | Chain World | 92484 | [92484-chain-world.json](./92484-chain-world.json) |
 | Chain-Chillas | 398343 | [398343-chain-chillas.json](./398343-chain-chillas.json) |
 | Chain-Em | 366363 | [366363-chain-em.json](./366363-chain-em.json) |
@@ -6682,7 +6678,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chamber | 182693 | [182693-chamber.json](./182693-chamber.json) |
 | Chamber 19 | 32543 | [32543-chamber-19.json](./32543-chamber-19.json) |
 | Chamber no. 5 | 367380 | [367380-chamber-no-5.json](./367380-chamber-no-5.json) |
-| Chamber of Darkness | 96853 | [96853-chamber-of-darkness.json](./96853-chamber-of-darkness.json) |
 | Chamber of Hex | 257381 | [257381-chamber-of-hex.json](./257381-chamber-of-hex.json) |
 | Chamber of the Greblicks | 177759 | [177759-chamber-of-the-greblicks.json](./177759-chamber-of-the-greblicks.json) |
 | Chamber of the Sci-Mutant Priestess | 81786 | [81786-chamber-of-the-sci-mutant-priestess.json](./81786-chamber-of-the-sci-mutant-priestess.json) |
@@ -9815,7 +9810,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Lilith | 149833 | [149833-chronicles-of-lilith.json](./149833-chronicles-of-lilith.json) |
 | Chronicles of Lurra | 110644 | [110644-chronicles-of-lurra.json](./110644-chronicles-of-lurra.json) |
 | Chronicles of Lussaria | 284899 | [284899-chronicles-of-lussaria.json](./284899-chronicles-of-lussaria.json) |
-| Chronicles of Magic | 95250 | [95250-chronicles-of-magic.json](./95250-chronicles-of-magic.json) |
 | Chronicles of Magic: Divided Kingdoms | 94061 | [94061-chronicles-of-magic-divided-kingdoms.json](./94061-chronicles-of-magic-divided-kingdoms.json) |
 | Chronicles of Middle Ages | 342761 | [342761-chronicles-of-middle-ages.json](./342761-chronicles-of-middle-ages.json) |
 | Chronicles of Mystery: Curse of the Ancient Temple | 21096 | [21096-chronicles-of-mystery-curse-of-the-ancient-temple.json](./21096-chronicles-of-mystery-curse-of-the-ancient-temple.json) |
@@ -13522,7 +13516,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Pit | 394563 | [394563-coin-pit.json](./394563-coin-pit.json) |
 | Coin Princess VIP | 104401 | [104401-coin-princess-vip.json](./104401-coin-princess-vip.json) |
 | Coin Push RPG | 336010 | [336010-coin-push-rpg.json](./336010-coin-push-rpg.json) |
-| Coin Pusher | 95262 | [95262-coin-pusher.json](./95262-coin-pusher.json) |
 | Coin Pusher Casino | 230196 | [230196-coin-pusher-casino.json](./230196-coin-pusher-casino.json) |
 | Coin Pusher Live | 280382 | [280382-coin-pusher-live.json](./280382-coin-pusher-live.json) |
 | Coin Pusher Reloaded | 358520 | [358520-coin-pusher-reloaded.json](./358520-coin-pusher-reloaded.json) |
@@ -18777,7 +18770,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft | 280355 | [280355-craft.json](./280355-craft.json) |
 | Craft & Conquer | 339334 | [339334-craft-and-conquer.json](./339334-craft-and-conquer.json) |
 | Craft & Deliver | 406889 | [406889-craft-and-deliver.json](./406889-craft-and-deliver.json) |
-| Craft & Dungeon | 95279 | [95279-craft-and-dungeon.json](./95279-craft-and-dungeon.json) |
 | Craft & Survive | 172296 | [172296-craft-and-survive.json](./172296-craft-and-survive.json) |
 | Craft Archeology Simulator: Pyramid to Polar | 302257 | [302257-craft-archeology-simulator-pyramid-to-polar.json](./302257-craft-archeology-simulator-pyramid-to-polar.json) |
 | Craft Away! - Idle Mining Game | 99337 | [99337-craft-away-idle-mining-game.json](./99337-craft-away-idle-mining-game.json) |
@@ -20676,7 +20668,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crocolike | 180608 | [180608-crocolike.json](./180608-crocolike.json) |
 | CrocoMars | 86565 | [86565-crocomars.json](./86565-crocomars.json) |
 | CrocPond | 91741 | [91741-crocpond.json](./91741-crocpond.json) |
-| Crocro Adventure | 96341 | [96341-crocro-adventure.json](./96341-crocro-adventure.json) |
 | Crocs on Parade | 359734 | [359734-crocs-on-parade.json](./359734-crocs-on-parade.json) |
 | Crocs World Construction Kit 2 | 253986 | [253986-crocs-world-construction-kit-2.json](./253986-crocs-world-construction-kit-2.json) |
 | Crocus Field | 398713 | [398713-crocus-field.json](./398713-crocus-field.json) |
@@ -21296,7 +21287,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crucial Throw | 90302 | [90302-crucial-throw.json](./90302-crucial-throw.json) |
 | Crucible | 238683 | [238683-crucible.json](./238683-crucible.json) |
 | Crucible | 24653 | [24653-crucible.json](./24653-crucible.json) |
-| Crucible Falls: Together Forever | 96959 | [96959-crucible-falls-together-forever.json](./96959-crucible-falls-together-forever.json) |
 | Crucible of the Forgotten | 340585 | [340585-crucible-of-the-forgotten.json](./340585-crucible-of-the-forgotten.json) |
 | Crucible Of Time | 359041 | [359041-crucible-of-time.json](./359041-crucible-of-time.json) |
 | Crucible TD | 380098 | [380098-crucible-td.json](./380098-crucible-td.json) |
@@ -21742,7 +21732,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
 | CryptoCoin, Inc. | 103296 | [103296-cryptocoin-inc.json](./103296-cryptocoin-inc.json) |
 | Cryptocracy | 29027 | [29027-cryptocracy.json](./29027-cryptocracy.json) |
-| Cryptocurrency Clicker | 95208 | [95208-cryptocurrency-clicker.json](./95208-cryptocurrency-clicker.json) |
 | Cryptofall: Investor simulator | 122253 | [122253-cryptofall-investor-simulator.json](./122253-cryptofall-investor-simulator.json) |
 | CryptoFarm | 107771 | [107771-cryptofarm.json](./107771-cryptofarm.json) |
 | CryptoFights | 111891 | [111891-cryptofights.json](./111891-cryptofights.json) |
@@ -22003,7 +21992,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalreach Islands | 190912 | [190912-crystalreach-islands.json](./190912-crystalreach-islands.json) |
 | Crystalrect | 238928 | [238928-crystalrect.json](./238928-crystalrect.json) |
 | Crystals | 284980 | [284980-crystals.json](./284980-crystals.json) |
-| Crystals & Curses | 96700 | [96700-crystals-and-curses.json](./96700-crystals-and-curses.json) |
 | Crystals and Curses | 81987 | [81987-crystals-and-curses.json](./81987-crystals-and-curses.json) |
 | Crystals of Amalgam | 183023 | [183023-crystals-of-amalgam.json](./183023-crystals-of-amalgam.json) |
 | Crystals of Arborea | 2460 | [2460-crystals-of-arborea.json](./2460-crystals-of-arborea.json) |
@@ -22208,7 +22196,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Creatures | 51988 | [51988-cube-creatures.json](./51988-cube-creatures.json) |
 | Cube Crisis | 156094 | [156094-cube-crisis.json](./156094-cube-crisis.json) |
 | Cube Crusaders | 265676 | [265676-cube-crusaders.json](./265676-cube-crusaders.json) |
-| Cube Crush | 96570 | [96570-cube-crush.json](./96570-cube-crush.json) |
 | Cube Cube - Mobile eSports | 86955 | [86955-cube-cube-mobile-esports.json](./86955-cube-cube-mobile-esports.json) |
 | Cube Cube 2 | 365146 | [365146-cube-cube-2.json](./365146-cube-cube-2.json) |
 | Cube Cube! | 234324 | [234324-cube-cube.json](./234324-cube-cube.json) |
