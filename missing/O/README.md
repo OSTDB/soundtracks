@@ -109,7 +109,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oakley's World | 337601 | [337601-oakleys-world.json](./337601-oakleys-world.json) |
 | Oakpointe | 428312 | [428312-oakpointe.json](./428312-oakpointe.json) |
 | Oaks vs. Orcs | 417257 | [417257-oaks-vs-orcs.json](./417257-oaks-vs-orcs.json) |
-| Oakwood Academy of Spells and Sorcery | 90196 | [90196-oakwood-academy-of-spells-and-sorcery.json](./90196-oakwood-academy-of-spells-and-sorcery.json) |
 | OAOA: Off and on Again | 115139 | [115139-oaoa-off-and-on-again.json](./115139-oaoa-off-and-on-again.json) |
 | Oar'some Adventures | 411805 | [411805-oarsome-adventures.json](./411805-oarsome-adventures.json) |
 | OASE: Other Age Second Encounter | 34478 | [34478-oase-other-age-second-encounter.json](./34478-oase-other-age-second-encounter.json) |
@@ -1095,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Fight | 270963 | [270963-office-fight.json](./270963-office-fight.json) |
 | Office Freakout | 25107 | [25107-office-freakout.json](./25107-office-freakout.json) |
 | Office Girls and Games | 235568 | [235568-office-girls-and-games.json](./235568-office-girls-and-games.json) |
+| Office Girls' Love: Shigodeki Joushi to no Dousei Seikatsu - Igai to Kawaii Kanojo no Sugao | 428362 | [428362-office-girls-love-shigodeki-joushi-to-no-dousei-seikatsu-igai-to-kawaii-kanojo-no-sugao.json](./428362-office-girls-love-shigodeki-joushi-to-no-dousei-seikatsu-igai-to-kawaii-kanojo-no-sugao.json) |
 | Office Hero | 382516 | [382516-office-hero.json](./382516-office-hero.json) |
 | Office Hours | 403076 | [403076-office-hours.json](./403076-office-hours.json) |
 | Office Hurdles | 268019 | [268019-office-hurdles.json](./268019-office-hurdles.json) |
@@ -1634,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olber's Paradox | 392816 | [392816-olbers-paradox.json](./392816-olbers-paradox.json) |
 | Old Adventure | 76374 | [76374-old-adventure.json](./76374-old-adventure.json) |
 | Old Bira's Farm | 234844 | [234844-old-biras-farm.json](./234844-old-biras-farm.json) |
+| Old Bones | 428056 | [428056-old-bones.json](./428056-old-bones.json) |
 | Old Boy | 251762 | [251762-old-boy.json](./251762-old-boy.json) |
 | Old Car Crusher Crane & Dump Truck Driver | 99721 | [99721-old-car-crusher-crane-and-dump-truck-driver.json](./99721-old-car-crusher-crane-and-dump-truck-driver.json) |
 | Old Coin Pusher Friends | 172958 | [172958-old-coin-pusher-friends.json](./172958-old-coin-pusher-friends.json) |
@@ -3114,7 +3115,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Way to Die | 60205 | [60205-one-way-to-die.json](./60205-one-way-to-die.json) |
 | One Way to Die: Deluxe | 116653 | [116653-one-way-to-die-deluxe.json](./116653-one-way-to-die-deluxe.json) |
 | One Way to Die: Deluxe Edition | 116652 | [116652-one-way-to-die-deluxe-edition.json](./116652-one-way-to-die-deluxe-edition.json) |
-| One Way to Die: Steam Edition | 90613 | [90613-one-way-to-die-steam-edition.json](./90613-one-way-to-die-steam-edition.json) |
 | One way to exit | 33284 | [33284-one-way-to-exit.json](./33284-one-way-to-exit.json) |
 | One Way to Exit 2 | 172986 | [172986-one-way-to-exit-2.json](./172986-one-way-to-exit-2.json) |
 | One Way Trip | 199537 | [199537-one-way-trip.json](./199537-one-way-trip.json) |
@@ -3335,7 +3335,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onigo Hunter | 133618 | [133618-onigo-hunter.json](./133618-onigo-hunter.json) |
 | Onigokko! | 153767 | [153767-onigokko.json](./153767-onigokko.json) |
 | Onii Kiss: Onii-chan, Where's My Kiss? | 401171 | [401171-onii-kiss-onii-chan-wheres-my-kiss.json](./401171-onii-kiss-onii-chan-wheres-my-kiss.json) |
-| Onii-Chan | 89968 | [89968-onii-chan.json](./89968-onii-chan.json) |
 | Onii-chan Continue!: Secret Love With Yuri | 396239 | [396239-onii-chan-continue-secret-love-with-yuri.json](./396239-onii-chan-continue-secret-love-with-yuri.json) |
 | Oniken | 8963 | [8963-oniken.json](./8963-oniken.json) |
 | Oniken + Odallus Collection | 124320 | [124320-oniken-odallus-collection.json](./124320-oniken-odallus-collection.json) |
@@ -4252,6 +4251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oracle: Threads of Fate | 89260 | [89260-oracle-threads-of-fate.json](./89260-oracle-threads-of-fate.json) |
 | Oracle's Inn | 335528 | [335528-oracles-inn.json](./335528-oracles-inn.json) |
 | Oracles Cave | 45365 | [45365-oracles-cave.json](./45365-oracles-cave.json) |
+| Orae | 426754 | [426754-orae.json](./426754-orae.json) |
 | Oraga Land Shusai: Best Farmer Shuukaku-Sai | 44382 | [44382-oraga-land-shusai-best-farmer-shuukaku-sai.json](./44382-oraga-land-shusai-best-farmer-shuukaku-sai.json) |
 | Oraiah | 148628 | [148628-oraiah.json](./148628-oraiah.json) |
 | Orake | 19434 | [19434-orake.json](./19434-orake.json) |
@@ -6482,7 +6482,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlay Balls & Mouse Tails | 167980 | [167980-overlay-balls-and-mouse-tails.json](./167980-overlay-balls-and-mouse-tails.json) |
 | Overlewd | 253343 | [253343-overlewd.json](./253343-overlewd.json) |
 | Overlight | 62971 | [62971-overlight.json](./62971-overlight.json) |
-| Overload Playable Teaser | 90591 | [90591-overload-playable-teaser.json](./90591-overload-playable-teaser.json) |
 | Overload: Anniversary Level Pack | 238864 | [238864-overload-anniversary-level-pack.json](./238864-overload-anniversary-level-pack.json) |
 | Overload: Community Level Pack | 238863 | [238863-overload-community-level-pack.json](./238863-overload-community-level-pack.json) |
 | Overload: First Strike | 274242 | [274242-overload-first-strike.json](./274242-overload-first-strike.json) |
