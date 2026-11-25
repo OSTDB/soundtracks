@@ -9927,6 +9927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DianQi | 376401 | [376401-dianqi.json](./376401-dianqi.json) |
 | Diàntǒng Xiá | 121264 | [121264-diantong-xia.json](./121264-diantong-xia.json) |
 | Diànwán Bǔyú | 369189 | [369189-dianwan-buyu.json](./369189-dianwan-buyu.json) |
+| Diànzǐchǎng zhī Chéng | 428269 | [428269-dianzichang-zhi-cheng.json](./428269-dianzichang-zhi-cheng.json) |
 | Diapause | 374597 | [374597-diapause.json](./374597-diapause.json) |
 | Diaper Dash | 16069 | [16069-diaper-dash.json](./16069-diaper-dash.json) |
 | Diaperquest 2055 | 112464 | [112464-diaperquest-2055.json](./112464-diaperquest-2055.json) |
@@ -14758,6 +14759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Stop in Red Wood | 378387 | [378387-dont-stop-in-red-wood.json](./378387-dont-stop-in-red-wood.json) |
 | Don't Stop Mike | 415574 | [415574-dont-stop-mike.json](./415574-dont-stop-mike.json) |
 | Don’t Stop Smiling | 384146 | [384146-don-t-stop-smiling.json](./384146-don-t-stop-smiling.json) |
+| Don't Stop the Beat | 427159 | [427159-dont-stop-the-beat.json](./427159-dont-stop-the-beat.json) |
 | Don't Stop The Pop! | 429546 | [429546-dont-stop-the-pop.json](./429546-dont-stop-the-pop.json) |
 | Don't Stop You'll Die | 211794 | [211794-dont-stop-youll-die.json](./211794-dont-stop-youll-die.json) |
 | Don't Take It Personally, Babe, It Just Ain't Your Story | 66033 | [66033-dont-take-it-personally-babe-it-just-aint-your-story.json](./66033-dont-take-it-personally-babe-it-just-aint-your-story.json) |
