@@ -3202,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Tidy Up Frenemies | 419803 | [419803-mall-tidy-up-frenemies.json](./419803-mall-tidy-up-frenemies.json) |
 | Mall Together | 400213 | [400213-mall-together.json](./400213-mall-together.json) |
 | Mall Town | 119629 | [119629-mall-town.json](./119629-mall-town.json) |
+| Mall Tycoon | 23450 | [23450-mall-tycoon.json](./23450-mall-tycoon.json) |
 | Mall Tycoon - Billionaires Club Game | 106773 | [106773-mall-tycoon-billionaires-club-game.json](./106773-mall-tycoon-billionaires-club-game.json) |
 | Mall Tycoon 2 | 73420 | [73420-mall-tycoon-2.json](./73420-mall-tycoon-2.json) |
 | Mall Tycoon 3 | 69181 | [69181-mall-tycoon-3.json](./69181-mall-tycoon-3.json) |
@@ -13456,6 +13457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike the Hooper | 411903 | [411903-mike-the-hooper.json](./411903-mike-the-hooper.json) |
 | Mike the Knight and The Great Gallop | 84636 | [84636-mike-the-knight-and-the-great-gallop.json](./84636-mike-the-knight-and-the-great-gallop.json) |
 | Mike Tyson Boxing | 209511 | [209511-mike-tyson-boxing.json](./209511-mike-tyson-boxing.json) |
+| Mike Tyson Boxing | 23452 | [23452-mike-tyson-boxing.json](./23452-mike-tyson-boxing.json) |
 | Mike Tyson Heavyweight Boxing | 24076 | [24076-mike-tyson-heavyweight-boxing.json](./24076-mike-tyson-heavyweight-boxing.json) |
 | Mike Tyson's Intergalactic Power Punch | 48573 | [48573-mike-tysons-intergalactic-power-punch.json](./48573-mike-tysons-intergalactic-power-punch.json) |
 | Mike Tyson's Punch Out!!?? | 358438 | [358438-mike-tysons-punch-out.json](./358438-mike-tysons-punch-out.json) |
@@ -13839,6 +13841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimelet | 187784 | [187784-mimelet.json](./187784-mimelet.json) |
 | Mimeoverse: Mimeo and the Kleptopus King | 66833 | [66833-mimeoverse-mimeo-and-the-kleptopus-king.json](./66833-mimeoverse-mimeo-and-the-kleptopus-king.json) |
 | Mimesis | 343183 | [343183-mimesis.json](./343183-mimesis.json) |
+| Mimesis Online | 23453 | [23453-mimesis-online.json](./23453-mimesis-online.json) |
 | Mimetic | 383731 | [383731-mimetic.json](./383731-mimetic.json) |
 | Mimetic Love | 215595 | [215595-mimetic-love.json](./215595-mimetic-love.json) |
 | Mimi | 202315 | [202315-mimi.json](./202315-mimi.json) |
@@ -20674,6 +20677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Mania 3 | 5932 | [5932-motocross-mania-3.json](./5932-motocross-mania-3.json) |
 | Motocross Maniacs | 73130 | [73130-motocross-maniacs.json](./73130-motocross-maniacs.json) |
 | Motocross Maniacs 2 | 49891 | [49891-motocross-maniacs-2.json](./49891-motocross-maniacs-2.json) |
+| Motocross Maniacs Advance | 23475 | [23475-motocross-maniacs-advance.json](./23475-motocross-maniacs-advance.json) |
 | Motocross Mayhem | 245746 | [245746-motocross-mayhem.json](./245746-motocross-mayhem.json) |
 | Motocross Meltdown | 343969 | [343969-motocross-meltdown.json](./343969-motocross-meltdown.json) |
 | Motocross Mini Outrun | 255034 | [255034-motocross-mini-outrun.json](./255034-motocross-mini-outrun.json) |
