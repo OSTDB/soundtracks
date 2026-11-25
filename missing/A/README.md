@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Short Day | 247115 | [247115-a-short-day.json](./247115-a-short-day.json) |
 | A Short Death | 332977 | [332977-a-short-death.json](./332977-a-short-death.json) |
 | A Short Game About Nothing | 395167 | [395167-a-short-game-about-nothing.json](./395167-a-short-game-about-nothing.json) |
+| A Short Hike: Collector's Edition | 422335 | [422335-a-short-hike-collectors-edition.json](./422335-a-short-hike-collectors-edition.json) |
 | A Short Odyssey | 294128 | [294128-a-short-odyssey.json](./294128-a-short-odyssey.json) |
 | A Short Sail | 421541 | [421541-a-short-sail.json](./421541-a-short-sail.json) |
 | A Short Tale | 93860 | [93860-a-short-tale.json](./93860-a-short-tale.json) |
