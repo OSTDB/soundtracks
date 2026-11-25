@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-24T15:55:58.194Z",
-  "total_soundtracks": 3943,
+  "generated_at": "2026-11-25T02:35:56.642Z",
+  "total_soundtracks": 3944,
   "games": [
     {
       "igdb_id": 292844,
@@ -7353,6 +7353,20 @@
         {
           "album_name": "Century: Age of Ashes (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/585Btyo2jbgjL2svkOsmWC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 96651,
+      "game_name": "Ceress and Orea",
+      "game_url": "https://ostdb.net/games/ceress-and-orea",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fd6ced7289e247b33ddb04b3",
+      "albums": [
+        {
+          "album_name": "Ceress and Orea (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5mwVVIJ0Fxm5ZLIHs1a0Qf",
           "apple_music_url": "",
           "album_link_url": ""
         }
