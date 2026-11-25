@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Stalker: Full Metal Force | 221317 | [221317-mad-stalker-full-metal-force.json](./221317-mad-stalker-full-metal-force.json) |
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
 | Mad Stalker: Full Metal Forth | 221310 | [221310-mad-stalker-full-metal-forth.json](./221310-mad-stalker-full-metal-forth.json) |
+| Mad Steez | 431251 | [431251-mad-steez.json](./431251-mad-steez.json) |
 | Mad Survivor: Arid Warfire | 287370 | [287370-mad-survivor-arid-warfire.json](./287370-mad-survivor-arid-warfire.json) |
 | Mad Tanks | 179464 | [179464-mad-tanks.json](./179464-mad-tanks.json) |
 | Mad Tanks | 58678 | [58678-mad-tanks.json](./58678-mad-tanks.json) |
@@ -3442,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manage that Waste | 73416 | [73416-manage-that-waste.json](./73416-manage-that-waste.json) |
 | Manage the Stars: Sports Agent | 251737 | [251737-manage-the-stars-sports-agent.json](./251737-manage-the-stars-sports-agent.json) |
 | Manage Your Football Club | 84411 | [84411-manage-your-football-club.json](./84411-manage-your-football-club.json) |
+| ManageFC | 431349 | [431349-managefc.json](./431349-managefc.json) |
 | Management in Space | 400849 | [400849-management-in-space.json](./400849-management-in-space.json) |
 | Management Wanted | 364652 | [364652-management-wanted.json](./364652-management-wanted.json) |
 | Management Worlds Bundle | 325005 | [325005-management-worlds-bundle.json](./325005-management-worlds-bundle.json) |
@@ -18563,6 +18565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Milktruck! | 145670 | [145670-monster-milktruck.json](./145670-monster-milktruck.json) |
 | Monster Mind | 137004 | [137004-monster-mind.json](./137004-monster-mind.json) |
 | Monster Mine Clash | 390245 | [390245-monster-mine-clash.json](./390245-monster-mine-clash.json) |
+| Monster Mingle | 23222 | [23222-monster-mingle.json](./23222-monster-mingle.json) |
 | Monster Minis Extreme Off-Road | 108292 | [108292-monster-minis-extreme-off-road.json](./108292-monster-minis-extreme-off-road.json) |
 | Monster MIX | 108394 | [108394-monster-mix.json](./108394-monster-mix.json) |
 | Monster MMORPG | 340727 | [340727-monster-mmorpg.json](./340727-monster-mmorpg.json) |
@@ -21040,6 +21043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mourn-born | 204938 | [204938-mourn-born.json](./204938-mourn-born.json) |
 | Mournful Sword | 121583 | [121583-mournful-sword.json](./121583-mournful-sword.json) |
 | Mournight | 331047 | [331047-mournight.json](./331047-mournight.json) |
+| Mourning Brew | 431351 | [431351-mourning-brew.json](./431351-mourning-brew.json) |
 | Mourning Inc. | 158035 | [158035-mourning-inc.json](./158035-mourning-inc.json) |
 | Mourning Tide | 306174 | [306174-mourning-tide.json](./306174-mourning-tide.json) |
 | Mourningwood Lodge | 370104 | [370104-mourningwood-lodge.json](./370104-mourningwood-lodge.json) |
@@ -23115,6 +23119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MVP Baseball 2004 | 10627 | [10627-mvp-baseball-2004.json](./10627-mvp-baseball-2004.json) |
 | MVP Baseball 2005 | 796 | [796-mvp-baseball-2005.json](./796-mvp-baseball-2005.json) |
 | MVP Bridge | 93081 | [93081-mvp-bridge.json](./93081-mvp-bridge.json) |
+| MVP Career: Golf | 431321 | [431321-mvp-career-golf.json](./431321-mvp-career-golf.json) |
 | MVP Spades Deluxe | 93396 | [93396-mvp-spades-deluxe.json](./93396-mvp-spades-deluxe.json) |
 | MVP Word Search for Windows | 71830 | [71830-mvp-word-search-for-windows.json](./71830-mvp-word-search-for-windows.json) |
 | MVR | 286762 | [286762-mvr.json](./286762-mvr.json) |
