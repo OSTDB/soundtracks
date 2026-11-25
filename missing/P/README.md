@@ -2463,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallelism | 279079 | [279079-parallelism.json](./279079-parallelism.json) |
 | Parallels | 274017 | [274017-parallels.json](./274017-parallels.json) |
 | Parallels | 34181 | [34181-parallels.json](./34181-parallels.json) |
+| Parallels Cross | 33170 | [33170-parallels-cross.json](./33170-parallels-cross.json) |
 | Parallels: Year One | 295578 | [295578-parallels-year-one.json](./295578-parallels-year-one.json) |
 | ParallHex | 326048 | [326048-parallhex.json](./326048-parallhex.json) |
 | Parallyzed | 28201 | [28201-parallyzed.json](./28201-parallyzed.json) |
@@ -2676,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasol Stars: Rainbow Islands II | 316080 | [316080-parasol-stars-rainbow-islands-ii.json](./316080-parasol-stars-rainbow-islands-ii.json) |
 | Parasol Stars: Rainbow Islands II | 48278 | [48278-parasol-stars-rainbow-islands-ii.json](./48278-parasol-stars-rainbow-islands-ii.json) |
 | Parasol Stars: The Story of Bubble Bobble III | 305618 | [305618-parasol-stars-the-story-of-bubble-bobble-iii.json](./305618-parasol-stars-the-story-of-bubble-bobble-iii.json) |
+| Parasol Stars: The Story of Bubble Bobble III | 42101 | [42101-parasol-stars-the-story-of-bubble-bobble-iii.json](./42101-parasol-stars-the-story-of-bubble-bobble-iii.json) |
 | Parasomnia | 238846 | [238846-parasomnia.json](./238846-parasomnia.json) |
 | Parasomnia | 302412 | [302412-parasomnia.json](./302412-parasomnia.json) |
 | Parasomnia | 429300 | [429300-parasomnia.json](./429300-parasomnia.json) |
@@ -18723,6 +18725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Stardust | 177232 | [177232-project-stardust.json](./177232-project-stardust.json) |
 | Project Starline | 135312 | [135312-project-starline.json](./135312-project-starline.json) |
 | Project Stars | 194150 | [194150-project-stars.json](./194150-project-stars.json) |
+| Project Starship | 33222 | [33222-project-starship.json](./33222-project-starship.json) |
 | Project Starship X | 126587 | [126587-project-starship-x.json](./126587-project-starship-x.json) |
 | Project Starship X: Limited Edition | 167083 | [167083-project-starship-x-limited-edition.json](./167083-project-starship-x-limited-edition.json) |
 | Project Stealth Fighter | 10293 | [10293-project-stealth-fighter.json](./10293-project-stealth-fighter.json) |
