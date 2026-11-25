@@ -4419,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Never Was: Chapter II | 154275 | [154275-what-never-was-chapter-ii.json](./154275-what-never-was-chapter-ii.json) |
 | What not coffee | 359629 | [359629-what-not-coffee.json](./359629-what-not-coffee.json) |
 | What Now? | 183534 | [183534-what-now.json](./183534-what-now.json) |
+| What Now? You've Saved the World but What About Your Love Life? | 430311 | [430311-what-now-youve-saved-the-world-but-what-about-your-love-life.json](./430311-what-now-youve-saved-the-world-but-what-about-your-love-life.json) |
 | What on Earth? | 406778 | [406778-what-on-earth.json](./406778-what-on-earth.json) |
 | What Remains | 121834 | [121834-what-remains.json](./121834-what-remains.json) |
 | What Remains | 260665 | [260665-what-remains.json](./260665-what-remains.json) |
@@ -4912,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is My Home? | 410996 | [410996-where-is-my-home.json](./410996-where-is-my-home.json) |
 | Where Is My Human? | 183792 | [183792-where-is-my-human.json](./183792-where-is-my-human.json) |
 | Where is my mind | 25764 | [25764-where-is-my-mind.json](./25764-where-is-my-mind.json) |
+| Where Is My Mind | 430256 | [430256-where-is-my-mind.json](./430256-where-is-my-mind.json) |
 | Where Is My Mom | 157457 | [157457-where-is-my-mom.json](./157457-where-is-my-mom.json) |
 | Where Is My Parking Spot | 141016 | [141016-where-is-my-parking-spot.json](./141016-where-is-my-parking-spot.json) |
 | Where Is My Parking Spot: Parking Reimagined | 141307 | [141307-where-is-my-parking-spot-parking-reimagined.json](./141307-where-is-my-parking-spot-parking-reimagined.json) |
@@ -9016,6 +9018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordgraphy | 233050 | [233050-wordgraphy.json](./233050-wordgraphy.json) |
 | WordGrid Search | 409306 | [409306-wordgrid-search.json](./409306-wordgrid-search.json) |
 | Wordguess | 422764 | [422764-wordguess.json](./422764-wordguess.json) |
+| WordHavoc | 430204 | [430204-wordhavoc.json](./430204-wordhavoc.json) |
 | WordHerd | 147269 | [147269-wordherd.json](./147269-wordherd.json) |
 | WordHive | 411569 | [411569-wordhive.json](./411569-wordhive.json) |
 | WordHive 2 | 414441 | [414441-wordhive-2.json](./414441-wordhive-2.json) |
