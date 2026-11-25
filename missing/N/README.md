@@ -1539,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Jam | 259878 | [259878-nba-jam.json](./259878-nba-jam.json) |
 | NBA Jam | 259879 | [259879-nba-jam.json](./259879-nba-jam.json) |
 | NBA Jam | 5059 | [5059-nba-jam.json](./5059-nba-jam.json) |
+| NBA Jam | 88923 | [88923-nba-jam.json](./88923-nba-jam.json) |
 | NBA Jam | 8995 | [8995-nba-jam.json](./8995-nba-jam.json) |
 | NBA Jam 2000 | 3552 | [3552-nba-jam-2000.json](./3552-nba-jam-2000.json) |
 | NBA Jam 2001 | 49903 | [49903-nba-jam-2001.json](./49903-nba-jam-2001.json) |
