@@ -3265,7 +3265,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Villagers 2: The Lost Children | 14975 | [14975-virtual-villagers-2-the-lost-children.json](./14975-virtual-villagers-2-the-lost-children.json) |
 | Virtual Villagers 2: The Lost Children for iPad | 108474 | [108474-virtual-villagers-2-the-lost-children-for-ipad.json](./108474-virtual-villagers-2-the-lost-children-for-ipad.json) |
 | Virtual Villagers 3 | 200316 | [200316-virtual-villagers-3.json](./200316-virtual-villagers-3.json) |
-| Virtual Villagers 3 for iPad | 90870 | [90870-virtual-villagers-3-for-ipad.json](./90870-virtual-villagers-3-for-ipad.json) |
 | Virtual Villagers 3: The Secret City | 14910 | [14910-virtual-villagers-3-the-secret-city.json](./14910-virtual-villagers-3-the-secret-city.json) |
 | Virtual Villagers 4: The Tree of Life | 14976 | [14976-virtual-villagers-4-the-tree-of-life.json](./14976-virtual-villagers-4-the-tree-of-life.json) |
 | Virtual Villagers 5: New Believers | 14977 | [14977-virtual-villagers-5-new-believers.json](./14977-virtual-villagers-5-new-believers.json) |
@@ -4070,7 +4069,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vollema | 289911 | [289911-vollema.json](./289911-vollema.json) |
 | Vollemental | 318332 | [318332-vollemental.json](./318332-vollemental.json) |
 | Volley & Tennis Bundle Blast | 196812 | [196812-volley-and-tennis-bundle-blast.json](./196812-volley-and-tennis-bundle-blast.json) |
-| Volley Balley | 90895 | [90895-volley-balley.json](./90895-volley-balley.json) |
 | Volley Bomb | 239092 | [239092-volley-bomb.json](./239092-volley-bomb.json) |
 | Volley Court | 226041 | [226041-volley-court.json](./226041-volley-court.json) |
 | Volley Heads | 197800 | [197800-volley-heads.json](./197800-volley-heads.json) |
