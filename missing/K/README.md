@@ -227,7 +227,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagitori: Bird in Cage Hiding the Key | 260121 | [260121-kagitori-bird-in-cage-hiding-the-key.json](./260121-kagitori-bird-in-cage-hiding-the-key.json) |
 | Kago | 412327 | [412327-kago.json](./412327-kago.json) |
 | Kago no Naka no Alicis | 218383 | [218383-kago-no-naka-no-alicis.json](./218383-kago-no-naka-no-alicis.json) |
-| Kagura Douchuuki | 91969 | [91969-kagura-douchuuki.json](./91969-kagura-douchuuki.json) |
 | Kagura Genesis: Kuon's Story | 277258 | [277258-kagura-genesis-kuons-story.json](./277258-kagura-genesis-kuons-story.json) |
 | Kagura Survivors x Summer Memories | 417099 | [417099-kagura-survivors-x-summer-memories.json](./417099-kagura-survivors-x-summer-memories.json) |
 | Kagura Survivors: Endless Night | 243538 | [243538-kagura-survivors-endless-night.json](./243538-kagura-survivors-endless-night.json) |
@@ -1470,7 +1469,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katsuragi Misato Houdou Keikaku | 68229 | [68229-katsuragi-misato-houdou-keikaku.json](./68229-katsuragi-misato-houdou-keikaku.json) |
 | Katsute Watashitachi ha Jigoku no Mattadanaka Deshita | 331896 | [331896-katsute-watashitachi-ha-jigoku-no-mattadanaka-deshita.json](./331896-katsute-watashitachi-ha-jigoku-no-mattadanaka-deshita.json) |
 | Kattam: The Box | 194179 | [194179-kattam-the-box.json](./194179-kattam-the-box.json) |
-| Kattastick | 91214 | [91214-kattastick.json](./91214-kattastick.json) |
 | Katte ni Shirokuma | 77407 | [77407-katte-ni-shirokuma.json](./77407-katte-ni-shirokuma.json) |
 | Kattespill | 177950 | [177950-kattespill.json](./177950-kattespill.json) |
 | Kattish | 218726 | [218726-kattish.json](./218726-kattish.json) |
@@ -4985,7 +4983,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klepto | 297476 | [297476-klepto.json](./297476-klepto.json) |
 | Klepto Planet Attack | 176473 | [176473-klepto-planet-attack.json](./176473-klepto-planet-attack.json) |
 | KleptoCats | 77480 | [77480-kleptocats.json](./77480-kleptocats.json) |
-| KleptoCats 2 | 92090 | [92090-kleptocats-2.json](./92090-kleptocats-2.json) |
 | KleptoCats 2: Idle Furry Pets | 243099 | [243099-kleptocats-2-idle-furry-pets.json](./243099-kleptocats-2-idle-furry-pets.json) |
 | KleptoCats Cartoon Network | 243707 | [243707-kleptocats-cartoon-network.json](./243707-kleptocats-cartoon-network.json) |
 | KleptoCorns | 192105 | [192105-kleptocorns.json](./192105-kleptocorns.json) |
@@ -5026,7 +5023,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike Re-Imagined | 170940 | [170940-klondike-re-imagined.json](./170940-klondike-re-imagined.json) |
 | Klondike Solitaire | 294669 | [294669-klondike-solitaire.json](./294669-klondike-solitaire.json) |
 | Klondike Solitaire | 73183 | [73183-klondike-solitaire.json](./73183-klondike-solitaire.json) |
-| Klondike Solitaire - Classic Deck Card Games | 91153 | [91153-klondike-solitaire-classic-deck-card-games.json](./91153-klondike-solitaire-classic-deck-card-games.json) |
 | Klondike Solitaire 2018 | 89235 | [89235-klondike-solitaire-2018.json](./89235-klondike-solitaire-2018.json) |
 | Klondike Solitaire 2019 | 138109 | [138109-klondike-solitaire-2019.json](./138109-klondike-solitaire-2019.json) |
 | Klondike Solitaire Collection | 147206 | [147206-klondike-solitaire-collection.json](./147206-klondike-solitaire-collection.json) |
