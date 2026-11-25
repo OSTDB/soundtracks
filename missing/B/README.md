@@ -571,7 +571,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon Master | 346110 | [346110-backgammon-master.json](./346110-backgammon-master.json) |
 | Backgammon Masters | 87285 | [87285-backgammon-masters.json](./87285-backgammon-masters.json) |
 | Backgammon Masters Online | 87413 | [87413-backgammon-masters-online.json](./87413-backgammon-masters-online.json) |
-| Backgammon NJ HD | 91981 | [91981-backgammon-nj-hd.json](./91981-backgammon-nj-hd.json) |
 | Backgammon Online | 104123 | [104123-backgammon-online.json](./104123-backgammon-online.json) |
 | Backgammon Pro for Nintendo Switch | 245986 | [245986-backgammon-pro-for-nintendo-switch.json](./245986-backgammon-pro-for-nintendo-switch.json) |
 | Backgammon Professional | 338799 | [338799-backgammon-professional.json](./338799-backgammon-professional.json) |
@@ -1793,11 +1792,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball X Pit: The Shadow Update | 400629 | [400629-ball-x-pit-the-shadow-update.json](./400629-ball-x-pit-the-shadow-update.json) |
 | Ball-Aqua | 423807 | [423807-ball-aqua.json](./423807-ball-aqua.json) |
 | Ball-e | 229823 | [229823-ball-e.json](./229823-ball-e.json) |
-| Ball-Hop Bowling | 95015 | [95015-ball-hop-bowling.json](./95015-ball-hop-bowling.json) |
 | Ball-istic | 258436 | [258436-ball-istic.json](./258436-ball-istic.json) |
 | Ball-it Hell | 302492 | [302492-ball-it-hell.json](./302492-ball-it-hell.json) |
 | Ball.io | 171880 | [171880-ball-io.json](./171880-ball-io.json) |
-| Ball's Journey | 92113 | [92113-balls-journey.json](./92113-balls-journey.json) |
 | Balla Machina | 381475 | [381475-balla-machina.json](./381475-balla-machina.json) |
 | Ballad of Angels | 310927 | [310927-ballad-of-angels.json](./310927-ballad-of-angels.json) |
 | Ballad of Antara | 303809 | [303809-ballad-of-antara.json](./303809-ballad-of-antara.json) |
@@ -5712,7 +5709,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Defence Situation | 354125 | [354125-bear-defence-situation.json](./354125-bear-defence-situation.json) |
 | Bear Dream | 56708 | [56708-bear-dream.json](./56708-bear-dream.json) |
 | Bear Escape Mission | 340092 | [340092-bear-escape-mission.json](./340092-bear-escape-mission.json) |
-| Bear Football | 93598 | [93598-bear-football.json](./93598-bear-football.json) |
 | Bear Go Home | 71676 | [71676-bear-go-home.json](./71676-bear-go-home.json) |
 | Bear Haven Nights | 33743 | [33743-bear-haven-nights.json](./33743-bear-haven-nights.json) |
 | Bear Haven Nights 2 | 158372 | [158372-bear-haven-nights-2.json](./158372-bear-haven-nights-2.json) |
@@ -10351,9 +10347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Derulo World 2 | 268169 | [268169-black-derulo-world-2.json](./268169-black-derulo-world-2.json) |
 | Black Desert | 6292 | [6292-black-desert.json](./6292-black-desert.json) |
 | Black Desert Mobile | 54701 | [54701-black-desert-mobile.json](./54701-black-desert-mobile.json) |
-| Black Desert Online: Explorer's Package | 91183 | [91183-black-desert-online-explorers-package.json](./91183-black-desert-online-explorers-package.json) |
 | Black Desert Online: Prestige Edition | 139914 | [139914-black-desert-online-prestige-edition.json](./139914-black-desert-online-prestige-edition.json) |
-| Black Desert Online: Traveler's Package | 91182 | [91182-black-desert-online-travelers-package.json](./91182-black-desert-online-travelers-package.json) |
 | Black Desert: Conqueror Edition | 164570 | [164570-black-desert-conqueror-edition.json](./164570-black-desert-conqueror-edition.json) |
 | Black Desert: Explorer Edition | 165867 | [165867-black-desert-explorer-edition.json](./165867-black-desert-explorer-edition.json) |
 | Black Desert: Traveler Edition | 150142 | [150142-black-desert-traveler-edition.json](./150142-black-desert-traveler-edition.json) |
@@ -10363,7 +10357,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Dog Bar | 216623 | [216623-black-dog-bar.json](./216623-black-dog-bar.json) |
 | Black Dragon | 38590 | [38590-black-dragon.json](./38590-black-dragon.json) |
 | Black Dragon Mage | 258595 | [258595-black-dragon-mage.json](./258595-black-dragon-mage.json) |
-| Black Dream | 93713 | [93713-black-dream.json](./93713-black-dream.json) |
 | Black Dungeon | 303368 | [303368-black-dungeon.json](./303368-black-dungeon.json) |
 | Black Dungeon: Draw A Card | 347195 | [347195-black-dungeon-draw-a-card.json](./347195-black-dungeon-draw-a-card.json) |
 | Black Dust | 318211 | [318211-black-dust.json](./318211-black-dust.json) |
@@ -10405,7 +10398,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hair Girl is Best Girl | 155007 | [155007-black-hair-girl-is-best-girl.json](./155007-black-hair-girl-is-best-girl.json) |
 | Black Hangman | 112122 | [112122-black-hangman.json](./112122-black-hangman.json) |
 | Black Hat | 180345 | [180345-black-hat.json](./180345-black-hat.json) |
-| Black Hat | 90892 | [90892-black-hat.json](./90892-black-hat.json) |
 | Black Hat Cooperative | 32019 | [32019-black-hat-cooperative.json](./32019-black-hat-cooperative.json) |
 | Black Hawk | 25711 | [25711-black-hawk.json](./25711-black-hawk.json) |
 | Black Heart | 39820 | [39820-black-heart.json](./39820-black-heart.json) |
@@ -10548,7 +10540,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Plague | 405942 | [405942-black-plague.json](./405942-black-plague.json) |
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
 | Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
-| Black Powder \| Red Earth | 92764 | [92764-black-powder-red-earth.json](./92764-black-powder-red-earth.json) |
 | Black Powder Desolation | 260539 | [260539-black-powder-desolation.json](./260539-black-powder-desolation.json) |
 | Black Powder Magic | 401212 | [401212-black-powder-magic.json](./401212-black-powder-magic.json) |
 | Black Prophecy | 11509 | [11509-black-prophecy.json](./11509-black-prophecy.json) |
@@ -10674,7 +10665,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackbar | 22194 | [22194-blackbar.json](./22194-blackbar.json) |
 | BlackBay Asylum | 10048 | [10048-blackbay-asylum.json](./10048-blackbay-asylum.json) |
 | Blackbeard the Cursed Jungle | 123526 | [123526-blackbeard-the-cursed-jungle.json](./123526-blackbeard-the-cursed-jungle.json) |
-| Blackbeard's Billions | 90877 | [90877-blackbeards-billions.json](./90877-blackbeards-billions.json) |
 | Blackbeard's Cove | 86577 | [86577-blackbeards-cove.json](./86577-blackbeards-cove.json) |
 | Blackbeard's Revenge | 206290 | [206290-blackbeards-revenge.json](./206290-blackbeards-revenge.json) |
 | Blackbeard's Treasure | 332328 | [332328-blackbeards-treasure.json](./332328-blackbeards-treasure.json) |
@@ -10773,7 +10763,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Professional | 153545 | [153545-blackjack-professional.json](./153545-blackjack-professional.json) |
 | Blackjack Roulette | 380530 | [380530-blackjack-roulette.json](./380530-blackjack-roulette.json) |
 | Blackjack Roulette | 390217 | [390217-blackjack-roulette.json](./390217-blackjack-roulette.json) |
-| Blackjack Royale | 90986 | [90986-blackjack-royale.json](./90986-blackjack-royale.json) |
 | Blackjack Saloon | 363641 | [363641-blackjack-saloon.json](./363641-blackjack-saloon.json) |
 | Blackjack Simple | 369322 | [369322-blackjack-simple.json](./369322-blackjack-simple.json) |
 | Blackjack Simulator 2024 | 266297 | [266297-blackjack-simulator-2024.json](./266297-blackjack-simulator-2024.json) |
@@ -10796,6 +10785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacklist Mafia | 293098 | [293098-blacklist-mafia.json](./293098-blacklist-mafia.json) |
 | Blacklode | 416674 | [416674-blacklode.json](./416674-blacklode.json) |
 | Blackmail | 97654 | [97654-blackmail.json](./97654-blackmail.json) |
+| Blackmarket | 422552 | [422552-blackmarket.json](./422552-blackmarket.json) |
 | Blackmoon Prophecy II | 222977 | [222977-blackmoon-prophecy-ii.json](./222977-blackmoon-prophecy-ii.json) |
 | Blackmoor 2 | 110405 | [110405-blackmoor-2.json](./110405-blackmoor-2.json) |
 | Blackmoor 2: The Traitor King | 130791 | [130791-blackmoor-2-the-traitor-king.json](./130791-blackmoor-2-the-traitor-king.json) |
@@ -11255,7 +11245,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast the Past | 110144 | [110144-blast-the-past.json](./110144-blast-the-past.json) |
 | Blast Them All | 284020 | [284020-blast-them-all.json](./284020-blast-them-all.json) |
 | Blast Thru | 127141 | [127141-blast-thru.json](./127141-blast-thru.json) |
-| Blast Valley | 93817 | [93817-blast-valley.json](./93817-blast-valley.json) |
 | Blast Valley: Flip the Gun | 96015 | [96015-blast-valley-flip-the-gun.json](./96015-blast-valley-flip-the-gun.json) |
 | Blast Waves | 194183 | [194183-blast-waves.json](./194183-blast-waves.json) |
 | Blast Wind | 45413 | [45413-blast-wind.json](./45413-blast-wind.json) |
@@ -11476,7 +11465,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Beaks + Badland: Game of the Year Edition | 226341 | [226341-blazing-beaks-badland-game-of-the-year-edition.json](./226341-blazing-beaks-badland-game-of-the-year-edition.json) |
 | Blazing Birds | 78179 | [78179-blazing-birds.json](./78179-blazing-birds.json) |
 | Blazing Chrome | 55042 | [55042-blazing-chrome.json](./55042-blazing-chrome.json) |
-| Blazing Core | 91140 | [91140-blazing-core.json](./91140-blazing-core.json) |
 | Blazing Crow | 301619 | [301619-blazing-crow.json](./301619-blazing-crow.json) |
 | Blazing Dragon | 258502 | [258502-blazing-dragon.json](./258502-blazing-dragon.json) |
 | Blazing Dragon Slayer · Divine Weapon Awakening | 358508 | [358508-blazing-dragon-slayer-divine-weapon-awakening.json](./358508-blazing-dragon-slayer-divine-weapon-awakening.json) |
@@ -12286,7 +12274,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockbusters: Gold Run | 13408 | [13408-blockbusters-gold-run.json](./13408-blockbusters-gold-run.json) |
 | BlockBustersVR | 150862 | [150862-blockbustersvr.json](./150862-blockbustersvr.json) |
 | Blockchain Brawlers | 225754 | [225754-blockchain-brawlers.json](./225754-blockchain-brawlers.json) |
-| Blockchain Tycoon | 93796 | [93796-blockchain-tycoon.json](./93796-blockchain-tycoon.json) |
 | Blockd Blast | 239239 | [239239-blockd-blast.json](./239239-blockd-blast.json) |
 | BlockDoc | 111172 | [111172-blockdoc.json](./111172-blockdoc.json) |
 | Blockdock | 320516 | [320516-blockdock.json](./320516-blockdock.json) |
@@ -15298,7 +15285,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boong-Ga Boong-Ga | 58738 | [58738-boong-ga-boong-ga.json](./58738-boong-ga-boong-ga.json) |
 | Boong?!: Die ultimatiefe Fußballsimulation | 100056 | [100056-boong-die-ultimatiefe-fu-ballsimulation.json](./100056-boong-die-ultimatiefe-fu-ballsimulation.json) |
 | BooniePlanet | 324023 | [324023-boonieplanet.json](./324023-boonieplanet.json) |
-| Boonk Gang | 95129 | [95129-boonk-gang.json](./95129-boonk-gang.json) |
 | Boonka | 317386 | [317386-boonka.json](./317386-boonka.json) |
 | Boons & Burdens | 275412 | [275412-boons-and-burdens.json](./275412-boons-and-burdens.json) |
 | Boons Farm | 108043 | [108043-boons-farm.json](./108043-boons-farm.json) |
@@ -15827,7 +15813,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottled by Bears | 405328 | [405328-bottled-by-bears.json](./405328-bottled-by-bears.json) |
 | Bottler3000 | 127408 | [127408-bottler3000.json](./127408-bottler3000.json) |
 | Bottles to the Ground | 271973 | [271973-bottles-to-the-ground.json](./271973-bottles-to-the-ground.json) |
-| Bottom of the 9th | 93658 | [93658-bottom-of-the-9th.json](./93658-bottom-of-the-9th.json) |
 | Bottom of the 9th '97 | 43857 | [43857-bottom-of-the-9th-97.json](./43857-bottom-of-the-9th-97.json) |
 | Bottom of the 9th '99 | 43856 | [43856-bottom-of-the-9th-99.json](./43856-bottom-of-the-9th-99.json) |
 | Bottom of the Ninth | 245547 | [245547-bottom-of-the-ninth.json](./245547-bottom-of-the-ninth.json) |
@@ -15965,7 +15950,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Classic | 211464 | [211464-bounce-classic.json](./211464-bounce-classic.json) |
 | Bounce Evolution | 331773 | [331773-bounce-evolution.json](./331773-bounce-evolution.json) |
 | Bounce Forever | 406350 | [406350-bounce-forever.json](./406350-bounce-forever.json) |
-| Bounce Forever! | 91085 | [91085-bounce-forever.json](./91085-bounce-forever.json) |
 | Bounce Gun | 291375 | [291375-bounce-gun.json](./291375-bounce-gun.json) |
 | Bounce House | 262487 | [262487-bounce-house.json](./262487-bounce-house.json) |
 | Bounce Intelligence | 426290 | [426290-bounce-intelligence.json](./426290-bounce-intelligence.json) |
@@ -16063,7 +16047,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Ball | 407017 | [407017-bouncy-ball.json](./407017-bouncy-ball.json) |
 | Bouncy Ball Battle | 425134 | [425134-bouncy-ball-battle.json](./425134-bouncy-ball-battle.json) |
 | Bouncy Ball NG | 103703 | [103703-bouncy-ball-ng.json](./103703-bouncy-ball-ng.json) |
-| Bouncy Ball: The Impossible Tile Game | 93824 | [93824-bouncy-ball-the-impossible-tile-game.json](./93824-bouncy-ball-the-impossible-tile-game.json) |
 | Bouncy Basketball | 383306 | [383306-bouncy-basketball.json](./383306-bouncy-basketball.json) |
 | Bouncy Bean | 388187 | [388187-bouncy-bean.json](./388187-bouncy-bean.json) |
 | Bouncy Bee Learns Letters | 71698 | [71698-bouncy-bee-learns-letters.json](./71698-bouncy-bee-learns-letters.json) |
@@ -20663,7 +20646,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried | 193083 | [193083-buried.json](./193083-buried.json) |
 | Buried | 272235 | [272235-buried.json](./272235-buried.json) |
 | Buried | 380046 | [380046-buried.json](./380046-buried.json) |
-| Buried Alive VR | 95123 | [95123-buried-alive-vr.json](./95123-buried-alive-vr.json) |
 | Buried Alive: Breathless Rescue | 258999 | [258999-buried-alive-breathless-rescue.json](./258999-buried-alive-breathless-rescue.json) |
 | Buried Alive: Breathless Rescue & Whittingham Asylum: The Investigation | 360237 | [360237-buried-alive-breathless-rescue-and-whittingham-asylum-the-investigation.json](./360237-buried-alive-breathless-rescue-and-whittingham-asylum-the-investigation.json) |
 | Buried Alive: The Annihilation VR | 128911 | [128911-buried-alive-the-annihilation-vr.json](./128911-buried-alive-the-annihilation-vr.json) |
@@ -20958,7 +20940,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 2008 | 83869 | [83869-bus-simulator-2008.json](./83869-bus-simulator-2008.json) |
 | Bus Simulator 2009 | 412381 | [412381-bus-simulator-2009.json](./412381-bus-simulator-2009.json) |
 | Bus Simulator 2015 HD: New York Route | 97148 | [97148-bus-simulator-2015-hd-new-york-route.json](./97148-bus-simulator-2015-hd-new-york-route.json) |
-| Bus Simulator 2017 | 93844 | [93844-bus-simulator-2017.json](./93844-bus-simulator-2017.json) |
 | Bus Simulator 2023 | 227959 | [227959-bus-simulator-2023.json](./227959-bus-simulator-2023.json) |
 | Bus Simulator 2023: City Driver | 257709 | [257709-bus-simulator-2023-city-driver.json](./257709-bus-simulator-2023-city-driver.json) |
 | Bus Simulator 2024: City Driver - Premium Edition | 310435 | [310435-bus-simulator-2024-city-driver-premium-edition.json](./310435-bus-simulator-2024-city-driver-premium-edition.json) |
