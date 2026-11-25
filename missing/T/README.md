@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Notes | 319435 | [319435-take-notes.json](./319435-take-notes.json) |
 | Take Off Mask | 320043 | [320043-take-off-mask.json](./320043-take-off-mask.json) |
 | Take Off: The Flight Simulator | 192028 | [192028-take-off-the-flight-simulator.json](./192028-take-off-the-flight-simulator.json) |
+| Take Off: The Flight Simulator | 89683 | [89683-take-off-the-flight-simulator.json](./89683-take-off-the-flight-simulator.json) |
 | Take on Helicopters | 15069 | [15069-take-on-helicopters.json](./15069-take-on-helicopters.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
 | Take on Helicopters: Rearmed | 15107 | [15107-take-on-helicopters-rearmed.json](./15107-take-on-helicopters-rearmed.json) |
@@ -2658,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap tap cartoonist - Cartoon999 | 95824 | [95824-tap-tap-cartoonist-cartoon999.json](./95824-tap-tap-cartoonist-cartoon999.json) |
 | Tap Tap Computer | 193836 | [193836-tap-tap-computer.json](./193836-tap-tap-computer.json) |
 | Tap Tap Dance | 92337 | [92337-tap-tap-dance.json](./92337-tap-tap-dance.json) |
+| Tap Tap Dash | 88877 | [88877-tap-tap-dash.json](./88877-tap-tap-dash.json) |
 | Tap Tap Dig 2 | 220192 | [220192-tap-tap-dig-2.json](./220192-tap-tap-dig-2.json) |
 | Tap Tap Driver | 242764 | [242764-tap-tap-driver.json](./242764-tap-tap-driver.json) |
 | Tap Tap Dunk | 102161 | [102161-tap-tap-dunk.json](./102161-tap-tap-dunk.json) |
@@ -28099,6 +28101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To The Trenches | 401663 | [401663-to-the-trenches.json](./401663-to-the-trenches.json) |
 | To The White Calm | 375560 | [375560-to-the-white-calm.json](./375560-to-the-white-calm.json) |
 | To the Wolves | 57475 | [57475-to-the-wolves.json](./57475-to-the-wolves.json) |
+| To Trust an Incubus | 111730 | [111730-to-trust-an-incubus.json](./111730-to-trust-an-incubus.json) |
 | To Victory | 274471 | [274471-to-victory.json](./274471-to-victory.json) |
 | To What End | 128731 | [128731-to-what-end.json](./128731-to-what-end.json) |
 | To You, the Evil Spirit | 349026 | [349026-to-you-the-evil-spirit.json](./349026-to-you-the-evil-spirit.json) |
@@ -35877,6 +35880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Taps | 276939 | [276939-tricky-taps.json](./276939-tricky-taps.json) |
 | Tricky Taps: Complete Edition | 280625 | [280625-tricky-taps-complete-edition.json](./280625-tricky-taps-complete-edition.json) |
 | Tricky Taps: Paint Power | 276940 | [276940-tricky-taps-paint-power.json](./276940-tricky-taps-paint-power.json) |
+| Tricky Test 2: Genius Brain? | 88863 | [88863-tricky-test-2-genius-brain.json](./88863-tricky-test-2-genius-brain.json) |
 | Tricky Test 2018 | 105794 | [105794-tricky-test-2018.json](./105794-tricky-test-2018.json) |
 | Tricky Thief | 240180 | [240180-tricky-thief.json](./240180-tricky-thief.json) |
 | Tricky Towers: Galaxy Bricks | 403418 | [403418-tricky-towers-galaxy-bricks.json](./403418-tricky-towers-galaxy-bricks.json) |
@@ -36805,6 +36809,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator Driver USA 2024 | 281048 | [281048-truck-simulator-driver-usa-2024.json](./281048-truck-simulator-driver-usa-2024.json) |
 | Truck Simulator Europe 2 | 93714 | [93714-truck-simulator-europe-2.json](./93714-truck-simulator-europe-2.json) |
 | Truck Simulator in City | 211154 | [211154-truck-simulator-in-city.json](./211154-truck-simulator-in-city.json) |
+| Truck Simulator PRO 2 | 88947 | [88947-truck-simulator-pro-2.json](./88947-truck-simulator-pro-2.json) |
+| Truck Simulator PRO 2016 | 89133 | [89133-truck-simulator-pro-2016.json](./89133-truck-simulator-pro-2016.json) |
 | Truck Simulator PRO Europe | 90378 | [90378-truck-simulator-pro-europe.json](./90378-truck-simulator-pro-europe.json) |
 | Truck Simulator Pro USA | 262336 | [262336-truck-simulator-pro-usa.json](./262336-truck-simulator-pro-usa.json) |
 | Truck Simulator Ultimate 3D | 232954 | [232954-truck-simulator-ultimate-3d.json](./232954-truck-simulator-ultimate-3d.json) |
