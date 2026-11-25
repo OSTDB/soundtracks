@@ -324,6 +324,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum Vol. 2 | 191991 | [191991-namco-museum-vol-2.json](./191991-namco-museum-vol-2.json) |
 | Namco Museum Vol. 2 | 20259 | [20259-namco-museum-vol-2.json](./20259-namco-museum-vol-2.json) |
 | Namco Museum Vol. 3 | 20613 | [20613-namco-museum-vol-3.json](./20613-namco-museum-vol-3.json) |
+| Namco Museum Vol. 4 | 39934 | [39934-namco-museum-vol-4.json](./39934-namco-museum-vol-4.json) |
+| Namco Museum Vol. 5 | 39986 | [39986-namco-museum-vol-5.json](./39986-namco-museum-vol-5.json) |
 | Namco Open | 84332 | [84332-namco-open.json](./84332-namco-open.json) |
 | Namco Soccer Prime Goal | 40396 | [40396-namco-soccer-prime-goal.json](./40396-namco-soccer-prime-goal.json) |
 | Namco Super Heroes | 304281 | [304281-namco-super-heroes.json](./304281-namco-super-heroes.json) |
@@ -4779,6 +4781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Bars | 233204 | [233204-night-bars.json](./233204-night-bars.json) |
 | Night Bici | 380144 | [380144-night-bici.json](./380144-night-bici.json) |
 | Night Blade | 146122 | [146122-night-blade.json](./146122-night-blade.json) |
+| Night Blights | 33457 | [33457-night-blights.json](./33457-night-blights.json) |
 | Night Blood W: Cutthroat Wolf | 336646 | [336646-night-blood-w-cutthroat-wolf.json](./336646-night-blood-w-cutthroat-wolf.json) |
 | Night Blood: Avenger's Tide | 207706 | [207706-night-blood-avengers-tide.json](./207706-night-blood-avengers-tide.json) |
 | Night Bomber | 92912 | [92912-night-bomber.json](./92912-night-bomber.json) |
