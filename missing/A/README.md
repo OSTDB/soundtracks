@@ -2909,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: The King of Fighters '95 | 99735 | [99735-aca-neo-geo-the-king-of-fighters-95.json](./99735-aca-neo-geo-the-king-of-fighters-95.json) |
 | ACA Neo Geo: The King of Fighters '96 | 99496 | [99496-aca-neo-geo-the-king-of-fighters-96.json](./99496-aca-neo-geo-the-king-of-fighters-96.json) |
 | ACA Neo Geo: The King of Fighters '97 | 83769 | [83769-aca-neo-geo-the-king-of-fighters-97.json](./83769-aca-neo-geo-the-king-of-fighters-97.json) |
+| ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
 | ACA Neo Geo: The King of Fighters '99 | 106073 | [106073-aca-neo-geo-the-king-of-fighters-99.json](./106073-aca-neo-geo-the-king-of-fighters-99.json) |
 | ACA Neo Geo: The King of Fighters 2000 | 106074 | [106074-aca-neo-geo-the-king-of-fighters-2000.json](./106074-aca-neo-geo-the-king-of-fighters-2000.json) |
 | ACA Neo Geo: The King of Fighters 2001 | 110418 | [110418-aca-neo-geo-the-king-of-fighters-2001.json](./110418-aca-neo-geo-the-king-of-fighters-2001.json) |
@@ -11761,6 +11762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angry Youth | 394281 | [394281-angry-youth.json](./394281-angry-youth.json) |
 | Angry Zombie Basket | 213078 | [213078-angry-zombie-basket.json](./213078-angry-zombie-basket.json) |
+| Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
 | Angry Zombies 2 | 254097 | [254097-angry-zombies-2.json](./254097-angry-zombies-2.json) |
 | AngryCup | 228157 | [228157-angrycup.json](./228157-angrycup.json) |
 | Angrymals | 178364 | [178364-angrymals.json](./178364-angrymals.json) |
@@ -19936,6 +19938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Heart: Premium Edition | 224148 | [224148-atomic-heart-premium-edition.json](./224148-atomic-heart-premium-edition.json) |
 | Atomic Heart: Trapped in Limbo | 285596 | [285596-atomic-heart-trapped-in-limbo.json](./285596-atomic-heart-trapped-in-limbo.json) |
 | Atomic Heart: Ultimate Edition | 396565 | [396565-atomic-heart-ultimate-edition.json](./396565-atomic-heart-ultimate-edition.json) |
+| Atomic Heist | 90091 | [90091-atomic-heist.json](./90091-atomic-heist.json) |
 | Atomic Lance | 379398 | [379398-atomic-lance.json](./379398-atomic-lance.json) |
 | Atomic Ninjas | 8649 | [8649-atomic-ninjas.json](./8649-atomic-ninjas.json) |
 | Atomic Order | 214954 | [214954-atomic-order.json](./214954-atomic-order.json) |
