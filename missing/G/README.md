@@ -11193,6 +11193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grizzly Gulch Western Extravaganza | 392340 | [392340-grizzly-gulch-western-extravaganza.json](./392340-grizzly-gulch-western-extravaganza.json) |
 | Grizzly Man | 311847 | [311847-grizzly-man.json](./311847-grizzly-man.json) |
 | Grizzly Retro Platformer | 98784 | [98784-grizzly-retro-platformer.json](./98784-grizzly-retro-platformer.json) |
+| Grizzly Valley | 33048 | [33048-grizzly-valley.json](./33048-grizzly-valley.json) |
 | Grizzly's | 231429 | [231429-grizzlys.json](./231429-grizzlys.json) |
 | Grizzy & the Lemmings: Crazy Party | 410664 | [410664-grizzy-and-the-lemmings-crazy-party.json](./410664-grizzy-and-the-lemmings-crazy-party.json) |
 | Groaning Steel | 170541 | [170541-groaning-steel.json](./170541-groaning-steel.json) |
