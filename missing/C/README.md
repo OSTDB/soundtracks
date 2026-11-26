@@ -19038,6 +19038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot Apocalypse | 222595 | [222595-crash-bandicoot-apocalypse.json](./222595-crash-bandicoot-apocalypse.json) |
 | Crash Bandicoot Blast! | 285253 | [285253-crash-bandicoot-blast.json](./285253-crash-bandicoot-blast.json) |
 | Crash Bandicoot Collectors' Edition | 43683 | [43683-crash-bandicoot-collectors-edition.json](./43683-crash-bandicoot-collectors-edition.json) |
+| Crash Bandicoot Dimension Twist | 414223 | [414223-crash-bandicoot-dimension-twist.json](./414223-crash-bandicoot-dimension-twist.json) |
 | Crash Bandicoot Flash | 228752 | [228752-crash-bandicoot-flash.json](./228752-crash-bandicoot-flash.json) |
 | Crash Bandicoot Mayhem | 370609 | [370609-crash-bandicoot-mayhem.json](./370609-crash-bandicoot-mayhem.json) |
 | Crash Bandicoot N. Sane Trilogy: Bonus Edition | 220940 | [220940-crash-bandicoot-n-sane-trilogy-bonus-edition.json](./220940-crash-bandicoot-n-sane-trilogy-bonus-edition.json) |
@@ -19960,7 +19961,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Quest | 138166 | [138166-creature-quest.json](./138166-creature-quest.json) |
 | Creature Resort | 136985 | [136985-creature-resort.json](./136985-creature-resort.json) |
 | Creature Romances: For the Ladies | 146421 | [146421-creature-romances-for-the-ladies.json](./146421-creature-romances-for-the-ladies.json) |
-| Creature Romances: Kokonoe Kokoro | 89726 | [89726-creature-romances-kokonoe-kokoro.json](./89726-creature-romances-kokonoe-kokoro.json) |
 | Creature Rumble | 260547 | [260547-creature-rumble.json](./260547-creature-rumble.json) |
 | Creature Shock: Special Edition | 45490 | [45490-creature-shock-special-edition.json](./45490-creature-shock-special-edition.json) |
 | Creature Summon: Showdown Moment | 286341 | [286341-creature-summon-showdown-moment.json](./286341-creature-summon-showdown-moment.json) |
