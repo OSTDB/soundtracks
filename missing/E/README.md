@@ -2361,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elderborn: Metal AF Edition | 154951 | [154951-elderborn-metal-af-edition.json](./154951-elderborn-metal-af-edition.json) |
 | Elderborn: Vengeance | 408849 | [408849-elderborn-vengeance.json](./408849-elderborn-vengeance.json) |
 | Eldercraft: Mountaineers | 336591 | [336591-eldercraft-mountaineers.json](./336591-eldercraft-mountaineers.json) |
+| Elderfalls | 430191 | [430191-elderfalls.json](./430191-elderfalls.json) |
 | Elderfeast | 408071 | [408071-elderfeast.json](./408071-elderfeast.json) |
 | Elderine: Dreams to Destiny | 31132 | [31132-elderine-dreams-to-destiny.json](./31132-elderine-dreams-to-destiny.json) |
 | Eldermyth | 419968 | [419968-eldermyth.json](./419968-eldermyth.json) |
@@ -4580,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Wonder VR | 289534 | [289534-endless-wonder-vr.json](./289534-endless-wonder-vr.json) |
 | Endless World | 106312 | [106312-endless-world.json](./106312-endless-world.json) |
 | Endless World: Ice and Fire Mercenary Pack | 168466 | [168466-endless-world-ice-and-fire-mercenary-pack.json](./168466-endless-world-ice-and-fire-mercenary-pack.json) |
+| Endless Worlds | 429851 | [429851-endless-worlds.json](./429851-endless-worlds.json) |
 | Endless Zombie Tower | 151172 | [151172-endless-zombie-tower.json](./151172-endless-zombie-tower.json) |
 | Endless Zombie Weekend | 190384 | [190384-endless-zombie-weekend.json](./190384-endless-zombie-weekend.json) |
 | Endless Zone | 140043 | [140043-endless-zone.json](./140043-endless-zone.json) |
