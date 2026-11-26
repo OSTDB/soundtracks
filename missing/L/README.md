@@ -3673,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Dimensions: Starfire (Teen Titans Go!) Fun Pack | 172607 | [172607-lego-dimensions-starfire-teen-titans-go-fun-pack.json](./172607-lego-dimensions-starfire-teen-titans-go-fun-pack.json) |
 | LEGO Dimensions: Stay Puft Ghostbusters Fun Pack | 23370 | [23370-lego-dimensions-stay-puft-ghostbusters-fun-pack.json](./23370-lego-dimensions-stay-puft-ghostbusters-fun-pack.json) |
 | LEGO Dimensions: Supergirl Polybag | 172621 | [172621-lego-dimensions-supergirl-polybag.json](./172621-lego-dimensions-supergirl-polybag.json) |
+| LEGO Dimensions: Superman Fun Pack | 23378 | [23378-lego-dimensions-superman-fun-pack.json](./23378-lego-dimensions-superman-fun-pack.json) |
 | LEGO Dimensions: Teen Titans Go! Team Pack | 172632 | [172632-lego-dimensions-teen-titans-go-team-pack.json](./172632-lego-dimensions-teen-titans-go-team-pack.json) |
 | LEGO Dimensions: The Goonies Level Pack | 172564 | [172564-lego-dimensions-the-goonies-level-pack.json](./172564-lego-dimensions-the-goonies-level-pack.json) |
 | LEGO Dimensions: The Joker and Harley Quinn Team Pack | 172613 | [172613-lego-dimensions-the-joker-and-harley-quinn-team-pack.json](./172613-lego-dimensions-the-joker-and-harley-quinn-team-pack.json) |
@@ -4891,6 +4892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lex Talionis A | 337330 | [337330-lex-talionis-a.json](./337330-lex-talionis-a.json) |
 | Lex Venture: A Crossword Caper | 324598 | [324598-lex-venture-a-crossword-caper.json](./324598-lex-venture-a-crossword-caper.json) |
 | Lexagrana | 174196 | [174196-lexagrana.json](./174196-lexagrana.json) |
+| Lexamyth | 431425 | [431425-lexamyth.json](./431425-lexamyth.json) |
 | Lexgrid | 354658 | [354658-lexgrid.json](./354658-lexgrid.json) |
 | Lexi | 415625 | [415625-lexi.json](./415625-lexi.json) |
 | Lexi-Cross | 47117 | [47117-lexi-cross.json](./47117-lexi-cross.json) |
