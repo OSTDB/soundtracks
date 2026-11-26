@@ -6628,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender II | 48902 | [48902-defender-ii.json](./48902-defender-ii.json) |
 | Defender III | 188314 | [188314-defender-iii.json](./188314-defender-iii.json) |
 | Defender of Boston: The Rock Island Mystery | 69019 | [69019-defender-of-boston-the-rock-island-mystery.json](./69019-defender-of-boston-the-rock-island-mystery.json) |
+| Defender of Darkness | 431279 | [431279-defender-of-darkness.json](./431279-defender-of-darkness.json) |
 | Defender of Diosa | 341090 | [341090-defender-of-diosa.json](./341090-defender-of-diosa.json) |
 | Defender of Earth vs. The Alien Armada | 55816 | [55816-defender-of-earth-vs-the-alien-armada.json](./55816-defender-of-earth-vs-the-alien-armada.json) |
 | Defender of Falyndor | 311604 | [311604-defender-of-falyndor.json](./311604-defender-of-falyndor.json) |
@@ -7634,6 +7635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon World Survival | 195201 | [195201-demon-world-survival.json](./195201-demon-world-survival.json) |
 | Demon World: Raya's Way of Life | 412922 | [412922-demon-world-rayas-way-of-life.json](./412922-demon-world-rayas-way-of-life.json) |
 | Demon Zombie Outpost | 149861 | [149861-demon-zombie-outpost.json](./149861-demon-zombie-outpost.json) |
+| Demon-Summoning Forest | 431272 | [431272-demon-summoning-forest.json](./431272-demon-summoning-forest.json) |
 | Demon: Recollect | 286222 | [286222-demon-recollect.json](./286222-demon-recollect.json) |
 | Demon's Bane | 253299 | [253299-demons-bane.json](./253299-demons-bane.json) |
 | Demon's Blood | 258103 | [258103-demons-blood.json](./258103-demons-blood.json) |
@@ -7658,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Rise: War for the Deep | 99656 | [99656-demons-rise-war-for-the-deep.json](./99656-demons-rise-war-for-the-deep.json) |
 | Demon's Score | 27148 | [27148-demons-score.json](./27148-demons-score.json) |
 | Demon's Soulbound | 409906 | [409906-demons-soulbound.json](./409906-demons-soulbound.json) |
+| Demon's Souls: Black Phantom Edition | 23363 | [23363-demons-souls-black-phantom-edition.json](./23363-demons-souls-black-phantom-edition.json) |
 | Demon's Souls: Boletarian Royalty Armor | 344308 | [344308-demons-souls-boletarian-royalty-armor.json](./344308-demons-souls-boletarian-royalty-armor.json) |
 | Demon's Souls: Deluxe Edition | 43010 | [43010-demons-souls-deluxe-edition.json](./43010-demons-souls-deluxe-edition.json) |
 | Demon's Souls: Digital Deluxe Edition | 336469 | [336469-demons-souls-digital-deluxe-edition.json](./336469-demons-souls-digital-deluxe-edition.json) |
@@ -9227,6 +9230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detonator | 263477 | [263477-detonator.json](./263477-detonator.json) |
 | Detonator | 92369 | [92369-detonator.json](./92369-detonator.json) |
 | Detonator Orgun | 46693 | [46693-detonator-orgun.json](./46693-detonator-orgun.json) |
+| Detonumber! | 431471 | [431471-detonumber.json](./431471-detonumber.json) |
 | Detour | 372079 | [372079-detour.json](./372079-detour.json) |
 | Detour Bus | 155823 | [155823-detour-bus.json](./155823-detour-bus.json) |
 | Detourist | 278744 | [278744-detourist.json](./278744-detourist.json) |
@@ -17901,6 +17905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonblade: Cursed Lands Treasure | 53984 | [53984-dragonblade-cursed-lands-treasure.json](./53984-dragonblade-cursed-lands-treasure.json) |
 | DragonBlast VR | 31671 | [31671-dragonblast-vr.json](./31671-dragonblast-vr.json) |
 | Dragonbolt Vanguard | 55893 | [55893-dragonbolt-vanguard.json](./55893-dragonbolt-vanguard.json) |
+| Dragonbone Dynasty | 23356 | [23356-dragonbone-dynasty.json](./23356-dragonbone-dynasty.json) |
 | Dragonborne | 140594 | [140594-dragonborne.json](./140594-dragonborne.json) |
 | DragonBound: Wings of Magic | 425611 | [425611-dragonbound-wings-of-magic.json](./425611-dragonbound-wings-of-magic.json) |
 | DragonBox Algebra 12+ | 276798 | [276798-dragonbox-algebra-12.json](./276798-dragonbox-algebra-12.json) |
@@ -21160,6 +21165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Heroes | 261637 | [261637-dungeon-heroes.json](./261637-dungeon-heroes.json) |
 | Dungeon Highway | 35645 | [35645-dungeon-highway.json](./35645-dungeon-highway.json) |
 | Dungeon Hotpot | 404814 | [404814-dungeon-hotpot.json](./404814-dungeon-hotpot.json) |
+| Dungeon Hunter | 23258 | [23258-dungeon-hunter.json](./23258-dungeon-hunter.json) |
 | Dungeon Hunter | 332435 | [332435-dungeon-hunter.json](./332435-dungeon-hunter.json) |
 | Dungeon Hunter 2 | 65162 | [65162-dungeon-hunter-2.json](./65162-dungeon-hunter-2.json) |
 | Dungeon Hunter 3 | 18899 | [18899-dungeon-hunter-3.json](./18899-dungeon-hunter-3.json) |
@@ -21326,6 +21332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Windaria | 72637 | [72637-dungeon-of-windaria.json](./72637-dungeon-of-windaria.json) |
 | Dungeon of Zaar | 24703 | [24703-dungeon-of-zaar.json](./24703-dungeon-of-zaar.json) |
 | Dungeon of Zaar: Explorer Edition | 238545 | [238545-dungeon-of-zaar-explorer-edition.json](./238545-dungeon-of-zaar-explorer-edition.json) |
+| Dungeon of Zolthan | 32967 | [32967-dungeon-of-zolthan.json](./32967-dungeon-of-zolthan.json) |
 | Dungeon Online | 330479 | [330479-dungeon-online.json](./330479-dungeon-online.json) |
 | Dungeon Origins | 128904 | [128904-dungeon-origins.json](./128904-dungeon-origins.json) |
 | Dungeon Overdose | 342026 | [342026-dungeon-overdose.json](./342026-dungeon-overdose.json) |
@@ -22259,6 +22266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarven Depths | 92556 | [92556-dwarven-depths.json](./92556-dwarven-depths.json) |
 | Dwarven Descent | 63006 | [63006-dwarven-descent.json](./63006-dwarven-descent.json) |
 | Dwarven Destiny | 206148 | [206148-dwarven-destiny.json](./206148-dwarven-destiny.json) |
+| Dwarven Digging Machine | 431285 | [431285-dwarven-digging-machine.json](./431285-dwarven-digging-machine.json) |
 | Dwarven Forge | 149554 | [149554-dwarven-forge.json](./149554-dwarven-forge.json) |
 | Dwarven Forge | 398335 | [398335-dwarven-forge.json](./398335-dwarven-forge.json) |
 | Dwarven Mercenaries | 227575 | [227575-dwarven-mercenaries.json](./227575-dwarven-mercenaries.json) |
