@@ -2028,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanggle's Magic Square | 65312 | [65312-tanggles-magic-square.json](./65312-tanggles-magic-square.json) |
 | Tangiers | 11578 | [11578-tangiers.json](./11578-tangiers.json) |
 | Tangle Bee | 70445 | [70445-tangle-bee.json](./70445-tangle-bee.json) |
+| Tangle Out | 419410 | [419410-tangle-out.json](./419410-tangle-out.json) |
 | Tangled | 230404 | [230404-tangled.json](./230404-tangled.json) |
 | Tangled | 230552 | [230552-tangled.json](./230552-tangled.json) |
 | Tangled | 376725 | [376725-tangled.json](./376725-tangled.json) |
@@ -16813,6 +16814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Office | 203564 | [203564-the-office.json](./203564-the-office.json) |
 | The Office | 94901 | [94901-the-office.json](./94901-the-office.json) |
 | The Office Killer | 344386 | [344386-the-office-killer.json](./344386-the-office-killer.json) |
+| The Office Prank: Halloween - Trick or Treat | 427120 | [427120-the-office-prank-halloween-trick-or-treat.json](./427120-the-office-prank-halloween-trick-or-treat.json) |
 | The Office Quest | 99521 | [99521-the-office-quest.json](./99521-the-office-quest.json) |
 | The Office Rooms | 373305 | [373305-the-office-rooms.json](./373305-the-office-rooms.json) |
 | The Office Simulation | 148319 | [148319-the-office-simulation.json](./148319-the-office-simulation.json) |
@@ -21998,6 +22000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
 | The Whisper Soul | 232966 | [232966-the-whisper-soul.json](./232966-the-whisper-soul.json) |
 | The Whispered World | 7145 | [7145-the-whispered-world.json](./7145-the-whispered-world.json) |
+| The Whispered World Remastered | 424187 | [424187-the-whispered-world-remastered.json](./424187-the-whispered-world-remastered.json) |
 | The Whispered World: Special Edition | 30377 | [30377-the-whispered-world-special-edition.json](./30377-the-whispered-world-special-edition.json) |
 | The Whisperer | 161600 | [161600-the-whisperer.json](./161600-the-whisperer.json) |
 | The Whisperer | 240127 | [240127-the-whisperer.json](./240127-the-whisperer.json) |
@@ -32129,6 +32132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
 | Track Attack! | 25322 | [25322-track-attack.json](./25322-track-attack.json) |
 | Track Craft | 318717 | [318717-track-craft.json](./318717-track-craft.json) |
+| Track Day: From Street to Circuit | 420869 | [420869-track-day-from-street-to-circuit.json](./420869-track-day-from-street-to-circuit.json) |
 | Track Lab | 105880 | [105880-track-lab.json](./105880-track-lab.json) |
 | Track Lab VR | 111831 | [111831-track-lab-vr.json](./111831-track-lab-vr.json) |
 | Track Masters Pro | 338953 | [338953-track-masters-pro.json](./338953-track-masters-pro.json) |
@@ -35464,6 +35468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trench Assault | 115195 | [115195-trench-assault.json](./115195-trench-assault.json) |
 | Trench Defender | 294309 | [294309-trench-defender.json](./294309-trench-defender.json) |
 | Trench Face | 365220 | [365220-trench-face.json](./365220-trench-face.json) |
+| Trench Face: Expansion | 420124 | [420124-trench-face-expansion.json](./420124-trench-face-expansion.json) |
 | Trench Foot | 148157 | [148157-trench-foot.json](./148157-trench-foot.json) |
 | Trench Foot | 271577 | [271577-trench-foot.json](./271577-trench-foot.json) |
 | Trench Lord: Eastern Front | 369049 | [369049-trench-lord-eastern-front.json](./369049-trench-lord-eastern-front.json) |
