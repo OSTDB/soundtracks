@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magatama Earrings | 32576 | [32576-magatama-earrings.json](./32576-magatama-earrings.json) |
 | Magatch | 341200 | [341200-magatch.json](./341200-magatch.json) |
 | Magatsu Barai | 172730 | [172730-magatsu-barai.json](./172730-magatsu-barai.json) |
+| Magatsu Harai | 424239 | [424239-magatsu-harai.json](./424239-magatsu-harai.json) |
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
 | Magazine Editor | 29433 | [29433-magazine-editor.json](./29433-magazine-editor.json) |
 | Magazine Mogul | 135642 | [135642-magazine-mogul.json](./135642-magazine-mogul.json) |
@@ -2389,7 +2390,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Valentine's Day | 90291 | [90291-mahjong-valentines-day.json](./90291-mahjong-valentines-day.json) |
 | Mahjong Vanilla Syndrome | 91933 | [91933-mahjong-vanilla-syndrome.json](./91933-mahjong-vanilla-syndrome.json) |
 | Mahjong Venice Mystery Classic | 99179 | [99179-mahjong-venice-mystery-classic.json](./99179-mahjong-venice-mystery-classic.json) |
-| Mahjong Venice Mystery Puzzle | 87715 | [87715-mahjong-venice-mystery-puzzle.json](./87715-mahjong-venice-mystery-puzzle.json) |
 | Mahjong Village | 181531 | [181531-mahjong-village.json](./181531-mahjong-village.json) |
 | Mahjong VR | 61605 | [61605-mahjong-vr.json](./61605-mahjong-vr.json) |
 | Mahjong Wisdom | 67175 | [67175-mahjong-wisdom.json](./67175-mahjong-wisdom.json) |
@@ -3468,7 +3468,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manbomber | 283749 | [283749-manbomber.json](./283749-manbomber.json) |
 | Mancala | 89473 | [89473-mancala.json](./89473-mancala.json) |
 | Mancala Kalah | 99912 | [99912-mancala-kalah.json](./99912-mancala-kalah.json) |
-| Mancala Pro | 87863 | [87863-mancala-pro.json](./87863-mancala-pro.json) |
 | Mancala Snails | 321617 | [321617-mancala-snails.json](./321617-mancala-snails.json) |
 | Mancalero | 413333 | [413333-mancalero.json](./413333-mancalero.json) |
 | Mancave | 419691 | [419691-mancave.json](./419691-mancave.json) |
@@ -4065,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble-O-Tron | 174294 | [174294-marble-o-tron.json](./174294-marble-o-tron.json) |
 | Marble's Marbles | 384201 | [384201-marbles-marbles.json](./384201-marbles-marbles.json) |
 | Marblearium | 400091 | [400091-marblearium.json](./400091-marblearium.json) |
+| Marblebuilds | 423933 | [423933-marblebuilds.json](./423933-marblebuilds.json) |
 | Marbled Memories | 416805 | [416805-marbled-memories.json](./416805-marbled-memories.json) |
 | Marbledrome: Crazy Stunt Balls | 107966 | [107966-marbledrome-crazy-stunt-balls.json](./107966-marbledrome-crazy-stunt-balls.json) |
 | MarbleGP | 341211 | [341211-marblegp.json](./341211-marblegp.json) |
@@ -5654,6 +5654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masackra | 389692 | [389692-masackra.json](./389692-masackra.json) |
 | Masagoro | 153826 | [153826-masagoro.json](./153826-masagoro.json) |
 | Masakari Densetsu: Kintarou Action-hen | 163119 | [163119-masakari-densetsu-kintarou-action-hen.json](./163119-masakari-densetsu-kintarou-action-hen.json) |
+| Masakre | 427673 | [427673-masakre.json](./427673-masakre.json) |
 | Masala Drive | 263542 | [263542-masala-drive.json](./263542-masala-drive.json) |
 | Masamune | 117424 | [117424-masamune.json](./117424-masamune.json) |
 | Masarada Town Story | 223372 | [223372-masarada-town-story.json](./223372-masarada-town-story.json) |
@@ -9956,6 +9957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody's Melon Mania | 311977 | [311977-melodys-melon-mania.json](./311977-melodys-melon-mania.json) |
 | Melodyssey | 204510 | [204510-melodyssey.json](./204510-melodyssey.json) |
 | MelodyVerse | 188849 | [188849-melodyverse.json](./188849-melodyverse.json) |
+| MeloJam | 424313 | [424313-melojam.json](./424313-melojam.json) |
 | Melolune | 75983 | [75983-melolune.json](./75983-melolune.json) |
 | MeloMisterio: Play Your Melody | 351783 | [351783-melomisterio-play-your-melody.json](./351783-melomisterio-play-your-melody.json) |
 | Melon | 214441 | [214441-melon.json](./214441-melon.json) |
@@ -21016,7 +21018,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Sniper Shooter Elite Assassin | 102844 | [102844-mountain-sniper-shooter-elite-assassin.json](./102844-mountain-sniper-shooter-elite-assassin.json) |
 | Mountain Sports | 214894 | [214894-mountain-sports.json](./214894-mountain-sports.json) |
 | Mountain Sports | 50971 | [50971-mountain-sports.json](./50971-mountain-sports.json) |
-| Mountain Tanks | 87744 | [87744-mountain-tanks.json](./87744-mountain-tanks.json) |
 | Mountain Taxi Challenge | 382978 | [382978-mountain-taxi-challenge.json](./382978-mountain-taxi-challenge.json) |
 | Mountain Taxi Driver | 119745 | [119745-mountain-taxi-driver.json](./119745-mountain-taxi-driver.json) |
 | Mountain Trap 2: Under the Cloak of Fear | 30309 | [30309-mountain-trap-2-under-the-cloak-of-fear.json](./30309-mountain-trap-2-under-the-cloak-of-fear.json) |
@@ -22118,7 +22119,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Game Party | 291822 | [291822-multi-game-party.json](./291822-multi-game-party.json) |
 | Multi Idle | 197175 | [197175-multi-idle.json](./197175-multi-idle.json) |
 | Multi Impact | 252708 | [252708-multi-impact.json](./252708-multi-impact.json) |
-| Multi Level 5 Airport Driver | 87741 | [87741-multi-level-5-airport-driver.json](./87741-multi-level-5-airport-driver.json) |
 | Multi Level Car Parking Simulator | 255738 | [255738-multi-level-car-parking-simulator.json](./255738-multi-level-car-parking-simulator.json) |
 | Multi Maze 3D | 221380 | [221380-multi-maze-3d.json](./221380-multi-maze-3d.json) |
 | Multi Maze 3D: Complete Edition | 298574 | [298574-multi-maze-3d-complete-edition.json](./298574-multi-maze-3d-complete-edition.json) |
@@ -23554,7 +23554,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Doki Doki SNAFU | 379141 | [379141-my-doki-doki-snafu.json](./379141-my-doki-doki-snafu.json) |
 | My Dolphin | 67254 | [67254-my-dolphin.json](./67254-my-dolphin.json) |
 | My Dolphin Show | 86773 | [86773-my-dolphin-show.json](./86773-my-dolphin-show.json) |
-| My Donut Days | 87717 | [87717-my-donut-days.json](./87717-my-donut-days.json) |
 | My Douchey Boss Has a Gentle Twin Brother?! | 267032 | [267032-my-douchey-boss-has-a-gentle-twin-brother.json](./267032-my-douchey-boss-has-a-gentle-twin-brother.json) |
 | My Downtown | 153981 | [153981-my-downtown.json](./153981-my-downtown.json) |
 | My Dragon Girlfriend | 222650 | [222650-my-dragon-girlfriend.json](./222650-my-dragon-girlfriend.json) |
@@ -24496,7 +24495,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Shadow | 133337 | [133337-my-shadow.json](./133337-my-shadow.json) |
 | My Shadow | 289432 | [289432-my-shadow.json](./289432-my-shadow.json) |
 | My Shark | 331392 | [331392-my-shark.json](./331392-my-shark.json) |
-| My Shelf | 87882 | [87882-my-shelf.json](./87882-my-shelf.json) |
 | My Shelter | 348449 | [348449-my-shelter.json](./348449-my-shelter.json) |
 | My Shops | 241530 | [241530-my-shops.json](./241530-my-shops.json) |
 | My Shut-in Demon! | 399962 | [399962-my-shut-in-demon.json](./399962-my-shut-in-demon.json) |
