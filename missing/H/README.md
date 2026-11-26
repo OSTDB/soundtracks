@@ -9,8 +9,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | h 4 in a Row | 89155 | [89155-h-4-in-a-row.json](./89155-h-4-in-a-row.json) |
 | H Chan: Girl | 382488 | [382488-h-chan-girl.json](./382488-h-chan-girl.json) |
 | h Checkers | 91164 | [91164-h-checkers.json](./91164-h-checkers.json) |
-| h Find the Differences 1 | 88842 | [88842-h-find-the-differences-1.json](./88842-h-find-the-differences-1.json) |
-| h Find the Differences 2 | 88449 | [88449-h-find-the-differences-2.json](./88449-h-find-the-differences-2.json) |
 | H Girl | 389780 | [389780-h-girl.json](./389780-h-girl.json) |
 | H Girl 2 | 244271 | [244271-h-girl-2.json](./244271-h-girl-2.json) |
 | H Girl 3 | 289711 | [289711-h-girl-3.json](./289711-h-girl-3.json) |
@@ -21,7 +19,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H Office | 165829 | [165829-h-office.json](./165829-h-office.json) |
 | h Puzzle | 90445 | [90445-h-puzzle.json](./90445-h-puzzle.json) |
 | h Simply Go | 91338 | [91338-h-simply-go.json](./91338-h-simply-go.json) |
-| h Solitaire | 88445 | [88445-h-solitaire.json](./88445-h-solitaire.json) |
 | H to Maid to Mujintou | 416728 | [416728-h-to-maid-to-mujintou.json](./416728-h-to-maid-to-mujintou.json) |
 | H to Maid to My Home | 413760 | [413760-h-to-maid-to-my-home.json](./413760-h-to-maid-to-my-home.json) |
 | H-Craft Championship | 116412 | [116412-h-craft-championship.json](./116412-h-craft-championship.json) |
@@ -1860,7 +1857,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Brain Puzzle | 208982 | [208982-happy-brain-puzzle.json](./208982-happy-brain-puzzle.json) |
 | Happy Breeding | 92696 | [92696-happy-breeding.json](./92696-happy-breeding.json) |
 | Happy Burger | 257780 | [257780-happy-burger.json](./257780-happy-burger.json) |
-| Happy Burger Days | 88481 | [88481-happy-burger-days.json](./88481-happy-burger-days.json) |
 | Happy Bushman | 386311 | [386311-happy-bushman.json](./386311-happy-bushman.json) |
 | Happy Camper | 241159 | [241159-happy-camper.json](./241159-happy-camper.json) |
 | Happy Campers | 29292 | [29292-happy-campers.json](./29292-happy-campers.json) |
@@ -8455,7 +8451,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects - Japanese Dream | 96992 | [96992-hidden-objects-japanese-dream.json](./96992-hidden-objects-japanese-dream.json) |
 | Hidden Objects - World Traveler | 89577 | [89577-hidden-objects-world-traveler.json](./89577-hidden-objects-world-traveler.json) |
 | Hidden Objects : Ancient Egyptian Objects | 96445 | [96445-hidden-objects-ancient-egyptian-objects.json](./96445-hidden-objects-ancient-egyptian-objects.json) |
-| Hidden Objects Ancient Greece | 88847 | [88847-hidden-objects-ancient-greece.json](./88847-hidden-objects-ancient-greece.json) |
 | Hidden Objects Christmas Game | 241214 | [241214-hidden-objects-christmas-game.json](./241214-hidden-objects-christmas-game.json) |
 | Hidden Objects Collection | 93969 | [93969-hidden-objects-collection.json](./93969-hidden-objects-collection.json) |
 | Hidden Objects Collection 5: Detective Stories | 282055 | [282055-hidden-objects-collection-5-detective-stories.json](./282055-hidden-objects-collection-5-detective-stories.json) |
@@ -8463,7 +8458,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects Collection: Volume 3 | 191493 | [191493-hidden-objects-collection-volume-3.json](./191493-hidden-objects-collection-volume-3.json) |
 | Hidden Objects Collection: Volume 4 | 191492 | [191492-hidden-objects-collection-volume-4.json](./191492-hidden-objects-collection-volume-4.json) |
 | Hidden Objects Easter Gardens | 96610 | [96610-hidden-objects-easter-gardens.json](./96610-hidden-objects-easter-gardens.json) |
-| Hidden Objects Egyptian Palace | 88670 | [88670-hidden-objects-egyptian-palace.json](./88670-hidden-objects-egyptian-palace.json) |
 | Hidden Objects Fantasy Games | 249315 | [249315-hidden-objects-fantasy-games.json](./249315-hidden-objects-fantasy-games.json) |
 | Hidden Objects Kids Room | 232198 | [232198-hidden-objects-kids-room.json](./232198-hidden-objects-kids-room.json) |
 | Hidden Objects Lost Worlds | 70913 | [70913-hidden-objects-lost-worlds.json](./70913-hidden-objects-lost-worlds.json) |
@@ -8499,7 +8493,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Mystery Stories | 47787 | [47787-hidden-objects-mystery-stories.json](./47787-hidden-objects-mystery-stories.json) |
 | Hidden Objects: Mystery Story | 82227 | [82227-hidden-objects-mystery-story.json](./82227-hidden-objects-mystery-story.json) |
 | Hidden Objects: Mystery Tree House - Dog Adventure: Find the Evidence Story | 101970 | [101970-hidden-objects-mystery-tree-house-dog-adventure-find-the-evidence-story.json](./101970-hidden-objects-mystery-tree-house-dog-adventure-find-the-evidence-story.json) |
-| Hidden Objects: New York Rain Storm - The Pharaohs Treasure Hunt: Spa Massage Meditation Center - California | 88348 | [88348-hidden-objects-new-york-rain-storm-the-pharaohs-treasure-hunt-spa-massage-meditation-center-california.json](./88348-hidden-objects-new-york-rain-storm-the-pharaohs-treasure-hunt-spa-massage-meditation-center-california.json) |
 | Hidden Objects: Ocean | 82225 | [82225-hidden-objects-ocean.json](./82225-hidden-objects-ocean.json) |
 | Hidden Objects: Old Castle | 82219 | [82219-hidden-objects-old-castle.json](./82219-hidden-objects-old-castle.json) |
 | Hidden Objects: Police Detective | 82228 | [82228-hidden-objects-police-detective.json](./82228-hidden-objects-police-detective.json) |
@@ -10335,7 +10328,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoleHole | 251717 | [251717-holehole.json](./251717-holehole.json) |
 | Holes | 373207 | [373207-holes.json](./373207-holes.json) |
 | Holes Ahead! | 109519 | [109519-holes-ahead.json](./109519-holes-ahead.json) |
-| Holes and Balls | 88684 | [88684-holes-and-balls.json](./88684-holes-and-balls.json) |
 | HoleShot Drag Racing | 212997 | [212997-holeshot-drag-racing.json](./212997-holeshot-drag-racing.json) |
 | Holey | 408181 | [408181-holey.json](./408181-holey.json) |
 | Holey Dungeon Horidan! | 59009 | [59009-holey-dungeon-horidan.json](./59009-holey-dungeon-horidan.json) |
@@ -12041,7 +12033,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Racing | 284951 | [284951-horse-racing.json](./284951-horse-racing.json) |
 | Horse Racing | 47279 | [47279-horse-racing.json](./47279-horse-racing.json) |
 | Horse Racing 2016 | 38770 | [38770-horse-racing-2016.json](./38770-horse-racing-2016.json) |
-| Horse Racing 3D 2015 | 88452 | [88452-horse-racing-3d-2015.json](./88452-horse-racing-3d-2015.json) |
 | Horse Racing 3D: Kids Edition | 88551 | [88551-horse-racing-3d-kids-edition.json](./88551-horse-racing-3d-kids-edition.json) |
 | Horse Racing Creating Derby | 341837 | [341837-horse-racing-creating-derby.json](./341837-horse-racing-creating-derby.json) |
 | Horse Racing Derby | 100506 | [100506-horse-racing-derby.json](./100506-horse-racing-derby.json) |
