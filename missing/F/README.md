@@ -3094,7 +3094,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Moomoo | 214299 | [214299-farming-moomoo.json](./214299-farming-moomoo.json) |
 | Farming Mushroom | 371483 | [371483-farming-mushroom.json](./371483-farming-mushroom.json) |
 | Farming PRO 2015 | 88257 | [88257-farming-pro-2015.json](./88257-farming-pro-2015.json) |
-| Farming PRO 2016 | 88996 | [88996-farming-pro-2016.json](./88996-farming-pro-2016.json) |
 | Farming Real Simulation Tractor, Combine Trucks Farmer Land Game | 231084 | [231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json](./231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json) |
 | Farming Sim 25: Drive Tractors, Combine, Trucks | 329568 | [329568-farming-sim-25-drive-tractors-combine-trucks.json](./329568-farming-sim-25-drive-tractors-combine-trucks.json) |
 | Farming Simulator | 81357 | [81357-farming-simulator.json](./81357-farming-simulator.json) |
@@ -3211,7 +3210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Tractor Simulator: Big Farm | 238346 | [238346-farming-tractor-simulator-big-farm.json](./238346-farming-tractor-simulator-big-farm.json) |
 | Farming TriPeaks Solitaire | 395966 | [395966-farming-tripeaks-solitaire.json](./395966-farming-tripeaks-solitaire.json) |
 | Farming USA | 87490 | [87490-farming-usa.json](./87490-farming-usa.json) |
-| Farming USA 2 | 88981 | [88981-farming-usa-2.json](./88981-farming-usa-2.json) |
 | Farming Village | 121491 | [121491-farming-village.json](./121491-farming-village.json) |
 | Farming With Lasers | 389365 | [389365-farming-with-lasers.json](./389365-farming-with-lasers.json) |
 | Farming World | 10313 | [10313-farming-world.json](./10313-farming-world.json) |
@@ -4286,7 +4284,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed | 411077 | [411077-feed.json](./411077-feed.json) |
 | Feed A Titanosaur | 117069 | [117069-feed-a-titanosaur.json](./117069-feed-a-titanosaur.json) |
 | Feed All Monsters | 190185 | [190185-feed-all-monsters.json](./190185-feed-all-monsters.json) |
-| Feed and Battle: Grow Fish | 88930 | [88930-feed-and-battle-grow-fish.json](./88930-feed-and-battle-grow-fish.json) |
 | Feed and Grow Survival Fish | 174957 | [174957-feed-and-grow-survival-fish.json](./174957-feed-and-grow-survival-fish.json) |
 | Feed and Grow: Crazy Fish | 193799 | [193799-feed-and-grow-crazy-fish.json](./193799-feed-and-grow-crazy-fish.json) |
 | Feed and Grow: Fish | 19876 | [19876-feed-and-grow-fish.json](./19876-feed-and-grow-fish.json) |
@@ -7676,7 +7673,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Blast | 299526 | [299526-fishing-blast.json](./299526-fishing-blast.json) |
 | Fishing Break | 79746 | [79746-fishing-break.json](./79746-fishing-break.json) |
 | Fishing Break Online | 120618 | [120618-fishing-break-online.json](./120618-fishing-break-online.json) |
-| Fishing Cat ~ Meow | 89154 | [89154-fishing-cat-meow.json](./89154-fishing-cat-meow.json) |
 | Fishing Cat's Slack-off Diary | 392862 | [392862-fishing-cats-slack-off-diary.json](./392862-fishing-cats-slack-off-diary.json) |
 | Fishing Champion | 200398 | [200398-fishing-champion.json](./200398-fishing-champion.json) |
 | Fishing Clash | 91230 | [91230-fishing-clash.json](./91230-fishing-clash.json) |
@@ -8258,6 +8254,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Old Toy Factory | 239951 | [239951-five-nights-at-old-toy-factory.json](./239951-five-nights-at-old-toy-factory.json) |
 | Five Nights at Pikachu's | 360770 | [360770-five-nights-at-pikachus.json](./360770-five-nights-at-pikachus.json) |
 | Five Nights At Pingas | 403829 | [403829-five-nights-at-pingas.json](./403829-five-nights-at-pingas.json) |
+| Five Nights at Pingas 5 | 410986 | [410986-five-nights-at-pingas-5.json](./410986-five-nights-at-pingas-5.json) |
+| Five Nights at Pingas 6 | 410987 | [410987-five-nights-at-pingas-6.json](./410987-five-nights-at-pingas-6.json) |
+| Five Nights at Pingas 7 | 410988 | [410988-five-nights-at-pingas-7.json](./410988-five-nights-at-pingas-7.json) |
 | Five Nights at Pinkie's | 228654 | [228654-five-nights-at-pinkies.json](./228654-five-nights-at-pinkies.json) |
 | Five Nights At PT's II | 412393 | [412393-five-nights-at-pts-ii.json](./412393-five-nights-at-pts-ii.json) |
 | Five Nights at Raiden's | 327792 | [327792-five-nights-at-raidens.json](./327792-five-nights-at-raidens.json) |
@@ -9018,7 +9017,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Golf World Tour | 82239 | [82239-flick-golf-world-tour.json](./82239-flick-golf-world-tour.json) |
 | Flick Golf! | 58201 | [58201-flick-golf.json](./58201-flick-golf.json) |
 | Flick Headers Euro 2012 | 340147 | [340147-flick-headers-euro-2012.json](./340147-flick-headers-euro-2012.json) |
-| Flick Home Run ! HD | 89537 | [89537-flick-home-run-hd.json](./89537-flick-home-run-hd.json) |
 | Flick Home Run! | 88782 | [88782-flick-home-run.json](./88782-flick-home-run.json) |
 | Flick Kick Football | 89008 | [89008-flick-kick-football.json](./89008-flick-kick-football.json) |
 | Flick Kick Football Legends | 305151 | [305151-flick-kick-football-legends.json](./305151-flick-kick-football-legends.json) |
@@ -10244,6 +10242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlyWings 2018 Flight Simulator: World War II Fighters | 168870 | [168870-flywings-2018-flight-simulator-world-war-ii-fighters.json](./168870-flywings-2018-flight-simulator-world-war-ii-fighters.json) |
 | FlyWings Flight Simulator 2017 | 88616 | [88616-flywings-flight-simulator-2017.json](./88616-flywings-flight-simulator-2017.json) |
 | Flywrench | 12072 | [12072-flywrench.json](./12072-flywrench.json) |
+| Flywrench | 408362 | [408362-flywrench.json](./408362-flywrench.json) |
 | Flyzz! | 217931 | [217931-flyzz.json](./217931-flyzz.json) |
 | FM | 150299 | [150299-fm.json](./150299-fm.json) |
 | FM4X | 270651 | [270651-fm4x.json](./270651-fm4x.json) |
@@ -13555,7 +13554,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Solitaire: Girls | 340255 | [340255-free-solitaire-girls.json](./340255-free-solitaire-girls.json) |
 | Free Solitaire: Kids | 340254 | [340254-free-solitaire-kids.json](./340254-free-solitaire-kids.json) |
 | Free Solitaire: Nature | 340257 | [340257-free-solitaire-nature.json](./340257-free-solitaire-nature.json) |
-| Free Solitaire! | 89064 | [89064-free-solitaire.json](./89064-free-solitaire.json) |
 | Free Solo | 397301 | [397301-free-solo.json](./397301-free-solo.json) |
 | Free Solo: One Life | 161584 | [161584-free-solo-one-life.json](./161584-free-solo-one-life.json) |
 | Free Stars: Children of Infinity | 306085 | [306085-free-stars-children-of-infinity.json](./306085-free-stars-children-of-infinity.json) |
@@ -13596,8 +13594,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCell Classic | 90878 | [90878-freecell-classic.json](./90878-freecell-classic.json) |
 | FreeCell Pro | 131132 | [131132-freecell-pro.json](./131132-freecell-pro.json) |
 | FreeCell Quest | 35409 | [35409-freecell-quest.json](./35409-freecell-quest.json) |
-| Freecell Royale | 89049 | [89049-freecell-royale.json](./89049-freecell-royale.json) |
-| Freecell Solitaire | 89168 | [89168-freecell-solitaire.json](./89168-freecell-solitaire.json) |
 | FreeCell Solitaire - Classic Deck Card Games | 88365 | [88365-freecell-solitaire-classic-deck-card-games.json](./88365-freecell-solitaire-classic-deck-card-games.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
 | FreeCell Solitaire Collection | 148324 | [148324-freecell-solitaire-collection.json](./148324-freecell-solitaire-collection.json) |
@@ -13725,9 +13721,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle King | 130610 | [130610-freestyle-king.json](./130610-freestyle-king.json) |
 | Freestyle Mage | 216383 | [216383-freestyle-mage.json](./216383-freestyle-mage.json) |
 | Freestyle MetalX | 3920 | [3920-freestyle-metalx.json](./3920-freestyle-metalx.json) |
+| Freestyle Moto-X II | 415648 | [415648-freestyle-moto-x-ii.json](./415648-freestyle-moto-x-ii.json) |
 | Freestyle Motocross: McGrath vs. Pastrana | 44940 | [44940-freestyle-motocross-mcgrath-vs-pastrana.json](./44940-freestyle-motocross-mcgrath-vs-pastrana.json) |
 | Freestyle Street Soccer | 3921 | [3921-freestyle-street-soccer.json](./3921-freestyle-street-soccer.json) |
 | Freestyle Studio | 272764 | [272764-freestyle-studio.json](./272764-freestyle-studio.json) |
+| FreeStyle: Reboot | 414488 | [414488-freestyle-reboot.json](./414488-freestyle-reboot.json) |
 | Freestyle2: Hot Summer Outfit Box | 302032 | [302032-freestyle2-hot-summer-outfit-box.json](./302032-freestyle2-hot-summer-outfit-box.json) |
 | Freestyle2: Must-have summer Outfit Box | 302033 | [302033-freestyle2-must-have-summer-outfit-box.json](./302033-freestyle2-must-have-summer-outfit-box.json) |
 | Freestyle2: Street Basketball | 28088 | [28088-freestyle2-street-basketball.json](./28088-freestyle2-street-basketball.json) |
@@ -15023,7 +15021,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Killer | 246448 | [246448-fruit-killer.json](./246448-fruit-killer.json) |
 | Fruit Language Opinions | 128637 | [128637-fruit-language-opinions.json](./128637-fruit-language-opinions.json) |
 | Fruit Legacy | 192217 | [192217-fruit-legacy.json](./192217-fruit-legacy.json) |
-| Fruit Link Go 3 | 89585 | [89585-fruit-link-go-3.json](./89585-fruit-link-go-3.json) |
 | Fruit Lockers 2: The Enchanting Island | 209582 | [209582-fruit-lockers-2-the-enchanting-island.json](./209582-fruit-lockers-2-the-enchanting-island.json) |
 | Fruit Lockers Reborn! 2 | 114318 | [114318-fruit-lockers-reborn-2.json](./114318-fruit-lockers-reborn-2.json) |
 | Fruit Logic | 233923 | [233923-fruit-logic.json](./233923-fruit-logic.json) |
@@ -15791,7 +15788,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Pizza Land | 123615 | [123615-funny-pizza-land.json](./123615-funny-pizza-land.json) |
 | Funny Pizza Land 2 | 217485 | [217485-funny-pizza-land-2.json](./217485-funny-pizza-land-2.json) |
 | Funny puzzle | 173214 | [173214-funny-puzzle.json](./173214-funny-puzzle.json) |
-| Funny puzzles for kids | 89192 | [89192-funny-puzzles-for-kids.json](./89192-funny-puzzles-for-kids.json) |
 | Funny Racer | 291008 | [291008-funny-racer.json](./291008-funny-racer.json) |
 | Funny Racer | 305350 | [305350-funny-racer.json](./305350-funny-racer.json) |
 | Funny Rain | 314924 | [314924-funny-rain.json](./314924-funny-rain.json) |
