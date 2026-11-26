@@ -1163,7 +1163,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BadMan | 240524 | [240524-badman.json](./240524-badman.json) |
 | Badminton | 246175 | [246175-badminton.json](./246175-badminton.json) |
 | Badminton Clash: Master League - World Championship Arena | 181654 | [181654-badminton-clash-master-league-world-championship-arena.json](./181654-badminton-clash-master-league-world-championship-arena.json) |
-| Badminton Kings VR | 89258 | [89258-badminton-kings-vr.json](./89258-badminton-kings-vr.json) |
 | Badminton League | 308679 | [308679-badminton-league.json](./308679-badminton-league.json) |
 | Badminton Manager | 200079 | [200079-badminton-manager.json](./200079-badminton-manager.json) |
 | Badminton Master | 224101 | [224101-badminton-master.json](./224101-badminton-master.json) |
@@ -5120,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship | 4710 | [4710-battleship.json](./4710-battleship.json) |
 | Battleship | 77147 | [77147-battleship.json](./77147-battleship.json) |
 | Battleship | 95434 | [95434-battleship.json](./95434-battleship.json) |
+| BattleShip | 406385 | [406385-battleship.json](./406385-battleship.json) |
 | Battleship / Connect Four / Sorry! / Trouble | 70154 | [70154-battleship-connect-four-sorry-trouble.json](./70154-battleship-connect-four-sorry-trouble.json) |
 | Battleship / Trouble / Perfection Collection | 206251 | [206251-battleship-trouble-perfection-collection.json](./206251-battleship-trouble-perfection-collection.json) |
 | Battleship Apollo | 143669 | [143669-battleship-apollo.json](./143669-battleship-apollo.json) |
@@ -10058,7 +10058,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin highway | 83587 | [83587-bitcoin-highway.json](./83587-bitcoin-highway.json) |
 | Bitcoin Hodler | 157246 | [157246-bitcoin-hodler.json](./157246-bitcoin-hodler.json) |
 | Bitcoin Man Clicker | 251654 | [251654-bitcoin-man-clicker.json](./251654-bitcoin-man-clicker.json) |
-| Bitcoin Miner | 89602 | [89602-bitcoin-miner.json](./89602-bitcoin-miner.json) |
 | Bitcoin Miner Farm: Clicker Game | 118960 | [118960-bitcoin-miner-farm-clicker-game.json](./118960-bitcoin-miner-farm-clicker-game.json) |
 | Bitcoin Miner: Remastered | 134889 | [134889-bitcoin-miner-remastered.json](./134889-bitcoin-miner-remastered.json) |
 | Bitcoin Minia | 99449 | [99449-bitcoin-minia.json](./99449-bitcoin-minia.json) |
@@ -10753,7 +10752,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Championship | 148770 | [148770-blackjack-championship.json](./148770-blackjack-championship.json) |
 | Blackjack Descent | 383681 | [383681-blackjack-descent.json](./383681-blackjack-descent.json) |
 | Blackjack Elf | 313895 | [313895-blackjack-elf.json](./313895-blackjack-elf.json) |
-| Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
 | Blackjack Hands | 133518 | [133518-blackjack-hands.json](./133518-blackjack-hands.json) |
 | Blackjack HD | 87408 | [87408-blackjack-hd.json](./87408-blackjack-hd.json) |
 | Blackjack In Space | 88200 | [88200-blackjack-in-space.json](./88200-blackjack-in-space.json) |
@@ -11565,7 +11563,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleakwood | 304574 | [304574-bleakwood.json](./304574-bleakwood.json) |
 | Bleap | 352247 | [352247-bleap.json](./352247-bleap.json) |
 | Bleb | 346792 | [346792-bleb.json](./346792-bleb.json) |
-| Blebrity | 89176 | [89176-blebrity.json](./89176-blebrity.json) |
 | Bled Navalny | 81585 | [81585-bled-navalny.json](./81585-bled-navalny.json) |
 | Bleed | 9706 | [9706-bleed.json](./9706-bleed.json) |
 | Bleed + Bleed 2: Limited Edition | 167059 | [167059-bleed-bleed-2-limited-edition.json](./167059-bleed-bleed-2-limited-edition.json) |
@@ -12082,7 +12079,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Flying | 359387 | [359387-block-flying.json](./359387-block-flying.json) |
 | Block Force | 247454 | [247454-block-force.json](./247454-block-force.json) |
 | Block Force | 400447 | [400447-block-force.json](./400447-block-force.json) |
-| Block Fortress | 88977 | [88977-block-fortress.json](./88977-block-fortress.json) |
 | Block Fortress 2 | 318705 | [318705-block-fortress-2.json](./318705-block-fortress-2.json) |
 | Block Fortress: Empires | 119483 | [119483-block-fortress-empires.json](./119483-block-fortress-empires.json) |
 | Block Fortress: War | 90045 | [90045-block-fortress-war.json](./90045-block-fortress-war.json) |
@@ -13863,7 +13859,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Invasion | 294693 | [294693-bob-invasion.json](./294693-bob-invasion.json) |
 | Bob Logistics | 424497 | [424497-bob-logistics.json](./424497-bob-logistics.json) |
 | Bob Mazzolini Racing | 151428 | [151428-bob-mazzolini-racing.json](./151428-bob-mazzolini-racing.json) |
-| Bob Mod | 89122 | [89122-bob-mod.json](./89122-bob-mod.json) |
 | Bob Monster Truck Underwater Sponge Racing | 96325 | [96325-bob-monster-truck-underwater-sponge-racing.json](./96325-bob-monster-truck-underwater-sponge-racing.json) |
 | Bob Morane: Chevalerie 1 | 55094 | [55094-bob-morane-chevalerie-1.json](./55094-bob-morane-chevalerie-1.json) |
 | Bob Morane: Jungle 1 | 55095 | [55095-bob-morane-jungle-1.json](./55095-bob-morane-jungle-1.json) |
@@ -14083,6 +14078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodycam Unrecord Shooter | 323681 | [323681-bodycam-unrecord-shooter.json](./323681-bodycam-unrecord-shooter.json) |
 | Bodycam Zombie Shooter | 323632 | [323632-bodycam-zombie-shooter.json](./323632-bodycam-zombie-shooter.json) |
 | BodyCam Zombie Waves | 343495 | [343495-bodycam-zombie-waves.json](./343495-bodycam-zombie-waves.json) |
+| Bodycam: Update 0.8 - Locked & Loaded | 419444 | [419444-bodycam-update-0-8-locked-and-loaded.json](./419444-bodycam-update-0-8-locked-and-loaded.json) |
 | Bodycamera FPS | 400174 | [400174-bodycamera-fps.json](./400174-bodycamera-fps.json) |
 | Bodycheck | 10666 | [10666-bodycheck.json](./10666-bodycheck.json) |
 | BodyConQuest I: Abakareshi Musume-tachi | 41238 | [41238-bodyconquest-i-abakareshi-musume-tachi.json](./41238-bodyconquest-i-abakareshi-musume-tachi.json) |
@@ -16282,7 +16278,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling 2000 | 391790 | [391790-bowling-2000.json](./391790-bowling-2000.json) |
 | Bowling 2006 | 52480 | [52480-bowling-2006.json](./52480-bowling-2006.json) |
 | Bowling 3D | 42776 | [42776-bowling-3d.json](./42776-bowling-3d.json) |
-| Bowling 3D Extreme | 89226 | [89226-bowling-3d-extreme.json](./89226-bowling-3d-extreme.json) |
 | Bowling 3D Extreme Plus | 96573 | [96573-bowling-3d-extreme-plus.json](./96573-bowling-3d-extreme-plus.json) |
 | Bowling Alley | 230840 | [230840-bowling-alley.json](./230840-bowling-alley.json) |
 | Bowling at the Lake | 30190 | [30190-bowling-at-the-lake.json](./30190-bowling-at-the-lake.json) |
@@ -17994,7 +17989,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks in the Box | 104741 | [104741-bricks-in-the-box.json](./104741-bricks-in-the-box.json) |
 | Bricks King | 255756 | [255756-bricks-king.json](./255756-bricks-king.json) |
 | Bricks Kingdom | 321510 | [321510-bricks-kingdom.json](./321510-bricks-kingdom.json) |
-| Bricks n Balls | 89246 | [89246-bricks-n-balls.json](./89246-bricks-n-balls.json) |
 | Bricks of Atlantis | 70108 | [70108-bricks-of-atlantis.json](./70108-bricks-of-atlantis.json) |
 | Bricks of Camelot | 72267 | [72267-bricks-of-camelot.json](./72267-bricks-of-camelot.json) |
 | Bricks of Egypt | 71653 | [71653-bricks-of-egypt.json](./71653-bricks-of-egypt.json) |
@@ -18046,7 +18040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge 3000 | 206491 | [206491-bridge-3000.json](./206491-bridge-3000.json) |
 | Bridge 4.0 | 362440 | [362440-bridge-4-0.json](./362440-bridge-4-0.json) |
 | Bridge 5.0 | 362441 | [362441-bridge-5-0.json](./362441-bridge-5-0.json) |
-| Bridge Baron | 88982 | [88982-bridge-baron.json](./88982-bridge-baron.json) |
 | Bridge Basics | 99830 | [99830-bridge-basics.json](./99830-bridge-basics.json) |
 | Bridge Between Two Islands | 308475 | [308475-bridge-between-two-islands.json](./308475-bridge-between-two-islands.json) |
 | Bridge Builder | 50121 | [50121-bridge-builder.json](./50121-bridge-builder.json) |
@@ -19663,7 +19656,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bughouse | 208363 | [208363-bughouse.json](./208363-bughouse.json) |
 | BugLab Simulator | 380120 | [380120-buglab-simulator.json](./380120-buglab-simulator.json) |
 | Bugnauts! | 302826 | [302826-bugnauts.json](./302826-bugnauts.json) |
-| BugOut | 89075 | [89075-bugout.json](./89075-bugout.json) |
 | BugPot | 419991 | [419991-bugpot.json](./419991-bugpot.json) |
 | Bugs | 18802 | [18802-bugs.json](./18802-bugs.json) |
 | Bugs | 299090 | [299090-bugs.json](./299090-bugs.json) |
@@ -19830,7 +19822,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building Block Heroes | 55257 | [55257-building-block-heroes.json](./55257-building-block-heroes.json) |
 | Building Block Heroes: Rush Edition | 100479 | [100479-building-block-heroes-rush-edition.json](./100479-building-block-heroes-rush-edition.json) |
 | Building Block Simulator | 297636 | [297636-building-block-simulator.json](./297636-building-block-simulator.json) |
-| Building Block: Castle & City Craft Simulator | 89277 | [89277-building-block-castle-and-city-craft-simulator.json](./89277-building-block-castle-and-city-craft-simulator.json) |
 | Building Blocks / Master Builder of Egypt | 81219 | [81219-building-blocks-master-builder-of-egypt.json](./81219-building-blocks-master-builder-of-egypt.json) |
 | Building Crush! | 112183 | [112183-building-crush.json](./112183-building-crush.json) |
 | Building Destruction | 193563 | [193563-building-destruction.json](./193563-building-destruction.json) |
@@ -19950,6 +19941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Bunny | 246029 | [246029-bullet-bunny.json](./246029-bullet-bunny.json) |
 | Bullet Butlers | 58052 | [58052-bullet-butlers.json](./58052-bullet-butlers.json) |
 | Bullet Butlers: Juudan no Kanata | 259483 | [259483-bullet-butlers-juudan-no-kanata.json](./259483-bullet-butlers-juudan-no-kanata.json) |
+| Bullet Call | 418119 | [418119-bullet-call.json](./418119-bullet-call.json) |
 | Bullet Candy Perfect | 24489 | [24489-bullet-candy-perfect.json](./24489-bullet-candy-perfect.json) |
 | Bullet Casters | 190426 | [190426-bullet-casters.json](./190426-bullet-casters.json) |
 | Bullet Cell | 136239 | [136239-bullet-cell.json](./136239-bullet-cell.json) |
