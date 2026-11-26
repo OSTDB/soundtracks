@@ -5678,6 +5678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debt City | 339502 | [339502-debt-city.json](./339502-debt-city.json) |
 | Debt Deadline | 272383 | [272383-debt-deadline.json](./272383-debt-deadline.json) |
 | Debt of Life | 419903 | [419903-debt-of-life.json](./419903-debt-of-life.json) |
+| Debtbound | 431035 | [431035-debtbound.json](./431035-debtbound.json) |
 | Debteh | 133035 | [133035-debteh.json](./133035-debteh.json) |
 | Debtor | 86756 | [86756-debtor.json](./86756-debtor.json) |
 | Debtor: Enhanced Edition | 234685 | [234685-debtor-enhanced-edition.json](./234685-debtor-enhanced-edition.json) |
@@ -8334,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Bus Frontiers | 293222 | [293222-desert-bus-frontiers.json](./293222-desert-bus-frontiers.json) |
 | Desert Bus VR | 76421 | [76421-desert-bus-vr.json](./76421-desert-bus-vr.json) |
 | Desert Child | 91970 | [91970-desert-child.json](./91970-desert-child.json) |
+| Desert Cleaner | 431024 | [431024-desert-cleaner.json](./431024-desert-cleaner.json) |
 | Desert coachman | 127448 | [127448-desert-coachman.json](./127448-desert-coachman.json) |
 | Desert Comets | 184923 | [184923-desert-comets.json](./184923-desert-comets.json) |
 | Desert Commander | 48137 | [48137-desert-commander.json](./48137-desert-commander.json) |
@@ -15564,6 +15566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door 2: Key | 123850 | [123850-door-2-key.json](./123850-door-2-key.json) |
 | Door 2: Key - Path to Heaven | 171586 | [171586-door-2-key-path-to-heaven.json](./171586-door-2-key-path-to-heaven.json) |
 | Door 3: Insignia | 193509 | [193509-door-3-insignia.json](./193509-door-3-insignia.json) |
+| Door Code | 431098 | [431098-door-code.json](./431098-door-code.json) |
 | Door Door | 92904 | [92904-door-door.json](./92904-door-door.json) |
 | Door Game Deluxe | 331085 | [331085-door-game-deluxe.json](./331085-door-game-deluxe.json) |
 | Door in the Woods | 126757 | [126757-door-in-the-woods.json](./126757-door-in-the-woods.json) |
@@ -20891,6 +20894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dung Slinger | 410342 | [410342-dung-slinger.json](./410342-dung-slinger.json) |
 | Dungekon Online | 426636 | [426636-dungekon-online.json](./426636-dungekon-online.json) |
 | Dungellion | 111258 | [111258-dungellion.json](./111258-dungellion.json) |
+| Dungelo | 431073 | [431073-dungelo.json](./431073-dungelo.json) |
 | Dungelot | 22161 | [22161-dungelot.json](./22161-dungelot.json) |
 | Dungemon | 339930 | [339930-dungemon.json](./339930-dungemon.json) |
 | Dungems | 211513 | [211513-dungems.json](./211513-dungems.json) |
