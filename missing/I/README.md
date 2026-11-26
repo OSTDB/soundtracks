@@ -1701,7 +1701,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Fishing Tycoon | 212517 | [212517-idle-fishing-tycoon.json](./212517-idle-fishing-tycoon.json) |
 | Idle Fitness Gym Tycoon | 392447 | [392447-idle-fitness-gym-tycoon.json](./392447-idle-fitness-gym-tycoon.json) |
 | Idle Fleet | 410723 | [410723-idle-fleet.json](./410723-idle-fleet.json) |
-| Idle Flipper | 87666 | [87666-idle-flipper.json](./87666-idle-flipper.json) |
 | Idle Food Empire Tycoon | 219268 | [219268-idle-food-empire-tycoon.json](./219268-idle-food-empire-tycoon.json) |
 | Idle Frontier | 348573 | [348573-idle-frontier.json](./348573-idle-frontier.json) |
 | Idle Frontier: Tap Town Tycoon | 134287 | [134287-idle-frontier-tap-town-tycoon.json](./134287-idle-frontier-tap-town-tycoon.json) |
@@ -3102,7 +3101,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Draw | 128565 | [128565-impossible-draw.json](./128565-impossible-draw.json) |
 | Impossible Dungeon | 220186 | [220186-impossible-dungeon.json](./220186-impossible-dungeon.json) |
 | Impossible Fighter Frog | 86554 | [86554-impossible-fighter-frog.json](./86554-impossible-fighter-frog.json) |
-| Impossible Flappy | 87896 | [87896-impossible-flappy.json](./87896-impossible-flappy.json) |
 | Impossible Game | 292574 | [292574-impossible-game.json](./292574-impossible-game.json) |
 | Impossible Game(boy) | 230605 | [230605-impossible-game-boy.json](./230605-impossible-game-boy.json) |
 | Impossible Geometry | 34358 | [34358-impossible-geometry.json](./34358-impossible-geometry.json) |
@@ -4541,7 +4539,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite West | 113927 | [113927-infinite-west.json](./113927-infinite-west.json) |
 | Infinite White: Hyperbolic Time Chamber Simulator | 273460 | [273460-infinite-white-hyperbolic-time-chamber-simulator.json](./273460-infinite-white-hyperbolic-time-chamber-simulator.json) |
 | Infinite Wii | 313418 | [313418-infinite-wii.json](./313418-infinite-wii.json) |
-| Infinite Word Search Puzzles | 87658 | [87658-infinite-word-search-puzzles.json](./87658-infinite-word-search-puzzles.json) |
 | Infinite Zombie: VIP | 95863 | [95863-infinite-zombie-vip.json](./95863-infinite-zombie-vip.json) |
 | Infinite: Beyond the Mind | 128968 | [128968-infinite-beyond-the-mind.json](./128968-infinite-beyond-the-mind.json) |
 | InfiniteBeat | 126732 | [126732-infinitebeat.json](./126732-infinitebeat.json) |
@@ -4806,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inhumane | 60180 | [60180-inhumane.json](./60180-inhumane.json) |
 | Ini | 197638 | [197638-ini.json](./197638-ini.json) |
 | Inigo Gets Out | 313923 | [313923-inigo-gets-out.json](./313923-inigo-gets-out.json) |
+| Inimigo: The Warrior Saint Versus the God of Discord | 415235 | [415235-inimigo-the-warrior-saint-versus-the-god-of-discord.json](./415235-inimigo-the-warrior-saint-versus-the-god-of-discord.json) |
 | Inindo: Way of the Ninja | 47498 | [47498-inindo-way-of-the-ninja.json](./47498-inindo-way-of-the-ninja.json) |
 | Iniquity Survivors | 240374 | [240374-iniquity-survivors.json](./240374-iniquity-survivors.json) |
 | Init. | 35749 | [35749-init.json](./35749-init.json) |
@@ -7439,7 +7437,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isleward | 145941 | [145941-isleward.json](./145941-isleward.json) |
 | Isly | 185010 | [185010-isly.json](./185010-isly.json) |
 | Ismene | 394921 | [394921-ismene.json](./394921-ismene.json) |
-| iSnake | 87703 | [87703-isnake.json](./87703-isnake.json) |
 | Iso | 100225 | [100225-iso.json](./100225-iso.json) |
 | Iso | 201763 | [201763-iso.json](./201763-iso.json) |
 | Iso | 227980 | [227980-iso.json](./227980-iso.json) |
