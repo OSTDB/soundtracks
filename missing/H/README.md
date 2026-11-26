@@ -4148,6 +4148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartseers Grove | 389746 | [389746-heartseers-grove.json](./389746-heartseers-grove.json) |
 | Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
 | Heartspell: Horizon Academy | 309311 | [309311-heartspell-horizon-academy.json](./309311-heartspell-horizon-academy.json) |
+| Heartspire | 431066 | [431066-heartspire.json](./431066-heartspire.json) |
 | Heartstop | 199510 | [199510-heartstop.json](./199510-heartstop.json) |
 | Heartstop Tour | 375069 | [375069-heartstop-tour.json](./375069-heartstop-tour.json) |
 | Heartstrings | 202371 | [202371-heartstrings.json](./202371-heartstrings.json) |
@@ -12733,6 +12734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hototogisu Tairan 1553: Ryuko Aiutsu | 108779 | [108779-hototogisu-tairan-1553-ryuko-aiutsu.json](./108779-hototogisu-tairan-1553-ryuko-aiutsu.json) |
 | Hototogisu Tairan 1553: Ryuuko Aiutsu | 85835 | [85835-hototogisu-tairan-1553-ryuuko-aiutsu.json](./85835-hototogisu-tairan-1553-ryuuko-aiutsu.json) |
 | Hotpot Defense | 348245 | [348245-hotpot-defense.json](./348245-hotpot-defense.json) |
+| Hotpot Loop: Food Sort | 431050 | [431050-hotpot-loop-food-sort.json](./431050-hotpot-loop-food-sort.json) |
 | Hotprops | 58929 | [58929-hotprops.json](./58929-hotprops.json) |
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
 | HotPuzzle:Grils | 111278 | [111278-hotpuzzle-grils.json](./111278-hotpuzzle-grils.json) |
@@ -14461,6 +14463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydrofusion Substation | 270677 | [270677-hydrofusion-substation.json](./270677-hydrofusion-substation.json) |
 | Hydrogen | 295875 | [295875-hydrogen.json](./295875-hydrogen.json) |
 | Hydrogen Game | 295201 | [295201-hydrogen-game.json](./295201-hydrogen-game.json) |
+| Hydrogen Line | 431053 | [431053-hydrogen-line.json](./431053-hydrogen-line.json) |
 | Hydroneer | 123783 | [123783-hydroneer.json](./123783-hydroneer.json) |
 | Hydroneer: Journey to Volcalidus | 285576 | [285576-hydroneer-journey-to-volcalidus.json](./285576-hydroneer-journey-to-volcalidus.json) |
 | Hydropawnics | 371893 | [371893-hydropawnics.json](./371893-hydropawnics.json) |
