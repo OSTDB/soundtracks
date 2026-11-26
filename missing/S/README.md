@@ -524,7 +524,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Quest | 84904 | [84904-safari-quest.json](./84904-safari-quest.json) |
 | Safari Race | 6129 | [6129-safari-race.json](./6129-safari-race.json) |
 | Safari Rally | 40416 | [40416-safari-rally.json](./40416-safari-rally.json) |
-| Safari Simulator: Lion | 88154 | [88154-safari-simulator-lion.json](./88154-safari-simulator-lion.json) |
 | Safari Toy Factory | 253245 | [253245-safari-toy-factory.json](./253245-safari-toy-factory.json) |
 | Safari Venture | 28608 | [28608-safari-venture.json](./28608-safari-venture.json) |
 | Safari Zone | 158564 | [158564-safari-zone.json](./158564-safari-zone.json) |
@@ -957,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SakiMizu Life | 300326 | [300326-sakimizu-life.json](./300326-sakimizu-life.json) |
 | Sakimori | 405703 | [405703-sakimori.json](./405703-sakimori.json) |
 | Sakin II | 242868 | [242868-sakin-ii.json](./242868-sakin-ii.json) |
+| Saku Saku: Love Blooms with the Cherry Blossoms | 72366 | [72366-saku-saku-love-blooms-with-the-cherry-blossoms.json](./72366-saku-saku-love-blooms-with-the-cherry-blossoms.json) |
 | Saku the Covert Agent | 310181 | [310181-saku-the-covert-agent.json](./310181-saku-the-covert-agent.json) |
 | Sakumon | 412956 | [412956-sakumon.json](./412956-sakumon.json) |
 | Sakuna Chronicles: Kokorowa and the Gears of Creation | 322093 | [322093-sakuna-chronicles-kokorowa-and-the-gears-of-creation.json](./322093-sakuna-chronicles-kokorowa-and-the-gears-of-creation.json) |
@@ -4970,7 +4970,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seance | 358955 | [358955-seance.json](./358955-seance.json) |
 | Seance: The Unquiet | 91201 | [91201-seance-the-unquiet.json](./91201-seance-the-unquiet.json) |
 | SeaOrama: World of Shipping | 215797 | [215797-seaorama-world-of-shipping.json](./215797-seaorama-world-of-shipping.json) |
-| Seaport - Build & Prosper! | 88374 | [88374-seaport-build-and-prosper.json](./88374-seaport-build-and-prosper.json) |
 | Seaport Man | 337005 | [337005-seaport-man.json](./337005-seaport-man.json) |
 | Seaport Tycoon | 245956 | [245956-seaport-tycoon.json](./245956-seaport-tycoon.json) |
 | Seaquest | 18531 | [18531-seaquest.json](./18531-seaquest.json) |
@@ -5752,7 +5751,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seekers | 169342 | [169342-seekers.json](./169342-seekers.json) |
 | Seekers Aeterna | 217339 | [217339-seekers-aeterna.json](./217339-seekers-aeterna.json) |
 | Seekers Alliance: Hero's Journey | 402082 | [402082-seekers-alliance-heros-journey.json](./402082-seekers-alliance-heros-journey.json) |
-| Seekers Notes | 88865 | [88865-seekers-notes.json](./88865-seekers-notes.json) |
 | Seekers of Darkness | 320028 | [320028-seekers-of-darkness.json](./320028-seekers-of-darkness.json) |
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
 | Seekers of Sahul | 236356 | [236356-seekers-of-sahul.json](./236356-seekers-of-sahul.json) |
@@ -11048,7 +11046,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Farmers | 29242 | [29242-shotgun-farmers.json](./29242-shotgun-farmers.json) |
 | Shotgun Farmers: Supporter Pack | 418045 | [418045-shotgun-farmers-supporter-pack.json](./418045-shotgun-farmers-supporter-pack.json) |
 | Shotgun Farmers: Vitamin Seas Supporter Pack | 418053 | [418053-shotgun-farmers-vitamin-seas-supporter-pack.json](./418053-shotgun-farmers-vitamin-seas-supporter-pack.json) |
-| Shotgun FunFun Legacy | 88357 | [88357-shotgun-funfun-legacy.json](./88357-shotgun-funfun-legacy.json) |
 | Shotgun II: Double Barrel | 321233 | [321233-shotgun-ii-double-barrel.json](./321233-shotgun-ii-double-barrel.json) |
 | Shotgun Joe | 420141 | [420141-shotgun-joe.json](./420141-shotgun-joe.json) |
 | Shotgun King: the Final Checkmate | 196030 | [196030-shotgun-king-the-final-checkmate.json](./196030-shotgun-king-the-final-checkmate.json) |
@@ -13848,7 +13845,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six inches deep in mud | 278466 | [278466-six-inches-deep-in-mud.json](./278466-six-inches-deep-in-mud.json) |
 | Six Keys | 276394 | [276394-six-keys.json](./276394-six-keys.json) |
 | Six Legends | 191521 | [191521-six-legends.json](./191521-six-legends.json) |
-| Six Letter Words | 88790 | [88790-six-letter-words.json](./88790-six-letter-words.json) |
 | Six Match | 82156 | [82156-six-match.json](./82156-six-match.json) |
 | Six Meat Under | 269209 | [269209-six-meat-under.json](./269209-six-meat-under.json) |
 | Six Micro Stories | 55832 | [55832-six-micro-stories.json](./55832-six-micro-stories.json) |
@@ -16708,7 +16704,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart Baby ABC Games: Toddler Kids Learning Apps | 87032 | [87032-smart-baby-abc-games-toddler-kids-learning-apps.json](./87032-smart-baby-abc-games-toddler-kids-learning-apps.json) |
 | Smart Baby Shapes: Food | 90961 | [90961-smart-baby-shapes-food.json](./90961-smart-baby-shapes-food.json) |
-| Smart Baby Sorter 2 | 88815 | [88815-smart-baby-sorter-2.json](./88815-smart-baby-sorter-2.json) |
 | Smart Bomb | 72930 | [72930-smart-bomb.json](./72930-smart-bomb.json) |
 | Smart Bomber | 247035 | [247035-smart-bomber.json](./247035-smart-bomber.json) |
 | Smart Boy's Gameroom | 77891 | [77891-smart-boys-gameroom.json](./77891-smart-boys-gameroom.json) |
@@ -16768,7 +16763,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart-Attack! | 369446 | [369446-smart-attack.json](./369446-smart-attack.json) |
 | SmartBoy | 86556 | [86556-smartboy.json](./86556-smartboy.json) |
 | Smarter Than You | 257225 | [257225-smarter-than-you.json](./257225-smarter-than-you.json) |
-| SmartGo Player | 88188 | [88188-smartgo-player.json](./88188-smartgo-player.json) |
 | Smarties: Meltdown | 43670 | [43670-smarties-meltdown.json](./43670-smarties-meltdown.json) |
 | Smartphone | 418818 | [418818-smartphone.json](./418818-smartphone.json) |
 | Smartphone Tycoon 2 | 335809 | [335809-smartphone-tycoon-2.json](./335809-smartphone-tycoon-2.json) |
@@ -17767,7 +17761,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper and Spotter Being Patriotic | 171778 | [171778-sniper-and-spotter-being-patriotic.json](./171778-sniper-and-spotter-being-patriotic.json) |
 | Sniper and Spotter Climbing a Tower | 125950 | [125950-sniper-and-spotter-climbing-a-tower.json](./125950-sniper-and-spotter-climbing-a-tower.json) |
 | Sniper and Spotter Serving the Motherland | 171779 | [171779-sniper-and-spotter-serving-the-motherland.json](./171779-sniper-and-spotter-serving-the-motherland.json) |
-| Sniper Arena: Online PvP Game | 88766 | [88766-sniper-arena-online-pvp-game.json](./88766-sniper-arena-online-pvp-game.json) |
 | Sniper Assassin | 260888 | [260888-sniper-assassin.json](./260888-sniper-assassin.json) |
 | Sniper Assassin 2 | 314623 | [314623-sniper-assassin-2.json](./314623-sniper-assassin-2.json) |
 | Sniper Assassin 3 | 316087 | [316087-sniper-assassin-3.json](./316087-sniper-assassin-3.json) |
@@ -17962,7 +17955,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snood | 6596 | [6596-snood.json](./6596-snood.json) |
 | Snood Adventure | 99174 | [99174-snood-adventure.json](./99174-snood-adventure.json) |
 | Snood Deluxe | 50240 | [50240-snood-deluxe.json](./50240-snood-deluxe.json) |
-| Snood Plus | 88587 | [88587-snood-plus.json](./88587-snood-plus.json) |
 | Snood Poppers | 137656 | [137656-snood-poppers.json](./137656-snood-poppers.json) |
 | Snood Slide | 138016 | [138016-snood-slide.json](./138016-snood-slide.json) |
 | Snood Solitaire | 137892 | [137892-snood-solitaire.json](./137892-snood-solitaire.json) |
@@ -19424,7 +19416,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Chronicles: Wild Guns | 179278 | [179278-solitaire-chronicles-wild-guns.json](./179278-solitaire-chronicles-wild-guns.json) |
 | Solitaire City | 76589 | [76589-solitaire-city.json](./76589-solitaire-city.json) |
 | Solitaire City Classic | 99103 | [99103-solitaire-city-classic.json](./99103-solitaire-city-classic.json) |
-| Solitaire City Deluxe | 88581 | [88581-solitaire-city-deluxe.json](./88581-solitaire-city-deluxe.json) |
 | Solitaire Classic | 277564 | [277564-solitaire-classic.json](./277564-solitaire-classic.json) |
 | Solitaire Classic Online | 87092 | [87092-solitaire-classic-online.json](./87092-solitaire-classic-online.json) |
 | Solitaire Classic: Card Game | 231895 | [231895-solitaire-classic-card-game.json](./231895-solitaire-classic-card-game.json) |
@@ -19447,7 +19438,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Deal | 427435 | [427435-solitaire-deal.json](./427435-solitaire-deal.json) |
 | Solitaire Deck | 406122 | [406122-solitaire-deck.json](./406122-solitaire-deck.json) |
 | Solitaire Deluxe | 70257 | [70257-solitaire-deluxe.json](./70257-solitaire-deluxe.json) |
-| Solitaire Deluxe 2 | 88855 | [88855-solitaire-deluxe-2.json](./88855-solitaire-deluxe-2.json) |
 | Solitaire Deluxe Bundle: 3 in 1 | 147801 | [147801-solitaire-deluxe-bundle-3-in-1.json](./147801-solitaire-deluxe-bundle-3-in-1.json) |
 | Solitaire Detective 2: Accidental Witness | 336982 | [336982-solitaire-detective-2-accidental-witness.json](./336982-solitaire-detective-2-accidental-witness.json) |
 | Solitaire Dozen Gold | 146916 | [146916-solitaire-dozen-gold.json](./146916-solitaire-dozen-gold.json) |
@@ -19461,7 +19451,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Fish | 234454 | [234454-solitaire-fish.json](./234454-solitaire-fish.json) |
 | Solitaire Fish Klondike | 220047 | [220047-solitaire-fish-klondike.json](./220047-solitaire-fish-klondike.json) |
 | Solitaire Flowerscapes | 380227 | [380227-solitaire-flowerscapes.json](./380227-solitaire-flowerscapes.json) |
-| Solitaire Forever | 88573 | [88573-solitaire-forever.json](./88573-solitaire-forever.json) |
 | Solitaire Forever II | 149360 | [149360-solitaire-forever-ii.json](./149360-solitaire-forever-ii.json) |
 | Solitaire Freecell - card game | 88414 | [88414-solitaire-freecell-card-game.json](./88414-solitaire-freecell-card-game.json) |
 | Solitaire FunPak | 265003 | [265003-solitaire-funpak.json](./265003-solitaire-funpak.json) |
@@ -19519,7 +19508,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Paradise: Furry Waifus | 417913 | [417913-solitaire-paradise-furry-waifus.json](./417913-solitaire-paradise-furry-waifus.json) |
 | Solitaire Paradise: Tripeaks | 106528 | [106528-solitaire-paradise-tripeaks.json](./106528-solitaire-paradise-tripeaks.json) |
 | Solitaire Perfect Match | 87126 | [87126-solitaire-perfect-match.json](./87126-solitaire-perfect-match.json) |
-| Solitaire Plus! | 88613 | [88613-solitaire-plus.json](./88613-solitaire-plus.json) |
 | Solitaire Poker | 19493 | [19493-solitaire-poker.json](./19493-solitaire-poker.json) |
 | Solitaire Pro: 160 Card Games | 98864 | [98864-solitaire-pro-160-card-games.json](./98864-solitaire-pro-160-card-games.json) |
 | Solitaire Q | 108205 | [108205-solitaire-q.json](./108205-solitaire-q.json) |
@@ -19997,7 +19985,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songless | 409608 | [409608-songless.json](./409608-songless.json) |
 | Songlio | 222683 | [222683-songlio.json](./222683-songlio.json) |
 | SongPop | 231455 | [231455-songpop.json](./231455-songpop.json) |
-| SongPop Classic | 88775 | [88775-songpop-classic.json](./88775-songpop-classic.json) |
 | SongPop Live | 383182 | [383182-songpop-live.json](./383182-songpop-live.json) |
 | SongPop Party | 194563 | [194563-songpop-party.json](./194563-songpop-party.json) |
 | SongPop: Classic | 23333 | [23333-songpop-classic.json](./23333-songpop-classic.json) |
@@ -21362,7 +21349,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerers of Kinetics | 30824 | [30824-sorcerers-of-kinetics.json](./30824-sorcerers-of-kinetics.json) |
 | Sorcerers Summit | 243502 | [243502-sorcerers-summit.json](./243502-sorcerers-summit.json) |
 | Sorceress | 235363 | [235363-sorceress.json](./235363-sorceress.json) |
-| Sorceress | 88580 | [88580-sorceress.json](./88580-sorceress.json) |
 | Sorceress Alive!: The World's End Fallen Star | 397243 | [397243-sorceress-alive-the-worlds-end-fallen-star.json](./397243-sorceress-alive-the-worlds-end-fallen-star.json) |
 | Sorceress Elisha's Hypnotized & Lent-Out Log | 98452 | [98452-sorceress-elishas-hypnotized-and-lent-out-log.json](./98452-sorceress-elishas-hypnotized-and-lent-out-log.json) |
 | Sorceress Idle | 220218 | [220218-sorceress-idle.json](./220218-sorceress-idle.json) |
@@ -23110,7 +23096,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Komandirovka | 119703 | [119703-space-komandirovka.json](./119703-space-komandirovka.json) |
 | Space Lagat | 74953 | [74953-space-lagat.json](./74953-space-lagat.json) |
 | Space Landing | 231566 | [231566-space-landing.json](./231566-space-landing.json) |
-| Space Launch Engineer | 88244 | [88244-space-launch-engineer.json](./88244-space-launch-engineer.json) |
 | Space Launcher | 60875 | [60875-space-launcher.json](./60875-space-launcher.json) |
 | Space Lazors: Puzzle Saga | 257246 | [257246-space-lazors-puzzle-saga.json](./257246-space-lazors-puzzle-saga.json) |
 | Space Leaper: Cocoon | 208130 | [208130-space-leaper-cocoon.json](./208130-space-leaper-cocoon.json) |
@@ -23996,7 +23981,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spadegrave | 426943 | [426943-spadegrave.json](./426943-spadegrave.json) |
 | Spades | 372227 | [372227-spades.json](./372227-spades.json) |
 | Spades | 62393 | [62393-spades.json](./62393-spades.json) |
-| Spades | 88610 | [88610-spades.json](./88610-spades.json) |
 | Spades classic card game | 95285 | [95285-spades-classic-card-game.json](./95285-spades-classic-card-game.json) |
 | Spades HD | 355000 | [355000-spades-hd.json](./355000-spades-hd.json) |
 | Spades Plus | 126066 | [126066-spades-plus.json](./126066-spades-plus.json) |
@@ -24283,7 +24267,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Delivery: Santa's Christmas Chaos | 57621 | [57621-special-delivery-santas-christmas-chaos.json](./57621-special-delivery-santas-christmas-chaos.json) |
 | Special Edition 4 Pack: Volume One | 98951 | [98951-special-edition-4-pack-volume-one.json](./98951-special-edition-4-pack-volume-one.json) |
 | Special Edition Pinball Dreams Pinball Fantasies | 74032 | [74032-special-edition-pinball-dreams-pinball-fantasies.json](./74032-special-edition-pinball-dreams-pinball-fantasies.json) |
-| Special Enquiry Detail: Engaged to Kill | 88659 | [88659-special-enquiry-detail-engaged-to-kill.json](./88659-special-enquiry-detail-engaged-to-kill.json) |
 | Special Enquiry Detail: The Hand that Feeds | 87309 | [87309-special-enquiry-detail-the-hand-that-feeds.json](./87309-special-enquiry-detail-the-hand-that-feeds.json) |
 | Special Force | 62682 | [62682-special-force.json](./62682-special-force.json) |
 | Special Force 2 SEA | 112571 | [112571-special-force-2-sea.json](./112571-special-force-2-sea.json) |
@@ -25233,7 +25216,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Solitaire | 370408 | [370408-spider-solitaire.json](./370408-spider-solitaire.json) |
 | Spider Solitaire | 83466 | [83466-spider-solitaire.json](./83466-spider-solitaire.json) |
 | Spider Solitaire | 91178 | [91178-spider-solitaire.json](./91178-spider-solitaire.json) |
-| Spider Solitaire - Classic Deck Card Games | 88588 | [88588-spider-solitaire-classic-deck-card-games.json](./88588-spider-solitaire-classic-deck-card-games.json) |
 | Spider Solitaire - iSpider | 87308 | [87308-spider-solitaire-ispider.json](./87308-spider-solitaire-ispider.json) |
 | Spider Solitaire 2018 | 87636 | [87636-spider-solitaire-2018.json](./87636-spider-solitaire-2018.json) |
 | Spider Solitaire 2022 | 217792 | [217792-spider-solitaire-2022.json](./217792-spider-solitaire-2022.json) |
@@ -25245,7 +25227,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Solitaire Gold | 146612 | [146612-spider-solitaire-gold.json](./146612-spider-solitaire-gold.json) |
 | Spider Solitaire Online | 24472 | [24472-spider-solitaire-online.json](./24472-spider-solitaire-online.json) |
 | Spider Solitaire Pro! | 89182 | [89182-spider-solitaire-pro.json](./89182-spider-solitaire-pro.json) |
-| Spider Solitarus | 88564 | [88564-spider-solitarus.json](./88564-spider-solitarus.json) |
 | Spider Square | 113981 | [113981-spider-square.json](./113981-spider-square.json) |
 | Spider Sub | 359467 | [359467-spider-sub.json](./359467-spider-sub.json) |
 | Spider Tanks | 175785 | [175785-spider-tanks.json](./175785-spider-tanks.json) |
@@ -35408,7 +35389,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
 | Sunya no Karabako | 394572 | [394572-sunya-no-karabako.json](./394572-sunya-no-karabako.json) |
 | Sunyata CCG | 403554 | [403554-sunyata-ccg.json](./403554-sunyata-ccg.json) |
-| SUP Multiplayer Racing | 88760 | [88760-sup-multiplayer-racing.json](./88760-sup-multiplayer-racing.json) |
 | Supa Birdie Boi | 149200 | [149200-supa-birdie-boi.json](./149200-supa-birdie-boi.json) |
 | Supa Kila Monsta Hunta | 30996 | [30996-supa-kila-monsta-hunta.json](./30996-supa-kila-monsta-hunta.json) |
 | Supa Nova | 100019 | [100019-supa-nova.json](./100019-supa-nova.json) |
@@ -36488,7 +36468,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jeopardy! | 48698 | [48698-super-jeopardy.json](./48698-super-jeopardy.json) |
 | Super Jet Juck | 111685 | [111685-super-jet-juck.json](./111685-super-jet-juck.json) |
 | Super Jetpak DX | 141618 | [141618-super-jetpak-dx.json](./141618-super-jetpak-dx.json) |
-| Super Jewels Quest | 88550 | [88550-super-jewels-quest.json](./88550-super-jewels-quest.json) |
 | Super Jigsaw Puzzle | 86304 | [86304-super-jigsaw-puzzle.json](./86304-super-jigsaw-puzzle.json) |
 | Super Jigsaw Puzzle: Anime | 111622 | [111622-super-jigsaw-puzzle-anime.json](./111622-super-jigsaw-puzzle-anime.json) |
 | Super Jigsaw Puzzle: Anime Reloaded | 292713 | [292713-super-jigsaw-puzzle-anime-reloaded.json](./292713-super-jigsaw-puzzle-anime-reloaded.json) |
@@ -36693,7 +36672,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kickers League: Goths and Vampires! | 168520 | [168520-super-kickers-league-goths-and-vampires.json](./168520-super-kickers-league-goths-and-vampires.json) |
 | Super Kickers League: Vikings and Valkyries! | 168519 | [168519-super-kickers-league-vikings-and-valkyries.json](./168519-super-kickers-league-vikings-and-valkyries.json) |
 | Super Kid | 98431 | [98431-super-kid.json](./98431-super-kid.json) |
-| Super Kids Racing | 88168 | [88168-super-kids-racing.json](./88168-super-kids-racing.json) |
 | Super Kids Racing: City Edition | 286860 | [286860-super-kids-racing-city-edition.json](./286860-super-kids-racing-city-edition.json) |
 | Super Kids Racing: Jungle Edition | 242412 | [242412-super-kids-racing-jungle-edition.json](./242412-super-kids-racing-jungle-edition.json) |
 | Super Kids Racing: Lava Edition | 286859 | [286859-super-kids-racing-lava-edition.json](./286859-super-kids-racing-lava-edition.json) |
@@ -39310,7 +39288,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket in Order | 429798 | [429798-supermarket-in-order.json](./429798-supermarket-in-order.json) |
 | Supermarket Life Simulator | 407487 | [407487-supermarket-life-simulator.json](./407487-supermarket-life-simulator.json) |
 | Supermarket Maker | 150812 | [150812-supermarket-maker.json](./150812-supermarket-maker.json) |
-| Supermarket Management | 88156 | [88156-supermarket-management.json](./88156-supermarket-management.json) |
 | Supermarket Management 2 | 87115 | [87115-supermarket-management-2.json](./87115-supermarket-management-2.json) |
 | Supermarket Management 2 HD | 106921 | [106921-supermarket-management-2-hd.json](./106921-supermarket-management-2-hd.json) |
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
@@ -39531,6 +39508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supply Chained | 325325 | [325325-supply-chained.json](./325325-supply-chained.json) |
 | Supply Line | 416393 | [416393-supply-line.json](./416393-supply-line.json) |
 | Support | 425434 | [425434-support.json](./425434-support.json) |
+| Supposedly Wonderful Future | 72491 | [72491-supposedly-wonderful-future.json](./72491-supposedly-wonderful-future.json) |
 | Suppress Academician | 309393 | [309393-suppress-academician.json](./309393-suppress-academician.json) |
 | Suppressed | 30976 | [30976-suppressed.json](./30976-suppressed.json) |
 | Suppressor | 129282 | [129282-suppressor.json](./129282-suppressor.json) |
@@ -40568,6 +40546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwapPics: Knights vs Demons | 272914 | [272914-swappics-knights-vs-demons.json](./272914-swappics-knights-vs-demons.json) |
 | Swappy World | 276973 | [276973-swappy-world.json](./276973-swappy-world.json) |
 | SwapQuest | 23483 | [23483-swapquest.json](./23483-swapquest.json) |
+| Swaps and Traps | 72360 | [72360-swaps-and-traps.json](./72360-swaps-and-traps.json) |
 | Swapshot | 251951 | [251951-swapshot.json](./251951-swapshot.json) |
 | SwapStar | 252394 | [252394-swapstar.json](./252394-swapstar.json) |
 | SwapTales: Leon! | 116439 | [116439-swaptales-leon.json](./116439-swaptales-leon.json) |
