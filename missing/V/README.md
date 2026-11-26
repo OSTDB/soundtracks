@@ -2487,7 +2487,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viki Spotter: Camping | 105366 | [105366-viki-spotter-camping.json](./105366-viki-spotter-camping.json) |
 | Viki Spotter: Complete Bundle | 268331 | [268331-viki-spotter-complete-bundle.json](./268331-viki-spotter-complete-bundle.json) |
 | Viki Spotter: Professions | 109387 | [109387-viki-spotter-professions.json](./109387-viki-spotter-professions.json) |
-| Viki Spotter: School | 89609 | [89609-viki-spotter-school.json](./89609-viki-spotter-school.json) |
 | Viki Spotter: The Farm | 83539 | [83539-viki-spotter-the-farm.json](./83539-viki-spotter-the-farm.json) |
 | Viki Spotter: Undersea | 84091 | [84091-viki-spotter-undersea.json](./84091-viki-spotter-undersea.json) |
 | Vikindor | 207305 | [207305-vikindor.json](./207305-vikindor.json) |
@@ -3047,7 +3046,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual BMO | 249523 | [249523-virtual-bmo.json](./249523-virtual-bmo.json) |
 | Virtual Bomberman | 234006 | [234006-virtual-bomberman.json](./234006-virtual-bomberman.json) |
 | Virtual Bowling | 20988 | [20988-virtual-bowling.json](./20988-virtual-bowling.json) |
-| Virtual Boxing League | 89667 | [89667-virtual-boxing-league.json](./89667-virtual-boxing-league.json) |
 | Virtual Boy Mario | 379269 | [379269-virtual-boy-mario.json](./379269-virtual-boy-mario.json) |
 | Virtual Boy Wario Land | 1696 | [1696-virtual-boy-wario-land.json](./1696-virtual-boy-wario-land.json) |
 | Virtual Cameraman | 307992 | [307992-virtual-cameraman.json](./307992-virtual-cameraman.json) |
@@ -4640,7 +4638,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Robinhood Archery | 209390 | [209390-vr-robinhood-archery.json](./209390-vr-robinhood-archery.json) |
 | VR Robot Fight | 201605 | [201605-vr-robot-fight.json](./201605-vr-robot-fight.json) |
 | VR Rock Climbing | 220524 | [220524-vr-rock-climbing.json](./220524-vr-rock-climbing.json) |
-| VR Roller Coaster | 88899 | [88899-vr-roller-coaster.json](./88899-vr-roller-coaster.json) |
 | VR Roller Coaster - Cave Depths | 75659 | [75659-vr-roller-coaster-cave-depths.json](./75659-vr-roller-coaster-cave-depths.json) |
 | VR Roller Coaster at Global Wonders | 166195 | [166195-vr-roller-coaster-at-global-wonders.json](./166195-vr-roller-coaster-at-global-wonders.json) |
 | VR Room: The Flintstones | 279674 | [279674-vr-room-the-flintstones.json](./279674-vr-room-the-flintstones.json) |
