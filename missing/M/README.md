@@ -5476,6 +5476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Tokon: Fighting Souls - Iron Man Classic Costume | 414687 | [414687-marvel-tokon-fighting-souls-iron-man-classic-costume.json](./414687-marvel-tokon-fighting-souls-iron-man-classic-costume.json) |
 | Marvel Tokon: Fighting Souls - Phoenix Cyclops Classic Costume Pack | 427342 | [427342-marvel-tokon-fighting-souls-phoenix-cyclops-classic-costume-pack.json](./427342-marvel-tokon-fighting-souls-phoenix-cyclops-classic-costume-pack.json) |
 | Marvel Tokon: Fighting Souls - PlayStation Plus Pack 2 | 427629 | [427629-marvel-tokon-fighting-souls-playstation-plus-pack-2.json](./427629-marvel-tokon-fighting-souls-playstation-plus-pack-2.json) |
+| Marvel Tokon: Fighting Souls - Spider-Man Advanced Suit 2.0 Costume | 414775 | [414775-marvel-tokon-fighting-souls-spider-man-advanced-suit-2-0-costume.json](./414775-marvel-tokon-fighting-souls-spider-man-advanced-suit-2-0-costume.json) |
 | Marvel Tokon: Fighting Souls - Storm Punk Rock Costume | 414773 | [414773-marvel-tokon-fighting-souls-storm-punk-rock-costume.json](./414773-marvel-tokon-fighting-souls-storm-punk-rock-costume.json) |
 | Marvel Tokon: Fighting Souls - Ultimate Edition | 405239 | [405239-marvel-tokon-fighting-souls-ultimate-edition.json](./405239-marvel-tokon-fighting-souls-ultimate-edition.json) |
 | Marvel Tokon: Fighting Souls - Year 1 Character and Stage Pass | 411741 | [411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json](./411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json) |
@@ -6979,6 +6980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaXplosion | 92153 | [92153-maxplosion.json](./92153-maxplosion.json) |
 | MaxRacer | 143670 | [143670-maxracer.json](./143670-maxracer.json) |
 | MaxSwitch | 220214 | [220214-maxswitch.json](./220214-maxswitch.json) |
+| Maxwell IV | 418127 | [418127-maxwell-iv.json](./418127-maxwell-iv.json) |
 | Maxwell Manor | 25979 | [25979-maxwell-manor.json](./25979-maxwell-manor.json) |
 | Maxwell The Cat | 298950 | [298950-maxwell-the-cat.json](./298950-maxwell-the-cat.json) |
 | Maxwell's Maniac | 282412 | [282412-maxwells-maniac.json](./282412-maxwells-maniac.json) |
@@ -13654,6 +13656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milk Quest: Repasteurized | 369220 | [369220-milk-quest-repasteurized.json](./369220-milk-quest-repasteurized.json) |
 | Milk Race | 46660 | [46660-milk-race.json](./46660-milk-race.json) |
 | Milk Seller | 280619 | [280619-milk-seller.json](./280619-milk-seller.json) |
+| Milk Swim | 417950 | [417950-milk-swim.json](./417950-milk-swim.json) |
 | Milk the Cow | 397419 | [397419-milk-the-cow.json](./397419-milk-the-cow.json) |
 | Milkblood | 241031 | [241031-milkblood.json](./241031-milkblood.json) |
 | MilkChoco | 104019 | [104019-milkchoco.json](./104019-milkchoco.json) |
