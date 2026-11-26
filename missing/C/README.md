@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty 2 - Invasion Map Pack | 294567 | [294567-call-of-duty-2-invasion-map-pack.json](./294567-call-of-duty-2-invasion-map-pack.json) |
 | Call of Duty 2: Big Red One | 3845 | [3845-call-of-duty-2-big-red-one.json](./3845-call-of-duty-2-big-red-one.json) |
 | Call of Duty 2: Big Red One - Collector's Edition | 294561 | [294561-call-of-duty-2-big-red-one-collectors-edition.json](./294561-call-of-duty-2-big-red-one-collectors-edition.json) |
+| Call of Duty 2: Big Red One - Custom Engine | 430244 | [430244-call-of-duty-2-big-red-one-custom-engine.json](./430244-call-of-duty-2-big-red-one-custom-engine.json) |
 | Call of Duty 2: Bonus Map Pack | 294565 | [294565-call-of-duty-2-bonus-map-pack.json](./294565-call-of-duty-2-bonus-map-pack.json) |
 | Call of Duty 2: Collector's Edition | 292790 | [292790-call-of-duty-2-collectors-edition.json](./292790-call-of-duty-2-collectors-edition.json) |
 | Call of Duty 2: Game of the Year Edition | 292789 | [292789-call-of-duty-2-game-of-the-year-edition.json](./292789-call-of-duty-2-game-of-the-year-edition.json) |
@@ -1740,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Brawl | 13675 | [13675-cannon-brawl.json](./13675-cannon-brawl.json) |
 | Cannon Bubble | 13992 | [13992-cannon-bubble.json](./13992-cannon-bubble.json) |
 | Cannon Canines | 190216 | [190216-cannon-canines.json](./190216-cannon-canines.json) |
+| Cannon Clicker | 430220 | [430220-cannon-clicker.json](./430220-cannon-clicker.json) |
 | Cannon Crew | 81635 | [81635-cannon-crew.json](./81635-cannon-crew.json) |
 | Cannon Dancer: Osman | 231222 | [231222-cannon-dancer-osman.json](./231222-cannon-dancer-osman.json) |
 | Cannon Defender | 380172 | [380172-cannon-defender.json](./380172-cannon-defender.json) |
@@ -5371,6 +5373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catnip Dreams | 284795 | [284795-catnip-dreams.json](./284795-catnip-dreams.json) |
 | Catnip Wars | 415589 | [415589-catnip-wars.json](./415589-catnip-wars.json) |
 | Catnip Wars 2: Empires | 427122 | [427122-catnip-wars-2-empires.json](./427122-catnip-wars-2-empires.json) |
+| Catnip Wars: Nine Lives Racing | 429860 | [429860-catnip-wars-nine-lives-racing.json](./429860-catnip-wars-nine-lives-racing.json) |
 | Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
 | Cato the Cat | 174940 | [174940-cato-the-cat.json](./174940-cato-the-cat.json) |
 | Cato: Buttered Cat | 203934 | [203934-cato-buttered-cat.json](./203934-cato-buttered-cat.json) |
@@ -10084,6 +10087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chucky: The Road To Heaven | 235449 | [235449-chucky-the-road-to-heaven.json](./235449-chucky-the-road-to-heaven.json) |
 | Chucky: Wanna Play? | 242162 | [242162-chucky-wanna-play.json](./242162-chucky-wanna-play.json) |
 | Chud Life | 428880 | [428880-chud-life.json](./428880-chud-life.json) |
+| Chud vs. Soyjak | 429858 | [429858-chud-vs-soyjak.json](./429858-chud-vs-soyjak.json) |
 | Chud Worm | 421776 | [421776-chud-worm.json](./421776-chud-worm.json) |
 | Chug the Tiny Tugboat | 213548 | [213548-chug-the-tiny-tugboat.json](./213548-chug-the-tiny-tugboat.json) |
 | Chuggington: Babysitter Brewster | 230548 | [230548-chuggington-babysitter-brewster.json](./230548-chuggington-babysitter-brewster.json) |
@@ -16459,6 +16463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Work | 126513 | [126513-contract-work.json](./126513-contract-work.json) |
 | Contracted | 29363 | [29363-contracted.json](./29363-contracted.json) |
 | Contractor | 235980 | [235980-contractor.json](./235980-contractor.json) |
+| Contractor: The Clean Up Part II | 430270 | [430270-contractor-the-clean-up-part-ii.json](./430270-contractor-the-clean-up-part-ii.json) |
 | Contractors | 123603 | [123603-contractors.json](./123603-contractors.json) |
 | Contractors Showdown | 253177 | [253177-contractors-showdown.json](./253177-contractors-showdown.json) |
 | Contractors Showdown: ExfilZone | 354338 | [354338-contractors-showdown-exfilzone.json](./354338-contractors-showdown-exfilzone.json) |
@@ -20075,6 +20080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Tales | 305978 | [305978-creepy-tales.json](./305978-creepy-tales.json) |
 | Creepy Vision | 114823 | [114823-creepy-vision.json](./114823-creepy-vision.json) |
 | Creepy Waves FM: Bugs Fixer | 322724 | [322724-creepy-waves-fm-bugs-fixer.json](./322724-creepy-waves-fm-bugs-fixer.json) |
+| CreepyCraft | 429907 | [429907-creepycraft.json](./429907-creepycraft.json) |
 | CreepyDates | 408876 | [408876-creepydates.json](./408876-creepydates.json) |
 | Creepypasta Land | 130346 | [130346-creepypasta-land.json](./130346-creepypasta-land.json) |
 | Creepypasta Land 2: SCP Force | 130349 | [130349-creepypasta-land-2-scp-force.json](./130349-creepypasta-land-2-scp-force.json) |
