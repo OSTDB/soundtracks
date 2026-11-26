@@ -981,7 +981,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Solitaire | 381057 | [381057-mafia-solitaire.json](./381057-mafia-solitaire.json) |
 | Mafia Solitaire 2 | 336986 | [336986-mafia-solitaire-2.json](./336986-mafia-solitaire-2.json) |
 | Mafia Thief | 277870 | [277870-mafia-thief.json](./277870-mafia-thief.json) |
-| Mafia Transporter 3D - Transportation Simulator for Mafia Racing Drivers 9+ | 88379 | [88379-mafia-transporter-3d-transportation-simulator-for-mafia-racing-drivers-9.json](./88379-mafia-transporter-3d-transportation-simulator-for-mafia-racing-drivers-9.json) |
 | Mafia Wars | 52206 | [52206-mafia-wars.json](./52206-mafia-wars.json) |
 | Mafia Wars 2 | 65632 | [65632-mafia-wars-2.json](./65632-mafia-wars-2.json) |
 | Mafia Wars Shakedown | 65555 | [65555-mafia-wars-shakedown.json](./65555-mafia-wars-shakedown.json) |
@@ -1158,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic & Empire | 97380 | [97380-magic-and-empire.json](./97380-magic-and-empire.json) |
 | Magic & Legend: Time Knights | 228404 | [228404-magic-and-legend-time-knights.json](./228404-magic-and-legend-time-knights.json) |
 | Magic & Mayhem | 79804 | [79804-magic-and-mayhem.json](./79804-magic-and-mayhem.json) |
+| Magic & Mayhem: The Art of Magic | 70956 | [70956-magic-and-mayhem-the-art-of-magic.json](./70956-magic-and-mayhem-the-art-of-magic.json) |
 | Magic & Sanctuary | 219784 | [219784-magic-and-sanctuary.json](./219784-magic-and-sanctuary.json) |
 | Magic 2014: Duels of the Planeswalkers | 2188 | [2188-magic-2014-duels-of-the-planeswalkers.json](./2188-magic-2014-duels-of-the-planeswalkers.json) |
 | Magic 2014: Duels of the Planeswalkers - Deck Pack 1 | 362458 | [362458-magic-2014-duels-of-the-planeswalkers-deck-pack-1.json](./362458-magic-2014-duels-of-the-planeswalkers-deck-pack-1.json) |
@@ -2224,7 +2224,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Egyptian: The Mystery of the Pharaoh | 238692 | [238692-mahjong-egyptian-the-mystery-of-the-pharaoh.json](./238692-mahjong-egyptian-the-mystery-of-the-pharaoh.json) |
 | Mahjong Elements | 78426 | [78426-mahjong-elements.json](./78426-mahjong-elements.json) |
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
-| Mahjong Elements HDX | 88370 | [88370-mahjong-elements-hdx.json](./88370-mahjong-elements-hdx.json) |
 | Mahjong Epic | 83414 | [83414-mahjong-epic.json](./83414-mahjong-epic.json) |
 | Mahjong Escape: Ancient China | 135673 | [135673-mahjong-escape-ancient-china.json](./135673-mahjong-escape-ancient-china.json) |
 | Mahjong Escape: Ancient Japan | 202093 | [202093-mahjong-escape-ancient-japan.json](./202093-mahjong-escape-ancient-japan.json) |
@@ -2283,7 +2282,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Infinity | 117043 | [117043-mahjong-infinity.json](./117043-mahjong-infinity.json) |
 | Mahjong Inkflow | 389854 | [389854-mahjong-inkflow.json](./389854-mahjong-inkflow.json) |
 | Mahjong Jo-ou | 228609 | [228609-mahjong-jo-ou.json](./228609-mahjong-jo-ou.json) |
-| Mahjong Journey | 88898 | [88898-mahjong-journey.json](./88898-mahjong-journey.json) |
 | Mahjong Journey: Quest for Tikal | 175921 | [175921-mahjong-journey-quest-for-tikal.json](./175921-mahjong-journey-quest-for-tikal.json) |
 | Mahjong Kazoku | 41364 | [41364-mahjong-kazoku.json](./41364-mahjong-kazoku.json) |
 | Mahjong Keiji | 49706 | [49706-mahjong-keiji.json](./49706-mahjong-keiji.json) |
@@ -4245,7 +4243,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marienbad | 367717 | [367717-marienbad.json](./367717-marienbad.json) |
 | Marigold | 183053 | [183053-marigold.json](./183053-marigold.json) |
 | Marikin Online 4 | 288351 | [288351-marikin-online-4.json](./288351-marikin-online-4.json) |
-| Mariko: Hot Nightlife | 88052 | [88052-mariko-hot-nightlife.json](./88052-mariko-hot-nightlife.json) |
 | Marimba VR | 30352 | [30352-marimba-vr.json](./30352-marimba-vr.json) |
 | Marimo Pants | 412817 | [412817-marimo-pants.json](./412817-marimo-pants.json) |
 | Marimo vs. I.A.S | 188463 | [188463-marimo-vs-i-a-s.json](./188463-marimo-vs-i-a-s.json) |
@@ -7328,7 +7325,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Trials | 67601 | [67601-maze-trials.json](./67601-maze-trials.json) |
 | Maze Twister | 191820 | [191820-maze-twister.json](./191820-maze-twister.json) |
 | Maze Up! | 74243 | [74243-maze-up.json](./74243-maze-up.json) |
-| Maze Walk VR - Virtual Reality Game Puzzle Apps | 88063 | [88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json](./88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json) |
 | Maze Walker | 81977 | [81977-maze-walker.json](./81977-maze-walker.json) |
 | Maze Wars | 116316 | [116316-maze-wars.json](./116316-maze-wars.json) |
 | Maze with Cube | 146775 | [146775-maze-with-cube.json](./146775-maze-with-cube.json) |
@@ -13743,7 +13739,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million Bouillon | 405630 | [405630-million-bouillon.json](./405630-million-bouillon.json) |
 | Million Clicker | 334371 | [334371-million-clicker.json](./334371-million-clicker.json) |
 | Million Depth | 262869 | [262869-million-depth.json](./262869-million-depth.json) |
-| Million Dollar Adventure | 88658 | [88658-million-dollar-adventure.json](./88658-million-dollar-adventure.json) |
 | Million Dollar Adventure: hidden object game | 99860 | [99860-million-dollar-adventure-hidden-object-game.json](./99860-million-dollar-adventure-hidden-object-game.json) |
 | Million Dollar Boys: OtomeGame | 405895 | [405895-million-dollar-boys-otomegame.json](./405895-million-dollar-boys-otomegame.json) |
 | Million Dollar Password: 2009 Edition | 67397 | [67397-million-dollar-password-2009-edition.json](./67397-million-dollar-password-2009-edition.json) |
@@ -14643,7 +14638,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper | 89153 | [89153-minesweeper.json](./89153-minesweeper.json) |
 | Minesweeper | 99334 | [99334-minesweeper.json](./99334-minesweeper.json) |
 | MineSweeper | 306019 | [306019-minesweeper.json](./306019-minesweeper.json) |
-| Minesweeper !! | 88352 | [88352-minesweeper.json](./88352-minesweeper.json) |
 | Minesweeper & Dungeon RPG | 324153 | [324153-minesweeper-and-dungeon-rpg.json](./324153-minesweeper-and-dungeon-rpg.json) |
 | Minesweeper 101 | 87161 | [87161-minesweeper-101.json](./87161-minesweeper-101.json) |
 | Minesweeper 2 | 103704 | [103704-minesweeper-2.json](./103704-minesweeper-2.json) |
@@ -24274,7 +24268,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Name Is... | 372803 | [372803-my-name-is.json](./372803-my-name-is.json) |
 | My Naughty Shotgun | 197400 | [197400-my-naughty-shotgun.json](./197400-my-naughty-shotgun.json) |
 | My Naughty Summer Vacation: Days in Countryside and Memories of Summer | 199552 | [199552-my-naughty-summer-vacation-days-in-countryside-and-memories-of-summer.json](./199552-my-naughty-summer-vacation-days-in-countryside-and-memories-of-summer.json) |
-| My NBA 2K18 | 88856 | [88856-my-nba-2k18.json](./88856-my-nba-2k18.json) |
 | My Needy Neighbour Girls | 223257 | [223257-my-needy-neighbour-girls.json](./223257-my-needy-neighbour-girls.json) |
 | My Neighbor Alice | 157044 | [157044-my-neighbor-alice.json](./157044-my-neighbor-alice.json) |
 | My Neighbor Enide | 295630 | [295630-my-neighbor-enide.json](./295630-my-neighbor-enide.json) |
@@ -24625,7 +24618,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet Stepsisters | 205896 | [205896-my-sweet-stepsisters.json](./205896-my-sweet-stepsisters.json) |
 | My Sweet Summer | 426563 | [426563-my-sweet-summer.json](./426563-my-sweet-summer.json) |
 | My Sweet Summer Oni | 213279 | [213279-my-sweet-summer-oni.json](./213279-my-sweet-summer-oni.json) |
-| My Sweet Waifu | 88120 | [88120-my-sweet-waifu.json](./88120-my-sweet-waifu.json) |
 | My Sweet Waifu Konko | 422445 | [422445-my-sweet-waifu-konko.json](./422445-my-sweet-waifu-konko.json) |
 | My Sweet Washing Machine! | 156654 | [156654-my-sweet-washing-machine.json](./156654-my-sweet-washing-machine.json) |
 | My Sweet Zombie! | 187580 | [187580-my-sweet-zombie.json](./187580-my-sweet-zombie.json) |
@@ -24696,7 +24688,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town : Police | 105920 | [105920-my-town-police.json](./105920-my-town-police.json) |
 | My Town : Street Fun | 104474 | [104474-my-town-street-fun.json](./104474-my-town-street-fun.json) |
 | My Town : Street Fun | 104496 | [104496-my-town-street-fun.json](./104496-my-town-street-fun.json) |
-| My Town: Airport | 88533 | [88533-my-town-airport.json](./88533-my-town-airport.json) |
 | My Town: Dessert Slice | 130086 | [130086-my-town-dessert-slice.json](./130086-my-town-dessert-slice.json) |
 | My Town: Home | 362420 | [362420-my-town-home.json](./362420-my-town-home.json) |
 | My Town: Museum | 89126 | [89126-my-town-museum.json](./89126-my-town-museum.json) |
@@ -25125,7 +25116,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Return to Ravenhearst | 5513 | [5513-mystery-case-files-return-to-ravenhearst.json](./5513-mystery-case-files-return-to-ravenhearst.json) |
 | Mystery Case Files: Rewind | 140232 | [140232-mystery-case-files-rewind.json](./140232-mystery-case-files-rewind.json) |
 | Mystery Case Files: Shadow Lake | 5517 | [5517-mystery-case-files-shadow-lake.json](./5517-mystery-case-files-shadow-lake.json) |
-| Mystery Case Files: Shadow Lake - Collector's Edition | 88269 | [88269-mystery-case-files-shadow-lake-collectors-edition.json](./88269-mystery-case-files-shadow-lake-collectors-edition.json) |
 | Mystery Case Files: The Black Veil | 56172 | [56172-mystery-case-files-the-black-veil.json](./56172-mystery-case-files-the-black-veil.json) |
 | Mystery Case Files: The Black Veil - Collector's Edition | 29794 | [29794-mystery-case-files-the-black-veil-collectors-edition.json](./29794-mystery-case-files-the-black-veil-collectors-edition.json) |
 | Mystery Case Files: The Countess | 140233 | [140233-mystery-case-files-the-countess.json](./140233-mystery-case-files-the-countess.json) |
@@ -25176,7 +25166,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery House | 342677 | [342677-mystery-house.json](./342677-mystery-house.json) |
 | Mystery House II | 67392 | [67392-mystery-house-ii.json](./67392-mystery-house-ii.json) |
 | Mystery House Possessed | 217686 | [217686-mystery-house-possessed.json](./217686-mystery-house-possessed.json) |
-| Mystery House: Secret Stealth | 88133 | [88133-mystery-house-secret-stealth.json](./88133-mystery-house-secret-stealth.json) |
 | Mystery in London: On the Trail of Jack the Ripper | 67184 | [67184-mystery-in-london-on-the-trail-of-jack-the-ripper.json](./67184-mystery-in-london-on-the-trail-of-jack-the-ripper.json) |
 | Mystery in the Office | 245840 | [245840-mystery-in-the-office.json](./245840-mystery-in-the-office.json) |
 | Mystery Investigations 1 I Noir Chronicles: City of Crime + Path of Sin: Greed | 136068 | [136068-mystery-investigations-1-i-noir-chronicles-city-of-crime-path-of-sin-greed.json](./136068-mystery-investigations-1-i-noir-chronicles-city-of-crime-path-of-sin-greed.json) |
@@ -25418,6 +25407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MysteryScrolls | 319193 | [319193-mysteryscrolls.json](./319193-mysteryscrolls.json) |
 | Mysterytale Online | 374974 | [374974-mysterytale-online.json](./374974-mysterytale-online.json) |
 | Mysteryville | 72392 | [72392-mysteryville.json](./72392-mysteryville.json) |
+| Mysteryville 2 | 73151 | [73151-mysteryville-2.json](./73151-mysteryville-2.json) |
 | Mystfed | 183522 | [183522-mystfed.json](./183522-mystfed.json) |
 | Mystia | 288872 | [288872-mystia.json](./288872-mystia.json) |
 | Mystia2 | 292090 | [292090-mystia2.json](./292090-mystia2.json) |
