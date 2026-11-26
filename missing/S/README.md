@@ -254,7 +254,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sable Maze: Twelve Fears | 140281 | [140281-sable-maze-twelve-fears.json](./140281-sable-maze-twelve-fears.json) |
 | Sable Maze: Twelve Fears - Collector's Edition | 110347 | [110347-sable-maze-twelve-fears-collectors-edition.json](./110347-sable-maze-twelve-fears-collectors-edition.json) |
 | Sable Maze: Twelve Fears HD - A Mystery Hidden Object Game | 88598 | [88598-sable-maze-twelve-fears-hd-a-mystery-hidden-object-game.json](./88598-sable-maze-twelve-fears-hd-a-mystery-hidden-object-game.json) |
-| Sable's Grimoire | 87770 | [87770-sables-grimoire.json](./87770-sables-grimoire.json) |
 | Sable's Grimoire 2 | 347443 | [347443-sables-grimoire-2.json](./347443-sables-grimoire-2.json) |
 | SableSyn Protocol | 423337 | [423337-sablesyn-protocol.json](./423337-sablesyn-protocol.json) |
 | Sabnack | 239383 | [239383-sabnack.json](./239383-sabnack.json) |
@@ -1217,7 +1216,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Salon: Beauty Secrets | 177061 | [177061-sallys-salon-beauty-secrets.json](./177061-sallys-salon-beauty-secrets.json) |
 | Sally's Salon: Kiss & Make-Up 💋 | 104453 | [104453-sallys-salon-kiss-and-make-up.json](./104453-sallys-salon-kiss-and-make-up.json) |
 | Sally's Spa | 67966 | [67966-sallys-spa.json](./67966-sallys-spa.json) |
-| Sally's Spa HD | 87725 | [87725-sallys-spa-hd.json](./87725-sallys-spa-hd.json) |
 | Sally's Studio | 65321 | [65321-sallys-studio.json](./65321-sallys-studio.json) |
 | Sally's Studio HD | 107861 | [107861-sallys-studio-hd.json](./107861-sallys-studio-hd.json) |
 | Sally2 | 125595 | [125595-sally2.json](./125595-sally2.json) |
@@ -3760,7 +3758,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo Cloning | 403005 | [403005-scooby-doo-cloning.json](./403005-scooby-doo-cloning.json) |
 | Scooby-Doo DVD Game: Funland of Freaky Frights | 231471 | [231471-scooby-doo-dvd-game-funland-of-freaky-frights.json](./231471-scooby-doo-dvd-game-funland-of-freaky-frights.json) |
 | Scooby-Doo Mystery | 137094 | [137094-scooby-doo-mystery.json](./137094-scooby-doo-mystery.json) |
-| Scooby-Doo Mystery Cases | 87730 | [87730-scooby-doo-mystery-cases.json](./87730-scooby-doo-mystery-cases.json) |
 | Scooby-Doo: Case File #2 - The Scary Stone Dragon | 138946 | [138946-scooby-doo-case-file-2-the-scary-stone-dragon.json](./138946-scooby-doo-case-file-2-the-scary-stone-dragon.json) |
 | Scooby-Doo: Case File 1 - The Glowing Bug Man | 78685 | [78685-scooby-doo-case-file-1-the-glowing-bug-man.json](./78685-scooby-doo-case-file-1-the-glowing-bug-man.json) |
 | Scooby-Doo: Funland Frenzy | 73002 | [73002-scooby-doo-funland-frenzy.json](./73002-scooby-doo-funland-frenzy.json) |
@@ -11476,6 +11473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shunga Frame | 196094 | [196094-shunga-frame.json](./196094-shunga-frame.json) |
 | Shunkyoku no Tyrhhia: What a Beautiful Dawn | 144958 | [144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json](./144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json) |
 | Shuntle | 319141 | [319141-shuntle.json](./319141-shuntle.json) |
+| Shunx's Tyrhia: What a Beautiful Dawn | 417752 | [417752-shunxs-tyrhia-what-a-beautiful-dawn.json](./417752-shunxs-tyrhia-what-a-beautiful-dawn.json) |
 | Shunya | 266599 | [266599-shunya.json](./266599-shunya.json) |
 | Shuppatsu! Doubutsu Tankentai | 63958 | [63958-shuppatsu-doubutsu-tankentai.json](./63958-shuppatsu-doubutsu-tankentai.json) |
 | Shura no Mon | 46258 | [46258-shura-no-mon.json](./46258-shura-no-mon.json) |
@@ -23470,7 +23468,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shooter 3D | 96756 | [96756-space-shooter-3d.json](./96756-space-shooter-3d.json) |
 | Space Shooter FPS | 184191 | [184191-space-shooter-fps.json](./184191-space-shooter-fps.json) |
 | Space Shooter: Alpha Impact | 71482 | [71482-space-shooter-alpha-impact.json](./71482-space-shooter-alpha-impact.json) |
-| Space Shooter: Fun Arcade Game | 87535 | [87535-space-shooter-fun-arcade-game.json](./87535-space-shooter-fun-arcade-game.json) |
 | Space shooter: Galaxy Attack | 256526 | [256526-space-shooter-galaxy-attack.json](./256526-space-shooter-galaxy-attack.json) |
 | Space Shot | 44901 | [44901-space-shot.json](./44901-space-shot.json) |
 | Space Shot Game | 346047 | [346047-space-shot-game.json](./346047-space-shot-game.json) |
@@ -26253,6 +26250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: The Cosmic Shake - Costume Pack | 234272 | [234272-spongebob-squarepants-the-cosmic-shake-costume-pack.json](./234272-spongebob-squarepants-the-cosmic-shake-costume-pack.json) |
 | SpongeBob SquarePants: The Fry Cook Games | 220115 | [220115-spongebob-squarepants-the-fry-cook-games.json](./220115-spongebob-squarepants-the-fry-cook-games.json) |
 | SpongeBob SquarePants: The Patrick Star Game | 314939 | [314939-spongebob-squarepants-the-patrick-star-game.json](./314939-spongebob-squarepants-the-patrick-star-game.json) |
+| SpongeBob SquarePants: The Ultimate Enemy Face-Off | 411432 | [411432-spongebob-squarepants-the-ultimate-enemy-face-off.json](./411432-spongebob-squarepants-the-ultimate-enemy-face-off.json) |
 | SpongeBob SquarePants: The Yellow Avenger | 2770 | [2770-spongebob-squarepants-the-yellow-avenger.json](./2770-spongebob-squarepants-the-yellow-avenger.json) |
 | SpongeBob SquarePants: The Yellow Avenger | 281852 | [281852-spongebob-squarepants-the-yellow-avenger.json](./281852-spongebob-squarepants-the-yellow-avenger.json) |
 | SpongeBob SquarePants: Through the Wormhole | 230452 | [230452-spongebob-squarepants-through-the-wormhole.json](./230452-spongebob-squarepants-through-the-wormhole.json) |
@@ -26530,7 +26528,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Car GT | 22822 | [22822-sports-car-gt.json](./22822-sports-car-gt.json) |
 | Sports Car Maker Factory: Auto Car Mechanic Games | 104300 | [104300-sports-car-maker-factory-auto-car-mechanic-games.json](./104300-sports-car-maker-factory-auto-car-mechanic-games.json) |
 | Sports Car Test Driver: Monaco Trials | 90539 | [90539-sports-car-test-driver-monaco-trials.json](./90539-sports-car-test-driver-monaco-trials.json) |
-| Sports Car Track Racers - Real Sports Car Driving Racing With Amazing Tracks | 87529 | [87529-sports-car-track-racers-real-sports-car-driving-racing-with-amazing-tracks.json](./87529-sports-car-track-racers-real-sports-car-driving-racing-with-amazing-tracks.json) |
 | Sports Card Shop Simulator | 389101 | [389101-sports-card-shop-simulator.json](./389101-sports-card-shop-simulator.json) |
 | Sports Challenge: 50+ Games Edition | 395663 | [395663-sports-challenge-50-games-edition.json](./395663-sports-challenge-50-games-edition.json) |
 | Sports Challenge: 65 Games Edition | 381708 | [381708-sports-challenge-65-games-edition.json](./381708-sports-challenge-65-games-edition.json) |
@@ -27294,7 +27291,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sqube Escape | 313269 | [313269-sqube-escape.json](./313269-sqube-escape.json) |
 | Squeak | 296003 | [296003-squeak.json](./296003-squeak.json) |
 | Squeak | 427836 | [427836-squeak.json](./427836-squeak.json) |
-| Squeakers | 87781 | [87781-squeakers.json](./87781-squeakers.json) |
 | Squeakers II | 148370 | [148370-squeakers-ii.json](./148370-squeakers-ii.json) |
 | Squeakross: Free Content Update | 392279 | [392279-squeakross-free-content-update.json](./392279-squeakross-free-content-update.json) |
 | Squeaky | 373432 | [373432-squeaky.json](./373432-squeaky.json) |
@@ -27596,7 +27592,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacker | 75715 | [75715-stacker.json](./75715-stacker.json) |
 | Stacker Puzzle | 163516 | [163516-stacker-puzzle.json](./163516-stacker-puzzle.json) |
 | Stackflow | 361687 | [361687-stackflow.json](./361687-stackflow.json) |
-| StackFortress | 88012 | [88012-stackfortress.json](./88012-stackfortress.json) |
 | StackHoops | 244698 | [244698-stackhoops.json](./244698-stackhoops.json) |
 | Stacking | 4851 | [4851-stacking.json](./4851-stacking.json) |
 | Stacking Fairy | 293866 | [293866-stacking-fairy.json](./293866-stacking-fairy.json) |
@@ -28778,6 +28773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Knights of the Old Republic - Remake | 168665 | [168665-star-wars-knights-of-the-old-republic-remake.json](./168665-star-wars-knights-of-the-old-republic-remake.json) |
 | Star Wars: Knights of the Old Republic - Yavin Station | 74551 | [74551-star-wars-knights-of-the-old-republic-yavin-station.json](./74551-star-wars-knights-of-the-old-republic-yavin-station.json) |
 | Star Wars: Knights of the Old Republic III | 14401 | [14401-star-wars-knights-of-the-old-republic-iii.json](./14401-star-wars-knights-of-the-old-republic-iii.json) |
+| Star Wars: Knights of the Old Republic III - The Jedi Masters | 418070 | [418070-star-wars-knights-of-the-old-republic-iii-the-jedi-masters.json](./418070-star-wars-knights-of-the-old-republic-iii-the-jedi-masters.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
 | Star Wars: Lethal Alliance | 23116 | [23116-star-wars-lethal-alliance.json](./23116-star-wars-lethal-alliance.json) |
 | Star Wars: Masters of Teräs Käsi | 18044 | [18044-star-wars-masters-of-teras-kasi.json](./18044-star-wars-masters-of-teras-kasi.json) |
@@ -29216,7 +29212,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfox 64: Recompiled | 387287 | [387287-starfox-64-recompiled.json](./387287-starfox-64-recompiled.json) |
 | StarFox: Game&Watch | 376430 | [376430-starfox-game-and-watch.json](./376430-starfox-game-and-watch.json) |
 | StarFringe: Adversus | 33148 | [33148-starfringe-adversus.json](./33148-starfringe-adversus.json) |
-| Starfront: Collision | 87701 | [87701-starfront-collision.json](./87701-starfront-collision.json) |
 | StarFront: Lancers | 368388 | [368388-starfront-lancers.json](./368388-starfront-lancers.json) |
 | Starfuse | 260214 | [260214-starfuse.json](./260214-starfuse.json) |
 | Stargate | 10162 | [10162-stargate.json](./10162-stargate.json) |
@@ -29985,6 +29980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stash: A Card Looter | 367473 | [367473-stash-a-card-looter.json](./367473-stash-a-card-looter.json) |
 | Stasis | 223055 | [223055-stasis.json](./223055-stasis.json) |
 | Stasis Bundle | 353984 | [353984-stasis-bundle.json](./353984-stasis-bundle.json) |
+| Stasis Map Pack | 416365 | [416365-stasis-map-pack.json](./416365-stasis-map-pack.json) |
 | Stasis Protocol | 428755 | [428755-stasis-protocol.json](./428755-stasis-protocol.json) |
 | Stasis Valley | 211351 | [211351-stasis-valley.json](./211351-stasis-valley.json) |
 | Stasis: Bone Totem | 140866 | [140866-stasis-bone-totem.json](./140866-stasis-bone-totem.json) |
@@ -33887,7 +33883,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submind | 416091 | [416091-submind.json](./416091-submind.json) |
 | Submission | 353496 | [353496-submission.json](./353496-submission.json) |
 | Submorse | 168600 | [168600-submorse.json](./168600-submorse.json) |
-| Subnautic Adventures | 87875 | [87875-subnautic-adventures.json](./87875-subnautic-adventures.json) |
 | Subnautica + Subnautica Below Zero Double Pack | 143025 | [143025-subnautica-subnautica-below-zero-double-pack.json](./143025-subnautica-subnautica-below-zero-double-pack.json) |
 | Subnautica 2 | 320140 | [320140-subnautica-2.json](./320140-subnautica-2.json) |
 | Subnautica Deep Ocean Bundle | 401933 | [401933-subnautica-deep-ocean-bundle.json](./401933-subnautica-deep-ocean-bundle.json) |
@@ -34004,7 +33999,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Rider - Train Rush | 106567 | [106567-subway-rider-train-rush.json](./106567-subway-rider-train-rush.json) |
 | Subway Sandwichdle | 323067 | [323067-subway-sandwichdle.json](./323067-subway-sandwichdle.json) |
 | Subway Scramble | 92930 | [92930-subway-scramble.json](./92930-subway-scramble.json) |
-| Subway Simulator | 87982 | [87982-subway-simulator.json](./87982-subway-simulator.json) |
 | Subway Simulator 10: New York Edition | 91348 | [91348-subway-simulator-10-new-york-edition.json](./91348-subway-simulator-10-new-york-edition.json) |
 | Subway Simulator 2 - London Underground | 99364 | [99364-subway-simulator-2-london-underground.json](./99364-subway-simulator-2-london-underground.json) |
 | Subway Simulator 2025: City Train | 343559 | [343559-subway-simulator-2025-city-train.json](./343559-subway-simulator-2025-city-train.json) |
@@ -34370,7 +34364,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku: We All Play | 92341 | [92341-sudoku-we-all-play.json](./92341-sudoku-we-all-play.json) |
 | Sudoku! For Watch | 368475 | [368475-sudoku-for-watch.json](./368475-sudoku-for-watch.json) |
 | Sudoku.com | 326900 | [326900-sudoku-com.json](./326900-sudoku-com.json) |
-| Sudoku+ | 87862 | [87862-sudoku.json](./87862-sudoku.json) |
 | Sudoku3D | 113193 | [113193-sudoku3d.json](./113193-sudoku3d.json) |
 | Sudoku3D 2: The Cube | 115355 | [115355-sudoku3d-2-the-cube.json](./115355-sudoku3d-2-the-cube.json) |
 | Sudokuball Detective | 10930 | [10930-sudokuball-detective.json](./10930-sudokuball-detective.json) |
@@ -34794,7 +34787,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer for Ant | 423080 | [423080-summer-for-ant.json](./423080-summer-for-ant.json) |
 | Summer for You | 339481 | [339481-summer-for-you.json](./339481-summer-for-you.json) |
 | Summer Fruit | 134921 | [134921-summer-fruit.json](./134921-summer-fruit.json) |
-| Summer Funland | 87556 | [87556-summer-funland.json](./87556-summer-funland.json) |
 | Summer Games | 12340 | [12340-summer-games.json](./12340-summer-games.json) |
 | Summer Games | 281670 | [281670-summer-games.json](./281670-summer-games.json) |
 | Summer Games | 281671 | [281671-summer-games.json](./281671-summer-games.json) |
@@ -35102,7 +35094,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Sport Fishing: Keiryuu-ou | 37889 | [37889-sun-sport-fishing-keiryuu-ou.json](./37889-sun-sport-fishing-keiryuu-ou.json) |
 | Sun Star | 36552 | [36552-sun-star.json](./36552-sun-star.json) |
 | Sun Stones | 256193 | [256193-sun-stones.json](./256193-sun-stones.json) |
-| Sun Temple Shootout | 87697 | [87697-sun-temple-shootout.json](./87697-sun-temple-shootout.json) |
 | Sun to Sun: Endure | 427323 | [427323-sun-to-sun-endure.json](./427323-sun-to-sun-endure.json) |
 | Sun Warriors | 155949 | [155949-sun-warriors.json](./155949-sun-warriors.json) |
 | Sun Wukong VS Robot | 113725 | [113725-sun-wukong-vs-robot.json](./113725-sun-wukong-vs-robot.json) |
@@ -37755,7 +37746,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ninja Meow Cat | 115165 | [115165-super-ninja-meow-cat.json](./115165-super-ninja-meow-cat.json) |
 | Super Ninja Miner | 225455 | [225455-super-ninja-miner.json](./225455-super-ninja-miner.json) |
 | Super Ninja Noodle Chef | 185598 | [185598-super-ninja-noodle-chef.json](./185598-super-ninja-noodle-chef.json) |
-| Super Ninja Square Attack | 87695 | [87695-super-ninja-square-attack.json](./87695-super-ninja-square-attack.json) |
 | Super Ninja-kun | 38271 | [38271-super-ninja-kun.json](./38271-super-ninja-kun.json) |
 | Super Ninji Land | 253793 | [253793-super-ninji-land.json](./253793-super-ninji-land.json) |
 | Super Ninji Land 2: A Ninji's Journey | 253794 | [253794-super-ninji-land-2-a-ninjis-journey.json](./253794-super-ninji-land-2-a-ninjis-journey.json) |
@@ -39162,7 +39152,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhero Fighting Game | 59875 | [59875-superhero-fighting-game.json](./59875-superhero-fighting-game.json) |
 | Superhero Fruit Premium: Robot Wars Future Battles | 154730 | [154730-superhero-fruit-premium-robot-wars-future-battles.json](./154730-superhero-fruit-premium-robot-wars-future-battles.json) |
 | Superhero Fruit: Robot War | 154731 | [154731-superhero-fruit-robot-war.json](./154731-superhero-fruit-robot-war.json) |
-| Superhero Girl Salon: Kids Makeup and Dressup Game | 88037 | [88037-superhero-girl-salon-kids-makeup-and-dressup-game.json](./88037-superhero-girl-salon-kids-makeup-and-dressup-game.json) |
 | Superhero Girls | 368052 | [368052-superhero-girls.json](./368052-superhero-girls.json) |
 | SuperHero in Training | 110598 | [110598-superhero-in-training.json](./110598-superhero-in-training.json) |
 | Superhero League of Hoboken | 249 | [249-superhero-league-of-hoboken.json](./249-superhero-league-of-hoboken.json) |
@@ -41143,7 +41132,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipe 3 | 256245 | [256245-swipe-3.json](./256245-swipe-3.json) |
 | Swipe Brick Breaker | 233415 | [233415-swipe-brick-breaker.json](./233415-swipe-brick-breaker.json) |
 | Swipe Brick Breaker: The Blast | 108574 | [108574-swipe-brick-breaker-the-blast.json](./108574-swipe-brick-breaker-the-blast.json) |
-| Swipe Casters | 87732 | [87732-swipe-casters.json](./87732-swipe-casters.json) |
 | Swipe Fight! | 248253 | [248253-swipe-fight.json](./248253-swipe-fight.json) |
 | Swipe Fruit Smash | 103770 | [103770-swipe-fruit-smash.json](./103770-swipe-fruit-smash.json) |
 | Swipe Link | 264969 | [264969-swipe-link.json](./264969-swipe-link.json) |
