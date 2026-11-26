@@ -2691,7 +2691,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids | 95167 | [95167-kids.json](./95167-kids.json) |
 | Kids & Family Movie Trivia | 303202 | [303202-kids-and-family-movie-trivia.json](./303202-kids-and-family-movie-trivia.json) |
 | Kids ABC and Counting Jigsaw Puzzles Pre school | 87151 | [87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json](./87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json) |
-| Kids ABC Games: Toddler Boys & Girls Learning | 88798 | [88798-kids-abc-games-toddler-boys-and-girls-learning.json](./88798-kids-abc-games-toddler-boys-and-girls-learning.json) |
 | Kids ABC Letter Trains | 90438 | [90438-kids-abc-letter-trains.json](./90438-kids-abc-letter-trains.json) |
 | Kids ABC Order | 175314 | [175314-kids-abc-order.json](./175314-kids-abc-order.json) |
 | Kids Activity Centre Pro | 86708 | [86708-kids-activity-centre-pro.json](./86708-kids-activity-centre-pro.json) |
@@ -5074,7 +5073,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KMON: Genesis | 254790 | [254790-kmon-genesis.json](./254790-kmon-genesis.json) |
 | Knack | 2957 | [2957-knack.json](./2957-knack.json) |
 | Knack II | 26194 | [26194-knack-ii.json](./26194-knack-ii.json) |
-| Knack! | 88474 | [88474-knack.json](./88474-knack.json) |
 | Knack' den Code | 78097 | [78097-knack-den-code.json](./78097-knack-den-code.json) |
 | Knack's Quest | 62659 | [62659-knacks-quest.json](./62659-knacks-quest.json) |
 | Knaddskogen | 179866 | [179866-knaddskogen.json](./179866-knaddskogen.json) |
@@ -6354,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Student Simulator | 402734 | [402734-korean-student-simulator.json](./402734-korean-student-simulator.json) |
 | Koregafuko | 323143 | [323143-koregafuko.json](./323143-koregafuko.json) |
 | Korekiyo's Epic Quest for Pussy | 272851 | [272851-korekiyos-epic-quest-for-pussy.json](./272851-korekiyos-epic-quest-for-pussy.json) |
+| Korg DS-10 | 73009 | [73009-korg-ds-10.json](./73009-korg-ds-10.json) |
 | KORG DS-10 Plus | 124490 | [124490-korg-ds-10-plus.json](./124490-korg-ds-10-plus.json) |
 | KORG Gadget | 77537 | [77537-korg-gadget.json](./77537-korg-gadget.json) |
 | Korg M01 | 63564 | [63564-korg-m01.json](./63564-korg-m01.json) |
