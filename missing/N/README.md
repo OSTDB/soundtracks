@@ -5070,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Walker | 256316 | [256316-night-walker.json](./256316-night-walker.json) |
 | Night Walker: Mayonaka no Tantei | 111999 | [111999-night-walker-mayonaka-no-tantei.json](./111999-night-walker-mayonaka-no-tantei.json) |
 | Night Wanderings | 150923 | [150923-night-wanderings.json](./150923-night-wanderings.json) |
+| Night Wash: GE-418-NK | 431057 | [431057-night-wash-ge-418-nk.json](./431057-night-wash-ge-418-nk.json) |
 | Night Watch | 20540 | [20540-night-watch.json](./20540-night-watch.json) |
 | Night Watch | 231811 | [231811-night-watch.json](./231811-night-watch.json) |
 | Night Watch | 418613 | [418613-night-watch.json](./418613-night-watch.json) |
