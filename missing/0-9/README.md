@@ -2617,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 303 Logic, Action & Arcade Games | 228411 | [228411-303-logic-action-and-arcade-games.json](./228411-303-logic-action-and-arcade-games.json) |
 | 3030 | 262985 | [262985-3030.json](./262985-3030.json) |
 | 3030 Deathwar | 170080 | [170080-3030-deathwar.json](./170080-3030-deathwar.json) |
+| 3030 Deathwar Redux | 32952 | [32952-3030-deathwar-redux.json](./32952-3030-deathwar-redux.json) |
 | 304 Seconds | 262835 | [262835-304-seconds.json](./262835-304-seconds.json) |
 | 3059 | 300002 | [300002-3059.json](./300002-3059.json) |
 | 307 Racing | 367763 | [367763-307-racing.json](./367763-307-racing.json) |
@@ -3828,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 771: Smile and Work | 430267 | [430267-771-smile-and-work.json](./430267-771-smile-and-work.json) |
 | 774 Deaths | 214862 | [214862-774-deaths.json](./214862-774-deaths.json) |
 | 7743 | 412624 | [412624-7743.json](./412624-7743.json) |
+| 777 HERO: The One Who Defies Time | 429936 | [429936-777-hero-the-one-who-defies-time.json](./429936-777-hero-the-one-who-defies-time.json) |
 | 777 Lucky Bingo | 247305 | [247305-777-lucky-bingo.json](./247305-777-lucky-bingo.json) |
 | 7776 II: Dwarven Greed | 122259 | [122259-7776-ii-dwarven-greed.json](./122259-7776-ii-dwarven-greed.json) |
 | 77p Egg: Cubicle 77 | 377403 | [377403-77p-egg-cubicle-77.json](./377403-77p-egg-cubicle-77.json) |
