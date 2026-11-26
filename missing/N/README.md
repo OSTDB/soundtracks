@@ -5391,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmist Online | 140434 | [140434-nightmist-online.json](./140434-nightmist-online.json) |
 | Nightomb | 260857 | [260857-nightomb.json](./260857-nightomb.json) |
 | Nightork Adventures 2: Legacy of Chaos | 55346 | [55346-nightork-adventures-2-legacy-of-chaos.json](./55346-nightork-adventures-2-legacy-of-chaos.json) |
+| Nightork Adventures 3: Arena | 431259 | [431259-nightork-adventures-3-arena.json](./431259-nightork-adventures-3-arena.json) |
 | Nightork Adventures: Beyond the Moons of Shadalee | 32299 | [32299-nightork-adventures-beyond-the-moons-of-shadalee.json](./32299-nightork-adventures-beyond-the-moons-of-shadalee.json) |
 | Nightout | 172503 | [172503-nightout.json](./172503-nightout.json) |
 | Nightowl | 182138 | [182138-nightowl.json](./182138-nightowl.json) |
@@ -6260,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Pennant Chase Baseball | 67797 | [67797-nintendo-pennant-chase-baseball.json](./67797-nintendo-pennant-chase-baseball.json) |
 | Nintendo Pocket Football Club | 47645 | [47645-nintendo-pocket-football-club.json](./47645-nintendo-pocket-football-club.json) |
 | Nintendo PowerFest '94 | 85808 | [85808-nintendo-powerfest-94.json](./85808-nintendo-powerfest-94.json) |
+| Nintendo Presents: Crossword Collection | 23255 | [23255-nintendo-presents-crossword-collection.json](./23255-nintendo-presents-crossword-collection.json) |
 | Nintendo RPG | 324005 | [324005-nintendo-rpg.json](./324005-nintendo-rpg.json) |
 | Nintendo Switch 2 Welcome Tour | 338069 | [338069-nintendo-switch-2-welcome-tour.json](./338069-nintendo-switch-2-welcome-tour.json) |
 | Nintendo Switch Sports | 191408 | [191408-nintendo-switch-sports.json](./191408-nintendo-switch-sports.json) |
@@ -8694,6 +8696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NullStar | 144360 | [144360-nullstar.json](./144360-nullstar.json) |
 | Nullstar: Solus | 310206 | [310206-nullstar-solus.json](./310206-nullstar-solus.json) |
 | Nullum | 147708 | [147708-nullum.json](./147708-nullum.json) |
+| Nullwake | 431273 | [431273-nullwake.json](./431273-nullwake.json) |
 | Nullysun | 74478 | [74478-nullysun.json](./74478-nullysun.json) |
 | Nulphia | 393717 | [393717-nulphia.json](./393717-nulphia.json) |
 | Nululu Online | 313991 | [313991-nululu-online.json](./313991-nululu-online.json) |
