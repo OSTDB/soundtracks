@@ -2605,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolutely: A True Crime Story | 117996 | [117996-absolutely-a-true-crime-story.json](./117996-absolutely-a-true-crime-story.json) |
 | Absolution | 334380 | [334380-absolution.json](./334380-absolution.json) |
 | Absolution | 412708 | [412708-absolution.json](./412708-absolution.json) |
+| Absolution | 416525 | [416525-absolution.json](./416525-absolution.json) |
 | Absolution of the Dead | 345661 | [345661-absolution-of-the-dead.json](./345661-absolution-of-the-dead.json) |
 | Absolution's Apple | 228164 | [228164-absolutions-apple.json](./228164-absolutions-apple.json) |
 | Absølve | 388778 | [388778-abs-lve.json](./388778-abs-lve.json) |
@@ -8821,7 +8822,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Is Dust | 35171 | [35171-all-is-dust.json](./35171-all-is-dust.json) |
 | All is Fair in Dust and Air | 142266 | [142266-all-is-fair-in-dust-and-air.json](./142266-all-is-fair-in-dust-and-air.json) |
 | All is Fair in Love and Vore: The Tavorion Collection | 250600 | [250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json](./250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json) |
-| All is Lost | 87734 | [87734-all-is-lost.json](./87734-all-is-lost.json) |
 | All Japan Super Bombliss Cup '95 | 150163 | [150163-all-japan-super-bombliss-cup-95.json](./150163-all-japan-super-bombliss-cup-95.json) |
 | All Japan Super Bombliss Cup '95: Dai-1-kai | 179707 | [179707-all-japan-super-bombliss-cup-95-dai-1-kai.json](./179707-all-japan-super-bombliss-cup-95-dai-1-kai.json) |
 | All Japan Super Bombliss Cup '95: Dai-2-kai | 179708 | [179708-all-japan-super-bombliss-cup-95-dai-2-kai.json](./179708-all-japan-super-bombliss-cup-95-dai-2-kai.json) |
@@ -9003,6 +9003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Fielding Challenge VR | 29406 | [29406-all-star-fielding-challenge-vr.json](./29406-all-star-fielding-challenge-vr.json) |
 | All-Star Fighters | 64794 | [64794-all-star-fighters.json](./64794-all-star-fighters.json) |
 | All-Star Fruit Racing VR | 116431 | [116431-all-star-fruit-racing-vr.json](./116431-all-star-fruit-racing-vr.json) |
+| All-Star Mahjong: Kareinaru Shoubushi Kara no Chousen | 387465 | [387465-all-star-mahjong-kareinaru-shoubushi-kara-no-chousen.json](./387465-all-star-mahjong-kareinaru-shoubushi-kara-no-chousen.json) |
 | All-Star Slammin' D-Ball | 43929 | [43929-all-star-slammin-d-ball.json](./43929-all-star-slammin-d-ball.json) |
 | All-Star Supermarket Simulator: Vinyl Vibes | 328573 | [328573-all-star-supermarket-simulator-vinyl-vibes.json](./328573-all-star-supermarket-simulator-vinyl-vibes.json) |
 | All-Star Troopers | 107378 | [107378-all-star-troopers.json](./107378-all-star-troopers.json) |
@@ -9911,7 +9912,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Drawing: Coloring Book Simulator | 312092 | [312092-amazing-drawing-coloring-book-simulator.json](./312092-amazing-drawing-coloring-book-simulator.json) |
 | Amazing Drones | 76619 | [76619-amazing-drones.json](./76619-amazing-drones.json) |
 | Amazing Emma | 74833 | [74833-amazing-emma.json](./74833-amazing-emma.json) |
-| Amazing Escape | 87714 | [87714-amazing-escape.json](./87714-amazing-escape.json) |
 | Amazing Facts World Culture True or False Quiz | 399608 | [399608-amazing-facts-world-culture-true-or-false-quiz.json](./399608-amazing-facts-world-culture-true-or-false-quiz.json) |
 | Amazing Facts: World Proverbs True or False Quiz | 401107 | [401107-amazing-facts-world-proverbs-true-or-false-quiz.json](./401107-amazing-facts-world-proverbs-true-or-false-quiz.json) |
 | Amazing Fix | 163815 | [163815-amazing-fix.json](./163815-amazing-fix.json) |
@@ -15611,7 +15611,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Black | 356646 | [356646-archery-black.json](./356646-archery-black.json) |
 | Archery Blast | 89435 | [89435-archery-blast.json](./89435-archery-blast.json) |
 | Archery by Thornbury Software | 84757 | [84757-archery-by-thornbury-software.json](./84757-archery-by-thornbury-software.json) |
-| Archery Champion Bowman | 87928 | [87928-archery-champion-bowman.json](./87928-archery-champion-bowman.json) |
 | Archery Club | 180961 | [180961-archery-club.json](./180961-archery-club.json) |
 | Archery Elite | 106222 | [106222-archery-elite.json](./106222-archery-elite.json) |
 | Archery Escape | 207880 | [207880-archery-escape.json](./207880-archery-escape.json) |
@@ -21399,7 +21398,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Happy Heroes | 101826 | [101826-awesome-happy-heroes.json](./101826-awesome-happy-heroes.json) |
 | Awesome Land | 146029 | [146029-awesome-land.json](./146029-awesome-land.json) |
 | Awesome Machine | 43359 | [43359-awesome-machine.json](./43359-awesome-machine.json) |
-| Awesome Memory | 87689 | [87689-awesome-memory.json](./87689-awesome-memory.json) |
 | Awesome Metal Detecting | 77371 | [77371-awesome-metal-detecting.json](./77371-awesome-metal-detecting.json) |
 | Awesome Mix Tape | 156835 | [156835-awesome-mix-tape.json](./156835-awesome-mix-tape.json) |
 | Awesome Obstacle Challenge | 31358 | [31358-awesome-obstacle-challenge.json](./31358-awesome-obstacle-challenge.json) |
