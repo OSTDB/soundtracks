@@ -1548,7 +1548,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojyoku: Hokago no Ryojyokuki | 97634 | [97634-ojyoku-hokago-no-ryojyokuki.json](./97634-ojyoku-hokago-no-ryojyokuki.json) |
 | OK Bob | 29332 | [29332-ok-bob.json](./29332-ok-bob.json) |
 | OK Boomer | 127160 | [127160-ok-boomer.json](./127160-ok-boomer.json) |
-| OK Golf | 89011 | [89011-ok-golf.json](./89011-ok-golf.json) |
 | Ok I Pull Up | 228770 | [228770-ok-i-pull-up.json](./228770-ok-i-pull-up.json) |
 | OK K.O.! Let's Play Heroes | 80012 | [80012-ok-k-o-lets-play-heroes.json](./80012-ok-k-o-lets-play-heroes.json) |
 | OK K.O.!: Lakewood Plaza - Turbo | 193896 | [193896-ok-k-o-lakewood-plaza-turbo.json](./193896-ok-k-o-lakewood-plaza-turbo.json) |
@@ -1727,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old World: Wrath of Gods | 330024 | [330024-old-world-wrath-of-gods.json](./330024-old-world-wrath-of-gods.json) |
 | Old Young: RPG Mini | 331922 | [331922-old-young-rpg-mini.json](./331922-old-young-rpg-mini.json) |
 | Old-Fashioned Way to Die | 246701 | [246701-old-fashioned-way-to-die.json](./246701-old-fashioned-way-to-die.json) |
+| Old-Timer | 417973 | [417973-old-timer.json](./417973-old-timer.json) |
 | Oldage | 72353 | [72353-oldage.json](./72353-oldage.json) |
 | Oldage: Tactics Online | 74823 | [74823-oldage-tactics-online.json](./74823-oldage-tactics-online.json) |
 | OldBerserker | 180760 | [180760-oldberserker.json](./180760-oldberserker.json) |
@@ -5651,6 +5651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out Board | 71935 | [71935-out-board.json](./71935-out-board.json) |
 | Out Fishing | 344699 | [344699-out-fishing.json](./344699-out-fishing.json) |
 | Out for Blood | 276380 | [276380-out-for-blood.json](./276380-out-for-blood.json) |
+| Out for Blood | 418660 | [418660-out-for-blood.json](./418660-out-for-blood.json) |
 | Out for Blood | 50539 | [50539-out-for-blood.json](./50539-out-for-blood.json) |
 | Out For Delivery | 152380 | [152380-out-for-delivery.json](./152380-out-for-delivery.json) |
 | Out From the White | 176452 | [176452-out-from-the-white.json](./176452-out-from-the-white.json) |
