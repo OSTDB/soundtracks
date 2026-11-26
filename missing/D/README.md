@@ -19996,7 +19996,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drumming VR | 81628 | [81628-drumming-vr.json](./81628-drumming-vr.json) |
 | Drump Simulator | 407362 | [407362-drump-simulator.json](./407362-drump-simulator.json) |
 | Drumpf 2: Lost, But Not Forgotten! | 120366 | [120366-drumpf-2-lost-but-not-forgotten.json](./120366-drumpf-2-lost-but-not-forgotten.json) |
-| Drumpf: Rise Up, Libertonia! | 88017 | [88017-drumpf-rise-up-libertonia.json](./88017-drumpf-rise-up-libertonia.json) |
 | Drumpfy Walls | 116061 | [116061-drumpfy-walls.json](./116061-drumpfy-walls.json) |
 | Drums | 187313 | [187313-drums.json](./187313-drums.json) |
 | Drums Challenge | 202159 | [202159-drums-challenge.json](./202159-drums-challenge.json) |
