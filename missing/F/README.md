@@ -274,7 +274,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1: World Championship Edition | 12083 | [12083-f1-world-championship-edition.json](./12083-f1-world-championship-edition.json) |
 | F117A Stealth FIghter 2.0 | 59717 | [59717-f117a-stealth-fighter-2-0.json](./59717-f117a-stealth-fighter-2-0.json) |
 | F15 Flight Simulator VR | 107129 | [107129-f15-flight-simulator-vr.json](./107129-f15-flight-simulator-vr.json) |
-| F15 Flying Battle | 88846 | [88846-f15-flying-battle.json](./88846-f15-flying-battle.json) |
 | F17 Challenge | 37217 | [37217-f17-challenge.json](./37217-f17-challenge.json) |
 | F18 Carrier Landing | 87598 | [87598-f18-carrier-landing.json](./87598-f18-carrier-landing.json) |
 | F18 Pilot Simulator | 174355 | [174355-f18-pilot-simulator.json](./174355-f18-pilot-simulator.json) |
@@ -378,7 +377,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabulous Shop | 246550 | [246550-fabulous-shop.json](./246550-fabulous-shop.json) |
 | Fabulous: Angela's Fashion Fever | 31039 | [31039-fabulous-angelas-fashion-fever.json](./31039-fabulous-angelas-fashion-fever.json) |
 | Fabulous: Angela's High School Reunion | 38039 | [38039-fabulous-angelas-high-school-reunion.json](./38039-fabulous-angelas-high-school-reunion.json) |
-| Fabulous: Angela's Sweet Revenge | 88336 | [88336-fabulous-angelas-sweet-revenge.json](./88336-fabulous-angelas-sweet-revenge.json) |
 | Fabulous: Angela's True Colors | 113769 | [113769-fabulous-angelas-true-colors.json](./113769-fabulous-angelas-true-colors.json) |
 | Faby Bird : The Flappy Adventure | 86991 | [86991-faby-bird-the-flappy-adventure.json](./86991-faby-bird-the-flappy-adventure.json) |
 | Facada | 395036 | [395036-facada.json](./395036-facada.json) |
@@ -880,7 +878,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Village | 233625 | [233625-fairy-village.json](./233625-fairy-village.json) |
 | Fairy Well | 41165 | [41165-fairy-well.json](./41165-fairy-well.json) |
 | Fairy Whale | 345991 | [345991-fairy-whale.json](./345991-fairy-whale.json) |
-| Fairy: Paint by Numbers | 88490 | [88490-fairy-paint-by-numbers.json](./88490-fairy-paint-by-numbers.json) |
 | Fairyfail | 152598 | [152598-fairyfail.json](./152598-fairyfail.json) |
 | FairyLand | 413711 | [413711-fairyland.json](./413711-fairyland.json) |
 | Fairyland Melody Magic | 68055 | [68055-fairyland-melody-magic.json](./68055-fairyland-melody-magic.json) |
@@ -2639,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry: Primal - Wenja Pack | 117513 | [117513-far-cry-primal-wenja-pack.json](./117513-far-cry-primal-wenja-pack.json) |
 | Far Cry: Silver Pack | 223558 | [223558-far-cry-silver-pack.json](./223558-far-cry-silver-pack.json) |
 | Far Cry: Wild Expedition | 100668 | [100668-far-cry-wild-expedition.json](./100668-far-cry-wild-expedition.json) |
+| Far East of Eden II: Manji-maru | 71489 | [71489-far-east-of-eden-ii-manji-maru.json](./71489-far-east-of-eden-ii-manji-maru.json) |
 | Far East of Eden II: Manjimaru | 145890 | [145890-far-east-of-eden-ii-manjimaru.json](./145890-far-east-of-eden-ii-manjimaru.json) |
 | Far East of Eden III: Namida | 80576 | [80576-far-east-of-eden-iii-namida.json](./80576-far-east-of-eden-iii-namida.json) |
 | Far East of Eden Ziria: Harukanaru Jipang | 7214 | [7214-far-east-of-eden-ziria-harukanaru-jipang.json](./7214-far-east-of-eden-ziria-harukanaru-jipang.json) |
@@ -3093,7 +3091,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Life: Agriculture Simulator | 417857 | [417857-farming-life-agriculture-simulator.json](./417857-farming-life-agriculture-simulator.json) |
 | Farming Moomoo | 214299 | [214299-farming-moomoo.json](./214299-farming-moomoo.json) |
 | Farming Mushroom | 371483 | [371483-farming-mushroom.json](./371483-farming-mushroom.json) |
-| Farming PRO 2015 | 88257 | [88257-farming-pro-2015.json](./88257-farming-pro-2015.json) |
 | Farming Real Simulation Tractor, Combine Trucks Farmer Land Game | 231084 | [231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json](./231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json) |
 | Farming Sim 25: Drive Tractors, Combine, Trucks | 329568 | [329568-farming-sim-25-drive-tractors-combine-trucks.json](./329568-farming-sim-25-drive-tractors-combine-trucks.json) |
 | Farming Simulator | 81357 | [81357-farming-simulator.json](./81357-farming-simulator.json) |
@@ -3535,7 +3532,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Baby | 186036 | [186036-fat-baby.json](./186036-fat-baby.json) |
 | Fat Bear Week | 135327 | [135327-fat-bear-week.json](./135327-fat-bear-week.json) |
 | Fat Birds | 266134 | [266134-fat-birds.json](./266134-fat-birds.json) |
-| Fat Birds Build a Bridge! | 88447 | [88447-fat-birds-build-a-bridge.json](./88447-fat-birds-build-a-bridge.json) |
 | Fat Bobby | 40839 | [40839-fat-bobby.json](./40839-fat-bobby.json) |
 | Fat Boy Raids The Cookie Factory | 321865 | [321865-fat-boy-raids-the-cookie-factory.json](./321865-fat-boy-raids-the-cookie-factory.json) |
 | Fat Bunny | 27964 | [27964-fat-bunny.json](./27964-fat-bunny.json) |
@@ -5602,7 +5598,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill me up | 190050 | [190050-fill-me-up.json](./190050-fill-me-up.json) |
 | Fill Missing Letters | 187977 | [187977-fill-missing-letters.json](./187977-fill-missing-letters.json) |
 | Fill Multicolor | 283380 | [283380-fill-multicolor.json](./283380-fill-multicolor.json) |
-| Fill one-line puzzle game | 88820 | [88820-fill-one-line-puzzle-game.json](./88820-fill-one-line-puzzle-game.json) |
 | Fill the Cup | 228220 | [228220-fill-the-cup.json](./228220-fill-the-cup.json) |
 | Fill The Cup | 315705 | [315705-fill-the-cup.json](./315705-fill-the-cup.json) |
 | Fill The Cup 2 | 353560 | [353560-fill-the-cup-2.json](./353560-fill-the-cup-2.json) |
@@ -6611,7 +6606,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Flashing | 69870 | [69870-finger-flashing.json](./69870-finger-flashing.json) |
 | Finger Flex | 384419 | [384419-finger-flex.json](./384419-finger-flex.json) |
 | Finger Foos | 63191 | [63191-finger-foos.json](./63191-finger-foos.json) |
-| Finger Football | 88556 | [88556-finger-football.json](./88556-finger-football.json) |
 | Finger Football: Goal in One | 238549 | [238549-finger-football-goal-in-one.json](./238549-finger-football-goal-in-one.json) |
 | Finger Football: Goal in One + Two | 262491 | [262491-finger-football-goal-in-one-two.json](./262491-finger-football-goal-in-one-two.json) |
 | Finger Football: Goal in Two | 253204 | [253204-finger-football-goal-in-two.json](./253204-finger-football-goal-in-two.json) |
@@ -7549,7 +7543,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish to Cats: Catch & Feed | 410603 | [410603-fish-to-cats-catch-and-feed.json](./410603-fish-to-cats-catch-and-feed.json) |
 | Fish to Dish: Idle Sushi | 344540 | [344540-fish-to-dish-idle-sushi.json](./344540-fish-to-dish-idle-sushi.json) |
 | Fish Tycoon | 29117 | [29117-fish-tycoon.json](./29117-fish-tycoon.json) |
-| Fish Tycoon | 88574 | [88574-fish-tycoon.json](./88574-fish-tycoon.json) |
 | Fish Tycoon 2: Virtual Aquarium | 101270 | [101270-fish-tycoon-2-virtual-aquarium.json](./101270-fish-tycoon-2-virtual-aquarium.json) |
 | Fish Upon a Star | 112287 | [112287-fish-upon-a-star.json](./112287-fish-upon-a-star.json) |
 | Fish Volleyball | 235178 | [235178-fish-volleyball.json](./235178-fish-volleyball.json) |
@@ -9129,11 +9122,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Simulator 2d | 223935 | [223935-flight-simulator-2d.json](./223935-flight-simulator-2d.json) |
 | Flight Simulator Airplane Game | 261914 | [261914-flight-simulator-airplane-game.json](./261914-flight-simulator-airplane-game.json) |
 | Flight Simulator Delivery: Cargo Business | 309633 | [309633-flight-simulator-delivery-cargo-business.json](./309633-flight-simulator-delivery-cargo-business.json) |
-| Flight Simulator FlyWings Online 2014 | 88495 | [88495-flight-simulator-flywings-online-2014.json](./88495-flight-simulator-flywings-online-2014.json) |
 | Flight Simulator II | 15221 | [15221-flight-simulator-ii.json](./15221-flight-simulator-ii.json) |
 | Flight Simulator Pro 2024 | 315896 | [315896-flight-simulator-pro-2024.json](./315896-flight-simulator-pro-2024.json) |
 | Flight Simulator With Torpedo Attack | 41751 | [41751-flight-simulator-with-torpedo-attack.json](./41751-flight-simulator-with-torpedo-attack.json) |
-| Flight Simulator Xtreme | 88109 | [88109-flight-simulator-xtreme.json](./88109-flight-simulator-xtreme.json) |
 | Flight Simulator: VR | 30047 | [30047-flight-simulator-vr.json](./30047-flight-simulator-vr.json) |
 | Flight Squadron | 69887 | [69887-flight-squadron.json](./69887-flight-squadron.json) |
 | Flight Time | 347681 | [347681-flight-time.json](./347681-flight-time.json) |
@@ -9220,7 +9211,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip It 2 | 254698 | [254698-flip-it-2.json](./254698-flip-it-2.json) |
 | Flip Joy | 258247 | [258247-flip-joy.json](./258247-flip-joy.json) |
 | Flip Man! | 119253 | [119253-flip-man.json](./119253-flip-man.json) |
-| Flip Master | 88757 | [88757-flip-master.json](./88757-flip-master.json) |
 | Flip Maze | 137589 | [137589-flip-maze.json](./137589-flip-maze.json) |
 | Flip Me Not | 405008 | [405008-flip-me-not.json](./405008-flip-me-not.json) |
 | Flip n Fry | 181619 | [181619-flip-n-fry.json](./181619-flip-n-fry.json) |
@@ -11687,7 +11677,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Myths CCG | 36302 | [36302-forgotten-myths-ccg.json](./36302-forgotten-myths-ccg.json) |
 | Forgotten Passages | 127164 | [127164-forgotten-passages.json](./127164-forgotten-passages.json) |
 | Forgotten Paths | 336859 | [336859-forgotten-paths.json](./336859-forgotten-paths.json) |
-| Forgotten Places: Lost Circus | 88549 | [88549-forgotten-places-lost-circus.json](./88549-forgotten-places-lost-circus.json) |
 | Forgotten Places: Regained Castle | 81630 | [81630-forgotten-places-regained-castle.json](./81630-forgotten-places-regained-castle.json) |
 | Forgotten Playland | 300569 | [300569-forgotten-playland.json](./300569-forgotten-playland.json) |
 | Forgotten Playland: Party Edition | 392803 | [392803-forgotten-playland-party-edition.json](./392803-forgotten-playland-party-edition.json) |
@@ -13594,7 +13583,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCell Classic | 90878 | [90878-freecell-classic.json](./90878-freecell-classic.json) |
 | FreeCell Pro | 131132 | [131132-freecell-pro.json](./131132-freecell-pro.json) |
 | FreeCell Quest | 35409 | [35409-freecell-quest.json](./35409-freecell-quest.json) |
-| FreeCell Solitaire - Classic Deck Card Games | 88365 | [88365-freecell-solitaire-classic-deck-card-games.json](./88365-freecell-solitaire-classic-deck-card-games.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
 | FreeCell Solitaire Collection | 148324 | [148324-freecell-solitaire-collection.json](./148324-freecell-solitaire-collection.json) |
 | Freecell Solitaire Cube | 80325 | [80325-freecell-solitaire-cube.json](./80325-freecell-solitaire-cube.json) |
