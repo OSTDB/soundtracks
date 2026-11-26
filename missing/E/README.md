@@ -1984,7 +1984,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt Series: The Prophecy - Part 2 | 88830 | [88830-egypt-series-the-prophecy-part-2.json](./88830-egypt-series-the-prophecy-part-2.json) |
 | Egypt Series: The Prophecy - Part 3 | 98905 | [98905-egypt-series-the-prophecy-part-3.json](./98905-egypt-series-the-prophecy-part-3.json) |
 | Egypt Solitaire: Match 2 Cards | 127237 | [127237-egypt-solitaire-match-2-cards.json](./127237-egypt-solitaire-match-2-cards.json) |
-| Egypt Solitaire. Match 2 Cards. Card Game | 88601 | [88601-egypt-solitaire-match-2-cards-card-game.json](./88601-egypt-solitaire-match-2-cards-card-game.json) |
 | Egypt: Old Kingdom | 75230 | [75230-egypt-old-kingdom.json](./75230-egypt-old-kingdom.json) |
 | Egypt: Old Kingdom - Master of History | 124796 | [124796-egypt-old-kingdom-master-of-history.json](./124796-egypt-old-kingdom-master-of-history.json) |
 | Egypt: Secret of Five Gods | 294206 | [294206-egypt-secret-of-five-gods.json](./294206-egypt-secret-of-five-gods.json) |
@@ -7646,7 +7645,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EV Station Simulator | 326434 | [326434-ev-station-simulator.json](./326434-ev-station-simulator.json) |
 | Ev.io | 142732 | [142732-ev-io.json](./142732-ev-io.json) |
 | EV2: Earth Version 2 | 270893 | [270893-ev2-earth-version-2.json](./270893-ev2-earth-version-2.json) |
-| EV3 - Drag Racing | 88251 | [88251-ev3-drag-racing.json](./88251-ev3-drag-racing.json) |
 | Eva | 185099 | [185099-eva.json](./185099-eva.json) |
 | Eva | 272354 | [272354-eva.json](./272354-eva.json) |
 | Eva | 99864 | [99864-eva.json](./99864-eva.json) |
@@ -8888,7 +8886,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exist | 212488 | [212488-exist.json](./212488-exist.json) |
 | Exist | 277683 | [277683-exist.json](./277683-exist.json) |
 | Exist | 390693 | [390693-exist.json](./390693-exist.json) |
-| Exist | 88472 | [88472-exist.json](./88472-exist.json) |
 | Exist Archive: The Other Side of the Sky | 11540 | [11540-exist-archive-the-other-side-of-the-sky.json](./11540-exist-archive-the-other-side-of-the-sky.json) |
 | Exist.EXE | 194917 | [194917-exist-exe.json](./194917-exist-exe.json) |
 | Exista! | 317467 | [317467-exista.json](./317467-exista.json) |
@@ -9599,7 +9596,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Forklifting 2 | 32175 | [32175-extreme-forklifting-2.json](./32175-extreme-forklifting-2.json) |
 | Extreme Forklifting 3 | 352766 | [352766-extreme-forklifting-3.json](./352766-extreme-forklifting-3.json) |
 | Extreme Formula Championship | 101592 | [101592-extreme-formula-championship.json](./101592-extreme-formula-championship.json) |
-| Extreme Formula Championship 2015 | 88450 | [88450-extreme-formula-championship-2015.json](./88450-extreme-formula-championship-2015.json) |
 | Extreme Garage: Offroad | 395653 | [395653-extreme-garage-offroad.json](./395653-extreme-garage-offroad.json) |
 | Extreme Gear: Demolition Arena | 98172 | [98172-extreme-gear-demolition-arena.json](./98172-extreme-gear-demolition-arena.json) |
 | Extreme Ghostbusters | 8161 | [8161-extreme-ghostbusters.json](./8161-extreme-ghostbusters.json) |
