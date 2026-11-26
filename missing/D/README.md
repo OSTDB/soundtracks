@@ -822,7 +822,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Central: Gwen Stefani - "Hollaback Girl" | 353197 | [353197-dance-central-gwen-stefani-hollaback-girl.json](./353197-dance-central-gwen-stefani-hollaback-girl.json) |
 | Dance Central: Paula Abdul - "Straight Up" | 353198 | [353198-dance-central-paula-abdul-straight-up.json](./353198-dance-central-paula-abdul-straight-up.json) |
 | Dance Central: Rick James - "Super Freak" | 353195 | [353195-dance-central-rick-james-super-freak.json](./353195-dance-central-rick-james-super-freak.json) |
-| Dance Clash: Ballet vs Hip Hop | 89111 | [89111-dance-clash-ballet-vs-hip-hop.json](./89111-dance-clash-ballet-vs-hip-hop.json) |
 | Dance Cube | 277186 | [277186-dance-cube.json](./277186-dance-cube.json) |
 | Dance Dance Girl | 121148 | [121148-dance-dance-girl.json](./121148-dance-dance-girl.json) |
 | Dance Dance Incremental | 431291 | [431291-dance-dance-incremental.json](./431291-dance-dance-incremental.json) |
@@ -2436,7 +2435,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Dungeon: Ancestral Edition | 52836 | [52836-darkest-dungeon-ancestral-edition.json](./52836-darkest-dungeon-ancestral-edition.json) |
 | Darkest Dungeon: Collector's Edition | 136203 | [136203-darkest-dungeon-collectors-edition.json](./136203-darkest-dungeon-collectors-edition.json) |
 | Darkest Dungeon: Crimson Edition | 91323 | [91323-darkest-dungeon-crimson-edition.json](./91323-darkest-dungeon-crimson-edition.json) |
-| Darkest Dungeon: Tablet Edition | 88956 | [88956-darkest-dungeon-tablet-edition.json](./88956-darkest-dungeon-tablet-edition.json) |
 | Darkest Dungeon: The Butcher's Circus | 172134 | [172134-darkest-dungeon-the-butchers-circus.json](./172134-darkest-dungeon-the-butchers-circus.json) |
 | Darkest Dungeon: The Color of Madness | 76740 | [76740-darkest-dungeon-the-color-of-madness.json](./76740-darkest-dungeon-the-color-of-madness.json) |
 | Darkest Dungeon: The Crimson Court | 25651 | [25651-darkest-dungeon-the-crimson-court.json](./25651-darkest-dungeon-the-crimson-court.json) |
@@ -4846,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Premonition 2: A Blessing in Disguise | 122232 | [122232-deadly-premonition-2-a-blessing-in-disguise.json](./122232-deadly-premonition-2-a-blessing-in-disguise.json) |
 | Deadly Premonition Origins | 122234 | [122234-deadly-premonition-origins.json](./122234-deadly-premonition-origins.json) |
 | Deadly Premonition Origins: Collector's Edition | 136050 | [136050-deadly-premonition-origins-collectors-edition.json](./136050-deadly-premonition-origins-collectors-edition.json) |
+| Deadly Premonition Recompilation | 408353 | [408353-deadly-premonition-recompilation.json](./408353-deadly-premonition-recompilation.json) |
 | Deadly Premonition: Director's Cut | 9245 | [9245-deadly-premonition-directors-cut.json](./9245-deadly-premonition-directors-cut.json) |
 | Deadly Premonition: Director's Cut - Gold Edition | 118537 | [118537-deadly-premonition-directors-cut-gold-edition.json](./118537-deadly-premonition-directors-cut-gold-edition.json) |
 | Deadly Premonition: The Director's Cut - Classified Edition | 51538 | [51538-deadly-premonition-the-directors-cut-classified-edition.json](./51538-deadly-premonition-the-directors-cut-classified-edition.json) |
@@ -5882,7 +5881,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeckBuilder Village | 211703 | [211703-deckbuilder-village.json](./211703-deckbuilder-village.json) |
 | Deckception | 317308 | [317308-deckception.json](./317308-deckception.json) |
 | Decked Builder | 87450 | [87450-decked-builder.json](./87450-decked-builder.json) |
-| Decked Builder HD | 89002 | [89002-decked-builder-hd.json](./89002-decked-builder-hd.json) |
 | Decked in Love | 296886 | [296886-decked-in-love.json](./296886-decked-in-love.json) |
 | Decked Out | 408326 | [408326-decked-out.json](./408326-decked-out.json) |
 | DeckEleven's Railroads | 87687 | [87687-deckelevens-railroads.json](./87687-deckelevens-railroads.json) |
@@ -6561,7 +6559,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend It!: Machinegun | 311389 | [311389-defend-it-machinegun.json](./311389-defend-it-machinegun.json) |
 | Defend London | 104722 | [104722-defend-london.json](./104722-defend-london.json) |
 | Defend or Die | 12991 | [12991-defend-or-die.json](./12991-defend-or-die.json) |
-| Defend Pizzeria Craft Shop | 88978 | [88978-defend-pizzeria-craft-shop.json](./88978-defend-pizzeria-craft-shop.json) |
 | Defend the Base: Tower Turret Shooting Range | 278195 | [278195-defend-the-base-tower-turret-shooting-range.json](./278195-defend-the-base-tower-turret-shooting-range.json) |
 | Defend the Bits TD | 203957 | [203957-defend-the-bits-td.json](./203957-defend-the-bits-td.json) |
 | Defend the Cake | 55471 | [55471-defend-the-cake.json](./55471-defend-the-cake.json) |
@@ -7415,7 +7412,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Derby and Figure 8 Race | 61178 | [61178-demolition-derby-and-figure-8-race.json](./61178-demolition-derby-and-figure-8-race.json) |
 | Demolition Derby Multiplayer | 269087 | [269087-demolition-derby-multiplayer.json](./269087-demolition-derby-multiplayer.json) |
 | Demolition Derby Reloaded | 303219 | [303219-demolition-derby-reloaded.json](./303219-demolition-derby-reloaded.json) |
-| Demolition Derby: Arena of Death | 89193 | [89193-demolition-derby-arena-of-death.json](./89193-demolition-derby-arena-of-death.json) |
 | Demolition Division | 44354 | [44354-demolition-division.json](./44354-demolition-division.json) |
 | Demolition Dodge | 233114 | [233114-demolition-dodge.json](./233114-demolition-dodge.json) |
 | Demolition Dynasty | 430275 | [430275-demolition-dynasty.json](./430275-demolition-dynasty.json) |
@@ -8682,7 +8678,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperation | 147415 | [147415-desperation.json](./147415-desperation.json) |
 | Despertar | 398666 | [398666-despertar.json](./398666-despertar.json) |
 | Despicable Bear | 86852 | [86852-despicable-bear.json](./86852-despicable-bear.json) |
-| Despicable Bear - Top Games | 89142 | [89142-despicable-bear-top-games.json](./89142-despicable-bear-top-games.json) |
 | Despicable Boss | 344501 | [344501-despicable-boss.json](./344501-despicable-boss.json) |
 | Despicable Me: Minion Mania | 64383 | [64383-despicable-me-minion-mania.json](./64383-despicable-me-minion-mania.json) |
 | Despicable Me: Minion Rush | 39188 | [39188-despicable-me-minion-rush.json](./39188-despicable-me-minion-rush.json) |
@@ -10097,7 +10092,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice vs. Monsters | 184619 | [184619-dice-vs-monsters.json](./184619-dice-vs-monsters.json) |
 | Dice Warrior | 109846 | [109846-dice-warrior.json](./109846-dice-warrior.json) |
 | Dice Wars | 219918 | [219918-dice-wars.json](./219918-dice-wars.json) |
-| Dice With Buddies | 89010 | [89010-dice-with-buddies.json](./89010-dice-with-buddies.json) |
 | Dice With Death | 328406 | [328406-dice-with-death.json](./328406-dice-with-death.json) |
 | Dice with the Devil: Rerolled | 333015 | [333015-dice-with-the-devil-rerolled.json](./333015-dice-with-the-devil-rerolled.json) |
 | Dice World | 250832 | [250832-dice-world.json](./250832-dice-world.json) |
@@ -10940,7 +10934,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension M: Evolver | 70012 | [70012-dimension-m-evolver.json](./70012-dimension-m-evolver.json) |
 | Dimension of Dreams | 155881 | [155881-dimension-of-dreams.json](./155881-dimension-of-dreams.json) |
 | Dimension of Gameth | 110722 | [110722-dimension-of-gameth.json](./110722-dimension-of-gameth.json) |
-| Dimension of Monster Girls | 89608 | [89608-dimension-of-monster-girls.json](./89608-dimension-of-monster-girls.json) |
 | Dimension of the Boomed | 251546 | [251546-dimension-of-the-boomed.json](./251546-dimension-of-the-boomed.json) |
 | Dimension of the Diminished | 271723 | [271723-dimension-of-the-diminished.json](./271723-dimension-of-the-diminished.json) |
 | Dimension of the Doomed | 271531 | [271531-dimension-of-the-doomed.json](./271531-dimension-of-the-doomed.json) |
@@ -11369,7 +11362,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Fossil Hunter | 102176 | [102176-dinosaur-fossil-hunter.json](./102176-dinosaur-fossil-hunter.json) |
 | Dinosaur Fossil Puzzles | 163168 | [163168-dinosaur-fossil-puzzles.json](./163168-dinosaur-fossil-puzzles.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
-| Dinosaur Games: Puzzle for Kids & Toddlers | 88936 | [88936-dinosaur-games-puzzle-for-kids-and-toddlers.json](./88936-dinosaur-games-puzzle-for-kids-and-toddlers.json) |
 | Dinosaur Hunt | 34491 | [34491-dinosaur-hunt.json](./34491-dinosaur-hunt.json) |
 | Dinosaur Hunt First Blood | 51975 | [51975-dinosaur-hunt-first-blood.json](./51975-dinosaur-hunt-first-blood.json) |
 | Dinosaur Hunt Puzzle | 103645 | [103645-dinosaur-hunt-puzzle.json](./103645-dinosaur-hunt-puzzle.json) |
@@ -11818,6 +11810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Station 98 #00 | 266336 | [266336-disc-station-98-00.json](./266336-disc-station-98-00.json) |
 | Disc Station 98 #1 | 266404 | [266404-disc-station-98-1.json](./266404-disc-station-98-1.json) |
 | Disc Station 98 #2 | 336602 | [336602-disc-station-98-2.json](./336602-disc-station-98-2.json) |
+| Disc Station Bessatsu: I Miss You. | 387463 | [387463-disc-station-bessatsu-i-miss-you.json](./387463-disc-station-bessatsu-i-miss-you.json) |
 | Disc Station MSX #01 | 266403 | [266403-disc-station-msx-01.json](./266403-disc-station-msx-01.json) |
 | Disc Station MSX #02 | 266406 | [266406-disc-station-msx-02.json](./266406-disc-station-msx-02.json) |
 | Disc Station MSX #03 | 266408 | [266408-disc-station-msx-03.json](./266408-disc-station-msx-03.json) |
@@ -13654,7 +13647,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Agility 3D | 175506 | [175506-dog-agility-3d.json](./175506-dog-agility-3d.json) |
 | Dog and Bone Are Friends | 60455 | [60455-dog-and-bone-are-friends.json](./60455-dog-and-bone-are-friends.json) |
 | Dog And Goblin | 275748 | [275748-dog-and-goblin.json](./275748-dog-and-goblin.json) |
-| Dog Beauty Salon | 89058 | [89058-dog-beauty-salon.json](./89058-dog-beauty-salon.json) |
 | Dog Brew | 292170 | [292170-dog-brew.json](./292170-dog-brew.json) |
 | Dog Cafe Tycoon | 226771 | [226771-dog-cafe-tycoon.json](./226771-dog-cafe-tycoon.json) |
 | Dog Chaos | 397732 | [397732-dog-chaos.json](./397732-dog-chaos.json) |
@@ -13781,7 +13773,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggerfall | 236883 | [236883-doggerfall.json](./236883-doggerfall.json) |
 | Doggest Dungeon | 125767 | [125767-doggest-dungeon.json](./125767-doggest-dungeon.json) |
 | Doggie Blues 3D | 264472 | [264472-doggie-blues-3d.json](./264472-doggie-blues-3d.json) |
-| Doggie Dash | 89062 | [89062-doggie-dash.json](./89062-doggie-dash.json) |
 | Doggie Daycare | 25445 | [25445-doggie-daycare.json](./25445-doggie-daycare.json) |
 | Doggie Ninja: The Burning Strikers | 147785 | [147785-doggie-ninja-the-burning-strikers.json](./147785-doggie-ninja-the-burning-strikers.json) |
 | Doggie Ninja: The Golden Mission | 117937 | [117937-doggie-ninja-the-golden-mission.json](./117937-doggie-ninja-the-golden-mission.json) |
@@ -14343,7 +14334,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Fever | 383615 | [383615-domino-fever.json](./383615-domino-fever.json) |
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
 | Domino for iPad | 103086 | [103086-domino-for-ipad.json](./103086-domino-for-ipad.json) |
-| Domino for Mac | 89150 | [89150-domino-for-mac.json](./89150-domino-for-mac.json) |
 | Domino Go | 220234 | [220234-domino-go.json](./220234-domino-go.json) |
 | Dominó Gótico | 417212 | [417212-domino-gotico.json](./417212-domino-gotico.json) |
 | Domino House | 138414 | [138414-domino-house.json](./138414-domino-house.json) |
@@ -15619,6 +15609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors Push or Pull | 101349 | [101349-doors-push-or-pull.json](./101349-doors-push-or-pull.json) |
 | Doors Quest Demo | 101593 | [101593-doors-quest-demo.json](./101593-doors-quest-demo.json) |
 | Doors to the City | 103801 | [103801-doors-to-the-city.json](./103801-doors-to-the-city.json) |
+| Doors-3DS | 411944 | [411944-doors-3ds.json](./411944-doors-3ds.json) |
 | Doors: Awakening | 132014 | [132014-doors-awakening.json](./132014-doors-awakening.json) |
 | Doors: Haunted Tales of Lantern House | 337769 | [337769-doors-haunted-tales-of-lantern-house.json](./337769-doors-haunted-tales-of-lantern-house.json) |
 | Doors: Origins | 202396 | [202396-doors-origins.json](./202396-doors-origins.json) |
@@ -15969,6 +15960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotchidabe | 385328 | [385328-dotchidabe.json](./385328-dotchidabe.json) |
 | Dotcolor - Color flow number | 98748 | [98748-dotcolor-color-flow-number.json](./98748-dotcolor-color-flow-number.json) |
 | Dotcom (.com) | 59515 | [59515-dotcom-com.json](./59515-dotcom-com.json) |
+| DotCraft | 415201 | [415201-dotcraft.json](./415201-dotcraft.json) |
 | Dotcraft. | 106770 | [106770-dotcraft.json](./106770-dotcraft.json) |
 | DotDot | 253971 | [253971-dotdot.json](./253971-dotdot.json) |
 | DoTeam | 223205 | [223205-doteam.json](./223205-doteam.json) |
@@ -16331,6 +16323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doukyuu Re-Mix Billiard Multiple | 286489 | [286489-doukyuu-re-mix-billiard-multiple.json](./286489-doukyuu-re-mix-billiard-multiple.json) |
 | Doukyuu-sei | 59997 | [59997-doukyuu-sei.json](./59997-doukyuu-sei.json) |
 | Doukyuusei 2 | 38260 | [38260-doukyuusei-2.json](./38260-doukyuusei-2.json) |
+| Doukyuusei 2: Winter Heat | 411729 | [411729-doukyuusei-2-winter-heat.json](./411729-doukyuusei-2-winter-heat.json) |
 | Doukyuusei Classmates | 41993 | [41993-doukyuusei-classmates.json](./41993-doukyuusei-classmates.json) |
 | Doukyuusei Mahjong | 419252 | [419252-doukyuusei-mahjong.json](./419252-doukyuusei-mahjong.json) |
 | Doula Continent: Awakening Soul | 193929 | [193929-doula-continent-awakening-soul.json](./193929-doula-continent-awakening-soul.json) |
@@ -16649,6 +16642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Muto | 248455 | [248455-dr-muto.json](./248455-dr-muto.json) |
 | Dr. Muto | 3895 | [3895-dr-muto.json](./3895-dr-muto.json) |
 | Dr. Neo Cortex: Inventor's Madness | 314661 | [314661-dr-neo-cortex-inventors-madness.json](./314661-dr-neo-cortex-inventors-madness.json) |
+| Dr. Nonogram | 416463 | [416463-dr-nonogram.json](./416463-dr-nonogram.json) |
 | Dr. Oil | 150458 | [150458-dr-oil.json](./150458-dr-oil.json) |
 | Dr. Oops! | 402421 | [402421-dr-oops.json](./402421-dr-oops.json) |
 | Dr. P | 278398 | [278398-dr-p.json](./278398-dr-p.json) |
@@ -16849,7 +16843,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft | 133704 | [133704-draft.json](./133704-draft.json) |
 | Draft Day Sports College Basketball 3 | 34174 | [34174-draft-day-sports-college-basketball-3.json](./34174-draft-day-sports-college-basketball-3.json) |
 | Draft Day Sports: College Basketball 2017 | 75338 | [75338-draft-day-sports-college-basketball-2017.json](./75338-draft-day-sports-college-basketball-2017.json) |
-| Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
 | Draft Day Sports: College Basketball 2020 | 131764 | [131764-draft-day-sports-college-basketball-2020.json](./131764-draft-day-sports-college-basketball-2020.json) |
 | Draft Day Sports: College Basketball 2021 | 137141 | [137141-draft-day-sports-college-basketball-2021.json](./137141-draft-day-sports-college-basketball-2021.json) |
 | Draft Day Sports: College Basketball 2022 | 191891 | [191891-draft-day-sports-college-basketball-2022.json](./191891-draft-day-sports-college-basketball-2022.json) |
@@ -18187,7 +18180,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw a Stickman: Epic 2 | 34433 | [34433-draw-a-stickman-epic-2.json](./34433-draw-a-stickman-epic-2.json) |
 | Draw a Stickman: Epic 2 - Drawn Below | 170600 | [170600-draw-a-stickman-epic-2-drawn-below.json](./170600-draw-a-stickman-epic-2-drawn-below.json) |
 | Draw a Stickman: Epic 3 | 132523 | [132523-draw-a-stickman-epic-3.json](./132523-draw-a-stickman-epic-3.json) |
-| Draw a Stickman: Epic HD | 89101 | [89101-draw-a-stickman-epic-hd.json](./89101-draw-a-stickman-epic-hd.json) |
 | Draw A Stickman: Episode 2 | 99999 | [99999-draw-a-stickman-episode-2.json](./99999-draw-a-stickman-episode-2.json) |
 | Draw Action: Freestyle Fight | 281241 | [281241-draw-action-freestyle-fight.json](./281241-draw-action-freestyle-fight.json) |
 | Draw and Color | 276130 | [276130-draw-and-color.json](./276130-draw-and-color.json) |
@@ -18544,7 +18536,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Day Wedding: Bella Italia | 202157 | [202157-dream-day-wedding-bella-italia.json](./202157-dream-day-wedding-bella-italia.json) |
 | Dream Day Wedding: Married in Manhattan | 202156 | [202156-dream-day-wedding-married-in-manhattan.json](./202156-dream-day-wedding-married-in-manhattan.json) |
 | Dream Day Wedding: Viva Las Vegas | 69118 | [69118-dream-day-wedding-viva-las-vegas.json](./69118-dream-day-wedding-viva-las-vegas.json) |
-| Dream Day: Bella Italia | 89231 | [89231-dream-day-bella-italia.json](./89231-dream-day-bella-italia.json) |
 | Dream Day: First Home | 209171 | [209171-dream-day-first-home.json](./209171-dream-day-first-home.json) |
 | Dream Day: Honeymoon | 209172 | [209172-dream-day-honeymoon.json](./209172-dream-day-honeymoon.json) |
 | Dream Day: True Love | 88458 | [88458-dream-day-true-love.json](./88458-dream-day-true-love.json) |
@@ -18744,7 +18735,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Solutions | 121889 | [121889-dream-solutions.json](./121889-dream-solutions.json) |
 | Dream Sports Platform | 291793 | [291793-dream-sports-platform.json](./291793-dream-sports-platform.json) |
 | Dream Square: Hinagata Akiko | 216418 | [216418-dream-square-hinagata-akiko.json](./216418-dream-square-hinagata-akiko.json) |
-| Dream Star | 89034 | [89034-dream-star.json](./89034-dream-star.json) |
 | Dream Station | 318820 | [318820-dream-station.json](./318820-dream-station.json) |
 | Dream Stone | 29291 | [29291-dream-stone.json](./29291-dream-stone.json) |
 | Dream Stone 2 | 155292 | [155292-dream-stone-2.json](./155292-dream-stone-2.json) |
@@ -18925,6 +18915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland | 224322 | [224322-dreamland.json](./224322-dreamland.json) |
 | Dreamland | 274535 | [274535-dreamland.json](./274535-dreamland.json) |
 | Dreamland | 349196 | [349196-dreamland.json](./349196-dreamland.json) |
+| Dreamland | 416556 | [416556-dreamland.json](./416556-dreamland.json) |
 | Dreamland | 54592 | [54592-dreamland.json](./54592-dreamland.json) |
 | DreamLand | 32173 | [32173-dreamland.json](./32173-dreamland.json) |
 | Dreamland Arcade | 310572 | [310572-dreamland-arcade.json](./310572-dreamland-arcade.json) |
@@ -19622,7 +19613,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving World: Nordic Challenge | 147750 | [147750-driving-world-nordic-challenge.json](./147750-driving-world-nordic-challenge.json) |
 | Driving Zone 2 | 100860 | [100860-driving-zone-2.json](./100860-driving-zone-2.json) |
 | Driving Zone 2 | 89735 | [89735-driving-zone-2.json](./89735-driving-zone-2.json) |
-| Driving Zone: Germany | 89287 | [89287-driving-zone-germany.json](./89287-driving-zone-germany.json) |
 | Driving Zone: Japan | 174857 | [174857-driving-zone-japan.json](./174857-driving-zone-japan.json) |
 | Drivinity | 184263 | [184263-drivinity.json](./184263-drivinity.json) |
 | Drivionline | 401856 | [401856-drivionline.json](./401856-drivionline.json) |
@@ -20410,7 +20400,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Life 9: The Flock | 253309 | [253309-duck-life-9-the-flock.json](./253309-duck-life-9-the-flock.json) |
 | Duck Life Adventure | 140883 | [140883-duck-life-adventure.json](./140883-duck-life-adventure.json) |
 | Duck Life: Battle | 106824 | [106824-duck-life-battle.json](./106824-duck-life-battle.json) |
-| Duck Life: Retro Pack | 88969 | [88969-duck-life-retro-pack.json](./88969-duck-life-retro-pack.json) |
 | Duck Life: Space | 29177 | [29177-duck-life-space.json](./29177-duck-life-space.json) |
 | Duck Man | 137848 | [137848-duck-man.json](./137848-duck-man.json) |
 | Duck Man | 287447 | [287447-duck-man.json](./287447-duck-man.json) |
