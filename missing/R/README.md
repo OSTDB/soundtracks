@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race on Ice 2020 Pro | 237787 | [237787-race-on-ice-2020-pro.json](./237787-race-on-ice-2020-pro.json) |
 | Race on Ice 2021 Pro | 237786 | [237786-race-on-ice-2021-pro.json](./237786-race-on-ice-2021-pro.json) |
 | Race on Ice 2022 Pro | 237785 | [237785-race-on-ice-2022-pro.json](./237785-race-on-ice-2022-pro.json) |
+| Race on Stream! | 431228 | [431228-race-on-stream.json](./431228-race-on-stream.json) |
 | Race Online | 35637 | [35637-race-online.json](./35637-race-online.json) |
 | Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
 | Race Pro | 256136 | [256136-race-pro.json](./256136-race-pro.json) |
@@ -986,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Parking Simulator 2016 | 26955 | [26955-rage-parking-simulator-2016.json](./26955-rage-parking-simulator-2016.json) |
 | Rage Parking Simulator 2017 | 37430 | [37430-rage-parking-simulator-2017.json](./37430-rage-parking-simulator-2017.json) |
 | Rage Pig | 32745 | [32745-rage-pig.json](./32745-rage-pig.json) |
+| Rage Pit | 431503 | [431503-rage-pit.json](./431503-rage-pit.json) |
 | Rage Punk | 210545 | [210545-rage-punk.json](./210545-rage-punk.json) |
 | Rage Quest | 75052 | [75052-rage-quest.json](./75052-rage-quest.json) |
 | Rage Quest: The Worst Game | 81254 | [81254-rage-quest-the-worst-game.json](./81254-rage-quest-the-worst-game.json) |
@@ -13121,6 +13123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Round 42 | 70005 | [70005-round-42.json](./70005-round-42.json) |
 | Round 99 | 140300 | [140300-round-99.json](./140300-round-99.json) |
 | Round About | 25858 | [25858-round-about.json](./25858-round-about.json) |
+| Round and Round Inc. | 431232 | [431232-round-and-round-inc.json](./431232-round-and-round-inc.json) |
 | Round Invaders | 188143 | [188143-round-invaders.json](./188143-round-invaders.json) |
 | Round Invaders Red | 213231 | [213231-round-invaders-red.json](./213231-round-invaders-red.json) |
 | Round Invaders Rush | 209918 | [209918-round-invaders-rush.json](./209918-round-invaders-rush.json) |
@@ -13799,6 +13802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League 18 | 90724 | [90724-rugby-league-18.json](./90724-rugby-league-18.json) |
 | Rugby League 2 | 6022 | [6022-rugby-league-2.json](./6022-rugby-league-2.json) |
 | Rugby League 26 | 355082 | [355082-rugby-league-26.json](./355082-rugby-league-26.json) |
+| Rugby League 3 | 23364 | [23364-rugby-league-3.json](./23364-rugby-league-3.json) |
 | Rugby League Challenge | 77134 | [77134-rugby-league-challenge.json](./77134-rugby-league-challenge.json) |
 | Rugby League Live | 41586 | [41586-rugby-league-live.json](./41586-rugby-league-live.json) |
 | Rugby League Live 2 | 41585 | [41585-rugby-league-live-2.json](./41585-rugby-league-live-2.json) |
