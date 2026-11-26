@@ -2611,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravengrave: Iron Bonds | 335113 | [335113-ravengrave-iron-bonds.json](./335113-ravengrave-iron-bonds.json) |
 | Ravenhaul | 249470 | [249470-ravenhaul.json](./249470-ravenhaul.json) |
 | RavenHeart Hospital: A Medical Visual Novel | 165009 | [165009-ravenheart-hospital-a-medical-visual-novel.json](./165009-ravenheart-hospital-a-medical-visual-novel.json) |
+| Ravenhill: Initiation | 431056 | [431056-ravenhill-initiation.json](./431056-ravenhill-initiation.json) |
 | Ravenholm | 319744 | [319744-ravenholm.json](./319744-ravenholm.json) |
 | Ravenix: The Card Master | 139337 | [139337-ravenix-the-card-master.json](./139337-ravenix-the-card-master.json) |
 | Ravenloft: Stone Prophet | 2504 | [2504-ravenloft-stone-prophet.json](./2504-ravenloft-stone-prophet.json) |
@@ -9956,6 +9957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roam Survival | 215728 | [215728-roam-survival.json](./215728-roam-survival.json) |
 | ROAM: Wild Horse Simulator | 326365 | [326365-roam-wild-horse-simulator.json](./326365-roam-wild-horse-simulator.json) |
 | Roamaor | 249314 | [249314-roamaor.json](./249314-roamaor.json) |
+| Roamer | 431095 | [431095-roamer.json](./431095-roamer.json) |
 | Roaming Backrooms | 265156 | [265156-roaming-backrooms.json](./265156-roaming-backrooms.json) |
 | Roaming Fortress | 17841 | [17841-roaming-fortress.json](./17841-roaming-fortress.json) |
 | Roaming the Stars | 196970 | [196970-roaming-the-stars.json](./196970-roaming-the-stars.json) |
