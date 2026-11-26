@@ -4830,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penniless Chef | 384145 | [384145-penniless-chef.json](./384145-penniless-chef.json) |
 | Penning: The Tropical Penguin | 61904 | [61904-penning-the-tropical-penguin.json](./61904-penning-the-tropical-penguin.json) |
 | Pennon and Battle | 305919 | [305919-pennon-and-battle.json](./305919-pennon-and-battle.json) |
+| Penny Acres | 431491 | [431491-penny-acres.json](./431491-penny-acres.json) |
 | Penny Arcade Adventures: On the Rain-Slick | 144932 | [144932-penny-arcade-adventures-on-the-rain-slick.json](./144932-penny-arcade-adventures-on-the-rain-slick.json) |
 | Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness - Episode One | 14979 | [14979-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-one.json](./14979-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-one.json) |
 | Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness - Episode Two | 14917 | [14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json](./14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json) |
@@ -7323,6 +7324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieces of the Past | 293042 | [293042-pieces-of-the-past.json](./293042-pieces-of-the-past.json) |
 | Pieces to Find | 363130 | [363130-pieces-to-find.json](./363130-pieces-to-find.json) |
 | Pieces: Wataridori no Somnium | 194527 | [194527-pieces-wataridori-no-somnium.json](./194527-pieces-wataridori-no-somnium.json) |
+| Pieces: Wataridori no Somnium | 431374 | [431374-pieces-wataridori-no-somnium.json](./431374-pieces-wataridori-no-somnium.json) |
 | Pieces: Yurikago no Canaria | 194528 | [194528-pieces-yurikago-no-canaria.json](./194528-pieces-yurikago-no-canaria.json) |
 | PieceWars | 205735 | [205735-piecewars.json](./205735-piecewars.json) |
 | Piecewise!: A Daily Puzzle Game! | 404593 | [404593-piecewise-a-daily-puzzle-game.json](./404593-piecewise-a-daily-puzzle-game.json) |
@@ -8859,6 +8861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Storm | 23531 | [23531-pirate-storm.json](./23531-pirate-storm.json) |
 | Pirate Story | 163838 | [163838-pirate-story.json](./163838-pirate-story.json) |
 | Pirate Survivors | 341573 | [341573-pirate-survivors.json](./341573-pirate-survivors.json) |
+| Pirate Tide | 431270 | [431270-pirate-tide.json](./431270-pirate-tide.json) |
 | Pirate Trails | 333525 | [333525-pirate-trails.json](./333525-pirate-trails.json) |
 | Pirate Trails: Tentacles and Treasures | 349585 | [349585-pirate-trails-tentacles-and-treasures.json](./349585-pirate-trails-tentacles-and-treasures.json) |
 | Pirate Treasure | 201879 | [201879-pirate-treasure.json](./201879-pirate-treasure.json) |
@@ -17240,6 +17243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PrisonShow | 157827 | [157827-prisonshow.json](./157827-prisonshow.json) |
 | PrisonSoul: Reunion | 296456 | [296456-prisonsoul-reunion.json](./296456-prisonsoul-reunion.json) |
 | Prisseceal, the Dazzling-and-Flaring Peach Princess | 236277 | [236277-prisseceal-the-dazzling-and-flaring-peach-princess.json](./236277-prisseceal-the-dazzling-and-flaring-peach-princess.json) |
+| Pristine world | 32978 | [32978-pristine-world.json](./32978-pristine-world.json) |
 | Pristine World: Deluxe Edition | 53474 | [53474-pristine-world-deluxe-edition.json](./53474-pristine-world-deluxe-edition.json) |
 | Pristiq: Tash's Trilogy | 169260 | [169260-pristiq-tashs-trilogy.json](./169260-pristiq-tashs-trilogy.json) |
 | Priston Tale M | 215839 | [215839-priston-tale-m.json](./215839-priston-tale-m.json) |
@@ -19226,6 +19230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect Zoey from the Zombies | 98595 | [98595-protect-zoey-from-the-zombies.json](./98595-protect-zoey-from-the-zombies.json) |
 | ProtectHeart | 286036 | [286036-protectheart.json](./286036-protectheart.json) |
 | Protecting Santa | 192986 | [192986-protecting-santa.json](./192986-protecting-santa.json) |
+| Protecting Seagrass | 431417 | [431417-protecting-seagrass.json](./431417-protecting-seagrass.json) |
 | Protecting the Base | 266463 | [266463-protecting-the-base.json](./266463-protecting-the-base.json) |
 | Protecting the Diamond | 394369 | [394369-protecting-the-diamond.json](./394369-protecting-the-diamond.json) |
 | Protection Civile Simulator 2013 | 50822 | [50822-protection-civile-simulator-2013.json](./50822-protection-civile-simulator-2013.json) |
