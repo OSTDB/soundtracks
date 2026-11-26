@@ -8315,6 +8315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
 | Women's Murder Club: Twice in a Blue Moon | 64713 | [64713-womens-murder-club-twice-in-a-blue-moon.json](./64713-womens-murder-club-twice-in-a-blue-moon.json) |
 | Women's Prison | 163033 | [163033-womens-prison.json](./163033-womens-prison.json) |
+| Women's Prison Simulator: Tycoon Game | 424069 | [424069-womens-prison-simulator-tycoon-game.json](./424069-womens-prison-simulator-tycoon-game.json) |
 | Women's Quiz | 152880 | [152880-womens-quiz.json](./152880-womens-quiz.json) |
 | Women's School Simulator 2020 | 299898 | [299898-womens-school-simulator-2020.json](./299898-womens-school-simulator-2020.json) |
 | Women's School Simulator 2022 | 299900 | [299900-womens-school-simulator-2022.json](./299900-womens-school-simulator-2022.json) |
@@ -10542,6 +10543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreck Below | 422002 | [422002-wreck-below.json](./422002-wreck-below.json) |
 | Wreck it! VR | 235960 | [235960-wreck-it-vr.json](./235960-wreck-it-vr.json) |
 | Wreck League | 275240 | [275240-wreck-league.json](./275240-wreck-league.json) |
+| Wreck of the Narwhal | 421434 | [421434-wreck-of-the-narwhal.json](./421434-wreck-of-the-narwhal.json) |
 | Wreck Poly Survival | 427595 | [427595-wreck-poly-survival.json](./427595-wreck-poly-survival.json) |
 | Wreck Race | 194192 | [194192-wreck-race.json](./194192-wreck-race.json) |
 | Wreck Runners | 395285 | [395285-wreck-runners.json](./395285-wreck-runners.json) |
@@ -10767,6 +10769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wu Confucian Painting Volume: Apocalypse | 369722 | [369722-wu-confucian-painting-volume-apocalypse.json](./369722-wu-confucian-painting-volume-apocalypse.json) |
 | Wu Shi Hun | 223020 | [223020-wu-shi-hun.json](./223020-wu-shi-hun.json) |
 | Wu Xing Chess | 364591 | [364591-wu-xing-chess.json](./364591-wu-xing-chess.json) |
+| Wú zhī Bànshēn Nǎi Chúnbái Èmó | 423524 | [423524-wu-zhi-banshen-nai-chunbai-emo.json](./423524-wu-zhi-banshen-nai-chunbai-emo.json) |
 | Wu-Tang: Rise of the Deceiver | 347666 | [347666-wu-tang-rise-of-the-deceiver.json](./347666-wu-tang-rise-of-the-deceiver.json) |
 | Wu-Tang: Shaolin Style | 18300 | [18300-wu-tang-shaolin-style.json](./18300-wu-tang-shaolin-style.json) |
 | Wub-Wub Wescue | 330162 | [330162-wub-wub-wescue.json](./330162-wub-wub-wescue.json) |
