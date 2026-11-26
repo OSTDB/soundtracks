@@ -7146,6 +7146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little One | 399702 | [399702-little-one.json](./399702-little-one.json) |
 | Little Otter's Fishing Life | 386944 | [386944-little-otters-fishing-life.json](./386944-little-otters-fishing-life.json) |
 | Little Packaging Crew | 149257 | [149257-little-packaging-crew.json](./149257-little-packaging-crew.json) |
+| Little Pagan Land | 429857 | [429857-little-pagan-land.json](./429857-little-pagan-land.json) |
 | Little Panda Restaurant | 108177 | [108177-little-panda-restaurant.json](./108177-little-panda-restaurant.json) |
 | Little Panda: Dinosaur Care | 234441 | [234441-little-panda-dinosaur-care.json](./234441-little-panda-dinosaur-care.json) |
 | Little Panda's Camping Trip | 105963 | [105963-little-pandas-camping-trip.json](./105963-little-pandas-camping-trip.json) |
@@ -11002,6 +11003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludus Magnatus: Gladiator Manager Simulator | 390751 | [390751-ludus-magnatus-gladiator-manager-simulator.json](./390751-ludus-magnatus-gladiator-manager-simulator.json) |
 | Ludus Manager | 366747 | [366747-ludus-manager.json](./366747-ludus-manager.json) |
 | Ludus Mortis | 224699 | [224699-ludus-mortis.json](./224699-ludus-mortis.json) |
+| Ludus Saltuum | 430233 | [430233-ludus-saltuum.json](./430233-ludus-saltuum.json) |
 | Ludus Vetitus | 292766 | [292766-ludus-vetitus.json](./292766-ludus-vetitus.json) |
 | Ludus: A Gladiator Story | 411712 | [411712-ludus-a-gladiator-story.json](./411712-ludus-a-gladiator-story.json) |
 | Ludus: Merge Arena | 276340 | [276340-ludus-merge-arena.json](./276340-ludus-merge-arena.json) |
@@ -11210,6 +11212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumenfall | 428572 | [428572-lumenfall.json](./428572-lumenfall.json) |
 | Lumenile: Found Footage | 274313 | [274313-lumenile-found-footage.json](./274313-lumenile-found-footage.json) |
 | LumenTale: Memories of Trey | 231484 | [231484-lumentale-memories-of-trey.json](./231484-lumentale-memories-of-trey.json) |
+| Lumenvale | 429895 | [429895-lumenvale.json](./429895-lumenvale.json) |
 | Lumeshift | 416061 | [416061-lumeshift.json](./416061-lumeshift.json) |
 | Lumexa | 151115 | [151115-lumexa.json](./151115-lumexa.json) |
 | Lumi | 66495 | [66495-lumi.json](./66495-lumi.json) |
