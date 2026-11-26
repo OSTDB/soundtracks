@@ -3374,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man vs Machine | 150062 | [150062-man-vs-machine.json](./150062-man-vs-machine.json) |
 | Man vs Verified | 58330 | [58330-man-vs-verified.json](./58330-man-vs-verified.json) |
 | Man vs. Fish | 324051 | [324051-man-vs-fish.json](./324051-man-vs-fish.json) |
+| Man vs. Gary | 430882 | [430882-man-vs-gary.json](./430882-man-vs-gary.json) |
 | Man Vs. Missiles | 83195 | [83195-man-vs-missiles.json](./83195-man-vs-missiles.json) |
 | Man vs. Wild With Bear Grylls | 4995 | [4995-man-vs-wild-with-bear-grylls.json](./4995-man-vs-wild-with-bear-grylls.json) |
 | Man Without Clothes Runner | 368469 | [368469-man-without-clothes-runner.json](./368469-man-without-clothes-runner.json) |
@@ -3393,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Cycle | 296970 | [296970-mana-cycle.json](./296970-mana-cycle.json) |
 | Mana Expel | 264747 | [264747-mana-expel.json](./264747-mana-expel.json) |
 | Mana Fortress | 244157 | [244157-mana-fortress.json](./244157-mana-fortress.json) |
+| Mana Fracture | 431026 | [431026-mana-fracture.json](./431026-mana-fracture.json) |
 | Mana Gloom | 142175 | [142175-mana-gloom.json](./142175-mana-gloom.json) |
 | Mana Go Round | 167814 | [167814-mana-go-round.json](./167814-mana-go-round.json) |
 | Mana Khemia 2: Fall of Alchemy | 24320 | [24320-mana-khemia-2-fall-of-alchemy.json](./24320-mana-khemia-2-fall-of-alchemy.json) |
@@ -18231,6 +18233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Force | 49390 | [49390-monster-force.json](./49390-monster-force.json) |
 | Monster Forest | 383949 | [383949-monster-forest.json](./383949-monster-forest.json) |
 | Monster Frenzy | 123360 | [123360-monster-frenzy.json](./123360-monster-frenzy.json) |
+| Monster Friends | 431086 | [431086-monster-friends.json](./431086-monster-friends.json) |
 | Monster Fruit Academy | 187864 | [187864-monster-fruit-academy.json](./187864-monster-fruit-academy.json) |
 | Monster Galaxy | 197943 | [197943-monster-galaxy.json](./197943-monster-galaxy.json) |
 | Monster Galaxy | 234952 | [234952-monster-galaxy.json](./234952-monster-galaxy.json) |
@@ -22688,6 +22691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Cats 2 | 131758 | [131758-mushroom-cats-2.json](./131758-mushroom-cats-2.json) |
 | Mushroom Challenge | 169755 | [169755-mushroom-challenge.json](./169755-mushroom-challenge.json) |
 | Mushroom Collection | 284609 | [284609-mushroom-collection.json](./284609-mushroom-collection.json) |
+| Mushroom Collector | 431076 | [431076-mushroom-collector.json](./431076-mushroom-collector.json) |
 | Mushroom Collector Simulator | 237147 | [237147-mushroom-collector-simulator.json](./237147-mushroom-collector-simulator.json) |
 | Mushroom Colors | 315380 | [315380-mushroom-colors.json](./315380-mushroom-colors.json) |
 | Mushroom Crusher Extreme | 32155 | [32155-mushroom-crusher-extreme.json](./32155-mushroom-crusher-extreme.json) |
