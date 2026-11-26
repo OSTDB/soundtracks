@@ -2600,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasted | 327744 | [327744-wasted.json](./327744-wasted.json) |
 | Wasted | 338393 | [338393-wasted.json](./338393-wasted.json) |
 | Wasted Bloodline | 338254 | [338254-wasted-bloodline.json](./338254-wasted-bloodline.json) |
+| Wasted Chef | 431016 | [431016-wasted-chef.json](./431016-wasted-chef.json) |
 | Wasted Dreams | 248837 | [248837-wasted-dreams.json](./248837-wasted-dreams.json) |
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
 | Wasted Pizza | 68594 | [68594-wasted-pizza.json](./68594-wasted-pizza.json) |
@@ -5430,6 +5431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Light Escape | 315591 | [315591-white-light-escape.json](./315591-white-light-escape.json) |
 | White Lilies Code | 279549 | [279549-white-lilies-code.json](./279549-white-lilies-code.json) |
 | White Lily 2: Waking up Girl | 150835 | [150835-white-lily-2-waking-up-girl.json](./150835-white-lily-2-waking-up-girl.json) |
+| White Line North: Dog Sled Racing | 431017 | [431017-white-line-north-dog-sled-racing.json](./431017-white-line-north-dog-sled-racing.json) |
 | White Magic | 261710 | [261710-white-magic.json](./261710-white-magic.json) |
 | White Magic 2 | 429555 | [429555-white-magic-2.json](./429555-white-magic-2.json) |
 | White Mask | 136487 | [136487-white-mask.json](./136487-white-mask.json) |
