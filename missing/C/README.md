@@ -6659,6 +6659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge Park | 80989 | [80989-challenge-park.json](./80989-challenge-park.json) |
 | Challenge Party | 149518 | [149518-challenge-party.json](./149518-challenge-party.json) |
 | Challenge ProMode Arena | 80048 | [80048-challenge-promode-arena.json](./80048-challenge-promode-arena.json) |
+| Challenge Racing | 431267 | [431267-challenge-racing.json](./431267-challenge-racing.json) |
 | Challenge Shot | 385555 | [385555-challenge-shot.json](./385555-challenge-shot.json) |
 | Challenge Speedball | 157029 | [157029-challenge-speedball.json](./157029-challenge-speedball.json) |
 | Challenge Together! Elementary School Quiz | 399620 | [399620-challenge-together-elementary-school-quiz.json](./399620-challenge-together-elementary-school-quiz.json) |
@@ -11648,6 +11649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claw | 2474 | [2474-claw.json](./2474-claw.json) |
 | Claw and Conjure | 409880 | [409880-claw-and-conjure.json](./409880-claw-and-conjure.json) |
 | Claw Arena | 172439 | [172439-claw-arena.json](./172439-claw-arena.json) |
+| Claw Below | 431466 | [431466-claw-below.json](./431466-claw-below.json) |
 | Claw Breaker | 105290 | [105290-claw-breaker.json](./105290-claw-breaker.json) |
 | Claw Clash: Cat vs. Dog Betting | 293974 | [293974-claw-clash-cat-vs-dog-betting.json](./293974-claw-clash-cat-vs-dog-betting.json) |
 | Claw Crane Company | 150411 | [150411-claw-crane-company.json](./150411-claw-crane-company.json) |
@@ -15507,6 +15509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comrades and Barons: Solitaire of Bloody 1919 | 84046 | [84046-comrades-and-barons-solitaire-of-bloody-1919.json](./84046-comrades-and-barons-solitaire-of-bloody-1919.json) |
 | Comune 0-41 | 400837 | [400837-comune-0-41.json](./400837-comune-0-41.json) |
 | Comuni Non Comuni | 299158 | [299158-comuni-non-comuni.json](./299158-comuni-non-comuni.json) |
+| Comunidad de Zombis | 431468 | [431468-comunidad-de-zombis.json](./431468-comunidad-de-zombis.json) |
 | Con 10 Sedi | 267163 | [267163-con-10-sedi.json](./267163-con-10-sedi.json) |
 | Con Amore | 32419 | [32419-con-amore.json](./32419-con-amore.json) |
 | Con Man: The Game | 76571 | [76571-con-man-the-game.json](./76571-con-man-the-game.json) |
@@ -15733,6 +15736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict: The Middle East Simulation | 14627 | [14627-conflict-the-middle-east-simulation.json](./14627-conflict-the-middle-east-simulation.json) |
 | ConflictCraft | 32255 | [32255-conflictcraft.json](./32255-conflictcraft.json) |
 | ConflictCraft 2 | 190087 | [190087-conflictcraft-2.json](./190087-conflictcraft-2.json) |
+| Conflicto Armado | 431484 | [431484-conflicto-armado.json](./431484-conflicto-armado.json) |
 | Confluence: An Of Sense and Soul Soliloquy | 338884 | [338884-confluence-an-of-sense-and-soul-soliloquy.json](./338884-confluence-an-of-sense-and-soul-soliloquy.json) |
 | Conflux | 235930 | [235930-conflux.json](./235930-conflux.json) |
 | Conflux | 245976 | [245976-conflux.json](./245976-conflux.json) |
@@ -19506,6 +19510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cross | 39340 | [39340-crazy-cross.json](./39340-crazy-cross.json) |
 | Crazy Crows | 385539 | [385539-crazy-crows.json](./385539-crazy-crows.json) |
 | Crazy Cruise | 387250 | [387250-crazy-cruise.json](./387250-crazy-cruise.json) |
+| Crazy Cube Adventure | 431265 | [431265-crazy-cube-adventure.json](./431265-crazy-cube-adventure.json) |
 | Crazy Cursed Grandma's House | 272393 | [272393-crazy-cursed-grandmas-house.json](./272393-crazy-cursed-grandmas-house.json) |
 | Crazy Defense Heroes | 95092 | [95092-crazy-defense-heroes.json](./95092-crazy-defense-heroes.json) |
 | Crazy Demolition Derby Car 2022 | 220827 | [220827-crazy-demolition-derby-car-2022.json](./220827-crazy-demolition-derby-car-2022.json) |
