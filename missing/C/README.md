@@ -7947,6 +7947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Opening Repertoire Builder | 297724 | [297724-chess-opening-repertoire-builder.json](./297724-chess-opening-repertoire-builder.json) |
 | Chess Openings Pro | 89020 | [89020-chess-openings-pro.json](./89020-chess-openings-pro.json) |
 | Chess or Die! | 105725 | [105725-chess-or-die.json](./105725-chess-or-die.json) |
+| Chess Pass and Play | 430871 | [430871-chess-pass-and-play.json](./430871-chess-pass-and-play.json) |
 | Chess Peace | 401021 | [401021-chess-peace.json](./401021-chess-peace.json) |
 | Chess Pills | 203931 | [203931-chess-pills.json](./203931-chess-pills.json) |
 | Chess Player 2150 | 70473 | [70473-chess-player-2150.json](./70473-chess-player-2150.json) |
@@ -7998,6 +7999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess-Studio | 90337 | [90337-chess-studio.json](./90337-chess-studio.json) |
 | Chess, but... | 211265 | [211265-chess-but.json](./211265-chess-but.json) |
 | Chess, Texas | 358999 | [358999-chess-texas.json](./358999-chess-texas.json) |
+| Chess: Apex | 431033 | [431033-chess-apex.json](./431033-chess-apex.json) |
 | Chess: Clash of Kings | 187475 | [187475-chess-clash-of-kings.json](./187475-chess-clash-of-kings.json) |
 | Chess: Secrets of the Grandmasters | 206967 | [206967-chess-secrets-of-the-grandmasters.json](./206967-chess-secrets-of-the-grandmasters.json) |
 | Chess: The Gathering | 50446 | [50446-chess-the-gathering.json](./50446-chess-the-gathering.json) |
@@ -12385,6 +12387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Your Eyes -Anniversary Remake- | 56654 | [56654-close-your-eyes-anniversary-remake.json](./56654-close-your-eyes-anniversary-remake.json) |
 | Close Your Eyes: The Twisted Puzzle | 163551 | [163551-close-your-eyes-the-twisted-puzzle.json](./163551-close-your-eyes-the-twisted-puzzle.json) |
 | CloseCall | 155991 | [155991-closecall.json](./155991-closecall.json) |
+| Closed Case | 431014 | [431014-closed-case.json](./431014-closed-case.json) |
 | Closed Circuit | 254175 | [254175-closed-circuit.json](./254175-closed-circuit.json) |
 | Closed Circuit Television | 378371 | [378371-closed-circuit-television.json](./378371-closed-circuit-television.json) |
 | Closed Faith | 317366 | [317366-closed-faith.json](./317366-closed-faith.json) |
@@ -23398,6 +23401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut | 202201 | [202201-cut.json](./202201-cut.json) |
 | Cut & Run | 113423 | [113423-cut-and-run.json](./113423-cut-and-run.json) |
 | Cut 2017 | 91411 | [91411-cut-2017.json](./91411-cut-2017.json) |
+| Cut and Dice | 430877 | [430877-cut-and-dice.json](./430877-cut-and-dice.json) |
 | Cut Around 3D | 219974 | [219974-cut-around-3d.json](./219974-cut-around-3d.json) |
 | Cut Cats' Balls | 410309 | [410309-cut-cats-balls.json](./410309-cut-cats-balls.json) |
 | Cut Choice | 234444 | [234444-cut-choice.json](./234444-cut-choice.json) |
