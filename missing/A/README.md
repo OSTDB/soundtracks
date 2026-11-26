@@ -129,7 +129,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Business Tycoon | 68025 | [68025-a-business-tycoon.json](./68025-a-business-tycoon.json) |
 | A Busty JK Teaches How to Do Petit Compensated Dating | 83168 | [83168-a-busty-jk-teaches-how-to-do-petit-compensated-dating.json](./83168-a-busty-jk-teaches-how-to-do-petit-compensated-dating.json) |
 | A Busty Student Council President and H Monsters | 82731 | [82731-a-busty-student-council-president-and-h-monsters.json](./82731-a-busty-student-council-president-and-h-monsters.json) |
-| A Busy Day for Elmo: Sesame Street Video Calls | 89000 | [89000-a-busy-day-for-elmo-sesame-street-video-calls.json](./89000-a-busy-day-for-elmo-sesame-street-video-calls.json) |
 | A Butterfly | 266400 | [266400-a-butterfly.json](./266400-a-butterfly.json) |
 | A Butterfly | 327294 | [327294-a-butterfly.json](./327294-a-butterfly.json) |
 | A Butterfly in the District of Dreams | 28914 | [28914-a-butterfly-in-the-district-of-dreams.json](./28914-a-butterfly-in-the-district-of-dreams.json) |
@@ -2255,7 +2254,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AbbleDabble | 174319 | [174319-abbledabble.json](./174319-abbledabble.json) |
 | Abbot's Book | 92095 | [92095-abbots-book.json](./92095-abbots-book.json) |
 | Abby Héroes en apuros | 316790 | [316790-abby-heroes-en-apuros.json](./316790-abby-heroes-en-apuros.json) |
-| Abby Monkey Basic Skills Pre K | 88921 | [88921-abby-monkey-basic-skills-pre-k.json](./88921-abby-monkey-basic-skills-pre-k.json) |
 | Abby Monkey Musical Puzzle Games | 96753 | [96753-abby-monkey-musical-puzzle-games.json](./96753-abby-monkey-musical-puzzle-games.json) |
 | Abby Normalli in Mayhem Mansion | 377424 | [377424-abby-normalli-in-mayhem-mansion.json](./377424-abby-normalli-in-mayhem-mansion.json) |
 | Abby y El Secreto de Gordonne | 293960 | [293960-abby-y-el-secreto-de-gordonne.json](./293960-abby-y-el-secreto-de-gordonne.json) |
@@ -2367,7 +2365,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abhorrent Light | 236067 | [236067-abhorrent-light.json](./236067-abhorrent-light.json) |
 | Abi and the soul | 153988 | [153988-abi-and-the-soul.json](./153988-abi-and-the-soul.json) |
 | ABI-DOS | 293628 | [293628-abi-dos.json](./293628-abi-dos.json) |
-| Abi: A Robot's Tale | 88929 | [88929-abi-a-robots-tale.json](./88929-abi-a-robots-tale.json) |
 | Abide | 389091 | [389091-abide.json](./389091-abide.json) |
 | Abide With Me | 179614 | [179614-abide-with-me.json](./179614-abide-with-me.json) |
 | Abigail | 377429 | [377429-abigail.json](./377429-abigail.json) |
@@ -7093,7 +7090,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aiza: New Generation | 228339 | [228339-aiza-new-generation.json](./228339-aiza-new-generation.json) |
 | Aizasia | 389015 | [389015-aizasia.json](./389015-aizasia.json) |
 | AJ 11: Cosmic Climb | 300978 | [300978-aj-11-cosmic-climb.json](./300978-aj-11-cosmic-climb.json) |
-| AJ Jump: Animal Jam Kangaroos! | 88986 | [88986-aj-jump-animal-jam-kangaroos.json](./88986-aj-jump-animal-jam-kangaroos.json) |
 | AJ's Anomaly | 417141 | [417141-ajs-anomaly.json](./417141-ajs-anomaly.json) |
 | Ajax | 39324 | [39324-ajax.json](./39324-ajax.json) |
 | AJAX Club Football | 267877 | [267877-ajax-club-football.json](./267877-ajax-club-football.json) |
@@ -13568,7 +13564,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apache Flight | 14166 | [14166-apache-flight.json](./14166-apache-flight.json) |
 | Apache Longbow Assault | 61740 | [61740-apache-longbow-assault.json](./61740-apache-longbow-assault.json) |
 | Apache Overkill | 42782 | [42782-apache-overkill.json](./42782-apache-overkill.json) |
-| Apache SIM HD | 89009 | [89009-apache-sim-hd.json](./89009-apache-sim-hd.json) |
 | Apache Strike | 137662 | [137662-apache-strike.json](./137662-apache-strike.json) |
 | Apache: Air Assault | 3233 | [3233-apache-air-assault.json](./3233-apache-air-assault.json) |
 | Apacies: Creatures of the Old West | 271662 | [271662-apacies-creatures-of-the-old-west.json](./271662-apacies-creatures-of-the-old-west.json) |
@@ -17160,6 +17155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Guile | 26721 | [26721-art-of-guile.json](./26721-art-of-guile.json) |
 | Art of Horology | 116538 | [116538-art-of-horology.json](./116538-art-of-horology.json) |
 | Art of Ink | 59124 | [59124-art-of-ink.json](./59124-art-of-ink.json) |
+| Art of Ism | 413650 | [413650-art-of-ism.json](./413650-art-of-ism.json) |
 | Art of Murder: Cards of Destiny | 14361 | [14361-art-of-murder-cards-of-destiny.json](./14361-art-of-murder-cards-of-destiny.json) |
 | Art of Murder: Deadly Secrets | 105439 | [105439-art-of-murder-deadly-secrets.json](./105439-art-of-murder-deadly-secrets.json) |
 | Art of Murder: FBI Confidential | 9986 | [9986-art-of-murder-fbi-confidential.json](./9986-art-of-murder-fbi-confidential.json) |
@@ -17178,6 +17174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of the Rail | 153400 | [153400-art-of-the-rail.json](./153400-art-of-the-rail.json) |
 | Art of War 2: Global Confederation | 415646 | [415646-art-of-war-2-global-confederation.json](./415646-art-of-war-2-global-confederation.json) |
 | Art of War 3: Global Conflict | 95558 | [95558-art-of-war-3-global-conflict.json](./95558-art-of-war-3-global-conflict.json) |
+| Art of War: N.A.C. | 415645 | [415645-art-of-war-n-a-c.json](./415645-art-of-war-n-a-c.json) |
 | Art of War: Red Tides | 26735 | [26735-art-of-war-red-tides.json](./26735-art-of-war-red-tides.json) |
 | Art Puzzle | 354421 | [354421-art-puzzle.json](./354421-art-puzzle.json) |
 | Art Rally Simulator | 420675 | [420675-art-rally-simulator.json](./420675-art-rally-simulator.json) |
