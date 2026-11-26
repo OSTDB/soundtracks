@@ -1026,7 +1026,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jazz Smash | 260767 | [260767-jazz-smash.json](./260767-jazz-smash.json) |
 | Jazz Time | 181316 | [181316-jazz-time.json](./181316-jazz-time.json) |
 | Jazz: Trump's Journey | 61133 | [61133-jazz-trumps-journey.json](./61133-jazz-trumps-journey.json) |
-| Jazza's Arty Games | 88974 | [88974-jazzas-arty-games.json](./88974-jazzas-arty-games.json) |
 | Jazzpunk | 8114 | [8114-jazzpunk.json](./8114-jazzpunk.json) |
 | Jazzpunk: Director's Cut | 24415 | [24415-jazzpunk-directors-cut.json](./24415-jazzpunk-directors-cut.json) |
 | Jazzpunk: Flavour Nexus | 124832 | [124832-jazzpunk-flavour-nexus.json](./124832-jazzpunk-flavour-nexus.json) |
@@ -2035,7 +2034,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Brawl BS Stars | 213077 | [213077-jigsaw-puzzle-brawl-bs-stars.json](./213077-jigsaw-puzzle-brawl-bs-stars.json) |
 | Jigsaw Puzzle Bug | 167672 | [167672-jigsaw-puzzle-bug.json](./167672-jigsaw-puzzle-bug.json) |
 | Jigsaw Puzzle Cats Kitten | 202765 | [202765-jigsaw-puzzle-cats-kitten.json](./202765-jigsaw-puzzle-cats-kitten.json) |
-| Jigsaw Puzzle Collection HD | 89112 | [89112-jigsaw-puzzle-collection-hd.json](./89112-jigsaw-puzzle-collection-hd.json) |
 | Jigsaw Puzzle Dreams | 167128 | [167128-jigsaw-puzzle-dreams.json](./167128-jigsaw-puzzle-dreams.json) |
 | Jigsaw Puzzle Dreams: Idyllic Pack | 226855 | [226855-jigsaw-puzzle-dreams-idyllic-pack.json](./226855-jigsaw-puzzle-dreams-idyllic-pack.json) |
 | Jigsaw Puzzle Dreams: Radiant Pack | 226856 | [226856-jigsaw-puzzle-dreams-radiant-pack.json](./226856-jigsaw-puzzle-dreams-radiant-pack.json) |
@@ -3906,7 +3904,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Helix Ball | 192055 | [192055-jumping-helix-ball.json](./192055-jumping-helix-ball.json) |
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
 | Jumping Horses Champions | 104509 | [104509-jumping-horses-champions.json](./104509-jumping-horses-champions.json) |
-| Jumping Horses Champions 2 | 88998 | [88998-jumping-horses-champions-2.json](./88998-jumping-horses-champions-2.json) |
 | Jumping in the middle of the sky | 289775 | [289775-jumping-in-the-middle-of-the-sky.json](./289775-jumping-in-the-middle-of-the-sky.json) |
 | Jumping Jack | 14139 | [14139-jumping-jack.json](./14139-jumping-jack.json) |
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
@@ -4397,8 +4394,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park: Survival | 279640 | [279640-jurassic-park-survival.json](./279640-jurassic-park-survival.json) |
 | Jurassic Park: Survival | 66354 | [66354-jurassic-park-survival.json](./66354-jurassic-park-survival.json) |
 | Jurassic Park: The Game | 7025 | [7025-jurassic-park-the-game.json](./7025-jurassic-park-the-game.json) |
-| Jurassic Park: The Game 1 HD | 89173 | [89173-jurassic-park-the-game-1-hd.json](./89173-jurassic-park-the-game-1-hd.json) |
-| Jurassic Park: The Game 2 HD | 89174 | [89174-jurassic-park-the-game-2-hd.json](./89174-jurassic-park-the-game-2-hd.json) |
 | Jurassic Park: The Game 4 HD | 87272 | [87272-jurassic-park-the-game-4-hd.json](./87272-jurassic-park-the-game-4-hd.json) |
 | Jurassic Pet: Virtual World | 263581 | [263581-jurassic-pet-virtual-world.json](./263581-jurassic-pet-virtual-world.json) |
 | Jurassic Pinball | 102306 | [102306-jurassic-pinball.json](./102306-jurassic-pinball.json) |
