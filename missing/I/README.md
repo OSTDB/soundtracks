@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm a Sardine Keita | 384571 | [384571-im-a-sardine-keita.json](./384571-im-a-sardine-keita.json) |
 | I'm a Side Character in a BL story! | 177877 | [177877-im-a-side-character-in-a-bl-story.json](./177877-im-a-side-character-in-a-bl-story.json) |
 | I’m a Wizard, But I Dig | 384526 | [384526-i-m-a-wizard-but-i-dig.json](./384526-i-m-a-wizard-but-i-dig.json) |
+| I’m Against This Marriage | 431411 | [431411-i-m-against-this-marriage.json](./431411-i-m-against-this-marriage.json) |
 | I'm an adventurer | 110946 | [110946-im-an-adventurer.json](./110946-im-an-adventurer.json) |
 | I'm Awesome | 40148 | [40148-im-awesome.json](./40148-im-awesome.json) |
 | I'm Being Chased By A Bear | 302731 | [302731-im-being-chased-by-a-bear.json](./302731-im-being-chased-by-a-bear.json) |
@@ -3132,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossibox | 80981 | [80981-impossibox.json](./80981-impossibox.json) |
 | ImpossiBubble | 186823 | [186823-impossibubble.json](./186823-impossibubble.json) |
 | Imposter The Horror | 282045 | [282045-imposter-the-horror.json](./282045-imposter-the-horror.json) |
+| Imposters | 431268 | [431268-imposters.json](./431268-imposters.json) |
 | Imposters: Countdown | 233021 | [233021-imposters-countdown.json](./233021-imposters-countdown.json) |
 | Impostor | 179698 | [179698-impostor.json](./179698-impostor.json) |
 | Impostor but Huggy Wuggy | 270669 | [270669-impostor-but-huggy-wuggy.json](./270669-impostor-but-huggy-wuggy.json) |
@@ -6502,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invizimals: Hidden Challenges | 203233 | [203233-invizimals-hidden-challenges.json](./203233-invizimals-hidden-challenges.json) |
 | Invizimals: Shadow Zone | 2996 | [2996-invizimals-shadow-zone.json](./2996-invizimals-shadow-zone.json) |
 | Invizimals: The Alliance | 23417 | [23417-invizimals-the-alliance.json](./23417-invizimals-the-alliance.json) |
+| Invizimals: The Lost Kingdom | 23357 | [23357-invizimals-the-lost-kingdom.json](./23357-invizimals-the-lost-kingdom.json) |
 | Invizimals: The Lost Tribes | 3001 | [3001-invizimals-the-lost-tribes.json](./3001-invizimals-the-lost-tribes.json) |
 | Invizimals: The Resistance | 42687 | [42687-invizimals-the-resistance.json](./42687-invizimals-the-resistance.json) |
 | Invizimals: The Trilogy | 148657 | [148657-invizimals-the-trilogy.json](./148657-invizimals-the-trilogy.json) |
