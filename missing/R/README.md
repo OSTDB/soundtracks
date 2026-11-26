@@ -871,7 +871,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raffles | 122555 | [122555-raffles.json](./122555-raffles.json) |
 | Rafflesia | 40167 | [40167-rafflesia.json](./40167-rafflesia.json) |
 | Raft Days | 348504 | [348504-raft-days.json](./348504-raft-days.json) |
-| Raft Island Shark Survival | 88985 | [88985-raft-island-shark-survival.json](./88985-raft-island-shark-survival.json) |
 | Raft Life | 203704 | [203704-raft-life.json](./203704-raft-life.json) |
 | Raft Rider | 22819 | [22819-raft-rider.json](./22819-raft-rider.json) |
 | Raft Survival | 193810 | [193810-raft-survival.json](./193810-raft-survival.json) |
@@ -1882,7 +1881,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally-X Remix | 229456 | [229456-rally-x-remix.json](./229456-rally-x-remix.json) |
 | Rally-X Rumble | 62035 | [62035-rally-x-rumble.json](./62035-rally-x-rumble.json) |
 | Rally: The Final Round of the World Rally Championship | 214983 | [214983-rally-the-final-round-of-the-world-rally-championship.json](./214983-rally-the-final-round-of-the-world-rally-championship.json) |
-| Rally45 | 89279 | [89279-rally45.json](./89279-rally45.json) |
 | Rallyallyally | 211136 | [211136-rallyallyally.json](./211136-rallyallyally.json) |
 | Rallycross Simulator | 75504 | [75504-rallycross-simulator.json](./75504-rallycross-simulator.json) |
 | Rallycross Track Racing | 221383 | [221383-rallycross-track-racing.json](./221383-rallycross-track-racing.json) |
@@ -2929,7 +2927,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
 | RC Airplane: Flight Simulator | 261352 | [261352-rc-airplane-flight-simulator.json](./261352-rc-airplane-flight-simulator.json) |
 | RC Boat Simulator | 103991 | [103991-rc-boat-simulator.json](./103991-rc-boat-simulator.json) |
-| RC Car | 89055 | [89055-rc-car.json](./89055-rc-car.json) |
 | RC Cars | 36386 | [36386-rc-cars.json](./36386-rc-cars.json) |
 | RC Club: AR Racing Simulator | 256130 | [256130-rc-club-ar-racing-simulator.json](./256130-rc-club-ar-racing-simulator.json) |
 | RC Daredevil | 70311 | [70311-rc-daredevil.json](./70311-rc-daredevil.json) |
@@ -5533,7 +5530,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relatle | 320752 | [320752-relatle.json](./320752-relatle.json) |
 | Relatos Silenciados: Visita Indesejada | 338334 | [338334-relatos-silenciados-visita-indesejada.json](./338334-relatos-silenciados-visita-indesejada.json) |
 | Relax & Learn World Heritage | 409561 | [409561-relax-and-learn-world-heritage.json](./409561-relax-and-learn-world-heritage.json) |
-| Relax Bird | 89696 | [89696-relax-bird.json](./89696-relax-bird.json) |
 | Relax Fly | 149019 | [149019-relax-fly.json](./149019-relax-fly.json) |
 | Relax Industry | 343808 | [343808-relax-industry.json](./343808-relax-industry.json) |
 | Relax It's Aqua | 149544 | [149544-relax-its-aqua.json](./149544-relax-its-aqua.json) |
@@ -6656,6 +6652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reso-Seeker | 244630 | [244630-reso-seeker.json](./244630-reso-seeker.json) |
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
 | Resogun | 6007 | [6007-resogun.json](./6007-resogun.json) |
+| Resogun: Challengers | 388462 | [388462-resogun-challengers.json](./388462-resogun-challengers.json) |
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
 | Resolution 101 | 15355 | [15355-resolution-101.json](./15355-resolution-101.json) |
 | Resonance | 210332 | [210332-resonance.json](./210332-resonance.json) |
@@ -7347,7 +7344,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Returnal: Ascension | 194788 | [194788-returnal-ascension.json](./194788-returnal-ascension.json) |
 | Returnal: Digital Deluxe Edition | 221656 | [221656-returnal-digital-deluxe-edition.json](./221656-returnal-digital-deluxe-edition.json) |
 | Returner 77 | 88035 | [88035-returner-77.json](./88035-returner-77.json) |
-| Returner 77 | 88968 | [88968-returner-77.json](./88968-returner-77.json) |
 | Returner Alien | 108500 | [108500-returner-alien.json](./108500-returner-alien.json) |
 | Returner Zhero | 107202 | [107202-returner-zhero.json](./107202-returner-zhero.json) |
 | Returners | 101184 | [101184-returners.json](./101184-returners.json) |
@@ -7399,6 +7395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revamped | 260216 | [260216-revamped.json](./260216-revamped.json) |
 | Revans | 231145 | [231145-revans.json](./231145-revans.json) |
 | Revasion | 190870 | [190870-revasion.json](./190870-revasion.json) |
+| reVC | 415610 | [415610-revc.json](./415610-revc.json) |
 | Reveal | 104949 | [104949-reveal.json](./104949-reveal.json) |
 | Reveal | 128814 | [128814-reveal.json](./128814-reveal.json) |
 | Reveal Fantasia | 112136 | [112136-reveal-fantasia.json](./112136-reveal-fantasia.json) |
@@ -8210,7 +8207,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rickdle | 396406 | [396406-rickdle.json](./396406-rickdle.json) |
 | Ricko's Island | 84044 | [84044-rickos-island.json](./84044-rickos-island.json) |
 | Rickstones | 223225 | [223225-rickstones.json](./223225-rickstones.json) |
-| Ricky Carmichael's Motocross Matchup | 89117 | [89117-ricky-carmichaels-motocross-matchup.json](./89117-ricky-carmichaels-motocross-matchup.json) |
 | Ricky Did Nothing Wrong | 155965 | [155965-ricky-did-nothing-wrong.json](./155965-ricky-did-nothing-wrong.json) |
 | Ricky Ponting International Cricket 2005 | 47360 | [47360-ricky-ponting-international-cricket-2005.json](./47360-ricky-ponting-international-cricket-2005.json) |
 | Ricky Raccoon | 34666 | [34666-ricky-raccoon.json](./34666-ricky-raccoon.json) |
@@ -11052,6 +11048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketfella | 58660 | [58660-rocketfella.json](./58660-rocketfella.json) |
 | RocketGirl | 76709 | [76709-rocketgirl.json](./76709-rocketgirl.json) |
 | RocketGO | 112580 | [112580-rocketgo.json](./112580-rocketgo.json) |
+| RocketGoal.io | 415462 | [415462-rocketgoal-io.json](./415462-rocketgoal-io.json) |
 | Rocketing | 142223 | [142223-rocketing.json](./142223-rocketing.json) |
 | Rocketio | 219182 | [219182-rocketio.json](./219182-rocketio.json) |
 | Rocketio 2 | 225962 | [225962-rocketio-2.json](./225962-rocketio-2.json) |
@@ -13389,7 +13386,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Offense | 28928 | [28928-royal-offense.json](./28928-royal-offense.json) |
 | Royal Order | 182143 | [182143-royal-order.json](./182143-royal-order.json) |
 | Royal Pit | 409557 | [409557-royal-pit.json](./409557-royal-pit.json) |
-| Royal Princess Makeover | 89148 | [89148-royal-princess-makeover.json](./89148-royal-princess-makeover.json) |
 | Royal Pro Wrestling: Jikkyou Live!! | 37203 | [37203-royal-pro-wrestling-jikkyou-live.json](./37203-royal-pro-wrestling-jikkyou-live.json) |
 | Royal Protectors | 102000 | [102000-royal-protectors.json](./102000-royal-protectors.json) |
 | Royal Quest | 10786 | [10786-royal-quest.json](./10786-royal-quest.json) |
