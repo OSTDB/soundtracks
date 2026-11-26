@@ -2371,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unexpected Futa Corruption | 236123 | [236123-unexpected-futa-corruption.json](./236123-unexpected-futa-corruption.json) |
 | Unexpected Journey | 103613 | [103613-unexpected-journey.json](./103613-unexpected-journey.json) |
 | Unexpected Journey | 361585 | [361585-unexpected-journey.json](./361585-unexpected-journey.json) |
+| Unexpected Number Neighbour | 430883 | [430883-unexpected-number-neighbour.json](./430883-unexpected-number-neighbour.json) |
 | Unexpected Pigeon Race | 324722 | [324722-unexpected-pigeon-race.json](./324722-unexpected-pigeon-race.json) |
 | Unexpected Quest | 327563 | [327563-unexpected-quest.json](./327563-unexpected-quest.json) |
 | Unexpected Sequence | 128156 | [128156-unexpected-sequence.json](./128156-unexpected-sequence.json) |
@@ -2925,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unloop | 232015 | [232015-unloop.json](./232015-unloop.json) |
 | Unloop | 263149 | [263149-unloop.json](./263149-unloop.json) |
 | UnLoop | 311147 | [311147-unloop.json](./311147-unloop.json) |
+| UnLoop: Flat as Your Ass | 430884 | [430884-unloop-flat-as-your-ass.json](./430884-unloop-flat-as-your-ass.json) |
 | Unlord | 157057 | [157057-unlord.json](./157057-unlord.json) |
 | Unloved | 17799 | [17799-unloved.json](./17799-unloved.json) |
 | Unloved | 228345 | [228345-unloved.json](./228345-unloved.json) |
@@ -3033,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UNO: Legacy Edition | 315848 | [315848-uno-legacy-edition.json](./315848-uno-legacy-edition.json) |
 | Uno: Party! Mania | 323831 | [323831-uno-party-mania.json](./323831-uno-party-mania.json) |
 | Uno: Rayman Theme DLC | 151939 | [151939-uno-rayman-theme-dlc.json](./151939-uno-rayman-theme-dlc.json) |
+| Uno: Show 'Em No Mercy | 431069 | [431069-uno-show-em-no-mercy.json](./431069-uno-show-em-no-mercy.json) |
 | Uno: Small World | 61393 | [61393-uno-small-world.json](./61393-uno-small-world.json) |
 | Uno: The Call of Yara | 176112 | [176112-uno-the-call-of-yara.json](./176112-uno-the-call-of-yara.json) |
 | UNO: Ultimate Edition | 143286 | [143286-uno-ultimate-edition.json](./143286-uno-ultimate-edition.json) |
