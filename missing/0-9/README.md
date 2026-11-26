@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 007: NightFire - XBE Recomp | 426829 | [426829-007-nightfire-xbe-recomp.json](./426829-007-nightfire-xbe-recomp.json) |
 | 007: Quantum of Solace | 156069 | [156069-007-quantum-of-solace.json](./156069-007-quantum-of-solace.json) |
 | 007: Quantum of Solace | 156079 | [156079-007-quantum-of-solace.json](./156079-007-quantum-of-solace.json) |
+| 007: Quantum of Solace | 415651 | [415651-007-quantum-of-solace.json](./415651-007-quantum-of-solace.json) |
 | 007: Quantum of Solace - Collector's Edition | 47468 | [47468-007-quantum-of-solace-collectors-edition.json](./47468-007-quantum-of-solace-collectors-edition.json) |
 | 007: Sonic Secret Agent | 266705 | [266705-007-sonic-secret-agent.json](./266705-007-sonic-secret-agent.json) |
 | 01 Deadliest Zone Catch: Boat Crab & Fishing Simulator | 263940 | [263940-01-deadliest-zone-catch-boat-crab-and-fishing-simulator.json](./263940-01-deadliest-zone-catch-boat-crab-and-fishing-simulator.json) |
@@ -372,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Minute Math | 108453 | [108453-1-minute-math.json](./108453-1-minute-math.json) |
 | 1 Minute RPG | 63151 | [63151-1-minute-rpg.json](./63151-1-minute-rpg.json) |
 | 1 Moment of Time: Silentville | 32199 | [32199-1-moment-of-time-silentville.json](./32199-1-moment-of-time-silentville.json) |
+| 1 Moose 1 World | 415038 | [415038-1-moose-1-world.json](./415038-1-moose-1-world.json) |
 | 1 On 1 | 205772 | [205772-1-on-1.json](./205772-1-on-1.json) |
 | 1 on 1 Government | 39809 | [39809-1-on-1-government.json](./39809-1-on-1-government.json) |
 | 1 or 3 Addictive Puzzle Game | 250238 | [250238-1-or-3-addictive-puzzle-game.json](./250238-1-or-3-addictive-puzzle-game.json) |
@@ -939,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Games: Volume 3 | 125839 | [125839-1000-games-volume-3.json](./125839-1000-games-volume-3.json) |
 | 1000 Heads Among the Trees | 34360 | [34360-1000-heads-among-the-trees.json](./34360-1000-heads-among-the-trees.json) |
 | 1000 Heroz | 92579 | [92579-1000-heroz.json](./92579-1000-heroz.json) |
+| 1000 Hidden Objects | 415039 | [415039-1000-hidden-objects.json](./415039-1000-hidden-objects.json) |
 | 1000 Hidden Snails | 203391 | [203391-1000-hidden-snails.json](./203391-1000-hidden-snails.json) |
 | 1000 Light-Years Away | 293938 | [293938-1000-light-years-away.json](./293938-1000-light-years-away.json) |
 | 1000 Lines 2 Community Project | 259390 | [259390-1000-lines-2-community-project.json](./259390-1000-lines-2-community-project.json) |
@@ -1364,7 +1367,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 123 Talk | 263186 | [263186-123-talk.json](./263186-123-talk.json) |
 | 123 Wooden Figures | 358059 | [358059-123-wooden-figures.json](./358059-123-wooden-figures.json) |
 | 1234 Connect Puzzle | 357975 | [357975-1234-connect-puzzle.json](./357975-1234-connect-puzzle.json) |
-| 123Babycount | 89724 | [89724-123babycount.json](./89724-123babycount.json) |
 | 124 Handle of the World | 309169 | [309169-124-handle-of-the-world.json](./309169-124-handle-of-the-world.json) |
 | 1248 | 115082 | [115082-1248.json](./115082-1248.json) |
 | 125 Balls | 265416 | [265416-125-balls.json](./265416-125-balls.json) |
