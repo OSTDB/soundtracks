@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultramarine | 270843 | [270843-ultramarine.json](./270843-ultramarine.json) |
 | Ultramarine | 393561 | [393561-ultramarine.json](./393561-ultramarine.json) |
 | Ultramarine: The Retro Game | 400450 | [400450-ultramarine-the-retro-game.json](./400450-ultramarine-the-retro-game.json) |
+| Ultramarinos Simulator | 431464 | [431464-ultramarinos-simulator.json](./431464-ultramarinos-simulator.json) |
 | Ultramassive | 263978 | [263978-ultramassive.json](./263978-ultramassive.json) |
 | Ultramegon | 30563 | [30563-ultramegon.json](./30563-ultramegon.json) |
 | Ultranatural | 337447 | [337447-ultranatural.json](./337447-ultranatural.json) |
@@ -1748,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Inc. | 252855 | [252855-undead-inc.json](./252855-undead-inc.json) |
 | Undead Inc.: Worky DLC | 310006 | [310006-undead-inc-worky-dlc.json](./310006-undead-inc-worky-dlc.json) |
 | Undead Kingdom Survivors | 303063 | [303063-undead-kingdom-survivors.json](./303063-undead-kingdom-survivors.json) |
+| Undead Knights | 23358 | [23358-undead-knights.json](./23358-undead-knights.json) |
 | Undead Legion | 110246 | [110246-undead-legion.json](./110246-undead-legion.json) |
 | Undead Legions | 50782 | [50782-undead-legions.json](./50782-undead-legions.json) |
 | Undead Legions II | 106353 | [106353-undead-legions-ii.json](./106353-undead-legions-ii.json) |
@@ -3378,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Block Platformer | 218384 | [218384-untitled-block-platformer.json](./218384-untitled-block-platformer.json) |
 | Untitled Car Game | 373018 | [373018-untitled-car-game.json](./373018-untitled-car-game.json) |
 | Untitled Criterion Racing Game | 61510 | [61510-untitled-criterion-racing-game.json](./61510-untitled-criterion-racing-game.json) |
+| Untitled Crossing Record | 431269 | [431269-untitled-crossing-record.json](./431269-untitled-crossing-record.json) |
 | Untitled Cuphead Sequel | 404675 | [404675-untitled-cuphead-sequel.json](./404675-untitled-cuphead-sequel.json) |
 | Untitled Darkness | 164302 | [164302-untitled-darkness.json](./164302-untitled-darkness.json) |
 | Untitled Dog Game | 421767 | [421767-untitled-dog-game.json](./421767-untitled-dog-game.json) |
@@ -4205,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uwol: Quest for Money | 46675 | [46675-uwol-quest-for-money.json](./46675-uwol-quest-for-money.json) |
 | uWordsmith | 85466 | [85466-uwordsmith.json](./85466-uwordsmith.json) |
 | UwU Hunter | 350697 | [350697-uwu-hunter.json](./350697-uwu-hunter.json) |
+| UwUbUwU | 431507 | [431507-uwubuwu.json](./431507-uwubuwu.json) |
 | Uyar Party | 423190 | [423190-uyar-party.json](./423190-uyar-party.json) |
 | Uyuriih's Perscription | 202600 | [202600-uyuriihs-perscription.json](./202600-uyuriihs-perscription.json) |
 | Uze Feud | 311352 | [311352-uze-feud.json](./311352-uze-feud.json) |
