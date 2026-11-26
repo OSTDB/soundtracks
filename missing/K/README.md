@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kage-chara Love-Com | 253668 | [253668-kage-chara-love-com.json](./253668-kage-chara-love-com.json) |
 | Kage, Souzou, In | 201199 | [201199-kage-souzou-in.json](./201199-kage-souzou-in.json) |
 | Kaged | 6519 | [6519-kaged.json](./6519-kaged.json) |
+| Kagekari | 427883 | [427883-kagekari.json](./427883-kagekari.json) |
 | Kageki | 39726 | [39726-kageki.json](./39726-kageki.json) |
 | Kagenazo | 403985 | [403985-kagenazo.json](./403985-kagenazo.json) |
 | Kageninja | 385743 | [385743-kageninja.json](./385743-kageninja.json) |
@@ -273,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaidou ni Kisu | 380806 | [380806-kaidou-ni-kisu.json](./380806-kaidou-ni-kisu.json) |
 | Kaidro: Clan Battles | 289824 | [289824-kaidro-clan-battles.json](./289824-kaidro-clan-battles.json) |
 | Kaigrad | 163969 | [163969-kaigrad.json](./163969-kaigrad.json) |
+| Kaii Bangou: 20XX | 426997 | [426997-kaii-bangou-20xx.json](./426997-kaii-bangou-20xx.json) |
 | Kaii Judge Labyrinth | 288431 | [288431-kaii-judge-labyrinth.json](./288431-kaii-judge-labyrinth.json) |
 | Kaii Rinne kara no Dasshutsu | 272428 | [272428-kaii-rinne-kara-no-dasshutsu.json](./272428-kaii-rinne-kara-no-dasshutsu.json) |
 | Kaiichi Otto-sensei Tokyo Daigaku Kanshuu: Suku-suku Kosodate DS - Akachan to Asobou! | 269632 | [269632-kaiichi-otto-sensei-tokyo-daigaku-kanshuu-suku-suku-kosodate-ds-akachan-to-asobou.json](./269632-kaiichi-otto-sensei-tokyo-daigaku-kanshuu-suku-suku-kosodate-ds-akachan-to-asobou.json) |
@@ -2618,14 +2620,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid-Venture 2: Twas the Night Before Christmas | 55830 | [55830-kid-venture-2-twas-the-night-before-christmas.json](./55830-kid-venture-2-twas-the-night-before-christmas.json) |
 | Kid-Venture 3: Old McDonald's Farm | 55827 | [55827-kid-venture-3-old-mcdonalds-farm.json](./55827-kid-venture-3-old-mcdonalds-farm.json) |
 | Kid's - Paints and Colors | 88681 | [88681-kids-paints-and-colors.json](./88681-kids-paints-and-colors.json) |
-| Kid's Activity Center | 87688 | [87688-kids-activity-center.json](./87688-kids-activity-center.json) |
 | Kid's Art & Puzzle | 205110 | [205110-kids-art-and-puzzle.json](./205110-kids-art-and-puzzle.json) |
 | Kid's Art Coloring Book | 400191 | [400191-kids-art-coloring-book.json](./400191-kids-art-coloring-book.json) |
 | Kid's Cards | 49335 | [49335-kids-cards.json](./49335-kids-cards.json) |
 | Kid's EduPack | 87091 | [87091-kids-edupack.json](./87091-kids-edupack.json) |
 | Kid's Kards | 108539 | [108539-kids-kards.json](./108539-kids-kards.json) |
 | Kid's Literacy Games | 88212 | [88212-kids-literacy-games.json](./88212-kids-literacy-games.json) |
-| Kid's Preschool Game Box | 87692 | [87692-kids-preschool-game-box.json](./87692-kids-preschool-game-box.json) |
 | Kid's Sudoku, 100 puzzles | 98777 | [98777-kids-sudoku-100-puzzles.json](./98777-kids-sudoku-100-puzzles.json) |
 | Kidblock | 243171 | [243171-kidblock.json](./243171-kidblock.json) |
 | Kidd Copter | 381326 | [381326-kidd-copter.json](./381326-kidd-copter.json) |
@@ -5521,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knock on the Coffin Lid: Nightmares of Millenis | 381880 | [381880-knock-on-the-coffin-lid-nightmares-of-millenis.json](./381880-knock-on-the-coffin-lid-nightmares-of-millenis.json) |
 | Knock on the Occult Door | 374817 | [374817-knock-on-the-occult-door.json](./374817-knock-on-the-occult-door.json) |
 | Knock on the Window | 333306 | [333306-knock-on-the-window.json](./333306-knock-on-the-window.json) |
+| Knock Out | 424219 | [424219-knock-out.json](./424219-knock-out.json) |
 | Knock Out Walls | 263802 | [263802-knock-out-walls.json](./263802-knock-out-walls.json) |
 | Knock Out!! | 40231 | [40231-knock-out.json](./40231-knock-out.json) |
 | Knock the Bloody Door Down | 244568 | [244568-knock-the-bloody-door-down.json](./244568-knock-the-bloody-door-down.json) |
