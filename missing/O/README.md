@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of the Devil: Episode 3 | 383566 | [383566-of-the-devil-episode-3.json](./383566-of-the-devil-episode-3.json) |
 | Of The Lilies | 341078 | [341078-of-the-lilies.json](./341078-of-the-lilies.json) |
 | Of the Red, the Light, and the Ayakashi Tsuzuri | 62190 | [62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json](./62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json) |
+| Of the World | 431054 | [431054-of-the-world.json](./431054-of-the-world.json) |
 | Of Them That Have a Name | 243457 | [243457-of-them-that-have-a-name.json](./243457-of-them-that-have-a-name.json) |
 | Of Three Plantagenets | 271848 | [271848-of-three-plantagenets.json](./271848-of-three-plantagenets.json) |
 | OFC: Ultimate Fighting Club | 325782 | [325782-ofc-ultimate-fighting-club.json](./325782-ofc-ultimate-fighting-club.json) |
@@ -3807,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Heart: Third Year | 313723 | [313723-open-heart-third-year.json](./313723-open-heart-third-year.json) |
 | Open Hearts on Fire | 313724 | [313724-open-hearts-on-fire.json](./313724-open-hearts-on-fire.json) |
 | Open Hexagon | 133332 | [133332-open-hexagon.json](./133332-open-hexagon.json) |
+| Open Historia | 431070 | [431070-open-historia.json](./431070-open-historia.json) |
 | Open Hunting XL | 265313 | [265313-open-hunting-xl.json](./265313-open-hunting-xl.json) |
 | Open in the Groove | 144393 | [144393-open-in-the-groove.json](./144393-open-in-the-groove.json) |
 | Open Kart | 61979 | [61979-open-kart.json](./61979-open-kart.json) |
@@ -4708,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orebody: Binder's Tale | 215028 | [215028-orebody-binders-tale.json](./215028-orebody-binders-tale.json) |
 | Orebody: Sand Ripples | 304241 | [304241-orebody-sand-ripples.json](./304241-orebody-sand-ripples.json) |
 | Orebound | 316787 | [316787-orebound.json](./316787-orebound.json) |
+| Orecatraz | 431010 | [431010-orecatraz.json](./431010-orecatraz.json) |
 | Oreflux | 373331 | [373331-oreflux.json](./373331-oreflux.json) |
 | Oregon | 213729 | [213729-oregon.json](./213729-oregon.json) |
 | Oregon Trail II | 47099 | [47099-oregon-trail-ii.json](./47099-oregon-trail-ii.json) |
