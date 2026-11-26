@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack-In-A-Castle | 118440 | [118440-jack-in-a-castle.json](./118440-jack-in-a-castle.json) |
 | Jack-O-Lantern Covers of Darkness | 127383 | [127383-jack-o-lantern-covers-of-darkness.json](./127383-jack-o-lantern-covers-of-darkness.json) |
 | Jack: Snake Attack | 124739 | [124739-jack-snake-attack.json](./124739-jack-snake-attack.json) |
+| Jack: The Puppet | 431404 | [431404-jack-the-puppet.json](./431404-jack-the-puppet.json) |
 | Jack's 510 Racing | 372608 | [372608-jacks-510-racing.json](./372608-jacks-510-racing.json) |
 | Jack's Attic | 210127 | [210127-jacks-attic.json](./210127-jacks-attic.json) |
 | Jack's Crazy Cong | 91519 | [91519-jacks-crazy-cong.json](./91519-jacks-crazy-cong.json) |
@@ -4181,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungo | 257391 | [257391-jungo.json](./257391-jungo.json) |
 | Junior Arithmancer | 138149 | [138149-junior-arithmancer.json](./138149-junior-arithmancer.json) |
 | Junior Board Games | 131127 | [131127-junior-board-games.json](./131127-junior-board-games.json) |
+| Junior Brain Trainer | 23270 | [23270-junior-brain-trainer.json](./23270-junior-brain-trainer.json) |
 | Junior Brain Trainer 2 | 210004 | [210004-junior-brain-trainer-2.json](./210004-junior-brain-trainer-2.json) |
 | Junior Brain Trainer: Math Edition | 209854 | [209854-junior-brain-trainer-math-edition.json](./209854-junior-brain-trainer-math-edition.json) |
 | Junior Classic Books and Fairytales | 85716 | [85716-junior-classic-books-and-fairytales.json](./85716-junior-classic-books-and-fairytales.json) |
