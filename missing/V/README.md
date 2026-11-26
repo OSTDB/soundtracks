@@ -1210,7 +1210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Bias | 282265 | [282265-vector-bias.json](./282265-vector-bias.json) |
 | Vector Born | 95636 | [95636-vector-born.json](./95636-vector-born.json) |
 | Vector City Racers | 343219 | [343219-vector-city-racers.json](./343219-vector-city-racers.json) |
-| Vector HD | 88349 | [88349-vector-hd.json](./88349-vector-hd.json) |
 | Vector Light | 126589 | [126589-vector-light.json](./126589-vector-light.json) |
 | Vector Madness | 62167 | [62167-vector-madness.json](./62167-vector-madness.json) |
 | Vector Parallax: Convergence of the Vast | 423580 | [423580-vector-parallax-convergence-of-the-vast.json](./423580-vector-parallax-convergence-of-the-vast.json) |
@@ -1311,7 +1310,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegangsters | 253304 | [253304-vegangsters.json](./253304-vegangsters.json) |
 | Vegas 21 | 245606 | [245606-vegas-21.json](./245606-vegas-21.json) |
 | Vegas Bandit | 77909 | [77909-vegas-bandit.json](./77909-vegas-bandit.json) |
-| Vegas Bowling | 88840 | [88840-vegas-bowling.json](./88840-vegas-bowling.json) |
 | Vegas Casino | 69973 | [69973-vegas-casino.json](./69973-vegas-casino.json) |
 | Vegas Casino | 79373 | [79373-vegas-casino.json](./79373-vegas-casino.json) |
 | Vegas Casino & Slots: Slottist | 364505 | [364505-vegas-casino-and-slots-slottist.json](./364505-vegas-casino-and-slots-slottist.json) |
@@ -1949,7 +1947,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Unserious Game | 346502 | [346502-very-unserious-game.json](./346502-very-unserious-game.json) |
 | Very Very Cat | 393511 | [393511-very-very-cat.json](./393511-very-very-cat.json) |
 | Very Very Rare | 424415 | [424415-very-very-rare.json](./424415-very-very-rare.json) |
-| Verydice | 88876 | [88876-verydice.json](./88876-verydice.json) |
 | Verytex | 46162 | [46162-verytex.json](./46162-verytex.json) |
 | VeryVeryHouse | 356637 | [356637-veryveryhouse.json](./356637-veryveryhouse.json) |
 | Verz | 161497 | [161497-verz.json](./161497-verz.json) |
@@ -3181,7 +3178,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pet Orca - The Killer Whale | 90039 | [90039-virtual-pet-orca-the-killer-whale.json](./90039-virtual-pet-orca-the-killer-whale.json) |
 | Virtual Pet Robot | 102895 | [102895-virtual-pet-robot.json](./102895-virtual-pet-robot.json) |
 | Virtual Pet Tiger | 105669 | [105669-virtual-pet-tiger.json](./105669-virtual-pet-tiger.json) |
-| Virtual Pet Unicorn | 88151 | [88151-virtual-pet-unicorn.json](./88151-virtual-pet-unicorn.json) |
 | Virtual Picross | 411849 | [411849-virtual-picross.json](./411849-virtual-picross.json) |
 | Virtual Pinball | 4458 | [4458-virtual-pinball.json](./4458-virtual-pinball.json) |
 | Virtual Pirate VR | 98697 | [98697-virtual-pirate-vr.json](./98697-virtual-pirate-vr.json) |
@@ -4015,6 +4011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vojna | 303917 | [303917-vojna.json](./303917-vojna.json) |
 | Vojo | 158906 | [158906-vojo.json](./158906-vojo.json) |
 | Vol'Talkes - The AI War | 35846 | [35846-voltalkes-the-ai-war.json](./35846-voltalkes-the-ai-war.json) |
+| Volantia: Kingdom in the Sky | 71019 | [71019-volantia-kingdom-in-the-sky.json](./71019-volantia-kingdom-in-the-sky.json) |
 | Volar | 241423 | [241423-volar.json](./241423-volar.json) |
 | Volara | 339792 | [339792-volara.json](./339792-volara.json) |
 | Volatica: The Devil's Trap | 215004 | [215004-volatica-the-devils-trap.json](./215004-volatica-the-devils-trap.json) |
