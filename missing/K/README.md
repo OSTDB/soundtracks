@@ -2234,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ketsui: Kizuna Jigoku-tachi DX | 214714 | [214714-ketsui-kizuna-jigoku-tachi-dx.json](./214714-ketsui-kizuna-jigoku-tachi-dx.json) |
 | Kettle | 207141 | [207141-kettle.json](./207141-kettle.json) |
 | Kettle | 418782 | [418782-kettle.json](./418782-kettle.json) |
+| Kettle Street | 430024 | [430024-kettle-street.json](./430024-kettle-street.json) |
 | Kettlebell: Inferno Hotel | 398369 | [398369-kettlebell-inferno-hotel.json](./398369-kettlebell-inferno-hotel.json) |
 | Ketto Majiku | 105123 | [105123-ketto-majiku.json](./105123-ketto-majiku.json) |
 | Kettou Beast Wars: Beast Senshi Saikyou Ketteisen | 64770 | [64770-kettou-beast-wars-beast-senshi-saikyou-ketteisen.json](./64770-kettou-beast-wars-beast-senshi-saikyou-ketteisen.json) |
@@ -2501,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick the Boss's Ass | 301977 | [301977-kick-the-bosss-ass.json](./301977-kick-the-bosss-ass.json) |
 | Kick the Brick | 103937 | [103937-kick-the-brick.json](./103937-kick-the-brick.json) |
 | Kick the Buddy | 23924 | [23924-kick-the-buddy.json](./23924-kick-the-buddy.json) |
+| Kick the Buddy | 429889 | [429889-kick-the-buddy.json](./429889-kick-the-buddy.json) |
 | Kick The Buddy 3D | 413473 | [413473-kick-the-buddy-3d.json](./413473-kick-the-buddy-3d.json) |
 | Kick the Buddy: Forever | 331673 | [331673-kick-the-buddy-forever.json](./331673-kick-the-buddy-forever.json) |
 | Kick The Buddy: No Mercy | 413474 | [413474-kick-the-buddy-no-mercy.json](./413474-kick-the-buddy-no-mercy.json) |
@@ -2534,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickboxer | 336156 | [336156-kickboxer.json](./336156-kickboxer.json) |
 | Kickboxing | 76729 | [76729-kickboxing.json](./76729-kickboxing.json) |
 | Kickdom | 378213 | [378213-kickdom.json](./378213-kickdom.json) |
+| Kicked Out | 430239 | [430239-kicked-out.json](./430239-kicked-out.json) |
 | Kicker | 350706 | [350706-kicker.json](./350706-kicker.json) |
 | kicker VR | 102182 | [102182-kicker-vr.json](./102182-kicker-vr.json) |
 | Kickerinho | 28543 | [28543-kickerinho.json](./28543-kickerinho.json) |
