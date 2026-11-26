@@ -4528,7 +4528,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's on Agenda | 302508 | [302508-whats-on-agenda.json](./302508-whats-on-agenda.json) |
 | What's On The Menu? | 333240 | [333240-whats-on-the-menu.json](./333240-whats-on-the-menu.json) |
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
-| What's Pixelated? | 88476 | [88476-whats-pixelated.json](./88476-whats-pixelated.json) |
 | What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
 | What's the Baby Animal? | 233064 | [233064-whats-the-baby-animal.json](./233064-whats-the-baby-animal.json) |
 | What's the Dog Doing? | 325553 | [325553-whats-the-dog-doing.json](./325553-whats-the-dog-doing.json) |
@@ -7700,6 +7699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within | 415248 | [415248-within.json](./415248-within.json) |
 | Within a Dead City | 244414 | [244414-within-a-dead-city.json](./244414-within-a-dead-city.json) |
 | Within a Deep Forest | 50465 | [50465-within-a-deep-forest.json](./50465-within-a-deep-forest.json) |
+| Within a Rose | 72361 | [72361-within-a-rose.json](./72361-within-a-rose.json) |
 | Within Deep Sorrows | 223650 | [223650-within-deep-sorrows.json](./223650-within-deep-sorrows.json) |
 | Within Her HeArt | 185578 | [185578-within-her-heart.json](./185578-within-her-heart.json) |
 | Within His View | 379868 | [379868-within-his-view.json](./379868-within-his-view.json) |
@@ -8737,7 +8737,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Champion! | 102637 | [102637-word-champion.json](./102637-word-champion.json) |
 | Word Chaos | 217984 | [217984-word-chaos.json](./217984-word-chaos.json) |
 | Word Charades | 396009 | [396009-word-charades.json](./396009-word-charades.json) |
-| Word Charm | 88511 | [88511-word-charm.json](./88511-word-charm.json) |
 | Word Chase | 324814 | [324814-word-chase.json](./324814-word-chase.json) |
 | Word Chasers | 230457 | [230457-word-chasers.json](./230457-word-chasers.json) |
 | Word Chef | 192066 | [192066-word-chef.json](./192066-word-chef.json) |
@@ -8894,7 +8893,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Puzzle | 102213 | [102213-word-search-puzzle.json](./102213-word-search-puzzle.json) |
 | Word Search Puzzle: Find the Words! | 262323 | [262323-word-search-puzzle-find-the-words.json](./262323-word-search-puzzle-find-the-words.json) |
 | Word Search Puzzle: Word Balls | 233054 | [233054-word-search-puzzle-word-balls.json](./233054-word-search-puzzle-word-balls.json) |
-| Word Search Puzzles | 88870 | [88870-word-search-puzzles.json](./88870-word-search-puzzles.json) |
 | Word Search: Classic Game | 323326 | [323326-word-search-classic-game.json](./323326-word-search-classic-game.json) |
 | Word Search: Word Puzzle Game | 87433 | [87433-word-search-word-puzzle-game.json](./87433-word-search-word-puzzle-game.json) |
 | Word Search: World's Biggest | 240182 | [240182-word-search-worlds-biggest.json](./240182-word-search-worlds-biggest.json) |
@@ -9515,7 +9513,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Dogs | 342991 | [342991-world-of-dogs.json](./342991-world-of-dogs.json) |
 | World of Dragon Nest | 130532 | [130532-world-of-dragon-nest.json](./130532-world-of-dragon-nest.json) |
 | World of Dragon Warrior: Torneko - The Last Hope | 44922 | [44922-world-of-dragon-warrior-torneko-the-last-hope.json](./44922-world-of-dragon-warrior-torneko-the-last-hope.json) |
-| World of Dragons: Dragon Simulator | 88219 | [88219-world-of-dragons-dragon-simulator.json](./88219-world-of-dragons-dragon-simulator.json) |
 | World of Eggs: Idle Adventures | 392516 | [392516-world-of-eggs-idle-adventures.json](./392516-world-of-eggs-idle-adventures.json) |
 | World of Elemental | 358505 | [358505-world-of-elemental.json](./358505-world-of-elemental.json) |
 | World of Empires 2 | 176619 | [176619-world-of-empires-2.json](./176619-world-of-empires-2.json) |
@@ -9942,6 +9939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Tour Soccer 2002 | 23444 | [23444-world-tour-soccer-2002.json](./23444-world-tour-soccer-2002.json) |
 | World Tour Soccer 2003 | 71327 | [71327-world-tour-soccer-2003.json](./71327-world-tour-soccer-2003.json) |
 | World Tour Soccer 2005 | 23546 | [23546-world-tour-soccer-2005.json](./23546-world-tour-soccer-2005.json) |
+| World Tour Soccer 2006 | 72725 | [72725-world-tour-soccer-2006.json](./72725-world-tour-soccer-2006.json) |
 | World Tour Soccer: Challenge Edition | 77087 | [77087-world-tour-soccer-challenge-edition.json](./77087-world-tour-soccer-challenge-edition.json) |
 | World Tour Tennis | 29140 | [29140-world-tour-tennis.json](./29140-world-tour-tennis.json) |
 | World Travel Solitaire | 415964 | [415964-world-travel-solitaire.json](./415964-world-travel-solitaire.json) |
@@ -10333,7 +10331,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms: Open Warfare 2 | 18314 | [18314-worms-open-warfare-2.json](./18314-worms-open-warfare-2.json) |
 | Worms: Reinforcements | 24938 | [24938-worms-reinforcements.json](./24938-worms-reinforcements.json) |
 | Worms: Revolution Extreme | 53032 | [53032-worms-revolution-extreme.json](./53032-worms-revolution-extreme.json) |
-| Worms: Special Edition | 88828 | [88828-worms-special-edition.json](./88828-worms-special-edition.json) |
 | Worms: The Director's Cut | 154748 | [154748-worms-the-directors-cut.json](./154748-worms-the-directors-cut.json) |
 | Worms: The Revolution Collection | 44577 | [44577-worms-the-revolution-collection.json](./44577-worms-the-revolution-collection.json) |
 | Worms: Ultimate Mayhem | 9333 | [9333-worms-ultimate-mayhem.json](./9333-worms-ultimate-mayhem.json) |
@@ -10430,7 +10427,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wowowow Korone Box | 165402 | [165402-wowowow-korone-box.json](./165402-wowowow-korone-box.json) |
 | Woxin Jianghu | 312529 | [312529-woxin-jianghu.json](./312529-woxin-jianghu.json) |
 | Woyo!! | 301958 | [301958-woyo.json](./301958-woyo.json) |
-| Wozznic | 88839 | [88839-wozznic.json](./88839-wozznic.json) |
 | WPCA: World Phasebound Control Authority | 394524 | [394524-wpca-world-phasebound-control-authority.json](./394524-wpca-world-phasebound-control-authority.json) |
 | WpnFire | 345516 | [345516-wpnfire.json](./345516-wpnfire.json) |
 | Wracing | 385722 | [385722-wracing.json](./385722-wracing.json) |
