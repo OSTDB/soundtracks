@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa-Léguas e Coyote | 281881 | [281881-papa-leguas-e-coyote.json](./281881-papa-leguas-e-coyote.json) |
 | Papa-letras | 290083 | [290083-papa-letras.json](./290083-papa-letras.json) |
 | Papa's Bakeria | 101027 | [101027-papas-bakeria.json](./101027-papas-bakeria.json) |
+| Papa's Bakeria to Go! | 422242 | [422242-papas-bakeria-to-go.json](./422242-papas-bakeria-to-go.json) |
 | Papa's Burgeria | 210358 | [210358-papas-burgeria.json](./210358-papas-burgeria.json) |
 | Papa's Burgeria | 77672 | [77672-papas-burgeria.json](./77672-papas-burgeria.json) |
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Scooperia HD | 106198 | [106198-papas-scooperia-hd.json](./106198-papas-scooperia-hd.json) |
 | Papa's Scooperia to Go! | 106183 | [106183-papas-scooperia-to-go.json](./106183-papas-scooperia-to-go.json) |
 | Papa's Sushiria | 101028 | [101028-papas-sushiria.json](./101028-papas-sushiria.json) |
+| Papa's Sushiria to Go! | 422239 | [422239-papas-sushiria-to-go.json](./422239-papas-sushiria-to-go.json) |
 | Papa's Taco Mia HD | 87027 | [87027-papas-taco-mia-hd.json](./87027-papas-taco-mia-hd.json) |
 | Papa's Taco Mia To Go! | 345835 | [345835-papas-taco-mia-to-go.json](./345835-papas-taco-mia-to-go.json) |
 | Papa's Taco Mia! | 141320 | [141320-papas-taco-mia.json](./141320-papas-taco-mia.json) |
@@ -14208,6 +14210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polymega Collection Vol. 15: Body Harvest | 380381 | [380381-polymega-collection-vol-15-body-harvest.json](./380381-polymega-collection-vol-15-body-harvest.json) |
 | Polymega Collection Vol. 16: A Boy and His Blob | 380382 | [380382-polymega-collection-vol-16-a-boy-and-his-blob.json](./380382-polymega-collection-vol-16-a-boy-and-his-blob.json) |
 | Polymega Collection Vol. 2: Karate Champ | 324512 | [324512-polymega-collection-vol-2-karate-champ.json](./324512-polymega-collection-vol-2-karate-champ.json) |
+| Polymega Collection Vol. 23: City Connection | 429508 | [429508-polymega-collection-vol-23-city-connection.json](./429508-polymega-collection-vol-23-city-connection.json) |
 | Polymega Collection Vol. 3: Tiger-Heli | 331642 | [331642-polymega-collection-vol-3-tiger-heli.json](./331642-polymega-collection-vol-3-tiger-heli.json) |
 | Polymega Collection Vol. 4: Drift Out | 331644 | [331644-polymega-collection-vol-4-drift-out.json](./331644-polymega-collection-vol-4-drift-out.json) |
 | Polymega Collection Vol. 5: Bad Dudes | 337540 | [337540-polymega-collection-vol-5-bad-dudes.json](./337540-polymega-collection-vol-5-bad-dudes.json) |
@@ -16060,6 +16063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pre Master | 261406 | [261406-pre-master.json](./261406-pre-master.json) |
 | Pre Post-Modernistic Post-Ironic Dadaism: Dating Simulator | 306969 | [306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json](./306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json) |
 | Pre-Civilization Marble Age | 101718 | [101718-pre-civilization-marble-age.json](./101718-pre-civilization-marble-age.json) |
+| Pre-Echo | 427787 | [427787-pre-echo.json](./427787-pre-echo.json) |
 | Pre-Fortress 2 | 164312 | [164312-pre-fortress-2.json](./164312-pre-fortress-2.json) |
 | Pre-Odyssey: Love at First Quack | 344552 | [344552-pre-odyssey-love-at-first-quack.json](./344552-pre-odyssey-love-at-first-quack.json) |
 | Pre-Odyssey: Odysseus, Penelope and Her Ducks | 204550 | [204550-pre-odyssey-odysseus-penelope-and-her-ducks.json](./204550-pre-odyssey-odysseus-penelope-and-her-ducks.json) |
@@ -17151,6 +17155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Chainball Massacre | 75170 | [75170-prison-chainball-massacre.json](./75170-prison-chainball-massacre.json) |
 | Prison City | 226729 | [226729-prison-city.json](./226729-prison-city.json) |
 | Prison Colony: A Convict's Tale | 260554 | [260554-prison-colony-a-convicts-tale.json](./260554-prison-colony-a-convicts-tale.json) |
+| Prison Control: Idle Prison Tycoon | 424063 | [424063-prison-control-idle-prison-tycoon.json](./424063-prison-control-idle-prison-tycoon.json) |
 | Prison Empire Tycoon: Idle Game | 231907 | [231907-prison-empire-tycoon-idle-game.json](./231907-prison-empire-tycoon-idle-game.json) |
 | Prison Escape | 424724 | [424724-prison-escape.json](./424724-prison-escape.json) |
 | Prison Escape io | 347147 | [347147-prison-escape-io.json](./347147-prison-escape-io.json) |
@@ -20600,6 +20605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purpose Calling | 295795 | [295795-purpose-calling.json](./295795-purpose-calling.json) |
 | Purpose: Versus | 194689 | [194689-purpose-versus.json](./194689-purpose-versus.json) |
 | Purpul Bandana | 55565 | [55565-purpul-bandana.json](./55565-purpul-bandana.json) |
+| Purr Box | 428276 | [428276-purr-box.json](./428276-purr-box.json) |
 | Purr Bricks | 396012 | [396012-purr-bricks.json](./396012-purr-bricks.json) |
 | Purr Diem | 429083 | [429083-purr-diem.json](./429083-purr-diem.json) |
 | Purr Pals | 5110 | [5110-purr-pals.json](./5110-purr-pals.json) |
