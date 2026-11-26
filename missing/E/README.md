@@ -4186,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encyclopedia of War: Ancient Battles | 13319 | [13319-encyclopedia-of-war-ancient-battles.json](./13319-encyclopedia-of-war-ancient-battles.json) |
 | End Chess Arrow | 339747 | [339747-end-chess-arrow.json](./339747-end-chess-arrow.json) |
 | End Date | 315912 | [315912-end-date.json](./315912-end-date.json) |
+| End Fish | 425693 | [425693-end-fish.json](./425693-end-fish.json) |
 | End Game | 263407 | [263407-end-game.json](./263407-end-game.json) |
 | End Gate: The Last Passenger | 311612 | [311612-end-gate-the-last-passenger.json](./311612-end-gate-the-last-passenger.json) |
 | End it, please... | 192483 | [192483-end-it-please.json](./192483-end-it-please.json) |
@@ -6932,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esteem | 333142 | [333142-esteem.json](./333142-esteem.json) |
 | Estelaroid: Escape Room | 258417 | [258417-estelaroid-escape-room.json](./258417-estelaroid-escape-room.json) |
 | Estella | 378466 | [378466-estella.json](./378466-estella.json) |
+| Estella: The Sin of Time | 419891 | [419891-estella-the-sin-of-time.json](./419891-estella-the-sin-of-time.json) |
 | Estelle Igni: To Light Fires in the Night Sky | 427818 | [427818-estelle-igni-to-light-fires-in-the-night-sky.json](./427818-estelle-igni-to-light-fires-in-the-night-sky.json) |
 | Estellina | 286080 | [286080-estellina.json](./286080-estellina.json) |
 | Estellium Legends | 114224 | [114224-estellium-legends.json](./114224-estellium-legends.json) |
