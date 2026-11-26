@@ -2887,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geek Fighter | 90816 | [90816-geek-fighter.json](./90816-geek-fighter.json) |
 | Geek Mind | 124663 | [124663-geek-mind.json](./124663-geek-mind.json) |
 | Geek Resort | 35240 | [35240-geek-resort.json](./35240-geek-resort.json) |
+| Geeked-Out Basketball | 431263 | [431263-geeked-out-basketball.json](./431263-geeked-out-basketball.json) |
 | Geeks vs Gangsters | 54903 | [54903-geeks-vs-gangsters.json](./54903-geeks-vs-gangsters.json) |
 | Geekwords: Game of Words | 156971 | [156971-geekwords-game-of-words.json](./156971-geekwords-game-of-words.json) |
 | Geenius: Cupid Dough | 395196 | [395196-geenius-cupid-dough.json](./395196-geenius-cupid-dough.json) |
@@ -4440,6 +4441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Platoon | 84060 | [84060-ghost-platoon.json](./84060-ghost-platoon.json) |
 | Ghost Pop! | 96998 | [96998-ghost-pop.json](./96998-ghost-pop.json) |
 | Ghost Protocol | 181532 | [181532-ghost-protocol.json](./181532-ghost-protocol.json) |
+| Ghost Pub | 431409 | [431409-ghost-pub.json](./431409-ghost-pub.json) |
 | Ghost Puncher | 211171 | [211171-ghost-puncher.json](./211171-ghost-puncher.json) |
 | Ghost Punishment | 121590 | [121590-ghost-punishment.json](./121590-ghost-punishment.json) |
 | Ghost Pursuit VR | 31977 | [31977-ghost-pursuit-vr.json](./31977-ghost-pursuit-vr.json) |
@@ -5690,6 +5692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glimmer Fighters | 341727 | [341727-glimmer-fighters.json](./341727-glimmer-fighters.json) |
 | Glimmer in Mirror | 139576 | [139576-glimmer-in-mirror.json](./139576-glimmer-in-mirror.json) |
 | Glimmerati | 6263 | [6263-glimmerati.json](./6263-glimmerati.json) |
+| Glimmerholt | 431495 | [431495-glimmerholt.json](./431495-glimmerholt.json) |
 | Glimmers of the Past | 409774 | [409774-glimmers-of-the-past.json](./409774-glimmers-of-the-past.json) |
 | Glimpo | 414380 | [414380-glimpo.json](./414380-glimpo.json) |
 | Glimpse | 235988 | [235988-glimpse.json](./235988-glimpse.json) |
@@ -9623,6 +9626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Misfortune | 421731 | [421731-grave-misfortune.json](./421731-grave-misfortune.json) |
 | Grave Mistakes | 421041 | [421041-grave-mistakes.json](./421041-grave-mistakes.json) |
 | Grave Odds | 424537 | [424537-grave-odds.json](./424537-grave-odds.json) |
+| Grave of Stars | 431494 | [431494-grave-of-stars.json](./431494-grave-of-stars.json) |
 | Grave of the Petrified | 132476 | [132476-grave-of-the-petrified.json](./132476-grave-of-the-petrified.json) |
 | Grave of Träumerei | 229414 | [229414-grave-of-traumerei.json](./229414-grave-of-traumerei.json) |
 | Grave of Voices | 375610 | [375610-grave-of-voices.json](./375610-grave-of-voices.json) |
