@@ -527,7 +527,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 out of 10: Structured Spelling | 14194 | [14194-10-out-of-10-structured-spelling.json](./14194-10-out-of-10-structured-spelling.json) |
 | 10 out of 10: Tables | 14195 | [14195-10-out-of-10-tables.json](./14195-10-out-of-10-tables.json) |
 | 10 Pin Shuffle Bowling | 261319 | [261319-10-pin-shuffle-bowling.json](./261319-10-pin-shuffle-bowling.json) |
-| 10 Pin Shuffle Pro Bowling | 88351 | [88351-10-pin-shuffle-pro-bowling.json](./88351-10-pin-shuffle-pro-bowling.json) |
 | 10 Pin: Champions Alley | 97356 | [97356-10-pin-champions-alley.json](./97356-10-pin-champions-alley.json) |
 | 10 Puzzle | 82571 | [82571-10-puzzle.json](./82571-10-puzzle.json) |
 | 10 Score | 103580 | [103580-10-score.json](./103580-10-score.json) |
@@ -806,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Percent Star | 45233 | [45233-100-percent-star.json](./45233-100-percent-star.json) |
 | 100 Pet Cats | 387775 | [387775-100-pet-cats.json](./387775-100-pet-cats.json) |
 | 100 Petopia Cats | 416424 | [416424-100-petopia-cats.json](./416424-100-petopia-cats.json) |
+| 100 Pics Quiz | 70890 | [70890-100-pics-quiz.json](./70890-100-pics-quiz.json) |
 | 100 Pirate Cats | 283036 | [283036-100-pirate-cats.json](./283036-100-pirate-cats.json) |
 | 100 Pirate Cats: Extra Content | 288731 | [288731-100-pirate-cats-extra-content.json](./288731-100-pirate-cats-extra-content.json) |
 | 100 Pumpkins | 175852 | [175852-100-pumpkins.json](./175852-100-pumpkins.json) |
@@ -1653,7 +1653,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1944: Return to Midway | 310970 | [310970-1944-return-to-midway.json](./310970-1944-return-to-midway.json) |
 | 1944: The Loop Master | 6079 | [6079-1944-the-loop-master.json](./6079-1944-the-loop-master.json) |
 | 1945 Air Strike | 76464 | [76464-1945-air-strike.json](./76464-1945-air-strike.json) |
-| 1945 Air Strike Classic | 88622 | [88622-1945-air-strike-classic.json](./88622-1945-air-strike-classic.json) |
 | 1945 I & II: The Arcade Games | 61500 | [61500-1945-i-and-ii-the-arcade-games.json](./61500-1945-i-and-ii-the-arcade-games.json) |
 | 1945k III | 6733 | [6733-1945k-iii.json](./6733-1945k-iii.json) |
 | 1948 Dawn of Future | 256213 | [256213-1948-dawn-of-future.json](./256213-1948-dawn-of-future.json) |
@@ -1789,7 +1788,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Fast 4 You | 25700 | [25700-2-fast-4-you.json](./25700-2-fast-4-you.json) |
 | 2 Fast Driver | 52358 | [52358-2-fast-driver.json](./52358-2-fast-driver.json) |
 | 2 Fights in 2 Tight Spaces | 405126 | [405126-2-fights-in-2-tight-spaces.json](./405126-2-fights-in-2-tight-spaces.json) |
-| 2 For 2 | 88545 | [88545-2-for-2.json](./88545-2-for-2.json) |
 | 2 for one 1 Power Pack I Kawasaki Jet Ski / Summer Sports 2: Island Sports Party | 141969 | [141969-2-for-one-1-power-pack-i-kawasaki-jet-ski-summer-sports-2-island-sports-party.json](./141969-2-for-one-1-power-pack-i-kawasaki-jet-ski-summer-sports-2-island-sports-party.json) |
 | 2 Foxes and the Puzzling Forest | 185095 | [185095-2-foxes-and-the-puzzling-forest.json](./185095-2-foxes-and-the-puzzling-forest.json) |
 | 2 Game Collector Pack: 99 Action Arcade & Ultimate Riders | 365018 | [365018-2-game-collector-pack-99-action-arcade-and-ultimate-riders.json](./365018-2-game-collector-pack-99-action-arcade-and-ultimate-riders.json) |
@@ -2651,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 32, Dandelion Drift | 348227 | [348227-32-dandelion-drift.json](./348227-32-dandelion-drift.json) |
 | 326 | 254711 | [254711-326.json](./254711-326.json) |
 | 32in24-14: How the Hamburglar Stole Christmas | 315168 | [315168-32in24-14-how-the-hamburglar-stole-christmas.json](./315168-32in24-14-how-the-hamburglar-stole-christmas.json) |
+| 32nd America's Cup: The Game | 72609 | [72609-32nd-americas-cup-the-game.json](./72609-32nd-americas-cup-the-game.json) |
 | 33 kvadratnykh metra: Voyna s sosedyami | 337520 | [337520-33-kvadratnykh-metra-voyna-s-sosedyami.json](./337520-33-kvadratnykh-metra-voyna-s-sosedyami.json) |
 | 33 Rounds | 126563 | [126563-33-rounds.json](./126563-33-rounds.json) |
 | 33 Seconds | 208056 | [208056-33-seconds.json](./208056-33-seconds.json) |
@@ -3573,7 +3572,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5th Gear | 11877 | [11877-5th-gear.json](./11877-5th-gear.json) |
 | 5till L1 Complex | 263362 | [263362-5till-l1-complex.json](./263362-5till-l1-complex.json) |
 | 5X | 100095 | [100095-5x.json](./100095-5x.json) |
-| 5x Qube : addictive puzzle grid fill 10/10 | 88672 | [88672-5x-qube-addictive-puzzle-grid-fill-10-10.json](./88672-5x-qube-addictive-puzzle-grid-fill-10-10.json) |
 | 5yn-OS | 424692 | [424692-5yn-os.json](./424692-5yn-os.json) |
 | 6 | 34296 | [34296-6.json](./34296-6.json) |
 | 6 AM at The Chum Bucket | 178804 | [178804-6-am-at-the-chum-bucket.json](./178804-6-am-at-the-chum-bucket.json) |
@@ -3857,7 +3855,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7Rhythm | 124268 | [124268-7rhythm.json](./124268-7rhythm.json) |
 | 7Swordsman | 197394 | [197394-7swordsman.json](./197394-7swordsman.json) |
 | 7th Chance | 152897 | [152897-7th-chance.json](./152897-7th-chance.json) |
-| 7th Deep | 88084 | [88084-7th-deep.json](./88084-7th-deep.json) |
 | 7th Domain | 253471 | [253471-7th-domain.json](./253471-7th-domain.json) |
 | 7th Domain: Tree of Chaos | 308917 | [308917-7th-domain-tree-of-chaos.json](./308917-7th-domain-tree-of-chaos.json) |
 | 7th Dragon | 11817 | [11817-7th-dragon.json](./11817-7th-dragon.json) |
@@ -3892,7 +3889,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Ball Kings | 377124 | [377124-8-ball-kings.json](./377124-8-ball-kings.json) |
 | 8 Ball Legend: Online Pool | 233120 | [233120-8-ball-legend-online-pool.json](./233120-8-ball-legend-online-pool.json) |
 | 8 Ball Pool | 39185 | [39185-8-ball-pool.json](./39185-8-ball-pool.json) |
-| 8 Ball Pool City | 88880 | [88880-8-ball-pool-city.json](./88880-8-ball-pool-city.json) |
 | 8 Ball Pool Classic | 277416 | [277416-8-ball-pool-classic.json](./277416-8-ball-pool-classic.json) |
 | 8 Ball Pool Online | 403400 | [403400-8-ball-pool-online.json](./403400-8-ball-pool-online.json) |
 | 8 Ball: Reborn | 337783 | [337783-8-ball-reborn.json](./337783-8-ball-reborn.json) |
