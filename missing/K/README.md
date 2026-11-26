@@ -3843,7 +3843,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Builder | 61049 | [61049-kingdom-builder.json](./61049-kingdom-builder.json) |
 | Kingdom Builders | 143884 | [143884-kingdom-builders.json](./143884-kingdom-builders.json) |
 | Kingdom Chess | 163691 | [163691-kingdom-chess.json](./163691-kingdom-chess.json) |
-| Kingdom Chronicles | 89714 | [89714-kingdom-chronicles.json](./89714-kingdom-chronicles.json) |
 | Kingdom Chronicles HD | 102651 | [102651-kingdom-chronicles-hd.json](./102651-kingdom-chronicles-hd.json) |
 | Kingdom City Drowning Ep1 - The Champion | 55463 | [55463-kingdom-city-drowning-ep1-the-champion.json](./55463-kingdom-city-drowning-ep1-the-champion.json) |
 | Kingdom Clicker | 180926 | [180926-kingdom-clicker.json](./180926-kingdom-clicker.json) |
