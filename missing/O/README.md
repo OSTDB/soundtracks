@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Wars | 354819 | [354819-office-wars.json](./354819-office-wars.json) |
 | Office Wars: Escape from 9 to 5 | 427942 | [427942-office-wars-escape-from-9-to-5.json](./427942-office-wars-escape-from-9-to-5.json) |
 | Office Zombie | 316740 | [316740-office-zombie.json](./316740-office-zombie.json) |
+| Office4649 | 424242 | [424242-office4649.json](./424242-office4649.json) |
 | Office7 | 292460 | [292460-office7.json](./292460-office7.json) |
 | OfficeBotsVR | 90952 | [90952-officebotsvr.json](./90952-officebotsvr.json) |
 | OfficeEscape | 116903 | [116903-officeescape.json](./116903-officeescape.json) |
@@ -2682,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Lie | 297972 | [297972-one-lie.json](./297972-one-lie.json) |
 | One Life | 197239 | [197239-one-life.json](./197239-one-life.json) |
 | One Life | 426413 | [426413-one-life.json](./426413-one-life.json) |
+| One Life | 426740 | [426740-one-life.json](./426740-one-life.json) |
 | One Life Clicker | 261153 | [261153-one-life-clicker.json](./261153-one-life-clicker.json) |
 | One Life to Alice | 260228 | [260228-one-life-to-alice.json](./260228-one-life-to-alice.json) |
 | One Life: Parkour Project | 318781 | [318781-one-life-parkour-project.json](./318781-one-life-parkour-project.json) |
@@ -4838,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origins of Lost Alchemies | 60344 | [60344-origins-of-lost-alchemies.json](./60344-origins-of-lost-alchemies.json) |
 | Origins of Merlin: Muscles and Magic | 166710 | [166710-origins-of-merlin-muscles-and-magic.json](./166710-origins-of-merlin-muscles-and-magic.json) |
 | Origins TCG | 412262 | [412262-origins-tcg.json](./412262-origins-tcg.json) |
+| Origins: Revenance | 421516 | [421516-origins-revenance.json](./421516-origins-revenance.json) |
 | Origins2 | 130617 | [130617-origins2.json](./130617-origins2.json) |
 | Orika: Rise From The Crash | 336587 | [336587-orika-rise-from-the-crash.json](./336587-orika-rise-from-the-crash.json) |
 | Oriko Days | 385979 | [385979-oriko-days.json](./385979-oriko-days.json) |
