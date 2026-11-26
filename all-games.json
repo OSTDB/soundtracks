@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-26T01:55:55.456Z",
-  "total_soundtracks": 3952,
+  "generated_at": "2026-11-26T06:25:57.592Z",
+  "total_soundtracks": 3953,
   "games": [
     {
       "igdb_id": 292844,
@@ -40254,6 +40254,20 @@
     },
     {
       "igdb_id": 22893,
+      "game_name": "Stratego",
+      "game_url": "https://ostdb.net/games/stratego",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b8ebe407ecb2da83599654c2",
+      "albums": [
+        {
+          "album_name": "Stratego (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6WoMsOobP0tqkzWegbxwEd",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 88897,
       "game_name": "Stratego",
       "game_url": "https://ostdb.net/games/stratego",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b273b8ebe407ecb2da83599654c2",
