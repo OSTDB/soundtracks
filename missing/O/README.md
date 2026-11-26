@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obey Me!: One Master to Rule Them All | 132649 | [132649-obey-me-one-master-to-rule-them-all.json](./132649-obey-me-one-master-to-rule-them-all.json) |
 | Obey the Insect God | 381097 | [381097-obey-the-insect-god.json](./381097-obey-the-insect-god.json) |
 | Obey the Law | 163983 | [163983-obey-the-law.json](./163983-obey-the-law.json) |
+| Obey the Rules: Forest | 431235 | [431235-obey-the-rules-forest.json](./431235-obey-the-rules-forest.json) |
 | Obey the Voice | 386276 | [386276-obey-the-voice.json](./386276-obey-the-voice.json) |
 | Obey Your Pirate Queen! | 282655 | [282655-obey-your-pirate-queen.json](./282655-obey-your-pirate-queen.json) |
 | Obey! The Game | 251705 | [251705-obey-the-game.json](./251705-obey-the-game.json) |
@@ -4863,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orion's Odyssey | 85322 | [85322-orions-odyssey.json](./85322-orions-odyssey.json) |
 | Orion13 | 123813 | [123813-orion13.json](./123813-orion13.json) |
 | Orion71 Shooter Mayhem Arena | 310838 | [310838-orion71-shooter-mayhem-arena.json](./310838-orion71-shooter-mayhem-arena.json) |
+| Orions: Legend of Wizards | 23269 | [23269-orions-legend-of-wizards.json](./23269-orions-legend-of-wizards.json) |
 | Oriontis | 354937 | [354937-oriontis.json](./354937-oriontis.json) |
 | Oripathy | 267579 | [267579-oripathy.json](./267579-oripathy.json) |
 | Orisinal Collection | 397867 | [397867-orisinal-collection.json](./397867-orisinal-collection.json) |
