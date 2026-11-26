@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandelions in the Sky | 135756 | [135756-dandelions-in-the-sky.json](./135756-dandelions-in-the-sky.json) |
 | Dander | 36785 | [36785-dander.json](./36785-dander.json) |
 | Dandi World | 195134 | [195134-dandi-world.json](./195134-dandi-world.json) |
+| Dando | 421796 | [421796-dando.json](./421796-dando.json) |
 | Dandy | 13568 | [13568-dandy.json](./13568-dandy.json) |
 | Dandy | 296134 | [296134-dandy.json](./296134-dandy.json) |
 | Dandy & Randy | 110964 | [110964-dandy-and-randy.json](./110964-dandy-and-randy.json) |
