@@ -3207,7 +3207,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elmo's Deep Sea Adventure | 71511 | [71511-elmos-deep-sea-adventure.json](./71511-elmos-deep-sea-adventure.json) |
 | Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
 | Elmo's Kangaroo of the damned: Punishment Edition | 171404 | [171404-elmos-kangaroo-of-the-damned-punishment-edition.json](./171404-elmos-kangaroo-of-the-damned-punishment-edition.json) |
-| Elmo's Monster Maker HD | 89732 | [89732-elmos-monster-maker-hd.json](./89732-elmos-monster-maker-hd.json) |
 | Elmo's Preschool | 201886 | [201886-elmos-preschool.json](./201886-elmos-preschool.json) |
 | Elmo's Reading Basics | 392088 | [392088-elmos-reading-basics.json](./392088-elmos-reading-basics.json) |
 | Elmo's World and You | 87470 | [87470-elmos-world-and-you.json](./87470-elmos-world-and-you.json) |
@@ -3523,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embrace.io | 31560 | [31560-embrace-io.json](./31560-embrace-io.json) |
 | Embraced | 299429 | [299429-embraced.json](./299429-embraced.json) |
 | Embraced by Autumn | 154032 | [154032-embraced-by-autumn.json](./154032-embraced-by-autumn.json) |
+| Embraced by Green | 417960 | [417960-embraced-by-green.json](./417960-embraced-by-green.json) |
 | Embracelet | 136409 | [136409-embracelet.json](./136409-embracelet.json) |
 | Embracing Darkness | 235483 | [235483-embracing-darkness.json](./235483-embracing-darkness.json) |
 | Embrawl | 423906 | [423906-embrawl.json](./423906-embrawl.json) |
