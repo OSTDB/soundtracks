@@ -8068,7 +8068,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Chibis in Combinis | 302322 | [302322-hidden-chibis-in-combinis.json](./302322-hidden-chibis-in-combinis.json) |
 | Hidden Chinese Chess | 242109 | [242109-hidden-chinese-chess.json](./242109-hidden-chinese-chess.json) |
 | Hidden City Top-Down 3D | 267460 | [267460-hidden-city-top-down-3d.json](./267460-hidden-city-top-down-3d.json) |
-| Hidden City: Hidden Object Adventure | 88900 | [88900-hidden-city-hidden-object-adventure.json](./88900-hidden-city-hidden-object-adventure.json) |
 | Hidden Clues 2: Miami | 289654 | [289654-hidden-clues-2-miami.json](./289654-hidden-clues-2-miami.json) |
 | Hidden Clues: Gang Wars | 295101 | [295101-hidden-clues-gang-wars.json](./295101-hidden-clues-gang-wars.json) |
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
@@ -8450,7 +8449,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Wonderland | 98324 | [98324-hidden-object-wonderland.json](./98324-hidden-object-wonderland.json) |
 | Hidden Object: Zodiac | 98547 | [98547-hidden-object-zodiac.json](./98547-hidden-object-zodiac.json) |
 | Hidden Objects | 320319 | [320319-hidden-objects.json](./320319-hidden-objects.json) |
-| Hidden Objects - Country Style | 89164 | [89164-hidden-objects-country-style.json](./89164-hidden-objects-country-style.json) |
 | Hidden Objects - Forest Fairies | 89286 | [89286-hidden-objects-forest-fairies.json](./89286-hidden-objects-forest-fairies.json) |
 | Hidden Objects - Haunted Places | 96336 | [96336-hidden-objects-haunted-places.json](./96336-hidden-objects-haunted-places.json) |
 | Hidden Objects - Ireland Adventures & Object Time Puzzle Games | 71205 | [71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json](./71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json) |
@@ -12330,7 +12328,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Line | 363605 | [363605-hot-line.json](./363605-hot-line.json) |
 | Hot Line | 47261 | [47261-hot-line.json](./47261-hot-line.json) |
 | Hot Love Dreams: Classic Hentai Logic Puzzle | 274502 | [274502-hot-love-dreams-classic-hentai-logic-puzzle.json](./274502-hot-love-dreams-classic-hentai-logic-puzzle.json) |
-| Hot Mars 69 | 89587 | [89587-hot-mars-69.json](./89587-hot-mars-69.json) |
 | Hot Meals Fast Wheels | 390318 | [390318-hot-meals-fast-wheels.json](./390318-hot-meals-fast-wheels.json) |
 | Hot Mic | 424634 | [424634-hot-mic.json](./424634-hot-mic.json) |
 | Hot Milf | 193265 | [193265-hot-milf.json](./193265-hot-milf.json) |
@@ -13363,7 +13360,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Casino Games 2013 | 46725 | [46725-hoyle-casino-games-2013.json](./46725-hoyle-casino-games-2013.json) |
 | Hoyle Children's Collection | 71428 | [71428-hoyle-childrens-collection.json](./71428-hoyle-childrens-collection.json) |
 | Hoyle Classic Board Game Collection 1 | 90884 | [90884-hoyle-classic-board-game-collection-1.json](./90884-hoyle-classic-board-game-collection-1.json) |
-| Hoyle Classic Board Game Collection 2 | 89692 | [89692-hoyle-classic-board-game-collection-2.json](./89692-hoyle-classic-board-game-collection-2.json) |
 | Hoyle Classic Board Games | 131359 | [131359-hoyle-classic-board-games.json](./131359-hoyle-classic-board-games.json) |
 | Hoyle Classic Games | 71149 | [71149-hoyle-classic-games.json](./71149-hoyle-classic-games.json) |
 | Hoyle Club House Collection | 99892 | [99892-hoyle-club-house-collection.json](./99892-hoyle-club-house-collection.json) |
@@ -13382,7 +13378,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Official Card Games Collection | 34590 | [34590-hoyle-official-card-games-collection.json](./34590-hoyle-official-card-games-collection.json) |
 | Hoyle Official Casino Games | 31062 | [31062-hoyle-official-casino-games.json](./31062-hoyle-official-casino-games.json) |
 | Hoyle Official Casino Games Collection | 87061 | [87061-hoyle-official-casino-games-collection.json](./87061-hoyle-official-casino-games-collection.json) |
-| Hoyle Parlor Games | 89693 | [89693-hoyle-parlor-games.json](./89693-hoyle-parlor-games.json) |
 | Hoyle Poker | 73147 | [73147-hoyle-poker.json](./73147-hoyle-poker.json) |
 | Hoyle Poker and More | 88343 | [88343-hoyle-poker-and-more.json](./88343-hoyle-poker-and-more.json) |
 | Hoyle Poker Series | 210074 | [210074-hoyle-poker-series.json](./210074-hoyle-poker-series.json) |
