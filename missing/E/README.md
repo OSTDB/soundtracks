@@ -654,7 +654,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Flight Simulator | 159385 | [159385-easy-flight-simulator.json](./159385-easy-flight-simulator.json) |
 | Easy Flight Simulator 2 | 375408 | [375408-easy-flight-simulator-2.json](./375408-easy-flight-simulator-2.json) |
 | Easy Game | 232917 | [232917-easy-game.json](./232917-easy-game.json) |
-| Easy Gems Free: Amazing Match 3 Puzzle | 89177 | [89177-easy-gems-free-amazing-match-3-puzzle.json](./89177-easy-gems-free-amazing-match-3-puzzle.json) |
 | Easy Godding | 274669 | [274669-easy-godding.json](./274669-easy-godding.json) |
 | Easy Golf | 70617 | [70617-easy-golf.json](./70617-easy-golf.json) |
 | Easy Golf: Course Architect | 23020 | [23020-easy-golf-course-architect.json](./23020-easy-golf-course-architect.json) |
@@ -1543,7 +1542,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edrath | 429697 | [429697-edrath.json](./429697-edrath.json) |
 | Edrick's Conquest | 198041 | [198041-edricks-conquest.json](./198041-edricks-conquest.json) |
 | Edtris 2600 | 78031 | [78031-edtris-2600.json](./78031-edtris-2600.json) |
-| Edu Cards for Pre-school Kids | 89063 | [89063-edu-cards-for-pre-school-kids.json](./89063-edu-cards-for-pre-school-kids.json) |
 | Edu Simulator | 408043 | [408043-edu-simulator.json](./408043-edu-simulator.json) |
 | EduBirthday-Best Toddler Games | 106713 | [106713-edubirthday-best-toddler-games.json](./106713-edubirthday-best-toddler-games.json) |
 | Educating Adventures of Girl and Rabbit | 419907 | [419907-educating-adventures-of-girl-and-rabbit.json](./419907-educating-adventures-of-girl-and-rabbit.json) |
@@ -1721,7 +1719,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg RTX | 288707 | [288707-egg-rtx.json](./288707-egg-rtx.json) |
 | Egg Run | 320731 | [320731-egg-run.json](./320731-egg-run.json) |
 | Egg Runner | 201735 | [201735-egg-runner.json](./201735-egg-runner.json) |
-| Egg Splash | 89194 | [89194-egg-splash.json](./89194-egg-splash.json) |
 | Egg Squeeze | 318509 | [318509-egg-squeeze.json](./318509-egg-squeeze.json) |
 | Egg Summoner | 337875 | [337875-egg-summoner.json](./337875-egg-summoner.json) |
 | Egg Surprise | 314432 | [314432-egg-surprise.json](./314432-egg-surprise.json) |
@@ -3202,7 +3199,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elminage Mobile: Fukkatsu no Majo to Seinaru Hana | 418788 | [418788-elminage-mobile-fukkatsu-no-majo-to-seinaru-hana.json](./418788-elminage-mobile-fukkatsu-no-majo-to-seinaru-hana.json) |
 | Elminage: Yami no Miko to Kamigami no Yubiwa | 21025 | [21025-elminage-yami-no-miko-to-kamigami-no-yubiwa.json](./21025-elminage-yami-no-miko-to-kamigami-no-yubiwa.json) |
 | Elmo Calls | 87337 | [87337-elmo-calls.json](./87337-elmo-calls.json) |
-| Elmo Loves 123s | 88971 | [88971-elmo-loves-123s.json](./88971-elmo-loves-123s.json) |
 | Elmo Through the Looking-Glass | 333203 | [333203-elmo-through-the-looking-glass.json](./333203-elmo-through-the-looking-glass.json) |
 | Elmo's Deep Sea Adventure | 71511 | [71511-elmos-deep-sea-adventure.json](./71511-elmos-deep-sea-adventure.json) |
 | Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
@@ -3908,7 +3904,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire: Wargame of the Century | 12583 | [12583-empire-wargame-of-the-century.json](./12583-empire-wargame-of-the-century.json) |
 | Empire! | 13640 | [13640-empire.json](./13640-empire.json) |
 | Empire's Order | 254713 | [254713-empires-order.json](./254713-empires-order.json) |
-| Empire&Boat | 89014 | [89014-empire-and-boat.json](./89014-empire-and-boat.json) |
 | Empires | 29123 | [29123-empires.json](./29123-empires.json) |
 | Empires | 36445 | [36445-empires.json](./36445-empires.json) |
 | Empires & Allies | 257272 | [257272-empires-and-allies.json](./257272-empires-and-allies.json) |
@@ -5872,7 +5867,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ES Games | 334784 | [334784-es-games.json](./334784-es-games.json) |
 | Es Un Día Normal y Eso Es Casi Milagroso | 346642 | [346642-es-un-dia-normal-y-eso-es-casi-milagroso.json](./346642-es-un-dia-normal-y-eso-es-casi-milagroso.json) |
 | ESA Shield | 348660 | [348660-esa-shield.json](./348660-esa-shield.json) |
-| eSail | 89648 | [89648-esail.json](./89648-esail.json) |
 | eSail Yacht Sailing Simulator | 131236 | [131236-esail-yacht-sailing-simulator.json](./131236-esail-yacht-sailing-simulator.json) |
 | Esau's World | 294150 | [294150-esaus-world.json](./294150-esaus-world.json) |
 | Esc | 177419 | [177419-esc.json](./177419-esc.json) |
@@ -6442,7 +6436,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room Ultimate Trilogy | 332333 | [332333-escape-room-ultimate-trilogy.json](./332333-escape-room-ultimate-trilogy.json) |
 | Escape Room VR | 128340 | [128340-escape-room-vr.json](./128340-escape-room-vr.json) |
 | Escape Room VR: Inner Voices | 135724 | [135724-escape-room-vr-inner-voices.json](./135724-escape-room-vr-inner-voices.json) |
-| Escape Room VR: Stories | 89077 | [89077-escape-room-vr-stories.json](./89077-escape-room-vr-stories.json) |
 | Escape Room VR: Vaudeville | 159976 | [159976-escape-room-vr-vaudeville.json](./159976-escape-room-vr-vaudeville.json) |
 | Escape Room: Bank Robbery Gone Wrong | 244246 | [244246-escape-room-bank-robbery-gone-wrong.json](./244246-escape-room-bank-robbery-gone-wrong.json) |
 | Escape Room: Beyond Mystery | 315265 | [315265-escape-room-beyond-mystery.json](./315265-escape-room-beyond-mystery.json) |
@@ -7515,7 +7508,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis II | 682 | [682-europa-universalis-ii.json](./682-europa-universalis-ii.json) |
 | Europa Universalis II: Asia Chapters | 73408 | [73408-europa-universalis-ii-asia-chapters.json](./73408-europa-universalis-ii-asia-chapters.json) |
 | Europa Universalis III | 683 | [683-europa-universalis-iii.json](./683-europa-universalis-iii.json) |
-| Europa Universalis III Chron | 89087 | [89087-europa-universalis-iii-chron.json](./89087-europa-universalis-iii-chron.json) |
 | Europa Universalis III Chronicles | 25525 | [25525-europa-universalis-iii-chronicles.json](./25525-europa-universalis-iii-chronicles.json) |
 | Europa Universalis III Complete | 51815 | [51815-europa-universalis-iii-complete.json](./51815-europa-universalis-iii-complete.json) |
 | Europa Universalis III: Collector's Edition | 52971 | [52971-europa-universalis-iii-collectors-edition.json](./52971-europa-universalis-iii-collectors-edition.json) |
@@ -9361,7 +9353,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explore | 259720 | [259720-explore.json](./259720-explore.json) |
 | Explore Another World Bundle | 330431 | [330431-explore-another-world-bundle.json](./330431-explore-another-world-bundle.json) |
 | Explore Dreams: Dreamcore | 426605 | [426605-explore-dreams-dreamcore.json](./426605-explore-dreams-dreamcore.json) |
-| Explore Fish Feeding and Grow | 88983 | [88983-explore-fish-feeding-and-grow.json](./88983-explore-fish-feeding-and-grow.json) |
 | Explore Fushimi Inari | 120567 | [120567-explore-fushimi-inari.json](./120567-explore-fushimi-inari.json) |
 | Explore Inc | 179030 | [179030-explore-inc.json](./179030-explore-inc.json) |
 | Explore Jam 1 | 275319 | [275319-explore-jam-1.json](./275319-explore-jam-1.json) |
