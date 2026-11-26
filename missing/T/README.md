@@ -2956,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarzan VR: #3 The Dead of the Night | 219569 | [219569-tarzan-vr-3-the-dead-of-the-night.json](./219569-tarzan-vr-3-the-dead-of-the-night.json) |
 | Tarzan: Lord of the Jungle | 228974 | [228974-tarzan-lord-of-the-jungle.json](./228974-tarzan-lord-of-the-jungle.json) |
 | Tarzan: Lord of the Jungle | 49062 | [49062-tarzan-lord-of-the-jungle.json](./49062-tarzan-lord-of-the-jungle.json) |
+| Tas d’or | 431477 | [431477-tas-d-or.json](./431477-tas-d-or.json) |
 | Tasac | 48805 | [48805-tasac.json](./48805-tasac.json) |
 | Tasac 2010 | 195060 | [195060-tasac-2010.json](./195060-tasac-2010.json) |
 | Taser Gun | 289724 | [289724-taser-gun.json](./289724-taser-gun.json) |
@@ -4436,6 +4437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporian Tale | 224738 | [224738-temporian-tale.json](./224738-temporian-tale.json) |
 | Temporis Arts | 271870 | [271870-temporis-arts.json](./271870-temporis-arts.json) |
 | Temporus | 120797 | [120797-temporus.json](./120797-temporus.json) |
+| Temppal: Overgeared | 431500 | [431500-temppal-overgeared.json](./431500-temppal-overgeared.json) |
 | Tempres | 142881 | [142881-tempres.json](./142881-tempres.json) |
 | Temptation | 93800 | [93800-temptation.json](./93800-temptation.json) |
 | Temptation 2 | 97557 | [97557-temptation-2.json](./97557-temptation-2.json) |
@@ -6082,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's Mahjong! | 30811 | [30811-thats-mahjong.json](./30811-thats-mahjong.json) |
 | That's My Exploit Keeper! | 324017 | [324017-thats-my-exploit-keeper.json](./324017-thats-my-exploit-keeper.json) |
 | That's My Family: Family Fun Night | 241102 | [241102-thats-my-family-family-fun-night.json](./241102-thats-my-family-family-fun-night.json) |
+| That's My Monster: Neighbor Among Us | 431408 | [431408-thats-my-monster-neighbor-among-us.json](./431408-thats-my-monster-neighbor-among-us.json) |
 | That's My Seat | 387467 | [387467-thats-my-seat.json](./387467-thats-my-seat.json) |
 | That's My Space | 250740 | [250740-thats-my-space.json](./250740-thats-my-space.json) |
 | That's My Tofu | 391188 | [391188-thats-my-tofu.json](./391188-thats-my-tofu.json) |
@@ -6416,6 +6419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Felix Fox: Tale of the Night | 65920 | [65920-the-adventures-of-felix-fox-tale-of-the-night.json](./65920-the-adventures-of-felix-fox-tale-of-the-night.json) |
 | The Adventures of Firulais & Calcetines | 326934 | [326934-the-adventures-of-firulais-and-calcetines.json](./326934-the-adventures-of-firulais-and-calcetines.json) |
 | The Adventures of Fluffy | 44283 | [44283-the-adventures-of-fluffy.json](./44283-the-adventures-of-fluffy.json) |
+| The Adventures of Gael Longsword | 431512 | [431512-the-adventures-of-gael-longsword.json](./431512-the-adventures-of-gael-longsword.json) |
 | The Adventures of Gilligan's Island | 8742 | [8742-the-adventures-of-gilligans-island.json](./8742-the-adventures-of-gilligans-island.json) |
 | The Adventures of Golly | 116858 | [116858-the-adventures-of-golly.json](./116858-the-adventures-of-golly.json) |
 | The Adventures of Graham | 398329 | [398329-the-adventures-of-graham.json](./398329-the-adventures-of-graham.json) |
@@ -6478,6 +6482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Pinocchio | 49100 | [49100-the-adventures-of-pinocchio.json](./49100-the-adventures-of-pinocchio.json) |
 | The Adventures of Pinocchio: Activity Center | 206211 | [206211-the-adventures-of-pinocchio-activity-center.json](./206211-the-adventures-of-pinocchio-activity-center.json) |
 | The Adventures of Poppe | 194906 | [194906-the-adventures-of-poppe.json](./194906-the-adventures-of-poppe.json) |
+| The Adventures of Portos | 431448 | [431448-the-adventures-of-portos.json](./431448-the-adventures-of-portos.json) |
 | The Adventures of Prince Shiratama: Climb the Mountains | 302795 | [302795-the-adventures-of-prince-shiratama-climb-the-mountains.json](./302795-the-adventures-of-prince-shiratama-climb-the-mountains.json) |
 | The Adventures of Quik & Silva | 14155 | [14155-the-adventures-of-quik-and-silva.json](./14155-the-adventures-of-quik-and-silva.json) |
 | The Adventures of R.Sole: Nothing, Nowhere & Not at the Same Time | 390692 | [390692-the-adventures-of-r-sole-nothing-nowhere-and-not-at-the-same-time.json](./390692-the-adventures-of-r-sole-nothing-nowhere-and-not-at-the-same-time.json) |
@@ -9900,6 +9905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Of Yourself | 320633 | [320633-the-dream-of-yourself.json](./320633-the-dream-of-yourself.json) |
 | The Dream Office | 258299 | [258299-the-dream-office.json](./258299-the-dream-office.json) |
 | The Dream Office: Office Decor Pack | 426968 | [426968-the-dream-office-office-decor-pack.json](./426968-the-dream-office-office-decor-pack.json) |
+| The Dream Sequence | 431504 | [431504-the-dream-sequence.json](./431504-the-dream-sequence.json) |
 | The Dream Sequences | 221586 | [221586-the-dream-sequences.json](./221586-the-dream-sequences.json) |
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
 | The Dream Team: 3 on 3 Challenge | 80049 | [80049-the-dream-team-3-on-3-challenge.json](./80049-the-dream-team-3-on-3-challenge.json) |
@@ -11076,6 +11082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Round | 289135 | [289135-the-first-round.json](./289135-the-first-round.json) |
 | The First Samurai + The Second Samurai Bundle | 154183 | [154183-the-first-samurai-the-second-samurai-bundle.json](./154183-the-first-samurai-the-second-samurai-bundle.json) |
 | The First Scene | 360867 | [360867-the-first-scene.json](./360867-the-first-scene.json) |
+| The First Seal | 431478 | [431478-the-first-seal.json](./431478-the-first-seal.json) |
 | The First Settlement VR | 311550 | [311550-the-first-settlement-vr.json](./311550-the-first-settlement-vr.json) |
 | The First Skunk Bundle | 57866 | [57866-the-first-skunk-bundle.json](./57866-the-first-skunk-bundle.json) |
 | The First SMW Hack that will Ever be so Lucky as to Gain the Luxury of Leaving My PC | 278628 | [278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json](./278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json) |
@@ -13984,6 +13991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Federation Collection | 51924 | [51924-the-last-federation-collection.json](./51924-the-last-federation-collection.json) |
 | The Last Federation: Betrayed Hope | 8782 | [8782-the-last-federation-betrayed-hope.json](./8782-the-last-federation-betrayed-hope.json) |
 | The Last Federation: The Lost Technologies | 124867 | [124867-the-last-federation-the-lost-technologies.json](./124867-the-last-federation-the-lost-technologies.json) |
+| The Last Fight | 431418 | [431418-the-last-fight.json](./431418-the-last-fight.json) |
 | The Last Fighter | 209662 | [209662-the-last-fighter.json](./209662-the-last-fighter.json) |
 | The Last Fireman | 427528 | [427528-the-last-fireman.json](./427528-the-last-fireman.json) |
 | The Last Flame | 226601 | [226601-the-last-flame.json](./226601-the-last-flame.json) |
@@ -14311,6 +14319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The last tank fight | 152948 | [152948-the-last-tank-fight.json](./152948-the-last-tank-fight.json) |
 | The Last Tape | 334841 | [334841-the-last-tape.json](./334841-the-last-tape.json) |
 | The Last Tape: Before the Mine | 372973 | [372973-the-last-tape-before-the-mine.json](./372973-the-last-tape-before-the-mine.json) |
+| The Last Taster | 431465 | [431465-the-last-taster.json](./431465-the-last-taster.json) |
 | The Last Tater | 200346 | [200346-the-last-tater.json](./200346-the-last-tater.json) |
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
 | The Last Team | 421238 | [421238-the-last-team.json](./421238-the-last-team.json) |
