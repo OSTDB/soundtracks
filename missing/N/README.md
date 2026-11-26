@@ -3964,7 +3964,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Mysteries | 378774 | [378774-new-york-mysteries.json](./378774-new-york-mysteries.json) |
 | New York Mysteries | 53417 | [53417-new-york-mysteries.json](./53417-new-york-mysteries.json) |
 | New York Mysteries 2: High Voltage | 89632 | [89632-new-york-mysteries-2-high-voltage.json](./89632-new-york-mysteries-2-high-voltage.json) |
-| New York Mysteries 3: The Lantern of Souls | 87664 | [87664-new-york-mysteries-3-the-lantern-of-souls.json](./87664-new-york-mysteries-3-the-lantern-of-souls.json) |
 | New York Mysteries 5: Power of Art | 418315 | [418315-new-york-mysteries-5-power-of-art.json](./418315-new-york-mysteries-5-power-of-art.json) |
 | New York Mysteries 6: The Undying | 428300 | [428300-new-york-mysteries-6-the-undying.json](./428300-new-york-mysteries-6-the-undying.json) |
 | New York Mysteries: High Voltage | 34697 | [34697-new-york-mysteries-high-voltage.json](./34697-new-york-mysteries-high-voltage.json) |
@@ -5872,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden II | 6782 | [6782-ninja-gaiden-ii.json](./6782-ninja-gaiden-ii.json) |
 | Ninja Gaiden II Black | 329132 | [329132-ninja-gaiden-ii-black.json](./329132-ninja-gaiden-ii-black.json) |
 | Ninja Gaiden II Master Edition | 427194 | [427194-ninja-gaiden-ii-master-edition.json](./427194-ninja-gaiden-ii-master-edition.json) |
+| Ninja Gaiden II Recompiled | 428397 | [428397-ninja-gaiden-ii-recompiled.json](./428397-ninja-gaiden-ii-recompiled.json) |
 | Ninja Gaiden II: The Dark Sword of Chaos | 15540 | [15540-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./15540-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Ninja Gaiden II: The Dark Sword of Chaos | 239927 | [239927-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./239927-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Ninja Gaiden II: The Dark Sword of Chaos | 240143 | [240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
@@ -7582,7 +7582,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonsolar | 366281 | [366281-nonsolar.json](./366281-nonsolar.json) |
 | Nonstop | 188427 | [188427-nonstop.json](./188427-nonstop.json) |
 | Nonstop Arrow | 246931 | [246931-nonstop-arrow.json](./246931-nonstop-arrow.json) |
-| Nonstop Balls | 87731 | [87731-nonstop-balls.json](./87731-nonstop-balls.json) |
 | Nonstop Chuck Norris | 75402 | [75402-nonstop-chuck-norris.json](./75402-nonstop-chuck-norris.json) |
 | Nonstop Game | 208966 | [208966-nonstop-game.json](./208966-nonstop-game.json) |
 | Nonstop Knight | 57367 | [57367-nonstop-knight.json](./57367-nonstop-knight.json) |
