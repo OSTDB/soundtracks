@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-25T15:06:00.061Z",
-  "total_soundtracks": 3951,
+  "generated_at": "2026-11-26T01:55:55.456Z",
+  "total_soundtracks": 3952,
   "games": [
     {
       "igdb_id": 292844,
@@ -25813,6 +25813,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/upgrade-d-feat-laco-theme-song-from-mecha-break-single/1818749629?uo=4",
           "album_link_url": "https://album.link/i/1818749629"
+        }
+      ]
+    },
+    {
+      "igdb_id": 89418,
+      "game_name": "Mechs V Kaijus",
+      "game_url": "https://ostdb.net/games/mechs-v-kaijus",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739b004d3f8c4711f18cb7f70a",
+      "albums": [
+        {
+          "album_name": "Mechs V Kaijus Original Soundtrack (Ep. 2)",
+          "spotify_url": "https://open.spotify.com/album/2TCU1oSAb8CBOK50Cxf2Qm",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
