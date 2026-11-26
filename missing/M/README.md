@@ -8462,6 +8462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Bloks Halo | 26731 | [26731-mega-bloks-halo.json](./26731-mega-bloks-halo.json) |
 | Mega Bloks: Diego's Build and Rescue | 209111 | [209111-mega-bloks-diegos-build-and-rescue.json](./209111-mega-bloks-diegos-build-and-rescue.json) |
 | Mega Bloks: First Builders | 60838 | [60838-mega-bloks-first-builders.json](./60838-mega-bloks-first-builders.json) |
+| Mega Boobs | 430228 | [430228-mega-boobs.json](./430228-mega-boobs.json) |
 | Mega Bowling Dash | 136431 | [136431-mega-bowling-dash.json](./136431-mega-bowling-dash.json) |
 | Mega Box | 123213 | [123213-mega-box.json](./123213-mega-box.json) |
 | Mega Box 2 | 138913 | [138913-mega-box-2.json](./138913-mega-box-2.json) |
@@ -24150,6 +24151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Riding Champion | 109006 | [109006-my-little-riding-champion.json](./109006-my-little-riding-champion.json) |
 | My Little Roguelike | 179305 | [179305-my-little-roguelike.json](./179305-my-little-roguelike.json) |
 | My Little RPG Shop | 298650 | [298650-my-little-rpg-shop.json](./298650-my-little-rpg-shop.json) |
+| My Little Secret | 429938 | [429938-my-little-secret.json](./429938-my-little-secret.json) |
 | My Little Sister Callie | 321767 | [321767-my-little-sister-callie.json](./321767-my-little-sister-callie.json) |
 | My Little Sister Fiona | 224734 | [224734-my-little-sister-fiona.json](./224734-my-little-sister-fiona.json) |
 | My Little Sister's Special Place | 253712 | [253712-my-little-sisters-special-place.json](./253712-my-little-sisters-special-place.json) |
@@ -25467,6 +25469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Formula | 61414 | [61414-mystic-formula.json](./61414-mystic-formula.json) |
 | Mystic Gals | 304826 | [304826-mystic-gals.json](./304826-mystic-gals.json) |
 | Mystic Garden | 175519 | [175519-mystic-garden.json](./175519-mystic-garden.json) |
+| Mystic Garden | 430221 | [430221-mystic-garden.json](./430221-mystic-garden.json) |
 | Mystic Gate | 212005 | [212005-mystic-gate.json](./212005-mystic-gate.json) |
 | Mystic Gateways: The Celestial Quest Hidden Object | 145143 | [145143-mystic-gateways-the-celestial-quest-hidden-object.json](./145143-mystic-gateways-the-celestial-quest-hidden-object.json) |
 | Mystic Guardian | 129611 | [129611-mystic-guardian.json](./129611-mystic-guardian.json) |
