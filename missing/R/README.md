@@ -7304,7 +7304,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Empire | 188336 | [188336-return-to-empire.json](./188336-return-to-empire.json) |
 | Return to Genesis | 15356 | [15356-return-to-genesis.json](./15356-return-to-genesis.json) |
 | Return to Grace | 249477 | [249477-return-to-grace.json](./249477-return-to-grace.json) |
-| Return to Grisly Manor | 88046 | [88046-return-to-grisly-manor.json](./88046-return-to-grisly-manor.json) |
 | Return to Hadron | 142599 | [142599-return-to-hadron.json](./142599-return-to-hadron.json) |
 | Return to Haunted House | 63993 | [63993-return-to-haunted-house.json](./63993-return-to-haunted-house.json) |
 | Return to Heartbreak Land | 334430 | [334430-return-to-heartbreak-land.json](./334430-return-to-heartbreak-land.json) |
@@ -7595,7 +7594,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: Tristes Tropiques | 343347 | [343347-reverse-1999-tristes-tropiques.json](./343347-reverse-1999-tristes-tropiques.json) |
 | Reverse 1999: Vereinsamt | 340223 | [340223-reverse-1999-vereinsamt.json](./340223-reverse-1999-vereinsamt.json) |
 | Reverse Alice | 299521 | [299521-reverse-alice.json](./299521-reverse-alice.json) |
-| Reverse Basket | 87667 | [87667-reverse-basket.json](./87667-reverse-basket.json) |
 | Reverse Collapse: Code Name Bakery | 121203 | [121203-reverse-collapse-code-name-bakery.json](./121203-reverse-collapse-code-name-bakery.json) |
 | Reverse Collapse: F | 400301 | [400301-reverse-collapse-f.json](./400301-reverse-collapse-f.json) |
 | Reverse Crawl | 28182 | [28182-reverse-crawl.json](./28182-reverse-crawl.json) |
@@ -10505,7 +10503,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotech: The Macross Saga | 245414 | [245414-robotech-the-macross-saga.json](./245414-robotech-the-macross-saga.json) |
 | Robotech: The Macross Saga | 6563 | [6563-robotech-the-macross-saga.json](./6563-robotech-the-macross-saga.json) |
 | Robotech: The Macross Saga HD Edition | 146993 | [146993-robotech-the-macross-saga-hd-edition.json](./146993-robotech-the-macross-saga-hd-edition.json) |
-| Robotek | 87699 | [87699-robotek.json](./87699-robotek.json) |
 | Roboteka | 429685 | [429685-roboteka.json](./429685-roboteka.json) |
 | Robotex | 9017 | [9017-robotex.json](./9017-robotex.json) |
 | Robotfindskitten | 142978 | [142978-robotfindskitten.json](./142978-robotfindskitten.json) |
@@ -13427,7 +13424,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Story | 62311 | [62311-royal-story.json](./62311-royal-story.json) |
 | Royal Thumble | 196727 | [196727-royal-thumble.json](./196727-royal-thumble.json) |
 | Royal Tower Defense | 142833 | [142833-royal-tower-defense.json](./142833-royal-tower-defense.json) |
-| Royal Trouble: Hidden Adventures | 87899 | [87899-royal-trouble-hidden-adventures.json](./87899-royal-trouble-hidden-adventures.json) |
 | Royal Trouble: Hidden Honeymoon Havoc | 87093 | [87093-royal-trouble-hidden-honeymoon-havoc.json](./87093-royal-trouble-hidden-honeymoon-havoc.json) |
 | Royal Tumble | 80886 | [80886-royal-tumble.json](./80886-royal-tumble.json) |
 | Royal Verdict | 391160 | [391160-royal-verdict.json](./391160-royal-verdict.json) |
