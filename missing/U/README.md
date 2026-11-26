@@ -4192,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uurnog | 27402 | [27402-uurnog.json](./27402-uurnog.json) |
 | Uurnog Uurnlimited | 55228 | [55228-uurnog-uurnlimited.json](./55228-uurnog-uurnlimited.json) |
 | Uuu so Smislom | 116096 | [116096-uuu-so-smislom.json](./116096-uuu-so-smislom.json) |
+| Uuuh! | 422805 | [422805-uuuh.json](./422805-uuuh.json) |
 | Uuultra C | 153662 | [153662-uuultra-c.json](./153662-uuultra-c.json) |
 | UVAO Forever | 349903 | [349903-uvao-forever.json](./349903-uvao-forever.json) |
 | Uvirith's Legacy | 388322 | [388322-uviriths-legacy.json](./388322-uviriths-legacy.json) |
