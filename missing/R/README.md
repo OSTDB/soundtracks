@@ -8776,6 +8776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rina to Akumu no Kan | 236068 | [236068-rina-to-akumu-no-kan.json](./236068-rina-to-akumu-no-kan.json) |
 | Rina's Undercover Train Operation | 392306 | [392306-rinas-undercover-train-operation.json](./392306-rinas-undercover-train-operation.json) |
 | Rinbo | 310912 | [310912-rinbo.json](./310912-rinbo.json) |
+| Rind Town | 423979 | [423979-rind-town.json](./423979-rind-town.json) |
 | Rine: The Trail of Fireflies | 302847 | [302847-rine-the-trail-of-fireflies.json](./302847-rine-the-trail-of-fireflies.json) |
 | Ring | 11308 | [11308-ring.json](./11308-ring.json) |
 | Ring Academy | 306957 | [306957-ring-academy.json](./306957-ring-academy.json) |
@@ -11027,6 +11028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
 | Rocket Zap | 216125 | [216125-rocket-zap.json](./216125-rocket-zap.json) |
 | Rocket-Man | 377774 | [377774-rocket-man.json](./377774-rocket-man.json) |
+| Rocket-Propelled Ghost | 421006 | [421006-rocket-propelled-ghost.json](./421006-rocket-propelled-ghost.json) |
 | Rocket: Robot on Wheels | 2644 | [2644-rocket-robot-on-wheels.json](./2644-rocket-robot-on-wheels.json) |
 | Rocket's Renegades - Awesomenauts Assemble! Character Pack | 90983 | [90983-rockets-renegades-awesomenauts-assemble-character-pack.json](./90983-rockets-renegades-awesomenauts-assemble-character-pack.json) |
 | Rocket1994 | 411352 | [411352-rocket1994.json](./411352-rocket1994.json) |
@@ -14715,6 +14717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runway | 174345 | [174345-runway.json](./174345-runway.json) |
 | Runway | 370076 | [370076-runway.json](./370076-runway.json) |
 | Runway 66 | 348768 | [348768-runway-66.json](./348768-runway-66.json) |
+| Runz | 427881 | [427881-runz.json](./427881-runz.json) |
 | RunZ | 55296 | [55296-runz.json](./55296-runz.json) |
 | RunZ 2 | 56680 | [56680-runz-2.json](./56680-runz-2.json) |
 | RuPaul's Drag Race Match Queen | 339640 | [339640-rupauls-drag-race-match-queen.json](./339640-rupauls-drag-race-match-queen.json) |
@@ -15017,6 +15020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustmourne | 406184 | [406184-rustmourne.json](./406184-rustmourne.json) |
 | RustNaut | 348308 | [348308-rustnaut.json](./348308-rustnaut.json) |
 | Rustown | 424836 | [424836-rustown.json](./424836-rustown.json) |
+| RustRun | 422804 | [422804-rustrun.json](./422804-rustrun.json) |
 | Rusts of Corruption | 307218 | [307218-rusts-of-corruption.json](./307218-rusts-of-corruption.json) |
 | Rustwalker Legends | 216935 | [216935-rustwalker-legends.json](./216935-rustwalker-legends.json) |
 | Rustwater | 423106 | [423106-rustwater.json](./423106-rustwater.json) |
