@@ -1431,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idaten Jump DS: Moero! Flame Kaiser | 124504 | [124504-idaten-jump-ds-moero-flame-kaiser.json](./124504-idaten-jump-ds-moero-flame-kaiser.json) |
 | Ide do szkoly | 318487 | [318487-ide-do-szkoly.json](./318487-ide-do-szkoly.json) |
 | Ide Yosuke Meijin no Shin Jissen Mahjong | 246575 | [246575-ide-yosuke-meijin-no-shin-jissen-mahjong.json](./246575-ide-yosuke-meijin-no-shin-jissen-mahjong.json) |
+| Ide Yosuke no Mahjong Kazoku | 419503 | [419503-ide-yosuke-no-mahjong-kazoku.json](./419503-ide-yosuke-no-mahjong-kazoku.json) |
 | Ide Yosuke no Mahjong Kazoku 2 | 319695 | [319695-ide-yosuke-no-mahjong-kazoku-2.json](./319695-ide-yosuke-no-mahjong-kazoku-2.json) |
 | Ide Yosuke no Mahjong Kyoushitsu | 354912 | [354912-ide-yosuke-no-mahjong-kyoushitsu.json](./354912-ide-yosuke-no-mahjong-kyoushitsu.json) |
 | Ide Yosuke no Mahjong Kyoushitsu GB | 65243 | [65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json](./65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json) |
@@ -1485,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Acorns | 365117 | [365117-idle-acorns.json](./365117-idle-acorns.json) |
 | Idle Adventure | 75814 | [75814-idle-adventure.json](./75814-idle-adventure.json) |
 | Idle Agency | 423290 | [423290-idle-agency.json](./423290-idle-agency.json) |
+| Idle AI Factory: Robot Tycoon | 420618 | [420618-idle-ai-factory-robot-tycoon.json](./420618-idle-ai-factory-robot-tycoon.json) |
 | Idle Air Force Base | 135466 | [135466-idle-air-force-base.json](./135466-idle-air-force-base.json) |
 | Idle Aircraft Carrier | 256176 | [256176-idle-aircraft-carrier.json](./256176-idle-aircraft-carrier.json) |
 | Idle Airport CEO | 340518 | [340518-idle-airport-ceo.json](./340518-idle-airport-ceo.json) |
@@ -1753,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Inn Empire | 248255 | [248255-idle-inn-empire.json](./248255-idle-inn-empire.json) |
 | Idle Intelligence | 101708 | [101708-idle-intelligence.json](./101708-idle-intelligence.json) |
 | Idle Intergalactic Factory | 221127 | [221127-idle-intergalactic-factory.json](./221127-idle-intergalactic-factory.json) |
+| Idle Internet Cafe Tycoon | 426748 | [426748-idle-internet-cafe-tycoon.json](./426748-idle-internet-cafe-tycoon.json) |
 | Idle Interstellar Factory 2 | 234522 | [234522-idle-interstellar-factory-2.json](./234522-idle-interstellar-factory-2.json) |
 | Idle Inventor: Factory Tycoon | 167288 | [167288-idle-inventor-factory-tycoon.json](./167288-idle-inventor-factory-tycoon.json) |
 | Idle Iron Knight | 196355 | [196355-idle-iron-knight.json](./196355-idle-iron-knight.json) |
@@ -3025,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperian | 78655 | [78655-imperian.json](./78655-imperian.json) |
 | Imperil | 74186 | [74186-imperil.json](./74186-imperil.json) |
 | Imperion | 243217 | [243217-imperion.json](./243217-imperion.json) |
+| Imperionis | 426021 | [426021-imperionis.json](./426021-imperionis.json) |
 | Imperishable Memories | 109564 | [109564-imperishable-memories.json](./109564-imperishable-memories.json) |
 | Imperium | 13070 | [13070-imperium.json](./13070-imperium.json) |
 | Imperium | 15220 | [15220-imperium.json](./15220-imperium.json) |
@@ -4929,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink Bunny | 235693 | [235693-ink-bunny.json](./235693-ink-bunny.json) |
 | Ink Cipher | 102988 | [102988-ink-cipher.json](./102988-ink-cipher.json) |
 | Ink Dreamers | 424968 | [424968-ink-dreamers.json](./424968-ink-dreamers.json) |
+| Ink Enigma: Coloring Hidden Objects | 422667 | [422667-ink-enigma-coloring-hidden-objects.json](./422667-ink-enigma-coloring-hidden-objects.json) |
 | Ink Enigma: Hidden Object Challenges | 359036 | [359036-ink-enigma-hidden-object-challenges.json](./359036-ink-enigma-hidden-object-challenges.json) |
 | Ink Escape: Coven Conundrum | 310270 | [310270-ink-escape-coven-conundrum.json](./310270-ink-escape-coven-conundrum.json) |
 | Ink Hero | 335331 | [335331-ink-hero.json](./335331-ink-hero.json) |
@@ -7404,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of the Jötunn | 263092 | [263092-isle-of-the-jotunn.json](./263092-isle-of-the-jotunn.json) |
 | Isle of Tides | 425891 | [425891-isle-of-tides.json](./425891-isle-of-tides.json) |
 | Isle of Titans | 383087 | [383087-isle-of-titans.json](./383087-isle-of-titans.json) |
+| Isle of Trees | 425985 | [425985-isle-of-trees.json](./425985-isle-of-trees.json) |
 | Isle of Tune Mobile | 101665 | [101665-isle-of-tune-mobile.json](./101665-isle-of-tune-mobile.json) |
 | Isle TD | 109195 | [109195-isle-td.json](./109195-isle-td.json) |
 | Isle TD | 81006 | [81006-isle-td.json](./81006-isle-td.json) |
@@ -7740,6 +7746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Harvest Time! | 169595 | [169595-its-harvest-time.json](./169595-its-harvest-time.json) |
 | It's Hasegawa-san!? | 370474 | [370474-its-hasegawa-san.json](./370474-its-hasegawa-san.json) |
 | It's Hot Pot Time! | 264935 | [264935-its-hot-pot-time.json](./264935-its-hot-pot-time.json) |
+| It's Hurting My Eyes | 427187 | [427187-its-hurting-my-eyes.json](./427187-its-hurting-my-eyes.json) |
 | It's John's House | 371773 | [371773-its-johns-house.json](./371773-its-johns-house.json) |
 | It's Just A Jump! | 360836 | [360836-its-just-a-jump.json](./360836-its-just-a-jump.json) |
 | It's Just A Prank | 306827 | [306827-its-just-a-prank.json](./306827-its-just-a-prank.json) |
