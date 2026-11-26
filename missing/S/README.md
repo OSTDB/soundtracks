@@ -6033,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seifuku Kanojo 2: Free DLC Act.4 - Konomi Yui | 375438 | [375438-seifuku-kanojo-2-free-dlc-act-4-konomi-yui.json](./375438-seifuku-kanojo-2-free-dlc-act-4-konomi-yui.json) |
 | Seifuku Kanojo 2.5 | 375361 | [375361-seifuku-kanojo-2-5.json](./375361-seifuku-kanojo-2-5.json) |
 | Seifuku Kanojo 3 | 375360 | [375360-seifuku-kanojo-3.json](./375360-seifuku-kanojo-3.json) |
+| Seifuku Kanojo 3: Free DLC Act.5 - Igisu Meika | 429870 | [429870-seifuku-kanojo-3-free-dlc-act-5-igisu-meika.json](./429870-seifuku-kanojo-3-free-dlc-act-5-igisu-meika.json) |
 | Seifuku Kanojo: Mayoigo Engage | 318255 | [318255-seifuku-kanojo-mayoigo-engage.json](./318255-seifuku-kanojo-mayoigo-engage.json) |
 | Seifuku Kanojo: School Girlfriend | 288018 | [288018-seifuku-kanojo-school-girlfriend.json](./288018-seifuku-kanojo-school-girlfriend.json) |
 | Seifuku: High School Countdown | 234180 | [234180-seifuku-high-school-countdown.json](./234180-seifuku-high-school-countdown.json) |
@@ -11467,6 +11468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shukusei no Girlfriend AllStar | 305323 | [305323-shukusei-no-girlfriend-allstar.json](./305323-shukusei-no-girlfriend-allstar.json) |
 | Shukushou Gakuen | 69430 | [69430-shukushou-gakuen.json](./69430-shukushou-gakuen.json) |
 | Shultz's Treasure | 292839 | [292839-shultzs-treasure.json](./292839-shultzs-treasure.json) |
+| Shùméi Zhànjì | 430241 | [430241-shumei-zhanji.json](./430241-shumei-zhanji.json) |
 | Shump Mania | 201084 | [201084-shump-mania.json](./201084-shump-mania.json) |
 | Shunga Frame | 196094 | [196094-shunga-frame.json](./196094-shunga-frame.json) |
 | Shunkyoku no Tyrhhia: What a Beautiful Dawn | 144958 | [144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json](./144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json) |
@@ -12437,6 +12439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Heart: AI Girl Lovestory | 380361 | [380361-silicon-heart-ai-girl-lovestory.json](./380361-silicon-heart-ai-girl-lovestory.json) |
 | Silicon Life: From Bedroom to Billion | 428388 | [428388-silicon-life-from-bedroom-to-billion.json](./428388-silicon-life-from-bedroom-to-billion.json) |
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
+| Silicon Path | 429892 | [429892-silicon-path.json](./429892-silicon-path.json) |
 | Silicon Scars | 382829 | [382829-silicon-scars.json](./382829-silicon-scars.json) |
 | Silicon Scramble | 280490 | [280490-silicon-scramble.json](./280490-silicon-scramble.json) |
 | Silicon Scream | 242887 | [242887-silicon-scream.json](./242887-silicon-scream.json) |
@@ -24513,6 +24516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed empire | 156804 | [156804-speed-empire.json](./156804-speed-empire.json) |
 | Speed Factor | 378777 | [378777-speed-factor.json](./378777-speed-factor.json) |
 | Speed Farmers | 134790 | [134790-speed-farmers.json](./134790-speed-farmers.json) |
+| Speed Force | 430248 | [430248-speed-force.json](./430248-speed-force.json) |
 | Speed Freak | 46764 | [46764-speed-freak.json](./46764-speed-freak.json) |
 | Speed Freeks | 110186 | [110186-speed-freeks.json](./110186-speed-freeks.json) |
 | Speed Golf | 351337 | [351337-speed-golf.json](./351337-speed-golf.json) |
@@ -24963,6 +24967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellmasons | 215714 | [215714-spellmasons.json](./215714-spellmasons.json) |
 | SpellMaster: The Saga | 130158 | [130158-spellmaster-the-saga.json](./130158-spellmaster-the-saga.json) |
 | Spellmeister | 391767 | [391767-spellmeister.json](./391767-spellmeister.json) |
+| Spellogger | 430237 | [430237-spellogger.json](./430237-spellogger.json) |
 | Spellomancer | 335343 | [335343-spellomancer.json](./335343-spellomancer.json) |
 | SpellPix | 95692 | [95692-spellpix.json](./95692-spellpix.json) |
 | Spellpowder: Uprising | 212028 | [212028-spellpowder-uprising.json](./212028-spellpowder-uprising.json) |
@@ -29937,6 +29942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starvoid | 2019 | [2019-starvoid.json](./2019-starvoid.json) |
 | Starvoly | 157106 | [157106-starvoly.json](./157106-starvoly.json) |
 | Starwake | 425981 | [425981-starwake.json](./425981-starwake.json) |
+| Starwake: Echoes of Time | 430210 | [430210-starwake-echoes-of-time.json](./430210-starwake-echoes-of-time.json) |
 | Starwalker | 36040 | [36040-starwalker.json](./36040-starwalker.json) |
 | Starwalker: Into the Cylinder | 203615 | [203615-starwalker-into-the-cylinder.json](./203615-starwalker-into-the-cylinder.json) |
 | Starward | 301139 | [301139-starward.json](./301139-starward.json) |
@@ -42133,6 +42139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syrian Warfare: Battlefields | 164603 | [164603-syrian-warfare-battlefields.json](./164603-syrian-warfare-battlefields.json) |
 | Syrian Warfare: Return to Palmyra | 167798 | [167798-syrian-warfare-return-to-palmyra.json](./167798-syrian-warfare-return-to-palmyra.json) |
 | Syringe | 150228 | [150228-syringe.json](./150228-syringe.json) |
+| Syringebound | 430242 | [430242-syringebound.json](./430242-syringebound.json) |
 | Syrnia | 130718 | [130718-syrnia.json](./130718-syrnia.json) |
 | Syrup 2: Candy Alchemy RPG | 362733 | [362733-syrup-2-candy-alchemy-rpg.json](./362733-syrup-2-candy-alchemy-rpg.json) |
 | Syrup and the Ultimate Sweet | 108174 | [108174-syrup-and-the-ultimate-sweet.json](./108174-syrup-and-the-ultimate-sweet.json) |
