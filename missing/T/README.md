@@ -2726,7 +2726,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap! Dig! My Museum! | 197353 | [197353-tap-dig-my-museum.json](./197353-tap-dig-my-museum.json) |
 | Tap! Tap! Faraway Kingdom | 199936 | [199936-tap-tap-faraway-kingdom.json](./199936-tap-tap-faraway-kingdom.json) |
 | Tapan Kaikki 4: Bloodshed | 47108 | [47108-tapan-kaikki-4-bloodshed.json](./47108-tapan-kaikki-4-bloodshed.json) |
-| TapColors | 89712 | [89712-tapcolors.json](./89712-tapcolors.json) |
 | TapDefense | 67023 | [67023-tapdefense.json](./67023-tapdefense.json) |
 | Tape 101: Liminal Descent | 310309 | [310309-tape-101-liminal-descent.json](./310309-tape-101-liminal-descent.json) |
 | Tape Art | 384207 | [384207-tape-art.json](./384207-tape-art.json) |
@@ -5723,6 +5722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Online | 134117 | [134117-tetris-online.json](./134117-tetris-online.json) |
 | Tetris Party | 5217 | [5217-tetris-party.json](./5217-tetris-party.json) |
 | Tetris Party Deluxe | 21099 | [21099-tetris-party-deluxe.json](./21099-tetris-party-deluxe.json) |
+| Tetris Pixel Player | 387125 | [387125-tetris-pixel-player.json](./387125-tetris-pixel-player.json) |
 | Tetris Plus | 20712 | [20712-tetris-plus.json](./20712-tetris-plus.json) |
 | Tetris Plus | 254518 | [254518-tetris-plus.json](./254518-tetris-plus.json) |
 | Tetris Plus 2 | 39403 | [39403-tetris-plus-2.json](./39403-tetris-plus-2.json) |
@@ -13136,7 +13136,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island - Ethereal | 58833 | [58833-the-island-ethereal.json](./58833-the-island-ethereal.json) |
 | The Island 2 | 274189 | [274189-the-island-2.json](./274189-the-island-2.json) |
 | The Island Castaway | 25349 | [25349-the-island-castaway.json](./25349-the-island-castaway.json) |
-| The Island Castaway 2 | 89547 | [89547-the-island-castaway-2.json](./89547-the-island-castaway-2.json) |
 | The Island Castaway: Lost World | 107264 | [107264-the-island-castaway-lost-world.json](./107264-the-island-castaway-lost-world.json) |
 | The Island Combat | 104333 | [104333-the-island-combat.json](./104333-the-island-combat.json) |
 | The Island Mystery | 427444 | [427444-the-island-mystery.json](./427444-the-island-mystery.json) |
@@ -17222,6 +17221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Path of Motus | 68864 | [68864-the-path-of-motus.json](./68864-the-path-of-motus.json) |
 | The Path of Ren | 149379 | [149379-the-path-of-ren.json](./149379-the-path-of-ren.json) |
 | The Path of the Pumpkin | 125141 | [125141-the-path-of-the-pumpkin.json](./125141-the-path-of-the-pumpkin.json) |
+| The Path of the Warrior: Art of Fighting 3 R | 408552 | [408552-the-path-of-the-warrior-art-of-fighting-3-r.json](./408552-the-path-of-the-warrior-art-of-fighting-3-r.json) |
 | The Path of Veins | 319270 | [319270-the-path-of-veins.json](./319270-the-path-of-veins.json) |
 | The Path to Die | 115638 | [115638-the-path-to-die.json](./115638-the-path-to-die.json) |
 | The path to domination | 106342 | [106342-the-path-to-domination.json](./106342-the-path-to-domination.json) |
@@ -17301,7 +17301,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Square | 103596 | [103596-the-perfect-square.json](./103596-the-perfect-square.json) |
 | The Perfect Tower | 101829 | [101829-the-perfect-tower.json](./101829-the-perfect-tower.json) |
 | The Perfect Tower II | 149572 | [149572-the-perfect-tower-ii.json](./149572-the-perfect-tower-ii.json) |
-| The Perfect Tree | 89697 | [89697-the-perfect-tree.json](./89697-the-perfect-tree.json) |
 | The Perfect Trilogy | 70182 | [70182-the-perfect-trilogy.json](./70182-the-perfect-trilogy.json) |
 | The Perfect Unit | 102933 | [102933-the-perfect-unit.json](./102933-the-perfect-unit.json) |
 | The Perfect Woman | 317074 | [317074-the-perfect-woman.json](./317074-the-perfect-woman.json) |
@@ -23262,7 +23261,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Eye | 261963 | [261963-third-eye.json](./261963-third-eye.json) |
 | Third Eye | 31664 | [31664-third-eye.json](./31664-third-eye.json) |
 | Third Eye Crime | 17401 | [17401-third-eye-crime.json](./17401-third-eye-crime.json) |
-| Third Front | 89656 | [89656-third-front.json](./89656-third-front.json) |
 | Third Grade Learning Games | 86903 | [86903-third-grade-learning-games.json](./86903-third-grade-learning-games.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
 | Third Party | 184955 | [184955-third-party.json](./184955-third-party.json) |
@@ -27052,7 +27050,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timmy Types | 214540 | [214540-timmy-types.json](./214540-timmy-types.json) |
 | Timmy's Adventures | 224648 | [224648-timmys-adventures.json](./224648-timmys-adventures.json) |
 | Timmy's adventures : VerbMon | 123550 | [123550-timmys-adventures-verbmon.json](./123550-timmys-adventures-verbmon.json) |
-| Timmy's Kindergarten Adventure | 89135 | [89135-timmys-kindergarten-adventure.json](./89135-timmys-kindergarten-adventure.json) |
 | Timmy's Nightmare | 149873 | [149873-timmys-nightmare.json](./149873-timmys-nightmare.json) |
 | Timo Boll Beats | 280670 | [280670-timo-boll-beats.json](./280670-timo-boll-beats.json) |
 | Timo the Game | 370911 | [370911-timo-the-game.json](./370911-timo-the-game.json) |
@@ -27379,7 +27376,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Metal: Full Metal Rumble - Caesar's Rescue | 238261 | [238261-tiny-metal-full-metal-rumble-caesars-rescue.json](./238261-tiny-metal-full-metal-rumble-caesars-rescue.json) |
 | Tiny Metal: Full Metal Rumble - Caeser's Rescue | 172126 | [172126-tiny-metal-full-metal-rumble-caesers-rescue.json](./172126-tiny-metal-full-metal-rumble-caesers-rescue.json) |
 | Tiny Metal: Will of the Shogun | 165045 | [165045-tiny-metal-will-of-the-shogun.json](./165045-tiny-metal-will-of-the-shogun.json) |
-| Tiny Miner | 89031 | [89031-tiny-miner.json](./89031-tiny-miner.json) |
 | Tiny Misery | 392578 | [392578-tiny-misery.json](./392578-tiny-misery.json) |
 | Tiny Mite | 412319 | [412319-tiny-mite.json](./412319-tiny-mite.json) |
 | Tiny Monster Haven | 348819 | [348819-tiny-monster-haven.json](./348819-tiny-monster-haven.json) |
@@ -33111,7 +33107,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Plus: Keihan Denki Tetsudou | 92244 | [92244-train-simulator-plus-keihan-denki-tetsudou.json](./92244-train-simulator-plus-keihan-denki-tetsudou.json) |
 | Train Simulator Plus: Kyoto-shiei Chikatetsu Karasuma-sen & Kinki-nippon Tetsudou Kyoto-sen | 92248 | [92248-train-simulator-plus-kyoto-shiei-chikatetsu-karasuma-sen-and-kinki-nippon-tetsudou-kyoto-sen.json](./92248-train-simulator-plus-kyoto-shiei-chikatetsu-karasuma-sen-and-kinki-nippon-tetsudou-kyoto-sen.json) |
 | Train Simulator Plus: Odakyu Dentetsu Odawara-sen 2 | 92246 | [92246-train-simulator-plus-odakyu-dentetsu-odawara-sen-2.json](./92246-train-simulator-plus-odakyu-dentetsu-odawara-sen-2.json) |
-| Train Simulator Pro 2018 | 89100 | [89100-train-simulator-pro-2018.json](./89100-train-simulator-pro-2018.json) |
 | Train Simulator PRO USA | 232256 | [232256-train-simulator-pro-usa.json](./232256-train-simulator-pro-usa.json) |
 | Train Simulator Real: The Keihin Kyuukou | 79179 | [79179-train-simulator-real-the-keihin-kyuukou.json](./79179-train-simulator-real-the-keihin-kyuukou.json) |
 | Train Simulator VR | 74679 | [74679-train-simulator-vr.json](./74679-train-simulator-vr.json) |
@@ -36267,7 +36262,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Fantasy | 370767 | [370767-trivia-fantasy.json](./370767-trivia-fantasy.json) |
 | Trivia for Dummies | 187456 | [187456-trivia-for-dummies.json](./187456-trivia-for-dummies.json) |
 | Trivia Genius | 358215 | [358215-trivia-genius.json](./358215-trivia-genius.json) |
-| Trivia King | 89040 | [89040-trivia-king.json](./89040-trivia-king.json) |
 | Trivia Live | 229420 | [229420-trivia-live.json](./229420-trivia-live.json) |
 | Trivia Machine | 53956 | [53956-trivia-machine.json](./53956-trivia-machine.json) |
 | Trivia Machine Reloaded | 416179 | [416179-trivia-machine-reloaded.json](./416179-trivia-machine-reloaded.json) |
@@ -37418,7 +37412,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsurikkuma | 306727 | [306727-tsurikkuma.json](./306727-tsurikkuma.json) |
 | Tsurimasu | 355224 | [355224-tsurimasu.json](./355224-tsurimasu.json) |
 | Tsuro: The Game of The Path | 178349 | [178349-tsuro-the-game-of-the-path.json](./178349-tsuro-the-game-of-the-path.json) |
-| Tsuro: The Game of The Path - VR Edition | 89181 | [89181-tsuro-the-game-of-the-path-vr-edition.json](./89181-tsuro-the-game-of-the-path-vr-edition.json) |
 | Tsuru Teruhito No Jissen | 37646 | [37646-tsuru-teruhito-no-jissen.json](./37646-tsuru-teruhito-no-jissen.json) |
 | Tsuru Teruhito no Jissen Kabushiki Bi-Game | 59431 | [59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json](./59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json) |
 | Tsurugihime | 228340 | [228340-tsurugihime.json](./228340-tsurugihime.json) |
