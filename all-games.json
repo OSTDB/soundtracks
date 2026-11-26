@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-26T06:25:57.592Z",
-  "total_soundtracks": 3953,
+  "generated_at": "2026-11-26T12:25:57.281Z",
+  "total_soundtracks": 3954,
   "games": [
     {
       "igdb_id": 292844,
@@ -12523,6 +12523,20 @@
         {
           "album_name": "Drug Dealer Simulator 2 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1cTSOnRHhfyaV883cf29mj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 88017,
+      "game_name": "Drumpf: Rise Up, Libertonia!",
+      "game_url": "https://ostdb.net/games/drumpf-rise-up-libertonia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f497c93844ff9892bbcefd05",
+      "albums": [
+        {
+          "album_name": "Drumpf: Rise Up, Libertonia! (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4XgN1egk340NyBRsPu2O59",
           "apple_music_url": "",
           "album_link_url": ""
         }
