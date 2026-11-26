@@ -13,7 +13,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U Want Cookie? | 66265 | [66265-u-want-cookie.json](./66265-u-want-cookie.json) |
 | U-Boat | 347698 | [347698-u-boat.json](./347698-u-boat.json) |
 | U-Boat Command | 282442 | [282442-u-boat-command.json](./282442-u-boat-command.json) |
-| U-Boot - submarine game | 87713 | [87713-u-boot-submarine-game.json](./87713-u-boot-submarine-game.json) |
 | U-Boot 1945 | 102969 | [102969-u-boot-1945.json](./102969-u-boot-1945.json) |
 | U-Boot: The Board Game - Digital Edition | 346372 | [346372-u-boot-the-board-game-digital-edition.json](./346372-u-boot-the-board-game-digital-edition.json) |
 | U-ena: Far Fireworks | 187728 | [187728-u-ena-far-fireworks.json](./187728-u-ena-far-fireworks.json) |
@@ -3334,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unthread | 183152 | [183152-unthread.json](./183152-unthread.json) |
 | Until Biglight | 394400 | [394400-until-biglight.json](./394400-until-biglight.json) |
 | Until Dawn 2 | 404058 | [404058-until-dawn-2.json](./404058-until-dawn-2.json) |
+| Until Dawn 2: Digital Deluxe Edition | 416173 | [416173-until-dawn-2-digital-deluxe-edition.json](./416173-until-dawn-2-digital-deluxe-edition.json) |
 | Until Dawn Tomorrow | 177726 | [177726-until-dawn-tomorrow.json](./177726-until-dawn-tomorrow.json) |
 | Until Dawn: Extended Edition | 42947 | [42947-until-dawn-extended-edition.json](./42947-until-dawn-extended-edition.json) |
 | Until Dawn: Rush of Blood | 14366 | [14366-until-dawn-rush-of-blood.json](./14366-until-dawn-rush-of-blood.json) |
