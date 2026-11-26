@@ -1551,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Valkyr Unleashed | 200850 | [200850-warframe-valkyr-unleashed.json](./200850-warframe-valkyr-unleashed.json) |
 | Warframe: Veilbreaker | 216199 | [216199-warframe-veilbreaker.json](./216199-warframe-veilbreaker.json) |
 | Warframe: Vor's Revenge | 200650 | [200650-warframe-vors-revenge.json](./200650-warframe-vors-revenge.json) |
+| Warframe: Voruna Prime Access - Accessories Pack | 413471 | [413471-warframe-voruna-prime-access-accessories-pack.json](./413471-warframe-voruna-prime-access-accessories-pack.json) |
 | Warframe: Whispers in the Walls | 263560 | [263560-warframe-whispers-in-the-walls.json](./263560-warframe-whispers-in-the-walls.json) |
 | Warframe: Zephyr Rises | 200853 | [200853-warframe-zephyr-rises.json](./200853-warframe-zephyr-rises.json) |
 | WarFriends: PvP Army Shooter | 87479 | [87479-warfriends-pvp-army-shooter.json](./87479-warfriends-pvp-army-shooter.json) |
@@ -4896,6 +4897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is Drake? | 280238 | [280238-where-is-drake.json](./280238-where-is-drake.json) |
 | Where is Earth? | 221109 | [221109-where-is-earth.json](./221109-where-is-earth.json) |
 | Where Is George | 287702 | [287702-where-is-george.json](./287702-where-is-george.json) |
+| Where Is Hammy? | 396350 | [396350-where-is-hammy.json](./396350-where-is-hammy.json) |
 | Where is He | 192637 | [192637-where-is-he.json](./192637-where-is-he.json) |
 | Where Is Here: New Home | 207309 | [207309-where-is-here-new-home.json](./207309-where-is-here-new-home.json) |
 | Where Is It: The Quest for the 10th Island | 370629 | [370629-where-is-it-the-quest-for-the-10th-island.json](./370629-where-is-it-the-quest-for-the-10th-island.json) |
@@ -5441,6 +5443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Night | 8921 | [8921-white-night.json](./8921-white-night.json) |
 | White Night Dream | 249024 | [249024-white-night-dream.json](./249024-white-night-dream.json) |
 | White Night: Deluxe Edition | 198131 | [198131-white-night-deluxe-edition.json](./198131-white-night-deluxe-edition.json) |
+| White Nights | 417963 | [417963-white-nights.json](./417963-white-nights.json) |
 | White Noise 2 | 28112 | [28112-white-noise-2.json](./28112-white-noise-2.json) |
 | White Noise Online | 17284 | [17284-white-noise-online.json](./17284-white-noise-online.json) |
 | White Noise: A tale of Horror | 80050 | [80050-white-noise-a-tale-of-horror.json](./80050-white-noise-a-tale-of-horror.json) |
@@ -6050,7 +6053,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Honesty: A Party Game for Deeper Conversations | 139810 | [139810-wild-honesty-a-party-game-for-deeper-conversations.json](./139810-wild-honesty-a-party-game-for-deeper-conversations.json) |
 | Wild Horizon: Edge of Survival | 333111 | [333111-wild-horizon-edge-of-survival.json](./333111-wild-horizon-edge-of-survival.json) |
 | Wild Horse Racing | 275139 | [275139-wild-horse-racing.json](./275139-wild-horse-racing.json) |
-| Wild Horse Simulator | 89243 | [89243-wild-horse-simulator.json](./89243-wild-horse-simulator.json) |
 | Wild Hunger | 87809 | [87809-wild-hunger.json](./87809-wild-hunger.json) |
 | Wild Hunter 3D | 297673 | [297673-wild-hunter-3d.json](./297673-wild-hunter-3d.json) |
 | Wild Hunter: Sniper Rifle Adventures Simulator | 317439 | [317439-wild-hunter-sniper-rifle-adventures-simulator.json](./317439-wild-hunter-sniper-rifle-adventures-simulator.json) |
@@ -6067,7 +6069,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Journey | 154125 | [154125-wild-journey.json](./154125-wild-journey.json) |
 | Wild Justice | 417202 | [417202-wild-justice.json](./417202-wild-justice.json) |
 | Wild Kratts Creature Mobile | 396719 | [396719-wild-kratts-creature-mobile.json](./396719-wild-kratts-creature-mobile.json) |
-| Wild Kratts Rescue Run | 88939 | [88939-wild-kratts-rescue-run.json](./88939-wild-kratts-rescue-run.json) |
 | Wild Legion | 243150 | [243150-wild-legion.json](./243150-wild-legion.json) |
 | Wild Leopard Safari | 255167 | [255167-wild-leopard-safari.json](./255167-wild-leopard-safari.json) |
 | Wild Life | 127894 | [127894-wild-life.json](./127894-wild-life.json) |
@@ -8800,7 +8801,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Invasion | 44363 | [44363-word-invasion.json](./44363-word-invasion.json) |
 | Word Island | 205887 | [205887-word-island.json](./205887-word-island.json) |
 | Word Jong | 47715 | [47715-word-jong.json](./47715-word-jong.json) |
-| Word Jumblerama Blitz | 89575 | [89575-word-jumblerama-blitz.json](./89575-word-jumblerama-blitz.json) |
 | Word Killer: Revolution | 29968 | [29968-word-killer-revolution.json](./29968-word-killer-revolution.json) |
 | Word Killer: Zorgilonian Chronicles | 29967 | [29967-word-killer-zorgilonian-chronicles.json](./29967-word-killer-zorgilonian-chronicles.json) |
 | Word Krispies | 71497 | [71497-word-krispies.json](./71497-word-krispies.json) |
@@ -9505,7 +9505,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Cube | 204104 | [204104-world-of-cube.json](./204104-world-of-cube.json) |
 | World of Cubes | 204798 | [204798-world-of-cubes.json](./204798-world-of-cubes.json) |
 | World of Cubes Survival Craft | 89187 | [89187-world-of-cubes-survival-craft.json](./89187-world-of-cubes-survival-craft.json) |
-| World of Cubes Survival Craft Multiplayer | 89066 | [89066-world-of-cubes-survival-craft-multiplayer.json](./89066-world-of-cubes-survival-craft-multiplayer.json) |
 | World of Dark | 283864 | [283864-world-of-dark.json](./283864-world-of-dark.json) |
 | World of Darkness | 77001 | [77001-world-of-darkness.json](./77001-world-of-darkness.json) |
 | World of Darkness Preludes: Vampire and Mage | 27330 | [27330-world-of-darkness-preludes-vampire-and-mage.json](./27330-world-of-darkness-preludes-vampire-and-mage.json) |
@@ -10118,7 +10117,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World2D Re | 262282 | [262282-world2d-re.json](./262282-world2d-re.json) |
 | WorldBox | 126489 | [126489-worldbox.json](./126489-worldbox.json) |
 | Worldcraft | 83653 | [83653-worldcraft.json](./83653-worldcraft.json) |
-| WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
 | WorldCricketChampionship | 92012 | [92012-worldcricketchampionship.json](./92012-worldcricketchampionship.json) |
 | Worldcrusher | 270817 | [270817-worldcrusher.json](./270817-worldcrusher.json) |
 | WorldCup Super Stadium | 268526 | [268526-worldcup-super-stadium.json](./268526-worldcup-super-stadium.json) |
@@ -11003,6 +11001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Road to WrestleMania X8 | 6683 | [6683-wwe-road-to-wrestlemania-x8.json](./6683-wwe-road-to-wrestlemania-x8.json) |
 | WWE Slam | 57378 | [57378-wwe-slam.json](./57378-wwe-slam.json) |
 | WWE SmackDown vs. Raw 2007 | 7252 | [7252-wwe-smackdown-vs-raw-2007.json](./7252-wwe-smackdown-vs-raw-2007.json) |
+| WWE SmackDown vs. Raw 2007: Recompiled | 413682 | [413682-wwe-smackdown-vs-raw-2007-recompiled.json](./413682-wwe-smackdown-vs-raw-2007-recompiled.json) |
 | WWE SmackDown vs. Raw 2008 | 328306 | [328306-wwe-smackdown-vs-raw-2008.json](./328306-wwe-smackdown-vs-raw-2008.json) |
 | WWE SmackDown vs. Raw 2008 | 5298 | [5298-wwe-smackdown-vs-raw-2008.json](./5298-wwe-smackdown-vs-raw-2008.json) |
 | WWE SmackDown vs. Raw 2009 | 344148 | [344148-wwe-smackdown-vs-raw-2009.json](./344148-wwe-smackdown-vs-raw-2009.json) |
