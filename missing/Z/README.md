@@ -1203,7 +1203,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero4 Champ Series: Drift Champ | 124629 | [124629-zero4-champ-series-drift-champ.json](./124629-zero4-champ-series-drift-champ.json) |
 | Zeroad | 383883 | [383883-zeroad.json](./383883-zeroad.json) |
 | ZeroAtlas | 24699 | [24699-zeroatlas.json](./24699-zeroatlas.json) |
-| ZeroCar | 88249 | [88249-zerocar.json](./88249-zerocar.json) |
 | Zerocar: Future Motorsport | 116453 | [116453-zerocar-future-motorsport.json](./116453-zerocar-future-motorsport.json) |
 | ZeroChance | 158760 | [158760-zerochance.json](./158760-zerochance.json) |
 | Zerocron | 201373 | [201373-zerocron.json](./201373-zerocron.json) |
@@ -1388,7 +1387,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zig Zag Cat | 38116 | [38116-zig-zag-cat.json](./38116-zig-zag-cat.json) |
 | Zig Zag Cat: Ostrich Club mo Oosawagi da | 38117 | [38117-zig-zag-cat-ostrich-club-mo-oosawagi-da.json](./38117-zig-zag-cat-ostrich-club-mo-oosawagi-da.json) |
 | Zig Zag Flag Shag | 84470 | [84470-zig-zag-flag-shag.json](./84470-zig-zag-flag-shag.json) |
-| Zig Zag Game | 88216 | [88216-zig-zag-game.json](./88216-zig-zag-game.json) |
 | Zig Zag Go | 84933 | [84933-zig-zag-go.json](./84933-zig-zag-go.json) |
 | Zig Zag Jump: Fantasy Challenge | 302406 | [302406-zig-zag-jump-fantasy-challenge.json](./302406-zig-zag-jump-fantasy-challenge.json) |
 | Zig Zag Tilt | 197626 | [197626-zig-zag-tilt.json](./197626-zig-zag-tilt.json) |
@@ -1538,7 +1536,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zlorp Adventures | 328999 | [328999-zlorp-adventures.json](./328999-zlorp-adventures.json) |
 | Zlug Rush | 62866 | [62866-zlug-rush.json](./62866-zlug-rush.json) |
 | Zly.ii: The Hacked Station | 369755 | [369755-zly-ii-the-hacked-station.json](./369755-zly-ii-the-hacked-station.json) |
-| zMahjong Super Solitaire | 88451 | [88451-zmahjong-super-solitaire.json](./88451-zmahjong-super-solitaire.json) |
 | ZMR: Zombies Monsters Robots | 7424 | [7424-zmr-zombies-monsters-robots.json](./7424-zmr-zombies-monsters-robots.json) |
 | Znake | 306038 | [306038-znake.json](./306038-znake.json) |
 | Znax | 183682 | [183682-znax.json](./183682-znax.json) |
@@ -2969,7 +2966,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zumoubattoru | 119800 | [119800-zumoubattoru.json](./119800-zumoubattoru.json) |
 | Zundamon Castle | 326689 | [326689-zundamon-castle.json](./326689-zundamon-castle.json) |
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
-| Zunima,Space Travel | 88785 | [88785-zunima-space-travel.json](./88785-zunima-space-travel.json) |
 | Zunius | 121740 | [121740-zunius.json](./121740-zunius.json) |
 | Zunou 4989 | 67417 | [67417-zunou-4989.json](./67417-zunou-4989.json) |
 | Zunou Senkan Galg | 48488 | [48488-zunou-senkan-galg.json](./48488-zunou-senkan-galg.json) |
