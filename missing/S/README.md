@@ -2853,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Settlers | 259307 | [259307-save-the-settlers.json](./259307-save-the-settlers.json) |
 | Save the Shapes | 380604 | [380604-save-the-shapes.json](./380604-save-the-shapes.json) |
 | Save the Sheep | 368995 | [368995-save-the-sheep.json](./368995-save-the-sheep.json) |
+| Save the Sheriff | 416913 | [416913-save-the-sheriff.json](./416913-save-the-sheriff.json) |
 | Save the Teenies | 256227 | [256227-save-the-teenies.json](./256227-save-the-teenies.json) |
 | Save the throne | 285527 | [285527-save-the-throne.json](./285527-save-the-throne.json) |
 | Save the Titanic | 22106 | [22106-save-the-titanic.json](./22106-save-the-titanic.json) |
@@ -4241,7 +4242,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrapyard Survivors | 421934 | [421934-scrapyard-survivors.json](./421934-scrapyard-survivors.json) |
 | Scrash | 103395 | [103395-scrash.json](./103395-scrash.json) |
 | Scrat's Cheestrings Meltdown | 312956 | [312956-scrats-cheestrings-meltdown.json](./312956-scrats-cheestrings-meltdown.json) |
-| Scratch Game - Halloween Night | 89750 | [89750-scratch-game-halloween-night.json](./89750-scratch-game-halloween-night.json) |
 | Scratch Girl | 192529 | [192529-scratch-girl.json](./192529-scratch-girl.json) |
 | Scratch Golf | 46542 | [46542-scratch-golf.json](./46542-scratch-golf.json) |
 | Scratch Inc. | 350867 | [350867-scratch-inc.json](./350867-scratch-inc.json) |
@@ -5429,6 +5429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret World Legends | 28008 | [28008-secret-world-legends.json](./28008-secret-world-legends.json) |
 | Secret Writers Society | 206628 | [206628-secret-writers-society.json](./206628-secret-writers-society.json) |
 | Secreta Vitae | 419055 | [419055-secreta-vitae.json](./419055-secreta-vitae.json) |
+| Secretary of Death | 417955 | [417955-secretary-of-death.json](./417955-secretary-of-death.json) |
 | Secretary's Hell | 183249 | [183249-secretarys-hell.json](./183249-secretarys-hell.json) |
 | Secretbot! | 419079 | [419079-secretbot.json](./419079-secretbot.json) |
 | SecretHitler.io | 256764 | [256764-secrethitler-io.json](./256764-secrethitler-io.json) |
@@ -8630,7 +8631,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Cascade | 126579 | [126579-shape-cascade.json](./126579-shape-cascade.json) |
 | Shape Defenders | 283385 | [283385-shape-defenders.json](./283385-shape-defenders.json) |
 | Shape Drift | 99884 | [99884-shape-drift.json](./99884-shape-drift.json) |
-| Shape Escape | 89752 | [89752-shape-escape.json](./89752-shape-escape.json) |
 | Shape Escape | 90362 | [90362-shape-escape.json](./90362-shape-escape.json) |
 | Shape Fold Animals | 101926 | [101926-shape-fold-animals.json](./101926-shape-fold-animals.json) |
 | Shape Garden | 240834 | [240834-shape-garden.json](./240834-shape-garden.json) |
@@ -15700,6 +15700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender: The Gaze Of Horror | 321324 | [321324-slender-the-gaze-of-horror.json](./321324-slender-the-gaze-of-horror.json) |
 | Slender: The Haunted Metro | 321326 | [321326-slender-the-haunted-metro.json](./321326-slender-the-haunted-metro.json) |
 | Slender: The Nine Pages | 321329 | [321329-slender-the-nine-pages.json](./321329-slender-the-nine-pages.json) |
+| Slender: The Tall Silhouette | 414860 | [414860-slender-the-tall-silhouette.json](./414860-slender-the-tall-silhouette.json) |
 | Slender: Visit into the Woods | 236922 | [236922-slender-visit-into-the-woods.json](./236922-slender-visit-into-the-woods.json) |
 | Slenderclown: Be Afraid of It! | 321301 | [321301-slenderclown-be-afraid-of-it.json](./321301-slenderclown-be-afraid-of-it.json) |
 | Slendergus | 162063 | [162063-slendergus.json](./162063-slendergus.json) |
@@ -20697,6 +20698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Racing: CrossWorlds - "Blue Star" Extreme Gear | 374160 | [374160-sonic-racing-crossworlds-blue-star-extreme-gear.json](./374160-sonic-racing-crossworlds-blue-star-extreme-gear.json) |
 | Sonic Racing: CrossWorlds - Avatar Legends Pack | 375167 | [375167-sonic-racing-crossworlds-avatar-legends-pack.json](./375167-sonic-racing-crossworlds-avatar-legends-pack.json) |
 | Sonic Racing: CrossWorlds - Digital Deluxe Edition | 356807 | [356807-sonic-racing-crossworlds-digital-deluxe-edition.json](./356807-sonic-racing-crossworlds-digital-deluxe-edition.json) |
+| Sonic Racing: CrossWorlds - Hatsune Miku | 408747 | [408747-sonic-racing-crossworlds-hatsune-miku.json](./408747-sonic-racing-crossworlds-hatsune-miku.json) |
 | Sonic Racing: CrossWorlds - Mega Man Pack | 369989 | [369989-sonic-racing-crossworlds-mega-man-pack.json](./369989-sonic-racing-crossworlds-mega-man-pack.json) |
 | Sonic Racing: CrossWorlds - Minecraft Pack | 374099 | [374099-sonic-racing-crossworlds-minecraft-pack.json](./374099-sonic-racing-crossworlds-minecraft-pack.json) |
 | Sonic Racing: CrossWorlds - Pac-Man Pack | 375170 | [375170-sonic-racing-crossworlds-pac-man-pack.json](./375170-sonic-racing-crossworlds-pac-man-pack.json) |
@@ -21603,6 +21605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukou Akki Muramasa: Janen-hen | 170502 | [170502-soukou-akki-muramasa-janen-hen.json](./170502-soukou-akki-muramasa-janen-hen.json) |
 | Soukou Akki Muramasa: Shokuzai-hen | 166485 | [166485-soukou-akki-muramasa-shokuzai-hen.json](./166485-soukou-akki-muramasa-shokuzai-hen.json) |
 | Soukou Kihei Votoms | 85861 | [85861-soukou-kihei-votoms.json](./85861-soukou-kihei-votoms.json) |
+| Soukou Kihei Votoms Gaiden: Blue Knight Berserga Story | 415961 | [415961-soukou-kihei-votoms-gaiden-blue-knight-berserga-story.json](./415961-soukou-kihei-votoms-gaiden-blue-knight-berserga-story.json) |
 | Soukou Kihei Votoms: The Battling Road | 38273 | [38273-soukou-kihei-votoms-the-battling-road.json](./38273-soukou-kihei-votoms-the-battling-road.json) |
 | Soukou Kihei Votoms: Uoodo-Kummen Hen | 77845 | [77845-soukou-kihei-votoms-uoodo-kummen-hen.json](./77845-soukou-kihei-votoms-uoodo-kummen-hen.json) |
 | Soukou Musume | 137825 | [137825-soukou-musume.json](./137825-soukou-musume.json) |
@@ -33104,6 +33107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strider | 6969 | [6969-strider.json](./6969-strider.json) |
 | Strider | 74421 | [74421-strider.json](./74421-strider.json) |
 | Strider 2 | 5923 | [5923-strider-2.json](./5923-strider-2.json) |
+| Strider 2: Recompiled | 415693 | [415693-strider-2-recompiled.json](./415693-strider-2-recompiled.json) |
 | Strider Hiryuu | 204250 | [204250-strider-hiryuu.json](./204250-strider-hiryuu.json) |
 | Strider Hiryuu | 37620 | [37620-strider-hiryuu.json](./37620-strider-hiryuu.json) |
 | Strider II | 12782 | [12782-strider-ii.json](./12782-strider-ii.json) |
