@@ -8003,7 +8003,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess With Friends | 79921 | [79921-chess-with-friends.json](./79921-chess-with-friends.json) |
 | Chess With Idiots | 371978 | [371978-chess-with-idiots.json](./371978-chess-with-idiots.json) |
 | Chess with Lasers | 159223 | [159223-chess-with-lasers.json](./159223-chess-with-lasers.json) |
-| Chess- Online Game Hall | 89065 | [89065-chess-online-game-hall.json](./89065-chess-online-game-hall.json) |
 | Chess-ban de maigo | 387760 | [387760-chess-ban-de-maigo.json](./387760-chess-ban-de-maigo.json) |
 | Chess-Studio | 90337 | [90337-chess-studio.json](./90337-chess-studio.json) |
 | Chess, but... | 211265 | [211265-chess-but.json](./211265-chess-but.json) |
@@ -9476,7 +9475,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Escape 2 | 316909 | [316909-christmas-escape-2.json](./316909-christmas-escape-2.json) |
 | Christmas Escape 3 | 316911 | [316911-christmas-escape-3.json](./316911-christmas-escape-3.json) |
 | Christmas Escape Toy | 317090 | [317090-christmas-escape-toy.json](./317090-christmas-escape-toy.json) |
-| Christmas Eve Crisis | 89167 | [89167-christmas-eve-crisis.json](./89167-christmas-eve-crisis.json) |
 | Christmas Eve: Midnight's Call | 139767 | [139767-christmas-eve-midnights-call.json](./139767-christmas-eve-midnights-call.json) |
 | Christmas Eve: Midnight's Call - Collector's Edition | 30201 | [30201-christmas-eve-midnights-call-collectors-edition.json](./30201-christmas-eve-midnights-call-collectors-edition.json) |
 | Christmas Fables: Holiday Guardians | 417586 | [417586-christmas-fables-holiday-guardians.json](./417586-christmas-fables-holiday-guardians.json) |
@@ -12809,7 +12807,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluster Buster | 292831 | [292831-cluster-buster.json](./292831-cluster-buster.json) |
 | Cluster Cluck | 181421 | [181421-cluster-cluck.json](./181421-cluster-cluck.json) |
 | Cluster Cluck | 412955 | [412955-cluster-cluck.json](./412955-cluster-cluck.json) |
-| Cluster Dust | 89653 | [89653-cluster-dust.json](./89653-cluster-dust.json) |
 | Cluster Edge: Kimi wo Matsu Mirai he no Akashi | 242363 | [242363-cluster-edge-kimi-wo-matsu-mirai-he-no-akashi.json](./242363-cluster-edge-kimi-wo-matsu-mirai-he-no-akashi.json) |
 | Cluster Fly | 226305 | [226305-cluster-fly.json](./226305-cluster-fly.json) |
 | Cluster Gun | 134997 | [134997-cluster-gun.json](./134997-cluster-gun.json) |
@@ -14031,7 +14028,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color by Numbers - Dogs + | 101676 | [101676-color-by-numbers-dogs.json](./101676-color-by-numbers-dogs.json) |
 | Color by Numbers - Flowers | 104879 | [104879-color-by-numbers-flowers.json](./104879-color-by-numbers-flowers.json) |
 | Color by Numbers - Halloween + | 100009 | [100009-color-by-numbers-halloween.json](./100009-color-by-numbers-halloween.json) |
-| Color by Numbers - Princesses | 89067 | [89067-color-by-numbers-princesses.json](./89067-color-by-numbers-princesses.json) |
 | Color by Numbers - Vehicles | 88683 | [88683-color-by-numbers-vehicles.json](./88683-color-by-numbers-vehicles.json) |
 | Color Cannons+ | 107383 | [107383-color-cannons.json](./107383-color-cannons.json) |
 | Color Capsules | 423073 | [423073-color-capsules.json](./423073-color-capsules.json) |
@@ -14102,7 +14098,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Match - Balance Ball | 90327 | [90327-color-match-balance-ball.json](./90327-color-match-balance-ball.json) |
 | Color Match Pro | 361998 | [361998-color-match-pro.json](./361998-color-match-pro.json) |
 | Color Matching | 234168 | [234168-color-matching.json](./234168-color-matching.json) |
-| Color Math | 89573 | [89573-color-math.json](./89573-color-math.json) |
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
 | Color Me !!! for Mac | 99375 | [99375-color-me-for-mac.json](./99375-color-me-for-mac.json) |
 | Color Me Crazy! | 427339 | [427339-color-me-crazy.json](./427339-color-me-crazy.json) |
@@ -17027,7 +17022,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cops Chase | 245528 | [245528-cops-chase.json](./245528-cops-chase.json) |
 | Cops Kissing Each Other | 118078 | [118078-cops-kissing-each-other.json](./118078-cops-kissing-each-other.json) |
 | Cops L.A. Police | 259492 | [259492-cops-l-a-police.json](./259492-cops-l-a-police.json) |
-| Cops N Robbers | 89136 | [89136-cops-n-robbers.json](./89136-cops-n-robbers.json) |
 | Cops N Robbers: Pixel Craft Gun | 400445 | [400445-cops-n-robbers-pixel-craft-gun.json](./400445-cops-n-robbers-pixel-craft-gun.json) |
 | Cops N Robbers: Prison Games 1 | 400441 | [400441-cops-n-robbers-prison-games-1.json](./400441-cops-n-robbers-prison-games-1.json) |
 | Cops N Robbers: Prison Games 2 | 400443 | [400443-cops-n-robbers-prison-games-2.json](./400443-cops-n-robbers-prison-games-2.json) |
@@ -20615,7 +20609,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Crosser | 286620 | [286620-critter-crosser.json](./286620-critter-crosser.json) |
 | Critter Crossfire | 277326 | [277326-critter-crossfire.json](./277326-critter-crossfire.json) |
 | Critter Crunch | 13188 | [13188-critter-crunch.json](./13188-critter-crunch.json) |
-| Critter Crush - Hunting Game | 89282 | [89282-critter-crush-hunting-game.json](./89282-critter-crush-hunting-game.json) |
 | Critter Escape | 373229 | [373229-critter-escape.json](./373229-critter-escape.json) |
 | Critter Gang | 323496 | [323496-critter-gang.json](./323496-critter-gang.json) |
 | Critter Isle | 334301 | [334301-critter-isle.json](./334301-critter-isle.json) |
@@ -20672,7 +20665,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc: Legend of the Gobbos | 7901 | [7901-croc-legend-of-the-gobbos.json](./7901-croc-legend-of-the-gobbos.json) |
 | Croc's Dynamite Blast | 377008 | [377008-crocs-dynamite-blast.json](./377008-crocs-dynamite-blast.json) |
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
-| Croc's World 2 | 89170 | [89170-crocs-world-2.json](./89170-crocs-world-2.json) |
 | Croc's World 3 | 88563 | [88563-crocs-world-3.json](./88563-crocs-world-3.json) |
 | Croc's World 4 | 284758 | [284758-crocs-world-4.json](./284758-crocs-world-4.json) |
 | Croc's World 5 | 425955 | [425955-crocs-world-5.json](./425955-crocs-world-5.json) |
@@ -22340,7 +22332,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Siege | 420995 | [420995-cube-siege.json](./420995-cube-siege.json) |
 | Cube Smash | 129087 | [129087-cube-smash.json](./129087-cube-smash.json) |
 | Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
-| Cube Snap | 88964 | [88964-cube-snap.json](./88964-cube-snap.json) |
 | Cube Snap 2 | 86882 | [86882-cube-snap-2.json](./86882-cube-snap-2.json) |
 | Cube Solver | 231961 | [231961-cube-solver.json](./231961-cube-solver.json) |
 | Cube Space | 163195 | [163195-cube-space.json](./163195-cube-space.json) |
