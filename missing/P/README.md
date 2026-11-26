@@ -895,7 +895,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint the Town Red VR | 376986 | [376986-paint-the-town-red-vr.json](./376986-paint-the-town-red-vr.json) |
 | Paint the World | 425004 | [425004-paint-the-world.json](./425004-paint-the-world.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
-| Paint Tower! | 88763 | [88763-paint-tower.json](./88763-paint-tower.json) |
 | Paint Tubes | 108217 | [108217-paint-tubes.json](./108217-paint-tubes.json) |
 | Paint Warfare | 131324 | [131324-paint-warfare.json](./131324-paint-warfare.json) |
 | Paint Works | 268399 | [268399-paint-works.json](./268399-paint-works.json) |
@@ -2112,17 +2111,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papich - The Game Ep.1 | 81749 | [81749-papich-the-game-ep-1.json](./81749-papich-the-game-ep-1.json) |
 | PapiDefense | 87306 | [87306-papidefense.json](./87306-papidefense.json) |
 | PapiDiving | 87246 | [87246-papidiving.json](./87246-papidiving.json) |
-| PapiDrive | 88821 | [88821-papidrive.json](./88821-papidrive.json) |
 | Papier Julien | 337711 | [337711-papier-julien.json](./337711-papier-julien.json) |
 | PapiFlap | 87249 | [87249-papiflap.json](./87249-papiflap.json) |
 | PapiHop | 87388 | [87388-papihop.json](./87388-papihop.json) |
 | PapiJump | 72701 | [72701-papijump.json](./72701-papijump.json) |
 | Papilio | 195015 | [195015-papilio.json](./195015-papilio.json) |
 | PapiMirror | 87231 | [87231-papimirror.json](./87231-papimirror.json) |
-| PapiMissile | 88788 | [88788-papimissile.json](./88788-papimissile.json) |
 | PapiMountain | 87234 | [87234-papimountain.json](./87234-papimountain.json) |
 | Papiny Dochki | 188598 | [188598-papiny-dochki.json](./188598-papiny-dochki.json) |
-| PapiOrange | 88786 | [88786-papiorange.json](./88786-papiorange.json) |
 | PapiPole | 88787 | [88787-papipole.json](./88787-papipole.json) |
 | PapiRiver | 87116 | [87116-papiriver.json](./87116-papiriver.json) |
 | PapiRubber | 87232 | [87232-papirubber.json](./87232-papirubber.json) |
@@ -3144,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Pie | 208445 | [208445-party-pie.json](./208445-party-pie.json) |
 | Party Pigs: Farmyard Games | 51109 | [51109-party-pigs-farmyard-games.json](./51109-party-pigs-farmyard-games.json) |
 | Party Pirates | 279480 | [279480-party-pirates.json](./279480-party-pirates.json) |
+| Party Planet | 71594 | [71594-party-planet.json](./71594-party-planet.json) |
 | Party Planner | 209413 | [209413-party-planner.json](./209413-party-planner.json) |
 | Party Play Mania | 361688 | [361688-party-play-mania.json](./361688-party-play-mania.json) |
 | Party Pong | 389234 | [389234-party-pong.json](./389234-party-pong.json) |
@@ -4144,7 +4141,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PB Makes Lunch | 177411 | [177411-pb-makes-lunch.json](./177411-pb-makes-lunch.json) |
 | PBA Bowling | 75210 | [75210-pba-bowling.json](./75210-pba-bowling.json) |
 | PBA Bowling 2 | 94674 | [94674-pba-bowling-2.json](./94674-pba-bowling-2.json) |
-| PBA Bowling Challenge | 88864 | [88864-pba-bowling-challenge.json](./88864-pba-bowling-challenge.json) |
 | PBA Pro Bowling 2021 | 142172 | [142172-pba-pro-bowling-2021.json](./142172-pba-pro-bowling-2021.json) |
 | PBA Pro Bowling 2023 | 214247 | [214247-pba-pro-bowling-2023.json](./214247-pba-pro-bowling-2023.json) |
 | PBA Pro Bowling 2026 | 369592 | [369592-pba-pro-bowling-2026.json](./369592-pba-pro-bowling-2026.json) |
@@ -7247,7 +7243,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PictureBook Games: The Royal Bluff | 77127 | [77127-picturebook-games-the-royal-bluff.json](./77127-picturebook-games-the-royal-bluff.json) |
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
 | Pictures at an Exhibition | 409408 | [409408-pictures-at-an-exhibition.json](./409408-pictures-at-an-exhibition.json) |
-| Pictures Mania Deluxe | 88748 | [88748-pictures-mania-deluxe.json](./88748-pictures-mania-deluxe.json) |
 | Pictures of a reasonably documented year | 184229 | [184229-pictures-of-a-reasonably-documented-year.json](./184229-pictures-of-a-reasonably-documented-year.json) |
 | Pictures of Life | 120748 | [120748-pictures-of-life.json](./120748-pictures-of-life.json) |
 | Picturesque VR | 91056 | [91056-picturesque-vr.json](./91056-picturesque-vr.json) |
@@ -7279,7 +7274,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pid: Deluxe Edition | 231248 | [231248-pid-deluxe-edition.json](./231248-pid-deluxe-edition.json) |
 | Pidgeon Pocket | 409879 | [409879-pidgeon-pocket.json](./409879-pidgeon-pocket.json) |
 | Pido1 | 105367 | [105367-pido1.json](./105367-pido1.json) |
-| Pie Die: Pewdiepie Edition | 88444 | [88444-pie-die-pewdiepie-edition.json](./88444-pie-die-pewdiepie-edition.json) |
 | Pie in the Sky | 298346 | [298346-pie-in-the-sky.json](./298346-pie-in-the-sky.json) |
 | Pie Jackers | 209963 | [209963-pie-jackers.json](./209963-pie-jackers.json) |
 | Pie O'Clock! | 190965 | [190965-pie-oclock.json](./190965-pie-oclock.json) |
@@ -8659,6 +8653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Mania!! | 265013 | [265013-pipe-mania.json](./265013-pipe-mania.json) |
 | Pipe Master II | 108803 | [108803-pipe-master-ii.json](./108803-pipe-master-ii.json) |
 | Pipe or Die | 426045 | [426045-pipe-or-die.json](./426045-pipe-or-die.json) |
+| Pipe Push Paradise | 72519 | [72519-pipe-push-paradise.json](./72519-pipe-push-paradise.json) |
 | Pipe Puzzle | 68929 | [68929-pipe-puzzle.json](./68929-pipe-puzzle.json) |
 | Pipe Race | 247326 | [247326-pipe-race.json](./247326-pipe-race.json) |
 | Pipe Skull | 185127 | [185127-pipe-skull.json](./185127-pipe-skull.json) |
@@ -8764,7 +8759,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate | 41424 | [41424-pirate.json](./41424-pirate.json) |
 | Pirate Adventure | 176799 | [176799-pirate-adventure.json](./176799-pirate-adventure.json) |
 | Pirate Adventure | 18512 | [18512-pirate-adventure.json](./18512-pirate-adventure.json) |
-| Pirate Adventures lite: hidden object game | 88358 | [88358-pirate-adventures-lite-hidden-object-game.json](./88358-pirate-adventures-lite-hidden-object-game.json) |
 | Pirate Adventures: hidden object game | 104630 | [104630-pirate-adventures-hidden-object-game.json](./104630-pirate-adventures-hidden-object-game.json) |
 | Pirate and Parrots | 421370 | [421370-pirate-and-parrots.json](./421370-pirate-and-parrots.json) |
 | Pirate Anime Quest: One Boys' Journey, A Piece of Island Love | 345717 | [345717-pirate-anime-quest-one-boys-journey-a-piece-of-island-love.json](./345717-pirate-anime-quest-one-boys-journey-a-piece-of-island-love.json) |
@@ -9551,7 +9545,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Pup | 418423 | [418423-pixel-pup.json](./418423-pixel-pup.json) |
 | Pixel Pursuit | 43147 | [43147-pixel-pursuit.json](./43147-pixel-pursuit.json) |
 | Pixel Push Football | 240868 | [240868-pixel-push-football.json](./240868-pixel-push-football.json) |
-| Pixel Puzzle | 88484 | [88484-pixel-puzzle.json](./88484-pixel-puzzle.json) |
 | Pixel Puzzle Collection | 110865 | [110865-pixel-puzzle-collection.json](./110865-pixel-puzzle-collection.json) |
 | Pixel Puzzle Makeout League | 121603 | [121603-pixel-puzzle-makeout-league.json](./121603-pixel-puzzle-makeout-league.json) |
 | Pixel Puzzle Picross | 55732 | [55732-pixel-puzzle-picross.json](./55732-pixel-puzzle-picross.json) |
@@ -10087,7 +10080,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelPainter 95 | 428162 | [428162-pixelpainter-95.json](./428162-pixelpainter-95.json) |
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
 | PixelPlanet.fun | 125561 | [125561-pixelplanet-fun.json](./125561-pixelplanet-fun.json) |
-| Pixelpunk XL | 88237 | [88237-pixelpunk-xl.json](./88237-pixelpunk-xl.json) |
 | Pixelpusher | 177003 | [177003-pixelpusher.json](./177003-pixelpusher.json) |
 | PixelQuest: Herb's Adventure | 318278 | [318278-pixelquest-herbs-adventure.json](./318278-pixelquest-herbs-adventure.json) |
 | PixelQuiz | 234521 | [234521-pixelquiz.json](./234521-pixelquiz.json) |
@@ -11178,7 +11170,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platforms Unlimited | 101323 | [101323-platforms-unlimited.json](./101323-platforms-unlimited.json) |
 | Platfuzzles | 212009 | [212009-platfuzzles.json](./212009-platfuzzles.json) |
 | Plati and the Tower of Time | 310739 | [310739-plati-and-the-tower-of-time.json](./310739-plati-and-the-tower-of-time.json) |
-| Plati Nalog: Favorite Russian Game | 88083 | [88083-plati-nalog-favorite-russian-game.json](./88083-plati-nalog-favorite-russian-game.json) |
 | Platie | 266544 | [266544-platie.json](./266544-platie.json) |
 | Platin: Last Royale | 200756 | [200756-platin-last-royale.json](./200756-platin-last-royale.json) |
 | Platina: Lab | 339987 | [339987-platina-lab.json](./339987-platina-lab.json) |
@@ -12114,7 +12105,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Player: Dig Dug | 275241 | [275241-pocket-player-dig-dug.json](./275241-pocket-player-dig-dug.json) |
 | Pocket Player: Pac-Man | 233036 | [233036-pocket-player-pac-man.json](./233036-pocket-player-pac-man.json) |
 | Pocket Playground | 387399 | [387399-pocket-playground.json](./387399-pocket-playground.json) |
-| Pocket Politics | 88860 | [88860-pocket-politics.json](./88860-pocket-politics.json) |
 | Pocket Pool | 21618 | [21618-pocket-pool.json](./21618-pocket-pool.json) |
 | Pocket Pool | 225877 | [225877-pocket-pool.json](./225877-pocket-pool.json) |
 | Pocket Pool: Adventure | 248724 | [248724-pocket-pool-adventure.json](./248724-pocket-pool-adventure.json) |
@@ -13572,7 +13562,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Night at the Inventory | 8040 | [8040-poker-night-at-the-inventory.json](./8040-poker-night-at-the-inventory.json) |
 | Poker Night with David Sklansky | 209347 | [209347-poker-night-with-david-sklansky.json](./209347-poker-night-with-david-sklansky.json) |
 | Poker Now | 225708 | [225708-poker-now.json](./225708-poker-now.json) |
-| Poker Online: Texas Holdem | 88829 | [88829-poker-online-texas-holdem.json](./88829-poker-online-texas-holdem.json) |
 | Poker Pals | 64849 | [64849-poker-pals.json](./64849-poker-pals.json) |
 | Poker Patience | 83481 | [83481-poker-patience.json](./83481-poker-patience.json) |
 | Poker Poker Magic | 309027 | [309027-poker-poker-magic.json](./309027-poker-poker-magic.json) |
@@ -14683,7 +14672,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | POP Station | 225629 | [225629-pop-station.json](./225629-pop-station.json) |
 | Pop Stop | 277472 | [277472-pop-stop.json](./277472-pop-stop.json) |
 | Pop Survivor | 234109 | [234109-pop-survivor.json](./234109-pop-survivor.json) |
-| Pop the Balloons | 88745 | [88745-pop-the-balloons.json](./88745-pop-the-balloons.json) |
 | Pop the Bubbles | 147710 | [147710-pop-the-bubbles.json](./147710-pop-the-bubbles.json) |
 | Pop the Bubblewrap | 328681 | [328681-pop-the-bubblewrap.json](./328681-pop-the-bubblewrap.json) |
 | Pop the Ghosts | 421615 | [421615-pop-the-ghosts.json](./421615-pop-the-ghosts.json) |
@@ -16255,7 +16243,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prerolled | 378560 | [378560-prerolled.json](./378560-prerolled.json) |
 | Preschool & Kindergarten 2 | 88279 | [88279-preschool-and-kindergarten-2.json](./88279-preschool-and-kindergarten-2.json) |
 | Preschool & Kindergarten Games | 88268 | [88268-preschool-and-kindergarten-games.json](./88268-preschool-and-kindergarten-games.json) |
-| Preschool ABC Number and Letter Puzzle Game | 88355 | [88355-preschool-abc-number-and-letter-puzzle-game.json](./88355-preschool-abc-number-and-letter-puzzle-game.json) |
 | Preschool All-In-One | 99138 | [99138-preschool-all-in-one.json](./99138-preschool-all-in-one.json) |
 | Preschool Colors Toys Train | 99719 | [99719-preschool-colors-toys-train.json](./99719-preschool-colors-toys-train.json) |
 | Preschool EduKidsRoom | 87266 | [87266-preschool-edukidsroom.json](./87266-preschool-edukidsroom.json) |
@@ -16933,7 +16920,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess of Worlds End | 391641 | [391641-princess-of-worlds-end.json](./391641-princess-of-worlds-end.json) |
 | Princess of Zeven | 116165 | [116165-princess-of-zeven.json](./116165-princess-of-zeven.json) |
 | Princess on Ice | 72476 | [72476-princess-on-ice.json](./72476-princess-on-ice.json) |
-| Princess Pairs - Games for Girls | 88108 | [88108-princess-pairs-games-for-girls.json](./88108-princess-pairs-games-for-girls.json) |
 | Princess Pajama | 316803 | [316803-princess-pajama.json](./316803-princess-pajama.json) |
 | Princess Paladin | 258034 | [258034-princess-paladin.json](./258034-princess-paladin.json) |
 | Princess Paladin | 395761 | [395761-princess-paladin.json](./395761-princess-paladin.json) |
@@ -17493,7 +17479,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Fishing Simulator: Predator Edition | 115022 | [115022-pro-fishing-simulator-predator-edition.json](./115022-pro-fishing-simulator-predator-edition.json) |
 | Pro Flight Simulator | 176146 | [176146-pro-flight-simulator.json](./176146-pro-flight-simulator.json) |
 | Pro Flight Simulator | 322410 | [322410-pro-flight-simulator.json](./322410-pro-flight-simulator.json) |
-| Pro Flight Simulator New York Premium Edition | 88363 | [88363-pro-flight-simulator-new-york-premium-edition.json](./88363-pro-flight-simulator-new-york-premium-edition.json) |
 | Pro Flight Simulator: Deluxe | 324128 | [324128-pro-flight-simulator-deluxe.json](./324128-pro-flight-simulator-deluxe.json) |
 | Pro Foosball | 63831 | [63831-pro-foosball.json](./63831-pro-foosball.json) |
 | Pro Football | 289866 | [289866-pro-football.json](./289866-pro-football.json) |
@@ -19650,7 +19635,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Starship Rampage | 34856 | [34856-psycho-starship-rampage.json](./34856-psycho-starship-rampage.json) |
 | Psycho Strafe | 358969 | [358969-psycho-strafe.json](./358969-psycho-strafe.json) |
 | Psycho Train | 53483 | [53483-psycho-train.json](./53483-psycho-train.json) |
-| Psycho Train | 88487 | [88487-psycho-train.json](./88487-psycho-train.json) |
 | Psycho Waluigi | 132724 | [132724-psycho-waluigi.json](./132724-psycho-waluigi.json) |
 | Psycho Wolf | 96370 | [96370-psycho-wolf.json](./96370-psycho-wolf.json) |
 | Psycho World | 248936 | [248936-psycho-world.json](./248936-psycho-world.json) |
@@ -21557,7 +21541,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzledorf | 160209 | [160209-puzzledorf.json](./160209-puzzledorf.json) |
 | Puzzledrome | 200061 | [200061-puzzledrome.json](./200061-puzzledrome.json) |
 | Puzzlefall | 58177 | [58177-puzzlefall.json](./58177-puzzlefall.json) |
-| Puzzlefun | 88304 | [88304-puzzlefun.json](./88304-puzzlefun.json) |
 | Puzzlegeddon | 21139 | [21139-puzzlegeddon.json](./21139-puzzlegeddon.json) |
 | PuzzleGony | 104178 | [104178-puzzlegony.json](./104178-puzzlegony.json) |
 | Puzzlehub: Businesswoman Hentai | 301663 | [301663-puzzlehub-businesswoman-hentai.json](./301663-puzzlehub-businesswoman-hentai.json) |
