@@ -4559,7 +4559,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Tiles Ex | 99552 | [99552-battle-of-tiles-ex.json](./99552-battle-of-tiles-ex.json) |
 | Battle of Titans | 125849 | [125849-battle-of-titans.json](./125849-battle-of-titans.json) |
 | Battle of Vukovar: Rain of Steel | 233671 | [233671-battle-of-vukovar-rain-of-steel.json](./233671-battle-of-vukovar-rain-of-steel.json) |
-| Battle of Warplanes: Air War | 87531 | [87531-battle-of-warplanes-air-war.json](./87531-battle-of-warplanes-air-war.json) |
 | Battle Of Witches | 331075 | [331075-battle-of-witches.json](./331075-battle-of-witches.json) |
 | Battle of Words | 269081 | [269081-battle-of-words.json](./269081-battle-of-words.json) |
 | Battle of Words | 69972 | [69972-battle-of-words.json](./69972-battle-of-words.json) |
@@ -9800,7 +9799,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds With Feelings | 118177 | [118177-birds-with-feelings.json](./118177-birds-with-feelings.json) |
 | Birds With Guns | 187613 | [187613-birds-with-guns.json](./187613-birds-with-guns.json) |
 | Birds'n'Blocks | 88843 | [88843-birdsnblocks.json](./88843-birdsnblocks.json) |
-| Birds'n'Blocks 2 | 87694 | [87694-birdsnblocks-2.json](./87694-birdsnblocks-2.json) |
 | BirdsBorough: Town of Alchemy | 214368 | [214368-birdsborough-town-of-alchemy.json](./214368-birdsborough-town-of-alchemy.json) |
 | Birdseed VR | 380580 | [380580-birdseed-vr.json](./380580-birdseed-vr.json) |
 | Birdsong | 133016 | [133016-birdsong.json](./133016-birdsong.json) |
@@ -10790,6 +10788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackmoor 2 | 110405 | [110405-blackmoor-2.json](./110405-blackmoor-2.json) |
 | Blackmoor 2: The Traitor King | 130791 | [130791-blackmoor-2-the-traitor-king.json](./130791-blackmoor-2-the-traitor-king.json) |
 | BlackMUD | 228900 | [228900-blackmud.json](./228900-blackmud.json) |
+| Blackmurk: Shuffling Man | 428393 | [428393-blackmurk-shuffling-man.json](./428393-blackmurk-shuffling-man.json) |
 | Blackout | 148342 | [148342-blackout.json](./148342-blackout.json) |
 | Blackout | 162428 | [162428-blackout.json](./162428-blackout.json) |
 | Blackout | 221817 | [221817-blackout.json](./221817-blackout.json) |
@@ -13790,6 +13789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boarder Zone | 288071 | [288071-boarder-zone.json](./288071-boarder-zone.json) |
 | Boardfall | 375945 | [375945-boardfall.json](./375945-boardfall.json) |
 | Boardfall Zero | 376408 | [376408-boardfall-zero.json](./376408-boardfall-zero.json) |
+| Boardgammon | 424102 | [424102-boardgammon.json](./424102-boardgammon.json) |
 | Boarding Denied | 422118 | [422118-boarding-denied.json](./422118-boarding-denied.json) |
 | Boardland | 285914 | [285914-boardland.json](./285914-boardland.json) |
 | Boardlike | 376538 | [376538-boardlike.json](./376538-boardlike.json) |
@@ -14566,6 +14566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BomberGast | 179383 | [179383-bombergast.json](./179383-bombergast.json) |
 | Bombergeddon | 129745 | [129745-bombergeddon.json](./129745-bombergeddon.json) |
 | Bombergirl | 27285 | [27285-bombergirl.json](./27285-bombergirl.json) |
+| Bombergirl Rainbow | 398219 | [398219-bombergirl-rainbow.json](./398219-bombergirl-rainbow.json) |
 | Bombergrounds: Classic | 338429 | [338429-bombergrounds-classic.json](./338429-bombergrounds-classic.json) |
 | Bombergrounds: Reborn | 120852 | [120852-bombergrounds-reborn.json](./120852-bombergrounds-reborn.json) |
 | BomberGuys | 191449 | [191449-bomberguys.json](./191449-bomberguys.json) |
@@ -16874,7 +16875,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainfuck | 110888 | [110888-brainfuck.json](./110888-brainfuck.json) |
 | Brainfuck Challenge | 350781 | [350781-brainfuck-challenge.json](./350781-brainfuck-challenge.json) |
 | Braingirl | 201337 | [201337-braingirl.json](./201337-braingirl.json) |
-| Brainium Solitaire | 87861 | [87861-brainium-solitaire.json](./87861-brainium-solitaire.json) |
 | Brainiversity | 87907 | [87907-brainiversity.json](./87907-brainiversity.json) |
 | Brainjogging for Kids | 88485 | [88485-brainjogging-for-kids.json](./88485-brainjogging-for-kids.json) |
 | Brainkilled | 351526 | [351526-brainkilled.json](./351526-brainkilled.json) |
@@ -16891,6 +16891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot Clicker: Steal All | 401375 | [401375-brainrot-clicker-steal-all.json](./401375-brainrot-clicker-steal-all.json) |
 | Brainrot Dash | 338791 | [338791-brainrot-dash.json](./338791-brainrot-dash.json) |
 | Brainrot Games | 423938 | [423938-brainrot-games.json](./423938-brainrot-games.json) |
+| Brainrot Heist | 426743 | [426743-brainrot-heist.json](./426743-brainrot-heist.json) |
 | Brainrot Kart | 349904 | [349904-brainrot-kart.json](./349904-brainrot-kart.json) |
 | Brainrot Online | 388482 | [388482-brainrot-online.json](./388482-brainrot-online.json) |
 | Brainrot Showdown | 408239 | [408239-brainrot-showdown.json](./408239-brainrot-showdown.json) |
@@ -19118,7 +19119,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Dreams 3D | 330724 | [330724-bubble-dreams-3d.json](./330724-bubble-dreams-3d.json) |
 | Bubble Escape WTH? | 110230 | [110230-bubble-escape-wth.json](./110230-bubble-escape-wth.json) |
 | Bubble Explode | 87384 | [87384-bubble-explode.json](./87384-bubble-explode.json) |
-| Bubble Explosion Adventure | 87691 | [87691-bubble-explosion-adventure.json](./87691-bubble-explosion-adventure.json) |
 | Bubble Fighter | 58095 | [58095-bubble-fighter.json](./58095-bubble-fighter.json) |
 | Bubble Fire Story | 233179 | [233179-bubble-fire-story.json](./233179-bubble-fire-story.json) |
 | Bubble Fish | 344131 | [344131-bubble-fish.json](./344131-bubble-fish.json) |
