@@ -1387,7 +1387,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Ace | 377241 | [377241-jet-ace.json](./377241-jet-ace.json) |
 | Jet Ant | 110399 | [110399-jet-ant.json](./110399-jet-ant.json) |
 | Jet Ball HD | 41525 | [41525-jet-ball-hd.json](./41525-jet-ball-hd.json) |
-| Jet Battle 3D | 88480 | [88480-jet-battle-3d.json](./88480-jet-battle-3d.json) |
 | Jet Bike Simulator | 55211 | [55211-jet-bike-simulator.json](./55211-jet-bike-simulator.json) |
 | Jet Birds | 427663 | [427663-jet-birds.json](./427663-jet-birds.json) |
 | Jet Blaster | 239905 | [239905-jet-blaster.json](./239905-jet-blaster.json) |
@@ -1653,7 +1652,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Master: Egypt | 47701 | [47701-jewel-master-egypt.json](./47701-jewel-master-egypt.json) |
 | Jewel Match | 204872 | [204872-jewel-match.json](./204872-jewel-match.json) |
 | Jewel Match | 53251 | [53251-jewel-match.json](./53251-jewel-match.json) |
-| Jewel Match | 88713 | [88713-jewel-match.json](./88713-jewel-match.json) |
 | Jewel Match 2 | 60481 | [60481-jewel-match-2.json](./60481-jewel-match-2.json) |
 | Jewel Match 3 | 85216 | [85216-jewel-match-3.json](./85216-jewel-match-3.json) |
 | Jewel Match Aquascapes 2: Collector's Edition | 271003 | [271003-jewel-match-aquascapes-2-collectors-edition.json](./271003-jewel-match-aquascapes-2-collectors-edition.json) |
@@ -3324,7 +3322,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joyous Rebel | 229606 | [229606-joyous-rebel.json](./229606-joyous-rebel.json) |
 | Joyquarium | 337072 | [337072-joyquarium.json](./337072-joyquarium.json) |
 | Joyride | 203787 | [203787-joyride.json](./203787-joyride.json) |
-| Joyride: live trivia shows | 88175 | [88175-joyride-live-trivia-shows.json](./88175-joyride-live-trivia-shows.json) |
 | Joyride: Lowpoly World | 259010 | [259010-joyride-lowpoly-world.json](./259010-joyride-lowpoly-world.json) |
 | Joyrider | 270412 | [270412-joyrider.json](./270412-joyrider.json) |
 | Joyshot | 181914 | [181914-joyshot.json](./181914-joyshot.json) |
