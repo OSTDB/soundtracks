@@ -130,7 +130,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B99 | 133265 | [133265-b99.json](./133265-b99.json) |
 | B99 Overclocked | 288664 | [288664-b99-overclocked.json](./288664-b99-overclocked.json) |
 | Ba Bị | 381312 | [381312-ba-bi.json](./381312-ba-bi.json) |
-| Ba Da Bump | 88789 | [88789-ba-da-bump.json](./88789-ba-da-bump.json) |
 | Ba Quartet X | 276296 | [276296-ba-quartet-x.json](./276296-ba-quartet-x.json) |
 | Baa-Baa Blitz: The Sheeps kebab Incident | 359024 | [359024-baa-baa-blitz-the-sheeps-kebab-incident.json](./359024-baa-baa-blitz-the-sheeps-kebab-incident.json) |
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
@@ -291,7 +290,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Mammoth's Journey to Mars | 311711 | [311711-baby-mammoths-journey-to-mars.json](./311711-baby-mammoths-journey-to-mars.json) |
 | Baby Mario's A-Maze-ing Game | 341043 | [341043-baby-marios-a-maze-ing-game.json](./341043-baby-marios-a-maze-ing-game.json) |
 | Baby Monkey | 93453 | [93453-baby-monkey.json](./93453-baby-monkey.json) |
-| Baby Ninja | 88554 | [88554-baby-ninja.json](./88554-baby-ninja.json) |
 | Baby Ninja Jump | 89292 | [89292-baby-ninja-jump.json](./89292-baby-ninja-jump.json) |
 | Baby Nom Nom | 20916 | [20916-baby-nom-nom.json](./20916-baby-nom-nom.json) |
 | Baby Pac-Man | 388306 | [388306-baby-pac-man.json](./388306-baby-pac-man.json) |
@@ -578,7 +576,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon Royale | 12397 | [12397-backgammon-royale.json](./12397-backgammon-royale.json) |
 | Backgammon, Chess & Checkers | 111142 | [111142-backgammon-chess-and-checkers.json](./111142-backgammon-chess-and-checkers.json) |
 | Backgammon: Board Game Puzzle | 221587 | [221587-backgammon-board-game-puzzle.json](./221587-backgammon-board-game-puzzle.json) |
-| Backgammon. | 88715 | [88715-backgammon.json](./88715-backgammon.json) |
 | Background Bells | 375996 | [375996-background-bells.json](./375996-background-bells.json) |
 | Background Memory | 265450 | [265450-background-memory.json](./265450-background-memory.json) |
 | BackGuiner: Yomigaeru Yuusha-tachi - Hishou-hen Uragiri no Senjou | 45425 | [45425-backguiner-yomigaeru-yuusha-tachi-hishou-hen-uragiri-no-senjou.json](./45425-backguiner-yomigaeru-yuusha-tachi-hishou-hen-uragiri-no-senjou.json) |
@@ -883,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Sports Football 2007 | 6315 | [6315-backyard-sports-football-2007.json](./6315-backyard-sports-football-2007.json) |
 | Backyard Sports Football: Rookie Rush | 47408 | [47408-backyard-sports-football-rookie-rush.json](./47408-backyard-sports-football-rookie-rush.json) |
 | Backyard Sports: Baseball 2007 | 49243 | [49243-backyard-sports-baseball-2007.json](./49243-backyard-sports-baseball-2007.json) |
+| Backyard Sports: Baseball 2007 | 72798 | [72798-backyard-sports-baseball-2007.json](./72798-backyard-sports-baseball-2007.json) |
 | Backyard Sports: Basketball 2007 | 49242 | [49242-backyard-sports-basketball-2007.json](./49242-backyard-sports-basketball-2007.json) |
 | Backyard Sports: Basketball 2007 | 73785 | [73785-backyard-sports-basketball-2007.json](./73785-backyard-sports-basketball-2007.json) |
 | Backyard Sports: Rookie Rush | 6908 | [6908-backyard-sports-rookie-rush.json](./6908-backyard-sports-rookie-rush.json) |
@@ -3407,7 +3405,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Everyday | 200254 | [200254-baseball-everyday.json](./200254-baseball-everyday.json) |
 | Baseball Fighter | 48615 | [48615-baseball-fighter.json](./48615-baseball-fighter.json) |
 | Baseball for the Tomy Tutor | 131456 | [131456-baseball-for-the-tomy-tutor.json](./131456-baseball-for-the-tomy-tutor.json) |
-| Baseball General Manager | 88555 | [88555-baseball-general-manager.json](./88555-baseball-general-manager.json) |
 | Baseball Heroes | 342287 | [342287-baseball-heroes.json](./342287-baseball-heroes.json) |
 | Baseball Heroes | 40835 | [40835-baseball-heroes.json](./40835-baseball-heroes.json) |
 | Baseball Highlights 2045 | 96293 | [96293-baseball-highlights-2045.json](./96293-baseball-highlights-2045.json) |
@@ -4993,7 +4990,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlegrounds | 403592 | [403592-battlegrounds.json](./403592-battlegrounds.json) |
 | Battlegrounds Mobile India | 146903 | [146903-battlegrounds-mobile-india.json](./146903-battlegrounds-mobile-india.json) |
 | Battlegrounds of Eldhelm | 17955 | [17955-battlegrounds-of-eldhelm.json](./17955-battlegrounds-of-eldhelm.json) |
-| Battlegrounds Real Time Strategy Multiplayer: Spy vs Spy Edition | 88376 | [88376-battlegrounds-real-time-strategy-multiplayer-spy-vs-spy-edition.json](./88376-battlegrounds-real-time-strategy-multiplayer-spy-vs-spy-edition.json) |
 | Battlegrounds: At Enemy Gates | 266615 | [266615-battlegrounds-at-enemy-gates.json](./266615-battlegrounds-at-enemy-gates.json) |
 | Battlegrounds: First Blast | 159406 | [159406-battlegrounds-first-blast.json](./159406-battlegrounds-first-blast.json) |
 | Battlegrounds: The Pirate King | 294158 | [294158-battlegrounds-the-pirate-king.json](./294158-battlegrounds-the-pirate-king.json) |
@@ -9282,7 +9278,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Blitz | 153547 | [153547-bingo-blitz.json](./153547-bingo-blitz.json) |
 | Bingo Blitz️ | 181306 | [181306-bingo-blitz.json](./181306-bingo-blitz.json) |
 | Bingo Bugglebee Presents: Home Alone | 362426 | [362426-bingo-bugglebee-presents-home-alone.json](./362426-bingo-bugglebee-presents-home-alone.json) |
-| Bingo Caller Machine | 88150 | [88150-bingo-caller-machine.json](./88150-bingo-caller-machine.json) |
 | Bingo Christmas: Holiday Bingo | 88213 | [88213-bingo-christmas-holiday-bingo.json](./88213-bingo-christmas-holiday-bingo.json) |
 | Bingo Clash | 314576 | [314576-bingo-clash.json](./314576-bingo-clash.json) |
 | Bingo Collection | 84989 | [84989-bingo-collection.json](./84989-bingo-collection.json) |
@@ -10754,7 +10749,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Elf | 313895 | [313895-blackjack-elf.json](./313895-blackjack-elf.json) |
 | Blackjack Hands | 133518 | [133518-blackjack-hands.json](./133518-blackjack-hands.json) |
 | Blackjack HD | 87408 | [87408-blackjack-hd.json](./87408-blackjack-hd.json) |
-| Blackjack In Space | 88200 | [88200-blackjack-in-space.json](./88200-blackjack-in-space.json) |
 | Blackjack Master | 86689 | [86689-blackjack-master.json](./86689-blackjack-master.json) |
 | BlackJack Math | 167427 | [167427-blackjack-math.json](./167427-blackjack-math.json) |
 | BlackJack Math Cross Numbers | 238877 | [238877-blackjack-math-cross-numbers.json](./238877-blackjack-math-cross-numbers.json) |
@@ -11022,7 +11016,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade: Trinity | 322358 | [322358-blade-trinity.json](./322358-blade-trinity.json) |
 | Blade.exe | 377036 | [377036-blade-exe.json](./377036-blade-exe.json) |
 | Blade's Burden | 284009 | [284009-blades-burden.json](./284009-blades-burden.json) |
-| Blade's Legacy | 88081 | [88081-blades-legacy.json](./88081-blades-legacy.json) |
 | Bladeborne | 290567 | [290567-bladeborne.json](./290567-bladeborne.json) |
 | Bladebound | 57414 | [57414-bladebound.json](./57414-bladebound.json) |
 | Bladed Fury | 108787 | [108787-bladed-fury.json](./108787-bladed-fury.json) |
@@ -13385,7 +13378,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Blaster | 67858 | [67858-blue-blaster.json](./67858-blue-blaster.json) |
 | Blue Blaster Fandisc: Claudia Dakkan Sakusen | 408312 | [408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json](./408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json) |
 | Blue Blaze Maze | 96080 | [96080-blue-blaze-maze.json](./96080-blue-blaze-maze.json) |
-| Blue Block | 88848 | [88848-blue-block.json](./88848-blue-block.json) |
 | Blue Blood | 141770 | [141770-blue-blood.json](./141770-blue-blood.json) |
 | Blue Blood | 213939 | [213939-blue-blood.json](./213939-blue-blood.json) |
 | Blue Blood Lagoon | 69519 | [69519-blue-blood-lagoon.json](./69519-blue-blood-lagoon.json) |
