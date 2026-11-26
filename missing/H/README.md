@@ -8156,6 +8156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Gems: Volume One | 269373 | [269373-hidden-gems-volume-one.json](./269373-hidden-gems-volume-one.json) |
 | Hidden Ghost Town | 189902 | [189902-hidden-ghost-town.json](./189902-hidden-ghost-town.json) |
 | Hidden Ghost Town 2 | 189292 | [189292-hidden-ghost-town-2.json](./189292-hidden-ghost-town-2.json) |
+| Hidden Girls | 431378 | [431378-hidden-girls.json](./431378-hidden-girls.json) |
 | Hidden Girls: Bikini Dreams | 420673 | [420673-hidden-girls-bikini-dreams.json](./420673-hidden-girls-bikini-dreams.json) |
 | Hidden Girls: Private Nights | 413949 | [413949-hidden-girls-private-nights.json](./413949-hidden-girls-private-nights.json) |
 | Hidden Girls: Quiet Beauty | 415059 | [415059-hidden-girls-quiet-beauty.json](./415059-hidden-girls-quiet-beauty.json) |
@@ -10980,6 +10981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HomeStray | 424335 | [424335-homestray.json](./424335-homestray.json) |
 | Homestuck: Strife Project | 392326 | [392326-homestuck-strife-project.json](./392326-homestuck-strife-project.json) |
 | Hometopia | 205732 | [205732-hometopia.json](./205732-hometopia.json) |
+| Hometown | 431456 | [431456-hometown.json](./431456-hometown.json) |
 | Hometown Farm | 208191 | [208191-hometown-farm.json](./208191-hometown-farm.json) |
 | Hometown Hero | 212015 | [212015-hometown-hero.json](./212015-hometown-hero.json) |
 | Hometown Poker Hero | 54085 | [54085-hometown-poker-hero.json](./54085-hometown-poker-hero.json) |
@@ -12922,6 +12924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Evil | 76477 | [76477-house-of-evil.json](./76477-house-of-evil.json) |
 | House of Fate | 184441 | [184441-house-of-fate.json](./184441-house-of-fate.json) |
 | House of Fear | 133178 | [133178-house-of-fear.json](./133178-house-of-fear.json) |
+| House of Fear | 431523 | [431523-house-of-fear.json](./431523-house-of-fear.json) |
 | House of Fear: Cursed Souls | 228686 | [228686-house-of-fear-cursed-souls.json](./228686-house-of-fear-cursed-souls.json) |
 | House of Fun | 311943 | [311943-house-of-fun.json](./311943-house-of-fun.json) |
 | House of Ghosts | 227061 | [227061-house-of-ghosts.json](./227061-house-of-ghosts.json) |
@@ -12981,6 +12984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Spikes | 271786 | [271786-house-of-spikes.json](./271786-house-of-spikes.json) |
 | House of Tarot | 46313 | [46313-house-of-tarot.json](./46313-house-of-tarot.json) |
 | House of Terror | 338328 | [338328-house-of-terror.json](./338328-house-of-terror.json) |
+| House of Terror VR | 23336 | [23336-house-of-terror-vr.json](./23336-house-of-terror-vr.json) |
 | House of the Dead 2 & 3 Return | 200001 | [200001-house-of-the-dead-2-and-3-return.json](./200001-house-of-the-dead-2-and-3-return.json) |
 | House of the Dying Sun | 25587 | [25587-house-of-the-dying-sun.json](./25587-house-of-the-dying-sun.json) |
 | House of the Golden Mask | 378175 | [378175-house-of-the-golden-mask.json](./378175-house-of-the-golden-mask.json) |
