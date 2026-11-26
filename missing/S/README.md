@@ -7034,6 +7034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sethi and the Inca Wizard | 321857 | [321857-sethi-and-the-inca-wizard.json](./321857-sethi-and-the-inca-wizard.json) |
 | Sethian | 26160 | [26160-sethian.json](./26160-sethian.json) |
 | Sethtek Driving Simulator | 121122 | [121122-sethtek-driving-simulator.json](./121122-sethtek-driving-simulator.json) |
+| Setlist | 431049 | [431049-setlist.json](./431049-setlist.json) |
 | SetPoint Volleyball | 422498 | [422498-setpoint-volleyball.json](./422498-setpoint-volleyball.json) |
 | Setr's Auto Battler | 182289 | [182289-setrs-auto-battler.json](./182289-setrs-auto-battler.json) |
 | Sets | 304222 | [304222-sets.json](./304222-sets.json) |
@@ -11177,6 +11178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show Must Go On | 29241 | [29241-show-must-go-on.json](./29241-show-must-go-on.json) |
 | Show Quiz | 347573 | [347573-show-quiz.json](./347573-show-quiz.json) |
 | Show Yourself | 350372 | [350372-show-yourself.json](./350372-show-yourself.json) |
+| Show: No Mercy | 431068 | [431068-show-no-mercy.json](./431068-show-no-mercy.json) |
 | Showa American Story | 186613 | [186613-showa-american-story.json](./186613-showa-american-story.json) |
 | Showa Candy Shop | 153669 | [153669-showa-candy-shop.json](./153669-showa-candy-shop.json) |
 | Showa Candy Shop 2 | 90380 | [90380-showa-candy-shop-2.json](./90380-showa-candy-shop-2.json) |
@@ -16330,6 +16332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Cave | 393245 | [393245-slot-cave.json](./393245-slot-cave.json) |
 | Slot City | 130991 | [130991-slot-city.json](./130991-slot-city.json) |
 | Slot Fever | 289286 | [289286-slot-fever.json](./289286-slot-fever.json) |
+| Slot Girls | 431012 | [431012-slot-girls.json](./431012-slot-girls.json) |
 | Slot Grind | 407715 | [407715-slot-grind.json](./407715-slot-grind.json) |
 | Slot Gun | 311124 | [311124-slot-gun.json](./311124-slot-gun.json) |
 | Slot Heroes: Reels of Fate | 374951 | [374951-slot-heroes-reels-of-fate.json](./374951-slot-heroes-reels-of-fate.json) |
@@ -19083,6 +19086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Collector | 75034 | [75034-solar-collector.json](./75034-solar-collector.json) |
 | Solar Collision Control | 319725 | [319725-solar-collision-control.json](./319725-solar-collision-control.json) |
 | Solar Colonies | 191810 | [191810-solar-colonies.json](./191810-solar-colonies.json) |
+| Solar Colonies | 431045 | [431045-solar-colonies.json](./431045-solar-colonies.json) |
 | Solar Command | 113130 | [113130-solar-command.json](./113130-solar-command.json) |
 | Solar Conqueror | 170532 | [170532-solar-conqueror.json](./170532-solar-conqueror.json) |
 | Solar Core | 68683 | [68683-solar-core.json](./68683-solar-core.json) |
@@ -19556,6 +19560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire: Draw 1 - Draw 3 | 333120 | [333120-solitaire-draw-1-draw-3.json](./333120-solitaire-draw-1-draw-3.json) |
 | Solitaire: Elemental Wizards | 149782 | [149782-solitaire-elemental-wizards.json](./149782-solitaire-elemental-wizards.json) |
 | Solitaire: Jack Frost Winter Adventures | 99984 | [99984-solitaire-jack-frost-winter-adventures.json](./99984-solitaire-jack-frost-winter-adventures.json) |
+| Solitaire: Klondike & Spider | 431052 | [431052-solitaire-klondike-and-spider.json](./431052-solitaire-klondike-and-spider.json) |
 | Solitaire: Klondike Card Game | 88833 | [88833-solitaire-klondike-card-game.json](./88833-solitaire-klondike-card-game.json) |
 | Solitaire: Klondike Pro | 100998 | [100998-solitaire-klondike-pro.json](./100998-solitaire-klondike-pro.json) |
 | Solitaire: Learn Chemistry! | 114917 | [114917-solitaire-learn-chemistry.json](./114917-solitaire-learn-chemistry.json) |
@@ -40121,6 +40126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor in the Forest | 310166 | [310166-survivor-in-the-forest.json](./310166-survivor-in-the-forest.json) |
 | Survivor in the Forest 2 | 304935 | [304935-survivor-in-the-forest-2.json](./304935-survivor-in-the-forest-2.json) |
 | Survivor Island | 89419 | [89419-survivor-island.json](./89419-survivor-island.json) |
+| Survivor Joe Lost Island | 430870 | [430870-survivor-joe-lost-island.json](./430870-survivor-joe-lost-island.json) |
 | Survivor Jones | 157356 | [157356-survivor-jones.json](./157356-survivor-jones.json) |
 | Survivor Legends | 204015 | [204015-survivor-legends.json](./204015-survivor-legends.json) |
 | Survivor Legion | 396867 | [396867-survivor-legion.json](./396867-survivor-legion.json) |
