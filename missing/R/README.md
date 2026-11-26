@@ -1516,7 +1516,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Billy: The Book of Fears | 391844 | [391844-rainbow-billy-the-book-of-fears.json](./391844-rainbow-billy-the-book-of-fears.json) |
 | Rainbow Billy: The Curse of the Leviathan | 120624 | [120624-rainbow-billy-the-curse-of-the-leviathan.json](./120624-rainbow-billy-the-curse-of-the-leviathan.json) |
 | Rainbow Birthday Planet | 184725 | [184725-rainbow-birthday-planet.json](./184725-rainbow-birthday-planet.json) |
-| Rainbow Blocks | 88488 | [88488-rainbow-blocks.json](./88488-rainbow-blocks.json) |
 | Rainbow Breakout | 234166 | [234166-rainbow-breakout.json](./234166-rainbow-breakout.json) |
 | Rainbow Brite: Journey to Rainbow Land | 283799 | [283799-rainbow-brite-journey-to-rainbow-land.json](./283799-rainbow-brite-journey-to-rainbow-land.json) |
 | Rainbow Canyon 2 | 332878 | [332878-rainbow-canyon-2.json](./332878-rainbow-canyon-2.json) |
@@ -3345,7 +3344,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Car Parking: 2024 Authentic Simulation | 266536 | [266536-real-car-parking-2024-authentic-simulation.json](./266536-real-car-parking-2024-authentic-simulation.json) |
 | Real Carrom | 167030 | [167030-real-carrom.json](./167030-real-carrom.json) |
 | Real Chess 3D | 99267 | [99267-real-chess-3d.json](./99267-real-chess-3d.json) |
-| Real City Car Driving Sim 2017 | 88878 | [88878-real-city-car-driving-sim-2017.json](./88878-real-city-car-driving-sim-2017.json) |
 | Real Coaster | 227553 | [227553-real-coaster.json](./227553-real-coaster.json) |
 | Real Communism | 273963 | [273963-real-communism.json](./273963-real-communism.json) |
 | Real Cricket '14 | 61198 | [61198-real-cricket-14.json](./61198-real-cricket-14.json) |
@@ -7293,6 +7291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to College Age | 355226 | [355226-return-to-college-age.json](./355226-return-to-college-age.json) |
 | Return to Company Oziisan | 379853 | [379853-return-to-company-oziisan.json](./379853-return-to-company-oziisan.json) |
 | Return to Dark Castle | 392571 | [392571-return-to-dark-castle.json](./392571-return-to-dark-castle.json) |
+| Return to Dark Castle | 72902 | [72902-return-to-dark-castle.json](./72902-return-to-dark-castle.json) |
 | Return to Ditch Day | 10796 | [10796-return-to-ditch-day.json](./10796-return-to-ditch-day.json) |
 | Return to Dust | 271737 | [271737-return-to-dust.json](./271737-return-to-dust.json) |
 | Return to Earth | 121566 | [121566-return-to-earth.json](./121566-return-to-earth.json) |
@@ -8731,6 +8730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rim | 398381 | [398381-rim.json](./398381-rim.json) |
 | Rim Rockin' Basketball | 40423 | [40423-rim-rockin-basketball.json](./40423-rim-rockin-basketball.json) |
 | Rim Runners | 64661 | [64661-rim-runners.json](./64661-rim-runners.json) |
+| Rim: Battle Planets | 71747 | [71747-rim-battle-planets.json](./71747-rim-battle-planets.json) |
 | Rim: Soul Jar | 311163 | [311163-rim-soul-jar.json](./311163-rim-soul-jar.json) |
 | Rima: The Story Begins | 207859 | [207859-rima-the-story-begins.json](./207859-rima-the-story-begins.json) |
 | Rimal Game | 290535 | [290535-rimal-game.json](./290535-rimal-game.json) |
@@ -11556,7 +11556,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Hanafuda | 389638 | [389638-rogue-hanafuda.json](./389638-rogue-hanafuda.json) |
 | Rogue Hands! | 333352 | [333352-rogue-hands.json](./333352-rogue-hands.json) |
 | Rogue Harvest | 34280 | [34280-rogue-harvest.json](./34280-rogue-harvest.json) |
-| Rogue Hearts | 88529 | [88529-rogue-hearts.json](./88529-rogue-hearts.json) |
 | Rogue Hearts Dungeon | 43269 | [43269-rogue-hearts-dungeon.json](./43269-rogue-hearts-dungeon.json) |
 | Rogue Heist | 105233 | [105233-rogue-heist.json](./105233-rogue-heist.json) |
 | Rogue Heroes | 61120 | [61120-rogue-heroes.json](./61120-rogue-heroes.json) |
