@@ -10596,6 +10596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey: The Lost Technology | 61719 | [61719-grey-the-lost-technology.json](./61719-grey-the-lost-technology.json) |
 | Grey's Anatomy: The Mobile Game | 428512 | [428512-greys-anatomy-the-mobile-game.json](./428512-greys-anatomy-the-mobile-game.json) |
 | Greybit | 336841 | [336841-greybit.json](./336841-greybit.json) |
+| Greyed-Out | 422452 | [422452-greyed-out.json](./422452-greyed-out.json) |
 | Greyfell | 47140 | [47140-greyfell.json](./47140-greyfell.json) |
 | Greyfox | 19377 | [19377-greyfox.json](./19377-greyfox.json) |
 | Greyfront | 350868 | [350868-greyfront.json](./350868-greyfront.json) |
