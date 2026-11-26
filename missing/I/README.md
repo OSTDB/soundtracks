@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Expanse: Reality Shifter | 171199 | [171199-idle-expanse-reality-shifter.json](./171199-idle-expanse-reality-shifter.json) |
 | Idle Factory | 211625 | [211625-idle-factory.json](./211625-idle-factory.json) |
 | Idle Factory Tycoon | 99142 | [99142-idle-factory-tycoon.json](./99142-idle-factory-tycoon.json) |
+| Idle Farm Online | 430182 | [430182-idle-farm-online.json](./430182-idle-farm-online.json) |
 | Idle Farming Business | 340062 | [340062-idle-farming-business.json](./340062-idle-farming-business.json) |
 | Idle Farming Empire | 88124 | [88124-idle-farming-empire.json](./88124-idle-farming-empire.json) |
 | Idle Farming Tycoon Empire | 175877 | [175877-idle-farming-tycoon-empire.json](./175877-idle-farming-tycoon-empire.json) |
@@ -2139,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If We Were Allowed To VIsit | 350976 | [350976-if-we-were-allowed-to-visit.json](./350976-if-we-were-allowed-to-visit.json) |
 | If you became a beautiful doll and were picked up by a perverted nerd | 82703 | [82703-if-you-became-a-beautiful-doll-and-were-picked-up-by-a-perverted-nerd.json](./82703-if-you-became-a-beautiful-doll-and-were-picked-up-by-a-perverted-nerd.json) |
 | If you became a toyboy doll and were picked up by a girl with perverted personality | 83028 | [83028-if-you-became-a-toyboy-doll-and-were-picked-up-by-a-girl-with-perverted-personality.json](./83028-if-you-became-a-toyboy-doll-and-were-picked-up-by-a-girl-with-perverted-personality.json) |
+| If You Die, You Die! | 429872 | [429872-if-you-die-you-die.json](./429872-if-you-die-you-die.json) |
 | If You Go Down in the Woods Today | 152703 | [152703-if-you-go-down-in-the-woods-today.json](./152703-if-you-go-down-in-the-woods-today.json) |
 | If You Had One Shot | 364629 | [364629-if-you-had-one-shot.json](./364629-if-you-had-one-shot.json) |
 | If You Joined the Rugby Club... | 82698 | [82698-if-you-joined-the-rugby-club.json](./82698-if-you-joined-the-rugby-club.json) |
