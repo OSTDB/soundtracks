@@ -5887,7 +5887,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decked Builder | 87450 | [87450-decked-builder.json](./87450-decked-builder.json) |
 | Decked in Love | 296886 | [296886-decked-in-love.json](./296886-decked-in-love.json) |
 | Decked Out | 408326 | [408326-decked-out.json](./408326-decked-out.json) |
-| DeckEleven's Railroads | 87687 | [87687-deckelevens-railroads.json](./87687-deckelevens-railroads.json) |
 | DeckEleven's Railroads 2 | 244898 | [244898-deckelevens-railroads-2.json](./244898-deckelevens-railroads-2.json) |
 | Decker | 78254 | [78254-decker.json](./78254-decker.json) |
 | Deckfort Alchemist | 304312 | [304312-deckfort-alchemist.json](./304312-deckfort-alchemist.json) |
@@ -11408,7 +11407,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Predators | 73584 | [73584-dinosaur-predators.json](./73584-dinosaur-predators.json) |
 | Dinosaur Puzzle | 222269 | [222269-dinosaur-puzzle.json](./222269-dinosaur-puzzle.json) |
 | Dinosaur Race | 193278 | [193278-dinosaur-race.json](./193278-dinosaur-race.json) |
-| Dinosaur Rampage - Trex | 87716 | [87716-dinosaur-rampage-trex.json](./87716-dinosaur-rampage-trex.json) |
 | Dinosaur Resurrection | 92988 | [92988-dinosaur-resurrection.json](./92988-dinosaur-resurrection.json) |
 | Dinosaur RPG: Dino Survival Simulator Survivor | 317451 | [317451-dinosaur-rpg-dino-survival-simulator-survivor.json](./317451-dinosaur-rpg-dino-survival-simulator-survivor.json) |
 | Dinosaur Run | 388236 | [388236-dinosaur-run.json](./388236-dinosaur-run.json) |
@@ -13122,6 +13120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: MapleStory Pack | 265635 | [265635-djmax-respect-v-maplestory-pack.json](./265635-djmax-respect-v-maplestory-pack.json) |
 | DJMax Respect V: Muse Dash Pack | 225052 | [225052-djmax-respect-v-muse-dash-pack.json](./225052-djmax-respect-v-muse-dash-pack.json) |
 | DJMax Respect V: Nexon Pack | 225054 | [225054-djmax-respect-v-nexon-pack.json](./225054-djmax-respect-v-nexon-pack.json) |
+| DJMax Respect V: Ongeki Pack | 416024 | [416024-djmax-respect-v-ongeki-pack.json](./416024-djmax-respect-v-ongeki-pack.json) |
 | DJMax Respect V: Portable 3 Pack | 225050 | [225050-djmax-respect-v-portable-3-pack.json](./225050-djmax-respect-v-portable-3-pack.json) |
 | DJMax Respect V: Technika 2 Pack | 225053 | [225053-djmax-respect-v-technika-2-pack.json](./225053-djmax-respect-v-technika-2-pack.json) |
 | DJMax Respect V: Technika 3 Pack | 225046 | [225046-djmax-respect-v-technika-3-pack.json](./225046-djmax-respect-v-technika-3-pack.json) |
@@ -15496,7 +15495,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dooms 2: Seas of Blood | 341788 | [341788-dooms-2-seas-of-blood.json](./341788-dooms-2-seas-of-blood.json) |
 | Dooms 4: Endgame | 387929 | [387929-dooms-4-endgame.json](./387929-dooms-4-endgame.json) |
 | Dooms Hair Salon | 336293 | [336293-dooms-hair-salon.json](./336293-dooms-hair-salon.json) |
-| Dooms Knight | 87914 | [87914-dooms-knight.json](./87914-dooms-knight.json) |
 | Doomsday | 214070 | [214070-doomsday.json](./214070-doomsday.json) |
 | Doomsday | 219754 | [219754-doomsday.json](./219754-doomsday.json) |
 | Doomsday | 274167 | [274167-doomsday.json](./274167-doomsday.json) |
@@ -21910,7 +21908,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk Hot | 91144 | [91144-dunk-hot.json](./91144-dunk-hot.json) |
 | Dunk It (VR Basketball) | 29710 | [29710-dunk-it-vr-basketball.json](./29710-dunk-it-vr-basketball.json) |
 | Dunk Kids | 46319 | [46319-dunk-kids.json](./46319-dunk-kids.json) |
-| Dunk Line | 87883 | [87883-dunk-line.json](./87883-dunk-line.json) |
 | Dunk Mania | 39824 | [39824-dunk-mania.json](./39824-dunk-mania.json) |
 | Dunk Nation 3x3 | 83323 | [83323-dunk-nation-3x3.json](./83323-dunk-nation-3x3.json) |
 | Dunk Shot | 40977 | [40977-dunk-shot.json](./40977-dunk-shot.json) |
