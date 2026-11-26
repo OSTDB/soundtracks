@@ -4423,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Love | 260115 | [260115-dead-or-love.json](./260115-dead-or-love.json) |
 | Dead or Mad | 151440 | [151440-dead-or-mad.json](./151440-dead-or-mad.json) |
 | Dead or School | 105058 | [105058-dead-or-school.json](./105058-dead-or-school.json) |
+| Dead Orbit | 429874 | [429874-dead-orbit.json](./429874-dead-orbit.json) |
 | Dead Outbreak | 274113 | [274113-dead-outbreak.json](./274113-dead-outbreak.json) |
 | Dead Paradise | 294637 | [294637-dead-paradise.json](./294637-dead-paradise.json) |
 | Dead Paradise 2 | 404248 | [404248-dead-paradise-2.json](./404248-dead-paradise-2.json) |
@@ -14507,6 +14508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Drink That! | 364667 | [364667-dont-drink-that.json](./364667-dont-drink-that.json) |
 | Don't Drink the Pink | 307786 | [307786-dont-drink-the-pink.json](./307786-dont-drink-the-pink.json) |
 | Don't Drive Dead | 390462 | [390462-dont-drive-dead.json](./390462-dont-drive-dead.json) |
+| Don't Drop It | 430246 | [430246-dont-drop-it.json](./430246-dont-drop-it.json) |
 | Don't Drop Luggage! | 303483 | [303483-dont-drop-luggage.json](./303483-dont-drop-luggage.json) |
 | Don't Drop the Ball | 420764 | [420764-dont-drop-the-ball.json](./420764-dont-drop-the-ball.json) |
 | Don't Drop the Bass | 32660 | [32660-dont-drop-the-bass.json](./32660-dont-drop-the-bass.json) |
@@ -16844,6 +16846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draeggoria | 392271 | [392271-draeggoria.json](./392271-draeggoria.json) |
 | Draemony | 429415 | [429415-draemony.json](./429415-draemony.json) |
 | Draft | 133704 | [133704-draft.json](./133704-draft.json) |
+| Draft Cycling | 430236 | [430236-draft-cycling.json](./430236-draft-cycling.json) |
 | Draft Day Sports College Basketball 3 | 34174 | [34174-draft-day-sports-college-basketball-3.json](./34174-draft-day-sports-college-basketball-3.json) |
 | Draft Day Sports: College Basketball 2017 | 75338 | [75338-draft-day-sports-college-basketball-2017.json](./75338-draft-day-sports-college-basketball-2017.json) |
 | Draft Day Sports: College Basketball 2020 | 131764 | [131764-draft-day-sports-college-basketball-2020.json](./131764-draft-day-sports-college-basketball-2020.json) |
