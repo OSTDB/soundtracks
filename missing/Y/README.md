@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yggdrasill | 251851 | [251851-yggdrasill.json](./251851-yggdrasill.json) |
 | YGO Omega | 139411 | [139411-ygo-omega.json](./139411-ygo-omega.json) |
 | Yī Jiàn Zhǎn Xiān | 165724 | [165724-yi-jian-zhan-xian.json](./165724-yi-jian-zhan-xian.json) |
+| Yī Rén zhī Xià zhī Xún Qì Mízōng | 431266 | [431266-yi-ren-zhi-xia-zhi-xun-qi-mizong.json](./431266-yi-ren-zhi-xia-zhi-xun-qi-mizong.json) |
 | Yì Shìjiè Wúlítóu Shēnghuó 2 | 367429 | [367429-yi-shijie-wulitou-shenghuo-2.json](./367429-yi-shijie-wulitou-shenghuo-2.json) |
 | Yi Xian: The Cultivation Card Game | 205717 | [205717-yi-xian-the-cultivation-card-game.json](./205717-yi-xian-the-cultivation-card-game.json) |
 | Yie Ar Kung-Fu | 18170 | [18170-yie-ar-kung-fu.json](./18170-yie-ar-kung-fu.json) |
