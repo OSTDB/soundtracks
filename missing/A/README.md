@@ -10088,6 +10088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambitious | 196755 | [196755-ambitious.json](./196755-ambitious.json) |
 | Ambitious Mission | 293897 | [293897-ambitious-mission.json](./293897-ambitious-mission.json) |
 | Ambitious Mission After Episode 2 | 424694 | [424694-ambitious-mission-after-episode-2.json](./424694-ambitious-mission-after-episode-2.json) |
+| Ambitious Road | 429992 | [429992-ambitious-road.json](./429992-ambitious-road.json) |
 | AmbivalenZ: Niritsu Haihan | 93351 | [93351-ambivalenz-niritsu-haihan.json](./93351-ambivalenz-niritsu-haihan.json) |
 | Amborettio | 170892 | [170892-amborettio.json](./170892-amborettio.json) |
 | Ambre | 28661 | [28661-ambre.json](./28661-ambre.json) |
