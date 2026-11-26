@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kennan Simulator | 177166 | [177166-kennan-simulator.json](./177166-kennan-simulator.json) |
 | Kennedy Approach | 25920 | [25920-kennedy-approach.json](./25920-kennedy-approach.json) |
 | Kennel Chaos: Daycare Simulator | 418898 | [418898-kennel-chaos-daycare-simulator.json](./418898-kennel-chaos-daycare-simulator.json) |
+| Kennelbound | 431424 | [431424-kennelbound.json](./431424-kennelbound.json) |
 | Kenneth Rice: Vampire Detective | 325222 | [325222-kenneth-rice-vampire-detective.json](./325222-kenneth-rice-vampire-detective.json) |
 | Kenney's Zombies | 184224 | [184224-kenneys-zombies.json](./184224-kenneys-zombies.json) |
 | Kenny 7 | 253310 | [253310-kenny-7.json](./253310-kenny-7.json) |
@@ -4032,6 +4033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Velvet Сhains | 385315 | [385315-kingdom-of-velvet-hains.json](./385315-kingdom-of-velvet-hains.json) |
 | Kingdom of Wreck Business | 158867 | [158867-kingdom-of-wreck-business.json](./158867-kingdom-of-wreck-business.json) |
 | Kingdom Online | 62626 | [62626-kingdom-online.json](./62626-kingdom-online.json) |
+| Kingdom Queens: The Hollow Table | 431488 | [431488-kingdom-queens-the-hollow-table.json](./431488-kingdom-queens-the-hollow-table.json) |
 | Kingdom Quest | 236208 | [236208-kingdom-quest.json](./236208-kingdom-quest.json) |
 | Kingdom Rules | 412390 | [412390-kingdom-rules.json](./412390-kingdom-rules.json) |
 | Kingdom Run VR | 235469 | [235469-kingdom-run-vr.json](./235469-kingdom-run-vr.json) |
