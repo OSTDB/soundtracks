@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Munch a Carrot | 414816 | [414816-i-wanna-munch-a-carrot.json](./414816-i-wanna-munch-a-carrot.json) |
 | I Wanna Play That Picture Puzzle with Numbers All Day! | 360520 | [360520-i-wanna-play-that-picture-puzzle-with-numbers-all-day.json](./360520-i-wanna-play-that-picture-puzzle-with-numbers-all-day.json) |
 | I Wanna Ponder | 361758 | [361758-i-wanna-ponder.json](./361758-i-wanna-ponder.json) |
+| I Wanna Prima | 415724 | [415724-i-wanna-prima.json](./415724-i-wanna-prima.json) |
 | I wanna Reach the Top | 201007 | [201007-i-wanna-reach-the-top.json](./201007-i-wanna-reach-the-top.json) |
 | I Wanna Run the Marathon | 124996 | [124996-i-wanna-run-the-marathon.json](./124996-i-wanna-run-the-marathon.json) |
 | I Wanna Save the Kids! | 287995 | [287995-i-wanna-save-the-kids.json](./287995-i-wanna-save-the-kids.json) |
@@ -1232,7 +1233,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Pops & Popsicles | 102607 | [102607-ice-pops-and-popsicles.json](./102607-ice-pops-and-popsicles.json) |
 | Ice Power | 246541 | [246541-ice-power.json](./246541-ice-power.json) |
 | Ice Princess Crystals | 353998 | [353998-ice-princess-crystals.json](./353998-ice-princess-crystals.json) |
-| Ice Princess Mermaid Salon: Girls Makeover Games | 88950 | [88950-ice-princess-mermaid-salon-girls-makeover-games.json](./88950-ice-princess-mermaid-salon-girls-makeover-games.json) |
 | Ice Princess Mermaid: Girl Makeup & Dress Up Games | 100320 | [100320-ice-princess-mermaid-girl-makeup-and-dress-up-games.json](./100320-ice-princess-mermaid-girl-makeup-and-dress-up-games.json) |
 | Ice Queen Prom Salon: Princess Makeover Girls Game | 91117 | [91117-ice-queen-prom-salon-princess-makeover-girls-game.json](./91117-ice-queen-prom-salon-princess-makeover-girls-game.json) |
 | Ice Queen Salon - Girls Makeup and Dressup Game | 87493 | [87493-ice-queen-salon-girls-makeup-and-dressup-game.json](./87493-ice-queen-salon-girls-makeup-and-dressup-game.json) |
@@ -1253,7 +1253,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Scream 8: Final Chapter | 280993 | [280993-ice-scream-8-final-chapter.json](./280993-ice-scream-8-final-chapter.json) |
 | Ice Scream United | 243705 | [243705-ice-scream-united.json](./243705-ice-scream-united.json) |
 | Ice Sisters: Princesses of the Frozen Age | 332354 | [332354-ice-sisters-princesses-of-the-frozen-age.json](./332354-ice-sisters-princesses-of-the-frozen-age.json) |
-| Ice Skating Ballerina | 89140 | [89140-ice-skating-ballerina.json](./89140-ice-skating-ballerina.json) |
 | Ice Slider | 355232 | [355232-ice-slider.json](./355232-ice-slider.json) |
 | Ice Slider | 409373 | [409373-ice-slider.json](./409373-ice-slider.json) |
 | Ice Slider Z | 294403 | [294403-ice-slider-z.json](./294403-ice-slider-z.json) |
@@ -2073,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol-Mahjong Final Romance | 56055 | [56055-idol-mahjong-final-romance.json](./56055-idol-mahjong-final-romance.json) |
 | Idol-Mahjong Final Romance 2 | 75471 | [75471-idol-mahjong-final-romance-2.json](./75471-idol-mahjong-final-romance-2.json) |
 | Idol-Mahjong: Final Romance R | 221438 | [221438-idol-mahjong-final-romance-r.json](./221438-idol-mahjong-final-romance-r.json) |
+| Idol/Type | 417954 | [417954-idol-type.json](./417954-idol-type.json) |
 | Idola Phantasy Star Saga | 106103 | [106103-idola-phantasy-star-saga.json](./106103-idola-phantasy-star-saga.json) |
 | Idolaters | 401470 | [401470-idolaters.json](./401470-idolaters.json) |
 | Idolish7 | 57270 | [57270-idolish7.json](./57270-idolish7.json) |
@@ -5966,6 +5966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interview | 80233 | [80233-interview.json](./80233-interview.json) |
 | Interview With The Horny Ghost | 301640 | [301640-interview-with-the-horny-ghost.json](./301640-interview-with-the-horny-ghost.json) |
 | Interview With the Whisperer | 141366 | [141366-interview-with-the-whisperer.json](./141366-interview-with-the-whisperer.json) |
+| Intervilles, fais gagner ta ville ! | 394497 | [394497-intervilles-fais-gagner-ta-ville.json](./394497-intervilles-fais-gagner-ta-ville.json) |
 | Intervilles, le jeu officiel | 144396 | [144396-intervilles-le-jeu-officiel.json](./144396-intervilles-le-jeu-officiel.json) |
 | InterViolence | 387818 | [387818-interviolence.json](./387818-interviolence.json) |
 | Intervoid | 380166 | [380166-intervoid.json](./380166-intervoid.json) |
@@ -7643,6 +7644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Reaches | 373840 | [373840-it-reaches.json](./373840-it-reaches.json) |
 | It Returned to the Desert | 223796 | [223796-it-returned-to-the-desert.json](./223796-it-returned-to-the-desert.json) |
 | It Runs Red | 117440 | [117440-it-runs-red.json](./117440-it-runs-red.json) |
+| It Shares My Body | 414482 | [414482-it-shares-my-body.json](./414482-it-shares-my-body.json) |
 | IT Simulator | 193080 | [193080-it-simulator.json](./193080-it-simulator.json) |
 | It Sleeps Below the Haar | 217396 | [217396-it-sleeps-below-the-haar.json](./217396-it-sleeps-below-the-haar.json) |
 | IT Specialist Simulator | 346606 | [346606-it-specialist-simulator.json](./346606-it-specialist-simulator.json) |
@@ -7786,7 +7788,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Time | 23888 | [23888-its-time.json](./23888-its-time.json) |
 | It's time to get out from the solar system | 34534 | [34534-its-time-to-get-out-from-the-solar-system.json](./34534-its-time-to-get-out-from-the-solar-system.json) |
 | It's Time, Your Majesty | 347973 | [347973-its-time-your-majesty.json](./347973-its-time-your-majesty.json) |
-| It's Titanic | 89188 | [89188-its-titanic.json](./89188-its-titanic.json) |
 | It's Too Late to Apologize | 401642 | [401642-its-too-late-to-apologize.json](./401642-its-too-late-to-apologize.json) |
 | It's Too Rainy Day | 116057 | [116057-its-too-rainy-day.json](./116057-its-too-rainy-day.json) |
 | It's Vegetable | 295972 | [295972-its-vegetable.json](./295972-its-vegetable.json) |
