@@ -672,7 +672,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Failure Drill | 241518 | [241518-failure-drill.json](./241518-failure-drill.json) |
 | Failure to Launch | 272626 | [272626-failure-to-launch.json](./272626-failure-to-launch.json) |
 | Failure to Launch | 295609 | [295609-failure-to-launch.json](./295609-failure-to-launch.json) |
-| Faily Brakes | 87740 | [87740-faily-brakes.json](./87740-faily-brakes.json) |
 | Faily Brakes 2 | 243744 | [243744-faily-brakes-2.json](./243744-faily-brakes-2.json) |
 | Faily Brakes Classic | 174310 | [174310-faily-brakes-classic.json](./174310-faily-brakes-classic.json) |
 | Faily Rider | 101534 | [101534-faily-rider.json](./101534-faily-rider.json) |
@@ -863,6 +862,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tale Puzzles: Magic Objects | 111460 | [111460-fairy-tale-puzzles-magic-objects.json](./111460-fairy-tale-puzzles-magic-objects.json) |
 | Fairy Tale Puzzles: Magic Objects - Alice in Wonderland: The Tea Party | 238056 | [238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json](./238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json) |
 | Fairy Tale Quest | 146618 | [146618-fairy-tale-quest.json](./146618-fairy-tale-quest.json) |
+| Fairy Tale Requiem | 417755 | [417755-fairy-tale-requiem.json](./417755-fairy-tale-requiem.json) |
+| Fairy Tale Symphony | 417756 | [417756-fairy-tale-symphony.json](./417756-fairy-tale-symphony.json) |
 | Fairy Tale TD 2 | 348885 | [348885-fairy-tale-td-2.json](./348885-fairy-tale-td-2.json) |
 | Fairy Tale TD:Hero | 390363 | [390363-fairy-tale-td-hero.json](./390363-fairy-tale-td-hero.json) |
 | Fairy Tale Tower Defense | 357835 | [357835-fairy-tale-tower-defense.json](./357835-fairy-tale-tower-defense.json) |
@@ -2849,7 +2850,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy | 16090 | [16090-farm-frenzy.json](./16090-farm-frenzy.json) |
 | Farm Frenzy 2 | 16091 | [16091-farm-frenzy-2.json](./16091-farm-frenzy-2.json) |
 | Farm Frenzy 2: Pizza Party HD | 88536 | [88536-farm-frenzy-2-pizza-party-hd.json](./88536-farm-frenzy-2-pizza-party-hd.json) |
-| Farm Frenzy 2: Pizza Party! for Mac | 87750 | [87750-farm-frenzy-2-pizza-party-for-mac.json](./87750-farm-frenzy-2-pizza-party-for-mac.json) |
 | Farm Frenzy 3 | 16093 | [16093-farm-frenzy-3.json](./16093-farm-frenzy-3.json) |
 | Farm Frenzy 3 HD | 88808 | [88808-farm-frenzy-3-hd.json](./88808-farm-frenzy-3-hd.json) |
 | Farm Frenzy 3: American Pie | 16094 | [16094-farm-frenzy-3-american-pie.json](./16094-farm-frenzy-3-american-pie.json) |
@@ -2997,7 +2997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Tribe: Dragon Island | 146484 | [146484-farm-tribe-dragon-island.json](./146484-farm-tribe-dragon-island.json) |
 | Farm Tycoon | 199177 | [199177-farm-tycoon.json](./199177-farm-tycoon.json) |
 | Farm Under Fire | 199377 | [199377-farm-under-fire.json](./199377-farm-under-fire.json) |
-| Farm Up | 87693 | [87693-farm-up.json](./87693-farm-up.json) |
 | Farm Vet | 357386 | [357386-farm-vet.json](./357386-farm-vet.json) |
 | Farm Wars | 219291 | [219291-farm-wars.json](./219291-farm-wars.json) |
 | Farm Wars: The Farmer's Wrath | 215567 | [215567-farm-wars-the-farmers-wrath.json](./215567-farm-wars-the-farmers-wrath.json) |
@@ -4040,6 +4039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FC 26 Quiz | 396596 | [396596-fc-26-quiz.json](./396596-fc-26-quiz.json) |
 | FC Barcelona Club Football | 267881 | [267881-fc-barcelona-club-football.json](./267881-fc-barcelona-club-football.json) |
 | FC Barcelona Club Football 2005 | 267909 | [267909-fc-barcelona-club-football-2005.json](./267909-fc-barcelona-club-football-2005.json) |
+| FC Mafioso: Football Dynasty Manager | 413837 | [413837-fc-mafioso-football-dynasty-manager.json](./413837-fc-mafioso-football-dynasty-manager.json) |
 | FCK: Lille Leo Bruger Bolden | 129778 | [129778-fck-lille-leo-bruger-bolden.json](./129778-fck-lille-leo-bruger-bolden.json) |
 | Fcorvus | 377516 | [377516-fcorvus.json](./377516-fcorvus.json) |
 | FD 27: Direct Your Football Club | 402996 | [402996-fd-27-direct-your-football-club.json](./402996-fd-27-direct-your-football-club.json) |
@@ -4853,7 +4853,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FhaMazein | 109723 | [109723-fhamazein.json](./109723-fhamazein.json) |
 | Fhtagn Nagh | 271229 | [271229-fhtagn-nagh.json](./271229-fhtagn-nagh.json) |
 | Fhtagn Simulator | 221860 | [221860-fhtagn-simulator.json](./221860-fhtagn-simulator.json) |
-| Fhtagn! - Tales of the Creeping Madness | 87947 | [87947-fhtagn-tales-of-the-creeping-madness.json](./87947-fhtagn-tales-of-the-creeping-madness.json) |
 | Fi-Knight Kingdom | 262450 | [262450-fi-knight-kingdom.json](./262450-fi-knight-kingdom.json) |
 | Fi, Chris and the Apocalypse | 199821 | [199821-fi-chris-and-the-apocalypse.json](./199821-fi-chris-and-the-apocalypse.json) |
 | FIA European Truck Racing Championship | 117855 | [117855-fia-european-truck-racing-championship.json](./117855-fia-european-truck-racing-championship.json) |
@@ -7044,7 +7043,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Trump: Air Combat VR | 171362 | [171362-fire-trump-air-combat-vr.json](./171362-fire-trump-air-combat-vr.json) |
 | Fire Up Together | 416103 | [416103-fire-up-together.json](./416103-fire-up-together.json) |
 | Fire Up: Football Manager | 347236 | [347236-fire-up-football-manager.json](./347236-fire-up-football-manager.json) |
-| Fire Up! | 87659 | [87659-fire-up.json](./87659-fire-up.json) |
 | Fire Water Green | 267121 | [267121-fire-water-green.json](./267121-fire-water-green.json) |
 | Fire With Fire: Online Tower Attack and Defense | 35714 | [35714-fire-with-fire-online-tower-attack-and-defense.json](./35714-fire-with-fire-online-tower-attack-and-defense.json) |
 | Fire Woman: Matoi Gumi | 45958 | [45958-fire-woman-matoi-gumi.json](./45958-fire-woman-matoi-gumi.json) |
@@ -8250,6 +8248,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Old Toy Factory | 239951 | [239951-five-nights-at-old-toy-factory.json](./239951-five-nights-at-old-toy-factory.json) |
 | Five Nights at Pikachu's | 360770 | [360770-five-nights-at-pikachus.json](./360770-five-nights-at-pikachus.json) |
 | Five Nights At Pingas | 403829 | [403829-five-nights-at-pingas.json](./403829-five-nights-at-pingas.json) |
+| Five Nights at Pingas 3 | 409419 | [409419-five-nights-at-pingas-3.json](./409419-five-nights-at-pingas-3.json) |
+| Five Nights at Pingas 4 | 410984 | [410984-five-nights-at-pingas-4.json](./410984-five-nights-at-pingas-4.json) |
 | Five Nights at Pingas 5 | 410986 | [410986-five-nights-at-pingas-5.json](./410986-five-nights-at-pingas-5.json) |
 | Five Nights at Pingas 6 | 410987 | [410987-five-nights-at-pingas-6.json](./410987-five-nights-at-pingas-6.json) |
 | Five Nights at Pingas 7 | 410988 | [410988-five-nights-at-pingas-7.json](./410988-five-nights-at-pingas-7.json) |
@@ -9134,7 +9134,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight to Eternity | 28969 | [28969-flight-to-eternity.json](./28969-flight-to-eternity.json) |
 | Flight Unlimited | 3352 | [3352-flight-unlimited.json](./3352-flight-unlimited.json) |
 | Flight Unlimited 2K16 | 77440 | [77440-flight-unlimited-2k16.json](./77440-flight-unlimited-2k16.json) |
-| Flight Unlimited 2K17 | 87550 | [87550-flight-unlimited-2k17.json](./87550-flight-unlimited-2k17.json) |
 | Flight Unlimited 2K18 | 43104 | [43104-flight-unlimited-2k18.json](./43104-flight-unlimited-2k18.json) |
 | Flight Unlimited Helicopter | 174488 | [174488-flight-unlimited-helicopter.json](./174488-flight-unlimited-helicopter.json) |
 | Flight Unlimited II | 714 | [714-flight-unlimited-ii.json](./714-flight-unlimited-ii.json) |
@@ -10673,6 +10672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football | 284440 | [284440-football.json](./284440-football.json) |
 | Football | 287511 | [287511-football.json](./287511-football.json) |
 | Football | 346756 | [346756-football.json](./346756-football.json) |
+| Football | 409446 | [409446-football.json](./409446-football.json) |
 | Football | 411534 | [411534-football.json](./411534-football.json) |
 | Football | 418383 | [418383-football.json](./418383-football.json) |
 | Football (for the TI 99/4A) | 92702 | [92702-football-for-the-ti-99-4a.json](./92702-football-for-the-ti-99-4a.json) |
@@ -14257,7 +14257,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Fractions | 18723 | [18723-frog-fractions.json](./18723-frog-fractions.json) |
 | Frog Fractions: Game of the Decade Edition | 129299 | [129299-frog-fractions-game-of-the-decade-edition.json](./129299-frog-fractions-game-of-the-decade-edition.json) |
 | Frog Fractions: Game of the Decade Edition - Hop's Iconic Cap | 136516 | [136516-frog-fractions-game-of-the-decade-edition-hops-iconic-cap.json](./136516-frog-fractions-game-of-the-decade-edition-hops-iconic-cap.json) |
-| Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
 | Frog Frenzy 2 | 209579 | [209579-frog-frenzy-2.json](./209579-frog-frenzy-2.json) |
 | Frog Frog Parkour | 420299 | [420299-frog-frog-parkour.json](./420299-frog-frog-parkour.json) |
 | Frog Fun | 77553 | [77553-frog-fun.json](./77553-frog-fun.json) |
@@ -15094,7 +15093,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FruitLand | 175135 | [175135-fruitland.json](./175135-fruitland.json) |
 | Fruits | 314413 | [314413-fruits.json](./314413-fruits.json) |
 | Fruits | 94535 | [94535-fruits.json](./94535-fruits.json) |
-| Fruits - Connect the Dots and Add Colors | 87908 | [87908-fruits-connect-the-dots-and-add-colors.json](./87908-fruits-connect-the-dots-and-add-colors.json) |
 | Fruits & Vegetables | 309455 | [309455-fruits-and-vegetables.json](./309455-fruits-and-vegetables.json) |
 | Fruits Blast - Match Cube | 108953 | [108953-fruits-blast-match-cube.json](./108953-fruits-blast-match-cube.json) |
 | Fruits Drop | 390848 | [390848-fruits-drop.json](./390848-fruits-drop.json) |
