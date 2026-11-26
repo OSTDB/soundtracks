@@ -645,7 +645,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Dominion | 107858 | [107858-galactic-dominion.json](./107858-galactic-dominion.json) |
 | Galactic Dream: Rage of War | 1031 | [1031-galactic-dream-rage-of-war.json](./1031-galactic-dream-rage-of-war.json) |
 | Galactic Dreams | 186406 | [186406-galactic-dreams.json](./186406-galactic-dreams.json) |
-| Galactic Driver | 88209 | [88209-galactic-driver.json](./88209-galactic-driver.json) |
 | Galactic Economy | 314445 | [314445-galactic-economy.json](./314445-galactic-economy.json) |
 | Galactic Empire | 13065 | [13065-galactic-empire.json](./13065-galactic-empire.json) |
 | Galactic Empire | 18619 | [18619-galactic-empire.json](./18619-galactic-empire.json) |
@@ -1882,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Goemon: Seikuushi Dynamites Arawaru!! | 50053 | [50053-ganbare-goemon-seikuushi-dynamites-arawaru.json](./50053-ganbare-goemon-seikuushi-dynamites-arawaru.json) |
 | Ganbare Goemon: Tengu-tou no Gyakushuu! | 129172 | [129172-ganbare-goemon-tengu-tou-no-gyakushuu.json](./129172-ganbare-goemon-tengu-tou-no-gyakushuu.json) |
 | Ganbare Goemon: Tentekomai-mai Meikyuu-kan | 186467 | [186467-ganbare-goemon-tentekomai-mai-meikyuu-kan.json](./186467-ganbare-goemon-tentekomai-mai-meikyuu-kan.json) |
+| Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki | 73299 | [73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json](./73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json) |
 | Ganbare Goemon: Uchuu Kaizoku Akogingu | 44808 | [44808-ganbare-goemon-uchuu-kaizoku-akogingu.json](./44808-ganbare-goemon-uchuu-kaizoku-akogingu.json) |
 | Ganbare Goemon: Yukihime Kyuushutsu Emaki | 371833 | [371833-ganbare-goemon-yukihime-kyuushutsu-emaki.json](./371833-ganbare-goemon-yukihime-kyuushutsu-emaki.json) |
 | Ganbare Goemon!: Karakuri Douchuu | 41718 | [41718-ganbare-goemon-karakuri-douchuu.json](./41718-ganbare-goemon-karakuri-douchuu.json) |
@@ -5054,9 +5054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gin Rummy Classic | 370435 | [370435-gin-rummy-classic.json](./370435-gin-rummy-classic.json) |
 | Gin Rummy Deluxe | 181590 | [181590-gin-rummy-deluxe.json](./181590-gin-rummy-deluxe.json) |
 | Gin Rummy Plus | 140746 | [140746-gin-rummy-plus.json](./140746-gin-rummy-plus.json) |
-| Gin Rummy Royale | 88576 | [88576-gin-rummy-royale.json](./88576-gin-rummy-royale.json) |
 | Gin Rummy Ultra | 87640 | [87640-gin-rummy-ultra.json](./87640-gin-rummy-ultra.json) |
-| Gin Rummy: Casino Card Game | 88612 | [88612-gin-rummy-casino-card-game.json](./88612-gin-rummy-casino-card-game.json) |
 | Gin: The Silver Wind | 275729 | [275729-gin-the-silver-wind.json](./275729-gin-the-silver-wind.json) |
 | Gin's Gunstore | 355546 | [355546-gins-gunstore.json](./355546-gins-gunstore.json) |
 | GINAB: Logic and Puzzle Collection in a 3D Style | 83863 | [83863-ginab-logic-and-puzzle-collection-in-a-3d-style.json](./83863-ginab-logic-and-puzzle-collection-in-a-3d-style.json) |
@@ -5170,7 +5168,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Detective White Cat | 367658 | [367658-girl-detective-white-cat.json](./367658-girl-detective-white-cat.json) |
 | Girl Doll Toy: Tamashii o Kudasai | 209622 | [209622-girl-doll-toy-tamashii-o-kudasai.json](./209622-girl-doll-toy-tamashii-o-kudasai.json) |
 | Girl Dress Up Classic | 400055 | [400055-girl-dress-up-classic.json](./400055-girl-dress-up-classic.json) |
-| Girl Dress Up Makeover | 88327 | [88327-girl-dress-up-makeover.json](./88327-girl-dress-up-makeover.json) |
 | Girl Fantasy | 236460 | [236460-girl-fantasy.json](./236460-girl-fantasy.json) |
 | Girl Fight | 19971 | [19971-girl-fight.json](./19971-girl-fight.json) |
 | Girl Frame | 349468 | [349468-girl-frame.json](./349468-girl-frame.json) |
@@ -5445,7 +5442,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gjallarhorn | 169720 | [169720-gjallarhorn.json](./169720-gjallarhorn.json) |
 | Gjana's World | 128101 | [128101-gjanas-world.json](./128101-gjanas-world.json) |
 | gjpg | 282361 | [282361-gjpg.json](./282361-gjpg.json) |
-| GL Golf | 88347 | [88347-gl-golf.json](./88347-gl-golf.json) |
 | GL Tron | 63696 | [63696-gl-tron.json](./63696-gl-tron.json) |
 | GL-117 Action Flight Simulator | 51245 | [51245-gl-117-action-flight-simulator.json](./51245-gl-117-action-flight-simulator.json) |
 | Gl1tch | 93768 | [93768-gl1tch.json](./93768-gl1tch.json) |
@@ -5576,7 +5572,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Cannons | 181772 | [181772-glass-cannons.json](./181772-glass-cannons.json) |
 | Glass City : The Dust | 76433 | [76433-glass-city-the-dust.json](./76433-glass-city-the-dust.json) |
 | Glass Empire | 19180 | [19180-glass-empire.json](./19180-glass-empire.json) |
-| Glass Fort: Smash It | 88313 | [88313-glass-fort-smash-it.json](./88313-glass-fort-smash-it.json) |
 | Glass God | 381665 | [381665-glass-god.json](./381665-glass-god.json) |
 | Glass Heart | 234199 | [234199-glass-heart.json](./234199-glass-heart.json) |
 | Glass Heart Princess | 64163 | [64163-glass-heart-princess.json](./64163-glass-heart-princess.json) |
@@ -7466,7 +7461,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Ryoushi | 348548 | [348548-gold-ryoushi.json](./348548-gold-ryoushi.json) |
 | Gold Scrapping Simulator | 289528 | [289528-gold-scrapping-simulator.json](./289528-gold-scrapping-simulator.json) |
 | Gold Seeker | 285490 | [285490-gold-seeker.json](./285490-gold-seeker.json) |
-| Gold Strike | 88650 | [88650-gold-strike.json](./88650-gold-strike.json) |
 | Gold Taker | 239112 | [239112-gold-taker.json](./239112-gold-taker.json) |
 | Gold Up | 405619 | [405619-gold-up.json](./405619-gold-up.json) |
 | Gold Wiper | 197966 | [197966-gold-wiper.json](./197966-gold-wiper.json) |
@@ -7966,7 +7960,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoMoku Narabe | 64020 | [64020-gomoku-narabe.json](./64020-gomoku-narabe.json) |
 | Gomoku Narabe Renju | 16609 | [16609-gomoku-narabe-renju.json](./16609-gomoku-narabe-renju.json) |
 | Gomoku Notation | 102703 | [102703-gomoku-notation.json](./102703-gomoku-notation.json) |
-| Gomoku: Online Game Hall | 88204 | [88204-gomoku-online-game-hall.json](./88204-gomoku-online-game-hall.json) |
 | Gomokunarabe & Reversi: Touryuumon | 37507 | [37507-gomokunarabe-and-reversi-touryuumon.json](./37507-gomokunarabe-and-reversi-touryuumon.json) |
 | GomokuZero | 427473 | [427473-gomokuzero.json](./427473-gomokuzero.json) |
 | Gomola Speed | 38093 | [38093-gomola-speed.json](./38093-gomola-speed.json) |
@@ -9435,6 +9428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granny Applebee's Cookie Factory | 285865 | [285865-granny-applebees-cookie-factory.json](./285865-granny-applebees-cookie-factory.json) |
 | Granny Barbie | 429339 | [429339-granny-barbie.json](./429339-granny-barbie.json) |
 | Granny Escape | 238629 | [238629-granny-escape.json](./238629-granny-escape.json) |
+| Granny in Paradise | 71333 | [71333-granny-in-paradise.json](./71333-granny-in-paradise.json) |
 | Granny Kick Neighbor | 340321 | [340321-granny-kick-neighbor.json](./340321-granny-kick-neighbor.json) |
 | Granny Legend | 245381 | [245381-granny-legend.json](./245381-granny-legend.json) |
 | Granny Remake | 255022 | [255022-granny-remake.json](./255022-granny-remake.json) |
@@ -11758,7 +11752,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guard Duty | 6741 | [6741-guard-duty.json](./6741-guard-duty.json) |
 | Guard Farm | 277707 | [277707-guard-farm.json](./277707-guard-farm.json) |
 | Guard Force: Covert Strike | 133754 | [133754-guard-force-covert-strike.json](./133754-guard-force-covert-strike.json) |
-| Guard of Wonderland VR | 88126 | [88126-guard-of-wonderland-vr.json](./88126-guard-of-wonderland-vr.json) |
 | Guard the Future | 117574 | [117574-guard-the-future.json](./117574-guard-the-future.json) |
 | Guard the Tower! | 301874 | [301874-guard-the-tower.json](./301874-guard-the-tower.json) |
 | Guarded | 313893 | [313893-guarded.json](./313893-guarded.json) |
@@ -11984,7 +11977,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess the Movie: Quiz Game | 255911 | [255911-guess-the-movie-quiz-game.json](./255911-guess-the-movie-quiz-game.json) |
 | Guess The Movie.Name | 387316 | [387316-guess-the-movie-name.json](./387316-guess-the-movie-name.json) |
 | Guess The Object | 306750 | [306750-guess-the-object.json](./306750-guess-the-object.json) |
-| Guess the Person? | 88466 | [88466-guess-the-person.json](./88466-guess-the-person.json) |
 | Guess the Word | 115339 | [115339-guess-the-word.json](./115339-guess-the-word.json) |
 | Guess the Word | 277341 | [277341-guess-the-word.json](./277341-guess-the-word.json) |
 | Guess The.Game | 210398 | [210398-guess-the-game.json](./210398-guess-the-game.json) |
@@ -12994,9 +12986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship DX | 296821 | [296821-gunship-dx.json](./296821-gunship-dx.json) |
 | Gunship Global Operations | 380115 | [380115-gunship-global-operations.json](./380115-gunship-global-operations.json) |
 | Gunship II | 88754 | [88754-gunship-ii.json](./88754-gunship-ii.json) |
-| Gunship III | 88489 | [88489-gunship-iii.json](./88489-gunship-iii.json) |
 | Gunship III: Combat Flight Simulator - Strike Package | 88624 | [88624-gunship-iii-combat-flight-simulator-strike-package.json](./88624-gunship-iii-combat-flight-simulator-strike-package.json) |
-| Gunship III: Combat Flight Simulator - U.S. Navy | 88609 | [88609-gunship-iii-combat-flight-simulator-u-s-navy.json](./88609-gunship-iii-combat-flight-simulator-u-s-navy.json) |
 | Gunship Operator 3D | 252964 | [252964-gunship-operator-3d.json](./252964-gunship-operator-3d.json) |
 | Gunship Origins | 394127 | [394127-gunship-origins.json](./394127-gunship-origins.json) |
 | Gunship Recon | 117870 | [117870-gunship-recon.json](./117870-gunship-recon.json) |
