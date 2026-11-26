@@ -281,7 +281,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Runaway | 296966 | [296966-machine-runaway.json](./296966-machine-runaway.json) |
 | Machine Tower 2984 | 357848 | [357848-machine-tower-2984.json](./357848-machine-tower-2984.json) |
 | Machine With a Big Gun | 103479 | [103479-machine-with-a-big-gun.json](./103479-machine-with-a-big-gun.json) |
-| Machine World | 88966 | [88966-machine-world.json](./88966-machine-world.json) |
 | Machine World 2 | 50750 | [50750-machine-world-2.json](./50750-machine-world-2.json) |
 | Machine Yearning | 245254 | [245254-machine-yearning.json](./245254-machine-yearning.json) |
 | Machineboy Complete Collection | 154614 | [154614-machineboy-complete-collection.json](./154614-machineboy-complete-collection.json) |
@@ -703,7 +702,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL Arcade | 52551 | [52551-madden-nfl-arcade.json](./52551-madden-nfl-arcade.json) |
 | Madden NFL Football | 6845 | [6845-madden-nfl-football.json](./6845-madden-nfl-football.json) |
 | Madden NFL Football | 80472 | [80472-madden-nfl-football.json](./80472-madden-nfl-football.json) |
-| Madden NFL Football | 88906 | [88906-madden-nfl-football.json](./88906-madden-nfl-football.json) |
 | Madden NFL Mobile | 39182 | [39182-madden-nfl-mobile.json](./39182-madden-nfl-mobile.json) |
 | Madden Season 2 | 90917 | [90917-madden-season-2.json](./90917-madden-season-2.json) |
 | Maddening Euphoria | 74113 | [74113-maddening-euphoria.json](./74113-maddening-euphoria.json) |
@@ -1427,7 +1425,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Mechsuit Akane | 105595 | [105595-magic-mechsuit-akane.json](./105595-magic-mechsuit-akane.json) |
 | Magic Meisters | 60100 | [60100-magic-meisters.json](./60100-magic-meisters.json) |
 | Magic Memory Match Free | 232049 | [232049-magic-memory-match-free.json](./232049-magic-memory-match-free.json) |
-| Magic Mermaid | 89201 | [89201-magic-mermaid.json](./89201-magic-mermaid.json) |
 | Magic Mess: Restore Order to the Wizard's Tower! | 419676 | [419676-magic-mess-restore-order-to-the-wizards-tower.json](./419676-magic-mess-restore-order-to-the-wizards-tower.json) |
 | Magic Micro Mission | 73532 | [73532-magic-micro-mission.json](./73532-magic-micro-mission.json) |
 | Magic Miguel | 59539 | [59539-magic-miguel.json](./59539-magic-miguel.json) |
@@ -2189,7 +2186,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong 16 TW | 334339 | [334339-mahjong-16-tw.json](./334339-mahjong-16-tw.json) |
 | Mahjong 2 Classroom | 246266 | [246266-mahjong-2-classroom.json](./246266-mahjong-2-classroom.json) |
 | Mahjong 300 | 401018 | [401018-mahjong-300.json](./401018-mahjong-300.json) |
-| Mahjong 3D | 89161 | [89161-mahjong-3d.json](./89161-mahjong-3d.json) |
 | Mahjong 3D: Essentials | 85269 | [85269-mahjong-3d-essentials.json](./85269-mahjong-3d-essentials.json) |
 | Mahjong 3D: Warriors of the Emperor | 85268 | [85268-mahjong-3d-warriors-of-the-emperor.json](./85268-mahjong-3d-warriors-of-the-emperor.json) |
 | Mahjong 64 | 44036 | [44036-mahjong-64.json](./44036-mahjong-64.json) |
@@ -2214,7 +2210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Crimes | 91080 | [91080-mahjong-crimes.json](./91080-mahjong-crimes.json) |
 | Mahjong Cub3d | 6846 | [6846-mahjong-cub3d.json](./6846-mahjong-cub3d.json) |
 | Mahjong Daiyogen | 56054 | [56054-mahjong-daiyogen.json](./56054-mahjong-daiyogen.json) |
-| Mahjong Deluxe | 89042 | [89042-mahjong-deluxe.json](./89042-mahjong-deluxe.json) |
 | Mahjong Deluxe 2 | 89686 | [89686-mahjong-deluxe-2.json](./89686-mahjong-deluxe-2.json) |
 | Mahjong Deluxe 2: Astral Planes | 105996 | [105996-mahjong-deluxe-2-astral-planes.json](./105996-mahjong-deluxe-2-astral-planes.json) |
 | Mahjong Deluxe HD | 70900 | [70900-mahjong-deluxe-hd.json](./70900-mahjong-deluxe-hd.json) |
@@ -2262,7 +2257,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Garden | 366439 | [366439-mahjong-garden.json](./366439-mahjong-garden.json) |
 | Mahjong Garden Deluxe | 210199 | [210199-mahjong-garden-deluxe.json](./210199-mahjong-garden-deluxe.json) |
 | Mahjong Garden HD | 354979 | [354979-mahjong-garden-hd.json](./354979-mahjong-garden-hd.json) |
-| Mahjong Girl | 89013 | [89013-mahjong-girl.json](./89013-mahjong-girl.json) |
 | Mahjong Girl Kshity-Gurpa | 379045 | [379045-mahjong-girl-kshity-gurpa.json](./379045-mahjong-girl-kshity-gurpa.json) |
 | Mahjong Gokuu Special | 37677 | [37677-mahjong-gokuu-special.json](./37677-mahjong-gokuu-special.json) |
 | Mahjong Gokuu Taisei | 82263 | [82263-mahjong-gokuu-taisei.json](./82263-mahjong-gokuu-taisei.json) |
@@ -2322,7 +2316,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Nagomi | 152004 | [152004-mahjong-nagomi.json](./152004-mahjong-nagomi.json) |
 | Mahjong on the Beach | 305195 | [305195-mahjong-on-the-beach.json](./305195-mahjong-on-the-beach.json) |
 | Mahjong Ou Densetsu | 91932 | [91932-mahjong-ou-densetsu.json](./91932-mahjong-ou-densetsu.json) |
-| Mahjong Palace | 89230 | [89230-mahjong-palace.json](./89230-mahjong-palace.json) |
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
 | Mahjong Pirate Journey | 213212 | [213212-mahjong-pirate-journey.json](./213212-mahjong-pirate-journey.json) |
 | Mahjong Police | 57397 | [57397-mahjong-police.json](./57397-mahjong-police.json) |
@@ -2422,7 +2415,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong: Touryuumon | 37461 | [37461-mahjong-touryuumon.json](./37461-mahjong-touryuumon.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
 | Mahjong! | 108561 | [108561-mahjong.json](./108561-mahjong.json) |
-| Mahjong!! | 89107 | [89107-mahjong.json](./89107-mahjong.json) |
 | Mahjongg | 328908 | [328908-mahjongg.json](./328908-mahjongg.json) |
 | Mahjongg 4 Deluxe | 24757 | [24757-mahjongg-4-deluxe.json](./24757-mahjongg-4-deluxe.json) |
 | Mahjongg Artifacts | 120513 | [120513-mahjongg-artifacts.json](./120513-mahjongg-artifacts.json) |
@@ -6708,7 +6700,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matsurikki | 202314 | [202314-matsurikki.json](./202314-matsurikki.json) |
 | Matsuro Palette | 245042 | [245042-matsuro-palette.json](./245042-matsuro-palette.json) |
 | Matsutake Game | 294007 | [294007-matsutake-game.json](./294007-matsutake-game.json) |
-| Matt Duchene's Hockey Classic | 88933 | [88933-matt-duchenes-hockey-classic.json](./88933-matt-duchenes-hockey-classic.json) |
 | Matt Hayes' Fishing | 58366 | [58366-matt-hayes-fishing.json](./58366-matt-hayes-fishing.json) |
 | Matt Hazard: Blood Bath and Beyond | 47430 | [47430-matt-hazard-blood-bath-and-beyond.json](./47430-matt-hazard-blood-bath-and-beyond.json) |
 | Matt Murphy: The Case of the Stone Guest | 309715 | [309715-matt-murphy-the-case-of-the-stone-guest.json](./309715-matt-murphy-the-case-of-the-stone-guest.json) |
@@ -9072,7 +9063,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Legends 2 | 1754 | [1754-mega-man-legends-2.json](./1754-mega-man-legends-2.json) |
 | Mega Man Legends 3 Project | 78003 | [78003-mega-man-legends-3-project.json](./78003-mega-man-legends-3-project.json) |
 | Mega Man Maker | 102716 | [102716-mega-man-maker.json](./102716-mega-man-maker.json) |
-| Mega Man Mobile | 89016 | [89016-mega-man-mobile.json](./89016-mega-man-mobile.json) |
 | Mega Man Network Transmission | 1766 | [1766-mega-man-network-transmission.json](./1766-mega-man-network-transmission.json) |
 | Mega Man New Menace | 327479 | [327479-mega-man-new-menace.json](./327479-mega-man-new-menace.json) |
 | Mega Man NT Warrior: Battle Chip - WideShot1 | 352839 | [352839-mega-man-nt-warrior-battle-chip-wideshot1.json](./352839-mega-man-nt-warrior-battle-chip-wideshot1.json) |
@@ -24071,7 +24061,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Army | 117615 | [117615-my-little-army.json](./117615-my-little-army.json) |
 | My Little Baby | 84626 | [84626-my-little-baby.json](./84626-my-little-baby.json) |
 | My Little Baby 3D | 84625 | [84625-my-little-baby-3d.json](./84625-my-little-baby-3d.json) |
-| My Little Bakery | 89228 | [89228-my-little-bakery.json](./89228-my-little-bakery.json) |
 | My Little Blacksmith | 79684 | [79684-my-little-blacksmith.json](./79684-my-little-blacksmith.json) |
 | My Little Blacksmith Shop | 55819 | [55819-my-little-blacksmith-shop.json](./55819-my-little-blacksmith-shop.json) |
 | My Little Blood Cult: Let's Summon Demons | 264791 | [264791-my-little-blood-cult-lets-summon-demons.json](./264791-my-little-blood-cult-lets-summon-demons.json) |
@@ -24151,7 +24140,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Princess | 90367 | [90367-my-little-princess.json](./90367-my-little-princess.json) |
 | My Little Princess : Castle | 86878 | [86878-my-little-princess-castle.json](./86878-my-little-princess-castle.json) |
 | My Little Princess : Fairy Forest | 102455 | [102455-my-little-princess-fairy-forest.json](./102455-my-little-princess-fairy-forest.json) |
-| My Little Princess: Stores | 88958 | [88958-my-little-princess-stores.json](./88958-my-little-princess-stores.json) |
 | My Little Puppy | 335660 | [335660-my-little-puppy.json](./335660-my-little-puppy.json) |
 | My Little Ramenbar | 175815 | [175815-my-little-ramenbar.json](./175815-my-little-ramenbar.json) |
 | My Little Ranch | 421182 | [421182-my-little-ranch.json](./421182-my-little-ranch.json) |
@@ -24709,21 +24697,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town : Street Fun | 104474 | [104474-my-town-street-fun.json](./104474-my-town-street-fun.json) |
 | My Town : Street Fun | 104496 | [104496-my-town-street-fun.json](./104496-my-town-street-fun.json) |
 | My Town: Airport | 88533 | [88533-my-town-airport.json](./88533-my-town-airport.json) |
-| My Town: Bakery | 88909 | [88909-my-town-bakery.json](./88909-my-town-bakery.json) |
-| My Town: Beauty Contest | 89127 | [89127-my-town-beauty-contest.json](./89127-my-town-beauty-contest.json) |
-| My Town: Best Friends' House | 88931 | [88931-my-town-best-friends-house.json](./88931-my-town-best-friends-house.json) |
-| My Town: Car (wash, fix & drive cars) | 89129 | [89129-my-town-car-wash-fix-and-drive-cars.json](./89129-my-town-car-wash-fix-and-drive-cars.json) |
-| My Town: Cinema | 88963 | [88963-my-town-cinema.json](./88963-my-town-cinema.json) |
 | My Town: Dessert Slice | 130086 | [130086-my-town-dessert-slice.json](./130086-my-town-dessert-slice.json) |
-| My Town: Farm | 88954 | [88954-my-town-farm.json](./88954-my-town-farm.json) |
-| My Town: Fire station Rescue | 89119 | [89119-my-town-fire-station-rescue.json](./89119-my-town-fire-station-rescue.json) |
-| My Town: Haunted House | 88967 | [88967-my-town-haunted-house.json](./88967-my-town-haunted-house.json) |
 | My Town: Home | 362420 | [362420-my-town-home.json](./362420-my-town-home.json) |
-| My Town: Hospital | 88955 | [88955-my-town-hospital.json](./88955-my-town-hospital.json) |
 | My Town: Museum | 89126 | [89126-my-town-museum.json](./89126-my-town-museum.json) |
-| My Town: Pets | 88961 | [88961-my-town-pets.json](./88961-my-town-pets.json) |
 | My Town: Police Station | 214319 | [214319-my-town-police-station.json](./214319-my-town-police-station.json) |
-| My Town: Shopping Mall | 88919 | [88919-my-town-shopping-mall.json](./88919-my-town-shopping-mall.json) |
 | My Town: World of Games | 227539 | [227539-my-town-world-of-games.json](./227539-my-town-world-of-games.json) |
 | My Townies | 391951 | [391951-my-townies.json](./391951-my-townies.json) |
 | My Traditional Princes | 299600 | [299600-my-traditional-princes.json](./299600-my-traditional-princes.json) |
