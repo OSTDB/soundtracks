@@ -7135,6 +7135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Noah: Scion of Paradise | 206809 | [206809-little-noah-scion-of-paradise.json](./206809-little-noah-scion-of-paradise.json) |
 | Little Noah: Scion of Paradise - Avatar, Lilliput, and Accessory Pack | 223577 | [223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json](./223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json) |
 | Little Noah: Scion of Paradise - Special Edition | 213141 | [213141-little-noah-scion-of-paradise-special-edition.json](./213141-little-noah-scion-of-paradise-special-edition.json) |
+| Little Noël: Christmas Village | 431061 | [431061-little-noel-christmas-village.json](./431061-little-noel-christmas-village.json) |
 | Little Number Daycare: Learn, Count, Say, Play for Toddlers | 409538 | [409538-little-number-daycare-learn-count-say-play-for-toddlers.json](./409538-little-number-daycare-learn-count-say-play-for-toddlers.json) |
 | Little Obedient Robot | 193558 | [193558-little-obedient-robot.json](./193558-little-obedient-robot.json) |
 | Little Oceania | 293022 | [293022-little-oceania.json](./293022-little-oceania.json) |
@@ -7882,6 +7883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked in my Darkness 2: The Room | 327368 | [327368-locked-in-my-darkness-2-the-room.json](./327368-locked-in-my-darkness-2-the-room.json) |
 | Locked in Temptation | 385810 | [385810-locked-in-temptation.json](./385810-locked-in-temptation.json) |
 | Locked In VR | 30342 | [30342-locked-in-vr.json](./30342-locked-in-vr.json) |
+| Locked Inside | 430880 | [430880-locked-inside.json](./430880-locked-inside.json) |
 | Locked Inside: Rebirth | 177396 | [177396-locked-inside-rebirth.json](./177396-locked-inside-rebirth.json) |
 | Locked Room on Rails | 314014 | [314014-locked-room-on-rails.json](./314014-locked-room-on-rails.json) |
 | Locked Together | 372722 | [372722-locked-together.json](./372722-locked-together.json) |
