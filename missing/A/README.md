@@ -5991,6 +5991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
 | Agent: Osoboe Zadanie | 274243 | [274243-agent-osoboe-zadanie.json](./274243-agent-osoboe-zadanie.json) |
 | Agent: osoboye zadaniye | 132158 | [132158-agent-osoboye-zadaniye.json](./132158-agent-osoboye-zadaniye.json) |
+| Agentic Kingdoms | 431389 | [431389-agentic-kingdoms.json](./431389-agentic-kingdoms.json) |
 | Agents 4 Hire | 379514 | [379514-agents-4-hire.json](./379514-agents-4-hire.json) |
 | Agents 404 | 408224 | [408224-agents-404.json](./408224-agents-404.json) |
 | Agents of Aggro City Online | 83372 | [83372-agents-of-aggro-city-online.json](./83372-agents-of-aggro-city-online.json) |
@@ -14618,6 +14619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Cyber Cycles | 414798 | [414798-arcade-archives-2-cyber-cycles.json](./414798-arcade-archives-2-cyber-cycles.json) |
 | Arcade Archives 2: Dacholer | 419602 | [419602-arcade-archives-2-dacholer.json](./419602-arcade-archives-2-dacholer.json) |
 | Arcade Archives 2: Devastators | 395646 | [395646-arcade-archives-2-devastators.json](./395646-arcade-archives-2-devastators.json) |
+| Arcade Archives 2: Dirt Dash | 431483 | [431483-arcade-archives-2-dirt-dash.json](./431483-arcade-archives-2-dirt-dash.json) |
 | Arcade Archives 2: Elevator Action | 428001 | [428001-arcade-archives-2-elevator-action.json](./428001-arcade-archives-2-elevator-action.json) |
 | Arcade Archives 2: Exzisus | 428006 | [428006-arcade-archives-2-exzisus.json](./428006-arcade-archives-2-exzisus.json) |
 | Arcade Archives 2: Fighting Golf | 422766 | [422766-arcade-archives-2-fighting-golf.json](./422766-arcade-archives-2-fighting-golf.json) |
@@ -14641,6 +14643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Polaris | 398191 | [398191-arcade-archives-2-polaris.json](./398191-arcade-archives-2-polaris.json) |
 | Arcade Archives 2: Prehistoric Isle | 426412 | [426412-arcade-archives-2-prehistoric-isle.json](./426412-arcade-archives-2-prehistoric-isle.json) |
 | Arcade Archives 2: Rack'em Up | 406053 | [406053-arcade-archives-2-rackem-up.json](./406053-arcade-archives-2-rackem-up.json) |
+| Arcade Archives 2: Rainbow Islands | 431481 | [431481-arcade-archives-2-rainbow-islands.json](./431481-arcade-archives-2-rainbow-islands.json) |
 | Arcade Archives 2: Rave Racer | 388443 | [388443-arcade-archives-2-rave-racer.json](./388443-arcade-archives-2-rave-racer.json) |
 | Arcade Archives 2: Rezon | 429337 | [429337-arcade-archives-2-rezon.json](./429337-arcade-archives-2-rezon.json) |
 | Arcade Archives 2: Ridge Racer | 338097 | [338097-arcade-archives-2-ridge-racer.json](./338097-arcade-archives-2-ridge-racer.json) |
@@ -17376,6 +17379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artisan Story | 260215 | [260215-artisan-story.json](./260215-artisan-story.json) |
 | Artisan TD | 281796 | [281796-artisan-td.json](./281796-artisan-td.json) |
 | Artisan: Going Home Again | 31384 | [31384-artisan-going-home-again.json](./31384-artisan-going-home-again.json) |
+| Artist Colony | 23284 | [23284-artist-colony.json](./23284-artist-colony.json) |
 | Artist Idle | 146809 | [146809-artist-idle.json](./146809-artist-idle.json) |
 | Artist Life Simulator | 154076 | [154076-artist-life-simulator.json](./154076-artist-life-simulator.json) |
 | Artist Life Simulator: Cakes and Guns | 242872 | [242872-artist-life-simulator-cakes-and-guns.json](./242872-artist-life-simulator-cakes-and-guns.json) |
@@ -21828,6 +21832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Orphanage | 249212 | [249212-azure-orphanage.json](./249212-azure-orphanage.json) |
 | Azure Plays The Game | 316302 | [316302-azure-plays-the-game.json](./316302-azure-plays-the-game.json) |
 | Azure Reflections | 60315 | [60315-azure-reflections.json](./60315-azure-reflections.json) |
+| Azure Ruins | 431513 | [431513-azure-ruins.json](./431513-azure-ruins.json) |
 | Azure Saga: Pathfinder | 86619 | [86619-azure-saga-pathfinder.json](./86619-azure-saga-pathfinder.json) |
 | Azure Saga: Pathfinder - Deluxe Edition | 116009 | [116009-azure-saga-pathfinder-deluxe-edition.json](./116009-azure-saga-pathfinder-deluxe-edition.json) |
 | Azure Sheep | 150595 | [150595-azure-sheep.json](./150595-azure-sheep.json) |
