@@ -12096,6 +12096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horticular: Complete Edition | 395680 | [395680-horticular-complete-edition.json](./395680-horticular-complete-edition.json) |
 | Horticular: Frozen Frontier | 395687 | [395687-horticular-frozen-frontier.json](./395687-horticular-frozen-frontier.json) |
 | Horton Genetics: Breach | 414260 | [414260-horton-genetics-breach.json](./414260-horton-genetics-breach.json) |
+| Horu | 429918 | [429918-horu.json](./429918-horu.json) |
 | Horus Idle | 340485 | [340485-horus-idle.json](./340485-horus-idle.json) |
 | Horus: Desert Survivor | 392097 | [392097-horus-desert-survivor.json](./392097-horus-desert-survivor.json) |
 | Hose Hero | 314032 | [314032-hose-hero.json](./314032-hose-hero.json) |
@@ -14099,6 +14100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter of antiques | 75640 | [75640-hunter-of-antiques.json](./75640-hunter-of-antiques.json) |
 | Hunter of the Disowned | 156088 | [156088-hunter-of-the-disowned.json](./156088-hunter-of-the-disowned.json) |
 | Hunter Patrol | 13883 | [13883-hunter-patrol.json](./13883-hunter-patrol.json) |
+| Hunter Raid | 429868 | [429868-hunter-raid.json](./429868-hunter-raid.json) |
 | Hunter Revenge | 235648 | [235648-hunter-revenge.json](./235648-hunter-revenge.json) |
 | Hunter Roulette | 346845 | [346845-hunter-roulette.json](./346845-hunter-roulette.json) |
 | Hunter Shooting Camp | 154903 | [154903-hunter-shooting-camp.json](./154903-hunter-shooting-camp.json) |
