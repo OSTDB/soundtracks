@@ -3924,6 +3924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void-Dogs | 180578 | [180578-void-dogs.json](./180578-void-dogs.json) |
 | Void-X | 207998 | [207998-void-x.json](./207998-void-x.json) |
 | Void: Edge of Existence | 235847 | [235847-void-edge-of-existence.json](./235847-void-edge-of-existence.json) |
+| Void: Eight Lives Left | 421128 | [421128-void-eight-lives-left.json](./421128-void-eight-lives-left.json) |
 | Void: Emma | 359534 | [359534-void-emma.json](./359534-void-emma.json) |
 | Void: Icarus | 365254 | [365254-void-icarus.json](./365254-void-icarus.json) |
 | Void: Reshaped | 428305 | [428305-void-reshaped.json](./428305-void-reshaped.json) |
@@ -4272,6 +4273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Battles | 282026 | [282026-vox-battles.json](./282026-vox-battles.json) |
 | Vox in Tenebris | 349314 | [349314-vox-in-tenebris.json](./349314-vox-in-tenebris.json) |
 | Vox Manipuli | 365319 | [365319-vox-manipuli.json](./365319-vox-manipuli.json) |
+| Vox Populi II: 2026-2029 | 418822 | [418822-vox-populi-ii-2026-2029.json](./418822-vox-populi-ii-2026-2029.json) |
 | Vox Populi Vox Dei 2 | 35892 | [35892-vox-populi-vox-dei-2.json](./35892-vox-populi-vox-dei-2.json) |
 | Vox Populi, Vox Dei | 242914 | [242914-vox-populi-vox-dei.json](./242914-vox-populi-vox-dei.json) |
 | Vox Populi: Australia 2025 | 371806 | [371806-vox-populi-australia-2025.json](./371806-vox-populi-australia-2025.json) |
