@@ -2283,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vida Loka Simulator | 397246 | [397246-vida-loka-simulator.json](./397246-vida-loka-simulator.json) |
 | Vidalia's Adventure | 360502 | [360502-vidalias-adventure.json](./360502-vidalias-adventure.json) |
 | Vidar | 27191 | [27191-vidar.json](./27191-vidar.json) |
+| Vide un désert | 431514 | [431514-vide-un-desert.json](./431514-vide-un-desert.json) |
 | Videgoame | 134946 | [134946-videgoame.json](./134946-videgoame.json) |
 | Video 8 Ball | 252115 | [252115-video-8-ball.json](./252115-video-8-ball.json) |
 | Video Action | 80019 | [80019-video-action.json](./80019-video-action.json) |
@@ -4246,6 +4247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vorzain | 413494 | [413494-vorzain.json](./413494-vorzain.json) |
 | Vos en Haas: Het ij van uil | 78645 | [78645-vos-en-haas-het-ij-van-uil.json](./78645-vos-en-haas-het-ij-van-uil.json) |
 | Vos en Haas: Het plan van Haas | 98923 | [98923-vos-en-haas-het-plan-van-haas.json](./98923-vos-en-haas-het-plan-van-haas.json) |
+| VOS: First Faiths | 431261 | [431261-vos-first-faiths.json](./431261-vos-first-faiths.json) |
 | Vosaria | 103779 | [103779-vosaria.json](./103779-vosaria.json) |
 | Vosaria: Lair of the Forgotten | 118576 | [118576-vosaria-lair-of-the-forgotten.json](./118576-vosaria-lair-of-the-forgotten.json) |
 | Vospetka Simulator | 392549 | [392549-vospetka-simulator.json](./392549-vospetka-simulator.json) |
