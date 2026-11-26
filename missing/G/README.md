@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Idolmaster | 300789 | [300789-gakuen-idolmaster.json](./300789-gakuen-idolmaster.json) |
 | Gakuen K: Wonderful School Days | 222120 | [222120-gakuen-k-wonderful-school-days.json](./222120-gakuen-k-wonderful-school-days.json) |
 | Gakuen K: Wonderful School Days - V Edition | 108826 | [108826-gakuen-k-wonderful-school-days-v-edition.json](./108826-gakuen-k-wonderful-school-days-v-edition.json) |
+| Gakuen Redux | 417953 | [417953-gakuen-redux.json](./417953-gakuen-redux.json) |
 | Gakuen Rensenki | 221598 | [221598-gakuen-rensenki.json](./221598-gakuen-rensenki.json) |
 | Gakuen Senki | 251188 | [251188-gakuen-senki.json](./251188-gakuen-senki.json) |
 | Gakuen Senki Muryou | 49563 | [49563-gakuen-senki-muryou.json](./49563-gakuen-senki-muryou.json) |
@@ -962,7 +963,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy at War Online | 39173 | [39173-galaxy-at-war-online.json](./39173-galaxy-at-war-online.json) |
 | Galaxy Attack | 14088 | [14088-galaxy-attack.json](./14088-galaxy-attack.json) |
 | Galaxy Attack: Alien Shooter | 87668 | [87668-galaxy-attack-alien-shooter.json](./87668-galaxy-attack-alien-shooter.json) |
-| Galaxy Attack: Space Shooter | 89141 | [89141-galaxy-attack-space-shooter.json](./89141-galaxy-attack-space-shooter.json) |
 | Galaxy Ball | 96882 | [96882-galaxy-ball.json](./96882-galaxy-ball.json) |
 | Galaxy Ball Defender | 96886 | [96886-galaxy-ball-defender.json](./96886-galaxy-ball-defender.json) |
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
@@ -4635,7 +4635,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostly Garden | 146853 | [146853-ghostly-garden.json](./146853-ghostly-garden.json) |
 | Ghostly Grange | 14091 | [14091-ghostly-grange.json](./14091-ghostly-grange.json) |
 | Ghostly Horizon | 68839 | [68839-ghostly-horizon.json](./68839-ghostly-horizon.json) |
-| Ghostly Matter | 89650 | [89650-ghostly-matter.json](./89650-ghostly-matter.json) |
 | Ghostly Moans | 211252 | [211252-ghostly-moans.json](./211252-ghostly-moans.json) |
 | Ghostly Simulator: Your Neighboring Ghost Story Collection | 407411 | [407411-ghostly-simulator-your-neighboring-ghost-story-collection.json](./407411-ghostly-simulator-your-neighboring-ghost-story-collection.json) |
 | Ghostly Whiskers | 384730 | [384730-ghostly-whiskers.json](./384730-ghostly-whiskers.json) |
@@ -12261,6 +12260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Band Battle | 175729 | [175729-guitar-band-battle.json](./175729-guitar-band-battle.json) |
 | Guitar Band: Rock Battle | 299999 | [299999-guitar-band-rock-battle.json](./299999-guitar-band-rock-battle.json) |
 | Guitar Flash | 56255 | [56255-guitar-flash.json](./56255-guitar-flash.json) |
+| Guitar Flash GH | 416743 | [416743-guitar-flash-gh.json](./416743-guitar-flash-gh.json) |
 | Guitar Freaks | 46801 | [46801-guitar-freaks.json](./46801-guitar-freaks.json) |
 | Guitar Freaks & DrumMania: Masterpiece Gold | 67103 | [67103-guitar-freaks-and-drummania-masterpiece-gold.json](./67103-guitar-freaks-and-drummania-masterpiece-gold.json) |
 | Guitar Freaks & DrumMania: Masterpiece Silver | 67099 | [67099-guitar-freaks-and-drummania-masterpiece-silver.json](./67099-guitar-freaks-and-drummania-masterpiece-silver.json) |
@@ -13123,6 +13123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunzzle: Warp Master | 372607 | [372607-gunzzle-warp-master.json](./372607-gunzzle-warp-master.json) |
 | Guójì Xiàngqí: Dānshuāngrén Duìzhàn Qípái Xiǎoyóuxì | 109011 | [109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json](./109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json) |
 | Gupank | 419888 | [419888-gupank.json](./419888-gupank.json) |
+| Gupp Maker | 417653 | [417653-gupp-maker.json](./417653-gupp-maker.json) |
 | Guppy | 75587 | [75587-guppy.json](./75587-guppy.json) |
 | Guppy's Quest | 58698 | [58698-guppys-quest.json](./58698-guppys-quest.json) |
 | Gura Christmas 2024 | 326909 | [326909-gura-christmas-2024.json](./326909-gura-christmas-2024.json) |
