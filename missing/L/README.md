@@ -3598,7 +3598,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Builder's Journey | 127985 | [127985-lego-builders-journey.json](./127985-lego-builders-journey.json) |
 | LEGO Chess | 19004 | [19004-lego-chess.json](./19004-lego-chess.json) |
 | LEGO City Fire Hose Frenzy | 61624 | [61624-lego-city-fire-hose-frenzy.json](./61624-lego-city-fire-hose-frenzy.json) |
-| LEGO City Game | 89145 | [89145-lego-city-game.json](./89145-lego-city-game.json) |
 | LEGO City Rapid Rescue | 78191 | [78191-lego-city-rapid-rescue.json](./78191-lego-city-rapid-rescue.json) |
 | LEGO City Spotlight Robbery | 61623 | [61623-lego-city-spotlight-robbery.json](./61623-lego-city-spotlight-robbery.json) |
 | LEGO City Undercover | 2177 | [2177-lego-city-undercover.json](./2177-lego-city-undercover.json) |
@@ -3612,7 +3611,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Creator: Knights' Kingdom | 6499 | [6499-lego-creator-knights-kingdom.json](./6499-lego-creator-knights-kingdom.json) |
 | LEGO DC Comics Super Heroes: Team Up | 59190 | [59190-lego-dc-comics-super-heroes-team-up.json](./59190-lego-dc-comics-super-heroes-team-up.json) |
 | LEGO DC Mighty Micros | 104493 | [104493-lego-dc-mighty-micros.json](./104493-lego-dc-mighty-micros.json) |
-| LEGO DC Super Heroes Chase | 89137 | [89137-lego-dc-super-heroes-chase.json](./89137-lego-dc-super-heroes-chase.json) |
 | LEGO DC Super-Villains | 102321 | [102321-lego-dc-super-villains.json](./102321-lego-dc-super-villains.json) |
 | LEGO DC Super-Villains: Aquaman Bundle Pack | 214483 | [214483-lego-dc-super-villains-aquaman-bundle-pack.json](./214483-lego-dc-super-villains-aquaman-bundle-pack.json) |
 | LEGO DC Super-Villains: Aquaman Movie Level Pack 1 | 207224 | [207224-lego-dc-super-villains-aquaman-movie-level-pack-1.json](./207224-lego-dc-super-villains-aquaman-movie-level-pack-1.json) |
@@ -6830,7 +6828,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Chefs: Co-op | 277751 | [277751-little-chefs-co-op.json](./277751-little-chefs-co-op.json) |
 | Little Cherub | 120208 | [120208-little-cherub.json](./120208-little-cherub.json) |
 | Little Chick | 157165 | [157165-little-chick.json](./157165-little-chick.json) |
-| Little Children's Educational Swanky Alphabet Puzzle Game | 88957 | [88957-little-childrens-educational-swanky-alphabet-puzzle-game.json](./88957-little-childrens-educational-swanky-alphabet-puzzle-game.json) |
 | Little Children's Educational Swanky Puzzles Game | 97308 | [97308-little-childrens-educational-swanky-puzzles-game.json](./97308-little-childrens-educational-swanky-puzzles-game.json) |
 | Little Chinese Final Edition | 267576 | [267576-little-chinese-final-edition.json](./267576-little-chinese-final-edition.json) |
 | Little Chomp | 63908 | [63908-little-chomp.json](./63908-little-chomp.json) |
@@ -6984,7 +6981,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Journeys | 213836 | [213836-little-journeys.json](./213836-little-journeys.json) |
 | Little Jumper! | 175403 | [175403-little-jumper.json](./175403-little-jumper.json) |
 | Little Keepers | 256418 | [256418-little-keepers.json](./256418-little-keepers.json) |
-| Little Kids Dentist | 89165 | [89165-little-kids-dentist.json](./89165-little-kids-dentist.json) |
 | Little King's Story | 4974 | [4974-little-kings-story.json](./4974-little-kings-story.json) |
 | Little Kingdom | 10517 | [10517-little-kingdom.json](./10517-little-kingdom.json) |
 | Little Kingdom 2 | 30569 | [30569-little-kingdom-2.json](./30569-little-kingdom-2.json) |
@@ -10984,7 +10980,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo Local Multiplayer | 272431 | [272431-ludo-local-multiplayer.json](./272431-ludo-local-multiplayer.json) |
 | Ludo Master | 54175 | [54175-ludo-master.json](./54175-ludo-master.json) |
 | Ludo Okpo | 237508 | [237508-ludo-okpo.json](./237508-ludo-okpo.json) |
-| Ludo Online | 89583 | [89583-ludo-online.json](./89583-ludo-online.json) |
 | Ludo Park | 257342 | [257342-ludo-park.json](./257342-ludo-park.json) |
 | Ludo Party | 334993 | [334993-ludo-party.json](./334993-ludo-party.json) |
 | Ludo Saga | 240349 | [240349-ludo-saga.json](./240349-ludo-saga.json) |
