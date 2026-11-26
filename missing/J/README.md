@@ -4713,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Keep Fishing | 405319 | [405319-just-keep-fishing.json](./405319-just-keep-fishing.json) |
 | Just Keep Looting | 352837 | [352837-just-keep-looting.json](./352837-just-keep-looting.json) |
 | Just Keep Running | 248325 | [248325-just-keep-running.json](./248325-just-keep-running.json) |
+| Just Keep Waddling: Nihilist Penguin | 430209 | [430209-just-keep-waddling-nihilist-penguin.json](./430209-just-keep-waddling-nihilist-penguin.json) |
 | Just Kill Me 3 | 220244 | [220244-just-kill-me-3.json](./220244-just-kill-me-3.json) |
 | Just Kill Me. | 341133 | [341133-just-kill-me.json](./341133-just-kill-me.json) |
 | Just Kiss Her Already! | 246211 | [246211-just-kiss-her-already.json](./246211-just-kiss-her-already.json) |
