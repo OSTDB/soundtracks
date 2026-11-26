@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Wii U Version | 78345 | [78345-taiko-no-tatsujin-wii-u-version.json](./78345-taiko-no-tatsujin-wii-u-version.json) |
 | Taiko on the Web | 337101 | [337101-taiko-on-the-web.json](./337101-taiko-on-the-web.json) |
 | Taiko Web | 219123 | [219123-taiko-web.json](./219123-taiko-web.json) |
+| Taiko-san Daijiro | 417073 | [417073-taiko-san-daijiro.json](./417073-taiko-san-daijiro.json) |
 | Taikodom | 68016 | [68016-taikodom.json](./68016-taikodom.json) |
 | Taikou Risshiden | 37798 | [37798-taikou-risshiden.json](./37798-taikou-risshiden.json) |
 | Taikou Risshiden II | 123114 | [123114-taikou-risshiden-ii.json](./123114-taikou-risshiden-ii.json) |
@@ -16418,7 +16419,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of a Lost Planet | 34522 | [34522-the-mystery-of-a-lost-planet.json](./34522-the-mystery-of-a-lost-planet.json) |
 | The Mystery of Arkham Manor | 232516 | [232516-the-mystery-of-arkham-manor.json](./232516-the-mystery-of-arkham-manor.json) |
 | The Mystery of Bikini Island | 286519 | [286519-the-mystery-of-bikini-island.json](./286519-the-mystery-of-bikini-island.json) |
-| The Mystery of Blackthorn Castle | 89766 | [89766-the-mystery-of-blackthorn-castle.json](./89766-the-mystery-of-blackthorn-castle.json) |
 | The Mystery of Blackthorn Castle 2 | 289974 | [289974-the-mystery-of-blackthorn-castle-2.json](./289974-the-mystery-of-blackthorn-castle-2.json) |
 | The Mystery of Caketropolis | 157738 | [157738-the-mystery-of-caketropolis.json](./157738-the-mystery-of-caketropolis.json) |
 | The Mystery of Castle Super Beast | 138281 | [138281-the-mystery-of-castle-super-beast.json](./138281-the-mystery-of-castle-super-beast.json) |
@@ -16427,7 +16427,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery Of Eigengrau | 296798 | [296798-the-mystery-of-eigengrau.json](./296798-the-mystery-of-eigengrau.json) |
 | The Mystery of Eldham | 365548 | [365548-the-mystery-of-eldham.json](./365548-the-mystery-of-eldham.json) |
 | The Mystery of Happyville | 104958 | [104958-the-mystery-of-happyville.json](./104958-the-mystery-of-happyville.json) |
-| The Mystery of Haunted Hollow | 89746 | [89746-the-mystery-of-haunted-hollow.json](./89746-the-mystery-of-haunted-hollow.json) |
 | The Mystery of Lost Town | 87442 | [87442-the-mystery-of-lost-town.json](./87442-the-mystery-of-lost-town.json) |
 | The Mystery of Mount Fang | 287311 | [287311-the-mystery-of-mount-fang.json](./287311-the-mystery-of-mount-fang.json) |
 | The Mystery of Nile | 59644 | [59644-the-mystery-of-nile.json](./59644-the-mystery-of-nile.json) |
@@ -34565,6 +34564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transfer | 182769 | [182769-transfer.json](./182769-transfer.json) |
 | Transfer of Essence | 156031 | [156031-transfer-of-essence.json](./156031-transfer-of-essence.json) |
 | Transfer Point | 395064 | [395064-transfer-point.json](./395064-transfer-point.json) |
+| Transfer Teacher | 417951 | [417951-transfer-teacher.json](./417951-transfer-teacher.json) |
 | Transference | 37064 | [37064-transference.json](./37064-transference.json) |
 | Transfinite Dungeon | 143796 | [143796-transfinite-dungeon.json](./143796-transfinite-dungeon.json) |
 | Transformagician | 181457 | [181457-transformagician.json](./181457-transformagician.json) |
