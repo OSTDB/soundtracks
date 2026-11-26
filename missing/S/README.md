@@ -2754,7 +2754,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Me, Sakuya-san!: Remilia Scarlet's Coin and Glass Game | 165948 | [165948-save-me-sakuya-san-remilia-scarlets-coin-and-glass-game.json](./165948-save-me-sakuya-san-remilia-scarlets-coin-and-glass-game.json) |
 | Save Mom | 366369 | [366369-save-mom.json](./366369-save-mom.json) |
 | Save My Human | 258900 | [258900-save-my-human.json](./258900-save-my-human.json) |
-| Save My Pet | 89278 | [89278-save-my-pet.json](./89278-save-my-pet.json) |
 | Save My Scrap | 380047 | [380047-save-my-scrap.json](./380047-save-my-scrap.json) |
 | Save My Sister | 257679 | [257679-save-my-sister.json](./257679-save-my-sister.json) |
 | Save My Wife | 400662 | [400662-save-my-wife.json](./400662-save-my-wife.json) |
@@ -4096,7 +4095,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble Interactive: 2003 Edition | 73995 | [73995-scrabble-interactive-2003-edition.json](./73995-scrabble-interactive-2003-edition.json) |
 | Scrabble Interactive: 2009 Edition | 51157 | [51157-scrabble-interactive-2009-edition.json](./51157-scrabble-interactive-2009-edition.json) |
 | Scrabble Plus | 209005 | [209005-scrabble-plus.json](./209005-scrabble-plus.json) |
-| Scrabble Premium | 88934 | [88934-scrabble-premium.json](./88934-scrabble-premium.json) |
 | Scrabble Rack Attack | 78829 | [78829-scrabble-rack-attack.json](./78829-scrabble-rack-attack.json) |
 | Scrabble Slam! | 66694 | [66694-scrabble-slam.json](./66694-scrabble-slam.json) |
 | Scrabble Sprint | 191503 | [191503-scrabble-sprint.json](./191503-scrabble-sprint.json) |
@@ -10873,7 +10871,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopkeeper Simulator | 353588 | [353588-shopkeeper-simulator.json](./353588-shopkeeper-simulator.json) |
 | Shopkeepers Tale | 110166 | [110166-shopkeepers-tale.json](./110166-shopkeepers-tale.json) |
 | Shopkins Run! | 86880 | [86880-shopkins-run.json](./86880-shopkins-run.json) |
-| Shopkins World! | 89110 | [89110-shopkins-world.json](./89110-shopkins-world.json) |
 | Shopkins: Cutie Cars | 109007 | [109007-shopkins-cutie-cars.json](./109007-shopkins-cutie-cars.json) |
 | Shopkins: Top Trumps | 82140 | [82140-shopkins-top-trumps.json](./82140-shopkins-top-trumps.json) |
 | Shopkins: Who's Next? | 98791 | [98791-shopkins-whos-next.json](./98791-shopkins-whos-next.json) |
@@ -12264,6 +12261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill f: Steelbook Edition | 381094 | [381094-silent-hill-f-steelbook-edition.json](./381094-silent-hill-f-steelbook-edition.json) |
 | Silent Hill HD Collection | 21600 | [21600-silent-hill-hd-collection.json](./21600-silent-hill-hd-collection.json) |
 | Silent Hill Metamorphoses | 275631 | [275631-silent-hill-metamorphoses.json](./275631-silent-hill-metamorphoses.json) |
+| Silent Hill PC Port | 408350 | [408350-silent-hill-pc-port.json](./408350-silent-hill-pc-port.json) |
 | Silent Hill: Alchemilla | 24582 | [24582-silent-hill-alchemilla.json](./24582-silent-hill-alchemilla.json) |
 | Silent Hill: Book of Memories | 9714 | [9714-silent-hill-book-of-memories.json](./9714-silent-hill-book-of-memories.json) |
 | Silent Hill: Cold Heart | 282700 | [282700-silent-hill-cold-heart.json](./282700-silent-hill-cold-heart.json) |
@@ -14045,7 +14043,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skater | 102558 | [102558-skater.json](./102558-skater.json) |
 | Skater | 245172 | [245172-skater.json](./245172-skater.json) |
 | Skater - Let's Skate | 107566 | [107566-skater-lets-skate.json](./107566-skater-lets-skate.json) |
-| Skater - Skate Legendary Spots, Perfect Board Feel | 88975 | [88975-skater-skate-legendary-spots-perfect-board-feel.json](./88975-skater-skate-legendary-spots-perfect-board-feel.json) |
 | Skater Boy | 191301 | [191301-skater-boy.json](./191301-skater-boy.json) |
 | Skater Bunny Simulator | 320459 | [320459-skater-bunny-simulator.json](./320459-skater-bunny-simulator.json) |
 | Skater Cally | 109320 | [109320-skater-cally.json](./109320-skater-cally.json) |
@@ -16710,11 +16707,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Alex and Smart Alice: Curious Kids | 66852 | [66852-smart-alex-and-smart-alice-curious-kids.json](./66852-smart-alex-and-smart-alice-curious-kids.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart Baby ABC Games: Toddler Kids Learning Apps | 87032 | [87032-smart-baby-abc-games-toddler-kids-learning-apps.json](./87032-smart-baby-abc-games-toddler-kids-learning-apps.json) |
-| Smart Baby Rattle | 89123 | [89123-smart-baby-rattle.json](./89123-smart-baby-rattle.json) |
-| Smart Baby Shapes | 88908 | [88908-smart-baby-shapes.json](./88908-smart-baby-shapes.json) |
 | Smart Baby Shapes: Food | 90961 | [90961-smart-baby-shapes-food.json](./90961-smart-baby-shapes-food.json) |
 | Smart Baby Sorter 2 | 88815 | [88815-smart-baby-sorter-2.json](./88815-smart-baby-sorter-2.json) |
-| Smart Baby Sorter HD | 88918 | [88918-smart-baby-sorter-hd.json](./88918-smart-baby-sorter-hd.json) |
 | Smart Bomb | 72930 | [72930-smart-bomb.json](./72930-smart-bomb.json) |
 | Smart Bomber | 247035 | [247035-smart-bomber.json](./247035-smart-bomber.json) |
 | Smart Boy's Gameroom | 77891 | [77891-smart-boys-gameroom.json](./77891-smart-boys-gameroom.json) |
@@ -17343,7 +17337,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Trek: Chapter 1 - Intershellar | 83336 | [83336-snail-trek-chapter-1-intershellar.json](./83336-snail-trek-chapter-1-intershellar.json) |
 | Snail Trek: Chapter 2 - A Snail of Two Worlds | 83337 | [83337-snail-trek-chapter-2-a-snail-of-two-worlds.json](./83337-snail-trek-chapter-2-a-snail-of-two-worlds.json) |
 | Snail Trek: Chapter 3 - Lettuce Be | 81675 | [81675-snail-trek-chapter-3-lettuce-be.json](./81675-snail-trek-chapter-3-lettuce-be.json) |
-| Snail Trek: Chapter 4 - The Final Fondue | 89664 | [89664-snail-trek-chapter-4-the-final-fondue.json](./89664-snail-trek-chapter-4-the-final-fondue.json) |
 | Snail wisdom simulator 2017 | 183922 | [183922-snail-wisdom-simulator-2017.json](./183922-snail-wisdom-simulator-2017.json) |
 | Snail World | 191370 | [191370-snail-world.json](./191370-snail-world.json) |
 | Snail You Later | 365729 | [365729-snail-you-later.json](./365729-snail-you-later.json) |
@@ -22413,7 +22406,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventures | 165932 | [165932-space-adventures.json](./165932-space-adventures.json) |
 | Space Age | 270423 | [270423-space-age.json](./270423-space-age.json) |
 | Space Age | 60095 | [60095-space-age.json](./60095-space-age.json) |
-| Space Age: A Cosmic Adventure | 89061 | [89061-space-age-a-cosmic-adventure.json](./89061-space-age-a-cosmic-adventure.json) |
 | Space Age: Director's Cut | 293227 | [293227-space-age-directors-cut.json](./293227-space-age-directors-cut.json) |
 | Space Agency | 87721 | [87721-space-agency.json](./87721-space-agency.json) |
 | Space Agency 2138 | 223622 | [223622-space-agency-2138.json](./223622-space-agency-2138.json) |
@@ -28736,6 +28728,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode III - Revenge of the Sith | 167612 | [167612-star-wars-episode-iii-revenge-of-the-sith.json](./167612-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Episode III - Revenge of the Sith | 6159 | [6159-star-wars-episode-iii-revenge-of-the-sith.json](./6159-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Episode III - Revenge of the Sith: Activity Center | 137191 | [137191-star-wars-episode-iii-revenge-of-the-sith-activity-center.json](./137191-star-wars-episode-iii-revenge-of-the-sith-activity-center.json) |
+| Star Wars: Episode VII | 401623 | [401623-star-wars-episode-vii.json](./401623-star-wars-episode-vii.json) |
+| Star Wars: Episode VII - The Dark Side of the Story | 401613 | [401613-star-wars-episode-vii-the-dark-side-of-the-story.json](./401613-star-wars-episode-vii-the-dark-side-of-the-story.json) |
 | Star Wars: Ewok Adventure | 40636 | [40636-star-wars-ewok-adventure.json](./40636-star-wars-ewok-adventure.json) |
 | Star Wars: Fate of the Old Republic | 381215 | [381215-star-wars-fate-of-the-old-republic.json](./381215-star-wars-fate-of-the-old-republic.json) |
 | Star Wars: First Assault | 64562 | [64562-star-wars-first-assault.json](./64562-star-wars-first-assault.json) |
@@ -30265,7 +30259,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Master | 143976 | [143976-stealth-master.json](./143976-stealth-master.json) |
 | Stealth Master: Assassin Ninja | 261421 | [261421-stealth-master-assassin-ninja.json](./261421-stealth-master-assassin-ninja.json) |
 | Stealth Mission | 55325 | [55325-stealth-mission.json](./55325-stealth-mission.json) |
-| Stealth Mystery: Secret Key | 88925 | [88925-stealth-mystery-secret-key.json](./88925-stealth-mystery-secret-key.json) |
 | Stealth Operative Syn: Virtual Training | 406221 | [406221-stealth-operative-syn-virtual-training.json](./406221-stealth-operative-syn-virtual-training.json) |
 | Stealth Prankster | 180126 | [180126-stealth-prankster.json](./180126-stealth-prankster.json) |
 | Stealth Raider | 399006 | [399006-stealth-raider.json](./399006-stealth-raider.json) |
@@ -31049,7 +31042,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sthell | 152768 | [152768-sthell.json](./152768-sthell.json) |
 | Sticc | 220505 | [220505-sticc.json](./220505-sticc.json) |
 | Stick 'Em Up 2 | 36419 | [36419-stick-em-up-2.json](./36419-stick-em-up-2.json) |
-| Stick 'Em Up 2: Paper Adventures - Starter Edition | 89634 | [89634-stick-em-up-2-paper-adventures-starter-edition.json](./89634-stick-em-up-2-paper-adventures-starter-edition.json) |
 | Stick a Fork | 425146 | [425146-stick-a-fork.json](./425146-stick-a-fork.json) |
 | Stick A Round | 352788 | [352788-stick-a-round.json](./352788-stick-a-round.json) |
 | Stick Adventures: Wizard Madness - Chapter 1 | 81644 | [81644-stick-adventures-wizard-madness-chapter-1.json](./81644-stick-adventures-wizard-madness-chapter-1.json) |
@@ -32112,7 +32104,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
 | Stranded Nightmare | 207367 | [207367-stranded-nightmare.json](./207367-stranded-nightmare.json) |
 | Stranded On An Island | 285944 | [285944-stranded-on-an-island.json](./285944-stranded-on-an-island.json) |
-| Stranded Raft Survival | 88932 | [88932-stranded-raft-survival.json](./88932-stranded-raft-survival.json) |
 | Stranded Raft Survival 2018 | 87466 | [87466-stranded-raft-survival-2018.json](./87466-stranded-raft-survival-2018.json) |
 | Stranded Rescue | 419432 | [419432-stranded-rescue.json](./419432-stranded-rescue.json) |
 | Stranded Sails | 112344 | [112344-stranded-sails.json](./112344-stranded-sails.json) |
@@ -38419,6 +38410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Black Knight Moveset | 394261 | [394261-super-smash-bros-ultimate-black-knight-moveset.json](./394261-super-smash-bros-ultimate-black-knight-moveset.json) |
 | Super Smash Bros. Ultimate: Blaziken Moveset | 394264 | [394264-super-smash-bros-ultimate-blaziken-moveset.json](./394264-super-smash-bros-ultimate-blaziken-moveset.json) |
 | Super Smash Bros. Ultimate: Blood Falcon Moveset | 375986 | [375986-super-smash-bros-ultimate-blood-falcon-moveset.json](./375986-super-smash-bros-ultimate-blood-falcon-moveset.json) |
+| Super Smash Bros. Ultimate: Bomberman Outfit and Mask | 388812 | [388812-super-smash-bros-ultimate-bomberman-outfit-and-mask.json](./388812-super-smash-bros-ultimate-bomberman-outfit-and-mask.json) |
 | Super Smash Bros. Ultimate: Brawl Meta Knight Restoration | 394610 | [394610-super-smash-bros-ultimate-brawl-meta-knight-restoration.json](./394610-super-smash-bros-ultimate-brawl-meta-knight-restoration.json) |
 | Super Smash Bros. Ultimate: Brinstar but Flat | 342693 | [342693-super-smash-bros-ultimate-brinstar-but-flat.json](./342693-super-smash-bros-ultimate-brinstar-but-flat.json) |
 | Super Smash Bros. Ultimate: Challenger Pack 1 | 129489 | [129489-super-smash-bros-ultimate-challenger-pack-1.json](./129489-super-smash-bros-ultimate-challenger-pack-1.json) |
@@ -38436,6 +38428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Competitive Playable Bosses | 280797 | [280797-super-smash-bros-ultimate-competitive-playable-bosses.json](./280797-super-smash-bros-ultimate-competitive-playable-bosses.json) |
 | Super Smash Bros. Ultimate: Conker Moveset | 395143 | [395143-super-smash-bros-ultimate-conker-moveset.json](./395143-super-smash-bros-ultimate-conker-moveset.json) |
 | Super Smash Bros. Ultimate: Cuphead Moveset | 385640 | [385640-super-smash-bros-ultimate-cuphead-moveset.json](./385640-super-smash-bros-ultimate-cuphead-moveset.json) |
+| Super Smash Bros. Ultimate: Diamond Armor and Helmet | 388805 | [388805-super-smash-bros-ultimate-diamond-armor-and-helmet.json](./388805-super-smash-bros-ultimate-diamond-armor-and-helmet.json) |
 | Super Smash Bros. Ultimate: Dread Samus | 294523 | [294523-super-smash-bros-ultimate-dread-samus.json](./294523-super-smash-bros-ultimate-dread-samus.json) |
 | Super Smash Bros. Ultimate: Expanding Donkey Kong | 343413 | [343413-super-smash-bros-ultimate-expanding-donkey-kong.json](./343413-super-smash-bros-ultimate-expanding-donkey-kong.json) |
 | Super Smash Bros. Ultimate: Fall Damage | 343408 | [343408-super-smash-bros-ultimate-fall-damage.json](./343408-super-smash-bros-ultimate-fall-damage.json) |
@@ -38515,6 +38508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: The Alucard Moveset | 281459 | [281459-super-smash-bros-ultimate-the-alucard-moveset.json](./281459-super-smash-bros-ultimate-the-alucard-moveset.json) |
 | Super Smash Bros. Ultimate: Travis Outfit and Wig | 388810 | [388810-super-smash-bros-ultimate-travis-outfit-and-wig.json](./388810-super-smash-bros-ultimate-travis-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Ultron Moveset | 395035 | [395035-super-smash-bros-ultimate-ultron-moveset.json](./395035-super-smash-bros-ultimate-ultron-moveset.json) |
+| Super Smash Bros. Ultimate: Vault Boy Outfit and Mask | 388803 | [388803-super-smash-bros-ultimate-vault-boy-outfit-and-mask.json](./388803-super-smash-bros-ultimate-vault-boy-outfit-and-mask.json) |
 | Super Smash Bros. Ultimate: Vegeta Moveset | 375984 | [375984-super-smash-bros-ultimate-vegeta-moveset.json](./375984-super-smash-bros-ultimate-vegeta-moveset.json) |
 | Super Smash Bros. Ultimate: Waluigi Moveset | 250575 | [250575-super-smash-bros-ultimate-waluigi-moveset.json](./250575-super-smash-bros-ultimate-waluigi-moveset.json) |
 | Super Smash Bros. Ultimate: Wario Land Wario Moveset | 394294 | [394294-super-smash-bros-ultimate-wario-land-wario-moveset.json](./394294-super-smash-bros-ultimate-wario-land-wario-moveset.json) |
