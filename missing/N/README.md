@@ -1370,7 +1370,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazi Zombie Hunter | 104371 | [104371-nazi-zombie-hunter.json](./104371-nazi-zombie-hunter.json) |
 | Nazi Zombies: Portable | 248218 | [248218-nazi-zombies-portable.json](./248218-nazi-zombies-portable.json) |
 | NaziShoot | 72508 | [72508-nazishoot.json](./72508-nazishoot.json) |
-| NaziShootout | 88054 | [88054-nazishootout.json](./88054-nazishootout.json) |
 | Nazizombie's Slayer | 290595 | [290595-nazizombies-slayer.json](./290595-nazizombies-slayer.json) |
 | Nazo no Chinbotsusen | 385713 | [385713-nazo-no-chinbotsusen.json](./385713-nazo-no-chinbotsusen.json) |
 | Nazo No Masquerade | 37669 | [37669-nazo-no-masquerade.json](./37669-nazo-no-masquerade.json) |
@@ -3061,7 +3060,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephilim Uprising | 291288 | [291288-nephilim-uprising.json](./291288-nephilim-uprising.json) |
 | Nephise | 29171 | [29171-nephise.json](./29171-nephise.json) |
 | Nephise Begins | 36469 | [36469-nephise-begins.json](./36469-nephise-begins.json) |
-| Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
 | NepNep Connect: Chaos Chanpuru | 36606 | [36606-nepnep-connect-chaos-chanpuru.json](./36606-nepnep-connect-chaos-chanpuru.json) |
 | NEPO Missions | 374410 | [374410-nepo-missions.json](./374410-nepo-missions.json) |
 | Nepotism for Germany | 397276 | [397276-nepotism-for-germany.json](./397276-nepotism-for-germany.json) |
@@ -3973,7 +3971,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Mysteries: Power of Art | 255307 | [255307-new-york-mysteries-power-of-art.json](./255307-new-york-mysteries-power-of-art.json) |
 | New York Mysteries: Power of Art - Collector's Edition | 339642 | [339642-new-york-mysteries-power-of-art-collectors-edition.json](./339642-new-york-mysteries-power-of-art-collectors-edition.json) |
 | New York Mysteries: Secrets of the Mafia | 35163 | [35163-new-york-mysteries-secrets-of-the-mafia.json](./35163-new-york-mysteries-secrets-of-the-mafia.json) |
-| New York Mysteries: Secrets of the Mafia - Collector's Edition | 88837 | [88837-new-york-mysteries-secrets-of-the-mafia-collectors-edition.json](./88837-new-york-mysteries-secrets-of-the-mafia-collectors-edition.json) |
 | New York Mysteries: The Lantern of Souls | 31799 | [31799-new-york-mysteries-the-lantern-of-souls.json](./31799-new-york-mysteries-the-lantern-of-souls.json) |
 | New York Mysteries: The Outbreak - Collector's Edition | 358093 | [358093-new-york-mysteries-the-outbreak-collectors-edition.json](./358093-new-york-mysteries-the-outbreak-collectors-edition.json) |
 | New York Nights 2: Friends For Life | 264134 | [264134-new-york-nights-2-friends-for-life.json](./264134-new-york-nights-2-friends-for-life.json) |
@@ -4094,7 +4091,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
 | Next Acre | 430141 | [430141-next-acre.json](./430141-next-acre.json) |
 | Next Action Frog | 395933 | [395933-next-action-frog.json](./395933-next-action-frog.json) |
-| Next Backgammon | 88796 | [88796-next-backgammon.json](./88796-next-backgammon.json) |
 | Next Business Trip | 347054 | [347054-next-business-trip.json](./347054-next-business-trip.json) |
 | Next Day: Survival | 51495 | [51495-next-day-survival.json](./51495-next-day-survival.json) |
 | Next Door | 148067 | [148067-next-door.json](./148067-next-door.json) |
@@ -5372,7 +5368,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmares from the Deep: Cursed Heart | 140247 | [140247-nightmares-from-the-deep-cursed-heart.json](./140247-nightmares-from-the-deep-cursed-heart.json) |
 | Nightmares from the Deep: Cursed Heart - Collector's Edition | 54250 | [54250-nightmares-from-the-deep-cursed-heart-collectors-edition.json](./54250-nightmares-from-the-deep-cursed-heart-collectors-edition.json) |
 | Nightmares from the Deep: Davy Jones | 140248 | [140248-nightmares-from-the-deep-davy-jones.json](./140248-nightmares-from-the-deep-davy-jones.json) |
-| Nightmares from the Deep: Davy Jones - Collector's Edition | 88643 | [88643-nightmares-from-the-deep-davy-jones-collectors-edition.json](./88643-nightmares-from-the-deep-davy-jones-collectors-edition.json) |
 | Nightmares from the Deep: The Cursed Heart | 16779 | [16779-nightmares-from-the-deep-the-cursed-heart.json](./16779-nightmares-from-the-deep-the-cursed-heart.json) |
 | Nightmares from the Deep: The Cursed Heart - Collector's Edition | 88494 | [88494-nightmares-from-the-deep-the-cursed-heart-collectors-edition.json](./88494-nightmares-from-the-deep-the-cursed-heart-collectors-edition.json) |
 | Nightmares from the Deep: The Siren’s Call - Collector’s Edition | 228248 | [228248-nightmares-from-the-deep-the-siren-s-call-collector-s-edition.json](./228248-nightmares-from-the-deep-the-siren-s-call-collector-s-edition.json) |
@@ -5501,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihiland | 336802 | [336802-nihiland.json](./336802-nihiland.json) |
 | Nihilism | 71163 | [71163-nihilism.json](./71163-nihilism.json) |
 | Nihilist | 37287 | [37287-nihilist.json](./37287-nihilist.json) |
+| Nihilist Simulator | 72337 | [72337-nihilist-simulator.json](./72337-nihilist-simulator.json) |
 | Nihilist Syndrome | 366940 | [366940-nihilist-syndrome.json](./366940-nihilist-syndrome.json) |
 | Nihility: Infinite Teeth | 256880 | [256880-nihility-infinite-teeth.json](./256880-nihility-infinite-teeth.json) |
 | Nihilo | 164758 | [164758-nihilo.json](./164758-nihilo.json) |
