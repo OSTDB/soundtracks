@@ -6994,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noara: The Conspiracy | 178357 | [178357-noara-the-conspiracy.json](./178357-noara-the-conspiracy.json) |
 | Nob Hero | 200077 | [200077-nob-hero.json](./200077-nob-hero.json) |
 | Nob War: The Elves | 235243 | [235243-nob-war-the-elves.json](./235243-nob-war-the-elves.json) |
+| NoBadEats | 430164 | [430164-nobadeats.json](./430164-nobadeats.json) |
 | Nobby the Aardvark | 125181 | [125181-nobby-the-aardvark.json](./125181-nobby-the-aardvark.json) |
 | Nobelia | 224950 | [224950-nobelia.json](./224950-nobelia.json) |
 | Nobetsu Maku Nashi | 222693 | [222693-nobetsu-maku-nashi.json](./222693-nobetsu-maku-nashi.json) |
@@ -8247,6 +8248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Empire | 98467 | [98467-nova-empire.json](./98467-nova-empire.json) |
 | Nova Era: Atom | 320080 | [320080-nova-era-atom.json](./320080-nova-era-atom.json) |
 | Nova Escape - Space Runner | 123124 | [123124-nova-escape-space-runner.json](./123124-nova-escape-space-runner.json) |
+| Nova Fleet | 430213 | [430213-nova-fleet.json](./430213-nova-fleet.json) |
 | Nova Flow | 95049 | [95049-nova-flow.json](./95049-nova-flow.json) |
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
 | Nova Genetics | 160073 | [160073-nova-genetics.json](./160073-nova-genetics.json) |
