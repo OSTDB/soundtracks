@@ -11441,6 +11441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shufflepuck Cantina Deluxe | 62608 | [62608-shufflepuck-cantina-deluxe.json](./62608-shufflepuck-cantina-deluxe.json) |
 | Shuffles 'n Scuffles | 372701 | [372701-shuffles-n-scuffles.json](./372701-shuffles-n-scuffles.json) |
 | Shuffleshot | 39388 | [39388-shuffleshot.json](./39388-shuffleshot.json) |
+| Shufflewood | 431492 | [431492-shufflewood.json](./431492-shufflewood.json) |
 | Shuffs | 134253 | [134253-shuffs.json](./134253-shuffs.json) |
 | Shugo Chara! 3-tsu no Tamago to Koisuru Joker | 70669 | [70669-shugo-chara-3-tsu-no-tamago-to-koisuru-joker.json](./70669-shugo-chara-3-tsu-no-tamago-to-koisuru-joker.json) |
 | Shugo Chara! Amu no Niji-iro Chara Change | 70666 | [70666-shugo-chara-amu-no-niji-iro-chara-change.json](./70666-shugo-chara-amu-no-niji-iro-chara-change.json) |
@@ -15394,6 +15395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughter Cats | 235354 | [235354-slaughter-cats.json](./235354-slaughter-cats.json) |
 | Slaughter Horse 2 | 211133 | [211133-slaughter-horse-2.json](./211133-slaughter-horse-2.json) |
 | Slaughter Me Street: 1999 | 327276 | [327276-slaughter-me-street-1999.json](./327276-slaughter-me-street-1999.json) |
+| Slaughter of Luminance | 431493 | [431493-slaughter-of-luminance.json](./431493-slaughter-of-luminance.json) |
 | Slaughter Until Death | 274217 | [274217-slaughter-until-death.json](./274217-slaughter-until-death.json) |
 | Slaughter Void | 344076 | [344076-slaughter-void.json](./344076-slaughter-void.json) |
 | Slaughter: The Lost Outpost | 261038 | [261038-slaughter-the-lost-outpost.json](./261038-slaughter-the-lost-outpost.json) |
@@ -17548,6 +17550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakes on an Extradimensional Plane | 33299 | [33299-snakes-on-an-extradimensional-plane.json](./33299-snakes-on-an-extradimensional-plane.json) |
 | Snakes Subsonic | 133871 | [133871-snakes-subsonic.json](./133871-snakes-subsonic.json) |
 | Snakes with Fists! | 343271 | [343271-snakes-with-fists.json](./343271-snakes-with-fists.json) |
+| Snakes, Ladders & Chaos! | 431499 | [431499-snakes-ladders-and-chaos.json](./431499-snakes-ladders-and-chaos.json) |
 | SnakEscape | 34278 | [34278-snakescape.json](./34278-snakescape.json) |
 | SnakEscape: Remastered | 129834 | [129834-snakescape-remastered.json](./129834-snakescape-remastered.json) |
 | SnakeScout | 102675 | [102675-snakescout.json](./102675-snakescout.json) |
@@ -18159,6 +18162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
 | Snow White Ashes | 289791 | [289791-snow-white-ashes.json](./289791-snow-white-ashes.json) |
 | Snow White in Happily Ever After | 42582 | [42582-snow-white-in-happily-ever-after.json](./42582-snow-white-in-happily-ever-after.json) |
+| Snow White in Wonderland | 431490 | [431490-snow-white-in-wonderland.json](./431490-snow-white-in-wonderland.json) |
 | Snow White Solitaire: Charmed Kingdom | 81771 | [81771-snow-white-solitaire-charmed-kingdom.json](./81771-snow-white-solitaire-charmed-kingdom.json) |
 | Snow White Solitaire: Legacy of Dwarves | 81592 | [81592-snow-white-solitaire-legacy-of-dwarves.json](./81592-snow-white-solitaire-legacy-of-dwarves.json) |
 | Snow White: Counting Diamond Mine | 198897 | [198897-snow-white-counting-diamond-mine.json](./198897-snow-white-counting-diamond-mine.json) |
@@ -23689,6 +23693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Way: Echo of the Galaxy | 365867 | [365867-space-way-echo-of-the-galaxy.json](./365867-space-way-echo-of-the-galaxy.json) |
 | Space Whale | 63518 | [63518-space-whale.json](./63518-space-whale.json) |
 | Space Whip | 117323 | [117323-space-whip.json](./117323-space-whip.json) |
+| Space Whip | 431381 | [431381-space-whip.json](./431381-space-whip.json) |
 | Space Whip | 61903 | [61903-space-whip.json](./61903-space-whip.json) |
 | Space Will | 290384 | [290384-space-will.json](./290384-space-will.json) |
 | Space Wing Cadet | 244315 | [244315-space-wing-cadet.json](./244315-space-wing-cadet.json) |
@@ -28432,6 +28437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek Newton: Part One - Anomaly | 171782 | [171782-star-trek-newton-part-one-anomaly.json](./171782-star-trek-newton-part-one-anomaly.json) |
 | Star Trek Online | 7584 | [7584-star-trek-online.json](./7584-star-trek-online.json) |
 | Star Trek Online: Age of Discovery | 112101 | [112101-star-trek-online-age-of-discovery.json](./112101-star-trek-online-age-of-discovery.json) |
+| Star Trek Online: Agents of Yesterday | 23285 | [23285-star-trek-online-agents-of-yesterday.json](./23285-star-trek-online-agents-of-yesterday.json) |
 | Star Trek Online: Awakening | 121530 | [121530-star-trek-online-awakening.json](./121530-star-trek-online-awakening.json) |
 | Star Trek Online: Delta Rising | 23287 | [23287-star-trek-online-delta-rising.json](./23287-star-trek-online-delta-rising.json) |
 | Star Trek Online: Emergence | 75689 | [75689-star-trek-online-emergence.json](./75689-star-trek-online-emergence.json) |
@@ -28581,6 +28587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Battlefront II: Elite Trooper Deluxe Edition | 51486 | [51486-star-wars-battlefront-ii-elite-trooper-deluxe-edition.json](./51486-star-wars-battlefront-ii-elite-trooper-deluxe-edition.json) |
 | Star Wars Battlefront II: Resurrection | 138124 | [138124-star-wars-battlefront-ii-resurrection.json](./138124-star-wars-battlefront-ii-resurrection.json) |
 | Star Wars Battlefront II: The Last Jedi Season | 76886 | [76886-star-wars-battlefront-ii-the-last-jedi-season.json](./76886-star-wars-battlefront-ii-the-last-jedi-season.json) |
+| Star Wars Battlefront: Battle of Jakku | 23293 | [23293-star-wars-battlefront-battle-of-jakku.json](./23293-star-wars-battlefront-battle-of-jakku.json) |
 | Star Wars Battlefront: Bespin | 19869 | [19869-star-wars-battlefront-bespin.json](./19869-star-wars-battlefront-bespin.json) |
 | Star Wars Battlefront: Companion | 303966 | [303966-star-wars-battlefront-companion.json](./303966-star-wars-battlefront-companion.json) |
 | Star Wars Battlefront: Death Star | 20470 | [20470-star-wars-battlefront-death-star.json](./20470-star-wars-battlefront-death-star.json) |
@@ -33246,6 +33253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | String Avoider | 407786 | [407786-string-avoider.json](./407786-string-avoider.json) |
 | String Avoider 2 | 407828 | [407828-string-avoider-2.json](./407828-string-avoider-2.json) |
 | String Avoider Deluxe | 407789 | [407789-string-avoider-deluxe.json](./407789-string-avoider-deluxe.json) |
+| String Burning | 431415 | [431415-string-burning.json](./431415-string-burning.json) |
 | String Mace | 403644 | [403644-string-mace.json](./403644-string-mace.json) |
 | String of Fates | 398060 | [398060-string-of-fates.json](./398060-string-of-fates.json) |
 | String Rush | 173236 | [173236-string-rush.json](./173236-string-rush.json) |
@@ -34869,6 +34877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Sports Events | 106702 | [106702-summer-sports-events.json](./106702-summer-sports-events.json) |
 | Summer Sports Games | 119477 | [119477-summer-sports-games.json](./119477-summer-sports-games.json) |
 | Summer Sports Games: 4K Edition | 173168 | [173168-summer-sports-games-4k-edition.json](./173168-summer-sports-games-4k-edition.json) |
+| Summer Sports Party | 23261 | [23261-summer-sports-party.json](./23261-summer-sports-party.json) |
 | Summer Sports: Paradise Island | 5197 | [5197-summer-sports-paradise-island.json](./5197-summer-sports-paradise-island.json) |
 | Summer Sprint | 262771 | [262771-summer-sprint.json](./262771-summer-sprint.json) |
 | Summer Sweetheart | 122443 | [122443-summer-sweetheart.json](./122443-summer-sweetheart.json) |
