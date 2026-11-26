@@ -3218,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Pop | 414531 | [414531-cargo-pop.json](./414531-cargo-pop.json) |
 | Cargo Protocol: Cyberpunk Trains | 414148 | [414148-cargo-protocol-cyberpunk-trains.json](./414148-cargo-protocol-cyberpunk-trains.json) |
 | Cargo Rail Tycoon | 428286 | [428286-cargo-rail-tycoon.json](./428286-cargo-rail-tycoon.json) |
+| Cargo Runner: Faction Fracture | 426023 | [426023-cargo-runner-faction-fracture.json](./426023-cargo-runner-faction-fracture.json) |
 | Cargo Runner: Mars | 389050 | [389050-cargo-runner-mars.json](./389050-cargo-runner-mars.json) |
 | Cargo Rush | 197989 | [197989-cargo-rush.json](./197989-cargo-rush.json) |
 | Cargo Shop Simulator | 368208 | [368208-cargo-shop-simulator.json](./368208-cargo-shop-simulator.json) |
@@ -4668,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Crisis | 412438 | [412438-cat-crisis.json](./412438-cat-crisis.json) |
 | Cat Crunch | 304955 | [304955-cat-crunch.json](./304955-cat-crunch.json) |
 | Cat Cursor by Travellin Cats | 394275 | [394275-cat-cursor-by-travellin-cats.json](./394275-cat-cursor-by-travellin-cats.json) |
+| Cat Customs Simulator | 423626 | [423626-cat-customs-simulator.json](./423626-cat-customs-simulator.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Dash Go | 236232 | [236232-cat-dash-go.json](./236232-cat-dash-go.json) |
 | Cat Defense | 116940 | [116940-cat-defense.json](./116940-cat-defense.json) |
@@ -14830,6 +14832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combate Monero | 117622 | [117622-combate-monero.json](./117622-combate-monero.json) |
 | Combats | 253238 | [253238-combats.json](./253238-combats.json) |
 | Combattre ou Mourir | 126113 | [126113-combattre-ou-mourir.json](./126113-combattre-ou-mourir.json) |
+| Combi Mahjong Awase Uchi with Maboroshi Tsukiyo Characters | 419226 | [419226-combi-mahjong-awase-uchi-with-maboroshi-tsukiyo-characters.json](./419226-combi-mahjong-awase-uchi-with-maboroshi-tsukiyo-characters.json) |
 | Combi Pool | 291603 | [291603-combi-pool.json](./291603-combi-pool.json) |
 | Combi Ring Advanced | 326129 | [326129-combi-ring-advanced.json](./326129-combi-ring-advanced.json) |
 | Combination Lock | 70436 | [70436-combination-lock.json](./70436-combination-lock.json) |
