@@ -7263,6 +7263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beltion: Beyond Ritual | 267177 | [267177-beltion-beyond-ritual.json](./267177-beltion-beyond-ritual.json) |
 | Beltlife: Prospector | 391084 | [391084-beltlife-prospector.json](./391084-beltlife-prospector.json) |
 | Beltmatic | 281960 | [281960-beltmatic.json](./281960-beltmatic.json) |
+| Beltopolis | 431391 | [431391-beltopolis.json](./431391-beltopolis.json) |
 | Beltrunner | 424412 | [424412-beltrunner.json](./424412-beltrunner.json) |
 | Belts of Iron | 374243 | [374243-belts-of-iron.json](./374243-belts-of-iron.json) |
 | Beltz | 421899 | [421899-beltz.json](./421899-beltz.json) |
@@ -11046,6 +11047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Brim | 28822 | [28822-blades-of-brim.json](./28822-blades-of-brim.json) |
 | Blades of Crossed Hearts | 396313 | [396313-blades-of-crossed-hearts.json](./396313-blades-of-crossed-hearts.json) |
 | Blades of Exile | 19579 | [19579-blades-of-exile.json](./19579-blades-of-exile.json) |
+| Blades of Fury | 23260 | [23260-blades-of-fury.json](./23260-blades-of-fury.json) |
 | Blades of Gory | 126701 | [126701-blades-of-gory.json](./126701-blades-of-gory.json) |
 | Blades of Heaven | 72174 | [72174-blades-of-heaven.json](./72174-blades-of-heaven.json) |
 | Blades of Heroes: Samurai Rising | 216682 | [216682-blades-of-heroes-samurai-rising.json](./216682-blades-of-heroes-samurai-rising.json) |
@@ -17778,6 +17780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brendan Keogh's Putting Land | 329908 | [329908-brendan-keoghs-putting-land.json](./329908-brendan-keoghs-putting-land.json) |
 | Brendon's Water Polo | 306401 | [306401-brendons-water-polo.json](./306401-brendons-water-polo.json) |
 | Brennan's Light | 421297 | [421297-brennans-light.json](./421297-brennans-light.json) |
+| Brennia | 431242 | [431242-brennia.json](./431242-brennia.json) |
 | Brentwood | 310296 | [310296-brentwood.json](./310296-brentwood.json) |
 | Bret Airborne | 28587 | [28587-bret-airborne.json](./28587-bret-airborne.json) |
 | Bretonne Lais | 297609 | [297609-bretonne-lais.json](./297609-bretonne-lais.json) |
@@ -21308,6 +21311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz Wars | 373808 | [373808-buzz-wars.json](./373808-buzz-wars.json) |
 | Buzz-Saw Blood House | 125260 | [125260-buzz-saw-blood-house.json](./125260-buzz-saw-blood-house.json) |
 | Buzz: Brain of Oz | 69022 | [69022-buzz-brain-of-oz.json](./69022-buzz-brain-of-oz.json) |
+| Buzz! Brain Bender | 23267 | [23267-buzz-brain-bender.json](./23267-buzz-brain-bender.json) |
 | Buzz! Brain of the UK | 21131 | [21131-buzz-brain-of-the-uk.json](./21131-buzz-brain-of-the-uk.json) |
 | Buzz! De slimste van Nederland | 77281 | [77281-buzz-de-slimste-van-nederland.json](./77281-buzz-de-slimste-van-nederland.json) |
 | Buzz! Junior: Dino Den | 43507 | [43507-buzz-junior-dino-den.json](./43507-buzz-junior-dino-den.json) |
