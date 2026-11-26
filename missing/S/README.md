@@ -32326,7 +32326,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategist | 107808 | [107808-strategist.json](./107808-strategist.json) |
 | Stratego | 72027 | [72027-stratego.json](./72027-stratego.json) |
 | Stratego | 88896 | [88896-stratego.json](./88896-stratego.json) |
-| Stratego | 88897 | [88897-stratego.json](./88897-stratego.json) |
 | Stratego Battle Cards | 212403 | [212403-stratego-battle-cards.json](./212403-stratego-battle-cards.json) |
 | Stratego Online | 20172 | [20172-stratego-online.json](./20172-stratego-online.json) |
 | Stratego: Next Edition | 47886 | [47886-stratego-next-edition.json](./47886-stratego-next-edition.json) |
