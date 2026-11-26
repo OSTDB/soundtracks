@@ -1963,7 +1963,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarioWare: Touched! | 1705 | [1705-warioware-touched.json](./1705-warioware-touched.json) |
 | WarioWare: Twisted! | 1704 | [1704-warioware-twisted.json](./1704-warioware-twisted.json) |
 | WarioWare: Twisted! - Marble Maze Game | 231530 | [231530-warioware-twisted-marble-maze-game.json](./231530-warioware-twisted-marble-maze-game.json) |
-| Warium | 87768 | [87768-warium.json](./87768-warium.json) |
 | Warja | 277295 | [277295-warja.json](./277295-warja.json) |
 | WarJetz | 45072 | [45072-warjetz.json](./45072-warjetz.json) |
 | Wark & Wimble | 151493 | [151493-wark-and-wimble.json](./151493-wark-and-wimble.json) |
@@ -4573,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheat and Wrath | 400319 | [400319-wheat-and-wrath.json](./400319-wheat-and-wrath.json) |
 | Wheat Fairy of Daya | 249752 | [249752-wheat-fairy-of-daya.json](./249752-wheat-fairy-of-daya.json) |
 | Wheat Harvest Paradox | 257409 | [257409-wheat-harvest-paradox.json](./257409-wheat-harvest-paradox.json) |
+| Wheatley's Reprisal: The Collection | 416369 | [416369-wheatleys-reprisal-the-collection.json](./416369-wheatleys-reprisal-the-collection.json) |
 | Wheatley's Unscientific Tests | 416797 | [416797-wheatleys-unscientific-tests.json](./416797-wheatleys-unscientific-tests.json) |
 | Wheeeee! | 357359 | [357359-wheeeee.json](./357359-wheeeee.json) |
 | Wheel Balance | 389185 | [389185-wheel-balance.json](./389185-wheel-balance.json) |
@@ -5128,7 +5128,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | While Waiting | 253330 | [253330-while-waiting.json](./253330-while-waiting.json) |
 | While Waiting My Turn | 253382 | [253382-while-waiting-my-turn.json](./253382-while-waiting-my-turn.json) |
 | While We Sleep: Slendrina Is Here | 321278 | [321278-while-we-sleep-slendrina-is-here.json](./321278-while-we-sleep-slendrina-is-here.json) |
-| While You Are Downloading | 87963 | [87963-while-you-are-downloading.json](./87963-while-you-are-downloading.json) |
 | Whim | 216830 | [216830-whim.json](./216830-whim.json) |
 | Whimel Academy | 275558 | [275558-whimel-academy.json](./275558-whimel-academy.json) |
 | Whimpact! | 378538 | [378538-whimpact.json](./378538-whimpact.json) |
@@ -8721,7 +8720,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word After Word | 134653 | [134653-word-after-word.json](./134653-word-after-word.json) |
 | Word Attack | 220720 | [220720-word-attack.json](./220720-word-attack.json) |
 | Word Avalanche | 108644 | [108644-word-avalanche.json](./108644-word-avalanche.json) |
-| Word Beach: Word Games for Fun | 87733 | [87733-word-beach-word-games-for-fun.json](./87733-word-beach-word-games-for-fun.json) |
 | Word Bird | 107571 | [107571-word-bird.json](./107571-word-bird.json) |
 | Word Bird Supreme | 415954 | [415954-word-bird-supreme.json](./415954-word-bird-supreme.json) |
 | Word Blitz | 227552 | [227552-word-blitz.json](./227552-word-blitz.json) |
@@ -9009,7 +9007,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordBuzz 4 | 420654 | [420654-wordbuzz-4.json](./420654-wordbuzz-4.json) |
 | Wordchain | 264293 | [264293-wordchain.json](./264293-wordchain.json) |
 | WordCookies Cross | 87002 | [87002-wordcookies-cross.json](./87002-wordcookies-cross.json) |
-| WordCrasher | 87702 | [87702-wordcrasher.json](./87702-wordcrasher.json) |
 | Worddate | 202045 | [202045-worddate.json](./202045-worddate.json) |
 | Wordding | 173964 | [173964-wordding.json](./173964-wordding.json) |
 | WordDrag | 301477 | [301477-worddrag.json](./301477-worddrag.json) |
@@ -10436,7 +10433,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WPCA: World Phasebound Control Authority | 394524 | [394524-wpca-world-phasebound-control-authority.json](./394524-wpca-world-phasebound-control-authority.json) |
 | WpnFire | 345516 | [345516-wpnfire.json](./345516-wpnfire.json) |
 | Wracing | 385722 | [385722-wracing.json](./385722-wracing.json) |
-| Wrack: Exoverse | 87560 | [87560-wrack-exoverse.json](./87560-wrack-exoverse.json) |
 | Wrack: Reclamation | 344806 | [344806-wrack-reclamation.json](./344806-wrack-reclamation.json) |
 | Wrain | 302348 | [302348-wrain.json](./302348-wrain.json) |
 | Wraith | 125994 | [125994-wraith.json](./125994-wraith.json) |
