@@ -1647,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangar 27 | 269121 | [269121-hangar-27.json](./269121-hangar-27.json) |
 | Hangar 51: Classified Investigation | 382276 | [382276-hangar-51-classified-investigation.json](./382276-hangar-51-classified-investigation.json) |
 | Hangar 8 | 312604 | [312604-hangar-8.json](./312604-hangar-8.json) |
+| Hangar Valley | 424291 | [424291-hangar-valley.json](./424291-hangar-valley.json) |
 | Hangaroo | 225814 | [225814-hangaroo.json](./225814-hangaroo.json) |
 | Hangcliff | 252598 | [252598-hangcliff.json](./252598-hangcliff.json) |
 | Hangeki | 17697 | [17697-hangeki.json](./17697-hangeki.json) |
@@ -5307,12 +5308,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Neighbor | 18167 | [18167-hello-neighbor.json](./18167-hello-neighbor.json) |
 | Hello Neighbor 2 | 135991 | [135991-hello-neighbor-2.json](./135991-hello-neighbor-2.json) |
 | Hello Neighbor 2 Alpha 1 | 419367 | [419367-hello-neighbor-2-alpha-1.json](./419367-hello-neighbor-2-alpha-1.json) |
+| Hello Neighbor 2 Alpha 1.5 | 419707 | [419707-hello-neighbor-2-alpha-1-5.json](./419707-hello-neighbor-2-alpha-1-5.json) |
 | Hello Neighbor 2: Back to School | 238575 | [238575-hello-neighbor-2-back-to-school.json](./238575-hello-neighbor-2-back-to-school.json) |
 | Hello Neighbor 2: Deluxe Edition | 196805 | [196805-hello-neighbor-2-deluxe-edition.json](./196805-hello-neighbor-2-deluxe-edition.json) |
 | Hello Neighbor 2: Hello-copter | 231270 | [231270-hello-neighbor-2-hello-copter.json](./231270-hello-neighbor-2-hello-copter.json) |
 | Hello Neighbor 2: Imbir Edition | 237683 | [237683-hello-neighbor-2-imbir-edition.json](./237683-hello-neighbor-2-imbir-edition.json) |
 | Hello Neighbor 2: Late Fees | 231261 | [231261-hello-neighbor-2-late-fees.json](./231261-hello-neighbor-2-late-fees.json) |
 | Hello Neighbor 3 | 287317 | [287317-hello-neighbor-3.json](./287317-hello-neighbor-3.json) |
+| Hello Neighbor Alpha 1 | 419702 | [419702-hello-neighbor-alpha-1.json](./419702-hello-neighbor-alpha-1.json) |
+| Hello Neighbor Alpha 2 | 419703 | [419703-hello-neighbor-alpha-2.json](./419703-hello-neighbor-alpha-2.json) |
+| Hello Neighbor Alpha 3 | 419704 | [419704-hello-neighbor-alpha-3.json](./419704-hello-neighbor-alpha-3.json) |
+| Hello Neighbor Alpha 4 | 419705 | [419705-hello-neighbor-alpha-4.json](./419705-hello-neighbor-alpha-4.json) |
 | Hello Neighbor Bundle | 118852 | [118852-hello-neighbor-bundle.json](./118852-hello-neighbor-bundle.json) |
 | Hello Neighbor Pre-Alpha | 403841 | [403841-hello-neighbor-pre-alpha.json](./403841-hello-neighbor-pre-alpha.json) |
 | Hello Neighbor Prototype | 278054 | [278054-hello-neighbor-prototype.json](./278054-hello-neighbor-prototype.json) |
@@ -13203,6 +13209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Build a Magnificent Kingdom | 127603 | [127603-how-to-build-a-magnificent-kingdom.json](./127603-how-to-build-a-magnificent-kingdom.json) |
 | How To Build A Snowman | 383492 | [383492-how-to-build-a-snowman.json](./383492-how-to-build-a-snowman.json) |
 | How To Build Your Igloo | 253931 | [253931-how-to-build-your-igloo.json](./253931-how-to-build-your-igloo.json) |
+| How to Catch Fish | 422692 | [422692-how-to-catch-fish.json](./422692-how-to-catch-fish.json) |
 | How to Chicken 101 | 181399 | [181399-how-to-chicken-101.json](./181399-how-to-chicken-101.json) |
 | How to Color LOL Surprise Dolls | 96980 | [96980-how-to-color-lol-surprise-dolls.json](./96980-how-to-color-lol-surprise-dolls.json) |
 | How to Cope with Boredom and Loneliness | 91280 | [91280-how-to-cope-with-boredom-and-loneliness.json](./91280-how-to-cope-with-boredom-and-loneliness.json) |
