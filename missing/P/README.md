@@ -3854,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawarumi | 22799 | [22799-pawarumi.json](./22799-pawarumi.json) |
 | Pawarumi: Limited Edition | 167051 | [167051-pawarumi-limited-edition.json](./167051-pawarumi-limited-edition.json) |
 | Pawbay | 381357 | [381357-pawbay.json](./381357-pawbay.json) |
+| Pawcel: Bounce | 430217 | [430217-pawcel-bounce.json](./430217-pawcel-bounce.json) |
 | Pawelek the Game. | 320035 | [320035-pawelek-the-game.json](./320035-pawelek-the-game.json) |
 | Pawfect Cat Mansion | 314862 | [314862-pawfect-cat-mansion.json](./314862-pawfect-cat-mansion.json) |
 | Pawfect Cat Mansion: Deluxe Edition | 320677 | [320677-pawfect-cat-mansion-deluxe-edition.json](./320677-pawfect-cat-mansion-deluxe-edition.json) |
@@ -7365,6 +7366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piffsy | 159990 | [159990-piffsy.json](./159990-piffsy.json) |
 | Pig | 367569 | [367569-pig.json](./367569-pig.json) |
 | Pig & Chikin | 341576 | [341576-pig-and-chikin.json](./341576-pig-and-chikin.json) |
+| Pig Boss | 430253 | [430253-pig-boss.json](./430253-pig-boss.json) |
 | Pig Bros Adventure | 214729 | [214729-pig-bros-adventure.json](./214729-pig-bros-adventure.json) |
 | Pig Commander | 391028 | [391028-pig-commander.json](./391028-pig-commander.json) |
 | Pig Eat Ball | 36022 | [36022-pig-eat-ball.json](./36022-pig-eat-ball.json) |
@@ -13048,6 +13050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Legends: Arceus | 144054 | [144054-pokemon-legends-arceus.json](./144054-pokemon-legends-arceus.json) |
 | Pokémon Legends: Arceus - Daybreak | 221843 | [221843-pokemon-legends-arceus-daybreak.json](./221843-pokemon-legends-arceus-daybreak.json) |
 | Pokémon Legends: Z-A - Mega Dimension | 366894 | [366894-pokemon-legends-z-a-mega-dimension.json](./366894-pokemon-legends-z-a-mega-dimension.json) |
+| Pokémon Legends: Z-A - Nintendo Switch 2 Edition + Mega Dimension | 430023 | [430023-pokemon-legends-z-a-nintendo-switch-2-edition-mega-dimension.json](./430023-pokemon-legends-z-a-nintendo-switch-2-edition-mega-dimension.json) |
 | Pokémon Light Platinum | 129821 | [129821-pokemon-light-platinum.json](./129821-pokemon-light-platinum.json) |
 | Pokemon Lightning Yellow | 365745 | [365745-pokemon-lightning-yellow.json](./365745-pokemon-lightning-yellow.json) |
 | Pokémon Lime Version | 359917 | [359917-pokemon-lime-version.json](./359917-pokemon-lime-version.json) |
@@ -19653,6 +19656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho-Pass: Mandatory Happiness - Limited Edition | 166186 | [166186-psycho-pass-mandatory-happiness-limited-edition.json](./166186-psycho-pass-mandatory-happiness-limited-edition.json) |
 | Psycho-Sleuth | 347036 | [347036-psycho-sleuth.json](./347036-psycho-sleuth.json) |
 | Psycho-unstable Journey | 180792 | [180792-psycho-unstable-journey.json](./180792-psycho-unstable-journey.json) |
+| Psychoballistica: Project Return Fire | 429910 | [429910-psychoballistica-project-return-fire.json](./429910-psychoballistica-project-return-fire.json) |
 | Psychoballs | 89401 | [89401-psychoballs.json](./89401-psychoballs.json) |
 | Psychobouldering | 328974 | [328974-psychobouldering.json](./328974-psychobouldering.json) |
 | Psychocat: The Answer | 33811 | [33811-psychocat-the-answer.json](./33811-psychocat-the-answer.json) |
