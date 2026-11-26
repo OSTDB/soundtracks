@@ -6504,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go-Jin Senki | 80525 | [80525-go-jin-senki.json](./80525-go-jin-senki.json) |
 | Go-Kart | 246489 | [246489-go-kart.json](./246489-go-kart.json) |
 | Go-Kart Racing 2 | 369178 | [369178-go-kart-racing-2.json](./369178-go-kart-racing-2.json) |
+| Go-Kart Racing 3 | 430222 | [430222-go-kart-racing-3.json](./430222-go-kart-racing-3.json) |
 | Go-Kart Simulator | 326417 | [326417-go-kart-simulator.json](./326417-go-kart-simulator.json) |
 | Go-Kart Simulator | 419552 | [419552-go-kart-simulator.json](./419552-go-kart-simulator.json) |
 | Go, Diego, Go: Wolf Pup Rescue | 72293 | [72293-go-diego-go-wolf-pup-rescue.json](./72293-go-diego-go-wolf-pup-rescue.json) |
@@ -12057,6 +12058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild of Guardians | 297391 | [297391-guild-of-guardians.json](./297391-guild-of-guardians.json) |
 | Guild of Heroes | 58462 | [58462-guild-of-heroes.json](./58462-guild-of-heroes.json) |
 | Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
+| Guild of Monster Girls | 429869 | [429869-guild-of-monster-girls.json](./429869-guild-of-monster-girls.json) |
 | Guild of Monsters | 369175 | [369175-guild-of-monsters.json](./369175-guild-of-monsters.json) |
 | Guild of Rogues | 271626 | [271626-guild-of-rogues.json](./271626-guild-of-rogues.json) |
 | Guild of Slayers | 374121 | [374121-guild-of-slayers.json](./374121-guild-of-slayers.json) |
