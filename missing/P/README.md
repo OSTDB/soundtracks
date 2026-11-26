@@ -1472,7 +1472,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pango | 293329 | [293329-pango.json](./293329-pango.json) |
 | Pango and friends | 89705 | [89705-pango-and-friends.json](./89705-pango-and-friends.json) |
 | Pango Blocks | 87889 | [87889-pango-blocks.json](./87889-pango-blocks.json) |
-| Pango Build City | 89761 | [89761-pango-build-city.json](./89761-pango-build-city.json) |
 | Pango Build Park | 87724 | [87724-pango-build-park.json](./87724-pango-build-park.json) |
 | Pango Build Safari | 105768 | [105768-pango-build-safari.json](./105768-pango-build-safari.json) |
 | Pango Hide and seek | 90706 | [90706-pango-hide-and-seek.json](./90706-pango-hide-and-seek.json) |
@@ -4341,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak: The Dillydally Update | 375509 | [375509-peak-the-dillydally-update.json](./375509-peak-the-dillydally-update.json) |
 | Peak: The Final Ascent | 412529 | [412529-peak-the-final-ascent.json](./412529-peak-the-final-ascent.json) |
 | Peak: The Mesa Update | 363305 | [363305-peak-the-mesa-update.json](./363305-peak-the-mesa-update.json) |
+| Peak: The Roots Update | 413651 | [413651-peak-the-roots-update.json](./413651-peak-the-roots-update.json) |
 | Peak.53 | 233308 | [233308-peak-53.json](./233308-peak-53.json) |
 | Peak’s Edge | 365118 | [365118-peak-s-edge.json](./365118-peak-s-edge.json) |
 | Peaked Climbing | 360550 | [360550-peaked-climbing.json](./360550-peaked-climbing.json) |
@@ -5539,6 +5539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 1 | 413924 | [413924-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-1.json](./413924-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-1.json) |
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 2 | 415618 | [415618-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-2.json](./415618-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-2.json) |
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 3 | 428405 | [428405-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3.json](./428405-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3.json) |
+| Persona5: The Phantom X - Summer! Swimsuits! Sea Time! Part One | 414863 | [414863-persona5-the-phantom-x-summer-swimsuits-sea-time-part-one.json](./414863-persona5-the-phantom-x-summer-swimsuits-sea-time-part-one.json) |
 | Persona5: The Phantom X - Swords and Roses | 427203 | [427203-persona5-the-phantom-x-swords-and-roses.json](./427203-persona5-the-phantom-x-swords-and-roses.json) |
 | Persona5: The Phantom X - The Revenge Fox | 412804 | [412804-persona5-the-phantom-x-the-revenge-fox.json](./412804-persona5-the-phantom-x-the-revenge-fox.json) |
 | Persona5: The Phantom X - Virtual Sweetheart | 412741 | [412741-persona5-the-phantom-x-virtual-sweetheart.json](./412741-persona5-the-phantom-x-virtual-sweetheart.json) |
@@ -7501,6 +7502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikabuu: Stop! | 357230 | [357230-pikabuu-stop.json](./357230-pikabuu-stop.json) |
 | Pikachin-Kit: Game de Pirameki Daisakusen | 111828 | [111828-pikachin-kit-game-de-pirameki-daisakusen.json](./111828-pikachin-kit-game-de-pirameki-daisakusen.json) |
 | Pikachu | 247269 | [247269-pikachu.json](./247269-pikachu.json) |
+| Pikachu for the Rescue | 416887 | [416887-pikachu-for-the-rescue.json](./416887-pikachu-for-the-rescue.json) |
 | Pikachu Teeth Problem | 380551 | [380551-pikachu-teeth-problem.json](./380551-pikachu-teeth-problem.json) |
 | Pikachu Volleyball | 349641 | [349641-pikachu-volleyball.json](./349641-pikachu-volleyball.json) |
 | Pikapo | 427834 | [427834-pikapo.json](./427834-pikapo.json) |
@@ -17344,7 +17346,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Model | 169229 | [169229-private-model.json](./169229-private-model.json) |
 | Private Nurse | 92791 | [92791-private-nurse.json](./92791-private-nurse.json) |
 | Private Property | 199378 | [199378-private-property.json](./199378-private-property.json) |
-| Private School Days | 89760 | [89760-private-school-days.json](./89760-private-school-days.json) |
 | Private Ward: VIP Floor - She Was My Nurse | 385821 | [385821-private-ward-vip-floor-she-was-my-nurse.json](./385821-private-ward-vip-floor-she-was-my-nurse.json) |
 | Private: Pornmania | 254545 | [254545-private-pornmania.json](./254545-private-pornmania.json) |
 | Privateer | 269222 | [269222-privateer.json](./269222-privateer.json) |
