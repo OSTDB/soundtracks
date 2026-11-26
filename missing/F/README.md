@@ -1882,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Party: 30 Great Games | 50964 | [50964-family-party-30-great-games.json](./50964-family-party-30-great-games.json) |
 | Family Party: 30 Great Games Obstacle Arcade | 5312 | [5312-family-party-30-great-games-obstacle-arcade.json](./5312-family-party-30-great-games-obstacle-arcade.json) |
 | Family Party: 30 Great Games Outdoor Fun | 50999 | [50999-family-party-30-great-games-outdoor-fun.json](./50999-family-party-30-great-games-outdoor-fun.json) |
+| Family Party: 30 Great Games Winter Fun | 23360 | [23360-family-party-30-great-games-winter-fun.json](./23360-family-party-30-great-games-winter-fun.json) |
 | Family Party: Fitness Fun | 24360 | [24360-family-party-fitness-fun.json](./24360-family-party-fitness-fun.json) |
 | Family Pet Dog Games | 296744 | [296744-family-pet-dog-games.json](./296744-family-pet-dog-games.json) |
 | Family Picross! | 142069 | [142069-family-picross.json](./142069-family-picross.json) |
@@ -6955,6 +6956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire in the Beastlands | 189211 | [189211-fire-in-the-beastlands.json](./189211-fire-in-the-beastlands.json) |
 | Fire in the Dark | 346696 | [346696-fire-in-the-dark.json](./346696-fire-in-the-dark.json) |
 | Fire in the Dark | 380759 | [380759-fire-in-the-dark.json](./380759-fire-in-the-dark.json) |
+| Fire in the Girl | 430212 | [430212-fire-in-the-girl.json](./430212-fire-in-the-girl.json) |
 | Fire in the Goal | 31170 | [31170-fire-in-the-goal.json](./31170-fire-in-the-goal.json) |
 | Fire in the hole | 102451 | [102451-fire-in-the-hole.json](./102451-fire-in-the-hole.json) |
 | Fire in the Hole | 375228 | [375228-fire-in-the-hole.json](./375228-fire-in-the-hole.json) |
