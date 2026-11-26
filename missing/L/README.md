@@ -1502,7 +1502,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Egg Standing | 387437 | [387437-last-egg-standing.json](./387437-last-egg-standing.json) |
 | Last Embryo: Either of Brave to Story | 163754 | [163754-last-embryo-either-of-brave-to-story.json](./163754-last-embryo-either-of-brave-to-story.json) |
 | Last Emperor | 258554 | [258554-last-emperor.json](./258554-last-emperor.json) |
-| Last Empire: War Z | 88093 | [88093-last-empire-war-z.json](./88093-last-empire-war-z.json) |
 | Last Encounter | 80927 | [80927-last-encounter.json](./80927-last-encounter.json) |
 | Last Epoch: "Golden Guppy" the Baby Chronowyrm | 286564 | [286564-last-epoch-golden-guppy-the-baby-chronowyrm.json](./286564-last-epoch-golden-guppy-the-baby-chronowyrm.json) |
 | Last Epoch: Adolescent Chronowyrm | 286565 | [286565-last-epoch-adolescent-chronowyrm.json](./286565-last-epoch-adolescent-chronowyrm.json) |
@@ -4923,7 +4922,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexispell | 376482 | [376482-lexispell.json](./376482-lexispell.json) |
 | Lexit | 58226 | [58226-lexit.json](./58226-lexit.json) |
 | Lexual | 58227 | [58227-lexual.json](./58227-lexual.json) |
-| Lexulous Word Game | 88525 | [88525-lexulous-word-game.json](./88525-lexulous-word-game.json) |
 | Lexy Lightspeed: Escape From Earth | 137867 | [137867-lexy-lightspeed-escape-from-earth.json](./137867-lexy-lightspeed-escape-from-earth.json) |
 | Lexy Lightspeed: Secret Agent Showdown | 137937 | [137937-lexy-lightspeed-secret-agent-showdown.json](./137937-lexy-lightspeed-secret-agent-showdown.json) |
 | Lexy's Labyrinth | 356000 | [356000-lexys-labyrinth.json](./356000-lexys-labyrinth.json) |
@@ -8234,7 +8232,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lokopolis | 232216 | [232216-lokopolis.json](./232216-lokopolis.json) |
 | LOL | 124474 | [124474-lol.json](./124474-lol.json) |
 | LOL Dolls - lol surprise game | 98829 | [98829-lol-dolls-lol-surprise-game.json](./98829-lol-dolls-lol-surprise-game.json) |
-| LoL Kart | 88819 | [88819-lol-kart.json](./88819-lol-kart.json) |
 | LoL Sketch | 181186 | [181186-lol-sketch.json](./181186-lol-sketch.json) |
 | LOL Surprise Confetti POP | 89779 | [89779-lol-surprise-confetti-pop.json](./89779-lol-surprise-confetti-pop.json) |
 | LOL Surprise dolls | 103689 | [103689-lol-surprise-dolls.json](./103689-lol-surprise-dolls.json) |
@@ -8243,9 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
 | Lola: The Escape | 170930 | [170930-lola-the-escape.json](./170930-lola-the-escape.json) |
 | Lola's ABC Party | 85257 | [85257-lolas-abc-party.json](./85257-lolas-abc-party.json) |
-| Lola's ABC Party - Learn to Read | 88344 | [88344-lolas-abc-party-learn-to-read.json](./88344-lolas-abc-party-learn-to-read.json) |
 | Lola's Alphabet Train | 85256 | [85256-lolas-alphabet-train.json](./85256-lolas-alphabet-train.json) |
-| Lola's Alphabet Train - Learn to Read | 88577 | [88577-lolas-alphabet-train-learn-to-read.json](./88577-lolas-alphabet-train-learn-to-read.json) |
 | Lola's Beach Puzzle | 88106 | [88106-lolas-beach-puzzle.json](./88106-lolas-beach-puzzle.json) |
 | Lola’s Familiars: Prison of Argnoh | 405232 | [405232-lola-s-familiars-prison-of-argnoh.json](./405232-lola-s-familiars-prison-of-argnoh.json) |
 | Lola's Fruit Shop Sudoku | 85255 | [85255-lolas-fruit-shop-sudoku.json](./85255-lolas-fruit-shop-sudoku.json) |
@@ -8560,7 +8555,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look / Don't | 419599 | [419599-look-dont.json](./419599-look-dont.json) |
 | Look Alive | 150817 | [150817-look-alive.json](./150817-look-alive.json) |
 | Look and Find: Curiosity | 170297 | [170297-look-and-find-curiosity.json](./170297-look-and-find-curiosity.json) |
-| Look and Find: Elmo on Sesame Street | 88402 | [88402-look-and-find-elmo-on-sesame-street.json](./88402-look-and-find-elmo-on-sesame-street.json) |
 | Look and Guess a Word! | 108198 | [108198-look-and-guess-a-word.json](./108198-look-and-guess-a-word.json) |
 | Look At Me | 285564 | [285564-look-at-me.json](./285564-look-at-me.json) |
 | Look At Me | 327452 | [327452-look-at-me.json](./327452-look-at-me.json) |
@@ -10083,7 +10077,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Delivery | 185632 | [185632-love-delivery.json](./185632-love-delivery.json) |
 | Love Delivery2 | 274014 | [274014-love-delivery2.json](./274014-love-delivery2.json) |
 | Love Doki-doki! Yakusoku no Basho! Sweet Melody! | 214096 | [214096-love-doki-doki-yakusoku-no-basho-sweet-melody.json](./214096-love-doki-doki-yakusoku-no-basho-sweet-melody.json) |
-| Love Dots | 88160 | [88160-love-dots.json](./88160-love-dots.json) |
 | Love Drops | 204395 | [204395-love-drops.json](./204395-love-drops.json) |
 | Love Drops: Miracle Doukyo Monogatari | 204393 | [204393-love-drops-miracle-doukyo-monogatari.json](./204393-love-drops-miracle-doukyo-monogatari.json) |
 | Love Drunk | 340633 | [340633-love-drunk.json](./340633-love-drunk.json) |
