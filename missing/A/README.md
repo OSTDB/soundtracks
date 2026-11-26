@@ -19534,6 +19534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Agnes | 189154 | [189154-atelier-agnes.json](./189154-atelier-agnes.json) |
 | Atelier Ayesha Plus: The Alchemist of Dusk | 44473 | [44473-atelier-ayesha-plus-the-alchemist-of-dusk.json](./44473-atelier-ayesha-plus-the-alchemist-of-dusk.json) |
 | Atelier Ayesha: The Alchemist of Dusk | 7278 | [7278-atelier-ayesha-the-alchemist-of-dusk.json](./7278-atelier-ayesha-the-alchemist-of-dusk.json) |
+| Atelier Ayesha: The Alchemist of Dusk - Premium Box | 419931 | [419931-atelier-ayesha-the-alchemist-of-dusk-premium-box.json](./419931-atelier-ayesha-the-alchemist-of-dusk-premium-box.json) |
 | Atelier Ayesha: The Alchemist of Dusk DX | 122748 | [122748-atelier-ayesha-the-alchemist-of-dusk-dx.json](./122748-atelier-ayesha-the-alchemist-of-dusk-dx.json) |
 | Atelier Dusk Trilogy Deluxe Pack | 125186 | [125186-atelier-dusk-trilogy-deluxe-pack.json](./125186-atelier-dusk-trilogy-deluxe-pack.json) |
 | Atelier Dusk Trilogy Deluxe Pack: Limited Premium Box Set | 136825 | [136825-atelier-dusk-trilogy-deluxe-pack-limited-premium-box-set.json](./136825-atelier-dusk-trilogy-deluxe-pack-limited-premium-box-set.json) |
