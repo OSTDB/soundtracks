@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vantage Master Portable | 196855 | [196855-vantage-master-portable.json](./196855-vantage-master-portable.json) |
 | Vantage Tactics | 429678 | [429678-vantage-tactics.json](./429678-vantage-tactics.json) |
 | Vantageous | 197016 | [197016-vantageous.json](./197016-vantageous.json) |
+| Vantari | 431090 | [431090-vantari.json](./431090-vantari.json) |
 | Vantastic | 293563 | [293563-vantastic.json](./293563-vantastic.json) |
 | Vanya Online | 410719 | [410719-vanya-online.json](./410719-vanya-online.json) |
 | VanySlash | 297333 | [297333-vanyslash.json](./297333-vanyslash.json) |
@@ -2045,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vexed | 284163 | [284163-vexed.json](./284163-vexed.json) |
 | Vexed | 311947 | [311947-vexed.json](./311947-vexed.json) |
 | Vexed Heroes | 261419 | [261419-vexed-heroes.json](./261419-vexed-heroes.json) |
+| Vexillord | 430876 | [430876-vexillord.json](./430876-vexillord.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
 | Vexlands | 249036 | [249036-vexlands.json](./249036-vexlands.json) |
 | Vexle | 409228 | [409228-vexle.json](./409228-vexle.json) |
