@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.O.O.L: Master labyrinth puzzles | 147565 | [147565-b-o-o-l-master-labyrinth-puzzles.json](./147565-b-o-o-l-master-labyrinth-puzzles.json) |
 | B.O.O.M.: You Win | 134770 | [134770-b-o-o-m-you-win.json](./134770-b-o-o-m-you-win.json) |
 | B.o.o.o. | 178676 | [178676-b-o-o-o.json](./178676-b-o-o-o.json) |
+| B.O.S.S. | 431100 | [431100-b-o-s-s.json](./431100-b-o-s-s.json) |
 | B.O.T.S. and the Robofriends | 129982 | [129982-b-o-t-s-and-the-robofriends.json](./129982-b-o-t-s-and-the-robofriends.json) |
 | B.O.T.S.S.: Battle of the Solar System | 254972 | [254972-b-o-t-s-s-battle-of-the-solar-system.json](./254972-b-o-t-s-s-battle-of-the-solar-system.json) |
 | B.O.W II VR | 251830 | [251830-b-o-w-ii-vr.json](./251830-b-o-w-ii-vr.json) |
@@ -1611,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bali Adventure | 25519 | [25519-bali-adventure.json](./25519-bali-adventure.json) |
 | Balikaw | 390132 | [390132-balikaw.json](./390132-balikaw.json) |
 | Balingo | 423079 | [423079-balingo.json](./423079-balingo.json) |
+| Balitti | 430875 | [430875-balitti.json](./430875-balitti.json) |
 | Balium | 292951 | [292951-balium.json](./292951-balium.json) |
 | Balkadia | 129618 | [129618-balkadia.json](./129618-balkadia.json) |
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
@@ -2510,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banned Memories: Yamanashi | 54981 | [54981-banned-memories-yamanashi.json](./54981-banned-memories-yamanashi.json) |
 | Banned Tapes | 333650 | [333650-banned-tapes.json](./333650-banned-tapes.json) |
 | Banned Together | 350457 | [350457-banned-together.json](./350457-banned-together.json) |
+| Banner Born | 431099 | [431099-banner-born.json](./431099-banner-born.json) |
 | Banner Kings | 356153 | [356153-banner-kings.json](./356153-banner-kings.json) |
 | Banner of Blood | 211090 | [211090-banner-of-blood.json](./211090-banner-of-blood.json) |
 | Banner of Conquest | 333421 | [333421-banner-of-conquest.json](./333421-banner-of-conquest.json) |
@@ -8816,6 +8819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Tiddy Goth Baddie | 417765 | [417765-big-tiddy-goth-baddie.json](./417765-big-tiddy-goth-baddie.json) |
 | Big Tiddy Goth GF Simulator | 136571 | [136571-big-tiddy-goth-gf-simulator.json](./136571-big-tiddy-goth-gf-simulator.json) |
 | Big Time Gangsta | 316758 | [316758-big-time-gangsta.json](./316758-big-time-gangsta.json) |
+| Big Time Monkey | 430881 | [430881-big-time-monkey.json](./430881-big-time-monkey.json) |
 | Big Time Rush: Backstage Pass | 47874 | [47874-big-time-rush-backstage-pass.json](./47874-big-time-rush-backstage-pass.json) |
 | Big Time Rush: Dance Party | 50625 | [50625-big-time-rush-dance-party.json](./50625-big-time-rush-dance-party.json) |
 | Big Time Sports | 123691 | [123691-big-time-sports.json](./123691-big-time-sports.json) |
