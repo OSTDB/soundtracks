@@ -3720,6 +3720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Retro Racing | 403098 | [403098-incremental-retro-racing.json](./403098-incremental-retro-racing.json) |
 | Incremental RTS | 430129 | [430129-incremental-rts.json](./430129-incremental-rts.json) |
 | Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
+| Incremental Space Defense Force League | 431102 | [431102-incremental-space-defense-force-league.json](./431102-incremental-space-defense-force-league.json) |
 | Incremental Town RPG | 295173 | [295173-incremental-town-rpg.json](./295173-incremental-town-rpg.json) |
 | Incremental Traffic | 426642 | [426642-incremental-traffic.json](./426642-incremental-traffic.json) |
 | Incremental Wars | 414707 | [414707-incremental-wars.json](./414707-incremental-wars.json) |
