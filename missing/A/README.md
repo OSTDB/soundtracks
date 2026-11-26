@@ -6095,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricola | 88316 | [88316-agricola.json](./88316-agricola.json) |
 | Agricola Revised Edition | 281851 | [281851-agricola-revised-edition.json](./281851-agricola-revised-edition.json) |
 | Agricola: All Creatures Big and Small | 24025 | [24025-agricola-all-creatures-big-and-small.json](./24025-agricola-all-creatures-big-and-small.json) |
+| Agricola: The King's Farmer | 431018 | [431018-agricola-the-kings-farmer.json](./431018-agricola-the-kings-farmer.json) |
 | Agricultural Simulator 2011 | 9537 | [9537-agricultural-simulator-2011.json](./9537-agricultural-simulator-2011.json) |
 | Agricultural Simulator 2011: Extended Edition | 28720 | [28720-agricultural-simulator-2011-extended-edition.json](./28720-agricultural-simulator-2011-extended-edition.json) |
 | Agricultural Simulator 2011: Gold Edition | 52374 | [52374-agricultural-simulator-2011-gold-edition.json](./52374-agricultural-simulator-2011-gold-edition.json) |
@@ -8931,6 +8932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
 | All the Mons | 387071 | [387071-all-the-mons.json](./387071-all-the-mons.json) |
 | All The Places You'll Go (Women As Place) | 393497 | [393497-all-the-places-youll-go-women-as-place.json](./393497-all-the-places-youll-go-women-as-place.json) |
+| All the Presents! | 431048 | [431048-all-the-presents.json](./431048-all-the-presents.json) |
 | All the Promised Burn: An Yssaia Game | 430101 | [430101-all-the-promised-burn-an-yssaia-game.json](./430101-all-the-promised-burn-an-yssaia-game.json) |
 | All The Stars | 364866 | [364866-all-the-stars.json](./364866-all-the-stars.json) |
 | All the Way Down | 171978 | [171978-all-the-way-down.json](./171978-all-the-way-down.json) |
