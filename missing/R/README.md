@@ -3668,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Divinos | 200824 | [200824-realm-of-divinos.json](./200824-realm-of-divinos.json) |
 | Realm of Dread | 265306 | [265306-realm-of-dread.json](./265306-realm-of-dread.json) |
 | Realm of Embers | 423987 | [423987-realm-of-embers.json](./423987-realm-of-embers.json) |
+| Realm of Forgotten Souls | 430007 | [430007-realm-of-forgotten-souls.json](./430007-realm-of-forgotten-souls.json) |
 | Realm of Gems | 302010 | [302010-realm-of-gems.json](./302010-realm-of-gems.json) |
 | Realm of Heroes | 167257 | [167257-realm-of-heroes.json](./167257-realm-of-heroes.json) |
 | Realm Of I | 291547 | [291547-realm-of-i.json](./291547-realm-of-i.json) |
