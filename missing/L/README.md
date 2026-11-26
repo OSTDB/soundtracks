@@ -2400,7 +2400,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Mystère de la fleur de verre | 413039 | [413039-le-mystere-de-la-fleur-de-verre.json](./413039-le-mystere-de-la-fleur-de-verre.json) |
 | Le Ninja Game | 429146 | [429146-le-ninja-game.json](./429146-le-ninja-game.json) |
 | Le Pacte | 304056 | [304056-le-pacte.json](./304056-le-pacte.json) |
-| Le Parcours | 89734 | [89734-le-parcours.json](./89734-le-parcours.json) |
 | Le Parker: Sous Chef Extraordinaire | 99102 | [99102-le-parker-sous-chef-extraordinaire.json](./99102-le-parker-sous-chef-extraordinaire.json) |
 | Le pays d'Adibou | 307626 | [307626-le-pays-dadibou.json](./307626-le-pays-dadibou.json) |
 | Le Pendu en Français | 89464 | [89464-le-pendu-en-francais.json](./89464-le-pendu-en-francais.json) |
@@ -7903,6 +7902,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lockheart Indigo | 121956 | [121956-lockheart-indigo.json](./121956-lockheart-indigo.json) |
 | Lockheed Martin: Prepar3D | 79992 | [79992-lockheed-martin-prepar3d.json](./79992-lockheed-martin-prepar3d.json) |
 | Lockjaw | 297327 | [297327-lockjaw.json](./297327-lockjaw.json) |
+| Lockjaw: The Overdose | 416518 | [416518-lockjaw-the-overdose.json](./416518-lockjaw-the-overdose.json) |
+| LockLine | 420541 | [420541-lockline.json](./420541-lockline.json) |
 | Lockpicks-11 | 415331 | [415331-lockpicks-11.json](./415331-lockpicks-11.json) |
 | Locks | 199452 | [199452-locks.json](./199452-locks.json) |
 | Locksmith | 413897 | [413897-locksmith.json](./413897-locksmith.json) |
@@ -10922,7 +10923,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Star: Ryouou Gakuen Outousai - DX Pack | 214143 | [214143-lucky-star-ryouou-gakuen-outousai-dx-pack.json](./214143-lucky-star-ryouou-gakuen-outousai-dx-pack.json) |
 | Lucky Star: Ryouou Gakuen Outousai Portable | 213692 | [213692-lucky-star-ryouou-gakuen-outousai-portable.json](./213692-lucky-star-ryouou-gakuen-outousai-portable.json) |
 | Lucky Stars - Pop All the Stars in Sky | 99206 | [99206-lucky-stars-pop-all-the-stars-in-sky.json](./99206-lucky-stars-pop-all-the-stars-in-sky.json) |
-| Lucky Stars 2 | 89722 | [89722-lucky-stars-2.json](./89722-lucky-stars-2.json) |
 | Lucky Stars Video Slots | 175990 | [175990-lucky-stars-video-slots.json](./175990-lucky-stars-video-slots.json) |
 | Lucky Stars: Special Edition | 107711 | [107711-lucky-stars-special-edition.json](./107711-lucky-stars-special-edition.json) |
 | Lucky Streak Poker | 54176 | [54176-lucky-streak-poker.json](./54176-lucky-streak-poker.json) |
