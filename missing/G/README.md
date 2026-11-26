@@ -5192,7 +5192,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Like A Dreaming Two in a Restless Night | 391854 | [391854-girl-like-a-dreaming-two-in-a-restless-night.json](./391854-girl-like-a-dreaming-two-in-a-restless-night.json) |
 | Girl Like A Dreaming: Flowering Sacrifice | 284490 | [284490-girl-like-a-dreaming-flowering-sacrifice.json](./284490-girl-like-a-dreaming-flowering-sacrifice.json) |
 | Girl Meets Princess | 82841 | [82841-girl-meets-princess.json](./82841-girl-meets-princess.json) |
-| Girl Nail Art | 87708 | [87708-girl-nail-art.json](./87708-girl-nail-art.json) |
 | Girl Next Door | 169406 | [169406-girl-next-door.json](./169406-girl-next-door.json) |
 | Girl of the Ruins | 390891 | [390891-girl-of-the-ruins.json](./390891-girl-of-the-ruins.json) |
 | Girl Purgatoriem | 343365 | [343365-girl-purgatoriem.json](./343365-girl-purgatoriem.json) |
@@ -5291,7 +5290,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Go Fashion Party | 358589 | [358589-girls-go-fashion-party.json](./358589-girls-go-fashion-party.json) |
 | Girls Guns and Zombies | 169532 | [169532-girls-guns-and-zombies.json](./169532-girls-guns-and-zombies.json) |
 | Girls Gym | 237483 | [237483-girls-gym.json](./237483-girls-gym.json) |
-| Girls Hair Salon | 88026 | [88026-girls-hair-salon.json](./88026-girls-hair-salon.json) |
 | Girls Hobby in Love | 278922 | [278922-girls-hobby-in-love.json](./278922-girls-hobby-in-love.json) |
 | Girls in Glasses | 151326 | [151326-girls-in-glasses.json](./151326-girls-in-glasses.json) |
 | Girls in Pajamas | 259067 | [259067-girls-in-pajamas.json](./259067-girls-in-pajamas.json) |
