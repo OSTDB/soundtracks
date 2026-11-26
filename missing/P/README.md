@@ -1815,7 +1815,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Taco Mia! | 141320 | [141320-papas-taco-mia.json](./141320-papas-taco-mia.json) |
 | Papa's Time Machine | 96843 | [96843-papas-time-machine.json](./96843-papas-time-machine.json) |
 | Papa's Wingeria | 130765 | [130765-papas-wingeria.json](./130765-papas-wingeria.json) |
-| Papa's Wingeria HD | 88960 | [88960-papas-wingeria-hd.json](./88960-papas-wingeria-hd.json) |
 | Papabile | 420058 | [420058-papabile.json](./420058-papabile.json) |
 | Papair | 57148 | [57148-papair.json](./57148-papair.json) |
 | Papao: The Legend of the Bogeyman | 372544 | [372544-papao-the-legend-of-the-bogeyman.json](./372544-papao-the-legend-of-the-bogeyman.json) |
@@ -2922,7 +2921,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Posse | 154049 | [154049-parkour-posse.json](./154049-parkour-posse.json) |
 | Parkour Rewrite | 350749 | [350749-parkour-rewrite.json](./350749-parkour-rewrite.json) |
 | Parkour Simulator | 377589 | [377589-parkour-simulator.json](./377589-parkour-simulator.json) |
-| Parkour Simulator | 89265 | [89265-parkour-simulator.json](./89265-parkour-simulator.json) |
 | Parkour Simulator 2026 | 386784 | [386784-parkour-simulator-2026.json](./386784-parkour-simulator-2026.json) |
 | Parkour Simulator 3D | 87303 | [87303-parkour-simulator-3d.json](./87303-parkour-simulator-3d.json) |
 | Parkour Tag | 163991 | [163991-parkour-tag.json](./163991-parkour-tag.json) |
@@ -9931,7 +9929,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Survivors: Defense | 374632 | [374632-pixel-survivors-defense.json](./374632-pixel-survivors-defense.json) |
 | Pixel Survivors: Roguelike | 204156 | [204156-pixel-survivors-roguelike.json](./204156-pixel-survivors-roguelike.json) |
 | Pixel Sweepers | 259244 | [259244-pixel-sweepers.json](./259244-pixel-sweepers.json) |
-| Pixel Sword Fish io | 89109 | [89109-pixel-sword-fish-io.json](./89109-pixel-sword-fish-io.json) |
 | Pixel Tactics Online | 148131 | [148131-pixel-tactics-online.json](./148131-pixel-tactics-online.json) |
 | Pixel Tank | 247319 | [247319-pixel-tank.json](./247319-pixel-tank.json) |
 | Pixel Tank War | 96409 | [96409-pixel-tank-war.json](./96409-pixel-tank-war.json) |
@@ -14162,7 +14159,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Evolution | 232599 | [232599-polygon-evolution.json](./232599-polygon-evolution.json) |
 | Polygon Fantasy | 193813 | [193813-polygon-fantasy.json](./193813-polygon-fantasy.json) |
 | Polygon Fantasy Battle Simulator | 270007 | [270007-polygon-fantasy-battle-simulator.json](./270007-polygon-fantasy-battle-simulator.json) |
-| Polygon Flight | 89572 | [89572-polygon-flight.json](./89572-polygon-flight.json) |
 | Polygon Hell 4D | 295575 | [295575-polygon-hell-4d.json](./295575-polygon-hell-4d.json) |
 | Polygon Hero | 43364 | [43364-polygon-hero.json](./43364-polygon-hero.json) |
 | Polygon Hunter | 154745 | [154745-polygon-hunter.json](./154745-polygon-hunter.json) |
@@ -16261,7 +16257,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preschool & Kindergarten Games | 88268 | [88268-preschool-and-kindergarten-games.json](./88268-preschool-and-kindergarten-games.json) |
 | Preschool ABC Number and Letter Puzzle Game | 88355 | [88355-preschool-abc-number-and-letter-puzzle-game.json](./88355-preschool-abc-number-and-letter-puzzle-game.json) |
 | Preschool All-In-One | 99138 | [99138-preschool-all-in-one.json](./99138-preschool-all-in-one.json) |
-| Preschool Car Truck and Engine Jigsaw Puzzle | 89169 | [89169-preschool-car-truck-and-engine-jigsaw-puzzle.json](./89169-preschool-car-truck-and-engine-jigsaw-puzzle.json) |
 | Preschool Colors Toys Train | 99719 | [99719-preschool-colors-toys-train.json](./99719-preschool-colors-toys-train.json) |
 | Preschool EduKidsRoom | 87266 | [87266-preschool-edukidsroom.json](./87266-preschool-edukidsroom.json) |
 | Preschool EduKitchen | 90799 | [90799-preschool-edukitchen.json](./90799-preschool-edukitchen.json) |
@@ -21471,7 +21466,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Tower | 129089 | [129089-puzzle-tower.json](./129089-puzzle-tower.json) |
 | Puzzle Tower: Underground | 163542 | [163542-puzzle-tower-underground.json](./163542-puzzle-tower-underground.json) |
 | Puzzle toys | 268979 | [268979-puzzle-toys.json](./268979-puzzle-toys.json) |
-| Puzzle Trains | 89276 | [89276-puzzle-trains.json](./89276-puzzle-trains.json) |
 | Puzzle Uo Poko | 39984 | [39984-puzzle-uo-poko.json](./39984-puzzle-uo-poko.json) |
 | Puzzle Vacations: Australia and New Zealand | 278495 | [278495-puzzle-vacations-australia-and-new-zealand.json](./278495-puzzle-vacations-australia-and-new-zealand.json) |
 | Puzzle Vacations: Christmas | 275443 | [275443-puzzle-vacations-christmas.json](./275443-puzzle-vacations-christmas.json) |
