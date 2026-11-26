@@ -5604,7 +5604,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TetraTower | 183506 | [183506-tetratower.json](./183506-tetratower.json) |
 | TetraVex | 17262 | [17262-tetravex.json](./17262-tetravex.json) |
 | Tetrenga | 344147 | [344147-tetrenga.json](./344147-tetrenga.json) |
-| Tetri-Pentix | 87930 | [87930-tetri-pentix.json](./87930-tetri-pentix.json) |
 | Tetrible | 184434 | [184434-tetrible.json](./184434-tetrible.json) |
 | Tetric | 421999 | [421999-tetric.json](./421999-tetric.json) |
 | Tetrigram | 195489 | [195489-tetrigram.json](./195489-tetrigram.json) |
@@ -7667,7 +7666,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Block Box | 114103 | [114103-the-block-box.json](./114103-the-block-box.json) |
 | The Blockade | 370877 | [370877-the-blockade.json](./370877-the-blockade.json) |
 | The Blockheads | 39213 | [39213-the-blockheads.json](./39213-the-blockheads.json) |
-| The Blockheads Server | 87690 | [87690-the-blockheads-server.json](./87690-the-blockheads-server.json) |
 | The Blocks Cometh | 66103 | [66103-the-blocks-cometh.json](./66103-the-blocks-cometh.json) |
 | The Blocks Returneth | 298826 | [298826-the-blocks-returneth.json](./298826-the-blocks-returneth.json) |
 | The Blocks Shoot At You | 226604 | [226604-the-blocks-shoot-at-you.json](./226604-the-blocks-shoot-at-you.json) |
@@ -9138,7 +9136,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Revenant | 169110 | [169110-the-cursed-revenant.json](./169110-the-cursed-revenant.json) |
 | The Cursed Revolver | 28237 | [28237-the-cursed-revolver.json](./28237-the-cursed-revolver.json) |
 | The Cursed Ritual | 322035 | [322035-the-cursed-ritual.json](./322035-the-cursed-ritual.json) |
-| The Cursed Ship Collector's Edition | 87864 | [87864-the-cursed-ship-collectors-edition.json](./87864-the-cursed-ship-collectors-edition.json) |
 | The Cursed Tape | 302677 | [302677-the-cursed-tape.json](./302677-the-cursed-tape.json) |
 | The Cursed Tower | 83617 | [83617-the-cursed-tower.json](./83617-the-cursed-tower.json) |
 | The Cursed Underground Parking Lot | 344351 | [344351-the-cursed-underground-parking-lot.json](./344351-the-cursed-underground-parking-lot.json) |
@@ -12271,6 +12268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hatchling | 348508 | [348508-the-hatchling.json](./348508-the-hatchling.json) |
 | The Hate Flow | 261454 | [261454-the-hate-flow.json](./261454-the-hate-flow.json) |
 | The Hateful Dead | 31367 | [31367-the-hateful-dead.json](./31367-the-hateful-dead.json) |
+| The Haunted Cat Mansion: Help Me Cats | 416086 | [416086-the-haunted-cat-mansion-help-me-cats.json](./416086-the-haunted-cat-mansion-help-me-cats.json) |
 | The Haunted Dolls | 157181 | [157181-the-haunted-dolls.json](./157181-the-haunted-dolls.json) |
 | The Haunted Exmone Theatre | 155727 | [155727-the-haunted-exmone-theatre.json](./155727-the-haunted-exmone-theatre.json) |
 | The Haunted Farm | 274937 | [274937-the-haunted-farm.json](./274937-the-haunted-farm.json) |
@@ -17550,6 +17548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Poppit! Show | 206250 | [206250-the-poppit-show.json](./206250-the-poppit-show.json) |
 | The Population Must Grow | 366738 | [366738-the-population-must-grow.json](./366738-the-population-must-grow.json) |
 | The Portal Dimension | 121323 | [121323-the-portal-dimension.json](./121323-the-portal-dimension.json) |
+| The Portal Plus Collection | 416364 | [416364-the-portal-plus-collection.json](./416364-the-portal-plus-collection.json) |
 | The Portopia Serial Murder Case | 48358 | [48358-the-portopia-serial-murder-case.json](./48358-the-portopia-serial-murder-case.json) |
 | The Possession Experiment | 402683 | [402683-the-possession-experiment.json](./402683-the-possession-experiment.json) |
 | The Posthumous Investigation | 255719 | [255719-the-posthumous-investigation.json](./255719-the-posthumous-investigation.json) |
@@ -21913,7 +21912,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way of Joy | 238771 | [238771-the-way-of-joy.json](./238771-the-way-of-joy.json) |
 | The Way Of Kings | 296606 | [296606-the-way-of-kings.json](./296606-the-way-of-kings.json) |
 | The Way of Kings: Escape the Shattered Plains | 87860 | [87860-the-way-of-kings-escape-the-shattered-plains.json](./87860-the-way-of-kings-escape-the-shattered-plains.json) |
-| The Way of Kings: Escape the Shattered Plains! | 88009 | [88009-the-way-of-kings-escape-the-shattered-plains.json](./88009-the-way-of-kings-escape-the-shattered-plains.json) |
 | The Way of Knight | 335235 | [335235-the-way-of-knight.json](./335235-the-way-of-knight.json) |
 | The Way of Life | 15326 | [15326-the-way-of-life.json](./15326-the-way-of-life.json) |
 | The Way of Life: Free Edition | 36291 | [36291-the-way-of-life-free-edition.json](./36291-the-way-of-life-free-edition.json) |
@@ -22981,7 +22979,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Are Coming! | 173283 | [173283-they-are-coming.json](./173283-they-are-coming.json) |
 | They are Confined | 229758 | [229758-they-are-confined.json](./229758-they-are-confined.json) |
 | They Are Here: Alien Abduction Horror | 152446 | [152446-they-are-here-alien-abduction-horror.json](./152446-they-are-here-alien-abduction-horror.json) |
-| They Are Hundreds | 87954 | [87954-they-are-hundreds.json](./87954-they-are-hundreds.json) |
 | They are in the Trees | 224640 | [224640-they-are-in-the-trees.json](./224640-they-are-in-the-trees.json) |
 | They Are Rising | 392135 | [392135-they-are-rising.json](./392135-they-are-rising.json) |
 | They Bite! | 288620 | [288620-they-bite.json](./288620-they-bite.json) |
@@ -29650,7 +29647,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Troops Strategy | 307868 | [307868-toon-troops-strategy.json](./307868-toon-troops-strategy.json) |
 | Toon Tumble | 243873 | [243873-toon-tumble.json](./243873-toon-tumble.json) |
 | Toon War | 86238 | [86238-toon-war.json](./86238-toon-war.json) |
-| Toon Wars: Tank Battles | 87898 | [87898-toon-wars-tank-battles.json](./87898-toon-wars-tank-battles.json) |
 | Toon-Doku | 20700 | [20700-toon-doku.json](./20700-toon-doku.json) |
 | Tooncop | 260249 | [260249-tooncop.json](./260249-tooncop.json) |
 | Tooned Out Duo Dippin | 373760 | [373760-tooned-out-duo-dippin.json](./373760-tooned-out-duo-dippin.json) |
@@ -35947,7 +35943,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Dungeon | 187256 | [187256-trigger-dungeon.json](./187256-trigger-dungeon.json) |
 | Trigger Fever | 254657 | [254657-trigger-fever.json](./254657-trigger-fever.json) |
 | Trigger Finger | 77589 | [77589-trigger-finger.json](./77589-trigger-finger.json) |
-| Trigger Fist | 87739 | [87739-trigger-fist.json](./87739-trigger-fist.json) |
 | Trigger Happy | 174806 | [174806-trigger-happy.json](./174806-trigger-happy.json) |
 | Trigger Heart Exelica Enhanced | 43476 | [43476-trigger-heart-exelica-enhanced.json](./43476-trigger-heart-exelica-enhanced.json) |
 | Trigger Henry | 212075 | [212075-trigger-henry.json](./212075-trigger-henry.json) |
@@ -36541,7 +36536,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Hearts | 226444 | [226444-tropical-hearts.json](./226444-tropical-hearts.json) |
 | Tropical Heat Jet Ski Racing | 63155 | [63155-tropical-heat-jet-ski-racing.json](./63155-tropical-heat-jet-ski-racing.json) |
 | Tropical Jurassic Discovery | 429659 | [429659-tropical-jurassic-discovery.json](./429659-tropical-jurassic-discovery.json) |
-| Tropical Liquor | 87764 | [87764-tropical-liquor.json](./87764-tropical-liquor.json) |
 | Tropical Lost Island | 394417 | [394417-tropical-lost-island.json](./394417-tropical-lost-island.json) |
 | Tropical Lost Island | 394420 | [394420-tropical-lost-island.json](./394420-tropical-lost-island.json) |
 | Tropical Paradise: Town Island | 182013 | [182013-tropical-paradise-town-island.json](./182013-tropical-paradise-town-island.json) |
@@ -36895,7 +36889,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
 | True Abstraction: Plus | 265598 | [265598-true-abstraction-plus.json](./265598-true-abstraction-plus.json) |
 | True Abstraction: Rewind | 264538 | [264538-true-abstraction-rewind.json](./264538-true-abstraction-rewind.json) |
-| True Backgammon HD | 87922 | [87922-true-backgammon-hd.json](./87922-true-backgammon-hd.json) |
 | True Backrooms | 288557 | [288557-true-backrooms.json](./288557-true-backrooms.json) |
 | True Beauty | 242019 | [242019-true-beauty.json](./242019-true-beauty.json) |
 | True Blades | 36725 | [36725-true-blades.json](./36725-true-blades.json) |
@@ -38673,7 +38666,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisty Planets Space Puzzle | 83577 | [83577-twisty-planets-space-puzzle.json](./83577-twisty-planets-space-puzzle.json) |
 | Twisty Puzzle Simulator | 115995 | [115995-twisty-puzzle-simulator.json](./115995-twisty-puzzle-simulator.json) |
 | Twisty Puzzle World | 264536 | [264536-twisty-puzzle-world.json](./264536-twisty-puzzle-world.json) |
-| Twisty Road! | 87660 | [87660-twisty-road.json](./87660-twisty-road.json) |
 | Twisty Tiles | 100637 | [100637-twisty-tiles.json](./100637-twisty-tiles.json) |
 | Twisty Tracks | 73999 | [73999-twisty-tracks.json](./73999-twisty-tracks.json) |
 | Twisty Tube | 104387 | [104387-twisty-tube.json](./104387-twisty-tube.json) |
