@@ -2302,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Heights | 57596 | [57596-paradise-heights.json](./57596-paradise-heights.json) |
 | Paradise Heights GB | 330593 | [330593-paradise-heights-gb.json](./330593-paradise-heights-gb.json) |
 | Paradise Homeland | 217242 | [217242-paradise-homeland.json](./217242-paradise-homeland.json) |
+| Paradise in a Room | 430869 | [430869-paradise-in-a-room.json](./430869-paradise-in-a-room.json) |
 | Paradise in Microdot | 293282 | [293282-paradise-in-microdot.json](./293282-paradise-in-microdot.json) |
 | Paradise Inc | 368095 | [368095-paradise-inc.json](./368095-paradise-inc.json) |
 | Paradise Island | 16588 | [16588-paradise-island.json](./16588-paradise-island.json) |
@@ -3200,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paso Comic PuruPuru Paradise: Santa Claus Tokushuu | 62213 | [62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json](./62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json) |
 | Paso Pico McDonald's de Asobo! | 202088 | [202088-paso-pico-mcdonalds-de-asobo.json](./202088-paso-pico-mcdonalds-de-asobo.json) |
 | PASS | 360680 | [360680-pass.json](./360680-pass.json) |
+| Pass and Play Games | 430872 | [430872-pass-and-play-games.json](./430872-pass-and-play-games.json) |
 | PASS Fortress | 342965 | [342965-pass-fortress.json](./342965-pass-fortress.json) |
 | Pass On | 183076 | [183076-pass-on.json](./183076-pass-on.json) |
 | Pass Problems | 264555 | [264555-pass-problems.json](./264555-pass-problems.json) |
@@ -20281,6 +20283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punk-o-Matic | 243144 | [243144-punk-o-matic.json](./243144-punk-o-matic.json) |
 | Punk-o-Matic 2 | 201931 | [201931-punk-o-matic-2.json](./201931-punk-o-matic-2.json) |
 | Punk's Not Dead | 50373 | [50373-punks-not-dead.json](./50373-punks-not-dead.json) |
+| Punkcake Buffet | 430885 | [430885-punkcake-buffet.json](./430885-punkcake-buffet.json) |
 | Punkgrad | 165743 | [165743-punkgrad.json](./165743-punkgrad.json) |
 | Punks Not Dead | 83938 | [83938-punks-not-dead.json](./83938-punks-not-dead.json) |
 | Punky Doodle | 322536 | [322536-punky-doodle.json](./322536-punky-doodle.json) |
