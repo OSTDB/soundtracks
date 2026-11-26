@@ -5382,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Destiny 2 | 10683 | [10683-fighter-destiny-2.json](./10683-fighter-destiny-2.json) |
 | Fighter Duel | 93268 | [93268-fighter-duel.json](./93268-fighter-duel.json) |
 | Fighter Duel Pro 2 | 37216 | [37216-fighter-duel-pro-2.json](./37216-fighter-duel-pro-2.json) |
+| Fighter Jet Simulator: Ace Fight | 421474 | [421474-fighter-jet-simulator-ace-fight.json](./421474-fighter-jet-simulator-ace-fight.json) |
 | Fighter Mage Bard | 58705 | [58705-fighter-mage-bard.json](./58705-fighter-mage-bard.json) |
 | Fighter Maker | 4636 | [4636-fighter-maker.json](./4636-fighter-maker.json) |
 | Fighter Maker 2 | 43644 | [43644-fighter-maker-2.json](./43644-fighter-maker-2.json) |
@@ -12637,6 +12638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Found | 422717 | [422717-found.json](./422717-found.json) |
 | Found Horror Game 11.exe | 74626 | [74626-found-horror-game-11-exe.json](./74626-found-horror-game-11-exe.json) |
 | Found it! | 283289 | [283289-found-it.json](./283289-found-it.json) |
+| Found It!: Lost & Found Co. | 419160 | [419160-found-it-lost-and-found-co.json](./419160-found-it-lost-and-found-co.json) |
 | Found: A Hidden Object Adventure | 111322 | [111322-found-a-hidden-object-adventure.json](./111322-found-a-hidden-object-adventure.json) |
 | Found'It | 183994 | [183994-foundit.json](./183994-foundit.json) |
 | Foundation | 88392 | [88392-foundation.json](./88392-foundation.json) |
