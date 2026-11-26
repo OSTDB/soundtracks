@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Age of Camelot: Shrouded Isles | 22229 | [22229-dark-age-of-camelot-shrouded-isles.json](./22229-dark-age-of-camelot-shrouded-isles.json) |
 | Dark Age: Tokens of the Fallen | 420292 | [420292-dark-age-tokens-of-the-fallen.json](./420292-dark-age-tokens-of-the-fallen.json) |
 | Dark Ages | 11726 | [11726-dark-ages.json](./11726-dark-ages.json) |
+| Dark Ages | 72251 | [72251-dark-ages.json](./72251-dark-ages.json) |
 | Dark Ages: Asa no Konai Basho | 69409 | [69409-dark-ages-asa-no-konai-basho.json](./69409-dark-ages-asa-no-konai-basho.json) |
 | Dark Ages: Volume I - Prince of Destiny | 70337 | [70337-dark-ages-volume-i-prince-of-destiny.json](./70337-dark-ages-volume-i-prince-of-destiny.json) |
 | Dark Alley | 420537 | [420537-dark-alley.json](./420537-dark-alley.json) |
@@ -11218,7 +11219,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Puzzler World | 239497 | [239497-dino-puzzler-world.json](./239497-dino-puzzler-world.json) |
 | Dino Quake | 372038 | [372038-dino-quake.json](./372038-dino-quake.json) |
 | Dino Quest | 392472 | [392472-dino-quest.json](./392472-dino-quest.json) |
-| Dino R-r-age Defense | 88103 | [88103-dino-r-r-age-defense.json](./88103-dino-r-r-age-defense.json) |
 | Dino Race: Dinosaur Ride Ranch | 284487 | [284487-dino-race-dinosaur-ride-ranch.json](./284487-dino-race-dinosaur-ride-ranch.json) |
 | Dino Ramen Express | 328414 | [328414-dino-ramen-express.json](./328414-dino-ramen-express.json) |
 | Dino Rampage 3D | 106627 | [106627-dino-rampage-3d.json](./106627-dino-rampage-3d.json) |
@@ -14054,7 +14054,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokis World | 269030 | [269030-dokis-world.json](./269030-dokis-world.json) |
 | DokiSui: Doki-doki Suikoden | 278827 | [278827-dokisui-doki-doki-suikoden.json](./278827-dokisui-doki-doki-suikoden.json) |
 | Dokitale: Last Goodbye to the Literature Club | 429693 | [429693-dokitale-last-goodbye-to-the-literature-club.json](./429693-dokitale-last-goodbye-to-the-literature-club.json) |
-| Dokkaebi Hentai Adventures | 88073 | [88073-dokkaebi-hentai-adventures.json](./88073-dokkaebi-hentai-adventures.json) |
 | Dokkaebi Kiugi: Bangchihyeong Geim | 228166 | [228166-dokkaebi-kiugi-bangchihyeong-geim.json](./228166-dokkaebi-kiugi-bangchihyeong-geim.json) |
 | Dokkaebi-ga Ganda | 39916 | [39916-dokkaebi-ga-ganda.json](./39916-dokkaebi-ga-ganda.json) |
 | Dokkalfheim Magical University | 278526 | [278526-dokkalfheim-magical-university.json](./278526-dokkalfheim-magical-university.json) |
@@ -14318,7 +14317,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominium Mundi | 164940 | [164940-dominium-mundi.json](./164940-dominium-mundi.json) |
 | Domino | 77152 | [77152-domino.json](./77152-domino.json) |
 | Domino | 81081 | [81081-domino.json](./81081-domino.json) |
-| Domino | 88838 | [88838-domino.json](./88838-domino.json) |
 | Dominó | 230650 | [230650-domino.json](./230650-domino.json) |
 | Dominó | 364434 | [364434-domino.json](./364434-domino.json) |
 | Domino Clicker | 295802 | [295802-domino-clicker.json](./295802-domino-clicker.json) |
@@ -15177,7 +15175,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God Blitz: World of Magic | 169000 | [169000-doodle-god-blitz-world-of-magic.json](./169000-doodle-god-blitz-world-of-magic.json) |
 | Doodle God Bundle | 119072 | [119072-doodle-god-bundle.json](./119072-doodle-god-bundle.json) |
 | Doodle God Griddlers | 197992 | [197992-doodle-god-griddlers.json](./197992-doodle-god-griddlers.json) |
-| Doodle God HD | 88467 | [88467-doodle-god-hd.json](./88467-doodle-god-hd.json) |
 | Doodle God Solitaire | 294521 | [294521-doodle-god-solitaire.json](./294521-doodle-god-solitaire.json) |
 | Doodle God Ultimate Collection | 118153 | [118153-doodle-god-ultimate-collection.json](./118153-doodle-god-ultimate-collection.json) |
 | Doodle God Universe | 159559 | [159559-doodle-god-universe.json](./159559-doodle-god-universe.json) |
@@ -15233,7 +15230,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Truck | 254315 | [254315-doodle-truck.json](./254315-doodle-truck.json) |
 | Doodle Truck 2 | 249663 | [249663-doodle-truck-2.json](./249663-doodle-truck-2.json) |
 | Doodle UFO | 246972 | [246972-doodle-ufo.json](./246972-doodle-ufo.json) |
-| Doodle War | 88102 | [88102-doodle-war.json](./88102-doodle-war.json) |
 | Doodle Wars Heroes | 174181 | [174181-doodle-wars-heroes.json](./174181-doodle-wars-heroes.json) |
 | Doodle What?! | 32153 | [32153-doodle-what.json](./32153-doodle-what.json) |
 | Doodle Wipeout | 390195 | [390195-doodle-wipeout.json](./390195-doodle-wipeout.json) |
@@ -18538,7 +18534,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Day Wedding: Viva Las Vegas | 69118 | [69118-dream-day-wedding-viva-las-vegas.json](./69118-dream-day-wedding-viva-las-vegas.json) |
 | Dream Day: First Home | 209171 | [209171-dream-day-first-home.json](./209171-dream-day-first-home.json) |
 | Dream Day: Honeymoon | 209172 | [209172-dream-day-honeymoon.json](./209172-dream-day-honeymoon.json) |
-| Dream Day: True Love | 88458 | [88458-dream-day-true-love.json](./88458-dream-day-true-love.json) |
 | Dream Day: Viva Las Vegas | 87284 | [87284-dream-day-viva-las-vegas.json](./87284-dream-day-viva-las-vegas.json) |
 | Dream Day: Wedding | 209173 | [209173-dream-day-wedding.json](./209173-dream-day-wedding.json) |
 | Dream Day: Wedding Destinations | 47781 | [47781-dream-day-wedding-destinations.json](./47781-dream-day-wedding-destinations.json) |
@@ -19046,7 +19041,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamshot Fantasia | 278914 | [278914-dreamshot-fantasia.json](./278914-dreamshot-fantasia.json) |
 | Dreamside Maroon | 146480 | [146480-dreamside-maroon.json](./146480-dreamside-maroon.json) |
 | Dreamslayer | 285058 | [285058-dreamslayer.json](./285058-dreamslayer.json) |
-| DreamSleuth: hidden object adventure quest lite | 88311 | [88311-dreamsleuth-hidden-object-adventure-quest-lite.json](./88311-dreamsleuth-hidden-object-adventure-quest-lite.json) |
 | Dreamsong | 185299 | [185299-dreamsong.json](./185299-dreamsong.json) |
 | Dreamspace | 222092 | [222092-dreamspace.json](./222092-dreamspace.json) |
 | Dreamspace | 323342 | [323342-dreamspace.json](./323342-dreamspace.json) |
@@ -19264,7 +19258,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Long Racing: SovietCity | 247337 | [247337-drift-long-racing-sovietcity.json](./247337-drift-long-racing-sovietcity.json) |
 | Drift Mania | 161412 | [161412-drift-mania.json](./161412-drift-mania.json) |
 | Drift Mania | 426421 | [426421-drift-mania.json](./426421-drift-mania.json) |
-| Drift Mania Championship | 88226 | [88226-drift-mania-championship.json](./88226-drift-mania-championship.json) |
 | Drift Mania Championship 2 | 104521 | [104521-drift-mania-championship-2.json](./104521-drift-mania-championship-2.json) |
 | Drift Mania: Street Outlaws | 38938 | [38938-drift-mania-street-outlaws.json](./38938-drift-mania-street-outlaws.json) |
 | Drift Market | 388757 | [388757-drift-market.json](./388757-drift-market.json) |
