@@ -19473,6 +19473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sin of Ritter | 422606 | [422606-the-sin-of-ritter.json](./422606-the-sin-of-ritter.json) |
 | The Singing Saw Simulator | 289963 | [289963-the-singing-saw-simulator.json](./289963-the-singing-saw-simulator.json) |
 | The Single-Eye Nightmare | 368992 | [368992-the-single-eye-nightmare.json](./368992-the-single-eye-nightmare.json) |
+| The Singularity | 431029 | [431029-the-singularity.json](./431029-the-singularity.json) |
 | The Singularity Complex | 261083 | [261083-the-singularity-complex.json](./261083-the-singularity-complex.json) |
 | The Singularity Trials | 139701 | [139701-the-singularity-trials.json](./139701-the-singularity-trials.json) |
 | The Sinister Fairground: Horror Adventure Gamebook | 175303 | [175303-the-sinister-fairground-horror-adventure-gamebook.json](./175303-the-sinister-fairground-horror-adventure-gamebook.json) |
@@ -32485,6 +32486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Journey | 382209 | [382209-train-journey.json](./382209-train-journey.json) |
 | Train Journey | 74118 | [74118-train-journey.json](./74118-train-journey.json) |
 | Train Jumble | 346917 | [346917-train-jumble.json](./346917-train-jumble.json) |
+| Train Keeper | 431077 | [431077-train-keeper.json](./431077-train-keeper.json) |
 | Train Kingdom | 226588 | [226588-train-kingdom.json](./226588-train-kingdom.json) |
 | Train Kit for A-Ressha de Ikou 2001 | 252186 | [252186-train-kit-for-a-ressha-de-ikou-2001.json](./252186-train-kit-for-a-ressha-de-ikou-2001.json) |
 | Train Life: A Railway Simulator | 163012 | [163012-train-life-a-railway-simulator.json](./163012-train-life-a-railway-simulator.json) |
