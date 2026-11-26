@@ -4135,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les 4 Alice: Lorange Journey | 107950 | [107950-les-4-alice-lorange-journey.json](./107950-les-4-alice-lorange-journey.json) |
 | Les aventures de Fierot | 173873 | [173873-les-aventures-de-fierot.json](./173873-les-aventures-de-fierot.json) |
 | Les Aventures de Pepito au Mexique | 342556 | [342556-les-aventures-de-pepito-au-mexique.json](./342556-les-aventures-de-pepito-au-mexique.json) |
+| Les Aventures de Steven | 420610 | [420610-les-aventures-de-steven.json](./420610-les-aventures-de-steven.json) |
 | Les aventures de T'choupi a l'ecole | 269653 | [269653-les-aventures-de-tchoupi-a-lecole.json](./269653-les-aventures-de-tchoupi-a-lecole.json) |
 | Les Cartes Poker | 415968 | [415968-les-cartes-poker.json](./415968-les-cartes-poker.json) |
 | Les Chairs Cruelles: Aishiau Touhi no Naka de | 396985 | [396985-les-chairs-cruelles-aishiau-touhi-no-naka-de.json](./396985-les-chairs-cruelles-aishiau-touhi-no-naka-de.json) |
@@ -4971,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lianhai Casino | 217048 | [217048-lianhai-casino.json](./217048-lianhai-casino.json) |
 | Lianliankan | 228208 | [228208-lianliankan.json](./228208-lianliankan.json) |
 | Lianthus | 138272 | [138272-lianthus.json](./138272-lianthus.json) |
+| Liànyǔ Bǐfāng | 422448 | [422448-lianyu-bifang.json](./422448-lianyu-bifang.json) |
 | Liàolǐ Luàndòu | 428031 | [428031-liaoli-luandou.json](./428031-liaoli-luandou.json) |
 | Liáozhāi Sōushénjì: Guófēng Kǎpái | 166861 | [166861-liaozhai-soushenji-guofeng-kapai.json](./166861-liaozhai-soushenji-guofeng-kapai.json) |
 | Liar & raiL FanDisk: Hotch Potch | 59171 | [59171-liar-and-rail-fandisk-hotch-potch.json](./59171-liar-and-rail-fandisk-hotch-potch.json) |
