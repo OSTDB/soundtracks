@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wagon | 258048 | [258048-wagon.json](./258048-wagon.json) |
 | Wagon 00 | 390998 | [390998-wagon-00.json](./390998-wagon-00.json) |
 | Wagon Gloom | 288474 | [288474-wagon-gloom.json](./288474-wagon-gloom.json) |
+| Wagon Keep | 431487 | [431487-wagon-keep.json](./431487-wagon-keep.json) |
 | Wagon Run | 430097 | [430097-wagon-run.json](./430097-wagon-run.json) |
 | Wagon Wreck | 109943 | [109943-wagon-wreck.json](./109943-wagon-wreck.json) |
 | Wagotabi | 283132 | [283132-wagotabi.json](./283132-wagotabi.json) |
@@ -4479,6 +4480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Time Is It | 168715 | [168715-what-time-is-it.json](./168715-what-time-is-it.json) |
 | What Time is it? | 372192 | [372192-what-time-is-it.json](./372192-what-time-is-it.json) |
 | What Trash? | 158684 | [158684-what-trash.json](./158684-what-trash.json) |
+| What Uncle Left | 431467 | [431467-what-uncle-left.json](./431467-what-uncle-left.json) |
 | What Walks on Four Legs | 341976 | [341976-what-walks-on-four-legs.json](./341976-what-walks-on-four-legs.json) |
 | What Was | 372210 | [372210-what-was.json](./372210-what-was.json) |
 | What Was Here? 1-Minute Memory Quiz!! | 420687 | [420687-what-was-here-1-minute-memory-quiz.json](./420687-what-was-here-1-minute-memory-quiz.json) |
@@ -6762,6 +6764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing of Alnam: Shouchiri no Sora no Achira he | 167100 | [167100-wing-of-alnam-shouchiri-no-sora-no-achira-he.json](./167100-wing-of-alnam-shouchiri-no-sora-no-achira-he.json) |
 | Wing of Darkness | 114756 | [114756-wing-of-darkness.json](./114756-wing-of-darkness.json) |
 | Wing of Darkness: Limited Edition | 140005 | [140005-wing-of-darkness-limited-edition.json](./140005-wing-of-darkness-limited-edition.json) |
+| Wing of Havoc | 431271 | [431271-wing-of-havoc.json](./431271-wing-of-havoc.json) |
 | Wing of Misadventure | 116065 | [116065-wing-of-misadventure.json](./116065-wing-of-misadventure.json) |
 | Wing Over | 67674 | [67674-wing-over.json](./67674-wing-over.json) |
 | Wing Over 2 | 67667 | [67667-wing-over-2.json](./67667-wing-over-2.json) |
