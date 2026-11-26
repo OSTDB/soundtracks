@@ -10766,6 +10766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Simple | 369322 | [369322-blackjack-simple.json](./369322-blackjack-simple.json) |
 | Blackjack Simulator 2024 | 266297 | [266297-blackjack-simulator-2024.json](./266297-blackjack-simulator-2024.json) |
 | Blackjack Simulator 2025 | 359000 | [359000-blackjack-simulator-2025.json](./359000-blackjack-simulator-2025.json) |
+| Blackjack Simulator 2026 | 430216 | [430216-blackjack-simulator-2026.json](./430216-blackjack-simulator-2026.json) |
 | Blackjack Simulator 2027 | 426352 | [426352-blackjack-simulator-2027.json](./426352-blackjack-simulator-2027.json) |
 | Blackjack story | 180119 | [180119-blackjack-story.json](./180119-blackjack-story.json) |
 | Blackjack Tavern | 325071 | [325071-blackjack-tavern.json](./325071-blackjack-tavern.json) |
@@ -11326,6 +11327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlasterBeat | 169654 | [169654-blasterbeat.json](./169654-blasterbeat.json) |
 | Blasterbug: Last Bug Standing | 414844 | [414844-blasterbug-last-bug-standing.json](./414844-blasterbug-last-bug-standing.json) |
 | Blastercell | 29146 | [29146-blastercell.json](./29146-blastercell.json) |
+| Blasteria | 430219 | [430219-blasteria.json](./430219-blasteria.json) |
 | Blastermancer | 363170 | [363170-blastermancer.json](./363170-blastermancer.json) |
 | Blasteroids | 11967 | [11967-blasteroids.json](./11967-blasteroids.json) |
 | Blasteroids | 371558 | [371558-blasteroids.json](./371558-blasteroids.json) |
@@ -19137,6 +19139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Hero | 246436 | [246436-bubble-hero.json](./246436-bubble-hero.json) |
 | Bubble Hero 2 | 266327 | [266327-bubble-hero-2.json](./266327-bubble-hero-2.json) |
 | Bubble Heroes Galaxy | 108243 | [108243-bubble-heroes-galaxy.json](./108243-bubble-heroes-galaxy.json) |
+| Bubble Hook Mania | 430211 | [430211-bubble-hook-mania.json](./430211-bubble-hook-mania.json) |
 | Bubble Hunt | 181071 | [181071-bubble-hunt.json](./181071-bubble-hunt.json) |
 | Bubble Investor | 361727 | [361727-bubble-investor.json](./361727-bubble-investor.json) |
 | Bubble Island | 412785 | [412785-bubble-island.json](./412785-bubble-island.json) |
