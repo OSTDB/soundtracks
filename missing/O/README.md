@@ -1906,7 +1906,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omamori | 185069 | [185069-omamori.json](./185069-omamori.json) |
 | OmanaC: C2 | 213882 | [213882-omanac-c2.json](./213882-omanac-c2.json) |
 | Omapeli | 284878 | [284878-omapeli.json](./284878-omapeli.json) |
-| Omar Sharif Bridge | 88800 | [88800-omar-sharif-bridge.json](./88800-omar-sharif-bridge.json) |
 | Omar Sharif Bridge II | 208997 | [208997-omar-sharif-bridge-ii.json](./208997-omar-sharif-bridge-ii.json) |
 | Omar Sharif on Bridge | 73490 | [73490-omar-sharif-on-bridge.json](./73490-omar-sharif-on-bridge.json) |
 | Omar's Oyster Outing | 53427 | [53427-omars-oyster-outing.json](./53427-omars-oyster-outing.json) |
@@ -4477,7 +4476,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OrbRider | 243525 | [243525-orbrider.json](./243525-orbrider.json) |
 | Orbrix | 390902 | [390902-orbrix.json](./390902-orbrix.json) |
 | Orbs | 43089 | [43089-orbs.json](./43089-orbs.json) |
-| Orbs Match | 88157 | [88157-orbs-match.json](./88157-orbs-match.json) |
 | Orbs of Chaos | 290743 | [290743-orbs-of-chaos.json](./290743-orbs-of-chaos.json) |
 | Orbs of Duality | 349114 | [349114-orbs-of-duality.json](./349114-orbs-of-duality.json) |
 | Orbs Orbs Orbs | 342160 | [342160-orbs-orbs-orbs.json](./342160-orbs-orbs-orbs.json) |
