@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops 6 - Season 5 | 362956 | [362956-call-of-duty-black-ops-6-season-5.json](./362956-call-of-duty-black-ops-6-season-5.json) |
 | Call of Duty: Black Ops 6 - Season 6 | 373569 | [373569-call-of-duty-black-ops-6-season-6.json](./373569-call-of-duty-black-ops-6-season-6.json) |
 | Call of Duty: Black Ops 6 - Vault Edition | 331251 | [331251-call-of-duty-black-ops-6-vault-edition.json](./331251-call-of-duty-black-ops-6-vault-edition.json) |
+| Call of Duty: Black Ops 7 - Vault Edition | 416010 | [416010-call-of-duty-black-ops-7-vault-edition.json](./416010-call-of-duty-black-ops-7-vault-edition.json) |
 | Call of Duty: Black Ops Cold War - Season Five | 165189 | [165189-call-of-duty-black-ops-cold-war-season-five.json](./165189-call-of-duty-black-ops-cold-war-season-five.json) |
 | Call of Duty: Black Ops Cold War - Season Four | 152117 | [152117-call-of-duty-black-ops-cold-war-season-four.json](./152117-call-of-duty-black-ops-cold-war-season-four.json) |
 | Call of Duty: Black Ops Cold War - Season One | 141574 | [141574-call-of-duty-black-ops-cold-war-season-one.json](./141574-call-of-duty-black-ops-cold-war-season-one.json) |
@@ -13860,7 +13861,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Lacrosse 2010 | 67607 | [67607-college-lacrosse-2010.json](./67607-college-lacrosse-2010.json) |
 | College Lacrosse 2011 | 61039 | [61039-college-lacrosse-2011.json](./61039-college-lacrosse-2011.json) |
 | College Lacrosse 2012 | 61036 | [61036-college-lacrosse-2012.json](./61036-college-lacrosse-2012.json) |
-| College Lacrosse 2014 | 87888 | [87888-college-lacrosse-2014.json](./87888-college-lacrosse-2014.json) |
 | College Love: Secrets From the Past | 342362 | [342362-college-love-secrets-from-the-past.json](./342362-college-love-secrets-from-the-past.json) |
 | College Quest | 404401 | [404401-college-quest.json](./404401-college-quest.json) |
 | College Seduction | 379536 | [379536-college-seduction.json](./379536-college-seduction.json) |
@@ -15120,7 +15120,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Operations - Shifting Sands | 75030 | [75030-command-modern-operations-shifting-sands.json](./75030-command-modern-operations-shifting-sands.json) |
 | Command: Modern Operations - Showcase Queen Elizabeth | 213026 | [213026-command-modern-operations-showcase-queen-elizabeth.json](./213026-command-modern-operations-showcase-queen-elizabeth.json) |
 | Command: Modern Operations - The Silent Service | 167875 | [167875-command-modern-operations-the-silent-service.json](./167875-command-modern-operations-the-silent-service.json) |
-| Command: Modern Operations - The Silent Service | 87941 | [87941-command-modern-operations-the-silent-service.json](./87941-command-modern-operations-the-silent-service.json) |
 | Command: Modern Operations Live - Aegean in Flames | 167869 | [167869-command-modern-operations-live-aegean-in-flames.json](./167869-command-modern-operations-live-aegean-in-flames.json) |
 | Command: Modern Operations Live - Black Gold Blitz | 167872 | [167872-command-modern-operations-live-black-gold-blitz.json](./167872-command-modern-operations-live-black-gold-blitz.json) |
 | Command: Modern Operations Live - Commonwealth Collision | 167881 | [167881-command-modern-operations-live-commonwealth-collision.json](./167881-command-modern-operations-live-commonwealth-collision.json) |
@@ -15860,7 +15859,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect Word | 352256 | [352256-connect-word.json](./352256-connect-word.json) |
 | Connect-X | 155761 | [155761-connect-x.json](./155761-connect-x.json) |
 | Connect'Em | 56949 | [56949-connectem.json](./56949-connectem.json) |
-| Connect/Words | 87696 | [87696-connect-words.json](./87696-connect-words.json) |
 | Connect01 | 105657 | [105657-connect01.json](./105657-connect01.json) |
 | ConnecTank | 152381 | [152381-connectank.json](./152381-connectank.json) |
 | Connected Clue | 278789 | [278789-connected-clue.json](./278789-connected-clue.json) |
@@ -18826,7 +18824,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft the World: Heart of Evil | 154959 | [154959-craft-the-world-heart-of-evil.json](./154959-craft-the-world-heart-of-evil.json) |
 | Craft The World: Invasion | 286536 | [286536-craft-the-world-invasion.json](./286536-craft-the-world-invasion.json) |
 | Craft the World: Lonely Mountain | 133892 | [133892-craft-the-world-lonely-mountain.json](./133892-craft-the-world-lonely-mountain.json) |
-| Craft the World: Pocket Edition | 87877 | [87877-craft-the-world-pocket-edition.json](./87877-craft-the-world-pocket-edition.json) |
 | Craft the World: Sisters in Arms | 51757 | [51757-craft-the-world-sisters-in-arms.json](./51757-craft-the-world-sisters-in-arms.json) |
 | Craft the World: Temples of 4 Elements | 124842 | [124842-craft-the-world-temples-of-4-elements.json](./124842-craft-the-world-temples-of-4-elements.json) |
 | Craft The World: Wonderwood | 333812 | [333812-craft-the-world-wonderwood.json](./333812-craft-the-world-wonderwood.json) |
@@ -19766,7 +19763,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Simulator | 128230 | [128230-crazy-simulator.json](./128230-crazy-simulator.json) |
 | Crazy Skies: Endless Arcade Flyer | 175560 | [175560-crazy-skies-endless-arcade-flyer.json](./175560-crazy-skies-endless-arcade-flyer.json) |
 | Crazy Snake | 234807 | [234807-crazy-snake.json](./234807-crazy-snake.json) |
-| Crazy Snowboard | 87553 | [87553-crazy-snowboard.json](./87553-crazy-snowboard.json) |
 | Crazy Soccer Mundial | 52322 | [52322-crazy-soccer-mundial.json](./52322-crazy-soccer-mundial.json) |
 | Crazy Sonic | 352784 | [352784-crazy-sonic.json](./352784-crazy-sonic.json) |
 | Crazy Space Goat Simulator 3D - 2 | 101960 | [101960-crazy-space-goat-simulator-3d-2.json](./101960-crazy-space-goat-simulator-3d-2.json) |
@@ -20160,7 +20156,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage Pro | 141872 | [141872-cribbage-pro.json](./141872-cribbage-pro.json) |
 | Cribbage Quest | 52328 | [52328-cribbage-quest.json](./52328-cribbage-quest.json) |
 | Cribbage With Grandpas | 94781 | [94781-cribbage-with-grandpas.json](./94781-cribbage-with-grandpas.json) |
-| Cribbage: Classic Card Game | 87704 | [87704-cribbage-classic-card-game.json](./87704-cribbage-classic-card-game.json) |
 | Cribbish | 333197 | [333197-cribbish.json](./333197-cribbish.json) |
 | Cricket | 79717 | [79717-cricket.json](./79717-cricket.json) |
 | Cricket 07 | 10619 | [10619-cricket-07.json](./10619-cricket-07.json) |
@@ -20226,7 +20221,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime City | 12016 | [12016-crime-city.json](./12016-crime-city.json) |
 | Crime City | 312643 | [312643-crime-city.json](./312643-crime-city.json) |
 | Crime City | 6784 | [6784-crime-city.json](./6784-crime-city.json) |
-| Crime Coast - Mob versus Mafia | 87665 | [87665-crime-coast-mob-versus-mafia.json](./87665-crime-coast-mob-versus-mafia.json) |
 | Crime Coast: Gangster's Paradise | 69379 | [69379-crime-coast-gangsters-paradise.json](./69379-crime-coast-gangsters-paradise.json) |
 | Crime Code | 96022 | [96022-crime-code.json](./96022-crime-code.json) |
 | Crime Corporation | 174829 | [174829-crime-corporation.json](./174829-crime-corporation.json) |
@@ -22867,7 +22861,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cup of Ethanol | 249281 | [249281-cup-of-ethanol.json](./249281-cup-of-ethanol.json) |
 | Cup of Tales | 429639 | [429639-cup-of-tales.json](./429639-cup-of-tales.json) |
 | Cupang Academy | 364218 | [364218-cupang-academy.json](./364218-cupang-academy.json) |
-| Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
 | Cupcake Clicker 4 | 231381 | [231381-cupcake-clicker-4.json](./231381-cupcake-clicker-4.json) |
 | Cupcake Doodle | 101424 | [101424-cupcake-doodle.json](./101424-cupcake-doodle.json) |
 | Cupcake Galaxy | 364784 | [364784-cupcake-galaxy.json](./364784-cupcake-galaxy.json) |
