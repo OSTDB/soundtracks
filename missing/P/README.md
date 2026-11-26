@@ -1470,7 +1470,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pangman | 150961 | [150961-pangman.json](./150961-pangman.json) |
 | Pango | 293329 | [293329-pango.json](./293329-pango.json) |
 | Pango and friends | 89705 | [89705-pango-and-friends.json](./89705-pango-and-friends.json) |
-| Pango Blocks | 87889 | [87889-pango-blocks.json](./87889-pango-blocks.json) |
 | Pango Build Park | 87724 | [87724-pango-build-park.json](./87724-pango-build-park.json) |
 | Pango Build Safari | 105768 | [105768-pango-build-safari.json](./105768-pango-build-safari.json) |
 | Pango Hide and seek | 90706 | [90706-pango-hide-and-seek.json](./90706-pango-hide-and-seek.json) |
@@ -2126,7 +2125,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PapiRubber | 87232 | [87232-papirubber.json](./87232-papirubber.json) |
 | PapiStep | 87235 | [87235-papistep.json](./87235-papistep.json) |
 | PapiSurvival | 87248 | [87248-papisurvival.json](./87248-papisurvival.json) |
-| PapiTap | 87528 | [87528-papitap.json](./87528-papitap.json) |
 | PapiWall | 87122 | [87122-papiwall.json](./87122-papiwall.json) |
 | Paplinko | 356139 | [356139-paplinko.json](./356139-paplinko.json) |
 | Paplion | 306428 | [306428-paplion.json](./306428-paplion.json) |
@@ -2817,7 +2815,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkasaurus: Sea Monsters | 195749 | [195749-parkasaurus-sea-monsters.json](./195749-parkasaurus-sea-monsters.json) |
 | Parkdens | 212059 | [212059-parkdens.json](./212059-parkdens.json) |
 | Parked in the Dark | 128281 | [128281-parked-in-the-dark.json](./128281-parked-in-the-dark.json) |
-| Parker & Lane | 87999 | [87999-parker-and-lane.json](./87999-parker-and-lane.json) |
 | Parker & Lane | 93881 | [93881-parker-and-lane.json](./93881-parker-and-lane.json) |
 | Parker & Lane: Criminal Justice | 112026 | [112026-parker-and-lane-criminal-justice.json](./112026-parker-and-lane-criminal-justice.json) |
 | Parker & Lane: Twisted Minds | 113777 | [113777-parker-and-lane-twisted-minds.json](./113777-parker-and-lane-twisted-minds.json) |
@@ -3098,7 +3095,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Killer | 177458 | [177458-party-killer.json](./177458-party-killer.json) |
 | Party Madness | 370323 | [370323-party-madness.json](./370323-party-madness.json) |
 | Party Mail | 47616 | [47616-party-mail.json](./47616-party-mail.json) |
-| Party Makeover Salon | 87923 | [87923-party-makeover-salon.json](./87923-party-makeover-salon.json) |
 | Party Maker | 234140 | [234140-party-maker.json](./234140-party-maker.json) |
 | Party Man | 321431 | [321431-party-man.json](./321431-party-man.json) |
 | Party Management | 360067 | [360067-party-management.json](./360067-party-management.json) |
@@ -5215,7 +5211,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Thog | 408732 | [408732-perfect-thog.json](./408732-perfect-thog.json) |
 | Perfect Tides | 169630 | [169630-perfect-tides.json](./169630-perfect-tides.json) |
 | Perfect Tides: Station to Station | 215695 | [215695-perfect-tides-station-to-station.json](./215695-perfect-tides-station-to-station.json) |
-| Perfect Tower | 87670 | [87670-perfect-tower.json](./87670-perfect-tower.json) |
 | Perfect Traffic Simulator | 140951 | [140951-perfect-traffic-simulator.json](./140951-perfect-traffic-simulator.json) |
 | Perfect Tritone | 395621 | [395621-perfect-tritone.json](./395621-perfect-tritone.json) |
 | Perfect Truck Bundle | 199780 | [199780-perfect-truck-bundle.json](./199780-perfect-truck-bundle.json) |
@@ -7072,6 +7067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Tower | 284301 | [284301-pico-tower.json](./284301-pico-tower.json) |
 | Pico Valley | 284039 | [284039-pico-valley.json](./284039-pico-valley.json) |
 | Pico vs. Bear | 331683 | [331683-pico-vs-bear.json](./331683-pico-vs-bear.json) |
+| Pico vs. Überkids | 405886 | [405886-pico-vs-uberkids.json](./405886-pico-vs-uberkids.json) |
 | Pico World Race | 218636 | [218636-pico-world-race.json](./218636-pico-world-race.json) |
 | Pico Zelda | 284127 | [284127-pico-zelda.json](./284127-pico-zelda.json) |
 | Pico Zombie Garden | 272657 | [272657-pico-zombie-garden.json](./272657-pico-zombie-garden.json) |
@@ -13830,7 +13826,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Chase Simulator: Highway Racers Pursuit | 371509 | [371509-police-chase-simulator-highway-racers-pursuit.json](./371509-police-chase-simulator-highway-racers-pursuit.json) |
 | Police Chase: Big City Race | 95913 | [95913-police-chase-big-city-race.json](./95913-police-chase-big-city-race.json) |
 | Police Chief | 426624 | [426624-police-chief.json](./426624-police-chief.json) |
-| Police Chopper | 87917 | [87917-police-chopper.json](./87917-police-chopper.json) |
 | Police Connection | 419032 | [419032-police-connection.json](./419032-police-connection.json) |
 | Police Cop Hot Pursuit | 256758 | [256758-police-cop-hot-pursuit.json](./256758-police-cop-hot-pursuit.json) |
 | Police Department 3D | 216107 | [216107-police-department-3d.json](./216107-police-department-3d.json) |
@@ -14236,7 +14231,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyRace | 34928 | [34928-polyrace.json](./34928-polyrace.json) |
 | Polyrhythm Mania | 182445 | [182445-polyrhythm-mania.json](./182445-polyrhythm-mania.json) |
 | Polyrhythm Master | 235175 | [235175-polyrhythm-master.json](./235175-polyrhythm-master.json) |
-| Polyroll | 87936 | [87936-polyroll.json](./87936-polyroll.json) |
 | Polyroll Pocket | 258399 | [258399-polyroll-pocket.json](./258399-polyroll-pocket.json) |
 | Polyrose | 350139 | [350139-polyrose.json](./350139-polyrose.json) |
 | PolyRoyale | 364034 | [364034-polyroyale.json](./364034-polyroyale.json) |
@@ -21496,7 +21490,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle World: Funny Dogs | 305620 | [305620-puzzle-world-funny-dogs.json](./305620-puzzle-world-funny-dogs.json) |
 | Puzzle World: Neko Girls | 300852 | [300852-puzzle-world-neko-girls.json](./300852-puzzle-world-neko-girls.json) |
 | Puzzle X: Model Girls | 420661 | [420661-puzzle-x-model-girls.json](./420661-puzzle-x-model-girls.json) |
-| Puzzle XL | 87705 | [87705-puzzle-xl.json](./87705-puzzle-xl.json) |
 | Puzzle XP Championship | 209371 | [209371-puzzle-xp-championship.json](./209371-puzzle-xp-championship.json) |
 | Puzzle XP Championship 2 | 209372 | [209372-puzzle-xp-championship-2.json](./209372-puzzle-xp-championship-2.json) |
 | Puzzle-slider Puzzle | 359316 | [359316-puzzle-slider-puzzle.json](./359316-puzzle-slider-puzzle.json) |
