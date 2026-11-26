@@ -1644,7 +1644,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tiny Sticker Tale: Magic Book Edition | 350791 | [350791-a-tiny-sticker-tale-magic-book-edition.json](./350791-a-tiny-sticker-tale-magic-book-edition.json) |
 | A Tiny Wander | 324887 | [324887-a-tiny-wander.json](./324887-a-tiny-wander.json) |
 | A Tithe in Blood | 304683 | [304683-a-tithe-in-blood.json](./304683-a-tithe-in-blood.json) |
-| A to Z | 88792 | [88792-a-to-z.json](./88792-a-to-z.json) |
 | A to Zap! Featuring the Sunbuddies | 293313 | [293313-a-to-zap-featuring-the-sunbuddies.json](./293313-a-to-zap-featuring-the-sunbuddies.json) |
 | A toad well travelled | 207190 | [207190-a-toad-well-travelled.json](./207190-a-toad-well-travelled.json) |
 | A Toast for the End Times | 395139 | [395139-a-toast-for-the-end-times.json](./395139-a-toast-for-the-end-times.json) |
@@ -2273,7 +2272,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Memory Match | 99415 | [99415-abc-memory-match.json](./99415-abc-memory-match.json) |
 | ABC Monday Night Football | 11884 | [11884-abc-monday-night-football.json](./11884-abc-monday-night-football.json) |
 | ABC Monday Night Football '98 | 62319 | [62319-abc-monday-night-football-98.json](./62319-abc-monday-night-football-98.json) |
-| ABC Mysteriez: Hidden Letters | 88604 | [88604-abc-mysteriez-hidden-letters.json](./88604-abc-mysteriez-hidden-letters.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
 | ABC Paint | 107971 | [107971-abc-paint.json](./107971-abc-paint.json) |
 | ABC Preschool car truck and engine dot puzzles | 88725 | [88725-abc-preschool-car-truck-and-engine-dot-puzzles.json](./88725-abc-preschool-car-truck-and-engine-dot-puzzles.json) |
@@ -2699,7 +2697,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Cards | 398037 | [398037-abyss-cards.json](./398037-abyss-cards.json) |
 | Abyss Cave | 35789 | [35789-abyss-cave.json](./35789-abyss-cave.json) |
 | Abyss Chaser | 332446 | [332446-abyss-chaser.json](./332446-abyss-chaser.json) |
-| Abyss Crawlers Plus | 88465 | [88465-abyss-crawlers-plus.json](./88465-abyss-crawlers-plus.json) |
 | Abyss Crew | 87938 | [87938-abyss-crew.json](./87938-abyss-crew.json) |
 | Abyss Deck: Deckbuilding Roguelike | 373159 | [373159-abyss-deck-deckbuilding-roguelike.json](./373159-abyss-deck-deckbuilding-roguelike.json) |
 | Abyss Defence | 350313 | [350313-abyss-defence.json](./350313-abyss-defence.json) |
@@ -3962,7 +3959,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adorate | 362874 | [362874-adorate.json](./362874-adorate.json) |
 | Adore | 117843 | [117843-adore.json](./117843-adore.json) |
 | Adore Picture Difference: Long Distance Love | 102894 | [102894-adore-picture-difference-long-distance-love.json](./102894-adore-picture-difference-long-distance-love.json) |
-| Adore Picture Difference: Long Distance Love Lite | 88560 | [88560-adore-picture-difference-long-distance-love-lite.json](./88560-adore-picture-difference-long-distance-love-lite.json) |
 | Adore Puzzle | 99711 | [99711-adore-puzzle.json](./99711-adore-puzzle.json) |
 | Adore Puzzle 2 | 99712 | [99712-adore-puzzle-2.json](./99712-adore-puzzle-2.json) |
 | Adorimon: Adventure of Monster | 245341 | [245341-adorimon-adventure-of-monster.json](./245341-adorimon-adventure-of-monster.json) |
@@ -4506,7 +4502,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure the Four Swords | 179576 | [179576-adventure-the-four-swords.json](./179576-adventure-the-four-swords.json) |
 | Adventure Thru 8-Bit Land | 85670 | [85670-adventure-thru-8-bit-land.json](./85670-adventure-thru-8-bit-land.json) |
 | Adventure Time | 377497 | [377497-adventure-time.json](./377497-adventure-time.json) |
-| Adventure Time Game Wizard: Draw Your Own Adventure Time Games | 88096 | [88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json](./88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json) |
 | Adventure Time Lemon Break | 381998 | [381998-adventure-time-lemon-break.json](./381998-adventure-time-lemon-break.json) |
 | Adventure Time Puzzle Quest | 19952 | [19952-adventure-time-puzzle-quest.json](./19952-adventure-time-puzzle-quest.json) |
 | Adventure Time Run: The Ooo Expedition | 109985 | [109985-adventure-time-run-the-ooo-expedition.json](./109985-adventure-time-run-the-ooo-expedition.json) |
@@ -6526,7 +6521,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Brigade | 338656 | [338656-air-brigade.json](./338656-air-brigade.json) |
 | Air Bucks | 14230 | [14230-air-bucks.json](./14230-air-bucks.json) |
 | Air Cavalry | 42737 | [42737-air-cavalry.json](./42737-air-cavalry.json) |
-| Air Cavalry PRO | 88128 | [88128-air-cavalry-pro.json](./88128-air-cavalry-pro.json) |
 | Air Cavalry: Flight Simulator | 246427 | [246427-air-cavalry-flight-simulator.json](./246427-air-cavalry-flight-simulator.json) |
 | Air Combat | 142102 | [142102-air-combat.json](./142102-air-combat.json) |
 | Air Combat | 14691 | [14691-air-combat.json](./14691-air-combat.json) |
@@ -6605,7 +6599,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey | 359301 | [359301-air-hockey.json](./359301-air-hockey.json) |
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
 | Air Hockey | 75995 | [75995-air-hockey.json](./75995-air-hockey.json) |
-| Air Hockey | 88618 | [88618-air-hockey.json](./88618-air-hockey.json) |
 | Air Hockey | 89804 | [89804-air-hockey.json](./89804-air-hockey.json) |
 | Air Hockey | 94114 | [94114-air-hockey.json](./94114-air-hockey.json) |
 | Air Hockey Arcade: Casual Board Game | 242589 | [242589-air-hockey-arcade-casual-board-game.json](./242589-air-hockey-arcade-casual-board-game.json) |
@@ -8988,7 +8981,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-in-One Mahjong | 70888 | [70888-all-in-one-mahjong.json](./70888-all-in-one-mahjong.json) |
 | All-in-One Mahjong 2 | 89225 | [89225-all-in-one-mahjong-2.json](./89225-all-in-one-mahjong-2.json) |
 | All-in-One Mahjong 3 | 89071 | [89071-all-in-one-mahjong-3.json](./89071-all-in-one-mahjong-3.json) |
-| All-in-One Solitaire | 88608 | [88608-all-in-one-solitaire.json](./88608-all-in-one-solitaire.json) |
 | All-In-One Sports VR | 150755 | [150755-all-in-one-sports-vr.json](./150755-all-in-one-sports-vr.json) |
 | All-In-One Summer Sports VR | 257268 | [257268-all-in-one-summer-sports-vr.json](./257268-all-in-one-summer-sports-vr.json) |
 | All-Inn | 158900 | [158900-all-inn.json](./158900-all-inn.json) |
@@ -9855,7 +9847,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze Dark Times | 55285 | [55285-amaze-dark-times.json](./55285-amaze-dark-times.json) |
 | AMaze DOS | 191078 | [191078-amaze-dos.json](./191078-amaze-dos.json) |
 | Amaze Double | 75005 | [75005-amaze-double.json](./75005-amaze-double.json) |
-| Amaze Gears | 88087 | [88087-amaze-gears.json](./88087-amaze-gears.json) |
 | Amaze Gears 2 | 125095 | [125095-amaze-gears-2.json](./125095-amaze-gears-2.json) |
 | Amaze Gears 3 | 158660 | [158660-amaze-gears-3.json](./158660-amaze-gears-3.json) |
 | Amaze Lunar | 115320 | [115320-amaze-lunar.json](./115320-amaze-lunar.json) |
@@ -15619,7 +15610,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Elite | 106222 | [106222-archery-elite.json](./106222-archery-elite.json) |
 | Archery Escape | 207880 | [207880-archery-escape.json](./207880-archery-escape.json) |
 | Archery King | 401135 | [401135-archery-king.json](./401135-archery-king.json) |
-| Archery King | 88765 | [88765-archery-king.json](./88765-archery-king.json) |
 | Archery Kings VR | 89259 | [89259-archery-kings-vr.json](./89259-archery-kings-vr.json) |
 | Archery Land | 214036 | [214036-archery-land.json](./214036-archery-land.json) |
 | Archery Legend | 319942 | [319942-archery-legend.json](./319942-archery-legend.json) |
@@ -17918,7 +17908,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asian Food Cart Tycoon | 235515 | [235515-asian-food-cart-tycoon.json](./235515-asian-food-cart-tycoon.json) |
 | Asian Foxes | 298609 | [298609-asian-foxes.json](./298609-asian-foxes.json) |
 | Asian Mahjong | 164270 | [164270-asian-mahjong.json](./164270-asian-mahjong.json) |
-| Asian Riddles 2 | 88599 | [88599-asian-riddles-2.json](./88599-asian-riddles-2.json) |
 | Asian Riddles 4 | 90512 | [90512-asian-riddles-4.json](./90512-asian-riddles-4.json) |
 | Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
 | Asicaso | 134558 | [134558-asicaso.json](./134558-asicaso.json) |
@@ -19816,7 +19805,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis-6 | 147472 | [147472-atlantis-6.json](./147472-atlantis-6.json) |
 | Atlantis: Alien Space Shooter | 256508 | [256508-atlantis-alien-space-shooter.json](./256508-atlantis-alien-space-shooter.json) |
 | Atlantis: Coral Quest | 205895 | [205895-atlantis-coral-quest.json](./205895-atlantis-coral-quest.json) |
-| Atlantis: Mysteries of Ancient Inventors | 88345 | [88345-atlantis-mysteries-of-ancient-inventors.json](./88345-atlantis-mysteries-of-ancient-inventors.json) |
 | Atlantis: Pearls of the Deep | 9988 | [9988-atlantis-pearls-of-the-deep.json](./9988-atlantis-pearls-of-the-deep.json) |
 | Atlantis: The Last Resort | 45947 | [45947-atlantis-the-last-resort.json](./45947-atlantis-the-last-resort.json) |
 | Atlantis: The Lost Continent | 43826 | [43826-atlantis-the-lost-continent.json](./43826-atlantis-the-lost-continent.json) |
