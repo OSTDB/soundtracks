@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zardoz | 106301 | [106301-zardoz.json](./106301-zardoz.json) |
 | Zardy's Cave | 211352 | [211352-zardys-cave.json](./211352-zardys-cave.json) |
 | Zardy's Maze | 139234 | [139234-zardys-maze.json](./139234-zardys-maze.json) |
+| Zarethia | 431256 | [431256-zarethia.json](./431256-zarethia.json) |
 | Zargog | 356638 | [356638-zargog.json](./356638-zargog.json) |
 | Zargon | 106302 | [106302-zargon.json](./106302-zargon.json) |
 | Zargs | 286184 | [286184-zargs.json](./286184-zargs.json) |
