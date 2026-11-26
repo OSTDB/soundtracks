@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Cosa Nostra | 389976 | [389976-la-cosa-nostra.json](./389976-la-cosa-nostra.json) |
 | La costurera | 333974 | [333974-la-costurera.json](./333974-la-costurera.json) |
 | La Cosy Académie 2 | 140676 | [140676-la-cosy-academie-2.json](./140676-la-cosy-academie-2.json) |
+| La Coursière | 418064 | [418064-la-coursiere.json](./418064-la-coursiere.json) |
 | La Crapule | 386319 | [386319-la-crapule.json](./386319-la-crapule.json) |
 | La Croix Pan | 93246 | [93246-la-croix-pan.json](./93246-la-croix-pan.json) |
 | La Crypte des Maudits | 320777 | [320777-la-crypte-des-maudits.json](./320777-la-crypte-des-maudits.json) |
@@ -5513,7 +5514,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Fairytale: Episode 2 | 127638 | [127638-light-fairytale-episode-2.json](./127638-light-fairytale-episode-2.json) |
 | Light Fairytale: Episode 3 | 224825 | [224825-light-fairytale-episode-3.json](./224825-light-fairytale-episode-3.json) |
 | Light Fall | 36620 | [36620-light-fall.json](./36620-light-fall.json) |
-| Light Fantastik | 87765 | [87765-light-fantastik.json](./87765-light-fantastik.json) |
 | Light Fantasy | 37944 | [37944-light-fantasy.json](./37944-light-fantasy.json) |
 | Light Fantasy II | 37943 | [37943-light-fantasy-ii.json](./37943-light-fantasy-ii.json) |
 | Light Fighter | 165018 | [165018-light-fighter.json](./165018-light-fighter.json) |
@@ -11545,7 +11545,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunch Hero | 142155 | [142155-lunch-hero.json](./142155-lunch-hero.json) |
 | Lunch Lady | 145855 | [145855-lunch-lady.json](./145855-lunch-lady.json) |
 | Lunch Lord: The Doom of Black Philip | 184634 | [184634-lunch-lord-the-doom-of-black-philip.json](./184634-lunch-lord-the-doom-of-black-philip.json) |
-| Lunch Rush HD | 87903 | [87903-lunch-rush-hd.json](./87903-lunch-rush-hd.json) |
 | Lunch Time in Burger Kingdom | 206578 | [206578-lunch-time-in-burger-kingdom.json](./206578-lunch-time-in-burger-kingdom.json) |
 | Lunch Time. | 248361 | [248361-lunch-time.json](./248361-lunch-time.json) |
 | Lunch Truck Tycoon | 35118 | [35118-lunch-truck-tycoon.json](./35118-lunch-truck-tycoon.json) |
