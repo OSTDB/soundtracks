@@ -2287,7 +2287,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Cottagecore | 285275 | [285275-hardcore-cottagecore.json](./285275-hardcore-cottagecore.json) |
 | Hardcore Cruising: A Sci-Fi Gay Sex Cruise! | 173872 | [173872-hardcore-cruising-a-sci-fi-gay-sex-cruise.json](./173872-hardcore-cruising-a-sci-fi-gay-sex-cruise.json) |
 | Hardcore Cyborg | 417082 | [417082-hardcore-cyborg.json](./417082-hardcore-cyborg.json) |
-| Hardcore Dirt Bike | 87720 | [87720-hardcore-dirt-bike.json](./87720-hardcore-dirt-bike.json) |
 | Hardcore Dirt Bike 2 | 97918 | [97918-hardcore-dirt-bike-2.json](./97918-hardcore-dirt-bike-2.json) |
 | Hardcore Knight! | 360824 | [360824-hardcore-knight.json](./360824-hardcore-knight.json) |
 | Hardcore Leveling Warrior | 382444 | [382444-hardcore-leveling-warrior.json](./382444-hardcore-leveling-warrior.json) |
@@ -4141,7 +4140,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts United | 201396 | [201396-hearts-united.json](./201396-hearts-united.json) |
 | Hearts War | 261952 | [261952-hearts-war.json](./261952-hearts-war.json) |
 | Hearts: Card Game | 143066 | [143066-hearts-card-game.json](./143066-hearts-card-game.json) |
-| Hearts: Classic Fun Card Game | 87549 | [87549-hearts-classic-fun-card-game.json](./87549-hearts-classic-fun-card-game.json) |
 | Hearts! 2 | 88688 | [88688-hearts-2.json](./88688-hearts-2.json) |
 | Hearts++ | 88040 | [88040-hearts.json](./88040-hearts.json) |
 | Heartscape | 177467 | [177467-heartscape.json](./177467-heartscape.json) |
@@ -9136,7 +9134,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Trouble | 322597 | [322597-highway-trouble.json](./322597-highway-trouble.json) |
 | Highway Trouble 2 | 322599 | [322599-highway-trouble-2.json](./322599-highway-trouble-2.json) |
 | Highway Warriors Remastered | 371930 | [371930-highway-warriors-remastered.json](./371930-highway-warriors-remastered.json) |
-| Highway Wars | 88041 | [88041-highway-wars.json](./88041-highway-wars.json) |
 | Highway Zombie Survival: Car Apocalypse | 306544 | [306544-highway-zombie-survival-car-apocalypse.json](./306544-highway-zombie-survival-car-apocalypse.json) |
 | Highways & Co. | 416899 | [416899-highways-and-co.json](./416899-highways-and-co.json) |
 | Higurashi Daybreak | 69127 | [69127-higurashi-daybreak.json](./69127-higurashi-daybreak.json) |
@@ -9475,7 +9472,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiouden II | 297548 | [297548-hiouden-ii.json](./297548-hiouden-ii.json) |
 | Hiouden: Mamono-tachi to no Chikai | 60499 | [60499-hiouden-mamono-tachi-to-no-chikai.json](./60499-hiouden-mamono-tachi-to-no-chikai.json) |
 | Hip Game | 393855 | [393855-hip-game.json](./393855-hip-game.json) |
-| Hip Hop & Street Dance School | 87868 | [87868-hip-hop-and-street-dance-school.json](./87868-hip-hop-and-street-dance-school.json) |
 | Hip Hop Battle: Girls vs. Boys - Dance Clash of the Sexes | 106902 | [106902-hip-hop-battle-girls-vs-boys-dance-clash-of-the-sexes.json](./106902-hip-hop-battle-girls-vs-boys-dance-clash-of-the-sexes.json) |
 | Hip Hop Fame and Millions | 106718 | [106718-hip-hop-fame-and-millions.json](./106718-hip-hop-fame-and-millions.json) |
 | Hip Hop King: Rytmik Edition | 65460 | [65460-hip-hop-king-rytmik-edition.json](./65460-hip-hop-king-rytmik-edition.json) |
@@ -12031,7 +12027,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Mansion | 301795 | [301795-horse-mansion.json](./301795-horse-mansion.json) |
 | Horse Master | 62453 | [62453-horse-master.json](./62453-horse-master.json) |
 | Horse Paradise: My Dream Ranch - Mystic Cave & Paradise Cove | 167339 | [167339-horse-paradise-my-dream-ranch-mystic-cave-and-paradise-cove.json](./167339-horse-paradise-my-dream-ranch-mystic-cave-and-paradise-cove.json) |
-| Horse Park Tycoon | 87897 | [87897-horse-park-tycoon.json](./87897-horse-park-tycoon.json) |
 | Horse Park Tycoon 2 | 116445 | [116445-horse-park-tycoon-2.json](./116445-horse-park-tycoon-2.json) |
 | Horse Plinko | 357855 | [357855-horse-plinko.json](./357855-horse-plinko.json) |
 | Horse Race | 202001 | [202001-horse-race.json](./202001-horse-race.json) |
@@ -14854,7 +14849,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperfrag | 425613 | [425613-hyperfrag.json](./425613-hyperfrag.json) |
 | Hyperfunk | 368929 | [368929-hyperfunk.json](./368929-hyperfunk.json) |
 | Hypergalaxy Squad | 113397 | [113397-hypergalaxy-squad.json](./113397-hypergalaxy-squad.json) |
-| Hypergate | 87985 | [87985-hypergate.json](./87985-hypergate.json) |
 | HyperGate Mall | 328131 | [328131-hypergate-mall.json](./328131-hypergate-mall.json) |
 | HyperGlide | 211194 | [211194-hyperglide.json](./211194-hyperglide.json) |
 | Hypergun | 101173 | [101173-hypergun.json](./101173-hypergun.json) |
