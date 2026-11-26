@@ -601,7 +601,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy Treasure Hunt | 73852 | [73852-i-spy-treasure-hunt.json](./73852-i-spy-treasure-hunt.json) |
 | I Spy Universe | 47783 | [47783-i-spy-universe.json](./47783-i-spy-universe.json) |
 | I Spy With Lola HD: A Fun Word Game for Kids! | 108270 | [108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json](./108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json) |
-| I Spy With Lola: A Fun Word Game for Kids! | 88606 | [88606-i-spy-with-lola-a-fun-word-game-for-kids.json](./88606-i-spy-with-lola-a-fun-word-game-for-kids.json) |
 | I Spy: Challenger! | 230430 | [230430-i-spy-challenger.json](./230430-i-spy-challenger.json) |
 | I Spy: Challenger! | 333847 | [333847-i-spy-challenger.json](./333847-i-spy-challenger.json) |
 | I Spy: Super Challenger! | 91739 | [91739-i-spy-super-challenger.json](./91739-i-spy-super-challenger.json) |
@@ -2257,7 +2256,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IGTAP: An Incremental Game That's Also a Platformer | 394928 | [394928-igtap-an-incremental-game-thats-also-a-platformer.json](./394928-igtap-an-incremental-game-thats-also-a-platformer.json) |
 | IguaRPG | 242410 | [242410-iguarpg.json](./242410-iguarpg.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
-| iGun Pro | 88473 | [88473-igun-pro.json](./88473-igun-pro.json) |
 | iGun Pro 2 | 86959 | [86959-igun-pro-2.json](./86959-igun-pro-2.json) |
 | Ihatovo Monogatari | 42289 | [42289-ihatovo-monogatari.json](./42289-ihatovo-monogatari.json) |
 | iHearts | 90340 | [90340-ihearts.json](./90340-ihearts.json) |
@@ -2849,7 +2847,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Love: Kiss of the Night | 120796 | [120796-immortal-love-kiss-of-the-night.json](./120796-immortal-love-kiss-of-the-night.json) |
 | Immortal Love: Kiss of the Night - Collector's Edition | 397123 | [397123-immortal-love-kiss-of-the-night-collectors-edition.json](./397123-immortal-love-kiss-of-the-night-collectors-edition.json) |
 | Immortal Love: Letter from the Past | 53222 | [53222-immortal-love-letter-from-the-past.json](./53222-immortal-love-letter-from-the-past.json) |
-| Immortal Love: Letter from the Past - Collector's Edition | 88809 | [88809-immortal-love-letter-from-the-past-collectors-edition.json](./88809-immortal-love-letter-from-the-past-collectors-edition.json) |
 | Immortal Love: Polar Lights | 397125 | [397125-immortal-love-polar-lights.json](./397125-immortal-love-polar-lights.json) |
 | Immortal Love: Polar Lights Collector's Edition | 276649 | [276649-immortal-love-polar-lights-collectors-edition.json](./276649-immortal-love-polar-lights-collectors-edition.json) |
 | Immortal Love: Sparkle of Talent | 187956 | [187956-immortal-love-sparkle-of-talent.json](./187956-immortal-love-sparkle-of-talent.json) |
@@ -5216,7 +5213,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InScape | 176315 | [176315-inscape.json](./176315-inscape.json) |
 | Inscrutable Fortress | 337890 | [337890-inscrutable-fortress.json](./337890-inscrutable-fortress.json) |
 | Inscryption: Kaycee's Mod | 186306 | [186306-inscryption-kaycees-mod.json](./186306-inscryption-kaycees-mod.json) |
-| InseAquarium: Crazy Aqurium | 88517 | [88517-inseaquarium-crazy-aqurium.json](./88517-inseaquarium-crazy-aqurium.json) |
 | Inseco | 415084 | [415084-inseco.json](./415084-inseco.json) |
 | Insect | 152139 | [152139-insect.json](./152139-insect.json) |
 | Insect | 392232 | [392232-insect.json](./392232-insect.json) |
@@ -6334,7 +6330,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion VS | 58640 | [58640-invasion-vs.json](./58640-invasion-vs.json) |
 | Invasion Waves | 200578 | [200578-invasion-waves.json](./200578-invasion-waves.json) |
 | Invasion Zero | 114239 | [114239-invasion-zero.json](./114239-invasion-zero.json) |
-| Invasion: Battlefield | 88600 | [88600-invasion-battlefield.json](./88600-invasion-battlefield.json) |
 | Invasion: Brain Craving | 33942 | [33942-invasion-brain-craving.json](./33942-invasion-brain-craving.json) |
 | Invasion: Family Ties | 246819 | [246819-invasion-family-ties.json](./246819-invasion-family-ties.json) |
 | Invasion: Neo Earth | 188423 | [188423-invasion-neo-earth.json](./188423-invasion-neo-earth.json) |
@@ -6581,7 +6576,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ipseity: Arena | 322856 | [322856-ipseity-arena.json](./322856-ipseity-arena.json) |
 | Ipuppet Presents: Colin's Classic Cards | 210022 | [210022-ipuppet-presents-colins-classic-cards.json](./210022-ipuppet-presents-colins-classic-cards.json) |
 | IPuppy World | 175290 | [175290-ipuppy-world.json](./175290-ipuppy-world.json) |
-| iPyramid - Pyramid Solitaire | 88378 | [88378-ipyramid-pyramid-solitaire.json](./88378-ipyramid-pyramid-solitaire.json) |
 | IQ Ball | 234390 | [234390-iq-ball.json](./234390-iq-ball.json) |
 | IQ Dungeon | 199904 | [199904-iq-dungeon.json](./199904-iq-dungeon.json) |
 | IQ Jump | 194295 | [194295-iq-jump.json](./194295-iq-jump.json) |
@@ -7802,6 +7796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itadaki Smash | 148312 | [148312-itadaki-smash.json](./148312-itadaki-smash.json) |
 | Itadaki Street 2: Neon Sign ha Bara Iro ni | 38345 | [38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json](./38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json) |
 | Itadaki Street 3 | 60477 | [60477-itadaki-street-3.json](./60477-itadaki-street-3.json) |
+| Itadaki Street DS | 71885 | [71885-itadaki-street-ds.json](./71885-itadaki-street-ds.json) |
 | Itadaki Street Mobile: Don-don Kaiten! Zouchiku-chuu! | 425342 | [425342-itadaki-street-mobile-don-don-kaiten-zouchiku-chuu.json](./425342-itadaki-street-mobile-don-don-kaiten-zouchiku-chuu.json) |
 | Itadaki Street Special | 72987 | [72987-itadaki-street-special.json](./72987-itadaki-street-special.json) |
 | Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary | 54550 | [54550-itadaki-street-dragon-quest-and-final-fantasy-30th-anniversary.json](./54550-itadaki-street-dragon-quest-and-final-fantasy-30th-anniversary.json) |
