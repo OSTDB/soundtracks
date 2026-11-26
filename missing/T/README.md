@@ -12994,6 +12994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Indigo Initiative | 358848 | [358848-the-indigo-initiative.json](./358848-the-indigo-initiative.json) |
 | The Indigo Parallel | 157128 | [157128-the-indigo-parallel.json](./157128-the-indigo-parallel.json) |
 | The Indirect Castle Retreat | 322765 | [322765-the-indirect-castle-retreat.json](./322765-the-indirect-castle-retreat.json) |
+| The Industrial Clamp | 429900 | [429900-the-industrial-clamp.json](./429900-the-industrial-clamp.json) |
 | The Industrial Council | 390348 | [390348-the-industrial-council.json](./390348-the-industrial-council.json) |
 | The Inescapable Nightmare | 357239 | [357239-the-inescapable-nightmare.json](./357239-the-inescapable-nightmare.json) |
 | The Inevitability | 28804 | [28804-the-inevitability.json](./28804-the-inevitability.json) |
@@ -36362,6 +36363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troggle Trouble Math | 93191 | [93191-troggle-trouble-math.json](./93191-troggle-trouble-math.json) |
 | Trogloxene | 178256 | [178256-trogloxene.json](./178256-trogloxene.json) |
 | Troid Blaster | 25121 | [25121-troid-blaster.json](./25121-troid-blaster.json) |
+| Troid Blaster 2 | 430208 | [430208-troid-blaster-2.json](./430208-troid-blaster-2.json) |
 | Troika | 78847 | [78847-troika.json](./78847-troika.json) |
 | Trois Mouvements Perpétuels | 277291 | [277291-trois-mouvements-perpetuels.json](./277291-trois-mouvements-perpetuels.json) |
 | Troisix | 109285 | [109285-troisix.json](./109285-troisix.json) |
@@ -38135,6 +38137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tusks: The Orc Dating Sim | 77532 | [77532-tusks-the-orc-dating-sim.json](./77532-tusks-the-orc-dating-sim.json) |
 | Tusmo | 193528 | [193528-tusmo.json](./193528-tusmo.json) |
 | Tusmox | 381412 | [381412-tusmox.json](./381412-tusmox.json) |
+| Tusok! Tusok! | 430021 | [430021-tusok-tusok.json](./430021-tusok-tusok.json) |
 | Tussle Works | 422050 | [422050-tussle-works.json](./422050-tussle-works.json) |
 | Tut Tut Vroom Vroom | 388694 | [388694-tut-tut-vroom-vroom.json](./388694-tut-tut-vroom-vroom.json) |
 | Tut's Tomb | 282107 | [282107-tuts-tomb.json](./282107-tuts-tomb.json) |
