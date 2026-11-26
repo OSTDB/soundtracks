@@ -2580,6 +2580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Pang | 75495 | [75495-neo-pang.json](./75495-neo-pang.json) |
 | Neo Planet | 61574 | [61574-neo-planet.json](./61574-neo-planet.json) |
 | Neo Poke Pro Yakyuu | 47619 | [47619-neo-poke-pro-yakyuu.json](./47619-neo-poke-pro-yakyuu.json) |
+| Neo Pong | 418646 | [418646-neo-pong.json](./418646-neo-pong.json) |
 | Neo Pussy Masters | 395057 | [395057-neo-pussy-masters.json](./395057-neo-pussy-masters.json) |
 | Neo Racing Genesis | 305747 | [305747-neo-racing-genesis.json](./305747-neo-racing-genesis.json) |
 | Neo Sonic 2 | 266707 | [266707-neo-sonic-2.json](./266707-neo-sonic-2.json) |
@@ -3268,7 +3269,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetHack | 2895 | [2895-nethack.json](./2895-nethack.json) |
 | NetHack | 414893 | [414893-nethack.json](./414893-nethack.json) |
 | Nethack: Falcon's Eye | 71342 | [71342-nethack-falcons-eye.json](./71342-nethack-falcons-eye.json) |
-| NetHackCocoa | 89033 | [89033-nethackcocoa.json](./89033-nethackcocoa.json) |
 | Nether | 9490 | [9490-nether.json](./9490-nether.json) |
 | Nether Abyss | 424049 | [424049-nether-abyss.json](./424049-nether-abyss.json) |
 | Nether Dungeons | 323221 | [323221-nether-dungeons.json](./323221-nether-dungeons.json) |
@@ -3981,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Race | 25190 | [25190-new-york-race.json](./25190-new-york-race.json) |
 | New York Race | 32551 | [32551-new-york-race.json](./32551-new-york-race.json) |
 | New York Rat Simulator | 181095 | [181095-new-york-rat-simulator.json](./181095-new-york-rat-simulator.json) |
+| New York Rollercoaster Rush | 415644 | [415644-new-york-rollercoaster-rush.json](./415644-new-york-rollercoaster-rush.json) |
 | New York Shark | 294427 | [294427-new-york-shark.json](./294427-new-york-shark.json) |
 | New York Simulator Air Racing and The Statue of Liberty | 197650 | [197650-new-york-simulator-air-racing-and-the-statue-of-liberty.json](./197650-new-york-simulator-air-racing-and-the-statue-of-liberty.json) |
 | New York Taxi Simulator | 33444 | [33444-new-york-taxi-simulator.json](./33444-new-york-taxi-simulator.json) |
@@ -8250,7 +8251,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Flow | 95049 | [95049-nova-flow.json](./95049-nova-flow.json) |
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
 | Nova Genetics | 160073 | [160073-nova-genetics.json](./160073-nova-genetics.json) |
-| Nova Golf | 89242 | [89242-nova-golf.json](./89242-nova-golf.json) |
 | Nova Hearts | 280389 | [280389-nova-hearts.json](./280389-nova-hearts.json) |
 | Nova Hunter | 385520 | [385520-nova-hunter.json](./385520-nova-hunter.json) |
 | Nova II: New Dawn | 138903 | [138903-nova-ii-new-dawn.json](./138903-nova-ii-new-dawn.json) |
