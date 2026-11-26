@@ -543,7 +543,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow Eyes | 339039 | [339039-yellow-eyes.json](./339039-yellow-eyes.json) |
 | Yellow Face | 375723 | [375723-yellow-face.json](./375723-yellow-face.json) |
 | Yellow Fins | 147815 | [147815-yellow-fins.json](./147815-yellow-fins.json) |
-| Yellow Fins HD | 89574 | [89574-yellow-fins-hd.json](./89574-yellow-fins-hd.json) |
 | Yellow History | 237155 | [237155-yellow-history.json](./237155-yellow-history.json) |
 | Yellow House | 309512 | [309512-yellow-house.json](./309512-yellow-house.json) |
 | Yellow Lemon | 92149 | [92149-yellow-lemon.json](./92149-yellow-lemon.json) |
@@ -2444,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuukyuu no Tierblade: Fragments of Memory | 136439 | [136439-yuukyuu-no-tierblade-fragments-of-memory.json](./136439-yuukyuu-no-tierblade-fragments-of-memory.json) |
 | Yuukyuu no Tierblade: Lost Chronicle | 136438 | [136438-yuukyuu-no-tierblade-lost-chronicle.json](./136438-yuukyuu-no-tierblade-lost-chronicle.json) |
 | Yuuma Game | 252043 | [252043-yuuma-game.json](./252043-yuuma-game.json) |
+| Yuumi-Chan: Rent Is Due! | 420342 | [420342-yuumi-chan-rent-is-due.json](./420342-yuumi-chan-rent-is-due.json) |
 | Yuuna and the Haunted Hot Springs: Steam Dungeon | 104818 | [104818-yuuna-and-the-haunted-hot-springs-steam-dungeon.json](./104818-yuuna-and-the-haunted-hot-springs-steam-dungeon.json) |
 | Yuuna and the Haunted Hot Springs: Steam Dungeon - Limited Edition | 166252 | [166252-yuuna-and-the-haunted-hot-springs-steam-dungeon-limited-edition.json](./166252-yuuna-and-the-haunted-hot-springs-steam-dungeon-limited-edition.json) |
 | Yuuna and the Haunted Hot Springs: The Thrilling Steamy Maze Kiwami | 278244 | [278244-yuuna-and-the-haunted-hot-springs-the-thrilling-steamy-maze-kiwami.json](./278244-yuuna-and-the-haunted-hot-springs-the-thrilling-steamy-maze-kiwami.json) |
