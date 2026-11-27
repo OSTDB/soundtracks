@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sadness | 92754 | [92754-sadness.json](./92754-sadness.json) |
 | Sadness & Solitude | 61149 | [61149-sadness-and-solitude.json](./61149-sadness-and-solitude.json) |
 | Sadness of Valor | 159070 | [159070-sadness-of-valor.json](./159070-sadness-of-valor.json) |
+| Sado | 431398 | [431398-sado.json](./431398-sado.json) |
 | Sadoubu (Tea Ceremony Club) | 82946 | [82946-sadoubu-tea-ceremony-club.json](./82946-sadoubu-tea-ceremony-club.json) |
 | Sadturn | 281063 | [281063-sadturn.json](./281063-sadturn.json) |
 | Sae | 276177 | [276177-sae.json](./276177-sae.json) |
@@ -3215,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Manor: The Heir | 272937 | [272937-scarlet-manor-the-heir.json](./272937-scarlet-manor-the-heir.json) |
 | Scarlet Meister | 375572 | [375572-scarlet-meister.json](./375572-scarlet-meister.json) |
 | Scarlet Midnight | 134856 | [134856-scarlet-midnight.json](./134856-scarlet-midnight.json) |
+| Scarlet Moon | 431509 | [431509-scarlet-moon.json](./431509-scarlet-moon.json) |
 | Scarlet Nexus: Bond Enhancement Pack 1 | 172786 | [172786-scarlet-nexus-bond-enhancement-pack-1.json](./172786-scarlet-nexus-bond-enhancement-pack-1.json) |
 | Scarlet Nexus: Bond Enhancement Pack 2 | 224474 | [224474-scarlet-nexus-bond-enhancement-pack-2.json](./224474-scarlet-nexus-bond-enhancement-pack-2.json) |
 | Scarlet Nexus: Brain Eater Pack 3 | 224473 | [224473-scarlet-nexus-brain-eater-pack-3.json](./224473-scarlet-nexus-brain-eater-pack-3.json) |
@@ -17303,6 +17305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnackHunter | 193047 | [193047-snackhunter.json](./193047-snackhunter.json) |
 | Snackjack | 54378 | [54378-snackjack.json](./54378-snackjack.json) |
 | Snacko | 130618 | [130618-snacko.json](./130618-snacko.json) |
+| Snackpaws | 431426 | [431426-snackpaws.json](./431426-snackpaws.json) |
 | Snackrifice | 418096 | [418096-snackrifice.json](./418096-snackrifice.json) |
 | Snackroach | 257251 | [257251-snackroach.json](./257251-snackroach.json) |
 | Snacks 'n Jaxson | 39410 | [39410-snacks-n-jaxson.json](./39410-snacks-n-jaxson.json) |
@@ -23731,6 +23734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space, VR! | 32270 | [32270-space-vr.json](./32270-space-vr.json) |
 | Space: Breakthrough Gaming Arcade | 187672 | [187672-space-breakthrough-gaming-arcade.json](./187672-space-breakthrough-gaming-arcade.json) |
 | Space/Mech/Pilot | 139924 | [139924-space-mech-pilot.json](./139924-space-mech-pilot.json) |
+| Space/Off | 431515 | [431515-space-off.json](./431515-space-off.json) |
 | SpaceAgency | 63979 | [63979-spaceagency.json](./63979-spaceagency.json) |
 | SpaceAttack | 68428 | [68428-spaceattack.json](./68428-spaceattack.json) |
 | Spaceball | 112177 | [112177-spaceball.json](./112177-spaceball.json) |
@@ -31409,6 +31413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stillbone | 395163 | [395163-stillbone.json](./395163-stillbone.json) |
 | Stillborn Slayer | 189039 | [189039-stillborn-slayer.json](./189039-stillborn-slayer.json) |
 | Stillflow | 414070 | [414070-stillflow.json](./414070-stillflow.json) |
+| Stillmarch | 431656 | [431656-stillmarch.json](./431656-stillmarch.json) |
 | Stillmere | 417083 | [417083-stillmere.json](./417083-stillmere.json) |
 | Stillness | 348385 | [348385-stillness.json](./348385-stillness.json) |
 | Stillness | 385149 | [385149-stillness.json](./385149-stillness.json) |
@@ -32509,6 +32514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Quiz | 140027 | [140027-stream-quiz.json](./140027-stream-quiz.json) |
 | Stream Racer | 135295 | [135295-stream-racer.json](./135295-stream-racer.json) |
 | Stream Raiders | 125893 | [125893-stream-raiders.json](./125893-stream-raiders.json) |
+| Stream Rapids | 431673 | [431673-stream-rapids.json](./431673-stream-rapids.json) |
 | Stream Runners: Heroes | 232972 | [232972-stream-runners-heroes.json](./232972-stream-runners-heroes.json) |
 | Stream Service | 286751 | [286751-stream-service.json](./286751-stream-service.json) |
 | Stream Siege | 410790 | [410790-stream-siege.json](./410790-stream-siege.json) |
@@ -39860,6 +39866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Game Master | 212477 | [212477-survival-game-master.json](./212477-survival-game-master.json) |
 | Survival Games | 180378 | [180378-survival-games.json](./180378-survival-games.json) |
 | Survival Games | 402335 | [402335-survival-games.json](./402335-survival-games.json) |
+| Survival Games Director | 431416 | [431416-survival-games-director.json](./431416-survival-games-director.json) |
 | Survival Girls | 191140 | [191140-survival-girls.json](./191140-survival-girls.json) |
 | Survival Gladiator: Blades of the Coliseum | 322978 | [322978-survival-gladiator-blades-of-the-coliseum.json](./322978-survival-gladiator-blades-of-the-coliseum.json) |
 | Survival Guide 2 | 282160 | [282160-survival-guide-2.json](./282160-survival-guide-2.json) |
