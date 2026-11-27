@@ -8717,9 +8717,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeras: Mark of Death - Collector's Edition | 192864 | [192864-chimeras-mark-of-death-collectors-edition.json](./192864-chimeras-mark-of-death-collectors-edition.json) |
 | Chimeras: Mortal Medicine | 417570 | [417570-chimeras-mortal-medicine.json](./417570-chimeras-mortal-medicine.json) |
 | Chimeras: Mortal Medicine - Collector's Edition | 193233 | [193233-chimeras-mortal-medicine-collectors-edition.json](./193233-chimeras-mortal-medicine-collectors-edition.json) |
+| Chimeras: New Rebellion | 431579 | [431579-chimeras-new-rebellion.json](./431579-chimeras-new-rebellion.json) |
+| Chimeras: New Rebellion - Collector's Edition | 431580 | [431580-chimeras-new-rebellion-collectors-edition.json](./431580-chimeras-new-rebellion-collectors-edition.json) |
 | Chimeras: Price of Greed | 187910 | [187910-chimeras-price-of-greed.json](./187910-chimeras-price-of-greed.json) |
 | Chimeras: Price of Greed - Collector's Edition | 275394 | [275394-chimeras-price-of-greed-collectors-edition.json](./275394-chimeras-price-of-greed-collectors-edition.json) |
 | Chimeras: The Lost Film | 416624 | [416624-chimeras-the-lost-film.json](./416624-chimeras-the-lost-film.json) |
+| Chimeras: The Lost Film - Collector's Edition | 431611 | [431611-chimeras-the-lost-film-collectors-edition.json](./431611-chimeras-the-lost-film-collectors-edition.json) |
 | Chimeras: The Signs of Prophecy | 101011 | [101011-chimeras-the-signs-of-prophecy.json](./101011-chimeras-the-signs-of-prophecy.json) |
 | Chimeras: The Signs of Prophecy - Collector's Edition | 50755 | [50755-chimeras-the-signs-of-prophecy-collectors-edition.json](./50755-chimeras-the-signs-of-prophecy-collectors-edition.json) |
 | Chimeras: Tune of Revenge | 63816 | [63816-chimeras-tune-of-revenge.json](./63816-chimeras-tune-of-revenge.json) |
@@ -10896,6 +10899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Living: Urban Stories | 106746 | [106746-city-living-urban-stories.json](./106746-city-living-urban-stories.json) |
 | City Loop | 179446 | [179446-city-loop.json](./179446-city-loop.json) |
 | City Mage 3: False Prophecy - Collector's Edition | 417520 | [417520-city-mage-3-false-prophecy-collectors-edition.json](./417520-city-mage-3-false-prophecy-collectors-edition.json) |
+| City Mage 4: Chronicles of the Sun Tower - Collector's Edition | 431573 | [431573-city-mage-4-chronicles-of-the-sun-tower-collectors-edition.json](./431573-city-mage-4-chronicles-of-the-sun-tower-collectors-edition.json) |
 | City Maker | 144220 | [144220-city-maker.json](./144220-city-maker.json) |
 | City Mania | 127491 | [127491-city-mania.json](./127491-city-mania.json) |
 | City Massacre | 220003 | [220003-city-massacre.json](./220003-city-massacre.json) |
@@ -11967,6 +11971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click the Clown 2020 | 142437 | [142437-click-the-clown-2020.json](./142437-click-the-clown-2020.json) |
 | Click The Link To Play | 309208 | [309208-click-the-link-to-play.json](./309208-click-the-link-to-play.json) |
 | Click the Shape | 362476 | [362476-click-the-shape.json](./362476-click-the-shape.json) |
+| Click the Stone | 431553 | [431553-click-the-stone.json](./431553-click-the-stone.json) |
 | Click Them Off | 393189 | [393189-click-them-off.json](./393189-click-them-off.json) |
 | Click to 13 | 288334 | [288334-click-to-13.json](./288334-click-to-13.json) |
 | Click To Clear | 284821 | [284821-click-to-clear.json](./284821-click-to-clear.json) |
@@ -13794,6 +13799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collect Call | 383789 | [383789-collect-call.json](./383789-collect-call.json) |
 | Collect iT 3D | 233123 | [233123-collect-it-3d.json](./233123-collect-it-3d.json) |
 | Collect Objects | 410032 | [410032-collect-objects.json](./410032-collect-objects.json) |
+| Collect the Cupcake | 431560 | [431560-collect-the-cupcake.json](./431560-collect-the-cupcake.json) |
 | Collectamon | 262949 | [262949-collectamon.json](./262949-collectamon.json) |
 | Collectems | 61053 | [61053-collectems.json](./61053-collectems.json) |
 | Collectible Card Shop Master | 324988 | [324988-collectible-card-shop-master.json](./324988-collectible-card-shop-master.json) |
@@ -23903,6 +23909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Volley | 291270 | [291270-cyber-volley.json](./291270-cyber-volley.json) |
 | Cyber Volleyball | 423319 | [423319-cyber-volleyball.json](./423319-cyber-volleyball.json) |
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
+| Cyber Waifu | 431230 | [431230-cyber-waifu.json](./431230-cyber-waifu.json) |
 | Cyber War Apocalypse | 166934 | [166934-cyber-war-apocalypse.json](./166934-cyber-war-apocalypse.json) |
 | Cyber War: Cyberpunk Reborn | 174904 | [174904-cyber-war-cyberpunk-reborn.json](./174904-cyber-war-cyberpunk-reborn.json) |
 | Cyber War: Fight to the Last Man | 135315 | [135315-cyber-war-fight-to-the-last-man.json](./135315-cyber-war-fight-to-the-last-man.json) |
