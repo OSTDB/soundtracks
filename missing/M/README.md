@@ -12218,6 +12218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micky's adventure | 169271 | [169271-mickys-adventure.json](./169271-mickys-adventure.json) |
 | miCoach by adidas | 78638 | [78638-micoach-by-adidas.json](./78638-micoach-by-adidas.json) |
 | Micom Slayer | 98238 | [98238-micom-slayer.json](./98238-micom-slayer.json) |
+| Micro (Manage) | 414266 | [414266-micro-manage.json](./414266-micro-manage.json) |
 | Micro Abyss | 166768 | [166768-micro-abyss.json](./166768-micro-abyss.json) |
 | Micro Adventure No. 2 Jungle Quest | 73117 | [73117-micro-adventure-no-2-jungle-quest.json](./73117-micro-adventure-no-2-jungle-quest.json) |
 | Micro Annihilation | 143519 | [143519-micro-annihilation.json](./143519-micro-annihilation.json) |
@@ -21937,6 +21938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTV's Beavis and Butt-Head: Wiener Takes All | 66094 | [66094-mtvs-beavis-and-butt-head-wiener-takes-all.json](./66094-mtvs-beavis-and-butt-head-wiener-takes-all.json) |
 | MTV's Club Dead | 69773 | [69773-mtvs-club-dead.json](./69773-mtvs-club-dead.json) |
 | MTX Mototrax | 5935 | [5935-mtx-mototrax.json](./5935-mtx-mototrax.json) |
+| MU Arise | 416342 | [416342-mu-arise.json](./416342-mu-arise.json) |
 | Mu Complex | 34912 | [34912-mu-complex.json](./34912-mu-complex.json) |
 | Mu Imperio | 389818 | [389818-mu-imperio.json](./389818-mu-imperio.json) |
 | Mu Jiang | 241211 | [241211-mu-jiang.json](./241211-mu-jiang.json) |
@@ -23003,6 +23005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Meltdown | 211148 | [211148-mutant-meltdown.json](./211148-mutant-meltdown.json) |
 | Mutant Monster Invasion | 292240 | [292240-mutant-monster-invasion.json](./292240-mutant-monster-invasion.json) |
 | Mutant Monsters | 334023 | [334023-mutant-monsters.json](./334023-mutant-monsters.json) |
+| Mutant Monty | 413728 | [413728-mutant-monty.json](./413728-mutant-monty.json) |
 | Mutant Monty | 66711 | [66711-mutant-monty.json](./66711-mutant-monty.json) |
 | Mutant Mudds | 21039 | [21039-mutant-mudds.json](./21039-mutant-mudds.json) |
 | Mutant Mudds 2 | 64083 | [64083-mutant-mudds-2.json](./64083-mutant-mudds-2.json) |
