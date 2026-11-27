@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Way With Words | 354960 | [354960-a-way-with-words.json](./354960-a-way-with-words.json) |
 | A Webbing Journey | 208532 | [208532-a-webbing-journey.json](./208532-a-webbing-journey.json) |
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
+| A Week at Nate's | 411367 | [411367-a-week-at-nates.json](./411367-a-week-at-nates.json) |
 | A Week at Polar's Buffet | 375109 | [375109-a-week-at-polars-buffet.json](./375109-a-week-at-polars-buffet.json) |
 | A Week in Paradise | 390825 | [390825-a-week-in-paradise.json](./390825-a-week-in-paradise.json) |
 | A Week in the Cold | 132745 | [132745-a-week-in-the-cold.json](./132745-a-week-in-the-cold.json) |
@@ -3113,7 +3114,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Blackring in the Quest for Garlic Bread | 334418 | [334418-ace-blackring-in-the-quest-for-garlic-bread.json](./334418-ace-blackring-in-the-quest-for-garlic-bread.json) |
 | Ace Breakout | 201435 | [201435-ace-breakout.json](./201435-ace-breakout.json) |
 | Ace Campus Club | 161561 | [161561-ace-campus-club.json](./161561-ace-campus-club.json) |
-| Ace Coin BullDozer: Dozer of Coins | 87390 | [87390-ace-coin-bulldozer-dozer-of-coins.json](./87390-ace-coin-bulldozer-dozer-of-coins.json) |
 | Ace Combat 2 | 14750 | [14750-ace-combat-2.json](./14750-ace-combat-2.json) |
 | Ace Combat 3: Electrosphere | 14751 | [14751-ace-combat-3-electrosphere.json](./14751-ace-combat-3-electrosphere.json) |
 | Ace Combat 3: Electrosphere | 306600 | [306600-ace-combat-3-electrosphere.json](./306600-ace-combat-3-electrosphere.json) |
@@ -6158,7 +6158,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ah. Ah. Ah. | 406654 | [406654-ah-ah-ah.json](./406654-ah-ah-ah.json) |
 | AH3AD: Retrowave Runner | 191583 | [191583-ah3ad-retrowave-runner.json](./191583-ah3ad-retrowave-runner.json) |
 | Aha Hit tile 3D | 101321 | [101321-aha-hit-tile-3d.json](./101321-aha-hit-tile-3d.json) |
-| Aha Link Color: ALL | 87393 | [87393-aha-link-color-all.json](./87393-aha-link-color-all.json) |
 | Aha Link Color: Cross | 101967 | [101967-aha-link-color-cross.json](./101967-aha-link-color-cross.json) |
 | Aha Link Color: Hex | 89740 | [89740-aha-link-color-hex.json](./89740-aha-link-color-hex.json) |
 | Aha Rally Car | 104431 | [104431-aha-rally-car.json](./104431-aha-rally-car.json) |
@@ -6735,7 +6734,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
 | Airaki! | 61557 | [61557-airaki.json](./61557-airaki.json) |
 | Airanblade | 293820 | [293820-airanblade.json](./293820-airanblade.json) |
-| AirAttack | 87431 | [87431-airattack.json](./87431-airattack.json) |
 | AirAttack 1 | 407148 | [407148-airattack-1.json](./407148-airattack-1.json) |
 | AirAttack 2 | 87919 | [87919-airattack-2.json](./87919-airattack-2.json) |
 | AirAttack HD | 335055 | [335055-airattack-hd.json](./335055-airattack-hd.json) |
@@ -6806,7 +6804,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airfield Mania | 87900 | [87900-airfield-mania.json](./87900-airfield-mania.json) |
 | Airfight | 67637 | [67637-airfight.json](./67637-airfight.json) |
 | AirFighter | 193485 | [193485-airfighter.json](./193485-airfighter.json) |
-| AirFighters: Combat Flight Simulator | 87419 | [87419-airfighters-combat-flight-simulator.json](./87419-airfighters-combat-flight-simulator.json) |
 | Airfix: Dogfighter | 24702 | [24702-airfix-dogfighter.json](./24702-airfix-dogfighter.json) |
 | Airflow | 312675 | [312675-airflow.json](./312675-airflow.json) |
 | Airflow: Seattle ARTCC | 376106 | [376106-airflow-seattle-artcc.json](./376106-airflow-seattle-artcc.json) |
@@ -12019,7 +12016,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Puzzle: Drag 'n' Drop | 101412 | [101412-animal-puzzle-drag-n-drop.json](./101412-animal-puzzle-drag-n-drop.json) |
 | Animal Puzzle: Preschool Learning Game for Kids and Toddlers | 165618 | [165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json](./165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json) |
 | Animal Puzzles | 401999 | [401999-animal-puzzles.json](./401999-animal-puzzles.json) |
-| Animal Puzzles Games: little boys & girls puzzle | 87217 | [87217-animal-puzzles-games-little-boys-and-girls-puzzle.json](./87217-animal-puzzles-games-little-boys-and-girls-puzzle.json) |
 | Animal Quest | 70175 | [70175-animal-quest.json](./70175-animal-quest.json) |
 | Animal Quest: The Battle for Green Hollow | 342333 | [342333-animal-quest-the-battle-for-green-hollow.json](./342333-animal-quest-the-battle-for-green-hollow.json) |
 | Animal Race Party | 283925 | [283925-animal-race-party.json](./283925-animal-race-party.json) |
@@ -13254,7 +13250,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antihero | 26856 | [26856-antihero.json](./26856-antihero.json) |
 | Antihero Book Club | 51694 | [51694-antihero-book-club.json](./51694-antihero-book-club.json) |
 | Antihero: Deluxe Edition | 51712 | [51712-antihero-deluxe-edition.json](./51712-antihero-deluxe-edition.json) |
-| Antihero: Digital Board Game | 87277 | [87277-antihero-digital-board-game.json](./87277-antihero-digital-board-game.json) |
 | Antihorror | 32249 | [32249-antihorror.json](./32249-antihorror.json) |
 | Antihue | 297461 | [297461-antihue.json](./297461-antihue.json) |
 | AntiKiller | 52415 | [52415-antikiller.json](./52415-antikiller.json) |
@@ -16887,7 +16882,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army to Army | 189019 | [189019-army-to-army.json](./189019-army-to-army.json) |
 | Army Troop | 236469 | [236469-army-troop.json](./236469-army-troop.json) |
 | Army Troop 2: Modern Guns | 297841 | [297841-army-troop-2-modern-guns.json](./297841-army-troop-2-modern-guns.json) |
-| Army Truck 3D: Military Drive | 87114 | [87114-army-truck-3d-military-drive.json](./87114-army-truck-3d-military-drive.json) |
 | Army vs Zombie | 226770 | [226770-army-vs-zombie.json](./226770-army-vs-zombie.json) |
 | Army War: Shooting Simulator | 235198 | [235198-army-war-shooting-simulator.json](./235198-army-war-shooting-simulator.json) |
 | Army Wars Tactics | 200158 | [200158-army-wars-tactics.json](./200158-army-wars-tactics.json) |
@@ -19774,7 +19768,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athletic Land | 41662 | [41662-athletic-land.json](./41662-athletic-land.json) |
 | Athletic Land | 55859 | [55859-athletic-land.json](./55859-athletic-land.json) |
 | Athletic World | 9104 | [9104-athletic-world.json](./9104-athletic-world.json) |
-| Athletics 2: Summer Sports | 87339 | [87339-athletics-2-summer-sports.json](./87339-athletics-2-summer-sports.json) |
 | Athletics 2: Winter Sports Pro | 86877 | [86877-athletics-2-winter-sports-pro.json](./86877-athletics-2-winter-sports-pro.json) |
 | Athletics 3: Summer Sports | 152434 | [152434-athletics-3-summer-sports.json](./152434-athletics-3-summer-sports.json) |
 | Athletics Championship | 252957 | [252957-athletics-championship.json](./252957-athletics-championship.json) |
