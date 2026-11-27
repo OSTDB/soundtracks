@@ -15539,6 +15539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Train | 423010 | [423010-doomsday-train.json](./423010-doomsday-train.json) |
 | Doomsday Warrior | 42599 | [42599-doomsday-warrior.json](./42599-doomsday-warrior.json) |
 | Doomsday: Last Survivors | 187739 | [187739-doomsday-last-survivors.json](./187739-doomsday-last-survivors.json) |
+| Doomsday.Inc | 431165 | [431165-doomsday-inc.json](./431165-doomsday-inc.json) |
 | Doomspire | 345196 | [345196-doomspire.json](./345196-doomspire.json) |
 | Doomstacker | 389828 | [389828-doomstacker.json](./389828-doomstacker.json) |
 | Doomstar | 110217 | [110217-doomstar.json](./110217-doomstar.json) |
