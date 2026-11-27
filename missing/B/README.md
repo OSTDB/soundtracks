@@ -3605,7 +3605,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball FRVR | 305414 | [305414-basketball-frvr.json](./305414-basketball-frvr.json) |
 | BasketBall Fun | 87399 | [87399-basketball-fun.json](./87399-basketball-fun.json) |
 | Basketball Games! | 232080 | [232080-basketball-games.json](./232080-basketball-games.json) |
-| Basketball General Manager | 87526 | [87526-basketball-general-manager.json](./87526-basketball-general-manager.json) |
 | Basketball GM | 82242 | [82242-basketball-gm.json](./82242-basketball-gm.json) |
 | Basketball Grand Slam 2024 | 269089 | [269089-basketball-grand-slam-2024.json](./269089-basketball-grand-slam-2024.json) |
 | Basketball Hall-of-Fame: Ultimate Hoops Challenge | 50662 | [50662-basketball-hall-of-fame-ultimate-hoops-challenge.json](./50662-basketball-hall-of-fame-ultimate-hoops-challenge.json) |
