@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid Off! | 197476 | [197476-raid-off.json](./197476-raid-off.json) |
 | Raid on Bungeling Bay | 24664 | [24664-raid-on-bungeling-bay.json](./24664-raid-on-bungeling-bay.json) |
 | Raid on Bungeling Bay | 287592 | [287592-raid-on-bungeling-bay.json](./287592-raid-on-bungeling-bay.json) |
+| Raid on Bungeling Bay 2D | 415428 | [415428-raid-on-bungeling-bay-2d.json](./415428-raid-on-bungeling-bay-2d.json) |
 | Raid on Coasts | 51574 | [51574-raid-on-coasts.json](./51574-raid-on-coasts.json) |
 | Raid on Fort Knox | 122614 | [122614-raid-on-fort-knox.json](./122614-raid-on-fort-knox.json) |
 | Raid on Rift | 310806 | [310806-raid-on-rift.json](./310806-raid-on-rift.json) |
