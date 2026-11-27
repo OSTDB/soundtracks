@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipsed | 33592 | [33592-eclipsed.json](./33592-eclipsed.json) |
 | Eclipsed Realms | 385913 | [385913-eclipsed-realms.json](./385913-eclipsed-realms.json) |
 | Eclipsed Remnant | 385912 | [385912-eclipsed-remnant.json](./385912-eclipsed-remnant.json) |
+| Eclipsed Terror | 422535 | [422535-eclipsed-terror.json](./422535-eclipsed-terror.json) |
 | Eclipsic | 341111 | [341111-eclipsic.json](./341111-eclipsic.json) |
 | Eclipsing Binary Star | 430611 | [430611-eclipsing-binary-star.json](./430611-eclipsing-binary-star.json) |
 | Ecliptic | 337151 | [337151-ecliptic.json](./337151-ecliptic.json) |
@@ -4939,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enoh | 189921 | [189921-enoh.json](./189921-enoh.json) |
 | Enoki | 157149 | [157149-enoki.json](./157149-enoki.json) |
 | Enoma: A New Beginning | 164102 | [164102-enoma-a-new-beginning.json](./164102-enoma-a-new-beginning.json) |
+| Enomotia | 421958 | [421958-enomotia.json](./421958-enomotia.json) |
 | Enormosword | 341427 | [341427-enormosword.json](./341427-enormosword.json) |
 | Enotria: The Last Song | 218521 | [218521-enotria-the-last-song.json](./218521-enotria-the-last-song.json) |
 | Enotria: The Last Song - Deluxe Edition | 324763 | [324763-enotria-the-last-song-deluxe-edition.json](./324763-enotria-the-last-song-deluxe-edition.json) |
@@ -9930,4 +9932,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ezra's Escape | 359448 | [359448-ezras-escape.json](./359448-ezras-escape.json) |
 | Ezra's Legacy | 211597 | [211597-ezras-legacy.json](./211597-ezras-legacy.json) |
 | Ezrebeth | 333643 | [333643-ezrebeth.json](./333643-ezrebeth.json) |
+| Eztli: O Último Sol | 420278 | [420278-eztli-o-ultimo-sol.json](./420278-eztli-o-ultimo-sol.json) |
 | Ezy | 94770 | [94770-ezy.json](./94770-ezy.json) |
