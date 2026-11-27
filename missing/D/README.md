@@ -6458,7 +6458,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunter 2016 | 59789 | [59789-deer-hunter-2016.json](./59789-deer-hunter-2016.json) |
 | Deer Hunter 2017 | 39272 | [39272-deer-hunter-2017.json](./39272-deer-hunter-2017.json) |
 | Deer Hunter 2018 | 106291 | [106291-deer-hunter-2018.json](./106291-deer-hunter-2018.json) |
-| Deer Hunter 2018 | 87034 | [87034-deer-hunter-2018.json](./87034-deer-hunter-2018.json) |
 | Deer Hunter 3 Gold | 256 | [256-deer-hunter-3-gold.json](./256-deer-hunter-3-gold.json) |
 | Deer Hunter 3: The Legend Continues | 267 | [267-deer-hunter-3-the-legend-continues.json](./267-deer-hunter-3-the-legend-continues.json) |
 | Deer Hunter 3D | 268 | [268-deer-hunter-3d.json](./268-deer-hunter-3d.json) |
@@ -7264,7 +7263,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delusions | 60145 | [60145-delusions.json](./60145-delusions.json) |
 | Delusions of a Lost Soul | 196949 | [196949-delusions-of-a-lost-soul.json](./196949-delusions-of-a-lost-soul.json) |
 | Deluxe Flame Party Pack | 295446 | [295446-deluxe-flame-party-pack.json](./295446-deluxe-flame-party-pack.json) |
-| Deluxe Free Cell Solitaire | 86899 | [86899-deluxe-free-cell-solitaire.json](./86899-deluxe-free-cell-solitaire.json) |
 | Deluxe Galaga | 39026 | [39026-deluxe-galaga.json](./39026-deluxe-galaga.json) |
 | Deluxe Hotel Imperium | 10179 | [10179-deluxe-hotel-imperium.json](./10179-deluxe-hotel-imperium.json) |
 | Deluxe Scrabble for Windows | 78722 | [78722-deluxe-scrabble-for-windows.json](./78722-deluxe-scrabble-for-windows.json) |
@@ -8684,7 +8682,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperate: Vladivostok | 206720 | [206720-desperate-vladivostok.json](./206720-desperate-vladivostok.json) |
 | Desperation | 147415 | [147415-desperation.json](./147415-desperation.json) |
 | Despertar | 398666 | [398666-despertar.json](./398666-despertar.json) |
-| Despicable Bear | 86852 | [86852-despicable-bear.json](./86852-despicable-bear.json) |
 | Despicable Boss | 344501 | [344501-despicable-boss.json](./344501-despicable-boss.json) |
 | Despicable Me: Minion Mania | 64383 | [64383-despicable-me-minion-mania.json](./64383-despicable-me-minion-mania.json) |
 | Despicable Me: Minion Rush | 39188 | [39188-despicable-me-minion-rush.json](./39188-despicable-me-minion-rush.json) |
@@ -8693,7 +8690,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despierta | 402878 | [402878-despierta.json](./402878-despierta.json) |
 | deSpiria | 92865 | [92865-despiria.json](./92865-despiria.json) |
 | Despiry | 423129 | [423129-despiry.json](./423129-despiry.json) |
-| Despoiler | 87036 | [87036-despoiler.json](./87036-despoiler.json) |
 | Despondent | 311899 | [311899-despondent.json](./311899-despondent.json) |
 | Desposis | 289821 | [289821-desposis.json](./289821-desposis.json) |
 | Despot Zombie | 291698 | [291698-despot-zombie.json](./291698-despot-zombie.json) |
@@ -11436,7 +11432,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaurs | 175481 | [175481-dinosaurs.json](./175481-dinosaurs.json) |
 | Dinosaurs | 198726 | [198726-dinosaurs.json](./198726-dinosaurs.json) |
 | Dinosaurs | 64455 | [64455-dinosaurs.json](./64455-dinosaurs.json) |
-| Dinosaurs - Connect the Dots and Add Colors | 86725 | [86725-dinosaurs-connect-the-dots-and-add-colors.json](./86725-dinosaurs-connect-the-dots-and-add-colors.json) |
 | Dinosaurs A Prehistoric Adventure | 57128 | [57128-dinosaurs-a-prehistoric-adventure.json](./57128-dinosaurs-a-prehistoric-adventure.json) |
 | Dinosaurs and Animal Friends to the Rescue | 353999 | [353999-dinosaurs-and-animal-friends-to-the-rescue.json](./353999-dinosaurs-and-animal-friends-to-the-rescue.json) |
 | Dinosaurs Are People Too | 107662 | [107662-dinosaurs-are-people-too.json](./107662-dinosaurs-are-people-too.json) |
@@ -13826,7 +13821,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogma: Eternal Night | 110306 | [110306-dogma-eternal-night.json](./110306-dogma-eternal-night.json) |
 | Dogman | 141214 | [141214-dogman.json](./141214-dogman.json) |
 | Dogman95 | 354944 | [354944-dogman95.json](./354944-dogman95.json) |
-| Dogmelon Solitaire | 87101 | [87101-dogmelon-solitaire.json](./87101-dogmelon-solitaire.json) |
 | Dogness | 144242 | [144242-dogness.json](./144242-dogness.json) |
 | Dogo | 52029 | [52029-dogo.json](./52029-dogo.json) |
 | Dogolrax | 28074 | [28074-dogolrax.json](./28074-dogolrax.json) |
@@ -14375,8 +14369,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DomiNoo | 262453 | [262453-dominoo.json](./262453-dominoo.json) |
 | Dominos | 18612 | [18612-dominos.json](./18612-dominos.json) |
 | Dominos | 88431 | [88431-dominos.json](./88431-dominos.json) |
-| Dominos Pro | 86694 | [86694-dominos-pro.json](./86694-dominos-pro.json) |
-| Dominos Pro | 86873 | [86873-dominos-pro.json](./86873-dominos-pro.json) |
 | Dominot | 389023 | [389023-dominot.json](./389023-dominot.json) |
 | Dominova | 343699 | [343699-dominova.json](./343699-dominova.json) |
 | Dominus | 172081 | [172081-dominus.json](./172081-dominus.json) |
@@ -14744,7 +14736,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve: Mega Pack | 167117 | [167117-dont-starve-mega-pack.json](./167117-dont-starve-mega-pack.json) |
 | Don't Starve: Newhome | 187778 | [187778-dont-starve-newhome.json](./187778-dont-starve-newhome.json) |
 | Don't Starve: Nintendo Switch Edition | 96169 | [96169-dont-starve-nintendo-switch-edition.json](./96169-dont-starve-nintendo-switch-edition.json) |
-| Don't Starve: Pocket Edition | 86925 | [86925-dont-starve-pocket-edition.json](./86925-dont-starve-pocket-edition.json) |
 | Don't Starve: Reign of Giants | 52177 | [52177-dont-starve-reign-of-giants.json](./52177-dont-starve-reign-of-giants.json) |
 | Don't Starve: Reign of Giants Console Edition | 154749 | [154749-dont-starve-reign-of-giants-console-edition.json](./154749-dont-starve-reign-of-giants-console-edition.json) |
 | Don't Starve: Shipwrecked | 88917 | [88917-dont-starve-shipwrecked.json](./88917-dont-starve-shipwrecked.json) |
@@ -19248,7 +19239,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Hunters | 145530 | [145530-drift-hunters.json](./145530-drift-hunters.json) |
 | Drift Island | 243590 | [243590-drift-island.json](./243590-drift-island.json) |
 | Drift Island | 332871 | [332871-drift-island.json](./332871-drift-island.json) |
-| Drift It! | 87013 | [87013-drift-it.json](./87013-drift-it.json) |
 | Drift Journey | 213232 | [213232-drift-journey.json](./213232-drift-journey.json) |
 | Drift Journey: Nitro | 214499 | [214499-drift-journey-nitro.json](./214499-drift-journey-nitro.json) |
 | Drift King | 164199 | [164199-drift-king.json](./164199-drift-king.json) |
@@ -19572,7 +19562,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DriveSafely | 285936 | [285936-drivesafely.json](./285936-drivesafely.json) |
 | DriveWave | 374953 | [374953-drivewave.json](./374953-drivewave.json) |
 | Drivin' Force | 12575 | [12575-drivin-force.json](./12575-drivin-force.json) |
-| Driving Academy 2018 Simulator | 86972 | [86972-driving-academy-2018-simulator.json](./86972-driving-academy-2018-simulator.json) |
 | Driving Alone at Night | 181797 | [181797-driving-alone-at-night.json](./181797-driving-alone-at-night.json) |
 | Driving Around | 339572 | [339572-driving-around.json](./339572-driving-around.json) |
 | Driving Demon | 44370 | [44370-driving-demon.json](./44370-driving-demon.json) |
@@ -20515,7 +20504,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude My House Is Haunted | 362354 | [362354-dude-my-house-is-haunted.json](./362354-dude-my-house-is-haunted.json) |
 | Dude Perfect | 57776 | [57776-dude-perfect.json](./57776-dude-perfect.json) |
 | Dude Perfect 2 | 57777 | [57777-dude-perfect-2.json](./57777-dude-perfect-2.json) |
-| Dude Perfect HD | 86892 | [86892-dude-perfect-hd.json](./86892-dude-perfect-hd.json) |
 | Dude Perfect: Trickshot Challenge | 421397 | [421397-dude-perfect-trickshot-challenge.json](./421397-dude-perfect-trickshot-challenge.json) |
 | Dude Quest | 240139 | [240139-dude-quest.json](./240139-dude-quest.json) |
 | Dude Sim | 183220 | [183220-dude-sim.json](./183220-dude-sim.json) |
@@ -21903,7 +21891,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunjunguy | 240736 | [240736-dunjunguy.json](./240736-dunjunguy.json) |
 | Dunjunz | 134123 | [134123-dunjunz.json](./134123-dunjunz.json) |
 | Dunk | 426372 | [426372-dunk.json](./426372-dunk.json) |
-| Dunk a Lot! | 87006 | [87006-dunk-a-lot.json](./87006-dunk-a-lot.json) |
 | Dunk City Dynasty | 250569 | [250569-dunk-city-dynasty.json](./250569-dunk-city-dynasty.json) |
 | Dunk Cookies | 382760 | [382760-dunk-cookies.json](./382760-dunk-cookies.json) |
 | Dunk Dunk | 251983 | [251983-dunk-dunk.json](./251983-dunk-dunk.json) |
@@ -21926,7 +21913,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunkehr | 141181 | [141181-dunkehr.json](./141181-dunkehr.json) |
 | Dunker.io | 233197 | [233197-dunker-io.json](./233197-dunker-io.json) |
 | Dunkers | 58126 | [58126-dunkers.json](./58126-dunkers.json) |
-| Dunkers 2 | 87012 | [87012-dunkers-2.json](./87012-dunkers-2.json) |
 | Dunkey Munkey | 69603 | [69603-dunkey-munkey.json](./69603-dunkey-munkey.json) |
 | DunkForce | 208097 | [208097-dunkforce.json](./208097-dunkforce.json) |
 | Dunkin' Match-3 | 213195 | [213195-dunkin-match-3.json](./213195-dunkin-match-3.json) |
