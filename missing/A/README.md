@@ -2163,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aavegotchi: Gotchiverse | 195528 | [195528-aavegotchi-gotchiverse.json](./195528-aavegotchi-gotchiverse.json) |
 | Aazor: The Life of a Demon - Part I: The Beginning | 58081 | [58081-aazor-the-life-of-a-demon-part-i-the-beginning.json](./58081-aazor-the-life-of-a-demon-part-i-the-beginning.json) |
 | Ab Aeterno | 193291 | [193291-ab-aeterno.json](./193291-ab-aeterno.json) |
+| Ab9 | 420991 | [420991-ab9.json](./420991-ab9.json) |
 | Aba Daba | 84237 | [84237-aba-daba.json](./84237-aba-daba.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abacus | 154764 | [154764-abacus.json](./154764-abacus.json) |
@@ -11441,6 +11442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel's Feather | 72737 | [72737-angels-feather.json](./72737-angels-feather.json) |
 | Angel's Feather: Kohaku no Hitomi | 44649 | [44649-angels-feather-kohaku-no-hitomi.json](./44649-angels-feather-kohaku-no-hitomi.json) |
 | Angel's Feather: Kuro no Zanei | 51428 | [51428-angels-feather-kuro-no-zanei.json](./51428-angels-feather-kuro-no-zanei.json) |
+| Angel's Games Chapter 1: Go to School | 420597 | [420597-angels-games-chapter-1-go-to-school.json](./420597-angels-games-chapter-1-go-to-school.json) |
 | Angel's Love | 418094 | [418094-angels-love.json](./418094-angels-love.json) |
 | Angel's Love | 96459 | [96459-angels-love.json](./96459-angels-love.json) |
 | Angel's Lullaby | 330360 | [330360-angels-lullaby.json](./330360-angels-lullaby.json) |
@@ -12764,6 +12766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly 404 | 384863 | [384863-anomaly-404.json](./384863-anomaly-404.json) |
 | Anomaly Archives | 420936 | [420936-anomaly-archives.json](./420936-anomaly-archives.json) |
 | Anomaly Bus | 344866 | [344866-anomaly-bus.json](./344866-anomaly-bus.json) |
+| Anomaly Cafe | 422875 | [422875-anomaly-cafe.json](./422875-anomaly-cafe.json) |
 | Anomaly Center | 419279 | [419279-anomaly-center.json](./419279-anomaly-center.json) |
 | Anomaly Collapse | 270344 | [270344-anomaly-collapse.json](./270344-anomaly-collapse.json) |
 | Anomaly Collapse: Special Correspondent Constan | 353602 | [353602-anomaly-collapse-special-correspondent-constan.json](./353602-anomaly-collapse-special-correspondent-constan.json) |
@@ -14420,6 +14423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ar nosurge Plus | 91029 | [91029-ar-nosurge-plus.json](./91029-ar-nosurge-plus.json) |
 | Ar nosurge Plus: Ode to an Unborn Star - Limited Edition | 89915 | [89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json](./89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json) |
 | Ar nosurge: Ode to an Unborn Star | 7273 | [7273-ar-nosurge-ode-to-an-unborn-star.json](./7273-ar-nosurge-ode-to-an-unborn-star.json) |
+| Ar nosurge: Ode to an Unborn Star - Agent Pack | 422517 | [422517-ar-nosurge-ode-to-an-unborn-star-agent-pack.json](./422517-ar-nosurge-ode-to-an-unborn-star-agent-pack.json) |
 | Ar Nosurge: Ode to an Unborn Star DX | 139979 | [139979-ar-nosurge-ode-to-an-unborn-star-dx.json](./139979-ar-nosurge-ode-to-an-unborn-star-dx.json) |
 | AR Race Car | 242215 | [242215-ar-race-car.json](./242215-ar-race-car.json) |
 | AR Shot 2 | 344787 | [344787-ar-shot-2.json](./344787-ar-shot-2.json) |
@@ -16133,6 +16137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonus and the Gods of Stone | 118458 | [118458-argonus-and-the-gods-of-stone.json](./118458-argonus-and-the-gods-of-stone.json) |
 | Argos | 102444 | [102444-argos.json](./102444-argos.json) |
 | Argos | 12256 | [12256-argos.json](./12256-argos.json) |
+| Argos | 423575 | [423575-argos.json](./423575-argos.json) |
 | Argos: Riders on the Storm | 224509 | [224509-argos-riders-on-the-storm.json](./224509-argos-riders-on-the-storm.json) |
 | Argosy | 408092 | [408092-argosy.json](./408092-argosy.json) |
 | Argot's Laboratory | 415328 | [415328-argots-laboratory.json](./415328-argots-laboratory.json) |
@@ -19546,7 +19551,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Elie: The Alchemist of Salburg 2 | 26440 | [26440-atelier-elie-the-alchemist-of-salburg-2.json](./26440-atelier-elie-the-alchemist-of-salburg-2.json) |
 | Atelier Ellie: Puzzle Workshop | 329392 | [329392-atelier-ellie-puzzle-workshop.json](./329392-atelier-ellie-puzzle-workshop.json) |
 | Atelier Escha & Logy Plus: Alchemists of the Dusk Sky | 42720 | [42720-atelier-escha-and-logy-plus-alchemists-of-the-dusk-sky.json](./42720-atelier-escha-and-logy-plus-alchemists-of-the-dusk-sky.json) |
+| Atelier Escha & Logy Plus: Alchemists of the Dusk Sky - Premium Box | 419935 | [419935-atelier-escha-and-logy-plus-alchemists-of-the-dusk-sky-premium-box.json](./419935-atelier-escha-and-logy-plus-alchemists-of-the-dusk-sky-premium-box.json) |
 | Atelier Escha & Logy: Alchemists of the Dusk Sky | 7279 | [7279-atelier-escha-and-logy-alchemists-of-the-dusk-sky.json](./7279-atelier-escha-and-logy-alchemists-of-the-dusk-sky.json) |
+| Atelier Escha & Logy: Alchemists of the Dusk Sky - Premium Box | 419934 | [419934-atelier-escha-and-logy-alchemists-of-the-dusk-sky-premium-box.json](./419934-atelier-escha-and-logy-alchemists-of-the-dusk-sky-premium-box.json) |
 | Atelier Escha & Logy: Alchemists of the Dusk Sky DX | 122749 | [122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json](./122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey | 25921 | [25921-atelier-firis-the-alchemist-and-the-mysterious-journey.json](./25921-atelier-firis-the-alchemist-and-the-mysterious-journey.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey - Heintz | 170836 | [170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json](./170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json) |
@@ -20449,6 +20456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aura: Hentai Cards - Horny Madness | 301641 | [301641-aura-hentai-cards-horny-madness.json](./301641-aura-hentai-cards-horny-madness.json) |
 | Aura: Hentai Cards - The Dark Sea DLC | 293466 | [293466-aura-hentai-cards-the-dark-sea-dlc.json](./293466-aura-hentai-cards-the-dark-sea-dlc.json) |
 | Aura's Room | 270600 | [270600-auras-room.json](./270600-auras-room.json) |
+| AuraArena | 422538 | [422538-auraarena.json](./422538-auraarena.json) |
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
 | Aurail | 39618 | [39618-aurail.json](./39618-aurail.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
