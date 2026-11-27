@@ -5001,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KleptoCorns | 192105 | [192105-kleptocorns.json](./192105-kleptocorns.json) |
 | Kleptocrat | 70819 | [70819-kleptocrat.json](./70819-kleptocrat.json) |
 | KleptoDogs | 105792 | [105792-kleptodogs.json](./105792-kleptodogs.json) |
+| KleptoMagia | 430360 | [430360-kleptomagia.json](./430360-kleptomagia.json) |
 | Kleptomaniacs | 348807 | [348807-kleptomaniacs.json](./348807-kleptomaniacs.json) |
 | Kleptonaut | 184261 | [184261-kleptonaut.json](./184261-kleptonaut.json) |
 | Kleromancy | 422464 | [422464-kleromancy.json](./422464-kleromancy.json) |
