@@ -1806,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Psalter II: Féngmó zhī Tú | 394500 | [394500-magical-psalter-ii-fengmo-zhi-tu.json](./394500-magical-psalter-ii-fengmo-zhi-tu.json) |
 | Magical Psalter: Yù Mó zhī Lù | 394412 | [394412-magical-psalter-yu-mo-zhi-lu.json](./394412-magical-psalter-yu-mo-zhi-lu.json) |
 | Magical Queen's Land | 207599 | [207599-magical-queens-land.json](./207599-magical-queens-land.json) |
+| Magical Rune Tower: Sort the Alchemist Tower | 430410 | [430410-magical-rune-tower-sort-the-alchemist-tower.json](./430410-magical-rune-tower-sort-the-alchemist-tower.json) |
 | Magical Runes | 368600 | [368600-magical-runes.json](./368600-magical-runes.json) |
 | Magical School Girls Battle Arena | 316643 | [316643-magical-school-girls-battle-arena.json](./316643-magical-school-girls-battle-arena.json) |
 | Magical Shop | 293881 | [293881-magical-shop.json](./293881-magical-shop.json) |
@@ -8387,6 +8388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet My Teacher: Sport DLC | 302589 | [302589-meet-my-teacher-sport-dlc.json](./302589-meet-my-teacher-sport-dlc.json) |
 | Meet Santa | 175300 | [175300-meet-santa.json](./175300-meet-santa.json) |
 | Meet Santa | 326969 | [326969-meet-santa.json](./326969-meet-santa.json) |
+| Meet Sudoku | 430411 | [430411-meet-sudoku.json](./430411-meet-sudoku.json) |
 | Meet The Animals | 293840 | [293840-meet-the-animals.json](./293840-meet-the-animals.json) |
 | Meet the Girls | 181801 | [181801-meet-the-girls.json](./181801-meet-the-girls.json) |
 | Meet the Grumps | 429513 | [429513-meet-the-grumps.json](./429513-meet-the-grumps.json) |
@@ -24892,6 +24894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myopia | 362445 | [362445-myopia.json](./362445-myopia.json) |
 | Myosotis | 362891 | [362891-myosotis.json](./362891-myosotis.json) |
 | Myosotis | 374001 | [374001-myosotis.json](./374001-myosotis.json) |
+| Myosotis | 430435 | [430435-myosotis.json](./430435-myosotis.json) |
 | Myoubouh Catcher | 152518 | [152518-myoubouh-catcher.json](./152518-myoubouh-catcher.json) |
 | MyPawnShop | 327550 | [327550-mypawnshop.json](./327550-mypawnshop.json) |
 | MyPopgoes | 243687 | [243687-mypopgoes.json](./243687-mypopgoes.json) |
