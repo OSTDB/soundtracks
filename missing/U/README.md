@@ -2319,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undying Lantern | 197131 | [197131-undying-lantern.json](./197131-undying-lantern.json) |
 | Undying Memoir | 270646 | [270646-undying-memoir.json](./270646-undying-memoir.json) |
 | Undying One | 390250 | [390250-undying-one.json](./390250-undying-one.json) |
+| Undying Renewal | 420947 | [420947-undying-renewal.json](./420947-undying-renewal.json) |
 | Undying Soul | 423795 | [423795-undying-soul.json](./423795-undying-soul.json) |
 | Undying Symphony | 163194 | [163194-undying-symphony.json](./163194-undying-symphony.json) |
 | Undying West | 389226 | [389226-undying-west.json](./389226-undying-west.json) |
@@ -3064,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unou Tanren UnoTan DS: Shichida Shiki Otona no Shun Kan Training | 124115 | [124115-unou-tanren-unotan-ds-shichida-shiki-otona-no-shun-kan-training.json](./124115-unou-tanren-unotan-ds-shichida-shiki-otona-no-shun-kan-training.json) |
 | Unova Nights | 410358 | [410358-unova-nights.json](./410358-unova-nights.json) |
 | UnovaRPG | 250667 | [250667-unovarpg.json](./250667-unovarpg.json) |
+| Unown Message | 425850 | [425850-unown-message.json](./425850-unown-message.json) |
 | Unoxi | 268164 | [268164-unoxi.json](./268164-unoxi.json) |
 | Unpacking | 134276 | [134276-unpacking.json](./134276-unpacking.json) |
 | Unpacking Universe Dreams | 322531 | [322531-unpacking-universe-dreams.json](./322531-unpacking-universe-dreams.json) |
@@ -4180,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utsukushii Nihongo no Kakikata Hanashikata DS | 124114 | [124114-utsukushii-nihongo-no-kakikata-hanashikata-ds.json](./124114-utsukushii-nihongo-no-kakikata-hanashikata-ds.json) |
 | Utsurobi no Serentia | 301608 | [301608-utsurobi-no-serentia.json](./301608-utsurobi-no-serentia.json) |
 | Utsurogami | 259306 | [259306-utsurogami.json](./259306-utsurogami.json) |
+| Utsuru: Inkfection | 425811 | [425811-utsuru-inkfection.json](./425811-utsuru-inkfection.json) |
 | Utsurun Desu: Kawauso Hawaii he Iku!!! | 48553 | [48553-utsurun-desu-kawauso-hawaii-he-iku.json](./48553-utsurun-desu-kawauso-hawaii-he-iku.json) |
 | Utsusemi no Meguri | 69323 | [69323-utsusemi-no-meguri.json](./69323-utsusemi-no-meguri.json) |
 | Utsusemi: Kioku no Kanata | 422906 | [422906-utsusemi-kioku-no-kanata.json](./422906-utsusemi-kioku-no-kanata.json) |
