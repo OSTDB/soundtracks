@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
 | James Pond: Codename Robocod | 51468 | [51468-james-pond-codename-robocod.json](./51468-james-pond-codename-robocod.json) |
 | James Town Courier Frog MD | 127820 | [127820-james-town-courier-frog-md.json](./127820-james-town-courier-frog-md.json) |
+| James White Simulator | 431612 | [431612-james-white-simulator.json](./431612-james-white-simulator.json) |
 | James: Masquerade Ball | 313623 | [313623-james-masquerade-ball.json](./313623-james-masquerade-ball.json) |
 | James: The Circus Zebra | 236625 | [236625-james-the-circus-zebra.json](./236625-james-the-circus-zebra.json) |
 | James' Fun House: Episode 1 | 276856 | [276856-james-fun-house-episode-1.json](./276856-james-fun-house-episode-1.json) |
@@ -1725,7 +1726,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest Trilogy | 50633 | [50633-jewel-quest-trilogy.json](./50633-jewel-quest-trilogy.json) |
 | Jewel Quest: Heritage | 209994 | [209994-jewel-quest-heritage.json](./209994-jewel-quest-heritage.json) |
 | Jewel Quest: Match 3 Adventure | 376577 | [376577-jewel-quest-match-3-adventure.json](./376577-jewel-quest-match-3-adventure.json) |
-| Jewel Quest: Seven Seas | 87106 | [87106-jewel-quest-seven-seas.json](./87106-jewel-quest-seven-seas.json) |
 | Jewel Quest: Seven Seas - Collector's Edition | 31047 | [31047-jewel-quest-seven-seas-collectors-edition.json](./31047-jewel-quest-seven-seas-collectors-edition.json) |
 | Jewel Quest: The Sapphire Dragon | 210021 | [210021-jewel-quest-the-sapphire-dragon.json](./210021-jewel-quest-the-sapphire-dragon.json) |
 | Jewel Quest: The Sapphire Dragon | 85213 | [85213-jewel-quest-the-sapphire-dragon.json](./85213-jewel-quest-the-sapphire-dragon.json) |
@@ -1903,7 +1903,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Chronicles: Most Wanted | 325002 | [325002-jigsaw-chronicles-most-wanted.json](./325002-jigsaw-chronicles-most-wanted.json) |
 | Jigsaw City Princess | 332353 | [332353-jigsaw-city-princess.json](./332353-jigsaw-city-princess.json) |
 | Jigsaw Classics | 188116 | [188116-jigsaw-classics.json](./188116-jigsaw-classics.json) |
-| Jigsaw Club | 87353 | [87353-jigsaw-club.json](./87353-jigsaw-club.json) |
 | Jigsaw Detective | 366437 | [366437-jigsaw-detective.json](./366437-jigsaw-detective.json) |
 | Jigsaw Dinosaurs | 284945 | [284945-jigsaw-dinosaurs.json](./284945-jigsaw-dinosaurs.json) |
 | Jigsaw Explorer | 290261 | [290261-jigsaw-explorer.json](./290261-jigsaw-explorer.json) |
@@ -2695,7 +2694,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joestar Studios: The Game | 137806 | [137806-joestar-studios-the-game.json](./137806-joestar-studios-the-game.json) |
 | Joexian's Basics In Bowling And Video Making | 389993 | [389993-joexians-basics-in-bowling-and-video-making.json](./389993-joexians-basics-in-bowling-and-video-making.json) |
 | Joey and Penguin's 2 Player Adventure | 216181 | [216181-joey-and-penguins-2-player-adventure.json](./216181-joey-and-penguins-2-player-adventure.json) |
-| Joey Cross - Jumping on Roads in the Outback | 87222 | [87222-joey-cross-jumping-on-roads-in-the-outback.json](./87222-joey-cross-jumping-on-roads-in-the-outback.json) |
 | Joey The Duck | 370217 | [370217-joey-the-duck.json](./370217-joey-the-duck.json) |
 | Joey Wamoney's: The Metamorphosis | 278464 | [278464-joey-wamoneys-the-metamorphosis.json](./278464-joey-wamoneys-the-metamorphosis.json) |
 | Joey's Nightmare II | 405792 | [405792-joeys-nightmare-ii.json](./405792-joeys-nightmare-ii.json) |
@@ -3625,7 +3623,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump & Hook | 334394 | [334394-jump-and-hook.json](./334394-jump-and-hook.json) |
 | Jump & Ride: Riding Academy 3D | 210143 | [210143-jump-and-ride-riding-academy-3d.json](./210143-jump-and-ride-riding-academy-3d.json) |
 | Jump & Shoot | 113327 | [113327-jump-and-shoot.json](./113327-jump-and-shoot.json) |
-| Jump & Splash | 87129 | [87129-jump-and-splash.json](./87129-jump-and-splash.json) |
 | Jump 1/2 | 215761 | [215761-jump-1-2.json](./215761-jump-1-2.json) |
 | Jump 2: Mr.Q Adventure | 241817 | [241817-jump-2-mr-q-adventure.json](./241817-jump-2-mr-q-adventure.json) |
 | Jump Again! | 157319 | [157319-jump-again.json](./157319-jump-again.json) |
@@ -4389,7 +4386,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park: Survival | 279640 | [279640-jurassic-park-survival.json](./279640-jurassic-park-survival.json) |
 | Jurassic Park: Survival | 66354 | [66354-jurassic-park-survival.json](./66354-jurassic-park-survival.json) |
 | Jurassic Park: The Game | 7025 | [7025-jurassic-park-the-game.json](./7025-jurassic-park-the-game.json) |
-| Jurassic Park: The Game 4 HD | 87272 | [87272-jurassic-park-the-game-4-hd.json](./87272-jurassic-park-the-game-4-hd.json) |
 | Jurassic Pet: Virtual World | 263581 | [263581-jurassic-pet-virtual-world.json](./263581-jurassic-pet-virtual-world.json) |
 | Jurassic Pinball | 102306 | [102306-jurassic-pinball.json](./102306-jurassic-pinball.json) |
 | Jurassic Pixel Dinosaur Craft | 350596 | [350596-jurassic-pixel-dinosaur-craft.json](./350596-jurassic-pixel-dinosaur-craft.json) |
