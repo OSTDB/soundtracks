@@ -1952,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Fears | 405939 | [405939-late-night-fears.json](./405939-late-night-fears.json) |
 | Late Night Gas Station | 205989 | [205989-late-night-gas-station.json](./205989-late-night-gas-station.json) |
 | Late Night Hunger | 304092 | [304092-late-night-hunger.json](./304092-late-night-hunger.json) |
+| Late Night Ice Cream | 415535 | [415535-late-night-ice-cream.json](./415535-late-night-ice-cream.json) |
 | Late Night Luigi | 322922 | [322922-late-night-luigi.json](./322922-late-night-luigi.json) |
 | Late Night Manifest | 408583 | [408583-late-night-manifest.json](./408583-late-night-manifest.json) |
 | Late Night Mario | 322920 | [322920-late-night-mario.json](./322920-late-night-mario.json) |
@@ -6662,6 +6663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Hopeful | 129962 | [129962-lisa-the-hopeful.json](./129962-lisa-the-hopeful.json) |
 | Lisa: The Joyful - Arkantos | 222093 | [222093-lisa-the-joyful-arkantos.json](./222093-lisa-the-joyful-arkantos.json) |
 | Lisa: The Joyful - Definitive Edition | 252189 | [252189-lisa-the-joyful-definitive-edition.json](./252189-lisa-the-joyful-definitive-edition.json) |
+| Lisa: The Nonsensical 2 - Big Shot | 414216 | [414216-lisa-the-nonsensical-2-big-shot.json](./414216-lisa-the-nonsensical-2-big-shot.json) |
 | Lisa: The Oblivious | 215082 | [215082-lisa-the-oblivious.json](./215082-lisa-the-oblivious.json) |
 | Lisa: The Painful | 8492 | [8492-lisa-the-painful.json](./8492-lisa-the-painful.json) |
 | Lisa: The Painful - Fractured Bonds | 221767 | [221767-lisa-the-painful-fractured-bonds.json](./221767-lisa-the-painful-fractured-bonds.json) |
