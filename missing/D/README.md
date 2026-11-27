@@ -5861,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck of Haunts | 320726 | [320726-deck-of-haunts.json](./320726-deck-of-haunts.json) |
 | Deck of Life | 212831 | [212831-deck-of-life.json](./212831-deck-of-life.json) |
 | Deck of Memories | 348344 | [348344-deck-of-memories.json](./348344-deck-of-memories.json) |
+| Deck of Robin Hood | 430574 | [430574-deck-of-robin-hood.json](./430574-deck-of-robin-hood.json) |
 | Deck of Souls | 252356 | [252356-deck-of-souls.json](./252356-deck-of-souls.json) |
 | Deck of Stabs | 346745 | [346745-deck-of-stabs.json](./346745-deck-of-stabs.json) |
 | Deck Of The Damned | 369782 | [369782-deck-of-the-damned.json](./369782-deck-of-the-damned.json) |
@@ -10634,6 +10635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digi-Dodgy | 336676 | [336676-digi-dodgy.json](./336676-digi-dodgy.json) |
 | Digi-Doll | 345964 | [345964-digi-doll.json](./345964-digi-doll.json) |
 | Digi-tiles | 202074 | [202074-digi-tiles.json](./202074-digi-tiles.json) |
+| DigiBeatz | 430338 | [430338-digibeatz.json](./430338-digibeatz.json) |
 | Digical League | 286488 | [286488-digical-league.json](./286488-digical-league.json) |
 | Digiclimb | 402281 | [402281-digiclimb.json](./402281-digiclimb.json) |
 | DigiGods: Build and Battle | 325874 | [325874-digigods-build-and-battle.json](./325874-digigods-build-and-battle.json) |
