@@ -2181,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iga tai Kouga | 385742 | [385742-iga-tai-kouga.json](./385742-iga-tai-kouga.json) |
 | Igano Kabamaru | 349267 | [349267-igano-kabamaru.json](./349267-igano-kabamaru.json) |
 | IGDB | 242599 | [242599-igdb.json](./242599-igdb.json) |
+| IGDBdle | 431200 | [431200-igdbdle.json](./431200-igdbdle.json) |
 | Ige Museun Tteusin-ji Moreugesseoyo | 365223 | [365223-ige-museun-tteusin-ji-moreugesseoyo.json](./365223-ige-museun-tteusin-ji-moreugesseoyo.json) |
 | Igeo | 134900 | [134900-igeo.json](./134900-igeo.json) |
 | Igeo DX | 136419 | [136419-igeo-dx.json](./136419-igeo-dx.json) |
@@ -3117,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Mission Remastered | 171358 | [171358-impossible-mission-remastered.json](./171358-impossible-mission-remastered.json) |
 | Impossible Moto Sim | 337512 | [337512-impossible-moto-sim.json](./337512-impossible-moto-sim.json) |
 | Impossible Pixels | 140867 | [140867-impossible-pixels.json](./140867-impossible-pixels.json) |
+| Impossible Pizza Delivery | 431153 | [431153-impossible-pizza-delivery.json](./431153-impossible-pizza-delivery.json) |
 | Impossible Quest | 32454 | [32454-impossible-quest.json](./32454-impossible-quest.json) |
 | Impossible Road | 22158 | [22158-impossible-road.json](./22158-impossible-road.json) |
 | Impossible Road 2 | 278688 | [278688-impossible-road-2.json](./278688-impossible-road-2.json) |
