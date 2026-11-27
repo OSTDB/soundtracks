@@ -3634,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techblox | 144900 | [144900-techblox.json](./144900-techblox.json) |
 | Techbrawlogy: Into the RoboDome | 244032 | [244032-techbrawlogy-into-the-robodome.json](./244032-techbrawlogy-into-the-robodome.json) |
 | TechCompliant | 58448 | [58448-techcompliant.json](./58448-techcompliant.json) |
+| Techfront | 431589 | [431589-techfront.json](./431589-techfront.json) |
 | TechGuardian: Territory Defense | 364138 | [364138-techguardian-territory-defense.json](./364138-techguardian-territory-defense.json) |
 | Techium Eclipse | 183508 | [183508-techium-eclipse.json](./183508-techium-eclipse.json) |
 | Techlie | 155813 | [155813-techlie.json](./155813-techlie.json) |
@@ -5857,6 +5858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Hold'em: High Stakes Poker | 73540 | [73540-texas-holdem-high-stakes-poker.json](./73540-texas-holdem-high-stakes-poker.json) |
 | Texas Lane'em Poker | 251253 | [251253-texas-laneem-poker.json](./251253-texas-laneem-poker.json) |
 | Texas Moon HD | 103572 | [103572-texas-moon-hd.json](./103572-texas-moon-hd.json) |
+| Texas Oil Baron | 431595 | [431595-texas-oil-baron.json](./431595-texas-oil-baron.json) |
 | Texas Solitaire Cube | 125938 | [125938-texas-solitaire-cube.json](./125938-texas-solitaire-cube.json) |
 | Texas Tango | 55309 | [55309-texas-tango.json](./55309-texas-tango.json) |
 | Texas Wildcatter Experience | 106753 | [106753-texas-wildcatter-experience.json](./106753-texas-wildcatter-experience.json) |
@@ -6109,6 +6111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThaumOS | 184462 | [184462-thaumos.json](./184462-thaumos.json) |
 | Thaw | 318294 | [318294-thaw.json](./318294-thaw.json) |
 | Thawed Waters | 260254 | [260254-thawed-waters.json](./260254-thawed-waters.json) |
+| Thawpoint | 431185 | [431185-thawpoint.json](./431185-thawpoint.json) |
 | Thaxted Havershill and the Golden Wombat | 57486 | [57486-thaxted-havershill-and-the-golden-wombat.json](./57486-thaxted-havershill-and-the-golden-wombat.json) |
 | Thayer's Quest | 69071 | [69071-thayers-quest.json](./69071-thayers-quest.json) |
 | THC | 120106 | [120106-thc.json](./120106-thc.json) |
@@ -8568,6 +8571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coil of Possibility | 137968 | [137968-the-coil-of-possibility.json](./137968-the-coil-of-possibility.json) |
 | The Coin | 383159 | [383159-the-coin.json](./383159-the-coin.json) |
 | The Coin Game | 99192 | [99192-the-coin-game.json](./99192-the-coin-game.json) |
+| The Coin Goblin | 431551 | [431551-the-coin-goblin.json](./431551-the-coin-goblin.json) |
 | The Coin Keeper: Tidy Up! | 429067 | [429067-the-coin-keeper-tidy-up.json](./429067-the-coin-keeper-tidy-up.json) |
 | The Cold Case | 302140 | [302140-the-cold-case.json](./302140-the-cold-case.json) |
 | The Cold Forest | 211946 | [211946-the-cold-forest.json](./211946-the-cold-forest.json) |
@@ -9401,6 +9405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day in a Life of a Dayfly | 357461 | [357461-the-day-in-a-life-of-a-dayfly.json](./357461-the-day-in-a-life-of-a-dayfly.json) |
 | The Day Nothing Happened | 70379 | [70379-the-day-nothing-happened.json](./70379-the-day-nothing-happened.json) |
 | The Day of Chains | 274150 | [274150-the-day-of-chains.json](./274150-the-day-of-chains.json) |
+| The Day of Revenge | 431562 | [431562-the-day-of-revenge.json](./431562-the-day-of-revenge.json) |
 | The Day of Sagittarius III | 281481 | [281481-the-day-of-sagittarius-iii.json](./281481-the-day-of-sagittarius-iii.json) |
 | The Day of Salvation | 374744 | [374744-the-day-of-salvation.json](./374744-the-day-of-salvation.json) |
 | The Day Of Survival | 305704 | [305704-the-day-of-survival.json](./305704-the-day-of-survival.json) |
@@ -12177,6 +12182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hacker | 13724 | [13724-the-hacker.json](./13724-the-hacker.json) |
 | The Hacker | 228885 | [228885-the-hacker.json](./228885-the-hacker.json) |
 | The Hacker 2.0 | 234051 | [234051-the-hacker-2-0.json](./234051-the-hacker-2-0.json) |
+| The Hacker: Protocol Zer0 | 431136 | [431136-the-hacker-protocol-zer0.json](./431136-the-hacker-protocol-zer0.json) |
 | The Hacker's Cave | 184698 | [184698-the-hackers-cave.json](./184698-the-hackers-cave.json) |
 | The Hacking Intern | 53743 | [53743-the-hacking-intern.json](./53743-the-hacking-intern.json) |
 | The Haioku Byoutou | 124076 | [124076-the-haioku-byoutou.json](./124076-the-haioku-byoutou.json) |
@@ -13820,6 +13826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land of Lamia | 34838 | [34838-the-land-of-lamia.json](./34838-the-land-of-lamia.json) |
 | The Land of Magic | 292338 | [292338-the-land-of-magic.json](./292338-the-land-of-magic.json) |
 | The Land of Morning Calm | 358888 | [358888-the-land-of-morning-calm.json](./358888-the-land-of-morning-calm.json) |
+| The Land of Oqvara: Forest Realm | 431571 | [431571-the-land-of-oqvara-forest-realm.json](./431571-the-land-of-oqvara-forest-realm.json) |
 | The Land of Pain | 30038 | [30038-the-land-of-pain.json](./30038-the-land-of-pain.json) |
 | The Land of Rest 1 | 346608 | [346608-the-land-of-rest-1.json](./346608-the-land-of-rest-1.json) |
 | The Land of Seidr | 275724 | [275724-the-land-of-seidr.json](./275724-the-land-of-seidr.json) |
@@ -14140,6 +14147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Anime | 159476 | [159476-the-last-of-anime.json](./159476-the-last-of-anime.json) |
 | The Last of Hero | 181583 | [181583-the-last-of-hero.json](./181583-the-last-of-hero.json) |
 | The Last of Humans: Awakening | 135402 | [135402-the-last-of-humans-awakening.json](./135402-the-last-of-humans-awakening.json) |
+| The Last of Morvein | 431206 | [431206-the-last-of-morvein.json](./431206-the-last-of-morvein.json) |
 | The Last of RAM | 406498 | [406498-the-last-of-ram.json](./406498-the-last-of-ram.json) |
 | The Last of Samual | 191972 | [191972-the-last-of-samual.json](./191972-the-last-of-samual.json) |
 | The Last of the 9 Lives | 319179 | [319179-the-last-of-the-9-lives.json](./319179-the-last-of-the-9-lives.json) |
@@ -14257,6 +14265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Show | 399035 | [399035-the-last-show.json](./399035-the-last-show.json) |
 | The Last Show | 404387 | [404387-the-last-show.json](./404387-the-last-show.json) |
 | The Last Show of Mr. Chardish: Act I | 170386 | [170386-the-last-show-of-mr-chardish-act-i.json](./170386-the-last-show-of-mr-chardish-act-i.json) |
+| The Last Sideran | 431170 | [431170-the-last-sideran.json](./431170-the-last-sideran.json) |
 | The Last Sigh(t) | 390209 | [390209-the-last-sigh-t.json](./390209-the-last-sigh-t.json) |
 | The Last Sight | 260063 | [260063-the-last-sight.json](./260063-the-last-sight.json) |
 | The Last Signal | 294120 | [294120-the-last-signal.json](./294120-the-last-signal.json) |
@@ -23398,6 +23407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Pool | 109584 | [109584-this-is-pool.json](./109584-this-is-pool.json) |
 | This Is Snooker | 117975 | [117975-this-is-snooker.json](./117975-this-is-snooker.json) |
 | This Is Snooker: Pool Deluxe Edition | 117022 | [117022-this-is-snooker-pool-deluxe-edition.json](./117022-this-is-snooker-pool-deluxe-edition.json) |
+| This Is Space | 431567 | [431567-this-is-space.json](./431567-this-is-space.json) |
 | This Is the ... Ultimate Loyalty Bundle | 430396 | [430396-this-is-the-ultimate-loyalty-bundle.json](./430396-this-is-the-ultimate-loyalty-bundle.json) |
 | This is the last time | 337550 | [337550-this-is-the-last-time.json](./337550-this-is-the-last-time.json) |
 | This is the Only Level | 121726 | [121726-this-is-the-only-level.json](./121726-this-is-the-only-level.json) |
@@ -23490,6 +23500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas & Friends: Up, Up and Away! Diesel's Special Delivery | 242029 | [242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json](./242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json) |
 | Thomas & Friends: Wonders of Sodor | 388501 | [388501-thomas-and-friends-wonders-of-sodor.json](./388501-thomas-and-friends-wonders-of-sodor.json) |
 | Thomas & Friends: Wonders of Sodor - Deluxe Edition | 394325 | [394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json](./394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json) |
+| Thomas & Friends: Wonders of Sodor - Henry Add-On | 431584 | [431584-thomas-and-friends-wonders-of-sodor-henry-add-on.json](./431584-thomas-and-friends-wonders-of-sodor-henry-add-on.json) |
 | Thomas & Friends: Wonders of Sodor - James Addon | 394318 | [394318-thomas-and-friends-wonders-of-sodor-james-addon.json](./394318-thomas-and-friends-wonders-of-sodor-james-addon.json) |
 | Thomas and Friends: Calling All Engines | 69047 | [69047-thomas-and-friends-calling-all-engines.json](./69047-thomas-and-friends-calling-all-engines.json) |
 | Thomas and Friends: Calling All Engines | 69068 | [69068-thomas-and-friends-calling-all-engines.json](./69068-thomas-and-friends-calling-all-engines.json) |
@@ -23628,6 +23639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thread | 25323 | [25323-thread.json](./25323-thread.json) |
 | thread and Needle | 301922 | [301922-thread-and-needle.json](./301922-thread-and-needle.json) |
 | Thread Fred | 149258 | [149258-thread-fred.json](./149258-thread-fred.json) |
+| Thread of Fate: Survivor | 431548 | [431548-thread-of-fate-survivor.json](./431548-thread-of-fate-survivor.json) |
 | Thread the Void | 426873 | [426873-thread-the-void.json](./426873-thread-the-void.json) |
 | Threadbare | 364664 | [364664-threadbare.json](./364664-threadbare.json) |
 | Threadbound | 182979 | [182979-threadbound.json](./182979-threadbound.json) |
@@ -23949,6 +23961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throughput | 422614 | [422614-throughput.json](./422614-throughput.json) |
 | ThrounnelVR | 31877 | [31877-throunnelvr.json](./31877-throunnelvr.json) |
 | Throuple in Paradise | 426067 | [426067-throuple-in-paradise.json](./426067-throuple-in-paradise.json) |
+| Throw a Barrel Down a Hill | 431216 | [431216-throw-a-barrel-down-a-hill.json](./431216-throw-a-barrel-down-a-hill.json) |
 | Throw Anything | 86622 | [86622-throw-anything.json](./86622-throw-anything.json) |
 | Throw Anything: Radiation Zombies | 270827 | [270827-throw-anything-radiation-zombies.json](./270827-throw-anything-radiation-zombies.json) |
 | Throw Anything: Zombie Invaders | 373090 | [373090-throw-anything-zombie-invaders.json](./373090-throw-anything-zombie-invaders.json) |
@@ -24444,6 +24457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up | 406153 | [406153-tidy-up.json](./406153-tidy-up.json) |
 | Tidy Up | 412006 | [412006-tidy-up.json](./412006-tidy-up.json) |
 | Tidy Up History | 412000 | [412000-tidy-up-history.json](./412000-tidy-up-history.json) |
+| Tidy Up Ltd. | 431140 | [431140-tidy-up-ltd.json](./431140-tidy-up-ltd.json) |
 | Tidy up the Backrooms | 420916 | [420916-tidy-up-the-backrooms.json](./420916-tidy-up-the-backrooms.json) |
 | Tidy Up the Backrooms | 419519 | [419519-tidy-up-the-backrooms.json](./419519-tidy-up-the-backrooms.json) |
 | Tidy Up the Christmas Shop | 428999 | [428999-tidy-up-the-christmas-shop.json](./428999-tidy-up-the-christmas-shop.json) |
@@ -28502,6 +28516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokeijikake no Ley Line: Kagerou ni Samayou Majo | 54773 | [54773-tokeijikake-no-ley-line-kagerou-ni-samayou-majo.json](./54773-tokeijikake-no-ley-line-kagerou-ni-samayou-majo.json) |
 | Tokeijikake no Ley Line: Tasogaredoki no Kyoukaisen | 54754 | [54754-tokeijikake-no-ley-line-tasogaredoki-no-kyoukaisen.json](./54754-tokeijikake-no-ley-line-tasogaredoki-no-kyoukaisen.json) |
 | Tokeis | 270016 | [270016-tokeis.json](./270016-tokeis.json) |
+| Tokekai | 431182 | [431182-tokekai.json](./431182-tokekai.json) |
 | Token Game | 169753 | [169753-token-game.json](./169753-token-game.json) |
 | Token Town | 278357 | [278357-token-town.json](./278357-token-town.json) |
 | Tokens | 394444 | [394444-tokens.json](./394444-tokens.json) |
@@ -28999,6 +29014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy’s The Division 2: Red Eye Pack | 377721 | [377721-tom-clancy-s-the-division-2-red-eye-pack.json](./377721-tom-clancy-s-the-division-2-red-eye-pack.json) |
 | Tom Clancy's The Division 2: Season 1 - First Rogue | 305236 | [305236-tom-clancys-the-division-2-season-1-first-rogue.json](./305236-tom-clancys-the-division-2-season-1-first-rogue.json) |
 | Tom Clancy’s The Division 2: Shady Pack | 408898 | [408898-tom-clancy-s-the-division-2-shady-pack.json](./408898-tom-clancy-s-the-division-2-shady-pack.json) |
+| Tom Clancy's The Division 2: Spearfall | 431538 | [431538-tom-clancys-the-division-2-spearfall.json](./431538-tom-clancys-the-division-2-spearfall.json) |
 | Tom Clancy's The Division 2: The Pact | 379933 | [379933-tom-clancys-the-division-2-the-pact.json](./379933-tom-clancys-the-division-2-the-pact.json) |
 | Tom Clancy's The Division 2: The Phoenix Shield Edition | 112645 | [112645-tom-clancys-the-division-2-the-phoenix-shield-edition.json](./112645-tom-clancys-the-division-2-the-phoenix-shield-edition.json) |
 | Tom Clancy's The Division 2: Ultimate Edition | 112647 | [112647-tom-clancys-the-division-2-ultimate-edition.json](./112647-tom-clancys-the-division-2-ultimate-edition.json) |
