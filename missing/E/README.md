@@ -5598,6 +5598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Era of Miracles | 124167 | [124167-era-of-miracles.json](./124167-era-of-miracles.json) |
 | Era of Newborns | 113190 | [113190-era-of-newborns.json](./113190-era-of-newborns.json) |
 | Era of Samurai: Code of Love | 163356 | [163356-era-of-samurai-code-of-love.json](./163356-era-of-samurai-code-of-love.json) |
+| Era of Shadows | 430566 | [430566-era-of-shadows.json](./430566-era-of-shadows.json) |
 | Era of Survival | 129311 | [129311-era-of-survival.json](./129311-era-of-survival.json) |
 | Era of War | 187059 | [187059-era-of-war.json](./187059-era-of-war.json) |
 | Era One | 258333 | [258333-era-one.json](./258333-era-one.json) |
@@ -9564,6 +9565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Angler | 72051 | [72051-extreme-angler.json](./72051-extreme-angler.json) |
 | Extreme Assault | 50302 | [50302-extreme-assault.json](./50302-extreme-assault.json) |
 | Extreme Auto Fishing | 364426 | [364426-extreme-auto-fishing.json](./364426-extreme-auto-fishing.json) |
+| Extreme Balancer 3 | 430493 | [430493-extreme-balancer-3.json](./430493-extreme-balancer-3.json) |
 | Extreme Bankikki | 204247 | [204247-extreme-bankikki.json](./204247-extreme-bankikki.json) |
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
 | Extreme Bike X | 213142 | [213142-extreme-bike-x.json](./213142-extreme-bike-x.json) |
