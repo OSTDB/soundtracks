@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactus | 357740 | [357740-cactus.json](./357740-cactus.json) |
 | Cactus Arcade | 141791 | [141791-cactus-arcade.json](./141791-cactus-arcade.json) |
 | Cactus Arcade II | 141792 | [141792-cactus-arcade-ii.json](./141792-cactus-arcade-ii.json) |
+| Cactus Block on Adventure! | 422813 | [422813-cactus-block-on-adventure.json](./422813-cactus-block-on-adventure.json) |
 | Cactus Blue Motel | 57515 | [57515-cactus-blue-motel.json](./57515-cactus-blue-motel.json) |
 | Cactus Canyon | 88479 | [88479-cactus-canyon.json](./88479-cactus-canyon.json) |
 | Cactus Clicker | 380667 | [380667-cactus-clicker.json](./380667-cactus-clicker.json) |
@@ -10240,6 +10241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciel Fledge | 75431 | [75431-ciel-fledge.json](./75431-ciel-fledge.json) |
 | Ciel Nosurge | 24929 | [24929-ciel-nosurge.json](./24929-ciel-nosurge.json) |
 | Ciel Nosurge Offline: Ushinawareta Hoshi he Sasagu Uta | 104966 | [104966-ciel-nosurge-offline-ushinawareta-hoshi-he-sasagu-uta.json](./104966-ciel-nosurge-offline-ushinawareta-hoshi-he-sasagu-uta.json) |
+| Ciel Nosurge Offline: Ushinawareta Hoshi he Sasagu Uta - Agent Pack | 422519 | [422519-ciel-nosurge-offline-ushinawareta-hoshi-he-sasagu-uta-agent-pack.json](./422519-ciel-nosurge-offline-ushinawareta-hoshi-he-sasagu-uta-agent-pack.json) |
 | Ciel Nosurge: Ushinawareta Hoshi e Sasagu Shi Agent Pack | 89869 | [89869-ciel-nosurge-ushinawareta-hoshi-e-sasagu-shi-agent-pack.json](./89869-ciel-nosurge-ushinawareta-hoshi-e-sasagu-shi-agent-pack.json) |
 | Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta DX | 139995 | [139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json](./139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json) |
 | CielClou | 219103 | [219103-cielclou.json](./219103-cielclou.json) |
@@ -12551,6 +12553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudsong | 377684 | [377684-cloudsong.json](./377684-cloudsong.json) |
 | Cloudspan | 364879 | [364879-cloudspan.json](./364879-cloudspan.json) |
 | Cloudspotting | 179851 | [179851-cloudspotting.json](./179851-cloudspotting.json) |
+| Cloudstrike | 418647 | [418647-cloudstrike.json](./418647-cloudstrike.json) |
 | CloudStudy | 296358 | [296358-cloudstudy.json](./296358-cloudstudy.json) |
 | Cloudtop Chaos | 348858 | [348858-cloudtop-chaos.json](./348858-cloudtop-chaos.json) |
 | Cloudtrail Islands | 181601 | [181601-cloudtrail-islands.json](./181601-cloudtrail-islands.json) |
