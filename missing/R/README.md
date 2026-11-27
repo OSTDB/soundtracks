@@ -2450,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Wrap | 342769 | [342769-rat-wrap.json](./342769-rat-wrap.json) |
 | Rat's Contracts | 357262 | [357262-rats-contracts.json](./357262-rats-contracts.json) |
 | Rat's Lair | 356766 | [356766-rats-lair.json](./356766-rats-lair.json) |
+| Rata2ouille: The Perfect Dish | 424140 | [424140-rata2ouille-the-perfect-dish.json](./424140-rata2ouille-the-perfect-dish.json) |
 | Ratano | 269853 | [269853-ratano.json](./269853-ratano.json) |
 | Ratatan | 259339 | [259339-ratatan.json](./259339-ratatan.json) |
 | Ratatan: Digital Deluxe Edition | 418336 | [418336-ratatan-digital-deluxe-edition.json](./418336-ratatan-digital-deluxe-edition.json) |
@@ -4907,6 +4908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedLightCenter | 61176 | [61176-redlightcenter.json](./61176-redlightcenter.json) |
 | Redline | 321136 | [321136-redline.json](./321136-redline.json) |
 | RedLine | 272244 | [272244-redline.json](./272244-redline.json) |
+| RedLine | 419010 | [419010-redline.json](./419010-redline.json) |
 | Redline Crooks | 252273 | [252273-redline-crooks.json](./252273-redline-crooks.json) |
 | Redline F-1 Racer | 239898 | [239898-redline-f-1-racer.json](./239898-redline-f-1-racer.json) |
 | Redline Horde | 420507 | [420507-redline-horde.json](./420507-redline-horde.json) |
@@ -9650,6 +9652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ro Cannery | 97596 | [97596-ro-cannery.json](./97596-ro-cannery.json) |
 | RO Cannery 2 | 97399 | [97399-ro-cannery-2.json](./97399-ro-cannery-2.json) |
 | Ro Sham Bo Rush | 252142 | [252142-ro-sham-bo-rush.json](./252142-ro-sham-bo-rush.json) |
+| RO Xiānjìng Chuánshuō: Kǒudài Zhànjì | 418673 | [418673-ro-xianjing-chuanshuo-koudai-zhanji.json](./418673-ro-xianjing-chuanshuo-koudai-zhanji.json) |
 | Ro-Bounce | 201543 | [201543-ro-bounce.json](./201543-ro-bounce.json) |
 | Ro-Kyu-Bu! Himitsu no Otoshimono | 61406 | [61406-ro-kyu-bu-himitsu-no-otoshimono.json](./61406-ro-kyu-bu-himitsu-no-otoshimono.json) |
 | Ro-Kyu-Bu! Naisho no Shutter Chance | 63026 | [63026-ro-kyu-bu-naisho-no-shutter-chance.json](./63026-ro-kyu-bu-naisho-no-shutter-chance.json) |
@@ -12965,6 +12968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rot in Paradise | 318124 | [318124-rot-in-paradise.json](./318124-rot-in-paradise.json) |
 | Rot Splatation | 409809 | [409809-rot-splatation.json](./409809-rot-splatation.json) |
 | Rot Together | 361024 | [361024-rot-together.json](./361024-rot-together.json) |
+| Rot With Me | 418911 | [418911-rot-with-me.json](./418911-rot-with-me.json) |
 | Rot: Purgatory Hill | 182811 | [182811-rot-purgatory-hill.json](./182811-rot-purgatory-hill.json) |
 | Rota | 291026 | [291026-rota.json](./291026-rota.json) |
 | Rota Craze | 29312 | [29312-rota-craze.json](./29312-rota-craze.json) |
