@@ -2951,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of the Beast | 107276 | [107276-legacy-of-the-beast.json](./107276-legacy-of-the-beast.json) |
 | Legacy of the Dragonborn | 356218 | [356218-legacy-of-the-dragonborn.json](./356218-legacy-of-the-dragonborn.json) |
 | Legacy of the Elder Star | 33555 | [33555-legacy-of-the-elder-star.json](./33555-legacy-of-the-elder-star.json) |
+| Legacy of the Fiend | 430299 | [430299-legacy-of-the-fiend.json](./430299-legacy-of-the-fiend.json) |
 | Legacy Of The Legends | 252191 | [252191-legacy-of-the-legends.json](./252191-legacy-of-the-legends.json) |
 | Legacy of the Pact | 230877 | [230877-legacy-of-the-pact.json](./230877-legacy-of-the-pact.json) |
 | Legacy of the Stones | 117730 | [117730-legacy-of-the-stones.json](./117730-legacy-of-the-stones.json) |
@@ -10453,6 +10454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loveless Biker Boys | 401219 | [401219-loveless-biker-boys.json](./401219-loveless-biker-boys.json) |
 | Loveless cat | 111182 | [111182-loveless-cat.json](./111182-loveless-cat.json) |
 | Loveless General Hospital | 383774 | [383774-loveless-general-hospital.json](./383774-loveless-general-hospital.json) |
+| Loveless Losers | 430540 | [430540-loveless-losers.json](./430540-loveless-losers.json) |
 | Loveless on Lockdown | 177869 | [177869-loveless-on-lockdown.json](./177869-loveless-on-lockdown.json) |
 | Loveless: A Mattlanta Story | 107093 | [107093-loveless-a-mattlanta-story.json](./107093-loveless-a-mattlanta-story.json) |
 | Lovelink | 204709 | [204709-lovelink.json](./204709-lovelink.json) |
