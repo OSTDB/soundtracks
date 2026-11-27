@@ -8312,6 +8312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights in Anime | 47051 | [47051-five-nights-in-anime.json](./47051-five-nights-in-anime.json) |
 | Five Nights in Anime 2 | 165200 | [165200-five-nights-in-anime-2.json](./165200-five-nights-in-anime-2.json) |
 | Five Nights in Minecraft | 417036 | [417036-five-nights-in-minecraft.json](./417036-five-nights-in-minecraft.json) |
+| Five Nights in Minecraft 2 | 417048 | [417048-five-nights-in-minecraft-2.json](./417048-five-nights-in-minecraft-2.json) |
 | Five Nights in Minecraft 3 | 417053 | [417053-five-nights-in-minecraft-3.json](./417053-five-nights-in-minecraft-3.json) |
 | Five Nights in Minecraft: The Classic Collection | 417058 | [417058-five-nights-in-minecraft-the-classic-collection.json](./417058-five-nights-in-minecraft-the-classic-collection.json) |
 | Five Nights In Saransk | 381257 | [381257-five-nights-in-saransk.json](./381257-five-nights-in-saransk.json) |
@@ -8627,6 +8628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Camel | 283767 | [283767-flappy-camel.json](./283767-flappy-camel.json) |
 | Flappy Cato | 413158 | [413158-flappy-cato.json](./413158-flappy-cato.json) |
 | Flappy Cheep Cheep | 219419 | [219419-flappy-cheep-cheep.json](./219419-flappy-cheep-cheep.json) |
+| Flappy Coot | 414221 | [414221-flappy-coot.json](./414221-flappy-coot.json) |
 | Flappy Coq | 376044 | [376044-flappy-coq.json](./376044-flappy-coq.json) |
 | Flappy Crush | 239546 | [239546-flappy-crush.json](./239546-flappy-crush.json) |
 | Flappy Cube | 179195 | [179195-flappy-cube.json](./179195-flappy-cube.json) |
@@ -9945,6 +9947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flutter! | 304135 | [304135-flutter.json](./304135-flutter.json) |
 | Flutterdash | 391199 | [391199-flutterdash.json](./391199-flutterdash.json) |
 | Flutterfield | 367126 | [367126-flutterfield.json](./367126-flutterfield.json) |
+| Flutterly Floored | 415576 | [415576-flutterly-floored.json](./415576-flutterly-floored.json) |
 | Fluttershy Piano Tiles | 202388 | [202388-fluttershy-piano-tiles.json](./202388-fluttershy-piano-tiles.json) |
 | Fluvsies: A Fluff to Luv | 227527 | [227527-fluvsies-a-fluff-to-luv.json](./227527-fluvsies-a-fluff-to-luv.json) |
 | Fluvstruck | 151372 | [151372-fluvstruck.json](./151372-fluvstruck.json) |
@@ -10263,6 +10266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNaC 2: Custom Night | 416985 | [416985-fnac-2-custom-night.json](./416985-fnac-2-custom-night.json) |
 | FNaC 3: Custom Night | 416986 | [416986-fnac-3-custom-night.json](./416986-fnac-3-custom-night.json) |
 | FNaC Fur | 210495 | [210495-fnac-fur.json](./210495-fnac-fur.json) |
+| FNaC, but Better! | 416990 | [416990-fnac-but-better.json](./416990-fnac-but-better.json) |
 | FNAF 1 Remake | 340823 | [340823-fnaf-1-remake.json](./340823-fnaf-1-remake.json) |
 | FNaF 2: Night of Misfits | 280135 | [280135-fnaf-2-night-of-misfits.json](./280135-fnaf-2-night-of-misfits.json) |
 | FNaF 2: Wii U Edition | 358328 | [358328-fnaf-2-wii-u-edition.json](./358328-fnaf-2-wii-u-edition.json) |
