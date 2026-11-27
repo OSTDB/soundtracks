@@ -12372,6 +12372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point Zero: Victoria | 390084 | [390084-point-zero-victoria.json](./390084-point-zero-victoria.json) |
 | Point'n'Click Lovers: Daedalic Adventure Bundle | 283723 | [283723-pointnclick-lovers-daedalic-adventure-bundle.json](./283723-pointnclick-lovers-daedalic-adventure-bundle.json) |
 | Point4Point | 292195 | [292195-point4point.json](./292195-point4point.json) |
+| Pointaway | 431641 | [431641-pointaway.json](./431641-pointaway.json) |
 | Pointblank | 131216 | [131216-pointblank.json](./131216-pointblank.json) |
 | Pointless | 33544 | [33544-pointless.json](./33544-pointless.json) |
 | Pointless Climb | 425019 | [425019-pointless-climb.json](./425019-pointless-climb.json) |
