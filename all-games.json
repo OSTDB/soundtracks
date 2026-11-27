@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-27T12:45:55.725Z",
-  "total_soundtracks": 3956,
+  "generated_at": "2026-11-27T13:16:07.558Z",
+  "total_soundtracks": 3958,
   "games": [
     {
       "igdb_id": 292844,
@@ -13145,6 +13145,20 @@
       ]
     },
     {
+      "igdb_id": 86429,
+      "game_name": "Eight Dragons",
+      "game_url": "https://ostdb.net/games/eight-dragons",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ab9e68590e58e7383c83a2cc",
+      "albums": [
+        {
+          "album_name": "Eight Dragons (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7CEAv1Fb8Rjx05pLDNbQIM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 137451,
       "game_name": "Eiyuden Chronicle: Hundred Heroes",
       "game_url": "https://ostdb.net/games/eiyuden-chronicle-hundred-heroes",
@@ -16677,6 +16691,20 @@
         {
           "album_name": "Gadgeteer (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2LHRSPTwtVROwNxGrYPfyD",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 86418,
+      "game_name": "Gaia Beyond",
+      "game_url": "https://ostdb.net/games/gaia-beyond",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27318ed38dba3027057ecd2f549",
+      "albums": [
+        {
+          "album_name": "Gaia Beyond (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0At67YhQve73BIDC78roXB",
           "apple_music_url": "",
           "album_link_url": ""
         }
