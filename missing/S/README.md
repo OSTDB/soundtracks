@@ -10405,6 +10405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shit Clicker | 236484 | [236484-shit-clicker.json](./236484-shit-clicker.json) |
 | Shit Country Sweeper | 180734 | [180734-shit-country-sweeper.json](./180734-shit-country-sweeper.json) |
 | Shit Slam II | 372111 | [372111-shit-slam-ii.json](./372111-shit-slam-ii.json) |
+| Shit Stealing Gnomes | 430979 | [430979-shit-stealing-gnomes.json](./430979-shit-stealing-gnomes.json) |
 | Shit Storm | 81100 | [81100-shit-storm.json](./81100-shit-storm.json) |
 | Shit!! | 79214 | [79214-shit.json](./79214-shit.json) |
 | Shita ni | 238565 | [238565-shita-ni.json](./238565-shita-ni.json) |
@@ -21670,6 +21671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Dossier | 149761 | [149761-soul-dossier.json](./149761-soul-dossier.json) |
 | Soul Dream: Undesired Shift | 173329 | [173329-soul-dream-undesired-shift.json](./173329-soul-dream-undesired-shift.json) |
 | Soul Drifter | 265476 | [265476-soul-drifter.json](./265476-soul-drifter.json) |
+| Soul Dust | 431281 | [431281-soul-dust.json](./431281-soul-dust.json) |
 | Soul Eater | 292399 | [292399-soul-eater.json](./292399-soul-eater.json) |
 | Soul Eater: Battle Resonance | 44527 | [44527-soul-eater-battle-resonance.json](./44527-soul-eater-battle-resonance.json) |
 | Soul Eater: Monotone Princess | 71887 | [71887-soul-eater-monotone-princess.json](./71887-soul-eater-monotone-princess.json) |
@@ -25409,6 +25411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpiderHeck | 137073 | [137073-spiderheck.json](./137073-spiderheck.json) |
 | Spiderling | 316746 | [316746-spiderling.json](./316746-spiderling.json) |
 | Spiderman 2 | 247302 | [247302-spiderman-2.json](./247302-spiderman-2.json) |
+| SpiderMonk | 431239 | [431239-spidermonk.json](./431239-spidermonk.json) |
 | SpiderPunks | 163847 | [163847-spiderpunks.json](./163847-spiderpunks.json) |
 | Spiders | 125263 | [125263-spiders.json](./125263-spiders.json) |
 | Spiders | 281171 | [281171-spiders.json](./281171-spiders.json) |
@@ -30721,6 +30724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Conflicts | 414045 | [414045-stellar-conflicts.json](./414045-stellar-conflicts.json) |
 | Stellar Conquest | 248595 | [248595-stellar-conquest.json](./248595-stellar-conquest.json) |
 | Stellar Conquest 3: Hostile Takeover | 70092 | [70092-stellar-conquest-3-hostile-takeover.json](./70092-stellar-conquest-3-hostile-takeover.json) |
+| Stellar Courier | 431111 | [431111-stellar-courier.json](./431111-stellar-courier.json) |
 | Stellar Crusade | 143808 | [143808-stellar-crusade.json](./143808-stellar-crusade.json) |
 | Stellar Dawn | 241092 | [241092-stellar-dawn.json](./241092-stellar-dawn.json) |
 | Stellar Dawn | 67338 | [67338-stellar-dawn.json](./67338-stellar-dawn.json) |
@@ -30843,6 +30847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellarion | 334158 | [334158-stellarion.json](./334158-stellarion.json) |
 | Stellaris Pack | 428887 | [428887-stellaris-pack.json](./428887-stellaris-pack.json) |
 | Stellaris: Ancient Relics | 119187 | [119187-stellaris-ancient-relics.json](./119187-stellaris-ancient-relics.json) |
+| Stellaris: Anniversary Edition | 431112 | [431112-stellaris-anniversary-edition.json](./431112-stellaris-anniversary-edition.json) |
 | Stellaris: Apocalypse | 90095 | [90095-stellaris-apocalypse.json](./90095-stellaris-apocalypse.json) |
 | Stellaris: Aquatics Species Pack | 218168 | [218168-stellaris-aquatics-species-pack.json](./218168-stellaris-aquatics-species-pack.json) |
 | Stellaris: Astral Planes | 272910 | [272910-stellaris-astral-planes.json](./272910-stellaris-astral-planes.json) |
@@ -31138,6 +31143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Veterans | 176360 | [176360-stick-veterans.json](./176360-stick-veterans.json) |
 | Stick War | 234161 | [234161-stick-war.json](./234161-stick-war.json) |
 | Stick War 2 | 234291 | [234291-stick-war-2.json](./234291-stick-war-2.json) |
+| Stick War II: Definitive Edition | 431262 | [431262-stick-war-ii-definitive-edition.json](./431262-stick-war-ii-definitive-edition.json) |
 | Stick War: Castle Defence | 90209 | [90209-stick-war-castle-defence.json](./90209-stick-war-castle-defence.json) |
 | Stick War: Hero Tower Defense | 216135 | [216135-stick-war-hero-tower-defense.json](./216135-stick-war-hero-tower-defense.json) |
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
@@ -34056,6 +34062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus of Aphrodisia Chapter One: Ako's First Embrace | 393689 | [393689-succubus-of-aphrodisia-chapter-one-akos-first-embrace.json](./393689-succubus-of-aphrodisia-chapter-one-akos-first-embrace.json) |
 | Succubus Prison | 251887 | [251887-succubus-prison.json](./251887-succubus-prison.json) |
 | Succubus Puttel | 385845 | [385845-succubus-puttel.json](./385845-succubus-puttel.json) |
+| Succubus Quest | 431108 | [431108-succubus-quest.json](./431108-succubus-quest.json) |
 | Succubus Quest | 97486 | [97486-succubus-quest.json](./97486-succubus-quest.json) |
 | Succubus Rem | 74452 | [74452-succubus-rem.json](./74452-succubus-rem.json) |
 | Succubus Research Diary | 157107 | [157107-succubus-research-diary.json](./157107-succubus-research-diary.json) |
@@ -39535,6 +39542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supra Mayro 64 FM | 354110 | [354110-supra-mayro-64-fm.json](./354110-supra-mayro-64-fm.json) |
 | Supra Mayro Bross: Legend of the Lost Kingdom | 321902 | [321902-supra-mayro-bross-legend-of-the-lost-kingdom.json](./321902-supra-mayro-bross-legend-of-the-lost-kingdom.json) |
 | Supra Mayro Kratt | 300345 | [300345-supra-mayro-kratt.json](./300345-supra-mayro-kratt.json) |
+| Supra Mayro Kratt Dalux | 431117 | [431117-supra-mayro-kratt-dalux.json](./431117-supra-mayro-kratt-dalux.json) |
 | Supra Smash Bross | 322294 | [322294-supra-smash-bross.json](./322294-supra-smash-bross.json) |
 | Supra Smash Bross Devolution | 265074 | [265074-supra-smash-bross-devolution.json](./265074-supra-smash-bross-devolution.json) |
 | Supra Smash Bross Devolution 2.22: You Can (Not) Be Serious | 316599 | [316599-supra-smash-bross-devolution-2-22-you-can-not-be-serious.json](./316599-supra-smash-bross-devolution-2-22-you-can-not-be-serious.json) |
@@ -40658,6 +40666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweater? Ok! 2 | 81022 | [81022-sweater-ok-2.json](./81022-sweater-ok-2.json) |
 | Sweater? Ok!: The Dilogy | 127370 | [127370-sweater-ok-the-dilogy.json](./127370-sweater-ok-the-dilogy.json) |
 | SweatShop | 32204 | [32204-sweatshop.json](./32204-sweatshop.json) |
+| Sweatshop 24 | 431126 | [431126-sweatshop-24.json](./431126-sweatshop-24.json) |
 | Sweatshop HD | 15448 | [15448-sweatshop-hd.json](./15448-sweatshop-hd.json) |
 | Sweaty Palms | 63739 | [63739-sweaty-palms.json](./63739-sweaty-palms.json) |
 | Sweave | 317144 | [317144-sweave.json](./317144-sweave.json) |
