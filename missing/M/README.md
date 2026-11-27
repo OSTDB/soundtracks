@@ -17174,6 +17174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mogo-Mogo | 397560 | [397560-mogo-mogo.json](./397560-mogo-mogo.json) |
 | Mogradiz | 326491 | [326491-mogradiz.json](./326491-mogradiz.json) |
 | Mogrimera: Disciple of Order | 249907 | [249907-mogrimera-disciple-of-order.json](./249907-mogrimera-disciple-of-order.json) |
+| Mogu | 431663 | [431663-mogu.json](./431663-mogu.json) |
 | Mogu Valley | 371607 | [371607-mogu-valley.json](./371607-mogu-valley.json) |
 | Mogu-mogu Gombo | 228622 | [228622-mogu-mogu-gombo.json](./228622-mogu-mogu-gombo.json) |
 | Mogu-mogu Rumia | 204242 | [204242-mogu-mogu-rumia.json](./204242-mogu-mogu-rumia.json) |
@@ -23319,6 +23320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Beloved Girl Is A Married Woman: Sadistic Widow | 97942 | [97942-my-beloved-girl-is-a-married-woman-sadistic-widow.json](./97942-my-beloved-girl-is-a-married-woman-sadistic-widow.json) |
 | My Best Friend | 422598 | [422598-my-best-friend.json](./422598-my-best-friend.json) |
 | My Best Friend Anna | 95790 | [95790-my-best-friend-anna.json](./95790-my-best-friend-anna.json) |
+| My Best Friend Killed Herself | 431436 | [431436-my-best-friend-killed-herself.json](./431436-my-best-friend-killed-herself.json) |
 | My Best Friend Kouta | 245887 | [245887-my-best-friend-kouta.json](./245887-my-best-friend-kouta.json) |
 | My Best Friend's Birthday | 185175 | [185175-my-best-friends-birthday.json](./185175-my-best-friends-birthday.json) |
 | My Best Friend's Sister | 411246 | [411246-my-best-friends-sister.json](./411246-my-best-friends-sister.json) |
@@ -23696,6 +23698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fitness | 92049 | [92049-my-fitness.json](./92049-my-fitness.json) |
 | My Fitness Coach | 78661 | [78661-my-fitness-coach.json](./78661-my-fitness-coach.json) |
 | My Fitness Coach 2: Exercise and Nutrition | 51066 | [51066-my-fitness-coach-2-exercise-and-nutrition.json](./51066-my-fitness-coach-2-exercise-and-nutrition.json) |
+| My Fitness Waifu: Hentai Puzzle | 431520 | [431520-my-fitness-waifu-hentai-puzzle.json](./431520-my-fitness-waifu-hentai-puzzle.json) |
 | My Flower | 266888 | [266888-my-flower.json](./266888-my-flower.json) |
 | My Fluffy Life | 163745 | [163745-my-fluffy-life.json](./163745-my-fluffy-life.json) |
 | My Foal 3D | 84629 | [84629-my-foal-3d.json](./84629-my-foal-3d.json) |
