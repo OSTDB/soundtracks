@@ -1241,7 +1241,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Reverse | 240158 | [240158-ice-reverse.json](./240158-ice-reverse.json) |
 | Ice River | 374442 | [374442-ice-river.json](./374442-ice-river.json) |
 | Ice Run | 309531 | [309531-ice-run.json](./309531-ice-run.json) |
-| Ice Rush | 87523 | [87523-ice-rush.json](./87523-ice-rush.json) |
 | Ice Scream | 212573 | [212573-ice-scream.json](./212573-ice-scream.json) |
 | Ice Scream | 354892 | [354892-ice-scream.json](./354892-ice-scream.json) |
 | Ice Scream 2 | 273681 | [273681-ice-scream-2.json](./273681-ice-scream-2.json) |
