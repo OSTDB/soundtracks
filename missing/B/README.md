@@ -11895,6 +11895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob Command | 265668 | [265668-blob-command.json](./265668-blob-command.json) |
 | Blob Command: New Attack | 265669 | [265669-blob-command-new-attack.json](./265669-blob-command-new-attack.json) |
 | Blob Dash | 205619 | [205619-blob-dash.json](./205619-blob-dash.json) |
+| Blob Dash | 430528 | [430528-blob-dash.json](./430528-blob-dash.json) |
 | Blob Factory | 407300 | [407300-blob-factory.json](./407300-blob-factory.json) |
 | Blob from Space | 10054 | [10054-blob-from-space.json](./10054-blob-from-space.json) |
 | Blob Game | 61772 | [61772-blob-game.json](./61772-blob-game.json) |
@@ -13900,6 +13901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoB: Battle of Bots | 354898 | [354898-bob-battle-of-bots.json](./354898-bob-battle-of-bots.json) |
 | Bob.exe | 230870 | [230870-bob-exe.json](./230870-bob-exe.json) |
 | Bob's Bad Day | 14329 | [14329-bobs-bad-day.json](./14329-bobs-bad-day.json) |
+| Bob's Barrels | 430294 | [430294-bobs-barrels.json](./430294-bobs-barrels.json) |
 | Bob's Beaker Blobs | 383144 | [383144-bobs-beaker-blobs.json](./383144-bobs-beaker-blobs.json) |
 | Bob's Burgers Pinball | 100684 | [100684-bobs-burgers-pinball.json](./100684-bobs-burgers-pinball.json) |
 | Bob's Cat Challenge | 115441 | [115441-bobs-cat-challenge.json](./115441-bobs-cat-challenge.json) |
@@ -15255,6 +15257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomerang Survivor | 431638 | [431638-boomerang-survivor.json](./431638-boomerang-survivor.json) |
 | Boomerang Survivor 2 | 431640 | [431640-boomerang-survivor-2.json](./431640-boomerang-survivor-2.json) |
 | Boomerang Survivor 3 | 386550 | [386550-boomerang-survivor-3.json](./386550-boomerang-survivor-3.json) |
+| Boomerang Survivor Collection | 430565 | [430565-boomerang-survivor-collection.json](./430565-boomerang-survivor-collection.json) |
 | Boomerang Woman | 190299 | [190299-boomerang-woman.json](./190299-boomerang-woman.json) |
 | Boomerang X | 126851 | [126851-boomerang-x.json](./126851-boomerang-x.json) |
 | Boomeraxe | 258522 | [258522-boomeraxe.json](./258522-boomeraxe.json) |
