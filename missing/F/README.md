@@ -5601,6 +5601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill The Cup 3: Frost | 390801 | [390801-fill-the-cup-3-frost.json](./390801-fill-the-cup-3-frost.json) |
 | Fill the Fridge | 194161 | [194161-fill-the-fridge.json](./194161-fill-the-fridge.json) |
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
+| Fill the Sky | 430544 | [430544-fill-the-sky.json](./430544-fill-the-sky.json) |
 | Fill the Void | 419326 | [419326-fill-the-void.json](./419326-fill-the-void.json) |
 | Fill Up the Hole | 346799 | [346799-fill-up-the-hole.json](./346799-fill-up-the-hole.json) |
 | Fill Up! | 34379 | [34379-fill-up.json](./34379-fill-up.json) |
@@ -6268,6 +6269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find 101 Doomers: Deluxe Content | 291372 | [291372-find-101-doomers-deluxe-content.json](./291372-find-101-doomers-deluxe-content.json) |
 | Find 2: Block Hit | 256194 | [256194-find-2-block-hit.json](./256194-find-2-block-hit.json) |
 | Find 5 differences! | 348956 | [348956-find-5-differences.json](./348956-find-5-differences.json) |
+| Find 87 | 430538 | [430538-find-87.json](./430538-find-87.json) |
 | Find A Way | 155005 | [155005-find-a-way.json](./155005-find-a-way.json) |
 | Find A Way | 57430 | [57430-find-a-way.json](./57430-find-a-way.json) |
 | Find a way out: Abode of darkness. | 192799 | [192799-find-a-way-out-abode-of-darkness.json](./192799-find-a-way-out-abode-of-darkness.json) |
@@ -10325,6 +10327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Focus Grove: Magical Evening DLC | 425082 | [425082-focus-grove-magical-evening-dlc.json](./425082-focus-grove-magical-evening-dlc.json) |
 | Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die! | 187499 | [187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json](./187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json) |
 | Focus Knight | 398318 | [398318-focus-knight.json](./398318-focus-knight.json) |
+| Focus My Deer | 430525 | [430525-focus-my-deer.json](./430525-focus-my-deer.json) |
 | Focus on You | 119452 | [119452-focus-on-you.json](./119452-focus-on-you.json) |
 | Focus Shot Archery Master | 80008 | [80008-focus-shot-archery-master.json](./80008-focus-shot-archery-master.json) |
 | Focus Simulator | 340088 | [340088-focus-simulator.json](./340088-focus-simulator.json) |
@@ -10593,6 +10596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FoodFighters | 286010 | [286010-foodfighters.json](./286010-foodfighters.json) |
 | Foodgitives | 424557 | [424557-foodgitives.json](./424557-foodgitives.json) |
 | Foodguessr | 293936 | [293936-foodguessr.json](./293936-foodguessr.json) |
+| Foodie | 430532 | [430532-foodie.json](./430532-foodie.json) |
 | Foodie Avenue | 250368 | [250368-foodie-avenue.json](./250368-foodie-avenue.json) |
 | Foodie Bear | 121608 | [121608-foodie-bear.json](./121608-foodie-bear.json) |
 | Foodie Blast: Block Puzzle | 411768 | [411768-foodie-blast-block-puzzle.json](./411768-foodie-blast-block-puzzle.json) |
