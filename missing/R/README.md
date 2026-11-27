@@ -3197,6 +3197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reactor 09 | 123596 | [123596-reactor-09.json](./123596-reactor-09.json) |
 | Reactor Critical | 406651 | [406651-reactor-critical.json](./406651-reactor-critical.json) |
 | Reactor idle | 101858 | [101858-reactor-idle.json](./101858-reactor-idle.json) |
+| Reactor Shift | 431162 | [431162-reactor-shift.json](./431162-reactor-shift.json) |
 | Reactor Tech 2 | 163975 | [163975-reactor-tech-2.json](./163975-reactor-tech-2.json) |
 | Reactor Zero | 423500 | [423500-reactor-zero.json](./423500-reactor-zero.json) |
 | ReactorX | 138917 | [138917-reactorx.json](./138917-reactorx.json) |
@@ -5307,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regions of Ruin: Runegate - The Merchant | 398304 | [398304-regions-of-ruin-runegate-the-merchant.json](./398304-regions-of-ruin-runegate-the-merchant.json) |
 | Regions of Ruin: Sieges | 171959 | [171959-regions-of-ruin-sieges.json](./171959-regions-of-ruin-sieges.json) |
 | Regista | 333432 | [333432-regista.json](./333432-regista.json) |
+| Regloss: Cross | 431558 | [431558-regloss-cross.json](./431558-regloss-cross.json) |
 | Regnum | 55987 | [55987-regnum.json](./55987-regnum.json) |
 | Regnum Idle | 390210 | [390210-regnum-idle.json](./390210-regnum-idle.json) |
 | Regola | 119593 | [119593-regola.json](./119593-regola.json) |
@@ -6857,6 +6859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resynth | 107388 | [107388-resynth.json](./107388-resynth.json) |
 | Reta Tus Habilidades | 368207 | [368207-reta-tus-habilidades.json](./368207-reta-tus-habilidades.json) |
 | Retail Company Simulator | 308093 | [308093-retail-company-simulator.json](./308093-retail-company-simulator.json) |
+| Retail Empire | 431596 | [431596-retail-empire.json](./431596-retail-empire.json) |
 | Retail Hell | 380983 | [380983-retail-hell.json](./380983-retail-hell.json) |
 | Retail Mage | 319885 | [319885-retail-mage.json](./319885-retail-mage.json) |
 | Retail Rivals | 402476 | [402476-retail-rivals.json](./402476-retail-rivals.json) |
@@ -9953,6 +9956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roald Dahl's Twit or Miss | 249233 | [249233-roald-dahls-twit-or-miss.json](./249233-roald-dahls-twit-or-miss.json) |
 | Roam | 273769 | [273769-roam.json](./273769-roam.json) |
 | Roam | 324521 | [324521-roam.json](./324521-roam.json) |
+| Roam | 431192 | [431192-roam.json](./431192-roam.json) |
 | Roam | 63893 | [63893-roam.json](./63893-roam.json) |
 | Roam Survival | 215728 | [215728-roam-survival.json](./215728-roam-survival.json) |
 | ROAM: Wild Horse Simulator | 326365 | [326365-roam-wild-horse-simulator.json](./326365-roam-wild-horse-simulator.json) |
@@ -10344,6 +10348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Arena Survivors | 297836 | [297836-robot-arena-survivors.json](./297836-robot-arena-survivors.json) |
 | Robot Arena: Design & Destroy | 79323 | [79323-robot-arena-design-and-destroy.json](./79323-robot-arena-design-and-destroy.json) |
 | Robot Auto Racing Simulator | 127950 | [127950-robot-auto-racing-simulator.json](./127950-robot-auto-racing-simulator.json) |
+| Robot Basketball League | 431633 | [431633-robot-basketball-league.json](./431633-robot-basketball-league.json) |
 | Robot Battle | 132056 | [132056-robot-battle.json](./132056-robot-battle.json) |
 | Robot Battle | 320088 | [320088-robot-battle.json](./320088-robot-battle.json) |
 | Robot Battle V | 400337 | [400337-robot-battle-v.json](./400337-robot-battle-v.json) |
@@ -12680,6 +12685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooms of Doom | 241114 | [241114-rooms-of-doom.json](./241114-rooms-of-doom.json) |
 | Rooms of Dread | 232027 | [232027-rooms-of-dread.json](./232027-rooms-of-dread.json) |
 | Rooms of Realities | 198434 | [198434-rooms-of-realities.json](./198434-rooms-of-realities.json) |
+| Rooms of War | 431582 | [431582-rooms-of-war.json](./431582-rooms-of-war.json) |
 | Rooms Within | 226487 | [226487-rooms-within.json](./226487-rooms-within.json) |
 | Rooms: The Adventure of Anne & George | 110803 | [110803-rooms-the-adventure-of-anne-and-george.json](./110803-rooms-the-adventure-of-anne-and-george.json) |
 | Rooms: The Main Building | 5130 | [5130-rooms-the-main-building.json](./5130-rooms-the-main-building.json) |
