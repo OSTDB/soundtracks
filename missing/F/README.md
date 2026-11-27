@@ -1017,7 +1017,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon Patrol | 24496 | [24496-falcon-patrol.json](./24496-falcon-patrol.json) |
 | Falcon Patrol 2 | 18963 | [18963-falcon-patrol-2.json](./18963-falcon-patrol-2.json) |
 | Falcon Patrol II | 40945 | [40945-falcon-patrol-ii.json](./40945-falcon-patrol-ii.json) |
-| Falcon Simulator | 86859 | [86859-falcon-simulator.json](./86859-falcon-simulator.json) |
 | Falcon Squad | 227953 | [227953-falcon-squad.json](./227953-falcon-squad.json) |
 | Falcon: The Renegade Lord | 14062 | [14062-falcon-the-renegade-lord.json](./14062-falcon-the-renegade-lord.json) |
 | Falconers' Gate | 416318 | [416318-falconers-gate.json](./416318-falconers-gate.json) |
@@ -2862,7 +2861,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy 3: Russian Village | 53034 | [53034-farm-frenzy-3-russian-village.json](./53034-farm-frenzy-3-russian-village.json) |
 | Farm Frenzy 4 | 17317 | [17317-farm-frenzy-4.json](./17317-farm-frenzy-4.json) |
 | Farm Frenzy Collection | 34762 | [34762-farm-frenzy-collection.json](./34762-farm-frenzy-collection.json) |
-| Farm Frenzy Inc | 87066 | [87066-farm-frenzy-inc.json](./87066-farm-frenzy-inc.json) |
 | Farm Frenzy Madness | 53033 | [53033-farm-frenzy-madness.json](./53033-farm-frenzy-madness.json) |
 | Farm Frenzy Prostokvashino | 320397 | [320397-farm-frenzy-prostokvashino.json](./320397-farm-frenzy-prostokvashino.json) |
 | Farm Frenzy: Ancient Rome | 54029 | [54029-farm-frenzy-ancient-rome.json](./54029-farm-frenzy-ancient-rome.json) |
@@ -6602,7 +6600,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Dash | 253264 | [253264-finger-dash.json](./253264-finger-dash.json) |
 | Finger Derpy | 60418 | [60418-finger-derpy.json](./60418-finger-derpy.json) |
 | Finger Drift - Racing Game | 106714 | [106714-finger-drift-racing-game.json](./106714-finger-drift-racing-game.json) |
-| Finger Driver | 87049 | [87049-finger-driver.json](./87049-finger-driver.json) |
 | Finger Fitness | 187217 | [187217-finger-fitness.json](./187217-finger-fitness.json) |
 | Finger Flashing | 69870 | [69870-finger-flashing.json](./69870-finger-flashing.json) |
 | Finger Flex | 384419 | [384419-finger-flex.json](./384419-finger-flex.json) |
@@ -8019,7 +8016,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Fables | 327589 | [327589-fitness-fables.json](./327589-fitness-fables.json) |
 | Fitness Fun | 56961 | [56961-fitness-fun.json](./56961-fitness-fun.json) |
 | Fitness Game: Romance Story | 256250 | [256250-fitness-game-romance-story.json](./256250-fitness-game-romance-story.json) |
-| Fitness Girl - Studio Coach | 86814 | [86814-fitness-girl-studio-coach.json](./86814-fitness-girl-studio-coach.json) |
 | Fitness Gym Bodybuilding Pump | 239997 | [239997-fitness-gym-bodybuilding-pump.json](./239997-fitness-gym-bodybuilding-pump.json) |
 | Fitness Party | 136887 | [136887-fitness-party.json](./136887-fitness-party.json) |
 | Fitness RPG | 273686 | [273686-fitness-rpg.json](./273686-fitness-rpg.json) |
@@ -8664,7 +8660,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Outside | 262222 | [262222-flappy-outside.json](./262222-flappy-outside.json) |
 | Flappy Person | 173213 | [173213-flappy-person.json](./173213-flappy-person.json) |
 | Flappy Pimba | 75554 | [75554-flappy-pimba.json](./75554-flappy-pimba.json) |
-| Flappy Pink Bird | 87075 | [87075-flappy-pink-bird.json](./87075-flappy-pink-bird.json) |
 | Flappy Pixel! | 249308 | [249308-flappy-pixel.json](./249308-flappy-pixel.json) |
 | Flappy Planes | 183743 | [183743-flappy-planes.json](./183743-flappy-planes.json) |
 | Flappy Puffy | 385965 | [385965-flappy-puffy.json](./385965-flappy-puffy.json) |
@@ -9007,8 +9002,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Arena | 103998 | [103998-flick-arena.json](./103998-flick-arena.json) |
 | Flick Arena | 104094 | [104094-flick-arena.json](./104094-flick-arena.json) |
 | Flick Ball - Physics Game | 106776 | [106776-flick-ball-physics-game.json](./106776-flick-ball-physics-game.json) |
-| Flick Champions Classic | 86846 | [86846-flick-champions-classic.json](./86846-flick-champions-classic.json) |
-| Flick Champions Summer Sports | 86871 | [86871-flick-champions-summer-sports.json](./86871-flick-champions-summer-sports.json) |
 | Flick Champions Winter Sports | 89308 | [89308-flick-champions-winter-sports.json](./89308-flick-champions-winter-sports.json) |
 | Flick Champions XS | 88646 | [88646-flick-champions-xs.json](./88646-flick-champions-xs.json) |
 | Flick Chess! | 223937 | [223937-flick-chess.json](./223937-flick-chess.json) |
@@ -10100,7 +10093,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Bug Smasher | 108206 | [108206-flying-bug-smasher.json](./108206-flying-bug-smasher.json) |
 | Flying Bunny | 99519 | [99519-flying-bunny.json](./99519-flying-bunny.json) |
 | Flying Candy | 379123 | [379123-flying-candy.json](./379123-flying-candy.json) |
-| Flying Car Robot Flight Drive Simulator Game 2017 | 86854 | [86854-flying-car-robot-flight-drive-simulator-game-2017.json](./86854-flying-car-robot-flight-drive-simulator-game-2017.json) |
 | Flying Car Transport Simulator | 251340 | [251340-flying-car-transport-simulator.json](./251340-flying-car-transport-simulator.json) |
 | Flying Carpets Over Shark Infested Waters | 249969 | [249969-flying-carpets-over-shark-infested-waters.json](./249969-flying-carpets-over-shark-infested-waters.json) |
 | Flying Cat | 282147 | [282147-flying-cat.json](./282147-flying-cat.json) |
