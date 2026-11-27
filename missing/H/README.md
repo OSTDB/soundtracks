@@ -7615,6 +7615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexahedron | 211343 | [211343-hexahedron.json](./211343-hexahedron.json) |
 | Hexalert | 337635 | [337635-hexalert.json](./337635-hexalert.json) |
 | HexaLife | 158117 | [158117-hexalife.json](./158117-hexalife.json) |
+| Hexalis | 431131 | [431131-hexalis.json](./431131-hexalis.json) |
 | Hexalith | 350702 | [350702-hexalith.json](./350702-hexalith.json) |
 | Hexallin | 101818 | [101818-hexallin.json](./101818-hexallin.json) |
 | Hexalot | 53215 | [53215-hexalot.json](./53215-hexalot.json) |
@@ -9300,6 +9301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiking Simulator 2018 | 84088 | [84088-hiking-simulator-2018.json](./84088-hiking-simulator-2018.json) |
 | Hikisakareta Badaaru | 394545 | [394545-hikisakareta-badaaru.json](./394545-hikisakareta-badaaru.json) |
 | Hikki Girls | 385033 | [385033-hikki-girls.json](./385033-hikki-girls.json) |
+| Hikki Life | 431128 | [431128-hikki-life.json](./431128-hikki-life.json) |
 | Hikkikomori Quest | 267172 | [267172-hikkikomori-quest.json](./267172-hikkikomori-quest.json) |
 | Hikkonuki Pikmin | 232900 | [232900-hikkonuki-pikmin.json](./232900-hikkonuki-pikmin.json) |
 | Hilarious Delivery | 390224 | [390224-hilarious-delivery.json](./390224-hilarious-delivery.json) |
