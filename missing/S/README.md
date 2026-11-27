@@ -8715,7 +8715,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapes of Memory: Jigsaw Puzzle | 392260 | [392260-shapes-of-memory-jigsaw-puzzle.json](./392260-shapes-of-memory-jigsaw-puzzle.json) |
 | Shapes on the Run | 108479 | [108479-shapes-on-the-run.json](./108479-shapes-on-the-run.json) |
 | Shapes Trader | 365953 | [365953-shapes-trader.json](./365953-shapes-trader.json) |
-| Shapes! Toddler Kids Games,Baby Boys Learning Free | 86806 | [86806-shapes-toddler-kids-games-baby-boys-learning-free.json](./86806-shapes-toddler-kids-games-baby-boys-learning-free.json) |
 | Shapes2 | 54478 | [54478-shapes2.json](./54478-shapes2.json) |
 | Shapes3 | 54477 | [54477-shapes3.json](./54477-shapes3.json) |
 | Shapes4 | 55429 | [55429-shapes4.json](./55429-shapes4.json) |
@@ -10922,7 +10921,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Fever | 330812 | [330812-shopping-fever.json](./330812-shopping-fever.json) |
 | Shopping in a Winter Zombieland | 276174 | [276174-shopping-in-a-winter-zombieland.json](./276174-shopping-in-a-winter-zombieland.json) |
 | Shopping Mahjong connect | 153665 | [153665-shopping-mahjong-connect.json](./153665-shopping-mahjong-connect.json) |
-| Shopping Mall Girl | 86826 | [86826-shopping-mall-girl.json](./86826-shopping-mall-girl.json) |
 | Shopping Mall Girl: Classy Look | 310465 | [310465-shopping-mall-girl-classy-look.json](./310465-shopping-mall-girl-classy-look.json) |
 | Shopping Mall Girl: Complete Edition | 328775 | [328775-shopping-mall-girl-complete-edition.json](./328775-shopping-mall-girl-complete-edition.json) |
 | Shopping Mall Girl: Summer Time | 310466 | [310466-shopping-mall-girl-summer-time.json](./310466-shopping-mall-girl-summer-time.json) |
@@ -12792,7 +12790,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon's Cat Dash | 87001 | [87001-simons-cat-dash.json](./87001-simons-cat-dash.json) |
 | Simon's Cat in Cat Chat | 200122 | [200122-simons-cat-in-cat-chat.json](./200122-simons-cat-in-cat-chat.json) |
 | Simon's Cat in Purrfect Pitch | 233208 | [233208-simons-cat-in-purrfect-pitch.json](./233208-simons-cat-in-purrfect-pitch.json) |
-| Simon's Cat: Crunch Time | 86936 | [86936-simons-cat-crunch-time.json](./86936-simons-cat-crunch-time.json) |
 | Simon's Cat: Pop Time | 105515 | [105515-simons-cat-pop-time.json](./105515-simons-cat-pop-time.json) |
 | Simon's Cat: Story Time | 194333 | [194333-simons-cat-story-time.json](./194333-simons-cat-story-time.json) |
 | Simon's Journey | 71002 | [71002-simons-journey.json](./71002-simons-journey.json) |
@@ -14771,7 +14768,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Fortress: Odyssey | 277033 | [277033-sky-fortress-odyssey.json](./277033-sky-fortress-odyssey.json) |
 | Sky Fox | 39301 | [39301-sky-fox.json](./39301-sky-fox.json) |
 | Sky Fury | 274469 | [274469-sky-fury.json](./274469-sky-fury.json) |
-| Sky Gamblers - Infinite Jets | 86688 | [86688-sky-gamblers-infinite-jets.json](./86688-sky-gamblers-infinite-jets.json) |
 | Sky Gamblers Races | 106362 | [106362-sky-gamblers-races.json](./106362-sky-gamblers-races.json) |
 | Sky Gamblers: Afterburner | 115109 | [115109-sky-gamblers-afterburner.json](./115109-sky-gamblers-afterburner.json) |
 | Sky Gamblers: Air Supremacy 2 | 194752 | [194752-sky-gamblers-air-supremacy-2.json](./194752-sky-gamblers-air-supremacy-2.json) |
@@ -16720,7 +16716,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smapic | 286915 | [286915-smapic.json](./286915-smapic.json) |
 | Smart Alex and Smart Alice: Curious Kids | 66852 | [66852-smart-alex-and-smart-alice-curious-kids.json](./66852-smart-alex-and-smart-alice-curious-kids.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
-| Smart Baby ABC Games: Toddler Kids Learning Apps | 87032 | [87032-smart-baby-abc-games-toddler-kids-learning-apps.json](./87032-smart-baby-abc-games-toddler-kids-learning-apps.json) |
 | Smart Baby Shapes: Food | 90961 | [90961-smart-baby-shapes-food.json](./90961-smart-baby-shapes-food.json) |
 | Smart Bomb | 72930 | [72930-smart-bomb.json](./72930-smart-bomb.json) |
 | Smart Bomber | 247035 | [247035-smart-bomber.json](./247035-smart-bomber.json) |
@@ -17893,7 +17888,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Rust VR | 72426 | [72426-sniper-rust-vr.json](./72426-sniper-rust-vr.json) |
 | Sniper Scope: Realistic Tactical Shooter | 336397 | [336397-sniper-scope-realistic-tactical-shooter.json](./336397-sniper-scope-realistic-tactical-shooter.json) |
 | Sniper Ships: Shoot'em Up on Rails | 145095 | [145095-sniper-ships-shootem-up-on-rails.json](./145095-sniper-ships-shootem-up-on-rails.json) |
-| Sniper Shooter 3D: SWAT Missions Pro | 86719 | [86719-sniper-shooter-3d-swat-missions-pro.json](./86719-sniper-shooter-3d-swat-missions-pro.json) |
 | Sniper Shooter: Gun Shooting | 86982 | [86982-sniper-shooter-gun-shooting.json](./86982-sniper-shooter-gun-shooting.json) |
 | Sniper Somali Strike | 233717 | [233717-sniper-somali-strike.json](./233717-sniper-somali-strike.json) |
 | Sniper Squad Mission | 99659 | [99659-sniper-squad-mission.json](./99659-sniper-squad-mission.json) |
@@ -18021,7 +18015,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
 | Snoopy Flying Ace | 21887 | [21887-snoopy-flying-ace.json](./21887-snoopy-flying-ace.json) |
 | Snoopy no Hajimete no Otsukai | 324912 | [324912-snoopy-no-hajimete-no-otsukai.json](./324912-snoopy-no-hajimete-no-otsukai.json) |
-| Snoopy Pop | 87016 | [87016-snoopy-pop.json](./87016-snoopy-pop.json) |
 | Snoopy Puzzle Journey | 130414 | [130414-snoopy-puzzle-journey.json](./130414-snoopy-puzzle-journey.json) |
 | Snoopy Tennis | 145169 | [145169-snoopy-tennis.json](./145169-snoopy-tennis.json) |
 | Snoopy Tennis | 363311 | [363311-snoopy-tennis.json](./363311-snoopy-tennis.json) |
@@ -18234,7 +18227,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Party 2 | 38716 | [38716-snowboard-party-2.json](./38716-snowboard-party-2.json) |
 | Snowboard Party Pro | 86869 | [86869-snowboard-party-pro.json](./86869-snowboard-party-pro.json) |
 | Snowboard Party World Tour Pro | 88189 | [88189-snowboard-party-world-tour-pro.json](./88189-snowboard-party-world-tour-pro.json) |
-| Snowboard Party: Aspen | 86954 | [86954-snowboard-party-aspen.json](./86954-snowboard-party-aspen.json) |
 | Snowboard Racer 2 | 70560 | [70560-snowboard-racer-2.json](./70560-snowboard-racer-2.json) |
 | Snowboard Stunts | 387732 | [387732-snowboard-stunts.json](./387732-snowboard-stunts.json) |
 | Snowboard Xtreme | 85384 | [85384-snowboard-xtreme.json](./85384-snowboard-xtreme.json) |
@@ -19493,7 +19485,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Kingdom Supreme | 175323 | [175323-solitaire-kingdom-supreme.json](./175323-solitaire-kingdom-supreme.json) |
 | Solitaire Kingdom Supreme HD | 104383 | [104383-solitaire-kingdom-supreme-hd.json](./104383-solitaire-kingdom-supreme-hd.json) |
 | Solitaire Klondike Black | 114046 | [114046-solitaire-klondike-black.json](./114046-solitaire-klondike-black.json) |
-| Solitaire Klondike Deluxe - classic card game | 86910 | [86910-solitaire-klondike-deluxe-classic-card-game.json](./86910-solitaire-klondike-deluxe-classic-card-game.json) |
 | Solitaire Klondike Fish | 228260 | [228260-solitaire-klondike-fish.json](./228260-solitaire-klondike-fish.json) |
 | Solitaire Klondike Minimal | 147646 | [147646-solitaire-klondike-minimal.json](./147646-solitaire-klondike-minimal.json) |
 | Solitaire Klondike Pro. | 101601 | [101601-solitaire-klondike-pro.json](./101601-solitaire-klondike-pro.json) |
@@ -21276,7 +21267,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sooty's Fun With Numbers | 70195 | [70195-sootys-fun-with-numbers.json](./70195-sootys-fun-with-numbers.json) |
 | Sooty's Revenge | 311284 | [311284-sootys-revenge.json](./311284-sootys-revenge.json) |
 | Sopa: Tale of the Stolen Potato | 197073 | [197073-sopa-tale-of-the-stolen-potato.json](./197073-sopa-tale-of-the-stolen-potato.json) |
-| Sophia - My Little Sis | 86824 | [86824-sophia-my-little-sis.json](./86824-sophia-my-little-sis.json) |
 | Sophia and the Mansion of Doubt | 82897 | [82897-sophia-and-the-mansion-of-doubt.json](./82897-sophia-and-the-mansion-of-doubt.json) |
 | Sophia the Traveler | 153562 | [153562-sophia-the-traveler.json](./153562-sophia-the-traveler.json) |
 | Sophia’s Animal Clinic: Mission Wildlife Park | 380652 | [380652-sophia-s-animal-clinic-mission-wildlife-park.json](./380652-sophia-s-animal-clinic-mission-wildlife-park.json) |
@@ -21525,7 +21515,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorter - Toddler & Baby Educational Learning Games | 89021 | [89021-sorter-toddler-and-baby-educational-learning-games.json](./89021-sorter-toddler-and-baby-educational-learning-games.json) |
 | Sortik Systems | 338218 | [338218-sortik-systems.json](./338218-sortik-systems.json) |
 | Sorting Baby Blocks for Boys 3D Smart Shapes Games | 91059 | [91059-sorting-baby-blocks-for-boys-3d-smart-shapes-games.json](./91059-sorting-baby-blocks-for-boys-3d-smart-shapes-games.json) |
-| Sorting Baby Blocks: children's educational puzzle | 86837 | [86837-sorting-baby-blocks-childrens-educational-puzzle.json](./86837-sorting-baby-blocks-childrens-educational-puzzle.json) |
 | Sorting Inc | 333805 | [333805-sorting-inc.json](./333805-sorting-inc.json) |
 | Sorting Puzzles for Kids | 104128 | [104128-sorting-puzzles-for-kids.json](./104128-sorting-puzzles-for-kids.json) |
 | Sorting Sortilege | 176213 | [176213-sorting-sortilege.json](./176213-sorting-sortilege.json) |
@@ -24005,7 +23994,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spades classic card game | 95285 | [95285-spades-classic-card-game.json](./95285-spades-classic-card-game.json) |
 | Spades HD | 355000 | [355000-spades-hd.json](./355000-spades-hd.json) |
 | Spades Plus | 126066 | [126066-spades-plus.json](./126066-spades-plus.json) |
-| Spades Pro | 86691 | [86691-spades-pro.json](./86691-spades-pro.json) |
 | Spades. | 88403 | [88403-spades.json](./88403-spades.json) |
 | Spades+ | 279708 | [279708-spades.json](./279708-spades.json) |
 | Spades++ | 89124 | [89124-spades.json](./89124-spades.json) |
@@ -25243,7 +25231,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Solitaire 2018 | 87636 | [87636-spider-solitaire-2018.json](./87636-spider-solitaire-2018.json) |
 | Spider Solitaire 2022 | 217792 | [217792-spider-solitaire-2022.json](./217792-spider-solitaire-2022.json) |
 | Spider Solitaire Black | 147630 | [147630-spider-solitaire-black.json](./147630-spider-solitaire-black.json) |
-| Spider Solitaire Box | 87090 | [87090-spider-solitaire-box.json](./87090-spider-solitaire-box.json) |
 | Spider Solitaire Collection | 154330 | [154330-spider-solitaire-collection.json](./154330-spider-solitaire-collection.json) |
 | Spider Solitaire Cube | 56917 | [56917-spider-solitaire-cube.json](./56917-spider-solitaire-cube.json) |
 | Spider Solitaire F | 109493 | [109493-spider-solitaire-f.json](./109493-spider-solitaire-f.json) |
@@ -25781,7 +25768,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of the Obelisk | 325306 | [325306-spirit-of-the-obelisk.json](./325306-spirit-of-the-obelisk.json) |
 | Spirit of the Sky | 288039 | [288039-spirit-of-the-sky.json](./288039-spirit-of-the-sky.json) |
 | Spirit of the Stones | 317498 | [317498-spirit-of-the-stones.json](./317498-spirit-of-the-stones.json) |
-| Spirit of Wandering - The Legend | 87071 | [87071-spirit-of-wandering-the-legend.json](./87071-spirit-of-wandering-the-legend.json) |
 | Spirit of War | 10838 | [10838-spirit-of-war.json](./10838-spirit-of-war.json) |
 | Spirit Overflow | 173249 | [173249-spirit-overflow.json](./173249-spirit-overflow.json) |
 | Spirit Parade | 56500 | [56500-spirit-parade.json](./56500-spirit-parade.json) |
@@ -26433,7 +26419,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spoorky | 110897 | [110897-spoorky.json](./110897-spoorky.json) |
 | Sporadic Spire | 149137 | [149137-sporadic-spire.json](./149137-sporadic-spire.json) |
 | Sporbs | 381519 | [381519-sporbs.json](./381519-sporbs.json) |
-| Sporcle | 86844 | [86844-sporcle.json](./86844-sporcle.json) |
 | Sporcle Party | 283574 | [283574-sporcle-party.json](./283574-sporcle-party.json) |
 | Spore | 55043 | [55043-spore.json](./55043-spore.json) |
 | Spore 2D Creature Creator | 265898 | [265898-spore-2d-creature-creator.json](./265898-spore-2d-creature-creator.json) |
@@ -29874,7 +29859,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start From School | 148780 | [148780-start-from-school.json](./148780-start-from-school.json) |
 | Start Over | 244584 | [244584-start-over.json](./244584-start-over.json) |
 | Start Powerless | 182962 | [182962-start-powerless.json](./182962-start-powerless.json) |
-| Start Rescue the Enchanter | 87060 | [87060-start-rescue-the-enchanter.json](./87060-start-rescue-the-enchanter.json) |
 | Start Running | 291858 | [291858-start-running.json](./291858-start-running.json) |
 | Start Survey 2 | 206840 | [206840-start-survey-2.json](./206840-start-survey-2.json) |
 | Start Survey? | 177427 | [177427-start-survey.json](./177427-start-survey.json) |
@@ -31194,7 +31178,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman and the Sword of Legends | 246925 | [246925-stickman-and-the-sword-of-legends.json](./246925-stickman-and-the-sword-of-legends.json) |
 | Stickman Annihilation 2 | 86351 | [86351-stickman-annihilation-2.json](./86351-stickman-annihilation-2.json) |
 | Stickman Arc Hero Fight | 235234 | [235234-stickman-arc-hero-fight.json](./235234-stickman-arc-hero-fight.json) |
-| Stickman Archer Fight | 86932 | [86932-stickman-archer-fight.json](./86932-stickman-archer-fight.json) |
 | Stickman Archer Online | 239550 | [239550-stickman-archer-online.json](./239550-stickman-archer-online.json) |
 | Stickman Awakens | 233185 | [233185-stickman-awakens.json](./233185-stickman-awakens.json) |
 | Stickman Backflip Killer 5 | 102470 | [102470-stickman-backflip-killer-5.json](./102470-stickman-backflip-killer-5.json) |
@@ -34256,7 +34239,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Companion | 103543 | [103543-sudoku-companion.json](./103543-sudoku-companion.json) |
 | Sudoku Constellation | 292281 | [292281-sudoku-constellation.json](./292281-sudoku-constellation.json) |
 | Sudoku Daily | 87424 | [87424-sudoku-daily.json](./87424-sudoku-daily.json) |
-| Sudoku Deluxe | 86733 | [86733-sudoku-deluxe.json](./86733-sudoku-deluxe.json) |
 | Sudoku Dreams | 149919 | [149919-sudoku-dreams.json](./149919-sudoku-dreams.json) |
 | Sudoku Dreams | 379021 | [379021-sudoku-dreams.json](./379021-sudoku-dreams.json) |
 | Sudoku Dreams: Hints Pack | 379020 | [379020-sudoku-dreams-hints-pack.json](./379020-sudoku-dreams-hints-pack.json) |
@@ -38835,7 +38817,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Time Force | 5336 | [5336-super-time-force.json](./5336-super-time-force.json) |
 | Super Time Force Ultra | 8879 | [8879-super-time-force-ultra.json](./8879-super-time-force-ultra.json) |
 | Super Tiny Leap | 409890 | [409890-super-tiny-leap.json](./409890-super-tiny-leap.json) |
-| Super Tits Rush | 86752 | [86752-super-tits-rush.json](./86752-super-tits-rush.json) |
 | Super Toaster X: Learn Japanese RPG | 31254 | [31254-super-toaster-x-learn-japanese-rpg.json](./31254-super-toaster-x-learn-japanese-rpg.json) |
 | Super Toboggan 3D | 410883 | [410883-super-toboggan-3d.json](./410883-super-toboggan-3d.json) |
 | Super Toffy | 40459 | [40459-super-toffy.json](./40459-super-toffy.json) |
@@ -39369,7 +39350,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket: Tidy Up! | 425953 | [425953-supermarket-tidy-up.json](./425953-supermarket-tidy-up.json) |
 | Supermart Tycoon | 381709 | [381709-supermart-tycoon.json](./381709-supermart-tycoon.json) |
 | Supermaze | 385915 | [385915-supermaze.json](./385915-supermaze.json) |
-| SuperMind | 86906 | [86906-supermind.json](./86906-supermind.json) |
 | Supermodel Gail McKenna | 254502 | [254502-supermodel-gail-mckenna.json](./254502-supermodel-gail-mckenna.json) |
 | SuperModels Go Wild | 58031 | [58031-supermodels-go-wild.json](./58031-supermodels-go-wild.json) |
 | SuperMoose | 30757 | [30757-supermoose.json](./30757-supermoose.json) |
@@ -40813,7 +40793,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Halloween | 261470 | [261470-sweet-halloween.json](./261470-sweet-halloween.json) |
 | Sweet Hamster Days | 368802 | [368802-sweet-hamster-days.json](./368802-sweet-hamster-days.json) |
 | Sweet Hazard | 316815 | [316815-sweet-hazard.json](./316815-sweet-hazard.json) |
-| Sweet Hearts Match 3 | 86800 | [86800-sweet-hearts-match-3.json](./86800-sweet-hearts-match-3.json) |
 | Sweet Hell | 293710 | [293710-sweet-hell.json](./293710-sweet-hell.json) |
 | Sweet Hero | 192506 | [192506-sweet-hero.json](./192506-sweet-hero.json) |
 | Sweet Hide and Seek | 339460 | [339460-sweet-hide-and-seek.json](./339460-sweet-hide-and-seek.json) |
