@@ -525,7 +525,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Drive: Whispers Edition | 376034 | [376034-pacific-drive-whispers-edition.json](./376034-pacific-drive-whispers-edition.json) |
 | Pacific Fighters | 24163 | [24163-pacific-fighters.json](./24163-pacific-fighters.json) |
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
-| Pacific Fleet | 87506 | [87506-pacific-fleet.json](./87506-pacific-fleet.json) |
 | Pacific Fort Night Craft Survival Battle Royale | 100965 | [100965-pacific-fort-night-craft-survival-battle-royale.json](./100965-pacific-fort-night-craft-survival-battle-royale.json) |
 | Pacific General | 14451 | [14451-pacific-general.json](./14451-pacific-general.json) |
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
@@ -2107,26 +2106,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papi Chocolate | 87107 | [87107-papi-chocolate.json](./87107-papi-chocolate.json) |
 | Papi Commando: Second Blood | 142053 | [142053-papi-commando-second-blood.json](./142053-papi-commando-second-blood.json) |
 | Papi Trampoline | 58581 | [58581-papi-trampoline.json](./58581-papi-trampoline.json) |
-| PapiBatting | 87237 | [87237-papibatting.json](./87237-papibatting.json) |
-| PapiBlocks | 87302 | [87302-papiblocks.json](./87302-papiblocks.json) |
 | PapiCatch | 87241 | [87241-papicatch.json](./87241-papicatch.json) |
 | Papich - The Game Ep.1 | 81749 | [81749-papich-the-game-ep-1.json](./81749-papich-the-game-ep-1.json) |
-| PapiDefense | 87306 | [87306-papidefense.json](./87306-papidefense.json) |
-| PapiDiving | 87246 | [87246-papidiving.json](./87246-papidiving.json) |
 | Papier Julien | 337711 | [337711-papier-julien.json](./337711-papier-julien.json) |
 | PapiFlap | 87249 | [87249-papiflap.json](./87249-papiflap.json) |
-| PapiHop | 87388 | [87388-papihop.json](./87388-papihop.json) |
 | PapiJump | 72701 | [72701-papijump.json](./72701-papijump.json) |
 | Papilio | 195015 | [195015-papilio.json](./195015-papilio.json) |
-| PapiMirror | 87231 | [87231-papimirror.json](./87231-papimirror.json) |
 | PapiMountain | 87234 | [87234-papimountain.json](./87234-papimountain.json) |
 | Papiny Dochki | 188598 | [188598-papiny-dochki.json](./188598-papiny-dochki.json) |
 | PapiPole | 88787 | [88787-papipole.json](./88787-papipole.json) |
-| PapiRiver | 87116 | [87116-papiriver.json](./87116-papiriver.json) |
-| PapiRubber | 87232 | [87232-papirubber.json](./87232-papirubber.json) |
-| PapiStep | 87235 | [87235-papistep.json](./87235-papistep.json) |
-| PapiSurvival | 87248 | [87248-papisurvival.json](./87248-papisurvival.json) |
-| PapiWall | 87122 | [87122-papiwall.json](./87122-papiwall.json) |
 | Paplinko | 356139 | [356139-paplinko.json](./356139-paplinko.json) |
 | Paplion | 306428 | [306428-paplion.json](./306428-paplion.json) |
 | Papo City Builder | 299225 | [299225-papo-city-builder.json](./299225-papo-city-builder.json) |
@@ -2286,7 +2274,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Chateau | 416373 | [416373-paradise-chateau.json](./416373-paradise-chateau.json) |
 | Paradise checkers | 112946 | [112946-paradise-checkers.json](./112946-paradise-checkers.json) |
 | Paradise Checkers VR | 105098 | [105098-paradise-checkers-vr.json](./105098-paradise-checkers-vr.json) |
-| Paradise City Island Sim Town | 87148 | [87148-paradise-city-island-sim-town.json](./87148-paradise-city-island-sim-town.json) |
 | Paradise City VR | 113060 | [113060-paradise-city-vr.json](./113060-paradise-city-vr.json) |
 | Paradise Cleaning: Days with Marie, My Love | 370754 | [370754-paradise-cleaning-days-with-marie-my-love.json](./370754-paradise-cleaning-days-with-marie-my-love.json) |
 | Paradise Cleaning: Me and my Doctor's Life in the Hospital | 207648 | [207648-paradise-cleaning-me-and-my-doctors-life-in-the-hospital.json](./207648-paradise-cleaning-me-and-my-doctors-life-in-the-hospital.json) |
@@ -2920,7 +2907,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Rewrite | 350749 | [350749-parkour-rewrite.json](./350749-parkour-rewrite.json) |
 | Parkour Simulator | 377589 | [377589-parkour-simulator.json](./377589-parkour-simulator.json) |
 | Parkour Simulator 2026 | 386784 | [386784-parkour-simulator-2026.json](./386784-parkour-simulator-2026.json) |
-| Parkour Simulator 3D | 87303 | [87303-parkour-simulator-3d.json](./87303-parkour-simulator-3d.json) |
 | Parkour Tag | 163991 | [163991-parkour-tag.json](./163991-parkour-tag.json) |
 | Parkour Trials | 346757 | [346757-parkour-trials.json](./346757-parkour-trials.json) |
 | Parkour with Friends | 269242 | [269242-parkour-with-friends.json](./269242-parkour-with-friends.json) |
@@ -5660,7 +5646,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet idle | 189005 | [189005-pet-idle.json](./189005-pet-idle.json) |
 | Pet in TV | 85916 | [85916-pet-in-tv.json](./85916-pet-in-tv.json) |
 | Pet Inn 3D | 85341 | [85341-pet-inn-3d.json](./85341-pet-inn-3d.json) |
-| Pet Island: Build a cute pet shop! | 87391 | [87391-pet-island-build-a-cute-pet-shop.json](./87391-pet-island-build-a-cute-pet-shop.json) |
 | Pet Kawaii Shop | 317211 | [317211-pet-kawaii-shop.json](./317211-pet-kawaii-shop.json) |
 | Pet Knight into cave | 161262 | [161262-pet-knight-into-cave.json](./161262-pet-knight-into-cave.json) |
 | Pet Lands | 313919 | [313919-pet-lands.json](./313919-pet-lands.json) |
@@ -8369,7 +8354,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineapple Legend | 391966 | [391966-pineapple-legend.json](./391966-pineapple-legend.json) |
 | Pineapple on Pizza | 240496 | [240496-pineapple-on-pizza.json](./240496-pineapple-on-pizza.json) |
 | Pineapple Panic! | 337652 | [337652-pineapple-panic.json](./337652-pineapple-panic.json) |
-| Pineapple Pen | 87169 | [87169-pineapple-pen.json](./87169-pineapple-pen.json) |
 | Pineapple Pipeline: Infinite Skater Dreams | 185385 | [185385-pineapple-pipeline-infinite-skater-dreams.json](./185385-pineapple-pipeline-infinite-skater-dreams.json) |
 | Pineapple Smash Crew | 16330 | [16330-pineapple-smash-crew.json](./16330-pineapple-smash-crew.json) |
 | Pineapple: A Bittersweet Revenge | 290748 | [290748-pineapple-a-bittersweet-revenge.json](./290748-pineapple-a-bittersweet-revenge.json) |
@@ -10667,7 +10651,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Harriers | 72972 | [72972-planet-harriers.json](./72972-planet-harriers.json) |
 | Planet Hoarders | 356953 | [356953-planet-hoarders.json](./356953-planet-hoarders.json) |
 | Planet Hop | 158082 | [158082-planet-hop.json](./158082-planet-hop.json) |
-| Planet Horse | 87449 | [87449-planet-horse.json](./87449-planet-horse.json) |
 | Planet Hotpot | 173241 | [173241-planet-hotpot.json](./173241-planet-hotpot.json) |
 | Planet Impacter | 428960 | [428960-planet-impacter.json](./428960-planet-impacter.json) |
 | Planet in the Shadows | 33362 | [33362-planet-in-the-shadows.json](./33362-planet-in-the-shadows.json) |
@@ -10989,6 +10972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs Zombies: Garden Warfare - Garden Variety | 303743 | [303743-plants-vs-zombies-garden-warfare-garden-variety.json](./303743-plants-vs-zombies-garden-warfare-garden-variety.json) |
 | Plants vs Zombies: Garden Warfare 2 - Frosty Deluxe Edition | 118502 | [118502-plants-vs-zombies-garden-warfare-2-frosty-deluxe-edition.json](./118502-plants-vs-zombies-garden-warfare-2-frosty-deluxe-edition.json) |
 | Plants vs Zombies: Neighborhood Defense | 336549 | [336549-plants-vs-zombies-neighborhood-defense.json](./336549-plants-vs-zombies-neighborhood-defense.json) |
+| Plants vs Zombies: Roguelike | 403081 | [403081-plants-vs-zombies-roguelike.json](./403081-plants-vs-zombies-roguelike.json) |
 | Plants vs. SiIvaGunner | 308024 | [308024-plants-vs-siivagunner.json](./308024-plants-vs-siivagunner.json) |
 | Plants vs. Zombies | 163213 | [163213-plants-vs-zombies.json](./163213-plants-vs-zombies.json) |
 | Plants vs. Zombies | 259406 | [259406-plants-vs-zombies.json](./259406-plants-vs-zombies.json) |
@@ -11719,7 +11703,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pluffy Nightmare | 424170 | [424170-pluffy-nightmare.json](./424170-pluffy-nightmare.json) |
 | Plug & Play | 18239 | [18239-plug-and-play.json](./18239-plug-and-play.json) |
 | Plug and Play Sudoku | 263432 | [263432-plug-and-play-sudoku.json](./263432-plug-and-play-sudoku.json) |
-| Plug for Terraria | 87343 | [87343-plug-for-terraria.json](./87343-plug-for-terraria.json) |
 | Plug It In | 288232 | [288232-plug-it-in.json](./288232-plug-it-in.json) |
 | Plug Priority | 386894 | [386894-plug-priority.json](./386894-plug-priority.json) |
 | Plug the Man | 184148 | [184148-plug-the-man.json](./184148-plug-the-man.json) |
@@ -11769,6 +11752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plume | 424057 | [424057-plume.json](./424057-plume.json) |
 | Plumeboom First Chapter | 25374 | [25374-plumeboom-first-chapter.json](./25374-plumeboom-first-chapter.json) |
 | Plumley's Trot | 259785 | [259785-plumleys-trot.json](./259785-plumleys-trot.json) |
+| Plummet | 411440 | [411440-plummet.json](./411440-plummet.json) |
 | Plummet | 84238 | [84238-plummet.json](./84238-plummet.json) |
 | Plummet Challenge Game | 214519 | [214519-plummet-challenge-game.json](./214519-plummet-challenge-game.json) |
 | Plummet Panic | 317618 | [317618-plummet-panic.json](./317618-plummet-panic.json) |
@@ -13546,7 +13530,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Club | 138204 | [138204-poker-club.json](./138204-poker-club.json) |
 | Poker Club 6 in 1 | 248181 | [248181-poker-club-6-in-1.json](./248181-poker-club-6-in-1.json) |
 | Poker Club: Gold Edition | 277568 | [277568-poker-club-gold-edition.json](./277568-poker-club-gold-edition.json) |
-| Poker Cruncher: Expert Odds | 87325 | [87325-poker-cruncher-expert-odds.json](./87325-poker-cruncher-expert-odds.json) |
 | Poker Crush | 360561 | [360561-poker-crush.json](./360561-poker-crush.json) |
 | Poker Dice Solitaire Future | 61338 | [61338-poker-dice-solitaire-future.json](./61338-poker-dice-solitaire-future.json) |
 | Poker Drop | 146691 | [146691-poker-drop.json](./146691-poker-drop.json) |
@@ -16265,7 +16248,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preschool & Kindergarten Games | 88268 | [88268-preschool-and-kindergarten-games.json](./88268-preschool-and-kindergarten-games.json) |
 | Preschool All-In-One | 99138 | [99138-preschool-all-in-one.json](./99138-preschool-all-in-one.json) |
 | Preschool Colors Toys Train | 99719 | [99719-preschool-colors-toys-train.json](./99719-preschool-colors-toys-train.json) |
-| Preschool EduKidsRoom | 87266 | [87266-preschool-edukidsroom.json](./87266-preschool-edukidsroom.json) |
 | Preschool EduKitchen | 90799 | [90799-preschool-edukitchen.json](./90799-preschool-edukitchen.json) |
 | Preschool Game-EduKidsRoom | 89615 | [89615-preschool-game-edukidsroom.json](./89615-preschool-game-edukidsroom.json) |
 | Preschool Games Kids Learning | 107650 | [107650-preschool-games-kids-learning.json](./107650-preschool-games-kids-learning.json) |
@@ -20013,7 +19995,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pullfrog: Deluxe | 272468 | [272468-pullfrog-deluxe.json](./272468-pullfrog-deluxe.json) |
 | Pulling No Punches | 167512 | [167512-pulling-no-punches.json](./167512-pulling-no-punches.json) |
 | Pulling Pin: Pull the Pin | 231910 | [231910-pulling-pin-pull-the-pin.json](./231910-pulling-pin-pull-the-pin.json) |
-| Pulling USA | 87505 | [87505-pulling-usa.json](./87505-pulling-usa.json) |
 | Pulling USA 2 | 86883 | [86883-pulling-usa-2.json](./86883-pulling-usa-2.json) |
 | Pullstation | 349930 | [349930-pullstation.json](./349930-pullstation.json) |
 | Pullto | 185171 | [185171-pullto.json](./185171-pullto.json) |
@@ -21881,7 +21862,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramids of Ra | 49027 | [49027-pyramids-of-ra.json](./49027-pyramids-of-ra.json) |
 | Pyramids Slot Machines | 187481 | [187481-pyramids-slot-machines.json](./187481-pyramids-slot-machines.json) |
 | PyramidValley: Reborn | 353395 | [353395-pyramidvalley-reborn.json](./353395-pyramidvalley-reborn.json) |
-| Pyraminx Solver | 87254 | [87254-pyraminx-solver.json](./87254-pyraminx-solver.json) |
 | Pyramis | 235652 | [235652-pyramis.json](./235652-pyramis.json) |
 | Pyramis | 397668 | [397668-pyramis.json](./397668-pyramis.json) |
 | Pyrastak | 351757 | [351757-pyrastak.json](./351757-pyrastak.json) |
