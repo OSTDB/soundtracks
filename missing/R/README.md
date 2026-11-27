@@ -403,7 +403,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race for the Galaxy: Rebel vs. Imperium | 167759 | [167759-race-for-the-galaxy-rebel-vs-imperium.json](./167759-race-for-the-galaxy-rebel-vs-imperium.json) |
 | Race for The White House | 234170 | [234170-race-for-the-white-house.json](./234170-race-for-the-white-house.json) |
 | Race for Your Life | 190114 | [190114-race-for-your-life.json](./190114-race-for-your-life.json) |
-| Race Horses Champions | 87488 | [87488-race-horses-champions.json](./87488-race-horses-champions.json) |
 | Race Horses Champions 2 | 108711 | [108711-race-horses-champions-2.json](./108711-race-horses-champions-2.json) |
 | Race Horses Champions 3 | 242176 | [242176-race-horses-champions-3.json](./242176-race-horses-champions-3.json) |
 | Race Illegal | 240211 | [240211-race-illegal.json](./240211-race-illegal.json) |
@@ -1277,7 +1276,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Maze | 19512 | [19512-rail-maze.json](./19512-rail-maze.json) |
 | Rail Maze : Train puzzle | 88743 | [88743-rail-maze-train-puzzle.json](./88743-rail-maze-train-puzzle.json) |
 | Rail Maze 2 | 301233 | [301233-rail-maze-2.json](./301233-rail-maze-2.json) |
-| Rail Maze 2 : Train Puzzler | 87301 | [87301-rail-maze-2-train-puzzler.json](./87301-rail-maze-2-train-puzzler.json) |
 | Rail Nation | 23617 | [23617-rail-nation.json](./23617-rail-nation.json) |
 | Rail of Möbius | 147810 | [147810-rail-of-mobius.json](./147810-rail-of-mobius.json) |
 | Rail Racers | 9252 | [9252-rail-racers.json](./9252-rail-racers.json) |
@@ -2278,7 +2276,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Fury | 298226 | [298226-rapid-fury.json](./298226-rapid-fury.json) |
 | Rapid Hero | 39881 | [39881-rapid-hero.json](./39881-rapid-hero.json) |
 | Rapid Impact | 340096 | [340096-rapid-impact.json](./340096-rapid-impact.json) |
-| Rapid Jump | 87290 | [87290-rapid-jump.json](./87290-rapid-jump.json) |
 | Rapid Magic Arcane Crystals | 174210 | [174210-rapid-magic-arcane-crystals.json](./174210-rapid-magic-arcane-crystals.json) |
 | Rapid Miner | 424375 | [424375-rapid-miner.json](./424375-rapid-miner.json) |
 | Rapid Puppet | 391122 | [391122-rapid-puppet.json](./391122-rapid-puppet.json) |
@@ -2519,7 +2516,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rats in a Cage | 217092 | [217092-rats-in-a-cage.json](./217092-rats-in-a-cage.json) |
 | Rats Invasion | 96673 | [96673-rats-invasion.json](./96673-rats-invasion.json) |
 | Rats Invasion 2 | 86889 | [86889-rats-invasion-2.json](./86889-rats-invasion-2.json) |
-| Rats Invasion 3 - Physics Puzzle Game | 87203 | [87203-rats-invasion-3-physics-puzzle-game.json](./87203-rats-invasion-3-physics-puzzle-game.json) |
 | Rats Under My Skin | 177786 | [177786-rats-under-my-skin.json](./177786-rats-under-my-skin.json) |
 | Rats! | 49087 | [49087-rats.json](./49087-rats.json) |
 | Rats! | 61662 | [61662-rats.json](./61662-rats.json) |
@@ -2945,7 +2941,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Helicopter Indoor Adventure | 78279 | [78279-rc-helicopter-indoor-adventure.json](./78279-rc-helicopter-indoor-adventure.json) |
 | RC Match 3 | 240648 | [240648-rc-match-3.json](./240648-rc-match-3.json) |
 | RC Mini Racers | 88405 | [88405-rc-mini-racers.json](./88405-rc-mini-racers.json) |
-| RC Mini Racing | 87406 | [87406-rc-mini-racing.json](./87406-rc-mini-racing.json) |
 | RC Overdrive | 393799 | [393799-rc-overdrive.json](./393799-rc-overdrive.json) |
 | RC Plane | 249652 | [249652-rc-plane.json](./249652-rc-plane.json) |
 | Rc Plane 2 | 260654 | [260654-rc-plane-2.json](./260654-rc-plane-2.json) |
@@ -6359,7 +6354,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Power Eaters | 188860 | [188860-rescue-team-power-eaters.json](./188860-rescue-team-power-eaters.json) |
 | Rescue Teddy | 154098 | [154098-rescue-teddy.json](./154098-rescue-teddy.json) |
 | Rescue Terra I | 40699 | [40699-rescue-terra-i.json](./40699-rescue-terra-i.json) |
-| Rescue the Enchanter | 87270 | [87270-rescue-the-enchanter.json](./87270-rescue-the-enchanter.json) |
 | Rescue the Girl | 347086 | [347086-rescue-the-girl.json](./347086-rescue-the-girl.json) |
 | Rescue the Great Demon 2 | 30562 | [30562-rescue-the-great-demon-2.json](./30562-rescue-the-great-demon-2.json) |
 | Rescue the Hostages: Cryptic Countdown | 377239 | [377239-rescue-the-hostages-cryptic-countdown.json](./377239-rescue-the-hostages-cryptic-countdown.json) |
@@ -12207,7 +12201,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolly Hills | 241569 | [241569-rolly-hills.json](./241569-rolly-hills.json) |
 | Rolly Rails | 345701 | [345701-rolly-rails.json](./345701-rolly-rails.json) |
 | Rolly Rolly | 78535 | [78535-rolly-rolly.json](./78535-rolly-rolly.json) |
-| Rolly Vortex | 87374 | [87374-rolly-vortex.json](./87374-rolly-vortex.json) |
 | Rolly's Adventure | 119560 | [119560-rollys-adventure.json](./119560-rollys-adventure.json) |
 | Rollz | 304507 | [304507-rollz.json](./304507-rollz.json) |
 | Rolo to the Rescue | 46200 | [46200-rolo-to-the-rescue.json](./46200-rolo-to-the-rescue.json) |
