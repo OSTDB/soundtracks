@@ -5047,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Diary | 118084 | [118084-dear-diary.json](./118084-dear-diary.json) |
 | Dear Diary | 297233 | [297233-dear-diary.json](./297233-dear-diary.json) |
 | Dear Diary | 370715 | [370715-dear-diary.json](./370715-dear-diary.json) |
+| Dear Diary | 430427 | [430427-dear-diary.json](./430427-dear-diary.json) |
 | Dear Drops Distortion | 59421 | [59421-dear-drops-distortion.json](./59421-dear-drops-distortion.json) |
 | Dear Edmund | 285006 | [285006-dear-edmund.json](./285006-dear-edmund.json) |
 | Dear Edwin | 318855 | [318855-dear-edwin.json](./318855-dear-edwin.json) |
@@ -7479,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Eclipse | 141138 | [141138-demon-eclipse.json](./141138-demon-eclipse.json) |
 | Demon Engines | 148728 | [148728-demon-engines.json](./148728-demon-engines.json) |
 | Demon Escape: Shadow Realm | 119946 | [119946-demon-escape-shadow-realm.json](./119946-demon-escape-shadow-realm.json) |
+| Demon Expulsion | 430343 | [430343-demon-expulsion.json](./430343-demon-expulsion.json) |
 | Demon Eye | 391666 | [391666-demon-eye.json](./391666-demon-eye.json) |
 | Demon Fish Dead Ahead | 429002 | [429002-demon-fish-dead-ahead.json](./429002-demon-fish-dead-ahead.json) |
 | Demon Front | 41074 | [41074-demon-front.json](./41074-demon-front.json) |
@@ -10920,6 +10922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimenders | 258291 | [258291-dimenders.json](./258291-dimenders.json) |
 | Dimense: Chapter 1 | 116182 | [116182-dimense-chapter-1.json](./116182-dimense-chapter-1.json) |
 | Dimenseum | 396376 | [396376-dimenseum.json](./396376-dimenseum.json) |
+| Dimenshaper | 430436 | [430436-dimenshaper.json](./430436-dimenshaper.json) |
 | Dimenshift: Direction is Meaningless | 293471 | [293471-dimenshift-direction-is-meaningless.json](./293471-dimenshift-direction-is-meaningless.json) |
 | Dimenshot | 361071 | [361071-dimenshot.json](./361071-dimenshot.json) |
 | Dimensi Lain Serena | 301117 | [301117-dimensi-lain-serena.json](./301117-dimensi-lain-serena.json) |
@@ -14551,6 +14554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Feed the Cat | 373144 | [373144-dont-feed-the-cat.json](./373144-dont-feed-the-cat.json) |
 | Don't Feed the Slimes! | 103797 | [103797-dont-feed-the-slimes.json](./103797-dont-feed-the-slimes.json) |
 | Don't Find Me!! | 303488 | [303488-dont-find-me.json](./303488-dont-find-me.json) |
+| Don't Fix Her Pipes | 430452 | [430452-dont-fix-her-pipes.json](./430452-dont-fix-her-pipes.json) |
 | Don't Flee | 238643 | [238643-dont-flee.json](./238643-dont-flee.json) |
 | Don't Flip First | 362408 | [362408-dont-flip-first.json](./362408-dont-flip-first.json) |
 | Don't Fool Me, Beauties! | 346175 | [346175-dont-fool-me-beauties.json](./346175-dont-fool-me-beauties.json) |
@@ -21963,6 +21967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuoDuo | 234057 | [234057-duoduo.json](./234057-duoduo.json) |
 | DuolBots | 201427 | [201427-duolbots.json](./201427-duolbots.json) |
 | Duolingo | 321884 | [321884-duolingo.json](./321884-duolingo.json) |
+| Duolingo (Don't Sue Me) | 430448 | [430448-duolingo-dont-sue-me.json](./430448-duolingo-dont-sue-me.json) |
 | Duolingo: Chess | 373509 | [373509-duolingo-chess.json](./373509-duolingo-chess.json) |
 | Duolty | 382740 | [382740-duolty.json](./382740-duolty.json) |
 | DuoQ | 343225 | [343225-duoq.json](./343225-duoq.json) |
