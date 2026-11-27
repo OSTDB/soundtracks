@@ -11845,6 +11845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo | 198365 | [198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json](./198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json) |
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo: Present For You | 401167 | [401167-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo-present-for-you.json](./401167-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo-present-for-you.json) |
 | Horoboshi-hime | 320826 | [320826-horoboshi-hime.json](./320826-horoboshi-hime.json) |
+| Horologiorum Ancilla | 416425 | [416425-horologiorum-ancilla.json](./416425-horologiorum-ancilla.json) |
 | Hororo Meguru's Bing!! Ball | 292974 | [292974-hororo-megurus-bing-ball.json](./292974-hororo-megurus-bing-ball.json) |
 | Horos: Web of Shadows | 379259 | [379259-horos-web-of-shadows.json](./379259-horos-web-of-shadows.json) |
 | Horoscopicus | 220380 | [220380-horoscopicus.json](./220380-horoscopicus.json) |
@@ -13826,6 +13827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Days: Grape Lab | 167181 | [167181-hundred-days-grape-lab.json](./167181-hundred-days-grape-lab.json) |
 | Hundred Days: Napa Valley | 187853 | [187853-hundred-days-napa-valley.json](./187853-hundred-days-napa-valley.json) |
 | Hundred Doors | 357711 | [357711-hundred-doors.json](./357711-hundred-doors.json) |
+| Hundred Fires 3 | 415716 | [415716-hundred-fires-3.json](./415716-hundred-fires-3.json) |
 | Hundred Fires: Episode 2 | 412547 | [412547-hundred-fires-episode-2.json](./412547-hundred-fires-episode-2.json) |
 | Hundred Fires: The Rising of Red Star | 195957 | [195957-hundred-fires-the-rising-of-red-star.json](./195957-hundred-fires-the-rising-of-red-star.json) |
 | Hundred Fires: The rising of red star - Episode 2 | 290057 | [290057-hundred-fires-the-rising-of-red-star-episode-2.json](./290057-hundred-fires-the-rising-of-red-star-episode-2.json) |
