@@ -5941,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wikipedia Speedruns | 230092 | [230092-wikipedia-speedruns.json](./230092-wikipedia-speedruns.json) |
 | WikiRace | 408211 | [408211-wikirace.json](./408211-wikirace.json) |
 | WikiRNG | 420048 | [420048-wikirng.json](./420048-wikirng.json) |
+| Wikistory: The Lost Fragments | 431113 | [431113-wikistory-the-lost-fragments.json](./431113-wikistory-the-lost-fragments.json) |
 | Wikitrivia | 212691 | [212691-wikitrivia.json](./212691-wikitrivia.json) |
 | Wikiverse | 424722 | [424722-wikiverse.json](./424722-wikiverse.json) |
 | Wiktor TD | 178426 | [178426-wiktor-td.json](./178426-wiktor-td.json) |
