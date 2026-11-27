@@ -1408,7 +1408,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13-Sai no Hello Work | 72584 | [72584-13-sai-no-hello-work.json](./72584-13-sai-no-hello-work.json) |
 | 13: Origin | 177648 | [177648-13-origin.json](./177648-13-origin.json) |
 | 13: Origin - Chapter One | 197399 | [197399-13-origin-chapter-one.json](./197399-13-origin-chapter-one.json) |
-| 13! | 87045 | [87045-13.json](./87045-13.json) |
 | 13's | 190047 | [190047-13s.json](./190047-13s.json) |
 | 1306 Chapter 1: Reactors & Robots | 343403 | [343403-1306-chapter-1-reactors-and-robots.json](./343403-1306-chapter-1-reactors-and-robots.json) |
 | 1313 : Puzzle Game | 88410 | [88410-1313-puzzle-game.json](./88410-1313-puzzle-game.json) |
@@ -2797,7 +2796,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Escape Room: Cursed Legacy | 390381 | [390381-3d-escape-room-cursed-legacy.json](./390381-3d-escape-room-cursed-legacy.json) |
 | 3D Escape Room: Detective Story | 333064 | [333064-3d-escape-room-detective-story.json](./333064-3d-escape-room-detective-story.json) |
 | 3D Escape Room: Mystic Manor | 348853 | [348853-3d-escape-room-mystic-manor.json](./348853-3d-escape-room-mystic-manor.json) |
-| 3D Fantasy Zone II W | 86818 | [86818-3d-fantasy-zone-ii-w.json](./86818-3d-fantasy-zone-ii-w.json) |
 | 3D Fantasy Zone: Opa-Opa Bros. | 86817 | [86817-3d-fantasy-zone-opa-opa-bros.json](./86817-3d-fantasy-zone-opa-opa-bros.json) |
 | 3D Fast & Furious | 410226 | [410226-3d-fast-and-furious.json](./410226-3d-fast-and-furious.json) |
 | 3D Fight | 13266 | [13266-3d-fight.json](./13266-3d-fight.json) |
