@@ -8249,6 +8249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything is Peachy | 31646 | [31646-everything-is-peachy.json](./31646-everything-is-peachy.json) |
 | Everything Must Fall | 28132 | [28132-everything-must-fall.json](./28132-everything-must-fall.json) |
 | Everything Must Fit! | 418136 | [418136-everything-must-fit.json](./418136-everything-must-fit.json) |
+| Everything Must Word | 430864 | [430864-everything-must-word.json](./430864-everything-must-word.json) |
 | Everything Nice | 54009 | [54009-everything-nice.json](./54009-everything-nice.json) |
 | Everything Store | 391194 | [391194-everything-store.json](./391194-everything-store.json) |
 | Everything Will Be Fine! | 393969 | [393969-everything-will-be-fine.json](./393969-everything-will-be-fine.json) |
@@ -8273,6 +8274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evidence Destroyer | 301160 | [301160-evidence-destroyer.json](./301160-evidence-destroyer.json) |
 | Evidence of 96' | 398358 | [398358-evidence-of-96.json](./398358-evidence-of-96.json) |
 | Evidence of Life | 111424 | [111424-evidence-of-life.json](./111424-evidence-of-life.json) |
+| Evidence Vault | 431019 | [431019-evidence-vault.json](./431019-evidence-vault.json) |
 | Evidence: The Last Report | 71461 | [71461-evidence-the-last-report.json](./71461-evidence-the-last-report.json) |
 | Evidence: The Last Ritual | 20599 | [20599-evidence-the-last-ritual.json](./20599-evidence-the-last-ritual.json) |
 | Evidence01 | 389551 | [389551-evidence01.json](./389551-evidence01.json) |
