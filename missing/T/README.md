@@ -11275,6 +11275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forest Quartet | 159958 | [159958-the-forest-quartet.json](./159958-the-forest-quartet.json) |
 | The Forest Ranger | 290030 | [290030-the-forest-ranger.json](./290030-the-forest-ranger.json) |
 | The Forest Watches | 383947 | [383947-the-forest-watches.json](./383947-the-forest-watches.json) |
+| The Forest's End | 431244 | [431244-the-forests-end.json](./431244-the-forests-end.json) |
 | The Forestale | 102875 | [102875-the-forestale.json](./102875-the-forestale.json) |
 | The Foretold: Exordium | 267675 | [267675-the-foretold-exordium.json](./267675-the-foretold-exordium.json) |
 | The Foretold: Westmark Legacy | 239388 | [239388-the-foretold-westmark-legacy.json](./239388-the-foretold-westmark-legacy.json) |
@@ -20658,6 +20659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Throne | 144329 | [144329-the-throne.json](./144329-the-throne.json) |
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
 | The Throne of Bernicia | 191173 | [191173-the-throne-of-bernicia.json](./191173-the-throne-of-bernicia.json) |
+| The Throne of the Clock: Remastered | 430981 | [430981-the-throne-of-the-clock-remastered.json](./430981-the-throne-of-the-clock-remastered.json) |
 | The Throne of the Monster | 316666 | [316666-the-throne-of-the-monster.json](./316666-the-throne-of-the-monster.json) |
 | The Throng | 335304 | [335304-the-throng.json](./335304-the-throng.json) |
 | The Thundermans: Dr. Colosso On The Run | 258358 | [258358-the-thundermans-dr-colosso-on-the-run.json](./258358-the-thundermans-dr-colosso-on-the-run.json) |
