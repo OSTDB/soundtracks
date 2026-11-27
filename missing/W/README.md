@@ -10375,6 +10375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worshippers | 74926 | [74926-worshippers.json](./74926-worshippers.json) |
 | Worshippers of Cthulhu | 292876 | [292876-worshippers-of-cthulhu.json](./292876-worshippers-of-cthulhu.json) |
 | Worshippers of the Gain | 334172 | [334172-worshippers-of-the-gain.json](./334172-worshippers-of-the-gain.json) |
+| Worst Bowling Game | 415694 | [415694-worst-bowling-game.json](./415694-worst-bowling-game.json) |
 | Worst Case | 320552 | [320552-worst-case.json](./320552-worst-case.json) |
 | Worst Case Z | 23156 | [23156-worst-case-z.json](./23156-worst-case-z.json) |
 | Worst Chess: Esther Sauce | 183423 | [183423-worst-chess-esther-sauce.json](./183423-worst-chess-esther-sauce.json) |
