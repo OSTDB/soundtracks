@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ueki no Housoku: Taosu ze Robert Juudan!! | 228934 | [228934-ueki-no-housoku-taosu-ze-robert-juudan.json](./228934-ueki-no-housoku-taosu-ze-robert-juudan.json) |
 | UemeU | 63133 | [63133-uemeu.json](./63133-uemeu.json) |
 | Ueqouow | 288332 | [288332-ueqouow.json](./288332-ueqouow.json) |
+| Ueru | 430438 | [430438-ueru.json](./430438-ueru.json) |
 | uFactory | 115232 | [115232-ufactory.json](./115232-ufactory.json) |
 | UFB 2: Fight & Wrestling Games | 251343 | [251343-ufb-2-fight-and-wrestling-games.json](./251343-ufb-2-fight-and-wrestling-games.json) |
 | UFC | 21720 | [21720-ufc.json](./21720-ufc.json) |
@@ -2384,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnExplored: Unlocked Edition | 98837 | [98837-unexplored-unlocked-edition.json](./98837-unexplored-unlocked-edition.json) |
 | Unexposed: Game of Dragons | 188061 | [188061-unexposed-game-of-dragons.json](./188061-unexposed-game-of-dragons.json) |
 | Unexposed: The Ghost Archives | 188014 | [188014-unexposed-the-ghost-archives.json](./188014-unexposed-the-ghost-archives.json) |
+| Unextinct | 431583 | [431583-unextinct.json](./431583-unextinct.json) |
 | Unextinction | 365862 | [365862-unextinction.json](./365862-unextinction.json) |
 | Unfabled | 180859 | [180859-unfabled.json](./180859-unfabled.json) |
 | Unfabulous | 18306 | [18306-unfabulous.json](./18306-unfabulous.json) |
