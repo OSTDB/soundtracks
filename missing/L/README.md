@@ -910,7 +910,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Zympaia: The New Light | 191047 | [191047-land-of-zympaia-the-new-light.json](./191047-land-of-zympaia-the-new-light.json) |
 | Land Sea Air Squad | 40085 | [40085-land-sea-air-squad.json](./40085-land-sea-air-squad.json) |
 | Land Sliders | 56094 | [56094-land-sliders.json](./56094-land-sliders.json) |
-| Land Snake.io | 87033 | [87033-land-snake-io.json](./87033-land-snake-io.json) |
 | Land War | 115639 | [115639-land-war.json](./115639-land-war.json) |
 | Land-a Panda | 174620 | [174620-land-a-panda.json](./174620-land-a-panda.json) |
 | Land-io | 254444 | [254444-land-io.json](./254444-land-io.json) |
@@ -3325,7 +3324,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Wars: T-Rex Rumble | 91614 | [91614-legendary-wars-t-rex-rumble.json](./91614-legendary-wars-t-rex-rumble.json) |
 | Legendary Wings | 288843 | [288843-legendary-wings.json](./288843-legendary-wings.json) |
 | Legendary Wings | 39705 | [39705-legendary-wings.json](./39705-legendary-wings.json) |
-| Legendary: Game of Heroes | 86993 | [86993-legendary-game-of-heroes.json](./86993-legendary-game-of-heroes.json) |
 | Legende im Eis | 138525 | [138525-legende-im-eis.json](./138525-legende-im-eis.json) |
 | Legendino | 224021 | [224021-legendino.json](./224021-legendino.json) |
 | Legendo's the Three Musketeers | 71533 | [71533-legendos-the-three-musketeers.json](./71533-legendos-the-three-musketeers.json) |
@@ -4711,7 +4709,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Rooms | 174217 | [174217-letter-rooms.json](./174217-letter-rooms.json) |
 | Letter Schmetter | 245659 | [245659-letter-schmetter.json](./245659-letter-schmetter.json) |
 | Letter Snap: Term Challenge | 409537 | [409537-letter-snap-term-challenge.json](./409537-letter-snap-term-challenge.json) |
-| Letter Soup | 86787 | [86787-letter-soup.json](./86787-letter-soup.json) |
 | Letter Stack | 233106 | [233106-letter-stack.json](./233106-letter-stack.json) |
 | Letter Swish: Criss Cross Words | 294910 | [294910-letter-swish-criss-cross-words.json](./294910-letter-swish-criss-cross-words.json) |
 | Letter Taps | 56383 | [56383-letter-taps.json](./56383-letter-taps.json) |
@@ -9496,7 +9493,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Random: The Eternal Die - Wardrobe Expansion | 345728 | [345728-lost-in-random-the-eternal-die-wardrobe-expansion.json](./345728-lost-in-random-the-eternal-die-wardrobe-expansion.json) |
 | Lost in Red Valley | 165636 | [165636-lost-in-red-valley.json](./165636-lost-in-red-valley.json) |
 | Lost in Reefs | 427738 | [427738-lost-in-reefs.json](./427738-lost-in-reefs.json) |
-| Lost In Reefs 2 | 87063 | [87063-lost-in-reefs-2.json](./87063-lost-in-reefs-2.json) |
 | Lost In Reefs 3 | 89565 | [89565-lost-in-reefs-3.json](./89565-lost-in-reefs-3.json) |
 | Lost in Reefs: Antarctic | 30934 | [30934-lost-in-reefs-antarctic.json](./30934-lost-in-reefs-antarctic.json) |
 | Lost in Secular Love | 31505 | [31505-lost-in-secular-love.json](./31505-lost-in-secular-love.json) |
