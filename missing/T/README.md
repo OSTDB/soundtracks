@@ -2966,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tashio Tempo | 403579 | [403579-tashio-tempo.json](./403579-tashio-tempo.json) |
 | Tashiro Masashi no Princess ga Ippai | 41709 | [41709-tashiro-masashi-no-princess-ga-ippai.json](./41709-tashiro-masashi-no-princess-ga-ippai.json) |
 | Task Attack | 106957 | [106957-task-attack.json](./106957-task-attack.json) |
+| Task Bar Dungeons | 430475 | [430475-task-bar-dungeons.json](./430475-task-bar-dungeons.json) |
 | Task Bar Isekai | 425980 | [425980-task-bar-isekai.json](./425980-task-bar-isekai.json) |
 | Task Bar of Ragnalis | 412476 | [412476-task-bar-of-ragnalis.json](./412476-task-bar-of-ragnalis.json) |
 | Task Bar Vending Machine | 428323 | [428323-task-bar-vending-machine.json](./428323-task-bar-vending-machine.json) |
@@ -11394,6 +11395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Freshman: Game of Love | 313617 | [313617-the-freshman-game-of-love.json](./313617-the-freshman-game-of-love.json) |
 | The Freshman: Love Bites | 313615 | [313615-the-freshman-love-bites.json](./313615-the-freshman-love-bites.json) |
 | The Freshman: Snowed In | 313616 | [313616-the-freshman-snowed-in.json](./313616-the-freshman-snowed-in.json) |
+| The Fridge Is (Not) Empty | 430447 | [430447-the-fridge-is-not-empty.json](./430447-the-fridge-is-not-empty.json) |
 | The Fridge is Red | 141660 | [141660-the-fridge-is-red.json](./141660-the-fridge-is-red.json) |
 | The Friendly Droppets | 339201 | [339201-the-friendly-droppets.json](./339201-the-friendly-droppets.json) |
 | The friends of Ringo Ishikawa | 98898 | [98898-the-friends-of-ringo-ishikawa.json](./98898-the-friends-of-ringo-ishikawa.json) |
