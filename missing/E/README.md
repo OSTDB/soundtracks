@@ -188,7 +188,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Simulator | 186817 | [186817-eagle-simulator.json](./186817-eagle-simulator.json) |
 | Eagle Simulator | 219305 | [219305-eagle-simulator.json](./219305-eagle-simulator.json) |
 | Eagle Simulator | 219468 | [219468-eagle-simulator.json](./219468-eagle-simulator.json) |
-| Eagle Simulator | 86727 | [86727-eagle-simulator.json](./86727-eagle-simulator.json) |
 | Eagle Summoner | 307825 | [307825-eagle-summoner.json](./307825-eagle-summoner.json) |
 | Eagle: Special Forces | 333383 | [333383-eagle-special-forces.json](./333383-eagle-special-forces.json) |
 | Eagle's Rider | 13627 | [13627-eagles-rider.json](./13627-eagles-rider.json) |
@@ -600,7 +599,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Eggztravaganza | 76899 | [76899-easter-eggztravaganza.json](./76899-easter-eggztravaganza.json) |
 | Easter Eggztravaganza 2 | 418548 | [418548-easter-eggztravaganza-2.json](./418548-easter-eggztravaganza-2.json) |
 | Easter Hunting | 419635 | [419635-easter-hunting.json](./419635-easter-hunting.json) |
-| Easter Jewels HD | 87068 | [87068-easter-jewels-hd.json](./87068-easter-jewels-hd.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
 | Easter Pairs | 157744 | [157744-easter-pairs.json](./157744-easter-pairs.json) |
 | Easter Riddles | 149678 | [149678-easter-riddles.json](./149678-easter-riddles.json) |
@@ -1149,7 +1147,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecila | 164087 | [164087-ecila.json](./164087-ecila.json) |
 | Ecila | 257392 | [257392-ecila.json](./257392-ecila.json) |
 | Ecio | 119674 | [119674-ecio.json](./119674-ecio.json) |
-| Ecity | 87099 | [87099-ecity.json](./87099-ecity.json) |
 | Eckn+ | 159177 | [159177-eckn.json](./159177-eckn.json) |
 | Eckspelled | 409883 | [409883-eckspelled.json](./409883-eckspelled.json) |
 | Eclectic Custom Night | 317220 | [317220-eclectic-custom-night.json](./317220-eclectic-custom-night.json) |
@@ -5682,7 +5679,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eric Cantona Football Challenge | 42402 | [42402-eric-cantona-football-challenge.json](./42402-eric-cantona-football-challenge.json) |
 | Eric the Unready | 12426 | [12426-eric-the-unready.json](./12426-eric-the-unready.json) |
 | Eric Young's Squad Assault: West Front | 73379 | [73379-eric-youngs-squad-assault-west-front.json](./73379-eric-youngs-squad-assault-west-front.json) |
-| Eric's All-in-1 Solitaire | 86728 | [86728-erics-all-in-1-solitaire.json](./86728-erics-all-in-1-solitaire.json) |
 | Eric's Klondike Solitaire Pack | 95675 | [95675-erics-klondike-solitaire-pack.json](./95675-erics-klondike-solitaire-pack.json) |
 | Eric's Ultimate Solitaire | 170342 | [170342-erics-ultimate-solitaire.json](./170342-erics-ultimate-solitaire.json) |
 | Ericanskinsmonsters | 277444 | [277444-ericanskinsmonsters.json](./277444-ericanskinsmonsters.json) |
@@ -9367,7 +9363,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explore the Backrooms | 258811 | [258811-explore-the-backrooms.json](./258811-explore-the-backrooms.json) |
 | Explore the Grotto | 307580 | [307580-explore-the-grotto.json](./307580-explore-the-grotto.json) |
 | Explore the World | 54013 | [54013-explore-the-world.json](./54013-explore-the-world.json) |
-| Explore Titanic | 86853 | [86853-explore-titanic.json](./86853-explore-titanic.json) |
 | Explorer | 131269 | [131269-explorer.json](./131269-explorer.json) |
 | Explorer | 13653 | [13653-explorer.json](./13653-explorer.json) |
 | Explorer of Yggdrasil | 144648 | [144648-explorer-of-yggdrasil.json](./144648-explorer-of-yggdrasil.json) |
