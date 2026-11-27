@@ -533,7 +533,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Beach Soccer | 248631 | [248631-ultimate-beach-soccer.json](./248631-ultimate-beach-soccer.json) |
 | Ultimate Beach Soccer | 49353 | [49353-ultimate-beach-soccer.json](./49353-ultimate-beach-soccer.json) |
 | Ultimate Bicycle Stunts | 288546 | [288546-ultimate-bicycle-stunts.json](./288546-ultimate-bicycle-stunts.json) |
-| Ultimate Bird Simulator | 87344 | [87344-ultimate-bird-simulator.json](./87344-ultimate-bird-simulator.json) |
 | Ultimate Blackball | 243383 | [243383-ultimate-blackball.json](./243383-ultimate-blackball.json) |
 | Ultimate Blacksmith Tycoon | 406393 | [406393-ultimate-blacksmith-tycoon.json](./406393-ultimate-blacksmith-tycoon.json) |
 | Ultimate Block Party | 22574 | [22574-ultimate-block-party.json](./22574-ultimate-block-party.json) |
@@ -571,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Combat Fighting | 323317 | [323317-ultimate-combat-fighting.json](./323317-ultimate-combat-fighting.json) |
 | Ultimate Control Machine | 391429 | [391429-ultimate-control-machine.json](./391429-ultimate-control-machine.json) |
 | Ultimate Crab Battle | 388102 | [388102-ultimate-crab-battle.json](./388102-ultimate-crab-battle.json) |
+| Ultimate Custom Dash | 403708 | [403708-ultimate-custom-dash.json](./403708-ultimate-custom-dash.json) |
 | Ultimate Custom Night | 103629 | [103629-ultimate-custom-night.json](./103629-ultimate-custom-night.json) |
 | Ultimate Custom Night | 265919 | [265919-ultimate-custom-night.json](./265919-ultimate-custom-night.json) |
 | Ultimate Custom Night Demo | 230990 | [230990-ultimate-custom-night-demo.json](./230990-ultimate-custom-night-demo.json) |
@@ -699,7 +699,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Legends | 113387 | [113387-ultimate-legends.json](./113387-ultimate-legends.json) |
 | Ultimate Lemon Basket | 411522 | [411522-ultimate-lemon-basket.json](./411522-ultimate-lemon-basket.json) |
 | Ultimate Level Builder | 401954 | [401954-ultimate-level-builder.json](./401954-ultimate-level-builder.json) |
-| Ultimate Lion Simulator | 87341 | [87341-ultimate-lion-simulator.json](./87341-ultimate-lion-simulator.json) |
 | Ultimate Logic Puzzle Collection | 115163 | [115163-ultimate-logic-puzzle-collection.json](./115163-ultimate-logic-puzzle-collection.json) |
 | Ultimate Logic Puzzle Collection: Pack 1 | 163490 | [163490-ultimate-logic-puzzle-collection-pack-1.json](./163490-ultimate-logic-puzzle-collection-pack-1.json) |
 | Ultimate Logic Puzzle Collection: Pack 2 | 163488 | [163488-ultimate-logic-puzzle-collection-pack-2.json](./163488-ultimate-logic-puzzle-collection-pack-2.json) |
@@ -805,7 +804,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Sci-Fi Series | 71994 | [71994-ultimate-sci-fi-series.json](./71994-ultimate-sci-fi-series.json) |
 | Ultimate Scroll | 272716 | [272716-ultimate-scroll.json](./272716-ultimate-scroll.json) |
 | Ultimate Select Hero | 90164 | [90164-ultimate-select-hero.json](./90164-ultimate-select-hero.json) |
-| Ultimate Shark Simulator | 87336 | [87336-ultimate-shark-simulator.json](./87336-ultimate-shark-simulator.json) |
 | Ultimate Sheep Raccoon | 325276 | [325276-ultimate-sheep-raccoon.json](./325276-ultimate-sheep-raccoon.json) |
 | Ultimate Shifumi Championship | 288548 | [288548-ultimate-shifumi-championship.json](./288548-ultimate-shifumi-championship.json) |
 | Ultimate Shooting Collection | 5253 | [5253-ultimate-shooting-collection.json](./5253-ultimate-shooting-collection.json) |
@@ -1097,7 +1095,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra-Quiz | 93145 | [93145-ultra-quiz.json](./93145-ultra-quiz.json) |
 | Ultra-Ultra Doggy Trainer!! | 368599 | [368599-ultra-ultra-doggy-trainer.json](./368599-ultra-ultra-doggy-trainer.json) |
 | Ultra0 | 391033 | [391033-ultra0.json](./391033-ultra0.json) |
-| Ultra4 Offroad Racing | 87267 | [87267-ultra4-offroad-racing.json](./87267-ultra4-offroad-racing.json) |
 | Ultraball | 170897 | [170897-ultraball.json](./170897-ultraball.json) |
 | Ultraball | 79104 | [79104-ultraball.json](./79104-ultraball.json) |
 | Ultraball | 82318 | [82318-ultraball.json](./82318-ultraball.json) |
