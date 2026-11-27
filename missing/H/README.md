@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
 | Hamsterball | 70100 | [70100-hamsterball.json](./70100-hamsterball.json) |
 | HamsterBall Soccer | 256116 | [256116-hamsterball-soccer.json](./256116-hamsterball-soccer.json) |
+| Hamsterballin' | 430422 | [430422-hamsterballin.json](./430422-hamsterballin.json) |
 | HamsterCraft | 391567 | [391567-hamstercraft.json](./391567-hamstercraft.json) |
 | Hamsterdam | 107219 | [107219-hamsterdam.json](./107219-hamsterdam.json) |
 | Hamsteria! | 390684 | [390684-hamsteria.json](./390684-hamsteria.json) |
@@ -2096,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hapunan | 329691 | [329691-hapunan.json](./329691-hapunan.json) |
 | Hapy-y | 264509 | [264509-hapy-y.json](./264509-hapy-y.json) |
 | Hapymaher | 430320 | [430320-hapymaher.json](./430320-hapymaher.json) |
+| Hapymaher: Fragmentation Dream | 430344 | [430344-hapymaher-fragmentation-dream.json](./430344-hapymaher-fragmentation-dream.json) |
 | Haque | 75364 | [75364-haque.json](./75364-haque.json) |
 | Här Kommer Pippi Långstrump | 337184 | [337184-har-kommer-pippi-langstrump.json](./337184-har-kommer-pippi-langstrump.json) |
 | Hara Katsu! 3: Kozukuri Business Haigyou no Kiki!? | 194478 | [194478-hara-katsu-3-kozukuri-business-haigyou-no-kiki.json](./194478-hara-katsu-3-kozukuri-business-haigyou-no-kiki.json) |
@@ -14330,6 +14332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Husky Express | 92361 | [92361-husky-express.json](./92361-husky-express.json) |
 | Husky's Adventures | 152733 | [152733-huskys-adventures.json](./152733-huskys-adventures.json) |
 | Hustle | 40054 | [40054-hustle.json](./40054-hustle.json) |
+| Hustle | 430348 | [430348-hustle.json](./430348-hustle.json) |
 | Hustle Battle: Card Gamers | 393003 | [393003-hustle-battle-card-gamers.json](./393003-hustle-battle-card-gamers.json) |
 | Hustle Castle | 87280 | [87280-hustle-castle.json](./87280-hustle-castle.json) |
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
