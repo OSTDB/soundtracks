@@ -4360,7 +4360,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pearl Jam Live: Rock Band | 68299 | [68299-pearl-jam-live-rock-band.json](./68299-pearl-jam-live-rock-band.json) |
 | Pearl Music | 391989 | [391989-pearl-music.json](./391989-pearl-music.json) |
 | Pearl Rising | 314054 | [314054-pearl-rising.json](./314054-pearl-rising.json) |
-| Pearl's Peril | 86803 | [86803-pearls-peril.json](./86803-pearls-peril.json) |
 | Pearl6 | 94464 | [94464-pearl6.json](./94464-pearl6.json) |
 | Pearlessential | 337732 | [337732-pearlessential.json](./337732-pearlessential.json) |
 | Pearlglow Cafe: Sweet Crumb Kisses | 255571 | [255571-pearlglow-cafe-sweet-crumb-kisses.json](./255571-pearlglow-cafe-sweet-crumb-kisses.json) |
