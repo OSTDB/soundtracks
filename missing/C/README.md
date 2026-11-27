@@ -3402,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival Roulette | 384244 | [384244-carnival-roulette.json](./384244-carnival-roulette.json) |
 | Carnival Survivors The Parade | 265377 | [265377-carnival-survivors-the-parade.json](./265377-carnival-survivors-the-parade.json) |
 | Carnival VR Orientation | 150395 | [150395-carnival-vr-orientation.json](./150395-carnival-vr-orientation.json) |
+| Carnival: Tidy Up! | 431635 | [431635-carnival-tidy-up.json](./431635-carnival-tidy-up.json) |
 | Carnivalé | 206835 | [206835-carnivale.json](./206835-carnivale.json) |
 | Carnivalé: Cenzo's Adventure | 238880 | [238880-carnivale-cenzos-adventure.json](./238880-carnivale-cenzos-adventure.json) |
 | Carnivore Land | 34547 | [34547-carnivore-land.json](./34547-carnivore-land.json) |
@@ -6352,6 +6353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centroid | 133971 | [133971-centroid.json](./133971-centroid.json) |
 | Centropods | 45355 | [45355-centropods.json](./45355-centropods.json) |
 | Centum | 299590 | [299590-centum.json](./299590-centum.json) |
+| Centuries | 431449 | [431449-centuries.json](./431449-centuries.json) |
 | Centurion Rex | 172334 | [172334-centurion-rex.json](./172334-centurion-rex.json) |
 | Centurion: Defender of Rome | 8257 | [8257-centurion-defender-of-rome.json](./8257-centurion-defender-of-rome.json) |
 | Centurions: Power X Treme | 13473 | [13473-centurions-power-x-treme.json](./13473-centurions-power-x-treme.json) |
