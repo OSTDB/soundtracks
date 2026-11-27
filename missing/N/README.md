@@ -7565,7 +7565,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonograms: Vegetables | 285707 | [285707-nonograms-vegetables.json](./285707-nonograms-vegetables.json) |
 | Nonograms: Weapons | 285702 | [285702-nonograms-weapons.json](./285702-nonograms-weapons.json) |
 | Nonograms: Wolf's Stories | 53422 | [53422-nonograms-wolfs-stories.json](./53422-nonograms-wolfs-stories.json) |
-| NonogramZ: 1000+ online pic-a-pix puzzles | 87288 | [87288-nonogramz-1000-online-pic-a-pix-puzzles.json](./87288-nonogramz-1000-online-pic-a-pix-puzzles.json) |
 | Nonogueram | 395904 | [395904-nonogueram.json](./395904-nonogueram.json) |
 | Nonolith | 321176 | [321176-nonolith.json](./321176-nonolith.json) |
 | Nonomatic | 371453 | [371453-nonomatic.json](./371453-nonomatic.json) |
