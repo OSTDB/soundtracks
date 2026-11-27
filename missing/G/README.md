@@ -877,7 +877,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galax | 382229 | [382229-galax.json](./382229-galax.json) |
 | GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
 | Galax Attax | 92967 | [92967-galax-attax.json](./92967-galax-attax.json) |
-| Galax Defender | 86857 | [86857-galax-defender.json](./86857-galax-defender.json) |
 | Galax-e-mail | 78663 | [78663-galax-e-mail.json](./78663-galax-e-mail.json) |
 | Galax-i-Birds | 55187 | [55187-galax-i-birds.json](./55187-galax-i-birds.json) |
 | Galax.io | 125916 | [125916-galax-io.json](./125916-galax-io.json) |
@@ -2415,7 +2414,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Pack | 332479 | [332479-gas-pack.json](./332479-gas-pack.json) |
 | Gas Ratio | 386188 | [386188-gas-ratio.json](./386188-gas-ratio.json) |
 | Gas See who likes you | 223942 | [223942-gas-see-who-likes-you.json](./223942-gas-see-who-likes-you.json) |
-| Gas Station 2: Highway Service | 86944 | [86944-gas-station-2-highway-service.json](./86944-gas-station-2-highway-service.json) |
 | Gas Station Inc. | 255753 | [255753-gas-station-inc.json](./255753-gas-station-inc.json) |
 | Gas Station Manager | 327894 | [327894-gas-station-manager.json](./327894-gas-station-manager.json) |
 | Gas Station Manager 2026 | 393475 | [393475-gas-station-manager-2026.json](./393475-gas-station-manager-2026.json) |
@@ -2683,7 +2681,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaya: The Mystery | 374379 | [374379-gaya-the-mystery.json](./374379-gaya-the-mystery.json) |
 | Gayandere | 215782 | [215782-gayandere.json](./215782-gayandere.json) |
 | GayBlade | 137326 | [137326-gayblade.json](./137326-gayblade.json) |
-| Gaydorado | 87004 | [87004-gaydorado.json](./87004-gaydorado.json) |
 | Gaygarin In deep as's'pace | 109408 | [109408-gaygarin-in-deep-asspace.json](./109408-gaygarin-in-deep-asspace.json) |
 | Gaz | 211570 | [211570-gaz.json](./211570-gaz.json) |
 | Gaza SP | 279081 | [279081-gaza-sp.json](./279081-gaza-sp.json) |
@@ -6090,7 +6087,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glowface in Love | 315944 | [315944-glowface-in-love.json](./315944-glowface-in-love.json) |
 | Glowface In Love 2 | 354235 | [354235-glowface-in-love-2.json](./354235-glowface-in-love-2.json) |
 | Glowfall Vale | 389057 | [389057-glowfall-vale.json](./389057-glowfall-vale.json) |
-| Glowfish HD | 86697 | [86697-glowfish-hd.json](./86697-glowfish-hd.json) |
 | Glowgrass | 221941 | [221941-glowgrass.json](./221941-glowgrass.json) |
 | Glowgrove | 431038 | [431038-glowgrove.json](./431038-glowgrove.json) |
 | Glowie Rammer | 309929 | [309929-glowie-rammer.json](./309929-glowie-rammer.json) |
@@ -6443,7 +6439,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Over the Edge | 235755 | [235755-go-over-the-edge.json](./235755-go-over-the-edge.json) |
 | Go Phish | 380970 | [380970-go-phish.json](./380970-go-phish.json) |
 | Go Plague Monkey! Go! | 60558 | [60558-go-plague-monkey-go.json](./60558-go-plague-monkey-go.json) |
-| Go Plane | 87041 | [87041-go-plane.json](./87041-go-plane.json) |
 | Go Play Circus Star | 51075 | [51075-go-play-circus-star.json](./51075-go-play-circus-star.json) |
 | Go Play City Sports | 51076 | [51076-go-play-city-sports.json](./51076-go-play-city-sports.json) |
 | Go Play Lumberjacks | 51077 | [51077-go-play-lumberjacks.json](./51077-go-play-lumberjacks.json) |
@@ -12418,7 +12413,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gummy Bears Mini Golf | 85169 | [85169-gummy-bears-mini-golf.json](./85169-gummy-bears-mini-golf.json) |
 | Gummy Bears Minigolf | 47722 | [47722-gummy-bears-minigolf.json](./47722-gummy-bears-minigolf.json) |
 | Gummy Bears: Magical Medallion | 50628 | [50628-gummy-bears-magical-medallion.json](./50628-gummy-bears-magical-medallion.json) |
-| Gummy Drop! | 86822 | [86822-gummy-drop.json](./86822-gummy-drop.json) |
 | Gummy Dummy Battles | 239280 | [239280-gummy-dummy-battles.json](./239280-gummy-dummy-battles.json) |
 | Gummy Goo Clean Up | 90274 | [90274-gummy-goo-clean-up.json](./90274-gummy-goo-clean-up.json) |
 | Gummy Invaders | 412945 | [412945-gummy-invaders.json](./412945-gummy-invaders.json) |
