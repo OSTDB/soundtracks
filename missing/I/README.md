@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want to Play the Villain! | 412542 | [412542-i-want-to-play-the-villain.json](./412542-i-want-to-play-the-villain.json) |
 | I Want to Pursue the Mean Side Character! | 178897 | [178897-i-want-to-pursue-the-mean-side-character.json](./178897-i-want-to-pursue-the-mean-side-character.json) |
 | I Want to Run Away From My Goth Mommy... or Do I? | 372691 | [372691-i-want-to-run-away-from-my-goth-mommy-or-do-i.json](./372691-i-want-to-run-away-from-my-goth-mommy-or-do-i.json) |
+| I Want to Save My Classmate from a Cult Before Summer Ends | 431043 | [431043-i-want-to-save-my-classmate-from-a-cult-before-summer-ends.json](./431043-i-want-to-save-my-classmate-from-a-cult-before-summer-ends.json) |
 | I Want to Talk About My Friend | 356518 | [356518-i-want-to-talk-about-my-friend.json](./356518-i-want-to-talk-about-my-friend.json) |
 | I Want to Wear Your Wool | 400050 | [400050-i-want-to-wear-your-wool.json](./400050-i-want-to-wear-your-wool.json) |
 | I Want Toilet!!!!!! | 52748 | [52748-i-want-toilet.json](./52748-i-want-toilet.json) |
@@ -3714,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Epic Hero | 158043 | [158043-incremental-epic-hero.json](./158043-incremental-epic-hero.json) |
 | Incremental Epic Hero 2 | 197398 | [197398-incremental-epic-hero-2.json](./197398-incremental-epic-hero-2.json) |
 | Incremental Factory | 254808 | [254808-incremental-factory.json](./254808-incremental-factory.json) |
+| Incremental Fishing | 431004 | [431004-incremental-fishing.json](./431004-incremental-fishing.json) |
 | Incremental Infinity | 390249 | [390249-incremental-infinity.json](./390249-incremental-infinity.json) |
 | Incremental Island | 295878 | [295878-incremental-island.json](./295878-incremental-island.json) |
 | Incremental Mass Rewritten | 309187 | [309187-incremental-mass-rewritten.json](./309187-incremental-mass-rewritten.json) |
