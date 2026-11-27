@@ -692,6 +692,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Hunters | 27642 | [27642-vampire-hunters.json](./27642-vampire-hunters.json) |
 | Vampire Huntress: Lament of the Sun | 327013 | [327013-vampire-huntress-lament-of-the-sun.json](./327013-vampire-huntress-lament-of-the-sun.json) |
 | Vampire Hurts | 198317 | [198317-vampire-hurts.json](./198317-vampire-hurts.json) |
+| Vampire II: Dominion | 423940 | [423940-vampire-ii-dominion.json](./423940-vampire-ii-dominion.json) |
+| Vampire III: Red Dragon | 424223 | [424223-vampire-iii-red-dragon.json](./424223-vampire-iii-red-dragon.json) |
 | Vampire Invasion | 426275 | [426275-vampire-invasion.json](./426275-vampire-invasion.json) |
 | Vampire Killer | 1115 | [1115-vampire-killer.json](./1115-vampire-killer.json) |
 | Vampire Knight DS | 69290 | [69290-vampire-knight-ds.json](./69290-vampire-knight-ds.json) |
@@ -776,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: Darkstalkers Collection | 20012 | [20012-vampire-darkstalkers-collection.json](./20012-vampire-darkstalkers-collection.json) |
 | Vampire: Master of Darkness | 8039 | [8039-vampire-master-of-darkness.json](./8039-vampire-master-of-darkness.json) |
 | Vampire: No Survivors | 364597 | [364597-vampire-no-survivors.json](./364597-vampire-no-survivors.json) |
+| Vampire: Super Remix Version | 421874 | [421874-vampire-super-remix-version.json](./421874-vampire-super-remix-version.json) |
 | Vampire: The Masquerade - Blood Frontier | 263387 | [263387-vampire-the-masquerade-blood-frontier.json](./263387-vampire-the-masquerade-blood-frontier.json) |
 | Vampire: The Masquerade - Bloodlines 2 - Loose Cannon | 370209 | [370209-vampire-the-masquerade-bloodlines-2-loose-cannon.json](./370209-vampire-the-masquerade-bloodlines-2-loose-cannon.json) |
 | Vampire: The Masquerade - Bloodlines 2 - Santa Monica Memories | 361901 | [361901-vampire-the-masquerade-bloodlines-2-santa-monica-memories.json](./361901-vampire-the-masquerade-bloodlines-2-santa-monica-memories.json) |
