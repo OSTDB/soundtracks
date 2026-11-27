@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Will Do It Soon Maybe Later Tomorrow | 410682 | [410682-i-will-do-it-soon-maybe-later-tomorrow.json](./410682-i-will-do-it-soon-maybe-later-tomorrow.json) |
 | I Will Drown A Guy | 385891 | [385891-i-will-drown-a-guy.json](./385891-i-will-drown-a-guy.json) |
 | I Will Escape | 17862 | [17862-i-will-escape.json](./17862-i-will-escape.json) |
+| I Will Find Her. | 413859 | [413859-i-will-find-her.json](./413859-i-will-find-her.json) |
 | I Will Make You Scared of This Red Box. | 291439 | [291439-i-will-make-you-scared-of-this-red-box.json](./291439-i-will-make-you-scared-of-this-red-box.json) |
 | I Will Never Fall for My Tsundere Classmate, so I Will Just Date a Background Character Instead! | 372598 | [372598-i-will-never-fall-for-my-tsundere-classmate-so-i-will-just-date-a-background-character-instead.json](./372598-i-will-never-fall-for-my-tsundere-classmate-so-i-will-just-date-a-background-character-instead.json) |
 | I Will Never Forget You Because You Have Made Me the Happiest Dog on Earth | 227981 | [227981-i-will-never-forget-you-because-you-have-made-me-the-happiest-dog-on-earth.json](./227981-i-will-never-forget-you-because-you-have-made-me-the-happiest-dog-on-earth.json) |
@@ -2051,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Manager: Virtual Venture | 401008 | [401008-idol-manager-virtual-venture.json](./401008-idol-manager-virtual-venture.json) |
 | Idol Masters | 110012 | [110012-idol-masters.json](./110012-idol-masters.json) |
 | Idol Mystic Knightess Fyllia: Downfall Life Filled With Humiliation | 98600 | [98600-idol-mystic-knightess-fyllia-downfall-life-filled-with-humiliation.json](./98600-idol-mystic-knightess-fyllia-downfall-life-filled-with-humiliation.json) |
+| Idol of Fear | 414400 | [414400-idol-of-fear.json](./414400-idol-of-fear.json) |
 | Idol Party | 309834 | [309834-idol-party.json](./309834-idol-party.json) |
 | Idol Party II | 372253 | [372253-idol-party-ii.json](./372253-idol-party-ii.json) |
 | Idol Planet | 297013 | [297013-idol-planet.json](./297013-idol-planet.json) |
