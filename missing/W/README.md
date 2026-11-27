@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Gods Athena | 273640 | [273640-war-of-gods-athena.json](./273640-war-of-gods-athena.json) |
 | War of Gold | 165482 | [165482-war-of-gold.json](./165482-war-of-gold.json) |
 | War of Gold 2 Mission 99 | 226694 | [226694-war-of-gold-2-mission-99.json](./226694-war-of-gold-2-mission-99.json) |
+| War of Harmony IV | 419141 | [419141-war-of-harmony-iv.json](./419141-war-of-harmony-iv.json) |
 | War of Kingdoms | 208116 | [208116-war-of-kingdoms.json](./208116-war-of-kingdoms.json) |
 | War of Kings | 236207 | [236207-war-of-kings.json](./236207-war-of-kings.json) |
 | War of Kosovo: 2033 | 157223 | [157223-war-of-kosovo-2033.json](./157223-war-of-kosovo-2033.json) |
@@ -6712,6 +6713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windy wo Kaitain desu ga... | 411715 | [411715-windy-wo-kaitain-desu-ga.json](./411715-windy-wo-kaitain-desu-ga.json) |
 | Windy x Windam | 94899 | [94899-windy-x-windam.json](./94899-windy-x-windam.json) |
 | Windy Zetsumetsu Keikaku | 412337 | [412337-windy-zetsumetsu-keikaku.json](./412337-windy-zetsumetsu-keikaku.json) |
+| Windz | 421440 | [421440-windz.json](./421440-windz.json) |
 | Wine & Roses | 124456 | [124456-wine-and-roses.json](./124456-wine-and-roses.json) |
 | Wine and Spirits | 261569 | [261569-wine-and-spirits.json](./261569-wine-and-spirits.json) |
 | Wine Factory Simulator | 332485 | [332485-wine-factory-simulator.json](./332485-wine-factory-simulator.json) |
