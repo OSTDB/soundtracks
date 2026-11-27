@@ -5672,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cautionary Tale | 176453 | [176453-cautionary-tale.json](./176453-cautionary-tale.json) |
 | Cautious V | 229641 | [229641-cautious-v.json](./229641-cautious-v.json) |
 | Cava Cava | 230646 | [230646-cava-cava.json](./230646-cava-cava.json) |
+| Cavaleiros Celestiais | 430492 | [430492-cavaleiros-celestiais.json](./430492-cavaleiros-celestiais.json) |
 | Cavalier | 219225 | [219225-cavalier.json](./219225-cavalier.json) |
 | Cavalry Battle 3000 | 353896 | [353896-cavalry-battle-3000.json](./353896-cavalry-battle-3000.json) |
 | Cavalry Charge | 326296 | [326296-cavalry-charge.json](./326296-cavalry-charge.json) |
