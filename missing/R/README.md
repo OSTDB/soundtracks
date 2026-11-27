@@ -560,7 +560,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Hero | 39947 | [39947-racing-hero.json](./39947-racing-hero.json) |
 | Racing Heroes | 197338 | [197338-racing-heroes.json](./197338-racing-heroes.json) |
 | Racing in Car | 245895 | [245895-racing-in-car.json](./245895-racing-in-car.json) |
-| Racing in Car | 86989 | [86989-racing-in-car.json](./86989-racing-in-car.json) |
 | Racing in Car 2 | 100326 | [100326-racing-in-car-2.json](./100326-racing-in-car-2.json) |
 | Racing in Motor | 253278 | [253278-racing-in-motor.json](./253278-racing-in-motor.json) |
 | Racing Jam | 413096 | [413096-racing-jam.json](./413096-racing-jam.json) |
@@ -584,7 +583,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Megapack | 317964 | [317964-racing-megapack.json](./317964-racing-megapack.json) |
 | Racing Moto | 350770 | [350770-racing-moto.json](./350770-racing-moto.json) |
 | Racing Outlaws | 149166 | [149166-racing-outlaws.json](./149166-racing-outlaws.json) |
-| Racing Penguin: Slide and Fly! | 86973 | [86973-racing-penguin-slide-and-fly.json](./86973-racing-penguin-slide-and-fly.json) |
 | Racing Pitch | 70955 | [70955-racing-pitch.json](./70955-racing-pitch.json) |
 | Racing Rebels Mud Clash | 347101 | [347101-racing-rebels-mud-clash.json](./347101-racing-rebels-mud-clash.json) |
 | Racing Rivals | 38904 | [38904-racing-rivals.json](./38904-racing-rivals.json) |
@@ -1613,7 +1611,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Skies | 52676 | [52676-rainbow-skies.json](./52676-rainbow-skies.json) |
 | Rainbow Skies: Limited Edition | 166232 | [166232-rainbow-skies-limited-edition.json](./166232-rainbow-skies-limited-edition.json) |
 | Rainbow Slide | 233235 | [233235-rainbow-slide.json](./233235-rainbow-slide.json) |
-| Rainbow Slides: Care Bears! | 86842 | [86842-rainbow-slides-care-bears.json](./86842-rainbow-slides-care-bears.json) |
 | Rainbow Snake | 68506 | [68506-rainbow-snake.json](./68506-rainbow-snake.json) |
 | Rainbow Splash | 242792 | [242792-rainbow-splash.json](./242792-rainbow-splash.json) |
 | Rainbow Step | 67929 | [67929-rainbow-step.json](./67929-rainbow-step.json) |
@@ -2515,7 +2512,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rats for Breakfast | 126999 | [126999-rats-for-breakfast.json](./126999-rats-for-breakfast.json) |
 | Rats in a Cage | 217092 | [217092-rats-in-a-cage.json](./217092-rats-in-a-cage.json) |
 | Rats Invasion | 96673 | [96673-rats-invasion.json](./96673-rats-invasion.json) |
-| Rats Invasion 2 | 86889 | [86889-rats-invasion-2.json](./86889-rats-invasion-2.json) |
 | Rats Under My Skin | 177786 | [177786-rats-under-my-skin.json](./177786-rats-under-my-skin.json) |
 | Rats! | 49087 | [49087-rats.json](./49087-rats.json) |
 | Rats! | 61662 | [61662-rats.json](./61662-rats.json) |
@@ -7966,7 +7962,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Bang | 224683 | [224683-rhythm-bang.json](./224683-rhythm-bang.json) |
 | Rhythm Banki | 204245 | [204245-rhythm-banki.json](./204245-rhythm-banki.json) |
 | Rhythm Brawl | 173059 | [173059-rhythm-brawl.json](./173059-rhythm-brawl.json) |
-| Rhythm Cat Pro | 86707 | [86707-rhythm-cat-pro.json](./86707-rhythm-cat-pro.json) |
 | Rhythm Control 2 | 232513 | [232513-rhythm-control-2.json](./232513-rhythm-control-2.json) |
 | Rhythm Core Alpha | 84842 | [84842-rhythm-core-alpha.json](./84842-rhythm-core-alpha.json) |
 | Rhythm Core Alpha 2 | 84841 | [84841-rhythm-core-alpha-2.json](./84841-rhythm-core-alpha-2.json) |
@@ -12101,7 +12096,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Atop It | 256379 | [256379-rolling-atop-it.json](./256379-rolling-atop-it.json) |
 | Rolling Ball | 345116 | [345116-rolling-ball.json](./345116-rolling-ball.json) |
 | Rolling Ball Game DX: Director's Cut | 316517 | [316517-rolling-ball-game-dx-directors-cut.json](./316517-rolling-ball-game-dx-directors-cut.json) |
-| Rolling Ball on Sky | 86734 | [86734-rolling-ball-on-sky.json](./86734-rolling-ball-on-sky.json) |
 | Rolling Ball: HD Remaster | 403978 | [403978-rolling-ball-hd-remaster.json](./403978-rolling-ball-hd-remaster.json) |
 | Rolling Balls | 106898 | [106898-rolling-balls.json](./106898-rolling-balls.json) |
 | Rolling Balls | 193428 | [193428-rolling-balls.json](./193428-rolling-balls.json) |
@@ -12253,7 +12247,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roman's Christmas: A Furry Detective Game | 107841 | [107841-romans-christmas-a-furry-detective-game.json](./107841-romans-christmas-a-furry-detective-game.json) |
 | Romance | 153739 | [153739-romance.json](./153739-romance.json) |
 | Romance | 213728 | [213728-romance.json](./213728-romance.json) |
-| Romance - Hidden Object Games | 86918 | [86918-romance-hidden-object-games.json](./86918-romance-hidden-object-games.json) |
 | Romance after dark | 385873 | [385873-romance-after-dark.json](./385873-romance-after-dark.json) |
 | Romance Choice | 301949 | [301949-romance-choice.json](./301949-romance-choice.json) |
 | Romance Club | 185260 | [185260-romance-club.json](./185260-romance-club.json) |
@@ -13430,7 +13423,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Story | 62311 | [62311-royal-story.json](./62311-royal-story.json) |
 | Royal Thumble | 196727 | [196727-royal-thumble.json](./196727-royal-thumble.json) |
 | Royal Tower Defense | 142833 | [142833-royal-tower-defense.json](./142833-royal-tower-defense.json) |
-| Royal Trouble: Hidden Honeymoon Havoc | 87093 | [87093-royal-trouble-hidden-honeymoon-havoc.json](./87093-royal-trouble-hidden-honeymoon-havoc.json) |
 | Royal Tumble | 80886 | [80886-royal-tumble.json](./80886-royal-tumble.json) |
 | Royal Verdict | 391160 | [391160-royal-verdict.json](./391160-royal-verdict.json) |
 | Royal Vermin | 347405 | [347405-royal-vermin.json](./347405-royal-vermin.json) |
@@ -13827,7 +13819,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Manager | 126086 | [126086-rugby-manager.json](./126086-rugby-manager.json) |
 | Rugby Nations 15 | 194164 | [194164-rugby-nations-15.json](./194164-rugby-nations-15.json) |
 | Rugby Nations 16 | 86713 | [86713-rugby-nations-16.json](./86713-rugby-nations-16.json) |
-| Rugby Nations 18 | 86865 | [86865-rugby-nations-18.json](./86865-rugby-nations-18.json) |
 | Rugby Nations 22 | 193904 | [193904-rugby-nations-22.json](./193904-rugby-nations-22.json) |
 | Rugby Sevens 23 | 240817 | [240817-rugby-sevens-23.json](./240817-rugby-sevens-23.json) |
 | Rugby Tycoon Rugby Rovigo Delta | 340683 | [340683-rugby-tycoon-rugby-rovigo-delta.json](./340683-rugby-tycoon-rugby-rovigo-delta.json) |
