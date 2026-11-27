@@ -1607,7 +1607,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Magic | 384568 | [384568-candy-magic.json](./384568-candy-magic.json) |
 | Candy Maid | 224777 | [224777-candy-maid.json](./224777-candy-maid.json) |
 | Candy Maker | 192583 | [192583-candy-maker.json](./192583-candy-maker.json) |
-| Candy Makeup Beauty Game | 86790 | [86790-candy-makeup-beauty-game.json](./86790-candy-makeup-beauty-game.json) |
 | Candy Makeup Party Salon | 90185 | [90185-candy-makeup-party-salon.json](./90185-candy-makeup-party-salon.json) |
 | Candy Mandy | 114956 | [114956-candy-mandy.json](./114956-candy-mandy.json) |
 | Candy Mania Star | 87094 | [87094-candy-mania-star.json](./87094-candy-mania-star.json) |
@@ -7593,7 +7592,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheer and Track | 123517 | [123517-cheer-and-track.json](./123517-cheer-and-track.json) |
 | Cheer We Go! | 91722 | [91722-cheer-we-go.json](./91722-cheer-we-go.json) |
 | Cheerios Play Time | 57593 | [57593-cheerios-play-time.json](./57593-cheerios-play-time.json) |
-| Cheerleader Champion Dance Off | 86808 | [86808-cheerleader-champion-dance-off.json](./86808-cheerleader-champion-dance-off.json) |
 | Cheerleader vs Zombies | 380130 | [380130-cheerleader-vs-zombies.json](./380130-cheerleader-vs-zombies.json) |
 | Cheerleader: reverse side of life | 96424 | [96424-cheerleader-reverse-side-of-life.json](./96424-cheerleader-reverse-side-of-life.json) |
 | Cheerleader's Choice: New York Spirit | 338274 | [338274-cheerleaders-choice-new-york-spirit.json](./338274-cheerleaders-choice-new-york-spirit.json) |
@@ -7889,7 +7887,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Crusade | 4761 | [4761-chess-crusade.json](./4761-chess-crusade.json) |
 | Chess Cubed | 90436 | [90436-chess-cubed.json](./90436-chess-cubed.json) |
 | Chess Defense Saga | 234200 | [234200-chess-defense-saga.json](./234200-chess-defense-saga.json) |
-| Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
 | Chess Destroyer | 158376 | [158376-chess-destroyer.json](./158376-chess-destroyer.json) |
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
 | Chess Dungeons: Shubousha | 215508 | [215508-chess-dungeons-shubousha.json](./215508-chess-dungeons-shubousha.json) |
@@ -7953,10 +7950,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Peace | 401021 | [401021-chess-peace.json](./401021-chess-peace.json) |
 | Chess Pills | 203931 | [203931-chess-pills.json](./203931-chess-pills.json) |
 | Chess Player 2150 | 70473 | [70473-chess-player-2150.json](./70473-chess-player-2150.json) |
-| Chess Plus+ | 86901 | [86901-chess-plus.json](./86901-chess-plus.json) |
 | Chess Premium HD | 89487 | [89487-chess-premium-hd.json](./89487-chess-premium-hd.json) |
 | Chess President | 368717 | [368717-chess-president.json](./368717-chess-president.json) |
-| Chess Prime 3D Pro | 86834 | [86834-chess-prime-3d-pro.json](./86834-chess-prime-3d-pro.json) |
 | Chess Pro - with coach | 89097 | [89097-chess-pro-with-coach.json](./89097-chess-pro-with-coach.json) |
 | Chess Pro with Coach - Learn,Play & Online Friends | 90792 | [90792-chess-pro-with-coach-learn-play-and-online-friends.json](./90792-chess-pro-with-coach-learn-play-and-online-friends.json) |
 | Chess Puzzle Adventure | 174290 | [174290-chess-puzzle-adventure.json](./174290-chess-puzzle-adventure.json) |
@@ -9440,7 +9435,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Break 2 Head to Head | 214050 | [214050-christmas-break-2-head-to-head.json](./214050-christmas-break-2-head-to-head.json) |
 | Christmas Break Head to Head | 146020 | [146020-christmas-break-head-to-head.json](./146020-christmas-break-head-to-head.json) |
 | Christmas Bubble Puzzle | 280594 | [280594-christmas-bubble-puzzle.json](./280594-christmas-bubble-puzzle.json) |
-| Christmas Bubble Shooter | 86716 | [86716-christmas-bubble-shooter.json](./86716-christmas-bubble-shooter.json) |
 | Christmas Carnage | 94960 | [94960-christmas-carnage.json](./94960-christmas-carnage.json) |
 | Christmas Carol | 290579 | [290579-christmas-carol.json](./290579-christmas-carol.json) |
 | Christmas Carol vs. The Ghost of Christmas Presents | 41466 | [41466-christmas-carol-vs-the-ghost-of-christmas-presents.json](./41466-christmas-carol-vs-the-ghost-of-christmas-presents.json) |
@@ -11044,7 +11038,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Taxi Driver | 212562 | [212562-city-taxi-driver.json](./212562-city-taxi-driver.json) |
 | City Things | 203583 | [203583-city-things.json](./203583-city-things.json) |
 | City Trader | 94368 | [94368-city-trader.json](./94368-city-trader.json) |
-| City Traffic Car Driving Parking Career Simulator | 86958 | [86958-city-traffic-car-driving-parking-career-simulator.json](./86958-city-traffic-car-driving-parking-career-simulator.json) |
 | City Traffic Driver | 187482 | [187482-city-traffic-driver.json](./187482-city-traffic-driver.json) |
 | City Traffic Driver 2 | 215311 | [215311-city-traffic-driver-2.json](./215311-city-traffic-driver-2.json) |
 | City Transport Manager | 428263 | [428263-city-transport-manager.json](./428263-city-transport-manager.json) |
@@ -12084,7 +12077,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliffhanger | 346275 | [346275-cliffhanger.json](./346275-cliffhanger.json) |
 | Cliffhanger | 5370 | [5370-cliffhanger.json](./5370-cliffhanger.json) |
 | Cliffhanger | 81446 | [81446-cliffhanger.json](./81446-cliffhanger.json) |
-| Cliffhanger - Chat Stories | 87042 | [87042-cliffhanger-chat-stories.json](./87042-cliffhanger-chat-stories.json) |
 | Cliffhanger Solitaire | 398816 | [398816-cliffhanger-solitaire.json](./398816-cliffhanger-solitaire.json) |
 | Cliffhanger: Challenger of Tomorrow | 166894 | [166894-cliffhanger-challenger-of-tomorrow.json](./166894-cliffhanger-challenger-of-tomorrow.json) |
 | Cliffhorse | 18446 | [18446-cliffhorse.json](./18446-cliffhorse.json) |
@@ -12385,7 +12377,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close to Light | 380114 | [380114-close-to-light.json](./380114-close-to-light.json) |
 | Close to You | 217874 | [217874-close-to-you.json](./217874-close-to-you.json) |
 | Close to: Inori no Oka | 196027 | [196027-close-to-inori-no-oka.json](./196027-close-to-inori-no-oka.json) |
-| Close Up Pics - Fun Word Games | 87035 | [87035-close-up-pics-fun-word-games.json](./87035-close-up-pics-fun-word-games.json) |
 | Close Your Eyes | 133323 | [133323-close-your-eyes.json](./133323-close-your-eyes.json) |
 | Close Your Eyes | 35075 | [35075-close-your-eyes.json](./35075-close-your-eyes.json) |
 | Close Your Eyes -Anniversary Remake- | 56654 | [56654-close-your-eyes-anniversary-remake.json](./56654-close-your-eyes-anniversary-remake.json) |
@@ -14584,7 +14575,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorwood Sort | 351671 | [351671-colorwood-sort.json](./351671-colorwood-sort.json) |
 | Colorwood Words | 354395 | [354395-colorwood-words.json](./354395-colorwood-words.json) |
 | ColorWorld | 229532 | [229532-colorworld.json](./229532-colorworld.json) |
-| ColorZ - 3D Pixel Art | 87007 | [87007-colorz-3d-pixel-art.json](./87007-colorz-3d-pixel-art.json) |
 | Colossal Cave | 215119 | [215119-colossal-cave.json](./215119-colossal-cave.json) |
 | Colossal Cave Adventure | 265733 | [265733-colossal-cave-adventure.json](./265733-colossal-cave-adventure.json) |
 | Colossal Cave VR | 253587 | [253587-colossal-cave-vr.json](./253587-colossal-cave-vr.json) |
@@ -14620,7 +14610,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colour My Heart | 384025 | [384025-colour-my-heart.json](./384025-colour-my-heart.json) |
 | Colour My World | 384026 | [384026-colour-my-world.json](./384026-colour-my-world.json) |
 | Colour of Ineptation | 276899 | [276899-colour-of-ineptation.json](./276899-colour-of-ineptation.json) |
-| Colour Switch Dash | 87018 | [87018-colour-switch-dash.json](./87018-colour-switch-dash.json) |
 | Colourblind | 235830 | [235830-colourblind.json](./235830-colourblind.json) |
 | Colourful Maze | 112673 | [112673-colourful-maze.json](./112673-colourful-maze.json) |
 | Colourise | 29897 | [29897-colourise.json](./29897-colourise.json) |
@@ -16181,7 +16170,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator 2+3 | 139934 | [139934-construction-simulator-2-3.json](./139934-construction-simulator-2-3.json) |
 | Construction Simulator 2+3 Bundle | 295698 | [295698-construction-simulator-2-3-bundle.json](./295698-construction-simulator-2-3-bundle.json) |
 | Construction Simulator 2012 | 52310 | [52310-construction-simulator-2012.json](./52310-construction-simulator-2012.json) |
-| Construction Simulator 2014 | 86891 | [86891-construction-simulator-2014.json](./86891-construction-simulator-2014.json) |
 | Construction Simulator 2015 | 10106 | [10106-construction-simulator-2015.json](./10106-construction-simulator-2015.json) |
 | Construction Simulator 2015: Deluxe Edition | 136372 | [136372-construction-simulator-2015-deluxe-edition.json](./136372-construction-simulator-2015-deluxe-edition.json) |
 | Construction Simulator 2015: Liebherr 150 EC-B | 168916 | [168916-construction-simulator-2015-liebherr-150-ec-b.json](./168916-construction-simulator-2015-liebherr-150-ec-b.json) |
@@ -16665,7 +16653,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Invaders | 133124 | [133124-cookie-invaders.json](./133124-cookie-invaders.json) |
 | Cookie Jam | 140739 | [140739-cookie-jam.json](./140739-cookie-jam.json) |
 | Cookie Jam - Match 3 Games | 86926 | [86926-cookie-jam-match-3-games.json](./86926-cookie-jam-match-3-games.json) |
-| Cookie Jam Blast | 86780 | [86780-cookie-jam-blast.json](./86780-cookie-jam-blast.json) |
 | Cookie Jelly Match | 214092 | [214092-cookie-jelly-match.json](./214092-cookie-jelly-match.json) |
 | Cookie Match: Enhanced Edition | 232451 | [232451-cookie-match-enhanced-edition.json](./232451-cookie-match-enhanced-edition.json) |
 | Cookie Monster Munch | 40587 | [40587-cookie-monster-munch.json](./40587-cookie-monster-munch.json) |
@@ -18321,7 +18308,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cover Girl Strip Poker | 14628 | [14628-cover-girl-strip-poker.json](./14628-cover-girl-strip-poker.json) |
 | Cover Letter: The Game | 180383 | [180383-cover-letter-the-game.json](./180383-cover-letter-the-game.json) |
 | Cover Orange | 403224 | [403224-cover-orange.json](./403224-cover-orange.json) |
-| Cover Orange | 86862 | [86862-cover-orange.json](./86862-cover-orange.json) |
 | Cover Orange | 90090 | [90090-cover-orange.json](./90090-cover-orange.json) |
 | Cover Orange 2 | 403222 | [403222-cover-orange-2.json](./403222-cover-orange-2.json) |
 | Cover Orange 2 | 89106 | [89106-cover-orange-2.json](./89106-cover-orange-2.json) |
@@ -18792,7 +18778,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Carnage | 267125 | [267125-craft-carnage.json](./267125-craft-carnage.json) |
 | Craft Castle: Knight and Princess | 101130 | [101130-craft-castle-knight-and-princess.json](./101130-craft-castle-knight-and-princess.json) |
 | Craft city | 155771 | [155771-craft-city.json](./155771-craft-city.json) |
-| Craft City Gangs | 86711 | [86711-craft-city-gangs.json](./86711-craft-city-gangs.json) |
 | Craft Connections | 393777 | [393777-craft-connections.json](./393777-craft-connections.json) |
 | Craft Control | 88795 | [88795-craft-control.json](./88795-craft-control.json) |
 | Craft Control HD | 107223 | [107223-craft-control-hd.json](./107223-craft-control-hd.json) |
@@ -21011,7 +20996,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossovers 2 by Powgi | 140417 | [140417-crossovers-2-by-powgi.json](./140417-crossovers-2-by-powgi.json) |
 | Crossovers by Powgi | 117488 | [117488-crossovers-by-powgi.json](./117488-crossovers-by-powgi.json) |
 | Crossovertale | 330368 | [330368-crossovertale.json](./330368-crossovertale.json) |
-| CrossPix Magic Express | 87096 | [87096-crosspix-magic-express.json](./87096-crosspix-magic-express.json) |
 | CrossPlanet | 165433 | [165433-crossplanet.json](./165433-crossplanet.json) |
 | Crossquare | 175241 | [175241-crossquare.json](./175241-crossquare.json) |
 | Crossroad | 82343 | [82343-crossroad.json](./82343-crossroad.json) |
@@ -22203,7 +22187,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Creatures | 51988 | [51988-cube-creatures.json](./51988-cube-creatures.json) |
 | Cube Crisis | 156094 | [156094-cube-crisis.json](./156094-cube-crisis.json) |
 | Cube Crusaders | 265676 | [265676-cube-crusaders.json](./265676-cube-crusaders.json) |
-| Cube Cube - Mobile eSports | 86955 | [86955-cube-cube-mobile-esports.json](./86955-cube-cube-mobile-esports.json) |
 | Cube Cube 2 | 365146 | [365146-cube-cube-2.json](./365146-cube-cube-2.json) |
 | Cube Cube! | 234324 | [234324-cube-cube.json](./234324-cube-cube.json) |
 | Cube Dancer | 165364 | [165364-cube-dancer.json](./165364-cube-dancer.json) |
@@ -22317,7 +22300,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Siege | 420995 | [420995-cube-siege.json](./420995-cube-siege.json) |
 | Cube Smash | 129087 | [129087-cube-smash.json](./129087-cube-smash.json) |
 | Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
-| Cube Snap 2 | 86882 | [86882-cube-snap-2.json](./86882-cube-snap-2.json) |
 | Cube Solver | 231961 | [231961-cube-solver.json](./231961-cube-solver.json) |
 | Cube Space | 163195 | [163195-cube-space.json](./163195-cube-space.json) |
 | Cube Space | 336957 | [336957-cube-space.json](./336957-cube-space.json) |
