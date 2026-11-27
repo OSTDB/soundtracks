@@ -3152,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayfarer Survival Mini-Game | 63288 | [63288-wayfarer-survival-mini-game.json](./63288-wayfarer-survival-mini-game.json) |
 | Wayfarers Edge | 152823 | [152823-wayfarers-edge.json](./152823-wayfarers-edge.json) |
 | Wayfarers: Call of Osiris | 156012 | [156012-wayfarers-call-of-osiris.json](./156012-wayfarers-call-of-osiris.json) |
+| Wayfarion | 431194 | [431194-wayfarion.json](./431194-wayfarion.json) |
 | Wayfinder | 152746 | [152746-wayfinder.json](./152746-wayfinder.json) |
 | Wayfinder: Episode One | 381694 | [381694-wayfinder-episode-one.json](./381694-wayfinder-episode-one.json) |
 | Wayfinder: Episode Two | 393030 | [393030-wayfinder-episode-two.json](./393030-wayfinder-episode-two.json) |
