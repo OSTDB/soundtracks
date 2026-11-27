@@ -2651,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarian II: The Dungeon of Drax | 4640 | [4640-barbarian-ii-the-dungeon-of-drax.json](./4640-barbarian-ii-the-dungeon-of-drax.json) |
 | Barbarian Kingdom | 216633 | [216633-barbarian-kingdom.json](./216633-barbarian-kingdom.json) |
 | Barbarian Legend | 153902 | [153902-barbarian-legend.json](./153902-barbarian-legend.json) |
+| Barbarian Onslaught: The Secret of Steel | 420992 | [420992-barbarian-onslaught-the-secret-of-steel.json](./420992-barbarian-onslaught-the-secret-of-steel.json) |
 | Barbarian Roller Rally | 73058 | [73058-barbarian-roller-rally.json](./73058-barbarian-roller-rally.json) |
 | Barbarian Saga bundle | 331806 | [331806-barbarian-saga-bundle.json](./331806-barbarian-saga-bundle.json) |
 | Barbarian Saga: The Beastmaster | 265787 | [265787-barbarian-saga-the-beastmaster.json](./265787-barbarian-saga-the-beastmaster.json) |
@@ -17505,6 +17506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Glass Cup: Breaking Physics Puzzle | 269364 | [269364-break-the-glass-cup-breaking-physics-puzzle.json](./269364-break-the-glass-cup-breaking-physics-puzzle.json) |
 | Break the Ice | 359739 | [359739-break-the-ice.json](./359739-break-the-ice.json) |
 | Break the Ice Sushi Pack | 77610 | [77610-break-the-ice-sushi-pack.json](./77610-break-the-ice-sushi-pack.json) |
+| Break the Key | 419425 | [419425-break-the-key.json](./419425-break-the-key.json) |
 | Break The Line | 296500 | [296500-break-the-line.json](./296500-break-the-line.json) |
 | Break the Loop | 267161 | [267161-break-the-loop.json](./267161-break-the-loop.json) |
 | Break The Night | 417529 | [417529-break-the-night.json](./417529-break-the-night.json) |
