@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: Who Killed Me? | 184686 | [184686-vampire-who-killed-me.json](./184686-vampire-who-killed-me.json) |
 | Vampire! At the Masquerade | 301919 | [301919-vampire-at-the-masquerade.json](./301919-vampire-at-the-masquerade.json) |
 | Vampire's Castle Adventure | 73314 | [73314-vampires-castle-adventure.json](./73314-vampires-castle-adventure.json) |
+| Vampire's Diary | 430334 | [430334-vampires-diary.json](./430334-vampires-diary.json) |
 | Vampire's Empire | 53924 | [53924-vampires-empire.json](./53924-vampires-empire.json) |
 | Vampire's Fall 2 | 392096 | [392096-vampires-fall-2.json](./392096-vampires-fall-2.json) |
 | Vampire's Kiss | 265263 | [265263-vampires-kiss.json](./265263-vampires-kiss.json) |
@@ -1025,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaporum | 56969 | [56969-vaporum.json](./56969-vaporum.json) |
 | Vaporum: Lockdown | 126812 | [126812-vaporum-lockdown.json](./126812-vaporum-lockdown.json) |
 | Vaporware | 259891 | [259891-vaporware.json](./259891-vaporware.json) |
+| Vaporware EX | 430424 | [430424-vaporware-ex.json](./430424-vaporware-ex.json) |
 | Vaporware Odyssey | 280366 | [280366-vaporware-odyssey.json](./280366-vaporware-odyssey.json) |
 | Vaporwave | 149882 | [149882-vaporwave.json](./149882-vaporwave.json) |
 | Vaporwave Battler | 350522 | [350522-vaporwave-battler.json](./350522-vaporwave-battler.json) |
