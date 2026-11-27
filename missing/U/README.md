@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Pretense of Death | 177334 | [177334-under-pretense-of-death.json](./177334-under-pretense-of-death.json) |
 | Under Princess: Pure Voice | 109005 | [109005-under-princess-pure-voice.json](./109005-under-princess-pure-voice.json) |
 | Under Review | 424283 | [424283-under-review.json](./424283-under-review.json) |
+| Under Ride | 431540 | [431540-under-ride.json](./431540-under-ride.json) |
 | Under Rooms | 349070 | [349070-under-rooms.json](./349070-under-rooms.json) |
 | Under Shelter | 146550 | [146550-under-shelter.json](./146550-under-shelter.json) |
 | Under Siege | 203591 | [203591-under-siege.json](./203591-under-siege.json) |
@@ -3315,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untangle | 57401 | [57401-untangle.json](./57401-untangle.json) |
 | Untangle Challenge | 57403 | [57403-untangle-challenge.json](./57403-untangle-challenge.json) |
 | Untangle Goats | 318496 | [318496-untangle-goats.json](./318496-untangle-goats.json) |
+| Untangle the Internet | 431506 | [431506-untangle-the-internet.json](./431506-untangle-the-internet.json) |
 | Untangled: Payback | 168578 | [168578-untangled-payback.json](./168578-untangled-payback.json) |
 | Untapped | 364160 | [364160-untapped.json](./364160-untapped.json) |
 | Untarctica | 422219 | [422219-untarctica.json](./422219-untarctica.json) |
