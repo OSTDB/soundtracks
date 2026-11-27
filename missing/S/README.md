@@ -3018,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara, Watashi no Kataomoi | 428350 | [428350-sayonara-watashi-no-kataomoi.json](./428350-sayonara-watashi-no-kataomoi.json) |
 | Sayori Shoots Up The Literature Club | 257531 | [257531-sayori-shoots-up-the-literature-club.json](./257531-sayori-shoots-up-the-literature-club.json) |
 | Sayri: The Beginning | 130521 | [130521-sayri-the-beginning.json](./130521-sayri-the-beginning.json) |
+| Sazameki ha Seijaku he | 413259 | [413259-sazameki-ha-seijaku-he.json](./413259-sazameki-ha-seijaku-he.json) |
 | Saziri | 243912 | [243912-saziri.json](./243912-saziri.json) |
 | Sbaceball | 197700 | [197700-sbaceball.json](./197700-sbaceball.json) |
 | Sbeve | 380928 | [380928-sbeve.json](./380928-sbeve.json) |
@@ -6017,6 +6018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sei Shoujo Sentai Lakers | 165230 | [165230-sei-shoujo-sentai-lakers.json](./165230-sei-shoujo-sentai-lakers.json) |
 | Sei Shoujo Sentai Lakers II | 264323 | [264323-sei-shoujo-sentai-lakers-ii.json](./264323-sei-shoujo-sentai-lakers-ii.json) |
 | Sei Shoujo Sentai Lakers III | 264324 | [264324-sei-shoujo-sentai-lakers-iii.json](./264324-sei-shoujo-sentai-lakers-iii.json) |
+| Sei Valentine Gakuen | 413982 | [413982-sei-valentine-gakuen.json](./413982-sei-valentine-gakuen.json) |
 | Sei-Romance Gakuen: Koi no Toki-meki Daisakusen | 283538 | [283538-sei-romance-gakuen-koi-no-toki-meki-daisakusen.json](./283538-sei-romance-gakuen-koi-no-toki-meki-daisakusen.json) |
 | Seibu Cup Soccer | 401506 | [401506-seibu-cup-soccer.json](./401506-seibu-cup-soccer.json) |
 | Seibu Keisatsu | 346045 | [346045-seibu-keisatsu.json](./346045-seibu-keisatsu.json) |
@@ -12167,6 +12169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sika: Tribe's salvation | 184985 | [184985-sika-tribes-salvation.json](./184985-sika-tribes-salvation.json) |
 | Sikanda | 108380 | [108380-sikanda.json](./108380-sikanda.json) |
 | Sikhl | 308266 | [308266-sikhl.json](./308266-sikhl.json) |
+| SiKoRa | 415752 | [415752-sikora.json](./415752-sikora.json) |
 | Sil | 148296 | [148296-sil.json](./148296-sil.json) |
 | Sil and the Fading World | 331103 | [331103-sil-and-the-fading-world.json](./331103-sil-and-the-fading-world.json) |
 | Sil-Q | 275304 | [275304-sil-q.json](./275304-sil-q.json) |
@@ -24146,6 +24149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparky: Hills of Death | 303993 | [303993-sparky-hills-of-death.json](./303993-sparky-hills-of-death.json) |
 | Sparky: The Christmas Elf | 175568 | [175568-sparky-the-christmas-elf.json](./175568-sparky-the-christmas-elf.json) |
 | Sparky's Hunt | 31681 | [31681-sparkys-hunt.json](./31681-sparkys-hunt.json) |
+| Sparky's: After Dark | 414917 | [414917-sparkys-after-dark.json](./414917-sparkys-after-dark.json) |
 | Sparrow | 302900 | [302900-sparrow.json](./302900-sparrow.json) |
 | Sparrow Country | 408157 | [408157-sparrow-country.json](./408157-sparrow-country.json) |
 | Sparrow Shop | 384196 | [384196-sparrow-shop.json](./384196-sparrow-shop.json) |
@@ -26173,6 +26177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spongebob Games and Patrick Fighting | 102536 | [102536-spongebob-games-and-patrick-fighting.json](./102536-spongebob-games-and-patrick-fighting.json) |
 | SpongeBob GameStation | 196552 | [196552-spongebob-gamestation.json](./196552-spongebob-gamestation.json) |
 | SpongeBob in Run For The Krusty Krab | 382779 | [382779-spongebob-in-run-for-the-krusty-krab.json](./382779-spongebob-in-run-for-the-krusty-krab.json) |
+| SpongeBob Killerpants | 415527 | [415527-spongebob-killerpants.json](./415527-spongebob-killerpants.json) |
 | SpongeBob Laptop | 293737 | [293737-spongebob-laptop.json](./293737-spongebob-laptop.json) |
 | SpongeBob Marbles & Slides | 97200 | [97200-spongebob-marbles-and-slides.json](./97200-spongebob-marbles-and-slides.json) |
 | SpongeBob Moves In | 7991 | [7991-spongebob-moves-in.json](./7991-spongebob-moves-in.json) |
