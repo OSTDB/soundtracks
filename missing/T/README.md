@@ -2378,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks: 1985 | 370655 | [370655-tanks-1985.json](./370655-tanks-1985.json) |
 | Tanks: The Crusades | 154405 | [154405-tanks-the-crusades.json](./154405-tanks-the-crusades.json) |
 | Tanks! | 353523 | [353523-tanks.json](./353523-tanks.json) |
+| Tanks! | 430296 | [430296-tanks.json](./430296-tanks.json) |
 | Tanks.V.S | 90943 | [90943-tanks-v-s.json](./90943-tanks-v-s.json) |
 | Tanks+: New Era | 237146 | [237146-tanks-new-era.json](./237146-tanks-new-era.json) |
 | Tanks2.DE | 115764 | [115764-tanks2-de.json](./115764-tanks2-de.json) |
@@ -38471,6 +38472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
 | Twin Shot Deluxe | 383682 | [383682-twin-shot-deluxe.json](./383682-twin-shot-deluxe.json) |
 | Twin Sisters Ballerina: Dance, Ballet, Dress up | 95845 | [95845-twin-sisters-ballerina-dance-ballet-dress-up.json](./95845-twin-sisters-ballerina-dance-ballet-dress-up.json) |
+| Twin Skeletons at the Sacrificial Festival | 430501 | [430501-twin-skeletons-at-the-sacrificial-festival.json](./430501-twin-skeletons-at-the-sacrificial-festival.json) |
 | Twin Skies | 72775 | [72775-twin-skies.json](./72775-twin-skies.json) |
 | Twin Soul | 356067 | [356067-twin-soul.json](./356067-twin-soul.json) |
 | Twin Soul | 96113 | [96113-twin-soul.json](./96113-twin-soul.json) |
@@ -39066,6 +39068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typos and Brains | 179893 | [179893-typos-and-brains.json](./179893-typos-and-brains.json) |
 | Typr | 106723 | [106723-typr.json](./106723-typr.json) |
 | Typrx | 137779 | [137779-typrx.json](./137779-typrx.json) |
+| Typy.io | 430513 | [430513-typy-io.json](./430513-typy-io.json) |
 | Tyr | 371867 | [371867-tyr.json](./371867-tyr.json) |
 | Tyr: Chains of Valhalla | 96750 | [96750-tyr-chains-of-valhalla.json](./96750-tyr-chains-of-valhalla.json) |
 | Tyran | 33937 | [33937-tyran.json](./33937-tyran.json) |
