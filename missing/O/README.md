@@ -1997,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Zone | 291607 | [291607-omega-zone.json](./291607-omega-zone.json) |
 | Omega-Altro | 156117 | [156117-omega-altro.json](./156117-omega-altro.json) |
 | Omega: The Beginning | 117700 | [117700-omega-the-beginning.json](./117700-omega-the-beginning.json) |
+| Omega: The Dead Planet | 415667 | [415667-omega-the-dead-planet.json](./415667-omega-the-dead-planet.json) |
 | OmegaBot | 154001 | [154001-omegabot.json](./154001-omegabot.json) |
 | Omegaland | 47983 | [47983-omegaland.json](./47983-omegaland.json) |
 | Omegalodon | 16637 | [16637-omegalodon.json](./16637-omegalodon.json) |
@@ -6083,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutlawZ: Headhunter | 292362 | [292362-outlawz-headhunter.json](./292362-outlawz-headhunter.json) |
 | Outlets Rush | 297247 | [297247-outlets-rush.json](./297247-outlets-rush.json) |
 | Outlier | 159943 | [159943-outlier.json](./159943-outlier.json) |
+| Outlier | 431129 | [431129-outlier.json](./431129-outlier.json) |
 | Outliers: Incrementum | 425175 | [425175-outliers-incrementum.json](./425175-outliers-incrementum.json) |
 | Outline | 134343 | [134343-outline.json](./134343-outline.json) |
 | Outline | 90264 | [90264-outline.json](./90264-outline.json) |
