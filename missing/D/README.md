@@ -6236,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rock Galactic: Ultimate Edition | 188047 | [188047-deep-rock-galactic-ultimate-edition.json](./188047-deep-rock-galactic-ultimate-edition.json) |
 | Deep Room | 347559 | [347559-deep-room.json](./347559-deep-room.json) |
 | Deep Root | 177988 | [177988-deep-root.json](./177988-deep-root.json) |
+| Deep Root Delta | 431277 | [431277-deep-root-delta.json](./431277-deep-root-delta.json) |
 | Deep Rune | 153962 | [153962-deep-rune.json](./153962-deep-rune.json) |
 | Deep Russian Depression | 188866 | [188866-deep-russian-depression.json](./188866-deep-russian-depression.json) |
 | Deep Saturation | 359071 | [359071-deep-saturation.json](./359071-deep-saturation.json) |
@@ -6772,6 +6773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
 | Defentron | 146748 | [146748-defentron.json](./146748-defentron.json) |
 | Defentures | 129244 | [129244-defentures.json](./129244-defentures.json) |
+| Deferral | 431215 | [431215-deferral.json](./431215-deferral.json) |
 | Deff | 133973 | [133973-deff.json](./133973-deff.json) |
 | Defi Gravity | 227157 | [227157-defi-gravity.json](./227157-defi-gravity.json) |
 | Defi Kingdoms | 185371 | [185371-defi-kingdoms.json](./185371-defi-kingdoms.json) |
@@ -9584,6 +9586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devils Run | 304504 | [304504-devils-run.json](./304504-devils-run.json) |
 | Devils Share | 26513 | [26513-devils-share.json](./26513-devils-share.json) |
 | Devils Wind Mine | 294156 | [294156-devils-wind-mine.json](./294156-devils-wind-mine.json) |
+| Devils: The Boruta Revenge | 431121 | [431121-devils-the-boruta-revenge.json](./431121-devils-the-boruta-revenge.json) |
 | DevilShaft: TheTower | 116843 | [116843-devilshaft-thetower.json](./116843-devilshaft-thetower.json) |
 | DevilutionX | 242688 | [242688-devilutionx.json](./242688-devilutionx.json) |
 | Devin and the Celestial Necropolis | 218205 | [218205-devin-and-the-celestial-necropolis.json](./218205-devin-and-the-celestial-necropolis.json) |
@@ -12113,6 +12116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dislyte | 172684 | [172684-dislyte.json](./172684-dislyte.json) |
 | Dismal Anhedonia Land | 179654 | [179654-dismal-anhedonia-land.json](./179654-dismal-anhedonia-land.json) |
 | Dismal Dreams | 399995 | [399995-dismal-dreams.json](./399995-dismal-dreams.json) |
+| Dismal Night | 431115 | [431115-dismal-night.json](./431115-dismal-night.json) |
 | Dismal Passages | 229221 | [229221-dismal-passages.json](./229221-dismal-passages.json) |
 | Dismal Reverie | 217124 | [217124-dismal-reverie.json](./217124-dismal-reverie.json) |
 | Dismal Signal | 271320 | [271320-dismal-signal.json](./271320-dismal-signal.json) |
@@ -15236,6 +15240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle World | 142429 | [142429-doodle-world.json](./142429-doodle-world.json) |
 | Doodle World: Deluxe | 235577 | [235577-doodle-world-deluxe.json](./235577-doodle-world-deluxe.json) |
 | Doodle World: Redrawn | 261150 | [261150-doodle-world-redrawn.json](./261150-doodle-world-redrawn.json) |
+| Doodle, Please! | 430993 | [430993-doodle-please.json](./430993-doodle-please.json) |
 | DoodleBob and the Magic Pencil | 341323 | [341323-doodlebob-and-the-magic-pencil.json](./341323-doodlebob-and-the-magic-pencil.json) |
 | DoodleBob and the Magic Pencil DX | 341325 | [341325-doodlebob-and-the-magic-pencil-dx.json](./341325-doodlebob-and-the-magic-pencil-dx.json) |
 | Doodlebug | 14656 | [14656-doodlebug.json](./14656-doodlebug.json) |
@@ -15445,6 +15450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomdark's Revenge | 12992 | [12992-doomdarks-revenge.json](./12992-doomdarks-revenge.json) |
 | Doomdark's Revenge | 197761 | [197761-doomdarks-revenge.json](./197761-doomdarks-revenge.json) |
 | Doomdepths | 248153 | [248153-doomdepths.json](./248153-doomdepths.json) |
+| Doomdream | 431258 | [431258-doomdream.json](./431258-doomdream.json) |
 | Doomed Crew | 378113 | [378113-doomed-crew.json](./378113-doomed-crew.json) |
 | Doomed Detective Game | 336542 | [336542-doomed-detective-game.json](./336542-doomed-detective-game.json) |
 | Doomed Dwarves | 387633 | [387633-doomed-dwarves.json](./387633-doomed-dwarves.json) |
