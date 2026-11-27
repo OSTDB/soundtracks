@@ -12777,6 +12777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hustle: Detroit Streets | 73266 | [73266-the-hustle-detroit-streets.json](./73266-the-hustle-detroit-streets.json) |
 | The Hustlers | 306412 | [306412-the-hustlers.json](./306412-the-hustlers.json) |
 | The Hut in Ayre Forest | 393076 | [393076-the-hut-in-ayre-forest.json](./393076-the-hut-in-ayre-forest.json) |
+| The Hybrid Circus. | 420785 | [420785-the-hybrid-circus.json](./420785-the-hybrid-circus.json) |
 | The Hybrid Front | 45620 | [45620-the-hybrid-front.json](./45620-the-hybrid-front.json) |
 | The Hydra | 194230 | [194230-the-hydra.json](./194230-the-hydra.json) |
 | The Hydra Experiment | 275369 | [275369-the-hydra-experiment.json](./275369-the-hydra-experiment.json) |
@@ -20111,6 +20112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stubborn of WakGood: Afterheat | 257885 | [257885-the-stubborn-of-wakgood-afterheat.json](./257885-the-stubborn-of-wakgood-afterheat.json) |
 | The Studio | 89383 | [89383-the-studio.json](./89383-the-studio.json) |
 | The Studio 100: Play Island | 268210 | [268210-the-studio-100-play-island.json](./268210-the-studio-100-play-island.json) |
+| The Stuff Fairy Tales Are Made Of | 420385 | [420385-the-stuff-fairy-tales-are-made-of.json](./420385-the-stuff-fairy-tales-are-made-of.json) |
 | The Sub Shop | 308365 | [308365-the-sub-shop.json](./308365-the-sub-shop.json) |
 | The Subconscious Fear | 271809 | [271809-the-subconscious-fear.json](./271809-the-subconscious-fear.json) |
 | The Subject: Protocol Zero | 389852 | [389852-the-subject-protocol-zero.json](./389852-the-subject-protocol-zero.json) |
@@ -21453,6 +21455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unwoven Unicorn | 410367 | [410367-the-unwoven-unicorn.json](./410367-the-unwoven-unicorn.json) |
 | The Upper Downer Complex | 285903 | [285903-the-upper-downer-complex.json](./285903-the-upper-downer-complex.json) |
 | The Upper Hand | 311862 | [311862-the-upper-hand.json](./311862-the-upper-hand.json) |
+| The Upper Shelves: Prey | 423486 | [423486-the-upper-shelves-prey.json](./423486-the-upper-shelves-prey.json) |
 | The Uprising | 263365 | [263365-the-uprising.json](./263365-the-uprising.json) |
 | The Upturned | 172905 | [172905-the-upturned.json](./172905-the-upturned.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
@@ -37701,6 +37704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel VR | 125699 | [125699-tunnel-vr.json](./125699-tunnel-vr.json) |
 | Tunnelborn | 419149 | [419149-tunnelborn.json](./419149-tunnelborn.json) |
 | Tunneler | 14439 | [14439-tunneler.json](./14439-tunneler.json) |
+| Tunneler | 422749 | [422749-tunneler.json](./422749-tunneler.json) |
 | Tunnelers | 383996 | [383996-tunnelers.json](./383996-tunnelers.json) |
 | Tunnelers | 63212 | [63212-tunnelers.json](./63212-tunnelers.json) |
 | Tunneling 2048 | 278839 | [278839-tunneling-2048.json](./278839-tunneling-2048.json) |
