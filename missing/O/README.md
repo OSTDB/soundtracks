@@ -1836,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olo Loco | 175224 | [175224-olo-loco.json](./175224-olo-loco.json) |
 | Olobollo | 156138 | [156138-olobollo.json](./156138-olobollo.json) |
 | OloFight | 73066 | [73066-olofight.json](./73066-olofight.json) |
+| Oloid | 431537 | [431537-oloid.json](./431537-oloid.json) |
 | Oloo | 383417 | [383417-oloo.json](./383417-oloo.json) |
 | Olsenbanden Jr. I Vikingenes Fotspor | 277477 | [277477-olsenbanden-jr-i-vikingenes-fotspor.json](./277477-olsenbanden-jr-i-vikingenes-fotspor.json) |
 | Olson's Boxing Challenge | 75667 | [75667-olsons-boxing-challenge.json](./75667-olsons-boxing-challenge.json) |
@@ -3793,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Door | 214177 | [214177-open-door.json](./214177-open-door.json) |
 | Open Doors | 368946 | [368946-open-doors.json](./368946-open-doors.json) |
 | Open Drive | 411958 | [411958-open-drive.json](./411958-open-drive.json) |
+| Open Esport | 431510 | [431510-open-esport.json](./431510-open-esport.json) |
 | Open Fire | 327155 | [327155-open-fire.json](./327155-open-fire.json) |
 | Open Fire | 348792 | [348792-open-fire.json](./348792-open-fire.json) |
 | Open Fire: Ready | 389966 | [389966-open-fire-ready.json](./389966-open-fire-ready.json) |
