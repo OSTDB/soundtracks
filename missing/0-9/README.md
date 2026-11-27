@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1024^3 | 309261 | [309261-1024-3.json](./309261-1024-3.json) |
 | 103 | 108413 | [108413-103.json](./108413-103.json) |
 | 1066 | 101720 | [101720-1066.json](./101720-1066.json) |
+| 1066 With Knobs On | 430548 | [430548-1066-with-knobs-on.json](./430548-1066-with-knobs-on.json) |
 | 108 Silly Ways to Die | 326083 | [326083-108-silly-ways-to-die.json](./326083-108-silly-ways-to-die.json) |
 | 1080 Snowboarding 2 | 176039 | [176039-1080-snowboarding-2.json](./176039-1080-snowboarding-2.json) |
 | 1080° Avalanche | 3774 | [3774-1080-avalanche.json](./3774-1080-avalanche.json) |
