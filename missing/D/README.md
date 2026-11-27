@@ -507,7 +507,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Life with the Herb Girl | 420408 | [420408-daily-life-with-the-herb-girl.json](./420408-daily-life-with-the-herb-girl.json) |
 | Daily Mah Jong | 95663 | [95663-daily-mah-jong.json](./95663-daily-mah-jong.json) |
 | Daily Orbs | 429431 | [429431-daily-orbs.json](./429431-daily-orbs.json) |
-| Daily POP Crosswords | 87482 | [87482-daily-pop-crosswords.json](./87482-daily-pop-crosswords.json) |
 | Daily Quizz | 78701 | [78701-daily-quizz.json](./78701-daily-quizz.json) |
 | Daily Routine | 88136 | [88136-daily-routine.json](./88136-daily-routine.json) |
 | Daily Run | 72384 | [72384-daily-run.json](./72384-daily-run.json) |
@@ -938,7 +937,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance On Radar | 342801 | [342801-dance-on-radar.json](./342801-dance-on-radar.json) |
 | Dance on the Water | 222676 | [222676-dance-on-the-water.json](./222676-dance-on-the-water.json) |
 | Dance Party | 247250 | [247250-dance-party.json](./247250-dance-party.json) |
-| Dance Party Crunkmas | 87230 | [87230-dance-party-crunkmas.json](./87230-dance-party-crunkmas.json) |
 | Dance Party: Club Hits | 50928 | [50928-dance-party-club-hits.json](./50928-dance-party-club-hits.json) |
 | Dance Party: Pop Hits | 50929 | [50929-dance-party-pop-hits.json](./50929-dance-party-pop-hits.json) |
 | Dance Praise 2: The ReMix | 209002 | [209002-dance-praise-2-the-remix.json](./209002-dance-praise-2-the-remix.json) |
@@ -3405,7 +3403,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day on Mars | 186853 | [186853-day-on-mars.json](./186853-day-on-mars.json) |
 | Day One: Garry's Incident | 3046 | [3046-day-one-garrys-incident.json](./3046-day-one-garrys-incident.json) |
 | Day R | 82855 | [82855-day-r.json](./82855-day-r.json) |
-| Day R Premium | 87200 | [87200-day-r-premium.json](./87200-day-r-premium.json) |
 | Day R Survival | 175678 | [175678-day-r-survival.json](./175678-day-r-survival.json) |
 | Day Repeat Day | 148626 | [148626-day-repeat-day.json](./148626-day-repeat-day.json) |
 | Day Seven | 125268 | [125268-day-seven.json](./125268-day-seven.json) |
@@ -4483,7 +4480,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reckoning: The Long Drift | 405793 | [405793-dead-reckoning-the-long-drift.json](./405793-dead-reckoning-the-long-drift.json) |
 | Dead Reefs | 50284 | [50284-dead-reefs.json](./50284-dead-reefs.json) |
 | Dead Reset | 346233 | [346233-dead-reset.json](./346233-dead-reset.json) |
-| Dead Rider | 87312 | [87312-dead-rider.json](./87312-dead-rider.json) |
 | Dead Rig | 402729 | [402729-dead-rig.json](./402729-dead-rig.json) |
 | Dead Ringer | 374852 | [374852-dead-ringer.json](./374852-dead-ringer.json) |
 | Dead Rising | 4797 | [4797-dead-rising.json](./4797-dead-rising.json) |
@@ -5888,7 +5884,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckbuilder Fantasy: Elvenglade | 292767 | [292767-deckbuilder-fantasy-elvenglade.json](./292767-deckbuilder-fantasy-elvenglade.json) |
 | DeckBuilder Village | 211703 | [211703-deckbuilder-village.json](./211703-deckbuilder-village.json) |
 | Deckception | 317308 | [317308-deckception.json](./317308-deckception.json) |
-| Decked Builder | 87450 | [87450-decked-builder.json](./87450-decked-builder.json) |
 | Decked in Love | 296886 | [296886-decked-in-love.json](./296886-decked-in-love.json) |
 | Decked Out | 408326 | [408326-decked-out.json](./408326-decked-out.json) |
 | DeckEleven's Railroads 2 | 244898 | [244898-deckelevens-railroads-2.json](./244898-deckelevens-railroads-2.json) |
@@ -11595,7 +11590,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bike Apocalypse | 98903 | [98903-dirt-bike-apocalypse.json](./98903-dirt-bike-apocalypse.json) |
 | Dirt Bike Evo | 103932 | [103932-dirt-bike-evo.json](./103932-dirt-bike-evo.json) |
 | Dirt Bike Evo | 90525 | [90525-dirt-bike-evo.json](./90525-dirt-bike-evo.json) |
-| Dirt Bike Extreme | 87160 | [87160-dirt-bike-extreme.json](./87160-dirt-bike-extreme.json) |
 | Dirt Bike Extreme 3D | 330237 | [330237-dirt-bike-extreme-3d.json](./330237-dirt-bike-extreme-3d.json) |
 | Dirt Bike Hill Racing - Dirt Bike Race For Kids | 99257 | [99257-dirt-bike-hill-racing-dirt-bike-race-for-kids.json](./99257-dirt-bike-hill-racing-dirt-bike-race-for-kids.json) |
 | Dirt Bike Insanity | 98688 | [98688-dirt-bike-insanity.json](./98688-dirt-bike-insanity.json) |
@@ -11785,7 +11779,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Creatures World | 145333 | [145333-disc-creatures-world.json](./145333-disc-creatures-world.json) |
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
 | Disc Drivin' | 92398 | [92398-disc-drivin.json](./92398-disc-drivin.json) |
-| Disc Drivin' 2 | 87366 | [87366-disc-drivin-2.json](./87366-disc-drivin-2.json) |
 | Disc Drivin' HD | 175452 | [175452-disc-drivin-hd.json](./175452-disc-drivin-hd.json) |
 | Disc Frenzy | 296720 | [296720-disc-frenzy.json](./296720-disc-frenzy.json) |
 | Disc Golf | 273694 | [273694-disc-golf.json](./273694-disc-golf.json) |
@@ -19636,6 +19629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drizzlepath: Picturae | 327273 | [327273-drizzlepath-picturae.json](./327273-drizzlepath-picturae.json) |
 | DRL | 79379 | [79379-drl.json](./79379-drl.json) |
 | DRM: Death Ray Manta | 22197 | [22197-drm-death-ray-manta.json](./22197-drm-death-ray-manta.json) |
+| DrMario.exe | 410082 | [410082-drmario-exe.json](./410082-drmario-exe.json) |
 | DRMS-04 | 176536 | [176536-drms-04.json](./176536-drms-04.json) |
 | Drmwrldgrl | 277660 | [277660-drmwrldgrl.json](./277660-drmwrldgrl.json) |
 | Drod 1+2+3 | 124914 | [124914-drod-1-2-3.json](./124914-drod-1-2-3.json) |
@@ -21921,7 +21915,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk Mania | 39824 | [39824-dunk-mania.json](./39824-dunk-mania.json) |
 | Dunk Nation 3x3 | 83323 | [83323-dunk-nation-3x3.json](./83323-dunk-nation-3x3.json) |
 | Dunk Shot | 40977 | [40977-dunk-shot.json](./40977-dunk-shot.json) |
-| Dunk Shot | 87372 | [87372-dunk-shot.json](./87372-dunk-shot.json) |
 | Dunk The Hoops: Bouncy Ball | 266832 | [266832-dunk-the-hoops-bouncy-ball.json](./266832-dunk-the-hoops-bouncy-ball.json) |
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
 | Dunk Trickster | 316844 | [316844-dunk-trickster.json](./316844-dunk-trickster.json) |
