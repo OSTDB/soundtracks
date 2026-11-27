@@ -2991,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jomp The Jumper | 367155 | [367155-jomp-the-jumper.json](./367155-jomp-the-jumper.json) |
 | Jon Shafer's At the Gates | 8423 | [8423-jon-shafers-at-the-gates.json](./8423-jon-shafers-at-the-gates.json) |
 | Jon Story | 264167 | [264167-jon-story.json](./264167-jon-story.json) |
+| Jon, Just Jump! | 431079 | [431079-jon-just-jump.json](./431079-jon-just-jump.json) |
 | Jon's Dog | 346271 | [346271-jons-dog.json](./346271-jons-dog.json) |
 | Jon's Jigsaw Puzzle | 357909 | [357909-jons-jigsaw-puzzle.json](./357909-jons-jigsaw-puzzle.json) |
 | Jonah Barrington's Squash | 72155 | [72155-jonah-barringtons-squash.json](./72155-jonah-barringtons-squash.json) |
