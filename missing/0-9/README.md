@@ -2386,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2XKO: PS+ Benefit Bundle Y1S2 | 402039 | [402039-2xko-ps-benefit-bundle-y1s2.json](./402039-2xko-ps-benefit-bundle-y1s2.json) |
 | 2XKO: PS+ Benefit Bundle Y1S3 | 415424 | [415424-2xko-ps-benefit-bundle-y1s3.json](./415424-2xko-ps-benefit-bundle-y1s3.json) |
 | 2XKO: Starter Edition Standard | 386484 | [386484-2xko-starter-edition-standard.json](./386484-2xko-starter-edition-standard.json) |
+| 2XKO: Ultimate Bundle | 418480 | [418480-2xko-ultimate-bundle.json](./418480-2xko-ultimate-bundle.json) |
 | 2XL ATV Offroad | 197676 | [197676-2xl-atv-offroad.json](./197676-2xl-atv-offroad.json) |
 | 2XL MX Offroad | 232614 | [232614-2xl-mx-offroad.json](./232614-2xl-mx-offroad.json) |
 | 2XL Snocross | 95653 | [95653-2xl-snocross.json](./95653-2xl-snocross.json) |
