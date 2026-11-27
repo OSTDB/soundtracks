@@ -327,14 +327,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Tiger Care | 105488 | [105488-baby-tiger-care.json](./105488-baby-tiger-care.json) |
 | Baby Tiger Care: My Cute Virtual Pet Friend | 105840 | [105840-baby-tiger-care-my-cute-virtual-pet-friend.json](./105840-baby-tiger-care-my-cute-virtual-pet-friend.json) |
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
-| Baby Twins Babysitter | 86772 | [86772-baby-twins-babysitter.json](./86772-baby-twins-babysitter.json) |
 | Baby Universe | 43793 | [43793-baby-universe.json](./43793-baby-universe.json) |
 | Baby Wild Katzen | 269655 | [269655-baby-wild-katzen.json](./269655-baby-wild-katzen.json) |
 | Baby's Day Out | 264089 | [264089-babys-day-out.json](./264089-babys-day-out.json) |
 | Baby's Day Out | 45740 | [45740-babys-day-out.json](./45740-babys-day-out.json) |
 | Baby's First Crudelo Sphere | 280741 | [280741-babys-first-crudelo-sphere.json](./280741-babys-first-crudelo-sphere.json) |
 | Baby's First House Fire | 176444 | [176444-babys-first-house-fire.json](./176444-babys-first-house-fire.json) |
-| Baby's Musical Hands | 86864 | [86864-babys-musical-hands.json](./86864-babys-musical-hands.json) |
 | Baby's Nightmare Circus | 194385 | [194385-babys-nightmare-circus.json](./194385-babys-nightmare-circus.json) |
 | Baby's Nightmare Circus Bike Fighter | 370552 | [370552-babys-nightmare-circus-bike-fighter.json](./370552-babys-nightmare-circus-bike-fighter.json) |
 | Baby's Nightmare Circus VR: Remake | 336002 | [336002-babys-nightmare-circus-vr-remake.json](./336002-babys-nightmare-circus-vr-remake.json) |
@@ -7605,7 +7603,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bergabash | 383607 | [383607-bergabash.json](./383607-bergabash.json) |
 | Bergen Bridge Advanced Defense | 89739 | [89739-bergen-bridge-advanced-defense.json](./89739-bergen-bridge-advanced-defense.json) |
 | Bergen Bridge Advanced Play | 101506 | [101506-bergen-bridge-advanced-play.json](./101506-bergen-bridge-advanced-play.json) |
-| Bergen Bridge Beginner 1 | 86721 | [86721-bergen-bridge-beginner-1.json](./86721-bergen-bridge-beginner-1.json) |
 | Bergen Bridge Beginner 2 | 88850 | [88850-bergen-bridge-beginner-2.json](./88850-bergen-bridge-beginner-2.json) |
 | Bergen Bridge Expert | 90842 | [90842-bergen-bridge-expert.json](./90842-bergen-bridge-expert.json) |
 | Bergen Bridge Intermediate 1 | 95562 | [95562-bergen-bridge-intermediate-1.json](./95562-bergen-bridge-intermediate-1.json) |
@@ -7824,7 +7821,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Shot Pro Golf | 44422 | [44422-best-shot-pro-golf.json](./44422-best-shot-pro-golf.json) |
 | Best Sniper Legacy | 148743 | [148743-best-sniper-legacy.json](./148743-best-sniper-legacy.json) |
 | Best Sniper: Shooting Hunter | 211301 | [211301-best-sniper-shooting-hunter.json](./211301-best-sniper-shooting-hunter.json) |
-| Best Solitaire Greatest Hits | 86698 | [86698-best-solitaire-greatest-hits.json](./86698-best-solitaire-greatest-hits.json) |
 | Best Spider Solitaire | 104604 | [104604-best-spider-solitaire.json](./104604-best-spider-solitaire.json) |
 | Best Streamer | 401785 | [401785-best-streamer.json](./401785-best-streamer.json) |
 | Best Time Kill | 51476 | [51476-best-time-kill.json](./51476-best-time-kill.json) |
@@ -12037,7 +12033,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Champ | 229936 | [229936-block-champ.json](./229936-block-champ.json) |
 | Block City Cop: Vice Town | 260196 | [260196-block-city-cop-vice-town.json](./260196-block-city-cop-vice-town.json) |
 | Block City Wars | 95849 | [95849-block-city-wars.json](./95849-block-city-wars.json) |
-| Block City Wars: Mafia Town | 86930 | [86930-block-city-wars-mafia-town.json](./86930-block-city-wars-mafia-town.json) |
 | Block City: Bus Edition | 193216 | [193216-block-city-bus-edition.json](./193216-block-city-bus-edition.json) |
 | Block Collide | 180023 | [180023-block-collide.json](./180023-block-collide.json) |
 | Block Combine | 54602 | [54602-block-combine.json](./54602-block-combine.json) |
@@ -12045,7 +12040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Connector | 284022 | [284022-block-connector.json](./284022-block-connector.json) |
 | Block Control | 278436 | [278436-block-control.json](./278436-block-control.json) |
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
-| Block Craft 3D: City Building | 86995 | [86995-block-craft-3d-city-building.json](./86995-block-craft-3d-city-building.json) |
 | Block Craft 3D: Crafting & Building Game | 99707 | [99707-block-craft-3d-crafting-and-building-game.json](./99707-block-craft-3d-crafting-and-building-game.json) |
 | Block Craft Racing | 248273 | [248273-block-craft-racing.json](./248273-block-craft-racing.json) |
 | Block Dash Adventure | 164294 | [164294-block-dash-adventure.json](./164294-block-dash-adventure.json) |
@@ -16794,7 +16788,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Memory: Platinum Edition | 256763 | [256763-brain-memory-platinum-edition.json](./256763-brain-memory-platinum-edition.json) |
 | Brain Memory: Premium Edition | 241394 | [241394-brain-memory-premium-edition.json](./241394-brain-memory-premium-edition.json) |
 | Brain Off | 172101 | [172101-brain-off.json](./172101-brain-off.json) |
-| Brain on Physics Boxs Puzzles | 86990 | [86990-brain-on-physics-boxs-puzzles.json](./86990-brain-on-physics-boxs-puzzles.json) |
 | Brain On: Can You Pass It? | 224089 | [224089-brain-on-can-you-pass-it.json](./224089-brain-on-can-you-pass-it.json) |
 | Brain On: Dot Physics | 260046 | [260046-brain-on-dot-physics.json](./260046-brain-on-dot-physics.json) |
 | Brain Out: Can You Pass It? | 312644 | [312644-brain-out-can-you-pass-it.json](./312644-brain-out-can-you-pass-it.json) |
@@ -18768,7 +18761,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brut@l | 14759 | [14759-brut-l.json](./14759-brut-l.json) |
 | Brutal | 407674 | [407674-brutal.json](./407674-brutal.json) |
 | Brutal 2urvive Bundle | 164786 | [164786-brutal-2urvive-bundle.json](./164786-brutal-2urvive-bundle.json) |
-| Brutal Age: Horde Invasion | 86935 | [86935-brutal-age-horde-invasion.json](./86935-brutal-age-horde-invasion.json) |
 | Brutal Alice: The Hundred Day's War | 75945 | [75945-brutal-alice-the-hundred-days-war.json](./75945-brutal-alice-the-hundred-days-war.json) |
 | Brutal Ball | 280100 | [280100-brutal-ball.json](./280100-brutal-ball.json) |
 | Brutal Bible Bloodbaths | 303380 | [303380-brutal-bible-bloodbaths.json](./303380-brutal-bible-bloodbaths.json) |
@@ -19106,7 +19098,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Cats Rescue | 122531 | [122531-bubble-cats-rescue.json](./122531-bubble-cats-rescue.json) |
 | Bubble Chef | 120222 | [120222-bubble-chef.json](./120222-bubble-chef.json) |
 | Bubble Chicken Farm | 277619 | [277619-bubble-chicken-farm.json](./277619-bubble-chicken-farm.json) |
-| Bubble Cloud: Spinning Bubbles | 86774 | [86774-bubble-cloud-spinning-bubbles.json](./86774-bubble-cloud-spinning-bubbles.json) |
 | Bubble Court | 430470 | [430470-bubble-court.json](./430470-bubble-court.json) |
 | Bubble Crack | 71048 | [71048-bubble-crack.json](./71048-bubble-crack.json) |
 | Bubble Crackle | 87321 | [87321-bubble-crackle.json](./87321-bubble-crackle.json) |
@@ -19153,7 +19144,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Melody | 254410 | [254410-bubble-melody.json](./254410-bubble-melody.json) |
 | Bubble Memories: The Story of Bubble Bobble III | 64310 | [64310-bubble-memories-the-story-of-bubble-bobble-iii.json](./64310-bubble-memories-the-story-of-bubble-bobble-iii.json) |
 | Bubble Milf | 297360 | [297360-bubble-milf.json](./297360-bubble-milf.json) |
-| Bubble Mix | 87083 | [87083-bubble-mix.json](./87083-bubble-mix.json) |
 | Bubble Mix 3 in 1 Plus | 90685 | [90685-bubble-mix-3-in-1-plus.json](./90685-bubble-mix-3-in-1-plus.json) |
 | Bubble Monsters | 248858 | [248858-bubble-monsters.json](./248858-bubble-monsters.json) |
 | Bubble Night | 205752 | [205752-bubble-night.json](./205752-bubble-night.json) |
@@ -20886,7 +20876,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bury Your Gays | 269864 | [269864-bury-your-gays.json](./269864-bury-your-gays.json) |
 | Burya v Stakane: Honky na Marshrutkakh | 336186 | [336186-burya-v-stakane-honky-na-marshrutkakh.json](./336186-burya-v-stakane-honky-na-marshrutkakh.json) |
 | Bus & Cable Car Simulator | 52487 | [52487-bus-and-cable-car-simulator.json](./52487-bus-and-cable-car-simulator.json) |
-| Bus & Taxi Driving Simulator | 86825 | [86825-bus-and-taxi-driving-simulator.json](./86825-bus-and-taxi-driving-simulator.json) |
 | Bus Bound | 348339 | [348339-bus-bound.json](./348339-bus-bound.json) |
 | Bus Controller Simulator | 117258 | [117258-bus-controller-simulator.json](./117258-bus-controller-simulator.json) |
 | Bus Derby | 200203 | [200203-bus-derby.json](./200203-bus-derby.json) |
