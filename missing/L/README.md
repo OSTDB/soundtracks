@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Mansion Hoover | 323328 | [323328-la-mansion-hoover.json](./323328-la-mansion-hoover.json) |
 | La Maupin to the Rescue! | 221307 | [221307-la-maupin-to-the-rescue.json](./221307-la-maupin-to-the-rescue.json) |
 | La Mémoire | 126928 | [126928-la-memoire.json](./126928-la-memoire.json) |
+| La Meute | 430342 | [430342-la-meute.json](./430342-la-meute.json) |
 | La Mina | 252994 | [252994-la-mina.json](./252994-la-mina.json) |
 | LA Monsters | 154970 | [154970-la-monsters.json](./154970-la-monsters.json) |
 | La Montagna Misteriosa | 145980 | [145980-la-montagna-misteriosa.json](./145980-la-montagna-misteriosa.json) |
@@ -9818,6 +9819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Voice | 148948 | [148948-lost-voice.json](./148948-lost-voice.json) |
 | Lost Vulcan | 347851 | [347851-lost-vulcan.json](./347851-lost-vulcan.json) |
 | Lost Wage Rampage | 108989 | [108989-lost-wage-rampage.json](./108989-lost-wage-rampage.json) |
+| Lost Wallet | 430351 | [430351-lost-wallet.json](./430351-lost-wallet.json) |
 | Lost Wiki: Kozlovka | 374721 | [374721-lost-wiki-kozlovka.json](./374721-lost-wiki-kozlovka.json) |
 | Lost Wing | 75371 | [75371-lost-wing.json](./75371-lost-wing.json) |
 | Lost Wish: In the Desperate World | 195482 | [195482-lost-wish-in-the-desperate-world.json](./195482-lost-wish-in-the-desperate-world.json) |
