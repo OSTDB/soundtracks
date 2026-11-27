@@ -5145,7 +5145,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giraffe Champion 3: Halloween Party & the Ghost Guitar | 424571 | [424571-giraffe-champion-3-halloween-party-and-the-ghost-guitar.json](./424571-giraffe-champion-3-halloween-party-and-the-ghost-guitar.json) |
 | Giraffe Evolution | 348416 | [348416-giraffe-evolution.json](./348416-giraffe-evolution.json) |
 | Giraffe Town | 109783 | [109783-giraffe-town.json](./109783-giraffe-town.json) |
-| Giraffe's Matching Zoo | 87138 | [87138-giraffes-matching-zoo.json](./87138-giraffes-matching-zoo.json) |
 | Giraffe's Matching Zoo Deluxe: Featuring the Fun Button! | 88418 | [88418-giraffes-matching-zoo-deluxe-featuring-the-fun-button.json](./88418-giraffes-matching-zoo-deluxe-featuring-the-fun-button.json) |
 | Giraffes Volleyball Championship 2016 | 22690 | [22690-giraffes-volleyball-championship-2016.json](./22690-giraffes-volleyball-championship-2016.json) |
 | Giral | 107766 | [107766-giral.json](./107766-giral.json) |
@@ -7132,7 +7131,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Almagest | 214514 | [214514-gods-of-almagest.json](./214514-gods-of-almagest.json) |
 | Gods of Angling | 396215 | [396215-gods-of-angling.json](./396215-gods-of-angling.json) |
 | Gods of Defense | 219798 | [219798-gods-of-defense.json](./219798-gods-of-defense.json) |
-| Gods of Drifting | 87425 | [87425-gods-of-drifting.json](./87425-gods-of-drifting.json) |
 | Gods of Egypt: Secrets of the Lost Kingdom | 174747 | [174747-gods-of-egypt-secrets-of-the-lost-kingdom.json](./174747-gods-of-egypt-secrets-of-the-lost-kingdom.json) |
 | Gods of Fire | 309483 | [309483-gods-of-fire.json](./309483-gods-of-fire.json) |
 | Gods of Gravity | 230570 | [230570-gods-of-gravity.json](./230570-gods-of-gravity.json) |
@@ -7821,7 +7819,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Pool VR | 115928 | [115928-golf-pool-vr.json](./115928-golf-pool-vr.json) |
 | Golf Pro | 247062 | [247062-golf-pro.json](./247062-golf-pro.json) |
 | Golf Pro 2000 Downunder | 93072 | [93072-golf-pro-2000-downunder.json](./93072-golf-pro-2000-downunder.json) |
-| Golf Pro HD | 87328 | [87328-golf-pro-hd.json](./87328-golf-pro-hd.json) |
 | Golf Pro Simulator | 348167 | [348167-golf-pro-simulator.json](./348167-golf-pro-simulator.json) |
 | Golf Pro VR | 31261 | [31261-golf-pro-vr.json](./31261-golf-pro-vr.json) |
 | Golf Putt 3D | 259130 | [259130-golf-putt-3d.json](./259130-golf-putt-3d.json) |
@@ -10351,7 +10348,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Ember: Helmer in the Dragon Tomb | 356353 | [356353-green-ember-helmer-in-the-dragon-tomb.json](./356353-green-ember-helmer-in-the-dragon-tomb.json) |
 | Green Eyed Monster | 184034 | [184034-green-eyed-monster.json](./184034-green-eyed-monster.json) |
 | Green Fairy VR | 156984 | [156984-green-fairy-vr.json](./156984-green-fairy-vr.json) |
-| Green Farm | 87117 | [87117-green-farm.json](./87117-green-farm.json) |
 | Green Farm 2 | 385048 | [385048-green-farm-2.json](./385048-green-farm-2.json) |
 | Green Farm 3 | 380674 | [380674-green-farm-3.json](./380674-green-farm-3.json) |
 | Green Field Silver Tree | 117689 | [117689-green-field-silver-tree.json](./117689-green-field-silver-tree.json) |
@@ -13344,7 +13340,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gymnastics Girl | 90349 | [90349-gymnastics-girl.json](./90349-gymnastics-girl.json) |
 | Gymnastics Queen | 96606 | [96606-gymnastics-queen.json](./96606-gymnastics-queen.json) |
 | Gymnastics Queen - Go for the Olympic Champion! | 97218 | [97218-gymnastics-queen-go-for-the-olympic-champion.json](./97218-gymnastics-queen-go-for-the-olympic-champion.json) |
-| Gymnastics Superstar | 87368 | [87368-gymnastics-superstar.json](./87368-gymnastics-superstar.json) |
 | Gynogenesis: The Next Day | 256899 | [256899-gynogenesis-the-next-day.json](./256899-gynogenesis-the-next-day.json) |
 | Gynotai | 319866 | [319866-gynotai.json](./319866-gynotai.json) |
 | Gynoug | 410065 | [410065-gynoug.json](./410065-gynoug.json) |
