@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kathy Rain: Director's Cut - Deluxe Edition | 186517 | [186517-kathy-rain-directors-cut-deluxe-edition.json](./186517-kathy-rain-directors-cut-deluxe-edition.json) |
 | Kati the Astronaut | 212642 | [212642-kati-the-astronaut.json](./212642-kati-the-astronaut.json) |
 | Katin Svět | 223679 | [223679-katin-svet.json](./223679-katin-svet.json) |
+| Katinka - Du Rejser | 418874 | [418874-katinka-du-rejser.json](./418874-katinka-du-rejser.json) |
 | Katja's Abyss: Tactics | 145911 | [145911-katjas-abyss-tactics.json](./145911-katjas-abyss-tactics.json) |
 | Katja's Escape II: The Mad Scientist's Lab | 311298 | [311298-katjas-escape-ii-the-mad-scientists-lab.json](./311298-katjas-escape-ii-the-mad-scientists-lab.json) |
 | Katja's Escape: The Pharaoh's Tomb | 311297 | [311297-katjas-escape-the-pharaohs-tomb.json](./311297-katjas-escape-the-pharaohs-tomb.json) |
@@ -5993,6 +5994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koloboke: Sickness Simulator | 373344 | [373344-koloboke-sickness-simulator.json](./373344-koloboke-sickness-simulator.json) |
 | Koloni | 244252 | [244252-koloni.json](./244252-koloni.json) |
 | Koloro | 29966 | [29966-koloro.json](./29966-koloro.json) |
+| Kolorup | 420745 | [420745-kolorup.json](./420745-kolorup.json) |
 | Koloss | 258806 | [258806-koloss.json](./258806-koloss.json) |
 | Kolt Penny's Symmetris | 296387 | [296387-kolt-pennys-symmetris.json](./296387-kolt-pennys-symmetris.json) |
 | Kolteka | 425155 | [425155-kolteka.json](./425155-kolteka.json) |
