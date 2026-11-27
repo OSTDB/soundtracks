@@ -5,6 +5,7 @@
 | Cover | Game | Albums |
 |---|---|---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2735030e20eef3182055d98b4eb" width="60" /> | [Gadgeteer](https://ostdb.net/games/gadgeteer) | **Gadgeteer (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2LHRSPTwtVROwNxGrYPfyD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318ed38dba3027057ecd2f549" width="60" /> | [Gaia Beyond](https://ostdb.net/games/gaia-beyond) | **Gaia Beyond (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0At67YhQve73BIDC78roXB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273018e3554c3e061f0128706db" width="60" /> | [Galactic Civilizations III](https://ostdb.net/games/galactic-civilizations-iii) | **Galactic Civilizations III (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7vJ7Wc9HoICz4AMC7hmDBY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732041c586cf96c1672af77129" width="60" /> | [Galaga](https://ostdb.net/games/galaga) | **GALAGA Original Soundtrack** · [Spotify](https://open.spotify.com/album/4GXAtAx1II7jt9u5oMykMK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc37a8489e3ad11fafff1431" width="60" /> | [Gamble With Your Friends](https://ostdb.net/games/gamble-with-your-friends) | **Gamble With Your Friends (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6nZu7yIcDut8ArmGng2FNb) |
