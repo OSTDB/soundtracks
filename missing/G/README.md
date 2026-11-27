@@ -3664,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo Composer | 89788 | [89788-geo-composer.json](./89788-geo-composer.json) |
 | Geo Fall | 88714 | [88714-geo-fall.json](./88714-geo-fall.json) |
 | Geo Fighter | 140270 | [140270-geo-fighter.json](./140270-geo-fighter.json) |
+| Geo Fighters | 430567 | [430567-geo-fighters.json](./430567-geo-fighters.json) |
 | Geo Gods | 257471 | [257471-geo-gods.json](./257471-geo-gods.json) |
 | Geo IQ World Master | 381915 | [381915-geo-iq-world-master.json](./381915-geo-iq-world-master.json) |
 | Geo Land: The Dream Traveler Remastered | 382436 | [382436-geo-land-the-dream-traveler-remastered.json](./382436-geo-land-the-dream-traveler-remastered.json) |
@@ -4403,6 +4404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Node | 421101 | [421101-ghost-node.json](./421101-ghost-node.json) |
 | Ghost Observation | 395047 | [395047-ghost-observation.json](./395047-ghost-observation.json) |
 | Ghost of a Tale | 7684 | [7684-ghost-of-a-tale.json](./7684-ghost-of-a-tale.json) |
+| Ghost of a Tale 2 | 430522 | [430522-ghost-of-a-tale-2.json](./430522-ghost-of-a-tale-2.json) |
 | Ghost of a Tale: Collector's Edition | 140166 | [140166-ghost-of-a-tale-collectors-edition.json](./140166-ghost-of-a-tale-collectors-edition.json) |
 | Ghost of Boarding School | 343535 | [343535-ghost-of-boarding-school.json](./343535-ghost-of-boarding-school.json) |
 | Ghost of Catsushina | 262763 | [262763-ghost-of-catsushina.json](./262763-ghost-of-catsushina.json) |
@@ -6351,6 +6353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Fetch! 2 | 84548 | [84548-go-fetch-2.json](./84548-go-fetch-2.json) |
 | Go Fight Fantastic! | 127364 | [127364-go-fight-fantastic.json](./127364-go-fight-fantastic.json) |
 | Go Figure! | 282405 | [282405-go-figure.json](./282405-go-figure.json) |
+| Go Fish | 430319 | [430319-go-fish.json](./430319-go-fish.json) |
 | Go Fish by Webfoot | 108564 | [108564-go-fish-by-webfoot.json](./108564-go-fish-by-webfoot.json) |
 | Go Fish! | 106750 | [106750-go-fish.json](./106750-go-fish.json) |
 | Go Fish! | 40717 | [40717-go-fish.json](./40717-go-fish.json) |
@@ -7343,6 +7346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoKaDu | 250811 | [250811-gokadu.json](./250811-gokadu.json) |
 | Gokai Awesome Simulator + | 326416 | [326416-gokai-awesome-simulator.json](./326416-gokai-awesome-simulator.json) |
 | GoKart: New Mexico | 193449 | [193449-gokart-new-mexico.json](./193449-gokart-new-mexico.json) |
+| Gökbörü | 430520 | [430520-gokboru.json](./430520-gokboru.json) |
 | Goken | 36608 | [36608-goken.json](./36608-goken.json) |
 | Gokichi-kun Series: Igo Nyuumon Doujou | 239566 | [239566-gokichi-kun-series-igo-nyuumon-doujou.json](./239566-gokichi-kun-series-igo-nyuumon-doujou.json) |
 | Gokigen na Schmetterlinge | 418124 | [418124-gokigen-na-schmetterlinge.json](./418124-gokigen-na-schmetterlinge.json) |
