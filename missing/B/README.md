@@ -8350,6 +8350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biathlon Battle VR | 114088 | [114088-biathlon-battle-vr.json](./114088-biathlon-battle-vr.json) |
 | Biathlon Challenge | 346938 | [346938-biathlon-challenge.json](./346938-biathlon-challenge.json) |
 | Biathlon Champion 2007 | 56860 | [56860-biathlon-champion-2007.json](./56860-biathlon-champion-2007.json) |
+| Biathlon Manager | 431432 | [431432-biathlon-manager.json](./431432-biathlon-manager.json) |
 | Biba's Adventures | 127453 | [127453-bibas-adventures.json](./127453-bibas-adventures.json) |
 | Bibao | 409277 | [409277-bibao.json](./409277-bibao.json) |
 | Bibbidiba Fan Game | 338234 | [338234-bibbidiba-fan-game.json](./338234-bibbidiba-fan-game.json) |
@@ -14478,6 +14479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombardiro Crocodilo: The Naked Clue | 368529 | [368529-bombardiro-crocodilo-the-naked-clue.json](./368529-bombardiro-crocodilo-the-naked-clue.json) |
 | Bombarika | 101962 | [101962-bombarika.json](./101962-bombarika.json) |
 | Bombarium | 179129 | [179129-bombarium.json](./179129-bombarium.json) |
+| BomBash | 431525 | [431525-bombash.json](./431525-bombash.json) |
 | Bombasm | 58562 | [58562-bombasm.json](./58562-bombasm.json) |
 | Bombastar | 379008 | [379008-bombastar.json](./379008-bombastar.json) |
 | Bombastic | 178493 | [178493-bombastic.json](./178493-bombastic.json) |
@@ -15247,6 +15249,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomerang Memory Tooner | 376517 | [376517-boomerang-memory-tooner.json](./376517-boomerang-memory-tooner.json) |
 | Boomerang Of Destruction | 325882 | [325882-boomerang-of-destruction.json](./325882-boomerang-of-destruction.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
+| Boomerang Survivor | 431638 | [431638-boomerang-survivor.json](./431638-boomerang-survivor.json) |
+| Boomerang Survivor 2 | 431640 | [431640-boomerang-survivor-2.json](./431640-boomerang-survivor-2.json) |
 | Boomerang Survivor 3 | 386550 | [386550-boomerang-survivor-3.json](./386550-boomerang-survivor-3.json) |
 | Boomerang Woman | 190299 | [190299-boomerang-woman.json](./190299-boomerang-woman.json) |
 | Boomerang X | 126851 | [126851-boomerang-x.json](./126851-boomerang-x.json) |
