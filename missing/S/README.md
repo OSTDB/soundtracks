@@ -3182,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarf Tale | 384915 | [384915-scarf-tale.json](./384915-scarf-tale.json) |
 | Scarface: Money. Power. Respect. | 5140 | [5140-scarface-money-power-respect.json](./5140-scarface-money-power-respect.json) |
 | Scarface: The World Is Yours | 5139 | [5139-scarface-the-world-is-yours.json](./5139-scarface-the-world-is-yours.json) |
+| Scarface: The World Is Yours - XBE Recomp | 430483 | [430483-scarface-the-world-is-yours-xbe-recomp.json](./430483-scarface-the-world-is-yours-xbe-recomp.json) |
 | ScarFall: The Royale Combat | 138335 | [138335-scarfall-the-royale-combat.json](./138335-scarfall-the-royale-combat.json) |
 | Scarfell Pike | 184153 | [184153-scarfell-pike.json](./184153-scarfell-pike.json) |
 | Scarfinger | 41495 | [41495-scarfinger.json](./41495-scarfinger.json) |
@@ -11867,6 +11868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SideArms | 125513 | [125513-sidearms.json](./125513-sidearms.json) |
 | Sidecar Evolution 2024 | 254900 | [254900-sidecar-evolution-2024.json](./254900-sidecar-evolution-2024.json) |
 | Sidecar Evolution 2025 | 385834 | [385834-sidecar-evolution-2025.json](./385834-sidecar-evolution-2025.json) |
+| Sidechain | 430425 | [430425-sidechain.json](./430425-sidechain.json) |
 | Sidekick Cycle | 238929 | [238929-sidekick-cycle.json](./238929-sidekick-cycle.json) |
 | Sidekick High | 185070 | [185070-sidekick-high.json](./185070-sidekick-high.json) |
 | SideLine | 243796 | [243796-sideline.json](./243796-sideline.json) |
@@ -13837,6 +13839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Braves: Enchanter | 215451 | [215451-six-braves-enchanter.json](./215451-six-braves-enchanter.json) |
 | Six Braves: Summoner | 215452 | [215452-six-braves-summoner.json](./215452-six-braves-summoner.json) |
 | Six Braves: Undead warlock | 215453 | [215453-six-braves-undead-warlock.json](./215453-six-braves-undead-warlock.json) |
+| Six Bullets | 430293 | [430293-six-bullets.json](./430293-six-bullets.json) |
 | Six Cabins in Serpent Ridge National Forest | 287221 | [287221-six-cabins-in-serpent-ridge-national-forest.json](./287221-six-cabins-in-serpent-ridge-national-forest.json) |
 | Six Card Golf | 202046 | [202046-six-card-golf.json](./202046-six-card-golf.json) |
 | Six Cats Under | 138471 | [138471-six-cats-under.json](./138471-six-cats-under.json) |
@@ -14866,6 +14869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Patrol | 40793 | [40793-sky-patrol.json](./40793-sky-patrol.json) |
 | Sky Paws Awakening | 420611 | [420611-sky-paws-awakening.json](./420611-sky-paws-awakening.json) |
 | Sky Piper | 238388 | [238388-sky-piper.json](./238388-sky-piper.json) |
+| Sky Pirates | 430560 | [430560-sky-pirates.json](./430560-sky-pirates.json) |
 | Sky Pirates of Actorius | 129101 | [129101-sky-pirates-of-actorius.json](./129101-sky-pirates-of-actorius.json) |
 | Sky Plankers | 28195 | [28195-sky-plankers.json](./28195-sky-plankers.json) |
 | Sky Prison | 368278 | [368278-sky-prison.json](./368278-sky-prison.json) |
@@ -21360,6 +21364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer's Refuge | 409518 | [409518-sorcerers-refuge.json](./409518-sorcerers-refuge.json) |
 | Sorcerer's Servant | 330646 | [330646-sorcerers-servant.json](./330646-sorcerers-servant.json) |
 | Sorcerer's Tournament | 190117 | [190117-sorcerers-tournament.json](./190117-sorcerers-tournament.json) |
+| Sorcerers | 430536 | [430536-sorcerers.json](./430536-sorcerers.json) |
 | Sorcerers of Kinetics | 30824 | [30824-sorcerers-of-kinetics.json](./30824-sorcerers-of-kinetics.json) |
 | Sorcerers Summit | 243502 | [243502-sorcerers-summit.json](./243502-sorcerers-summit.json) |
 | Sorceress | 235363 | [235363-sorceress.json](./235363-sorceress.json) |
@@ -34703,6 +34708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumatra: Fate of Yandi | 110416 | [110416-sumatra-fate-of-yandi.json](./110416-sumatra-fate-of-yandi.json) |
 | Sumatra: Fate of Yandi - Collector's Edition | 170206 | [170206-sumatra-fate-of-yandi-collectors-edition.json](./170206-sumatra-fate-of-yandi-collectors-edition.json) |
 | SUMBR | 201208 | [201208-sumbr.json](./201208-sumbr.json) |
+| Sumbreak | 430489 | [430489-sumbreak.json](./430489-sumbreak.json) |
 | Sumer | 32921 | [32921-sumer.json](./32921-sumer.json) |
 | Sumerian Blood: Gilgamesh against the Gods | 104013 | [104013-sumerian-blood-gilgamesh-against-the-gods.json](./104013-sumerian-blood-gilgamesh-against-the-gods.json) |
 | Sumerian Six | 305175 | [305175-sumerian-six.json](./305175-sumerian-six.json) |
