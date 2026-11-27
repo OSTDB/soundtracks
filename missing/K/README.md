@@ -1837,7 +1837,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeper of the Valley | 234227 | [234227-keeper-of-the-valley.json](./234227-keeper-of-the-valley.json) |
 | Keeper Practise | 291623 | [291623-keeper-practise.json](./291623-keeper-practise.json) |
 | Keeper: The Hunter of Insect | 68619 | [68619-keeper-the-hunter-of-insect.json](./68619-keeper-the-hunter-of-insect.json) |
-| Keeper! | 87376 | [87376-keeper.json](./87376-keeper.json) |
 | Keeper's Curse | 298670 | [298670-keepers-curse.json](./298670-keepers-curse.json) |
 | Keeper's Toll | 216882 | [216882-keepers-toll.json](./216882-keepers-toll.json) |
 | Keeper's Vigil | 405041 | [405041-keepers-vigil.json](./405041-keepers-vigil.json) |
@@ -2716,7 +2715,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Doodle - Movie Kids Color & Draw | 86988 | [86988-kids-doodle-movie-kids-color-and-draw.json](./86988-kids-doodle-movie-kids-color-and-draw.json) |
 | Kids Dreamland Adventures | 101552 | [101552-kids-dreamland-adventures.json](./101552-kids-dreamland-adventures.json) |
 | Kids Fun Favorites | 89698 | [89698-kids-fun-favorites.json](./89698-kids-fun-favorites.json) |
-| Kids Halloween Puzzles and Logic Games | 87109 | [87109-kids-halloween-puzzles-and-logic-games.json](./87109-kids-halloween-puzzles-and-logic-games.json) |
 | Kids Hidden Object | 99198 | [99198-kids-hidden-object.json](./99198-kids-hidden-object.json) |
 | Kids in the Kitchen - Cooking Recipes | 95796 | [95796-kids-in-the-kitchen-cooking-recipes.json](./95796-kids-in-the-kitchen-cooking-recipes.json) |
 | Kids Jigsaw Puzzles: Fun Games for Girls & Boys | 232383 | [232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json](./232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json) |
@@ -4690,7 +4688,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Crisis | 258674 | [258674-kitchen-crisis.json](./258674-kitchen-crisis.json) |
 | Kitchen Delights | 290889 | [290889-kitchen-delights.json](./290889-kitchen-delights.json) |
 | Kitchen Frenzy | 174787 | [174787-kitchen-frenzy.json](./174787-kitchen-frenzy.json) |
-| Kitchen Frenzy - Chef Master | 87357 | [87357-kitchen-frenzy-chef-master.json](./87357-kitchen-frenzy-chef-master.json) |
 | Kitchen Gore | 355042 | [355042-kitchen-gore.json](./355042-kitchen-gore.json) |
 | Kitchen Island VR | 158593 | [158593-kitchen-island-vr.json](./158593-kitchen-island-vr.json) |
 | Kitchen Madness | 258905 | [258905-kitchen-madness.json](./258905-kitchen-madness.json) |
@@ -5032,8 +5029,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike & Girls | 112472 | [112472-klondike-and-girls.json](./112472-klondike-and-girls.json) |
 | Klondike Adventures | 96916 | [96916-klondike-adventures.json](./96916-klondike-adventures.json) |
 | Klondike Classic | 411167 | [411167-klondike-classic.json](./411167-klondike-classic.json) |
-| Klondike Forever | 87121 | [87121-klondike-forever.json](./87121-klondike-forever.json) |
-| Klondike Planet | 87229 | [87229-klondike-planet.json](./87229-klondike-planet.json) |
 | Klondike Re-Imagined | 170940 | [170940-klondike-re-imagined.json](./170940-klondike-re-imagined.json) |
 | Klondike Solitaire | 294669 | [294669-klondike-solitaire.json](./294669-klondike-solitaire.json) |
 | Klondike Solitaire | 73183 | [73183-klondike-solitaire.json](./73183-klondike-solitaire.json) |
