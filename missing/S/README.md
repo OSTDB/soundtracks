@@ -11085,6 +11085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shougakusei ha Maseteiru. | 267203 | [267203-shougakusei-ha-maseteiru.json](./267203-shougakusei-ha-maseteiru.json) |
 | Shougakusei no Uchi ni Oboetai Eitango | 260693 | [260693-shougakusei-no-uchi-ni-oboetai-eitango.json](./260693-shougakusei-no-uchi-ni-oboetai-eitango.json) |
 | Shougi ga Tsuyokunaru: Gekisashi - Jouseki Doujou | 269528 | [269528-shougi-ga-tsuyokunaru-gekisashi-jouseki-doujou.json](./269528-shougi-ga-tsuyokunaru-gekisashi-jouseki-doujou.json) |
+| Shougun-sama ha Otoshigoro | 423732 | [423732-shougun-sama-ha-otoshigoro.json](./423732-shougun-sama-ha-otoshigoro.json) |
 | Shoujo Activity | 194606 | [194606-shoujo-activity.json](./194606-shoujo-activity.json) |
 | Shoujo Attack! | 73988 | [73988-shoujo-attack.json](./73988-shoujo-attack.json) |
 | Shoujo City | 396329 | [396329-shoujo-city.json](./396329-shoujo-city.json) |
@@ -12492,6 +12493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silkroad Origin Mobile | 361403 | [361403-silkroad-origin-mobile.json](./361403-silkroad-origin-mobile.json) |
 | Silkroad Project | 398494 | [398494-silkroad-project.json](./398494-silkroad-project.json) |
 | Silks of Mind | 304502 | [304502-silks-of-mind.json](./304502-silks-of-mind.json) |
+| Silksouls | 422542 | [422542-silksouls.json](./422542-silksouls.json) |
 | Silktrails: Cats in the Grove | 351059 | [351059-silktrails-cats-in-the-grove.json](./351059-silktrails-cats-in-the-grove.json) |
 | Silktrails: Cats in the Grove 2 | 373271 | [373271-silktrails-cats-in-the-grove-2.json](./373271-silktrails-cats-in-the-grove-2.json) |
 | Silky Road | 355565 | [355565-silky-road.json](./355565-silky-road.json) |
@@ -17191,6 +17193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smudge & The Moonees | 367174 | [367174-smudge-and-the-moonees.json](./367174-smudge-and-the-moonees.json) |
 | Smudge Adventure | 282128 | [282128-smudge-adventure.json](./282128-smudge-adventure.json) |
 | Smudge Coin Run | 195541 | [195541-smudge-coin-run.json](./195541-smudge-coin-run.json) |
+| Smudge: Bad Moonee Rising | 418179 | [418179-smudge-bad-moonee-rising.json](./418179-smudge-bad-moonee-rising.json) |
 | Smudged | 184597 | [184597-smudged.json](./184597-smudged.json) |
 | Smug.le | 183875 | [183875-smug-le.json](./183875-smug-le.json) |
 | SmugForce | 229132 | [229132-smugforce.json](./229132-smugforce.json) |
@@ -21975,6 +21978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulkin | 305211 | [305211-soulkin.json](./305211-soulkin.json) |
 | Soulknight Survivor | 253363 | [253363-soulknight-survivor.json](./253363-soulknight-survivor.json) |
 | Soulless | 195790 | [195790-soulless.json](./195790-soulless.json) |
+| Soulless | 424228 | [424228-soulless.json](./424228-soulless.json) |
 | Soulless | 80767 | [80767-soulless.json](./80767-soulless.json) |
 | Soulless Legions | 189800 | [189800-soulless-legions.json](./189800-soulless-legions.json) |
 | Soulless Steel | 268958 | [268958-soulless-steel.json](./268958-soulless-steel.json) |
@@ -33665,6 +33669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stygian Flowers | 209733 | [209733-stygian-flowers.json](./209733-stygian-flowers.json) |
 | Stygian: Outer Gods | 295657 | [295657-stygian-outer-gods.json](./295657-stygian-outer-gods.json) |
 | Stygian: Reign of the Old Ones | 21998 | [21998-stygian-reign-of-the-old-ones.json](./21998-stygian-reign-of-the-old-ones.json) |
+| Stygiomedusa: An Eldritch Horror Dating Sim | 419075 | [419075-stygiomedusa-an-eldritch-horror-dating-sim.json](./419075-stygiomedusa-an-eldritch-horror-dating-sim.json) |
 | Style Book: Cinnamoroll | 123453 | [123453-style-book-cinnamoroll.json](./123453-style-book-cinnamoroll.json) |
 | Style Book: Junior City | 123452 | [123452-style-book-junior-city.json](./123452-style-book-junior-city.json) |
 | Style Lab Makeover | 47980 | [47980-style-lab-makeover.json](./47980-style-lab-makeover.json) |
@@ -34373,6 +34378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku: Unlimited Expansion | 405622 | [405622-sudoku-unlimited-expansion.json](./405622-sudoku-unlimited-expansion.json) |
 | Sudoku: We All Play | 92341 | [92341-sudoku-we-all-play.json](./92341-sudoku-we-all-play.json) |
 | Sudoku! For Watch | 368475 | [368475-sudoku-for-watch.json](./368475-sudoku-for-watch.json) |
+| Sudoku.coach | 421265 | [421265-sudoku-coach.json](./421265-sudoku-coach.json) |
 | Sudoku.com | 326900 | [326900-sudoku-com.json](./326900-sudoku-com.json) |
 | Sudoku3D | 113193 | [113193-sudoku3d.json](./113193-sudoku3d.json) |
 | Sudoku3D 2: The Cube | 115355 | [115355-sudoku3d-2-the-cube.json](./115355-sudoku3d-2-the-cube.json) |
@@ -36320,6 +36326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Godzilla | 38418 | [38418-super-godzilla.json](./38418-super-godzilla.json) |
 | Super Golden Odyssey: 3d Platformer World | 348114 | [348114-super-golden-odyssey-3d-platformer-world.json](./348114-super-golden-odyssey-3d-platformer-world.json) |
 | Super Golden Sibs. | 335753 | [335753-super-golden-sibs.json](./335753-super-golden-sibs.json) |
+| Super Golden Sigma 2 | 417932 | [417932-super-golden-sigma-2.json](./417932-super-golden-sigma-2.json) |
 | Super Goldfish Scooping | 410835 | [410835-super-goldfish-scooping.json](./410835-super-goldfish-scooping.json) |
 | Super Golf | 109212 | [109212-super-golf.json](./109212-super-golf.json) |
 | Super Golf | 46333 | [46333-super-golf.json](./46333-super-golf.json) |
@@ -38448,6 +38455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Fall Guy Moveset | 395031 | [395031-super-smash-bros-ultimate-fall-guy-moveset.json](./395031-super-smash-bros-ultimate-fall-guy-moveset.json) |
 | Super Smash Bros. Ultimate: Felyne Hat | 419223 | [419223-super-smash-bros-ultimate-felyne-hat.json](./419223-super-smash-bros-ultimate-felyne-hat.json) |
 | Super Smash Bros. Ultimate: Fighters Pass Bonus Mii Fighter Costume (Ancient Soldier) | 317688 | [317688-super-smash-bros-ultimate-fighters-pass-bonus-mii-fighter-costume-ancient-soldier.json](./317688-super-smash-bros-ultimate-fighters-pass-bonus-mii-fighter-costume-ancient-soldier.json) |
+| Super Smash Bros. Ultimate: Fighters Pass Bonus Mii Fighter Costume (Rex) | 418532 | [418532-super-smash-bros-ultimate-fighters-pass-bonus-mii-fighter-costume-rex.json](./418532-super-smash-bros-ultimate-fighters-pass-bonus-mii-fighter-costume-rex.json) |
 | Super Smash Bros. Ultimate: Fighters Pass Vol. 2 | 133834 | [133834-super-smash-bros-ultimate-fighters-pass-vol-2.json](./133834-super-smash-bros-ultimate-fighters-pass-vol-2.json) |
 | Super Smash Bros. Ultimate: Funky Kong Moveset | 374863 | [374863-super-smash-bros-ultimate-funky-kong-moveset.json](./374863-super-smash-bros-ultimate-funky-kong-moveset.json) |
 | Super Smash Bros. Ultimate: Geno Hat + Outfit | 325078 | [325078-super-smash-bros-ultimate-geno-hat-outfit.json](./325078-super-smash-bros-ultimate-geno-hat-outfit.json) |
@@ -39853,6 +39861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival After War | 319773 | [319773-survival-after-war.json](./319773-survival-after-war.json) |
 | Survival and Rise: Being Alive | 335202 | [335202-survival-and-rise-being-alive.json](./335202-survival-and-rise-being-alive.json) |
 | Survival Arena | 76568 | [76568-survival-arena.json](./76568-survival-arena.json) |
+| Survival Ark | 420861 | [420861-survival-ark.json](./420861-survival-ark.json) |
 | Survival Arts | 39586 | [39586-survival-arts.json](./39586-survival-arts.json) |
 | Survival Ascension | 132752 | [132752-survival-ascension.json](./132752-survival-ascension.json) |
 | Survival at Gunpoint | 212505 | [212505-survival-at-gunpoint.json](./212505-survival-at-gunpoint.json) |
@@ -41716,6 +41725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvie Lime | 230501 | [230501-sylvie-lime.json](./230501-sylvie-lime.json) |
 | Sylvie Miniature | 306002 | [306002-sylvie-miniature.json](./306002-sylvie-miniature.json) |
 | Sylvie RPG: 7 Elf Apocalypse | 292830 | [292830-sylvie-rpg-7-elf-apocalypse.json](./292830-sylvie-rpg-7-elf-apocalypse.json) |
+| Sylvie Wasn't Feeling Well Today so She Went on an Adventure to Meet Different Kittens. | 422758 | [422758-sylvie-wasnt-feeling-well-today-so-she-went-on-an-adventure-to-meet-different-kittens.json](./422758-sylvie-wasnt-feeling-well-today-so-she-went-on-an-adventure-to-meet-different-kittens.json) |
 | Sylvie's Fruit Day | 401330 | [401330-sylvies-fruit-day.json](./401330-sylvies-fruit-day.json) |
 | Sylvio | 26779 | [26779-sylvio.json](./26779-sylvio.json) |
 | Sylvio 2 | 28216 | [28216-sylvio-2.json](./28216-sylvio-2.json) |
