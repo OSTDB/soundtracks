@@ -3767,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emote Farming Simulator | 173082 | [173082-emote-farming-simulator.json](./173082-emote-farming-simulator.json) |
 | Emote Guesser | 252732 | [252732-emote-guesser.json](./252732-emote-guesser.json) |
 | Emote Search | 217706 | [217706-emote-search.json](./217706-emote-search.json) |
+| Emote Slots Deluxe | 431519 | [431519-emote-slots-deluxe.json](./431519-emote-slots-deluxe.json) |
 | EmoteGuesser | 232687 | [232687-emoteguesser.json](./232687-emoteguesser.json) |
 | Emoticon Defense | 409873 | [409873-emoticon-defense.json](./409873-emoticon-defense.json) |
 | Emoticon Swirl | 209205 | [209205-emoticon-swirl.json](./209205-emoticon-swirl.json) |
