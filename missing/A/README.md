@@ -5124,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AEW: Fight Forever - Elite Edition | 251670 | [251670-aew-fight-forever-elite-edition.json](./251670-aew-fight-forever-elite-edition.json) |
 | AEW: Fight Forever - Ultimate Edition | 300905 | [300905-aew-fight-forever-ultimate-edition.json](./300905-aew-fight-forever-ultimate-edition.json) |
 | AEW: Rise to the Top | 283001 | [283001-aew-rise-to-the-top.json](./283001-aew-rise-to-the-top.json) |
+| AEX: AFK Exos Heroes | 431643 | [431643-aex-afk-exos-heroes.json](./431643-aex-afk-exos-heroes.json) |
 | Aexia | 258924 | [258924-aexia.json](./258924-aexia.json) |
 | Aexxos | 373488 | [373488-aexxos.json](./373488-aexxos.json) |
 | AF-Zero | 75325 | [75325-af-zero.json](./75325-af-zero.json) |
@@ -11213,6 +11214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andarilho: Zombies | 170686 | [170686-andarilho-zombies.json](./170686-andarilho-zombies.json) |
 | Andarin Weppes | 257888 | [257888-andarin-weppes.json](./257888-andarin-weppes.json) |
 | Andarin Weppes: Pre-Dementia | 289811 | [289811-andarin-weppes-pre-dementia.json](./289811-andarin-weppes-pre-dementia.json) |
+| Andarium | 431517 | [431517-andarium.json](./431517-andarium.json) |
 | Andaron Saga | 267530 | [267530-andaron-saga.json](./267530-andaron-saga.json) |
 | Andaron Saga: Randomizer | 315436 | [315436-andaron-saga-randomizer.json](./315436-andaron-saga-randomizer.json) |
 | AnderKant | 367493 | [367493-anderkant.json](./367493-anderkant.json) |
@@ -13278,6 +13280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antique Carnevale | 44083 | [44083-antique-carnevale.json](./44083-antique-carnevale.json) |
 | Antique Checkers | 398272 | [398272-antique-checkers.json](./398272-antique-checkers.json) |
 | Antique Dealer Simulator | 382832 | [382832-antique-dealer-simulator.json](./382832-antique-dealer-simulator.json) |
+| Antique Restore | 431427 | [431427-antique-restore.json](./431427-antique-restore.json) |
 | Antique Restorer | 236801 | [236801-antique-restorer.json](./236801-antique-restorer.json) |
 | Antique Road Trip 2: Homecoming | 65725 | [65725-antique-road-trip-2-homecoming.json](./65725-antique-road-trip-2-homecoming.json) |
 | Antique Road Trip USA | 92561 | [92561-antique-road-trip-usa.json](./92561-antique-road-trip-usa.json) |
@@ -19946,6 +19949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Heart: Trapped in Limbo | 285596 | [285596-atomic-heart-trapped-in-limbo.json](./285596-atomic-heart-trapped-in-limbo.json) |
 | Atomic Heart: Ultimate Edition | 396565 | [396565-atomic-heart-ultimate-edition.json](./396565-atomic-heart-ultimate-edition.json) |
 | Atomic Heist | 90091 | [90091-atomic-heist.json](./90091-atomic-heist.json) |
+| Atomic Island | 431431 | [431431-atomic-island.json](./431431-atomic-island.json) |
 | Atomic Lance | 379398 | [379398-atomic-lance.json](./379398-atomic-lance.json) |
 | Atomic Ninjas | 8649 | [8649-atomic-ninjas.json](./8649-atomic-ninjas.json) |
 | Atomic Order | 214954 | [214954-atomic-order.json](./214954-atomic-order.json) |
