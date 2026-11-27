@@ -2849,6 +2849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears Tactics | 103291 | [103291-gears-tactics.json](./103291-gears-tactics.json) |
 | Gears Triple Bundle | 161180 | [161180-gears-triple-bundle.json](./161180-gears-triple-bundle.json) |
 | Gears Unchained: The Rise of Revolution | 309380 | [309380-gears-unchained-the-rise-of-revolution.json](./309380-gears-unchained-the-rise-of-revolution.json) |
+| GEARS: Gearing Up for Education, Achieving Real-World Success | 431614 | [431614-gears-gearing-up-for-education-achieving-real-world-success.json](./431614-gears-gearing-up-for-education-achieving-real-world-success.json) |
 | Gearshifters | 157821 | [157821-gearshifters.json](./157821-gearshifters.json) |
 | Gearshifters: Collector's Edition | 159021 | [159021-gearshifters-collectors-edition.json](./159021-gearshifters-collectors-edition.json) |
 | Gearspark | 385450 | [385450-gearspark.json](./385450-gearspark.json) |
