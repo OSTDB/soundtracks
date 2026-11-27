@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valley | 18859 | [18859-valley.json](./18859-valley.json) |
 | Valley | 377295 | [377295-valley.json](./377295-valley.json) |
 | Valley Dash | 194649 | [194649-valley-dash.json](./194649-valley-dash.json) |
+| Valley Hunters | 431620 | [431620-valley-hunters.json](./431620-valley-hunters.json) |
 | Valley Knights | 178258 | [178258-valley-knights.json](./178258-valley-knights.json) |
 | Valley of Decay | 119677 | [119677-valley-of-decay.json](./119677-valley-of-decay.json) |
 | Valley of Dragons | 190430 | [190430-valley-of-dragons.json](./190430-valley-of-dragons.json) |
@@ -3941,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidbloom | 410248 | [410248-voidbloom.json](./410248-voidbloom.json) |
 | Voidborn | 211924 | [211924-voidborn.json](./211924-voidborn.json) |
 | Voidcall | 287608 | [287608-voidcall.json](./287608-voidcall.json) |
+| Voidcast | 431144 | [431144-voidcast.json](./431144-voidcast.json) |
 | VoidCraft Island Chronicles: Sky Survival | 322401 | [322401-voidcraft-island-chronicles-sky-survival.json](./322401-voidcraft-island-chronicles-sky-survival.json) |
 | Voidcrisis | 210889 | [210889-voidcrisis.json](./210889-voidcrisis.json) |
 | Voidcutter Fuzor | 347746 | [347746-voidcutter-fuzor.json](./347746-voidcutter-fuzor.json) |
