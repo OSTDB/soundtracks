@@ -3590,11 +3590,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding | 170911 | [170911-wedding.json](./170911-wedding.json) |
 | Wedding Dash | 77878 | [77878-wedding-dash.json](./77878-wedding-dash.json) |
 | Wedding Dash 2: Rings Around the World | 16074 | [16074-wedding-dash-2-rings-around-the-world.json](./16074-wedding-dash-2-rings-around-the-world.json) |
-| Wedding Dash 4-Ever | 87327 | [87327-wedding-dash-4-ever.json](./87327-wedding-dash-4-ever.json) |
 | Wedding Dash Deluxe | 86833 | [86833-wedding-dash-deluxe.json](./86833-wedding-dash-deluxe.json) |
 | Wedding Dash: Ready, Aim, Love! | 142001 | [142001-wedding-dash-ready-aim-love.json](./142001-wedding-dash-ready-aim-love.json) |
 | Wedding Day | 311441 | [311441-wedding-day.json](./311441-wedding-day.json) |
-| Wedding Day Makeover | 87476 | [87476-wedding-day-makeover.json](./87476-wedding-day-makeover.json) |
 | Wedding Designer | 121340 | [121340-wedding-designer.json](./121340-wedding-designer.json) |
 | Wedding Girl Makeover | 96072 | [96072-wedding-girl-makeover.json](./96072-wedding-girl-makeover.json) |
 | Wedding Peach | 296178 | [296178-wedding-peach.json](./296178-wedding-peach.json) |
@@ -5101,7 +5099,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Which hand? | 379866 | [379866-which-hand.json](./379866-which-hand.json) |
 | Which Is It? | 409307 | [409307-which-is-it.json](./409307-which-is-it.json) |
 | Which Kanji? So Fancy! | 308486 | [308486-which-kanji-so-fancy.json](./308486-which-kanji-so-fancy.json) |
-| Which Movie? - Film Trivia Word Quiz Game | 87307 | [87307-which-movie-film-trivia-word-quiz-game.json](./87307-which-movie-film-trivia-word-quiz-game.json) |
 | Which Naruto Character Are You? | 230540 | [230540-which-naruto-character-are-you.json](./230540-which-naruto-character-are-you.json) |
 | Which Place in the World? Sightseeing Word Quiz | 100314 | [100314-which-place-in-the-world-sightseeing-word-quiz.json](./100314-which-place-in-the-world-sightseeing-word-quiz.json) |
 | Which Sausage, Mate? | 397597 | [397597-which-sausage-mate.json](./397597-which-sausage-mate.json) |
@@ -8757,7 +8754,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Connect | 57583 | [57583-word-connect.json](./57583-word-connect.json) |
 | Word Connect | 88761 | [88761-word-connect.json](./88761-word-connect.json) |
 | Word Connect 2 | 105965 | [105965-word-connect-2.json](./105965-word-connect-2.json) |
-| Word Connect Fun! | 87429 | [87429-word-connect-fun.json](./87429-word-connect-fun.json) |
 | Word Connect HD | 96069 | [96069-word-connect-hd.json](./96069-word-connect-hd.json) |
 | Word Cookies! | 88779 | [88779-word-cookies.json](./88779-word-cookies.json) |
 | Word Crack | 137408 | [137408-word-crack.json](./137408-word-crack.json) |
@@ -8783,7 +8779,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Feud | 131583 | [131583-word-feud.json](./131583-word-feud.json) |
 | Word Finder - Word Connect | 96742 | [96742-word-finder-word-connect.json](./96742-word-finder-word-connect.json) |
 | Word Fire | 104310 | [104310-word-fire.json](./104310-word-fire.json) |
-| Word Flowers | 87481 | [87481-word-flowers.json](./87481-word-flowers.json) |
 | Word Flyer | 367714 | [367714-word-flyer.json](./367714-word-flyer.json) |
 | Word Forward | 58298 | [58298-word-forward.json](./58298-word-forward.json) |
 | Word Game | 161224 | [161224-word-game.json](./161224-word-game.json) |
@@ -8897,7 +8892,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Game: Made with Love | 27968 | [27968-word-search-game-made-with-love.json](./27968-word-search-game-made-with-love.json) |
 | Word Search Joy | 88270 | [88270-word-search-joy.json](./88270-word-search-joy.json) |
 | Word Search Mania | 92918 | [92918-word-search-mania.json](./92918-word-search-mania.json) |
-| Word Search Pro | 87371 | [87371-word-search-pro.json](./87371-word-search-pro.json) |
 | Word Search Puzzle | 102213 | [102213-word-search-puzzle.json](./102213-word-search-puzzle.json) |
 | Word Search Puzzle: Find the Words! | 262323 | [262323-word-search-puzzle-find-the-words.json](./262323-word-search-puzzle-find-the-words.json) |
 | Word Search Puzzle: Word Balls | 233054 | [233054-word-search-puzzle-word-balls.json](./233054-word-search-puzzle-word-balls.json) |
@@ -9994,7 +9988,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Battleship: The Hunting in Deep Sea | 212473 | [212473-world-war-battleship-the-hunting-in-deep-sea.json](./212473-world-war-battleship-the-hunting-in-deep-sea.json) |
 | World War Doh | 110291 | [110291-world-war-doh.json](./110291-world-war-doh.json) |
 | World War Heroes | 82962 | [82962-world-war-heroes.json](./82962-world-war-heroes.json) |
-| World War Heroes | 87177 | [87177-world-war-heroes.json](./87177-world-war-heroes.json) |
 | World War Heroes: WW2 FPS Shooter! | 96747 | [96747-world-war-heroes-ww2-fps-shooter.json](./96747-world-war-heroes-ww2-fps-shooter.json) |
 | World War I | 35439 | [35439-world-war-i.json](./35439-world-war-i.json) |
 | World War I: The Great War | 23745 | [23745-world-war-i-the-great-war.json](./23745-world-war-i-the-great-war.json) |
