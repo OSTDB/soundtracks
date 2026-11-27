@@ -508,7 +508,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lacrosse 15 | 52529 | [52529-lacrosse-15.json](./52529-lacrosse-15.json) |
 | Lacrosse 26 | 399383 | [399383-lacrosse-26.json](./399383-lacrosse-26.json) |
 | Lacrosse Arcade | 61040 | [61040-lacrosse-arcade.json](./61040-lacrosse-arcade.json) |
-| Lacrosse Arcade 2014 | 87204 | [87204-lacrosse-arcade-2014.json](./87204-lacrosse-arcade-2014.json) |
 | Lacrosse Dodge | 61038 | [61038-lacrosse-dodge.json](./61038-lacrosse-dodge.json) |
 | Lacrosse Shot | 61041 | [61041-lacrosse-shot.json](./61041-lacrosse-shot.json) |
 | Lacrymo Tennis 2016 | 135065 | [135065-lacrymo-tennis-2016.json](./135065-lacrymo-tennis-2016.json) |
@@ -4116,7 +4115,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lep's World | 59915 | [59915-leps-world.json](./59915-leps-world.json) |
 | Lep's World - Jumping Game | 91226 | [91226-leps-world-jumping-game.json](./91226-leps-world-jumping-game.json) |
 | Lep's World 2 | 88293 | [88293-leps-world-2.json](./88293-leps-world-2.json) |
-| Lep's World 2 Plus | 87460 | [87460-leps-world-2-plus.json](./87460-leps-world-2-plus.json) |
 | Lep's World 3 | 331939 | [331939-leps-world-3.json](./331939-leps-world-3.json) |
 | Lep's World Plus | 88271 | [88271-leps-world-plus.json](./88271-leps-world-plus.json) |
 | Lep's World Plus - super best platformer games | 90375 | [90375-leps-world-plus-super-best-platformer-games.json](./90375-leps-world-plus-super-best-platformer-games.json) |
@@ -4745,7 +4743,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letterorites | 58460 | [58460-letterorites.json](./58460-letterorites.json) |
 | Letterpad | 60076 | [60076-letterpad.json](./60076-letterpad.json) |
 | Letterpillar | 230434 | [230434-letterpillar.json](./230434-letterpillar.json) |
-| Letterpress: Word Game | 87168 | [87168-letterpress-word-game.json](./87168-letterpress-word-game.json) |
 | Letters | 314307 | [314307-letters.json](./314307-letters.json) |
 | Letters | 57502 | [57502-letters.json](./57502-letters.json) |
 | Letters & Legends | 292319 | [292319-letters-and-legends.json](./292319-letters-and-legends.json) |
@@ -5332,7 +5329,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Tar | 41044 | [41044-life-of-tar.json](./41044-life-of-tar.json) |
 | Life of Thife | 277125 | [277125-life-of-thife.json](./277125-life-of-thife.json) |
 | Life of Trophy | 172305 | [172305-life-of-trophy.json](./172305-life-of-trophy.json) |
-| Life of Wolf 2014 | 87444 | [87444-life-of-wolf-2014.json](./87444-life-of-wolf-2014.json) |
 | Life on a Pizza | 164880 | [164880-life-on-a-pizza.json](./164880-life-on-a-pizza.json) |
 | Life on Earth: Reimagined | 277552 | [277552-life-on-earth-reimagined.json](./277552-life-on-earth-reimagined.json) |
 | Life on Mars Remake | 55443 | [55443-life-on-mars-remake.json](./55443-life-on-mars-remake.json) |
@@ -7881,6 +7877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked | 280011 | [280011-locked.json](./280011-locked.json) |
 | Locked & Loaded | 121591 | [121591-locked-and-loaded.json](./121591-locked-and-loaded.json) |
 | Locked Arcadia | 261824 | [261824-locked-arcadia.json](./261824-locked-arcadia.json) |
+| Locked at Freddy's | 387568 | [387568-locked-at-freddys.json](./387568-locked-at-freddys.json) |
 | Locked Bunker | 185334 | [185334-locked-bunker.json](./185334-locked-bunker.json) |
 | Locked Fears | 30696 | [30696-locked-fears.json](./30696-locked-fears.json) |
 | Locked Heart | 183441 | [183441-locked-heart.json](./183441-locked-heart.json) |
@@ -11593,6 +11590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luntik Knows the World | 268371 | [268371-luntik-knows-the-world.json](./268371-luntik-knows-the-world.json) |
 | Luntik Learns Letters | 268373 | [268373-luntik-learns-letters.json](./268373-luntik-learns-letters.json) |
 | Luntik Learns Numbers | 268369 | [268369-luntik-learns-numbers.json](./268369-luntik-learns-numbers.json) |
+| Luntik X Fan Made 2 | 408130 | [408130-luntik-x-fan-made-2.json](./408130-luntik-x-fan-made-2.json) |
 | Luntik: Matematika dlya malishey | 337901 | [337901-luntik-matematika-dlya-malishey.json](./337901-luntik-matematika-dlya-malishey.json) |
 | Lunyatic Invaders | 409117 | [409117-lunyatic-invaders.json](./409117-lunyatic-invaders.json) |
 | Luobu | 271067 | [271067-luobu.json](./271067-luobu.json) |
