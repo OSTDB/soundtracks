@@ -4575,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Throoow! Street Basketball Simulator | 300869 | [300869-lets-throoow-street-basketball-simulator.json](./300869-lets-throoow-street-basketball-simulator.json) |
 | Let's Tidy Up!: Konbini | 412002 | [412002-lets-tidy-up-konbini.json](./412002-lets-tidy-up-konbini.json) |
 | Let's Tidy Up!: Treasure | 413295 | [413295-lets-tidy-up-treasure.json](./413295-lets-tidy-up-treasure.json) |
+| Let's Travel: Welcome to Hawaii | 431574 | [431574-lets-travel-welcome-to-hawaii.json](./431574-lets-travel-welcome-to-hawaii.json) |
 | Let's Watch Steamboat Willie | 319001 | [319001-lets-watch-steamboat-willie.json](./319001-lets-watch-steamboat-willie.json) |
 | Let's Worm | 115686 | [115686-lets-worm.json](./115686-lets-worm.json) |
 | Let's zig zag | 81655 | [81655-lets-zig-zag.json](./81655-lets-zig-zag.json) |
@@ -6894,6 +6895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Elementals | 429999 | [429999-little-elementals.json](./429999-little-elementals.json) |
 | Little elf | 110607 | [110607-little-elf.json](./110607-little-elf.json) |
 | Little Elf Tanks | 244563 | [244563-little-elf-tanks.json](./244563-little-elf-tanks.json) |
+| Little Elf Tower Defense | 431151 | [431151-little-elf-tower-defense.json](./431151-little-elf-tower-defense.json) |
 | Little Eternal Chronicle | 236485 | [236485-little-eternal-chronicle.json](./236485-little-eternal-chronicle.json) |
 | Little Fairy Dress Up | 332496 | [332496-little-fairy-dress-up.json](./332496-little-fairy-dress-up.json) |
 | Little Farm | 10568 | [10568-little-farm.json](./10568-little-farm.json) |
@@ -9135,6 +9137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Los Angeles Police Department | 418816 | [418816-los-angeles-police-department.json](./418816-los-angeles-police-department.json) |
 | Los Angeles SWAT | 13012 | [13012-los-angeles-swat.json](./13012-los-angeles-swat.json) |
 | Los Cops | 154152 | [154152-los-cops.json](./154152-los-cops.json) |
+| Los Cuentos de Frox | 431179 | [431179-los-cuentos-de-frox.json](./431179-los-cuentos-de-frox.json) |
 | Los Disneys 2.0 | 414433 | [414433-los-disneys-2-0.json](./414433-los-disneys-2-0.json) |
 | Los Inhumanos | 70137 | [70137-los-inhumanos.json](./70137-los-inhumanos.json) |
 | Los Justicieros (Zorton Brothers) | 119398 | [119398-los-justicieros-zorton-brothers.json](./119398-los-justicieros-zorton-brothers.json) |
