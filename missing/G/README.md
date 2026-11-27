@@ -4652,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostpia Season One | 135418 | [135418-ghostpia-season-one.json](./135418-ghostpia-season-one.json) |
 | Ghostpia Season Two | 401592 | [401592-ghostpia-season-two.json](./401592-ghostpia-season-two.json) |
 | Ghostprint | 381658 | [381658-ghostprint.json](./381658-ghostprint.json) |
+| Ghostpunch | 430477 | [430477-ghostpunch.json](./430477-ghostpunch.json) |
 | Ghostpunk | 407757 | [407757-ghostpunk.json](./407757-ghostpunk.json) |
 | GhosTrick-The Sacred War of Light vs. Shadow | 374075 | [374075-ghostrick-the-sacred-war-of-light-vs-shadow.json](./374075-ghostrick-the-sacred-war-of-light-vs-shadow.json) |
 | GhostRing | 180517 | [180517-ghostring.json](./180517-ghostring.json) |
@@ -6042,6 +6043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glove on Fight | 56983 | [56983-glove-on-fight.json](./56983-glove-on-fight.json) |
 | Glove On Fight 2: Gleam of Force | 56984 | [56984-glove-on-fight-2-gleam-of-force.json](./56984-glove-on-fight-2-gleam-of-force.json) |
 | Glove Pilot | 380537 | [380537-glove-pilot.json](./380537-glove-pilot.json) |
+| Glovebound | 430440 | [430440-glovebound.json](./430440-glovebound.json) |
 | Glover | 193728 | [193728-glover.json](./193728-glover.json) |
 | Glover | 193729 | [193729-glover.json](./193729-glover.json) |
 | Glover | 3348 | [3348-glover.json](./3348-glover.json) |
@@ -12833,6 +12835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunman Clive 2 | 8605 | [8605-gunman-clive-2.json](./8605-gunman-clive-2.json) |
 | Gunman Clive Game Boy Edition | 194831 | [194831-gunman-clive-game-boy-edition.json](./194831-gunman-clive-game-boy-edition.json) |
 | Gunman Clive HD Collection | 60063 | [60063-gunman-clive-hd-collection.json](./60063-gunman-clive-hd-collection.json) |
+| Gunman Contracts: Chapter 1 - The Extraction | 430474 | [430474-gunman-contracts-chapter-1-the-extraction.json](./430474-gunman-contracts-chapter-1-the-extraction.json) |
 | Gunman Contracts: Chapter 2 - Art of War | 431613 | [431613-gunman-contracts-chapter-2-art-of-war.json](./431613-gunman-contracts-chapter-2-art-of-war.json) |
 | Gunman Contracts: Stand Alone | 269009 | [269009-gunman-contracts-stand-alone.json](./269009-gunman-contracts-stand-alone.json) |
 | Gunman Drift | 369525 | [369525-gunman-drift.json](./369525-gunman-drift.json) |
