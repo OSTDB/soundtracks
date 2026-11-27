@@ -2162,7 +2162,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mah Jong Quest | 131399 | [131399-mah-jong-quest.json](./131399-mah-jong-quest.json) |
 | Mah Jong Quest II | 10533 | [10533-mah-jong-quest-ii.json](./10533-mah-jong-quest-ii.json) |
 | Mah Jong Quest III | 10534 | [10534-mah-jong-quest-iii.json](./10534-mah-jong-quest-iii.json) |
-| Mah Jong Solitaire 2 | 86699 | [86699-mah-jong-solitaire-2.json](./86699-mah-jong-solitaire-2.json) |
 | Mah Jongg | 295976 | [295976-mah-jongg.json](./295976-mah-jongg.json) |
 | Mah Jongg Solitaire | 85816 | [85816-mah-jongg-solitaire.json](./85816-mah-jongg-solitaire.json) |
 | Mah Jongg: V-G-A | 261204 | [261204-mah-jongg-v-g-a.json](./261204-mah-jongg-v-g-a.json) |
@@ -2308,7 +2307,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Match Puzzle | 99420 | [99420-mahjong-match-puzzle.json](./99420-mahjong-match-puzzle.json) |
 | Mahjong Memoirs | 210164 | [210164-mahjong-memoirs.json](./210164-mahjong-memoirs.json) |
 | Mahjong Minimal | 213249 | [213249-mahjong-minimal.json](./213249-mahjong-minimal.json) |
-| Mahjong Mojo 3D | 87070 | [87070-mahjong-mojo-3d.json](./87070-mahjong-mojo-3d.json) |
 | Mahjong Musou: Former Army | 302817 | [302817-mahjong-musou-former-army.json](./302817-mahjong-musou-former-army.json) |
 | Mahjong Mysteries of the Past | 25289 | [25289-mahjong-mysteries-of-the-past.json](./25289-mahjong-mysteries-of-the-past.json) |
 | Mahjong Mysteries: Ancient Athena | 85267 | [85267-mahjong-mysteries-ancient-athena.json](./85267-mahjong-mysteries-ancient-athena.json) |
@@ -4016,7 +4014,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Maid | 192349 | [192349-marble-maid.json](./192349-marble-maid.json) |
 | Marble Maid 2: The Negative Levels | 297139 | [297139-marble-maid-2-the-negative-levels.json](./297139-marble-maid-2-the-negative-levels.json) |
 | Marble Man: Marble Madness II | 125477 | [125477-marble-man-marble-madness-ii.json](./125477-marble-man-marble-madness-ii.json) |
-| Marble Mania Ball Maze | 87069 | [87069-marble-mania-ball-maze.json](./87069-marble-mania-ball-maze.json) |
 | Marble Marcher | 125889 | [125889-marble-marcher.json](./125889-marble-marcher.json) |
 | Marble Marcher: Community Edition | 184417 | [184417-marble-marcher-community-edition.json](./184417-marble-marcher-community-edition.json) |
 | Marble Mash | 337104 | [337104-marble-mash.json](./337104-marble-mash.json) |
@@ -5189,7 +5186,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshall Palabritas | 425257 | [425257-marshall-palabritas.json](./425257-marshall-palabritas.json) |
 | Marshals of War: Orcblood | 408044 | [408044-marshals-of-war-orcblood.json](./408044-marshals-of-war-orcblood.json) |
 | Marshawn Lynch Blocky Football | 267328 | [267328-marshawn-lynch-blocky-football.json](./267328-marshawn-lynch-blocky-football.json) |
-| Marshawn Lynch Pro Football | 86858 | [86858-marshawn-lynch-pro-football.json](./86858-marshawn-lynch-pro-football.json) |
 | Marshie's Malloween Mix-Up | 203155 | [203155-marshies-malloween-mix-up.json](./203155-marshies-malloween-mix-up.json) |
 | Marshin | 121770 | [121770-marshin.json](./121770-marshin.json) |
 | Marshland Hollow | 412242 | [412242-marshland-hollow.json](./412242-marshland-hollow.json) |
@@ -6349,7 +6345,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Village | 217372 | [217372-match-village.json](./217372-match-village.json) |
 | Match Villains | 330634 | [330634-match-villains.json](./330634-match-villains.json) |
 | Match War | 258710 | [258710-match-war.json](./258710-match-war.json) |
-| Match-3: Matchington Mansion | 86782 | [86782-match-3-matchington-mansion.json](./86782-match-3-matchington-mansion.json) |
 | Match-o-3000 | 336722 | [336722-match-o-3000.json](./336722-match-o-3000.json) |
 | Match-Off | 182854 | [182854-match-off.json](./182854-match-off.json) |
 | Match-Up Mario | 231657 | [231657-match-up-mario.json](./231657-match-up-mario.json) |
@@ -7485,7 +7480,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McPixel | 7553 | [7553-mcpixel.json](./7553-mcpixel.json) |
 | McPixel 3 | 191576 | [191576-mcpixel-3.json](./191576-mcpixel-3.json) |
 | McPixel 3: McPixel Visits Grandma | 260722 | [260722-mcpixel-3-mcpixel-visits-grandma.json](./260722-mcpixel-3-mcpixel-visits-grandma.json) |
-| McPlay | 86984 | [86984-mcplay.json](./86984-mcplay.json) |
 | McRogue | 77162 | [77162-mcrogue.json](./77162-mcrogue.json) |
 | McSpace Colosseum | 150399 | [150399-mcspace-colosseum.json](./150399-mcspace-colosseum.json) |
 | MCSR Ranked | 386756 | [386756-mcsr-ranked.json](./386756-mcsr-ranked.json) |
@@ -14246,9 +14240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mineblast | 272731 | [272731-mineblast.json](./272731-mineblast.json) |
 | Minebot Arena | 74050 | [74050-minebot-arena.json](./74050-minebot-arena.json) |
 | Minebot expedition | 195442 | [195442-minebot-expedition.json](./195442-minebot-expedition.json) |
-| Minebuilder | 86893 | [86893-minebuilder.json](./86893-minebuilder.json) |
 | MineCards | 431479 | [431479-minecards.json](./431479-minecards.json) |
-| MineCart - 3D Mine Cart Game for MineCraft | 86692 | [86692-minecart-3d-mine-cart-game-for-minecraft.json](./86692-minecart-3d-mine-cart-game-for-minecraft.json) |
 | Minecart Chase | 243094 | [243094-minecart-chase.json](./243094-minecart-chase.json) |
 | Minecart Madness | 188687 | [188687-minecart-madness.json](./188687-minecart-madness.json) |
 | MineChat Mobile | 90794 | [90794-minechat-mobile.json](./90794-minechat-mobile.json) |
@@ -15995,7 +15987,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing in Rome | 209214 | [209214-missing-in-rome.json](./209214-missing-in-rome.json) |
 | Missing Information | 169325 | [169325-missing-information.json](./169325-missing-information.json) |
 | Missing Kitty | 258724 | [258724-missing-kitty.json](./258724-missing-kitty.json) |
-| Missing Letters | 87074 | [87074-missing-letters.json](./87074-missing-letters.json) |
 | Missing Love | 163199 | [163199-missing-love.json](./163199-missing-love.json) |
 | Missing Memories | 177460 | [177460-missing-memories.json](./177460-missing-memories.json) |
 | Missing Memories | 257088 | [257088-missing-memories.json](./257088-missing-memories.json) |
@@ -16621,7 +16612,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMORPG Tycoon 2 | 125701 | [125701-mmorpg-tycoon-2.json](./125701-mmorpg-tycoon-2.json) |
 | MMOS: MMO Simulator | 423904 | [423904-mmos-mmo-simulator.json](./423904-mmos-mmo-simulator.json) |
 | MMX | 384056 | [384056-mmx.json](./384056-mmx.json) |
-| MMX Hill Dash | 86927 | [86927-mmx-hill-dash.json](./86927-mmx-hill-dash.json) |
 | MMX Racing | 224004 | [224004-mmx-racing.json](./224004-mmx-racing.json) |
 | MMX: Otherworld Mystery - Expanded Edition | 123854 | [123854-mmx-otherworld-mystery-expanded-edition.json](./123854-mmx-otherworld-mystery-expanded-edition.json) |
 | Mnamosyna | 341243 | [341243-mnamosyna.json](./341243-mnamosyna.json) |
@@ -21199,7 +21189,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movie studios party | 215284 | [215284-movie-studios-party.json](./215284-movie-studios-party.json) |
 | Movie Theater Simulator | 377798 | [377798-movie-theater-simulator.json](./377798-movie-theater-simulator.json) |
 | Movie to Movie | 229563 | [229563-movie-to-movie.json](./229563-movie-to-movie.json) |
-| Movie Trivia | 87079 | [87079-movie-trivia.json](./87079-movie-trivia.json) |
 | Movie Tycoon Simulator 2020 | 150536 | [150536-movie-tycoon-simulator-2020.json](./150536-movie-tycoon-simulator-2020.json) |
 | Movie World | 132349 | [132349-movie-world.json](./132349-movie-world.json) |
 | Moviedle | 218743 | [218743-moviedle.json](./218743-moviedle.json) |
@@ -23553,7 +23542,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My DoItAll | 92625 | [92625-my-doitall.json](./92625-my-doitall.json) |
 | My Doki Doki SNAFU | 379141 | [379141-my-doki-doki-snafu.json](./379141-my-doki-doki-snafu.json) |
 | My Dolphin | 67254 | [67254-my-dolphin.json](./67254-my-dolphin.json) |
-| My Dolphin Show | 86773 | [86773-my-dolphin-show.json](./86773-my-dolphin-show.json) |
 | My Douchey Boss Has a Gentle Twin Brother?! | 267032 | [267032-my-douchey-boss-has-a-gentle-twin-brother.json](./267032-my-douchey-boss-has-a-gentle-twin-brother.json) |
 | My Downtown | 153981 | [153981-my-downtown.json](./153981-my-downtown.json) |
 | My Dragon Girlfriend | 222650 | [222650-my-dragon-girlfriend.json](./222650-my-dragon-girlfriend.json) |
@@ -23592,7 +23580,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Elemental Prince | 299018 | [299018-my-elemental-prince.json](./299018-my-elemental-prince.json) |
 | My Elemental Prince: Remake | 299022 | [299022-my-elemental-prince-remake.json](./299022-my-elemental-prince-remake.json) |
 | My Elf Girlfriend | 206007 | [206007-my-elf-girlfriend.json](./206007-my-elf-girlfriend.json) |
-| My Emma :) | 86977 | [86977-my-emma.json](./86977-my-emma.json) |
 | My Empire | 149590 | [149590-my-empire.json](./149590-my-empire.json) |
 | My Empire | 182321 | [182321-my-empire.json](./182321-my-empire.json) |
 | My English Coach: Para Hispanoparlantes | 82064 | [82064-my-english-coach-para-hispanoparlantes.json](./82064-my-english-coach-para-hispanoparlantes.json) |
@@ -24140,7 +24127,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Twilight Sparkle, Teacher for a Day | 79615 | [79615-my-little-pony-twilight-sparkle-teacher-for-a-day.json](./79615-my-little-pony-twilight-sparkle-teacher-for-a-day.json) |
 | My Little Prince: A Jigsaw Puzzle Tale | 159852 | [159852-my-little-prince-a-jigsaw-puzzle-tale.json](./159852-my-little-prince-a-jigsaw-puzzle-tale.json) |
 | My Little Princess | 90367 | [90367-my-little-princess.json](./90367-my-little-princess.json) |
-| My Little Princess : Castle | 86878 | [86878-my-little-princess-castle.json](./86878-my-little-princess-castle.json) |
 | My Little Princess : Fairy Forest | 102455 | [102455-my-little-princess-fairy-forest.json](./102455-my-little-princess-fairy-forest.json) |
 | My Little Puppy | 335660 | [335660-my-little-puppy.json](./335660-my-little-puppy.json) |
 | My Little Ramenbar | 175815 | [175815-my-little-ramenbar.json](./175815-my-little-ramenbar.json) |
@@ -24540,7 +24526,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Stop Smoking Coach with Allen Carr | 70638 | [70638-my-stop-smoking-coach-with-allen-carr.json](./70638-my-stop-smoking-coach-with-allen-carr.json) |
 | My Stop Smoking Coach: Allen Carr's EasyWay | 123359 | [123359-my-stop-smoking-coach-allen-carrs-easyway.json](./123359-my-stop-smoking-coach-allen-carrs-easyway.json) |
 | My Story | 186500 | [186500-my-story.json](./186500-my-story.json) |
-| My Story: Choose Your Own Path | 87010 | [87010-my-story-choose-your-own-path.json](./87010-my-story-choose-your-own-path.json) |
 | My Strange Girlfriend | 299516 | [299516-my-strange-girlfriend.json](./299516-my-strange-girlfriend.json) |
 | My Strange Girlfriends | 248926 | [248926-my-strange-girlfriends.json](./248926-my-strange-girlfriends.json) |
 | My Strange Lover | 299624 | [299624-my-strange-lover.json](./299624-my-strange-lover.json) |
@@ -25298,7 +25283,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Quest | 48195 | [48195-mystery-quest.json](./48195-mystery-quest.json) |
 | Mystery Quest: Curse of the Ancient Spirits | 65918 | [65918-mystery-quest-curse-of-the-ancient-spirits.json](./65918-mystery-quest-curse-of-the-ancient-spirits.json) |
 | Mystery Riddles | 29371 | [29371-mystery-riddles.json](./29371-mystery-riddles.json) |
-| Mystery Saiyan | 86986 | [86986-mystery-saiyan.json](./86986-mystery-saiyan.json) |
 | Mystery Science Theater 3000 Presents: Detective | 310680 | [310680-mystery-science-theater-3000-presents-detective.json](./310680-mystery-science-theater-3000-presents-detective.json) |
 | Mystery Series: A Vampire Tale | 54244 | [54244-mystery-series-a-vampire-tale.json](./54244-mystery-series-a-vampire-tale.json) |
 | Mystery Society 2: Hidden Puzzles | 250954 | [250954-mystery-society-2-hidden-puzzles.json](./250954-mystery-society-2-hidden-puzzles.json) |
