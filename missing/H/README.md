@@ -14246,6 +14246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting World | 398039 | [398039-hunting-world.json](./398039-hunting-world.json) |
 | Hunting Yankee | 55159 | [55159-hunting-yankee.json](./55159-hunting-yankee.json) |
 | Huntloween | 395953 | [395953-huntloween.json](./395953-huntloween.json) |
+| Huntmaze | 431651 | [431651-huntmaze.json](./431651-huntmaze.json) |
 | HuntNPrey | 326181 | [326181-huntnprey.json](./326181-huntnprey.json) |
 | Huntress: The Cursed Village | 192528 | [192528-huntress-the-cursed-village.json](./192528-huntress-the-cursed-village.json) |
 | Huntscape | 219692 | [219692-huntscape.json](./219692-huntscape.json) |
