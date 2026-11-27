@@ -5985,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Bastard is Trying to Steal Our Gold! | 33301 | [33301-that-bastard-is-trying-to-steal-our-gold.json](./33301-that-bastard-is-trying-to-steal-our-gold.json) |
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
 | That Bomb Game | 410566 | [410566-that-bomb-game.json](./410566-that-bomb-game.json) |
+| That Boy Is a Monstr | 414268 | [414268-that-boy-is-a-monstr.json](./414268-that-boy-is-a-monstr.json) |
 | That Castle | 190019 | [190019-that-castle.json](./190019-that-castle.json) |
 | That Cloud Looks Like | 415827 | [415827-that-cloud-looks-like.json](./415827-that-cloud-looks-like.json) |
 | That Coin Game | 138500 | [138500-that-coin-game.json](./138500-that-coin-game.json) |
@@ -23591,6 +23592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Left Behind | 212854 | [212854-those-left-behind.json](./212854-those-left-behind.json) |
 | Those Nights at Fredbear's | 209295 | [209295-those-nights-at-fredbears.json](./209295-those-nights-at-fredbears.json) |
 | Those Nights at Fredbear's | 382094 | [382094-those-nights-at-fredbears.json](./382094-those-nights-at-fredbears.json) |
+| Those Nights at Fredbear's: New Destiny | 413912 | [413912-those-nights-at-fredbears-new-destiny.json](./413912-those-nights-at-fredbears-new-destiny.json) |
 | Those Nights at Fredbear's: Reboot | 209310 | [209310-those-nights-at-fredbears-reboot.json](./209310-those-nights-at-fredbears-reboot.json) |
 | Those Nights at Rachel's | 177626 | [177626-those-nights-at-rachels.json](./177626-those-nights-at-rachels.json) |
 | Those Nights at Rachel's 2 | 209298 | [209298-those-nights-at-rachels-2.json](./209298-those-nights-at-rachels-2.json) |
@@ -23768,6 +23770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Musketeers Secrets: Constance's Mission | 54196 | [54196-three-musketeers-secrets-constances-mission.json](./54196-three-musketeers-secrets-constances-mission.json) |
 | Three Nights Escape | 315589 | [315589-three-nights-escape.json](./315589-three-nights-escape.json) |
 | Three Nights Four Days! Very H Camping School With Teachers All Missing | 98499 | [98499-three-nights-four-days-very-h-camping-school-with-teachers-all-missing.json](./98499-three-nights-four-days-very-h-camping-school-with-teachers-all-missing.json) |
+| Three Nights Lobotomized | 415607 | [415607-three-nights-lobotomized.json](./415607-three-nights-lobotomized.json) |
 | Three of a Fish | 123546 | [123546-three-of-a-fish.json](./123546-three-of-a-fish.json) |
 | Three of Cards | 159564 | [159564-three-of-cards.json](./159564-three-of-cards.json) |
 | Three of Us | 181753 | [181753-three-of-us.json](./181753-three-of-us.json) |
@@ -29341,6 +29344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
 | Tomochi | 360835 | [360835-tomochi.json](./360835-tomochi.json) |
 | Tomodachi 8in1 | 376653 | [376653-tomodachi-8in1.json](./376653-tomodachi-8in1.json) |
+| Tomodachi Dan | 413821 | [413821-tomodachi-dan.json](./413821-tomodachi-dan.json) |
 | Tomodachi Geinou-sha | 299634 | [299634-tomodachi-geinou-sha.json](./299634-tomodachi-geinou-sha.json) |
 | Tomodachi Ijou, Joubutsu Miman | 394078 | [394078-tomodachi-ijou-joubutsu-miman.json](./394078-tomodachi-ijou-joubutsu-miman.json) |
 | Tomodachi Kara Koibito he | 220419 | [220419-tomodachi-kara-koibito-he.json](./220419-tomodachi-kara-koibito-he.json) |
@@ -34887,6 +34891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash & Fists | 244093 | [244093-trash-and-fists.json](./244093-trash-and-fists.json) |
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
 | Trash Battle | 369795 | [369795-trash-battle.json](./369795-trash-battle.json) |
+| Trash Blandicook | 415273 | [415273-trash-blandicook.json](./415273-trash-blandicook.json) |
 | Trash Bomber | 208541 | [208541-trash-bomber.json](./208541-trash-bomber.json) |
 | Trash Bunny House | 248983 | [248983-trash-bunny-house.json](./248983-trash-bunny-house.json) |
 | Trash Buster Simulator | 326320 | [326320-trash-buster-simulator.json](./326320-trash-buster-simulator.json) |
