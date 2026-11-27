@@ -16901,6 +16901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mochis Army | 418162 | [418162-mochis-army.json](./418162-mochis-army.json) |
 | Moci Over It | 272603 | [272603-moci-over-it.json](./272603-moci-over-it.json) |
 | Mock 2: The Speed of Stupid | 238485 | [238485-mock-2-the-speed-of-stupid.json](./238485-mock-2-the-speed-of-stupid.json) |
+| Mock Draft Deck | 430503 | [430503-mock-draft-deck.json](./430503-mock-draft-deck.json) |
 | Mockbuster Video | 405850 | [405850-mockbuster-video.json](./405850-mockbuster-video.json) |
 | Mockingbird | 264759 | [264759-mockingbird.json](./264759-mockingbird.json) |
 | Mocove Arts VR | 37410 | [37410-mocove-arts-vr.json](./37410-mocove-arts-vr.json) |
@@ -21484,6 +21485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Zig | 126810 | [126810-mr-zig.json](./126810-mr-zig.json) |
 | Mr. "Bargain Expert" | 413075 | [413075-mr-bargain-expert.json](./413075-mr-bargain-expert.json) |
 | Mr. Addon Game Maker | 391930 | [391930-mr-addon-game-maker.json](./391930-mr-addon-game-maker.json) |
+| Mr. Adrian's Mansion Is Creepy | 430415 | [430415-mr-adrians-mansion-is-creepy.json](./430415-mr-adrians-mansion-is-creepy.json) |
 | Mr. Akun's Jump | 287737 | [287737-mr-akuns-jump.json](./287737-mr-akuns-jump.json) |
 | Mr. Amo | 259896 | [259896-mr-amo.json](./259896-mr-amo.json) |
 | Mr. and Mrs. Potato Head Go on Vacation | 209156 | [209156-mr-and-mrs-potato-head-go-on-vacation.json](./209156-mr-and-mrs-potato-head-go-on-vacation.json) |
