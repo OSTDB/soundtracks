@@ -7128,6 +7128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes For Hire | 295559 | [295559-heroes-for-hire.json](./295559-heroes-for-hire.json) |
 | Heroes Forces | 126990 | [126990-heroes-forces.json](./126990-heroes-forces.json) |
 | Heroes from the Past: Joan of Arc | 32014 | [32014-heroes-from-the-past-joan-of-arc.json](./32014-heroes-from-the-past-joan-of-arc.json) |
+| Heroes Frontiers | 431164 | [431164-heroes-frontiers.json](./431164-heroes-frontiers.json) |
 | Heroes Guard: The Journal | 200041 | [200041-heroes-guard-the-journal.json](./200041-heroes-guard-the-journal.json) |
 | Heroes in the Sky | 66440 | [66440-heroes-in-the-sky.json](./66440-heroes-in-the-sky.json) |
 | Heroes in the Sky-Origin | 114198 | [114198-heroes-in-the-sky-origin.json](./114198-heroes-in-the-sky-origin.json) |
@@ -12644,6 +12645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Keeper | 374006 | [374006-hotel-keeper.json](./374006-hotel-keeper.json) |
 | Hotel Life: A Resort Simulator | 151044 | [151044-hotel-life-a-resort-simulator.json](./151044-hotel-life-a-resort-simulator.json) |
 | Hotel Lust | 367295 | [367295-hotel-lust.json](./367295-hotel-lust.json) |
+| Hotel Luximinal | 431169 | [431169-hotel-luximinal.json](./431169-hotel-luximinal.json) |
 | Hotel Magnate | 100395 | [100395-hotel-magnate.json](./100395-hotel-magnate.json) |
 | Hotel Mahjong | 177067 | [177067-hotel-mahjong.json](./177067-hotel-mahjong.json) |
 | Hotel Management Simulator | 217285 | [217285-hotel-management-simulator.json](./217285-hotel-management-simulator.json) |
