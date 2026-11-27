@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Clockwork Ley-Line: Zanei no Yoru ga Akeru Toki | 54750 | [54750-a-clockwork-ley-line-zanei-no-yoru-ga-akeru-toki.json](./54750-a-clockwork-ley-line-zanei-no-yoru-ga-akeru-toki.json) |
 | A Clumsy Adventure | 8627 | [8627-a-clumsy-adventure.json](./8627-a-clumsy-adventure.json) |
 | A Clumsy Flight | 208673 | [208673-a-clumsy-flight.json](./208673-a-clumsy-flight.json) |
+| A Cold Comfort | 431190 | [431190-a-cold-comfort.json](./431190-a-cold-comfort.json) |
 | A Cold Day In Shell | 328068 | [328068-a-cold-day-in-shell.json](./328068-a-cold-day-in-shell.json) |
 | A Cold Night | 180947 | [180947-a-cold-night.json](./180947-a-cold-night.json) |
 | A Collection of 10000 Sudoku Games | 91047 | [91047-a-collection-of-10000-sudoku-games.json](./91047-a-collection-of-10000-sudoku-games.json) |
@@ -4490,6 +4491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Rush | 192674 | [192674-adventure-rush.json](./192674-adventure-rush.json) |
 | Adventure Seekers: Lost to Sea | 416495 | [416495-adventure-seekers-lost-to-sea.json](./416495-adventure-seekers-lost-to-sea.json) |
 | Adventure Seekers: Lost to Sea - Collector's Edition | 379486 | [379486-adventure-seekers-lost-to-sea-collectors-edition.json](./379486-adventure-seekers-lost-to-sea-collectors-edition.json) |
+| Adventure Seekers: Restless Waters - Collector's Edition | 431568 | [431568-adventure-seekers-restless-waters-collectors-edition.json](./431568-adventure-seekers-restless-waters-collectors-edition.json) |
 | Adventure Series | 80367 | [80367-adventure-series.json](./80367-adventure-series.json) |
 | Adventure Series 13+ | 69247 | [69247-adventure-series-13.json](./69247-adventure-series-13.json) |
 | Adventure Sketchers: Draw, Play, Create | 230338 | [230338-adventure-sketchers-draw-play-create.json](./230338-adventure-sketchers-draw-play-create.json) |
@@ -4952,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeroplanoui | 105296 | [105296-aeroplanoui.json](./105296-aeroplanoui.json) |
 | Aeroporto 83 | 215545 | [215545-aeroporto-83.json](./215545-aeroporto-83.json) |
 | Aeropunx | 369180 | [369180-aeropunx.json](./369180-aeropunx.json) |
+| Aerosailor I: Armlet of Cloud | 431187 | [431187-aerosailor-i-armlet-of-cloud.json](./431187-aerosailor-i-armlet-of-cloud.json) |
 | AeroSpace Engineering | 379494 | [379494-aerospace-engineering.json](./379494-aerospace-engineering.json) |
 | Aerospace Forces | 101387 | [101387-aerospace-forces.json](./101387-aerospace-forces.json) |
 | Aerostar | 7746 | [7746-aerostar.json](./7746-aerostar.json) |
@@ -18833,6 +18836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Heroes | 32858 | [32858-astral-heroes.json](./32858-astral-heroes.json) |
 | Astral Horizon | 258158 | [258158-astral-horizon.json](./258158-astral-horizon.json) |
 | Astral Hound VR | 338168 | [338168-astral-hound-vr.json](./338168-astral-hound-vr.json) |
+| Astral Hunter: Homebound | 431623 | [431623-astral-hunter-homebound.json](./431623-astral-hunter-homebound.json) |
 | Astral Light | 200085 | [200085-astral-light.json](./200085-astral-light.json) |
 | Astral Lodge | 347459 | [347459-astral-lodge.json](./347459-astral-lodge.json) |
 | Astral Lords | 392083 | [392083-astral-lords.json](./392083-astral-lords.json) |
