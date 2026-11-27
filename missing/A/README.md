@@ -9900,7 +9900,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Bumpman | 12292 | [12292-amazing-bumpman.json](./12292-amazing-bumpman.json) |
 | Amazing Cat Saves the World From Space Blobs | 185460 | [185460-amazing-cat-saves-the-world-from-space-blobs.json](./185460-amazing-cat-saves-the-world-from-space-blobs.json) |
 | Amazing Chicken Adventures | 173262 | [173262-amazing-chicken-adventures.json](./173262-amazing-chicken-adventures.json) |
-| Amazing City: Frog Adventures | 87512 | [87512-amazing-city-frog-adventures.json](./87512-amazing-city-frog-adventures.json) |
 | Amazing Crime Rope Stickman | 296072 | [296072-amazing-crime-rope-stickman.json](./296072-amazing-crime-rope-stickman.json) |
 | Amazing Cruise: Mediterranean | 416878 | [416878-amazing-cruise-mediterranean.json](./416878-amazing-cruise-mediterranean.json) |
 | Amazing Cultivation Simulator | 127939 | [127939-amazing-cultivation-simulator.json](./127939-amazing-cultivation-simulator.json) |
