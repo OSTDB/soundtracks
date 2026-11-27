@@ -4744,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Triangle Super Collection | 192154 | [192154-red-triangle-super-collection.json](./192154-red-triangle-super-collection.json) |
 | Red Trigger 2 | 216538 | [216538-red-trigger-2.json](./216538-red-trigger-2.json) |
 | Red Turn: The Road to Berlin 1943-45 | 22646 | [22646-red-turn-the-road-to-berlin-1943-45.json](./22646-red-turn-the-road-to-berlin-1943-45.json) |
+| Red Two | 430454 | [430454-red-two.json](./430454-red-two.json) |
 | Red Valley | 199389 | [199389-red-valley.json](./199389-red-valley.json) |
 | Red Vanilla 2 | 366733 | [366733-red-vanilla-2.json](./366733-red-vanilla-2.json) |
 | Red Victory | 59320 | [59320-red-victory.json](./59320-red-victory.json) |
@@ -5595,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Alone | 34045 | [34045-relic-alone.json](./34045-relic-alone.json) |
 | Relic Arena | 278976 | [278976-relic-arena.json](./278976-relic-arena.json) |
 | Relic Digger | 382078 | [382078-relic-digger.json](./382078-relic-digger.json) |
+| Relic Dreams | 430327 | [430327-relic-dreams.json](./430327-relic-dreams.json) |
 | Relic Dudes | 226464 | [226464-relic-dudes.json](./226464-relic-dudes.json) |
 | Relic Guardian | 258339 | [258339-relic-guardian.json](./258339-relic-guardian.json) |
 | Relic Guardians: Complete | 168050 | [168050-relic-guardians-complete.json](./168050-relic-guardians-complete.json) |
@@ -13989,6 +13991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruled by Rule | 369279 | [369279-ruled-by-rule.json](./369279-ruled-by-rule.json) |
 | Rulegement | 267445 | [267445-rulegement.json](./267445-rulegement.json) |
 | Rulehouse | 422402 | [422402-rulehouse.json](./422402-rulehouse.json) |
+| Rulemiss | 430366 | [430366-rulemiss.json](./430366-rulemiss.json) |
 | Rulent Tower VR | 134989 | [134989-rulent-tower-vr.json](./134989-rulent-tower-vr.json) |
 | Ruler Battle Online | 302256 | [302256-ruler-battle-online.json](./302256-ruler-battle-online.json) |
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
