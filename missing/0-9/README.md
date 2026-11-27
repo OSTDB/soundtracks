@@ -4010,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 88 Heroes: 98 Heroes Edition | 74315 | [74315-88-heroes-98-heroes-edition.json](./74315-88-heroes-98-heroes-edition.json) |
 | 88 Nights in the Forest | 377400 | [377400-88-nights-in-the-forest.json](./377400-88-nights-in-the-forest.json) |
 | 8874 | 216774 | [216774-8874.json](./216774-8874.json) |
+| 888Pool | 431214 | [431214-888pool.json](./431214-888pool.json) |
 | 89 | 215457 | [215457-89.json](./215457-89.json) |
 | 89: La Revolution Francaise | 14767 | [14767-89-la-revolution-francaise.json](./14767-89-la-revolution-francaise.json) |
 | 890B | 178792 | [178792-890b.json](./178792-890b.json) |
