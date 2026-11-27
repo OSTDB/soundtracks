@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-26T12:25:57.281Z",
-  "total_soundtracks": 3954,
+  "generated_at": "2026-11-27T10:35:56.653Z",
+  "total_soundtracks": 3955,
   "games": [
     {
       "igdb_id": 292844,
@@ -30925,6 +30925,20 @@
         {
           "album_name": "Peaky Blinders: The King's Ransom (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1FD6yGzJKh4FGFHw1D8aHy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 86803,
+      "game_name": "Pearl's Peril",
+      "game_url": "https://ostdb.net/games/pearls-peril",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27320edc7e99bf7afa3de914517",
+      "albums": [
+        {
+          "album_name": "Pearl's Peril (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4rvRlqrj0lWJQsqMoRtdSe",
           "apple_music_url": "",
           "album_link_url": ""
         }
