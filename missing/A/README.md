@@ -19759,6 +19759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ather | 96146 | [96146-ather.json](./96146-ather.json) |
 | Ather: Chapter 1 | 96649 | [96649-ather-chapter-1.json](./96649-ather-chapter-1.json) |
 | Athereon: Advent I | 219202 | [219202-athereon-advent-i.json](./219202-athereon-advent-i.json) |
+| Atheria | 430867 | [430867-atheria.json](./430867-atheria.json) |
 | Atheris | 389167 | [389167-atheris.json](./389167-atheris.json) |
 | Athletic Ball | 41797 | [41797-athletic-ball.json](./41797-athletic-ball.json) |
 | Athletic Director Simulator 4000 | 381779 | [381779-athletic-director-simulator-4000.json](./381779-athletic-director-simulator-4000.json) |
