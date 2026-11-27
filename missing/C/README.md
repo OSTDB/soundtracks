@@ -4403,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania | 322139 | [322139-castlevania.json](./322139-castlevania.json) |
 | Castlevania | 323636 | [323636-castlevania.json](./323636-castlevania.json) |
 | Castlevania | 398838 | [398838-castlevania.json](./398838-castlevania.json) |
+| Castlevania 10: Andate Ma Non Troppo | 414871 | [414871-castlevania-10-andate-ma-non-troppo.json](./414871-castlevania-10-andate-ma-non-troppo.json) |
 | Castlevania 2 | 276459 | [276459-castlevania-2.json](./276459-castlevania-2.json) |
 | Castlevania 2 Remake | 323883 | [323883-castlevania-2-remake.json](./323883-castlevania-2-remake.json) |
 | Castlevania Chronicles | 19468 | [19468-castlevania-chronicles.json](./19468-castlevania-chronicles.json) |
@@ -13930,6 +13931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonel Kerfuffle in Tiki Treasure | 275484 | [275484-colonel-kerfuffle-in-tiki-treasure.json](./275484-colonel-kerfuffle-in-tiki-treasure.json) |
 | Colonel Wasabi | 345577 | [345577-colonel-wasabi.json](./345577-colonel-wasabi.json) |
 | Colonia | 207511 | [207511-colonia.json](./207511-colonia.json) |
+| Colônia | 413086 | [413086-colonia.json](./413086-colonia.json) |
 | Colonial Combat | 332651 | [332651-colonial-combat.json](./332651-colonial-combat.json) |
 | Colonial Conquest | 26015 | [26015-colonial-conquest.json](./26015-colonial-conquest.json) |
 | Colonial Conquest | 97307 | [97307-colonial-conquest.json](./97307-colonial-conquest.json) |
@@ -17371,6 +17373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party: The Anthology - Sachiko's Game of Love: Hysteric Birthday 2U | 11608 | [11608-corpse-party-the-anthology-sachikos-game-of-love-hysteric-birthday-2u.json](./11608-corpse-party-the-anthology-sachikos-game-of-love-hysteric-birthday-2u.json) |
 | Corpse Reviver | 134865 | [134865-corpse-reviver.json](./134865-corpse-reviver.json) |
 | Corpse-Party | 148220 | [148220-corpse-party.json](./148220-corpse-party.json) |
+| Corpse-Party II: Satsuki's Heart | 414826 | [414826-corpse-party-ii-satsukis-heart.json](./414826-corpse-party-ii-satsukis-heart.json) |
 | Corpse-Party: if | 413925 | [413925-corpse-party-if.json](./413925-corpse-party-if.json) |
 | Corpse-Party: if - Past End | 135890 | [135890-corpse-party-if-past-end.json](./135890-corpse-party-if-past-end.json) |
 | Corpse58 | 320090 | [320090-corpse58.json](./320090-corpse58.json) |
