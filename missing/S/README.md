@@ -2695,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savanna Story Diamond Edition | 274921 | [274921-savanna-story-diamond-edition.json](./274921-savanna-story-diamond-edition.json) |
 | Savannah Gurashi no Cheetah-san | 269942 | [269942-savannah-gurashi-no-cheetah-san.json](./269942-savannah-gurashi-no-cheetah-san.json) |
 | Savannah Park | 187783 | [187783-savannah-park.json](./187783-savannah-park.json) |
+| Savannah Puzzles: Father's Heritage | 431570 | [431570-savannah-puzzles-fathers-heritage.json](./431570-savannah-puzzles-fathers-heritage.json) |
 | Savannah Runnah | 243610 | [243610-savannah-runnah.json](./243610-savannah-runnah.json) |
 | Savant | 62872 | [62872-savant.json](./62872-savant.json) |
 | Savant: Ascent | 7879 | [7879-savant-ascent.json](./7879-savant-ascent.json) |
@@ -4084,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble | 354997 | [354997-scrabble.json](./354997-scrabble.json) |
 | Scrabble | 371873 | [371873-scrabble.json](./371873-scrabble.json) |
 | Scrabble | 402336 | [402336-scrabble.json](./402336-scrabble.json) |
+| Scrabble | 431217 | [431217-scrabble.json](./431217-scrabble.json) |
 | Scrabble | 71376 | [71376-scrabble.json](./71376-scrabble.json) |
 | Scrabble Blast! | 49337 | [49337-scrabble-blast.json](./49337-scrabble-blast.json) |
 | Scrabble Blitz | 209015 | [209015-scrabble-blitz.json](./209015-scrabble-blitz.json) |
@@ -15986,6 +15988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Killer | 163910 | [163910-slime-killer.json](./163910-slime-killer.json) |
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
 | Slime Kingdom: An Unlikely Adventure! | 173924 | [173924-slime-kingdom-an-unlikely-adventure.json](./173924-slime-kingdom-an-unlikely-adventure.json) |
+| Slime Kingdom: The Tale of the Slime That Became a Hero | 431590 | [431590-slime-kingdom-the-tale-of-the-slime-that-became-a-hero.json](./431590-slime-kingdom-the-tale-of-the-slime-that-became-a-hero.json) |
 | Slime Knight | 246785 | [246785-slime-knight.json](./246785-slime-knight.json) |
 | Slime Knight | 364041 | [364041-slime-knight.json](./364041-slime-knight.json) |
 | Slime Knight | 412203 | [412203-slime-knight.json](./412203-slime-knight.json) |
@@ -18838,6 +18841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Softball: Breakthrough Gaming Arcade - 3 Player Cooperation Edition | 218190 | [218190-softball-breakthrough-gaming-arcade-3-player-cooperation-edition.json](./218190-softball-breakthrough-gaming-arcade-3-player-cooperation-edition.json) |
 | Softball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 213633 | [213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Softened Cookie | 74636 | [74636-softened-cookie.json](./74636-softened-cookie.json) |
+| Softest Sword | 431577 | [431577-softest-sword.json](./431577-softest-sword.json) |
 | Softie | 321304 | [321304-softie.json](./321304-softie.json) |
 | Softly Placed | 379978 | [379978-softly-placed.json](./379978-softly-placed.json) |
 | Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
@@ -31513,6 +31517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stocker | 40441 | [40441-stocker.json](./40441-stocker.json) |
 | Stockfish Chess | 87155 | [87155-stockfish-chess.json](./87155-stockfish-chess.json) |
 | Stockle | 394839 | [394839-stockle.json](./394839-stockle.json) |
+| Stockory: E-Commerce Simulator | 431158 | [431158-stockory-e-commerce-simulator.json](./431158-stockory-e-commerce-simulator.json) |
 | Stockpile | 109839 | [109839-stockpile.json](./109839-stockpile.json) |
 | Stockroom Syndrome | 420873 | [420873-stockroom-syndrome.json](./420873-stockroom-syndrome.json) |
 | Stocks | 364990 | [364990-stocks.json](./364990-stocks.json) |
@@ -39652,6 +39657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf Riders | 44962 | [44962-surf-riders.json](./44962-surf-riders.json) |
 | Surf Rocket Racers | 45842 | [45842-surf-rocket-racers.json](./45842-surf-rocket-racers.json) |
 | Surf Safari | 201980 | [201980-surf-safari.json](./201980-surf-safari.json) |
+| Surf Sandbox | 431150 | [431150-surf-sandbox.json](./431150-surf-sandbox.json) |
 | Surf World Series | 26523 | [26523-surf-world-series.json](./26523-surf-world-series.json) |
 | Surf's Up | 201349 | [201349-surfs-up.json](./201349-surfs-up.json) |
 | Surf's Up | 248517 | [248517-surfs-up.json](./248517-surfs-up.json) |
