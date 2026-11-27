@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Zankor Table | 158491 | [158491-zaccaria-pinball-zankor-table.json](./158491-zaccaria-pinball-zankor-table.json) |
 | Zaccaria Pinball: Zombie Invasion | 208455 | [208455-zaccaria-pinball-zombie-invasion.json](./208455-zaccaria-pinball-zombie-invasion.json) |
 | Zaccaria Pinball: Zombie Invasion Mode | 404563 | [404563-zaccaria-pinball-zombie-invasion-mode.json](./404563-zaccaria-pinball-zombie-invasion-mode.json) |
+| Zach Cregger's Resident Evil: The Videogame | 428611 | [428611-zach-creggers-resident-evil-the-videogame.json](./428611-zach-creggers-resident-evil-the-videogame.json) |
 | Zach-Like | 119788 | [119788-zach-like.json](./119788-zach-like.json) |
 | ZaciSa: Defense of the Crayon Dimensions! | 84971 | [84971-zacisa-defense-of-the-crayon-dimensions.json](./84971-zacisa-defense-of-the-crayon-dimensions.json) |
 | ZaciSa's Last Stand | 84957 | [84957-zacisas-last-stand.json](./84957-zacisas-last-stand.json) |
@@ -978,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenonia S: Rifts in Time | 38690 | [38690-zenonia-s-rifts-in-time.json](./38690-zenonia-s-rifts-in-time.json) |
 | Zenonzard | 135498 | [135498-zenonzard.json](./135498-zenonzard.json) |
 | Zenorost Realm | 157283 | [157283-zenorost-realm.json](./157283-zenorost-realm.json) |
+| Zenosyne | 418465 | [418465-zenosyne.json](./418465-zenosyne.json) |
 | Zenpu-kun | 324968 | [324968-zenpu-kun.json](./324968-zenpu-kun.json) |
 | Zenquarium | 78552 | [78552-zenquarium.json](./78552-zenquarium.json) |
 | Zenra Toukou Training | 153674 | [153674-zenra-toukou-training.json](./153674-zenra-toukou-training.json) |
@@ -1722,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Apocalypse Survival Simulator | 221563 | [221563-zombie-apocalypse-survival-simulator.json](./221563-zombie-apocalypse-survival-simulator.json) |
 | Zombie Apocalypse Survivor | 291202 | [291202-zombie-apocalypse-survivor.json](./291202-zombie-apocalypse-survivor.json) |
 | Zombie Apocalypse Survivor | 99616 | [99616-zombie-apocalypse-survivor.json](./99616-zombie-apocalypse-survivor.json) |
+| Zombie Apocalypse Together | 431597 | [431597-zombie-apocalypse-together.json](./431597-zombie-apocalypse-together.json) |
 | Zombie Apocalypse: Bounty Hunter | 117441 | [117441-zombie-apocalypse-bounty-hunter.json](./117441-zombie-apocalypse-bounty-hunter.json) |
 | Zombie Apocalypse: Escape the Undead City | 32359 | [32359-zombie-apocalypse-escape-the-undead-city.json](./32359-zombie-apocalypse-escape-the-undead-city.json) |
 | Zombie Apocalypse: Never Die Alone | 51650 | [51650-zombie-apocalypse-never-die-alone.json](./51650-zombie-apocalypse-never-die-alone.json) |
