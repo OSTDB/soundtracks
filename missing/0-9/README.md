@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | (heart) Sudoku | 86731 | [86731-heart-sudoku.json](./86731-heart-sudoku.json) |
 | (I see) Nothing | 275478 | [275478-i-see-nothing.json](./275478-i-see-nothing.json) |
 | (Neg)Entropic Wandering | 309451 | [309451-neg-entropic-wandering.json](./309451-neg-entropic-wandering.json) |
+| (Non)human Desires | 413200 | [413200-non-human-desires.json](./413200-non-human-desires.json) |
 | (Not) Just another Space Shooter | 71931 | [71931-not-just-another-space-shooter.json](./71931-not-just-another-space-shooter.json) |
 | (O_O) | 209770 | [209770-o-o.json](./209770-o-o.json) |
 | (T)Raumschiff Surprise - Periode 1 | 131283 | [131283-t-raumschiff-surprise-periode-1.json](./131283-t-raumschiff-surprise-periode-1.json) |
@@ -1424,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13th House on Halloween | 321454 | [321454-13th-house-on-halloween.json](./321454-13th-house-on-halloween.json) |
 | 13Z: The Zodiac Trials | 301031 | [301031-13z-the-zodiac-trials.json](./301031-13z-the-zodiac-trials.json) |
 | 14 Days With You | 251073 | [251073-14-days-with-you.json](./251073-14-days-with-you.json) |
+| 14 de Septiembre | 414348 | [414348-14-de-septiembre.json](./414348-14-de-septiembre.json) |
 | 14 Locks | 225637 | [225637-14-locks.json](./225637-14-locks.json) |
 | 14 Minesweeper Variants | 203858 | [203858-14-minesweeper-variants.json](./203858-14-minesweeper-variants.json) |
 | 14 Minesweeper Variants 2 | 272869 | [272869-14-minesweeper-variants-2.json](./272869-14-minesweeper-variants-2.json) |
