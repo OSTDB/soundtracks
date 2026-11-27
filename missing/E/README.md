@@ -3879,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of Vice: Chicago | 388258 | [388258-empire-of-vice-chicago.json](./388258-empire-of-vice-chicago.json) |
 | Empire Origin: Rise | 258204 | [258204-empire-origin-rise.json](./258204-empire-origin-rise.json) |
 | Empire Patron | 116696 | [116696-empire-patron.json](./116696-empire-patron.json) |
+| Empire Pizza | 431139 | [431139-empire-pizza.json](./431139-empire-pizza.json) |
 | Empire Run | 248648 | [248648-empire-run.json](./248648-empire-run.json) |
 | Empire Soccer 94 | 12065 | [12065-empire-soccer-94.json](./12065-empire-soccer-94.json) |
 | Empire Takeover | 173015 | [173015-empire-takeover.json](./173015-empire-takeover.json) |
@@ -5648,6 +5649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EreaDrone: FPV Simulator | 112216 | [112216-ereadrone-fpv-simulator.json](./112216-ereadrone-fpv-simulator.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
 | Erebe | 199344 | [199344-erebe.json](./199344-erebe.json) |
+| Erebos Loop | 431167 | [431167-erebos-loop.json](./431167-erebos-loop.json) |
 | Erebound | 393875 | [393875-erebound.json](./393875-erebound.json) |
 | Erebus | 36919 | [36919-erebus.json](./36919-erebus.json) |
 | Erebus-9 | 371166 | [371166-erebus-9.json](./371166-erebus-9.json) |
@@ -7237,6 +7239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity Guards | 148488 | [148488-eternity-guards.json](./148488-eternity-guards.json) |
 | Eternity Inn | 170343 | [170343-eternity-inn.json](./170343-eternity-inn.json) |
 | Eternity Legends | 119109 | [119109-eternity-legends.json](./119109-eternity-legends.json) |
+| Eternity Lost: Mystery of Aurum | 431572 | [431572-eternity-lost-mystery-of-aurum.json](./431572-eternity-lost-mystery-of-aurum.json) |
 | Eternity Lost: Mystery of Aurum - Collector's Edition | 416770 | [416770-eternity-lost-mystery-of-aurum-collectors-edition.json](./416770-eternity-lost-mystery-of-aurum-collectors-edition.json) |
 | Eternity Protectors | 157373 | [157373-eternity-protectors.json](./157373-eternity-protectors.json) |
 | Eternity Warriors | 38502 | [38502-eternity-warriors.json](./38502-eternity-warriors.json) |
@@ -8157,6 +8160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Hero | 315724 | [315724-every-hero.json](./315724-every-hero.json) |
 | Every Hue of You | 302954 | [302954-every-hue-of-you.json](./302954-every-hue-of-you.json) |
 | Every Last Grain | 431027 | [431027-every-last-grain.json](./431027-every-last-grain.json) |
+| Every Last Grain | 431604 | [431604-every-last-grain.json](./431604-every-last-grain.json) |
 | Every Letter | 198624 | [198624-every-letter.json](./198624-every-letter.json) |
 | Every Level Iggy! | 323064 | [323064-every-level-iggy.json](./323064-every-level-iggy.json) |
 | Every Man for Himself and God Against All or, for a shorter name: TimeLeft | 423001 | [423001-every-man-for-himself-and-god-against-all-or-for-a-shorter-name-timeleft.json](./423001-every-man-for-himself-and-god-against-all-or-for-a-shorter-name-timeleft.json) |
@@ -9538,6 +9542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extraction Point: Alien Shootout | 69140 | [69140-extraction-point-alien-shootout.json](./69140-extraction-point-alien-shootout.json) |
 | Extraction Shop Simulator | 424946 | [424946-extraction-shop-simulator.json](./424946-extraction-shop-simulator.json) |
 | Extraction: Project Outbreak | 23395 | [23395-extraction-project-outbreak.json](./23395-extraction-project-outbreak.json) |
+| Extracto Proviso | 431211 | [431211-extracto-proviso.json](./431211-extracto-proviso.json) |
 | Extracurricular Activities | 205696 | [205696-extracurricular-activities.json](./205696-extracurricular-activities.json) |
 | ExtraGalactica | 128033 | [128033-extragalactica.json](./128033-extragalactica.json) |
 | Extraktion 1943 | 273486 | [273486-extraktion-1943.json](./273486-extraktion-1943.json) |
