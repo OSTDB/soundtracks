@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
 | Walk-In: Fold It Together | 423543 | [423543-walk-in-fold-it-together.json](./423543-walk-in-fold-it-together.json) |
 | Walk-Off 199X | 424370 | [424370-walk-off-199x.json](./424370-walk-off-199x.json) |
+| Walkaaos | 430352 | [430352-walkaaos.json](./430352-walkaaos.json) |
 | Walkable Cities | 410630 | [410630-walkable-cities.json](./410630-walkable-cities.json) |
 | Walkabout Mini Golf: 20,000 Leagues Under the Sea | 220525 | [220525-walkabout-mini-golf-20-000-leagues-under-the-sea.json](./220525-walkabout-mini-golf-20-000-leagues-under-the-sea.json) |
 | Walkabout Mini Golf: 8-Bit Lair | 320429 | [320429-walkabout-mini-golf-8-bit-lair.json](./320429-walkabout-mini-golf-8-bit-lair.json) |
@@ -4486,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Was | 372210 | [372210-what-was.json](./372210-what-was.json) |
 | What Was Here? 1-Minute Memory Quiz!! | 420687 | [420687-what-was-here-1-minute-memory-quiz.json](./420687-what-was-here-1-minute-memory-quiz.json) |
 | What Was Home | 374148 | [374148-what-was-home.json](./374148-what-was-home.json) |
+| What Was Left Behind | 430326 | [430326-what-was-left-behind.json](./430326-what-was-left-behind.json) |
 | What Was Lost | 422987 | [422987-what-was-lost.json](./422987-what-was-lost.json) |
 | What We Bring | 398122 | [398122-what-we-bring.json](./398122-what-we-bring.json) |
 | What We Carry | 386478 | [386478-what-we-carry.json](./386478-what-we-carry.json) |
@@ -8996,6 +8998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word95 | 382459 | [382459-word95.json](./382459-word95.json) |
 | Wordabeasts | 76748 | [76748-wordabeasts.json](./76748-wordabeasts.json) |
 | Wordament: Snap Attack | 14592 | [14592-wordament-snap-attack.json](./14592-wordament-snap-attack.json) |
+| Wordantle | 430471 | [430471-wordantle.json](./430471-wordantle.json) |
 | WordApt | 109504 | [109504-wordapt.json](./109504-wordapt.json) |
 | Wordatro! | 331665 | [331665-wordatro.json](./331665-wordatro.json) |
 | Wordban | 319358 | [319358-wordban.json](./319358-wordban.json) |
