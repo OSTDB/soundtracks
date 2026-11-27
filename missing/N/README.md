@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Ultimate Ninja Storm+ | 398845 | [398845-naruto-ultimate-ninja-storm.json](./398845-naruto-ultimate-ninja-storm.json) |
 | Naruto: Uzumaki Chronicles | 20602 | [20602-naruto-uzumaki-chronicles.json](./20602-naruto-uzumaki-chronicles.json) |
 | Naruto: Uzumaki Chronicles 2 | 21231 | [21231-naruto-uzumaki-chronicles-2.json](./21231-naruto-uzumaki-chronicles-2.json) |
+| Narutodle | 431058 | [431058-narutodle.json](./431058-narutodle.json) |
 | Narvas | 164895 | [164895-narvas.json](./164895-narvas.json) |
 | Narwhal Heist | 116164 | [116164-narwhal-heist.json](./116164-narwhal-heist.json) |
 | Narwhale.io | 97743 | [97743-narwhale-io.json](./97743-narwhale-io.json) |
