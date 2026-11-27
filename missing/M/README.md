@@ -15466,7 +15466,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minus Zero | 33835 | [33835-minus-zero.json](./33835-minus-zero.json) |
 | Minuse | 368361 | [368361-minuse.json](./368361-minuse.json) |
 | Minute | 266090 | [266090-minute.json](./266090-minute.json) |
-| Minute Commander | 87517 | [87517-minute-commander.json](./87517-minute-commander.json) |
 | Minute Cryptic | 356194 | [356194-minute-cryptic.json](./356194-minute-cryptic.json) |
 | Minute Fighter | 288766 | [288766-minute-fighter.json](./288766-minute-fighter.json) |
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
