@@ -2087,8 +2087,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 12x12 | 316550 | [316550-2048-12x12.json](./316550-2048-12x12.json) |
 | 2048 3D | 268679 | [268679-2048-3d.json](./268679-2048-3d.json) |
 | 2048 3x3 4x4 5x5 6x6 7x7 8x8 9x9 10x10 | 316547 | [316547-2048-3x3-4x4-5x5-6x6-7x7-8x8-9x9-10x10.json](./316547-2048-3x3-4x4-5x5-6x6-7x7-8x8-9x9-10x10.json) |
-| 2048 5x5 | 87383 | [87383-2048-5x5.json](./87383-2048-5x5.json) |
-| 2048 6x6 | 87423 | [87423-2048-6x6.json](./87423-2048-6x6.json) |
 | 2048 7x7 | 231839 | [231839-2048-7x7.json](./231839-2048-7x7.json) |
 | 2048 8x8 | 250216 | [250216-2048-8x8.json](./250216-2048-8x8.json) |
 | 2048 9x9 | 250236 | [250236-2048-9x9.json](./250236-2048-9x9.json) |
@@ -2128,7 +2126,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Snake | 315813 | [315813-2048-snake.json](./315813-2048-snake.json) |
 | 2048 Solitaire | 104352 | [104352-2048-solitaire.json](./104352-2048-solitaire.json) |
 | 2048 Solitaire Plus | 107146 | [107146-2048-solitaire-plus.json](./107146-2048-solitaire-plus.json) |
-| 2048 Tile! | 87404 | [87404-2048-tile.json](./87404-2048-tile.json) |
 | 2048 Units of /vr/ | 273064 | [273064-2048-units-of-vr.json](./273064-2048-units-of-vr.json) |
 | 2048-F8 | 268503 | [268503-2048-f8.json](./268503-2048-f8.json) |
 | 2048: Bee the Swarm | 58695 | [58695-2048-bee-the-swarm.json](./58695-2048-bee-the-swarm.json) |
@@ -2264,7 +2261,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 25°N 71°W Remastered | 279680 | [279680-25-n-71-w-remastered.json](./279680-25-n-71-w-remastered.json) |
 | 250-man-nin no Kanken Premium: Zenkyuu Zen-Kanji Kanzen Seiha | 342835 | [342835-250-man-nin-no-kanken-premium-zenkyuu-zen-kanji-kanzen-seiha.json](./342835-250-man-nin-no-kanken-premium-zenkyuu-zen-kanji-kanzen-seiha.json) |
 | 250-man-nin no Kanken: Wii de Tokoton Kanji Nou | 60082 | [60082-250-man-nin-no-kanken-wii-de-tokoton-kanji-nou.json](./60082-250-man-nin-no-kanken-wii-de-tokoton-kanji-nou.json) |
-| 250+ Solitaires | 87139 | [87139-250-solitaires.json](./87139-250-solitaires.json) |
 | 250ms | 328159 | [328159-250ms.json](./328159-250ms.json) |
 | 250ms2 | 366133 | [366133-250ms2.json](./366133-250ms2.json) |
 | 255 | 362046 | [362046-255.json](./362046-255.json) |
