@@ -7716,6 +7716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chelsea of the South Sea Islands | 309339 | [309339-chelsea-of-the-south-sea-islands.json](./309339-chelsea-of-the-south-sea-islands.json) |
 | ChemCaper | 16986 | [16986-chemcaper.json](./16986-chemcaper.json) |
 | ChemCaper: Act I - Petticles in Peril | 75369 | [75369-chemcaper-act-i-petticles-in-peril.json](./75369-chemcaper-act-i-petticles-in-peril.json) |
+| ChemHex | 431127 | [431127-chemhex.json](./431127-chemhex.json) |
 | Chemia | 303412 | [303412-chemia.json](./303412-chemia.json) |
 | Chemical | 251954 | [251954-chemical.json](./251954-chemical.json) |
 | Chemical Chimpet | 128059 | [128059-chemical-chimpet.json](./128059-chemical-chimpet.json) |
@@ -24250,6 +24251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycled | 151337 | [151337-cycled.json](./151337-cycled.json) |
 | Cyclemania | 71912 | [71912-cyclemania.json](./71912-cyclemania.json) |
 | CycleQuest | 393747 | [393747-cyclequest.json](./393747-cyclequest.json) |
+| Cycles | 431003 | [431003-cycles.json](./431003-cycles.json) |
 | Cycles of Aylorea | 168613 | [168613-cycles-of-aylorea.json](./168613-cycles-of-aylorea.json) |
 | Cycles of Aylorea | 322020 | [322020-cycles-of-aylorea.json](./322020-cycles-of-aylorea.json) |
 | Cyclia Journey | 373974 | [373974-cyclia-journey.json](./373974-cyclia-journey.json) |
