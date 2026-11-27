@@ -19136,6 +19136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamyPoems | 310785 | [310785-dreamypoems.json](./310785-dreamypoems.json) |
 | Dreary Disposition | 271799 | [271799-dreary-disposition.json](./271799-dreary-disposition.json) |
 | Dredark | 152886 | [152886-dredark.json](./152886-dredark.json) |
+| Dredd: Judgement | 415655 | [415655-dredd-judgement.json](./415655-dredd-judgement.json) |
 | Dredge: Blackstone Key | 336950 | [336950-dredge-blackstone-key.json](./336950-dredge-blackstone-key.json) |
 | Dredge: Complete Edition | 313780 | [313780-dredge-complete-edition.json](./313780-dredge-complete-edition.json) |
 | Dredge: Deluxe Edition | 239148 | [239148-dredge-deluxe-edition.json](./239148-dredge-deluxe-edition.json) |
@@ -20972,6 +20973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Baller | 310936 | [310936-dungeon-baller.json](./310936-dungeon-baller.json) |
 | Dungeon Bandit | 63829 | [63829-dungeon-bandit.json](./63829-dungeon-bandit.json) |
 | Dungeon Bar: Gachi Puzzles | 272631 | [272631-dungeon-bar-gachi-puzzles.json](./272631-dungeon-bar-gachi-puzzles.json) |
+| Dungeon Battles | 416517 | [416517-dungeon-battles.json](./416517-dungeon-battles.json) |
 | Dungeon Beach | 309353 | [309353-dungeon-beach.json](./309353-dungeon-beach.json) |
 | Dungeon Betwixt | 410933 | [410933-dungeon-betwixt.json](./410933-dungeon-betwixt.json) |
 | Dungeon Blitz | 64586 | [64586-dungeon-blitz.json](./64586-dungeon-blitz.json) |
