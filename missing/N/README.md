@@ -6451,6 +6451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niverium | 426850 | [426850-niverium.json](./426850-niverium.json) |
 | Nivoz Running Canned | 244249 | [244249-nivoz-running-canned.json](./244249-nivoz-running-canned.json) |
 | Niwa: Japanese Garden Simulator | 275420 | [275420-niwa-japanese-garden-simulator.json](./275420-niwa-japanese-garden-simulator.json) |
+| Niwairo | 431134 | [431134-niwairo.json](./431134-niwairo.json) |
 | Niwatori ni Natta Ore: Kodoku na Majou to no Itsuka-kan | 258101 | [258101-niwatori-ni-natta-ore-kodoku-na-majou-to-no-itsuka-kan.json](./258101-niwatori-ni-natta-ore-kodoku-na-majou-to-no-itsuka-kan.json) |
 | Nix Umbra | 158504 | [158504-nix-umbra.json](./158504-nix-umbra.json) |
 | Nix: Ashes of the Phoenix | 242601 | [242601-nix-ashes-of-the-phoenix.json](./242601-nix-ashes-of-the-phoenix.json) |
@@ -6600,6 +6601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Hope | 149685 | [149685-no-hope.json](./149685-no-hope.json) |
 | No Hope For Us | 356389 | [356389-no-hope-for-us.json](./356389-no-hope-for-us.json) |
 | No Horizon | 109572 | [109572-no-horizon.json](./109572-no-horizon.json) |
+| No Human Shall Pass | 431563 | [431563-no-human-shall-pass.json](./431563-no-human-shall-pass.json) |
 | No Humanity | 152015 | [152015-no-humanity.json](./152015-no-humanity.json) |
 | No Humanity 2: Swing'Em Up | 192608 | [192608-no-humanity-2-swingem-up.json](./192608-no-humanity-2-swingem-up.json) |
 | No Internet | 292053 | [292053-no-internet.json](./292053-no-internet.json) |
