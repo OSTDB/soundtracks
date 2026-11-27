@@ -481,7 +481,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Gap | 285446 | [285446-ocean-gap.json](./285446-ocean-gap.json) |
 | Ocean Hell | 204052 | [204052-ocean-hell.json](./204052-ocean-hell.json) |
 | Ocean Is Home | 224782 | [224782-ocean-is-home.json](./224782-ocean-is-home.json) |
-| Ocean Is Home: Survival Island | 86793 | [86793-ocean-is-home-survival-island.json](./86793-ocean-is-home-survival-island.json) |
 | Ocean Journey | 382712 | [382712-ocean-journey.json](./382712-ocean-journey.json) |
 | Ocean Keeper Co-op | 371840 | [371840-ocean-keeper-co-op.json](./371840-ocean-keeper-co-op.json) |
 | Ocean Legend | 100699 | [100699-ocean-legend.json](./100699-ocean-legend.json) |
@@ -3070,7 +3069,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Strike | 28695 | [28695-one-strike.json](./28695-one-strike.json) |
 | One Strike: Complete Edition | 238181 | [238181-one-strike-complete-edition.json](./238181-one-strike-complete-edition.json) |
 | One Strike: Rise of Dragons | 238180 | [238180-one-strike-rise-of-dragons.json](./238180-one-strike-rise-of-dragons.json) |
-| One Stroke - one tap connect | 86941 | [86941-one-stroke-one-tap-connect.json](./86941-one-stroke-one-tap-connect.json) |
 | One Stroke Hunter | 412753 | [412753-one-stroke-hunter.json](./412753-one-stroke-hunter.json) |
 | One Summer Holiday | 383300 | [383300-one-summer-holiday.json](./383300-one-summer-holiday.json) |
 | One Synth | 114059 | [114059-one-synth.json](./114059-one-synth.json) |
@@ -3602,7 +3600,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onnanoko no Himitsu | 78420 | [78420-onnanoko-no-himitsu.json](./78420-onnanoko-no-himitsu.json) |
 | Onnna Yusha no Yado | 97581 | [97581-onnna-yusha-no-yado.json](./97581-onnna-yusha-no-yado.json) |
 | ONO: Brain Fog | 186397 | [186397-ono-brain-fog.json](./186397-ono-brain-fog.json) |
-| Ono: Fast Card Game Fun | 86715 | [86715-ono-fast-card-game-fun.json](./86715-ono-fast-card-game-fun.json) |
 | Onohi | 201634 | [201634-onohi.json](./201634-onohi.json) |
 | Onomastica | 387943 | [387943-onomastica.json](./387943-onomastica.json) |
 | Onomastica 2 | 102046 | [102046-onomastica-2.json](./102046-onomastica-2.json) |
@@ -3938,7 +3935,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operación Tigre Blanco | 316777 | [316777-operacion-tigre-blanco.json](./316777-operacion-tigre-blanco.json) |
 | Operación: Bomba | 325624 | [325624-operacion-bomba.json](./325624-operacion-bomba.json) |
 | Operasyon: Pars | 391294 | [391294-operasyon-pars.json](./391294-operasyon-pars.json) |
-| Operate Now: Hospital | 87022 | [87022-operate-now-hospital.json](./87022-operate-now-hospital.json) |
 | Operation | 94216 | [94216-operation.json](./94216-operation.json) |
 | Operation 7 | 64267 | [64267-operation-7.json](./64267-operation-7.json) |
 | Operation Abyss: New Tokyo Legacy | 20021 | [20021-operation-abyss-new-tokyo-legacy.json](./20021-operation-abyss-new-tokyo-legacy.json) |
