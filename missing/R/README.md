@@ -7938,6 +7938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhombus | 370894 | [370894-rhombus.json](./370894-rhombus.json) |
 | Rhombus Legends | 103619 | [103619-rhombus-legends.json](./103619-rhombus-legends.json) |
 | Rhome | 130273 | [130273-rhome.json](./130273-rhome.json) |
+| RHP: The Horse: The Videogame | 430892 | [430892-rhp-the-horse-the-videogame.json](./430892-rhp-the-horse-the-videogame.json) |
 | Rhygar e os Soldados do Rei | 225442 | [225442-rhygar-e-os-soldados-do-rei.json](./225442-rhygar-e-os-soldados-do-rei.json) |
 | Rhyme Land | 306035 | [306035-rhyme-land.json](./306035-rhyme-land.json) |
 | Rhyme Player | 67037 | [67037-rhyme-player.json](./67037-rhyme-player.json) |
@@ -8623,6 +8624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift: Starfall Prophecy | 26137 | [26137-rift-starfall-prophecy.json](./26137-rift-starfall-prophecy.json) |
 | Rift: Storm Legion | 1935 | [1935-rift-storm-legion.json](./1935-rift-storm-legion.json) |
 | Rift's Cave | 36079 | [36079-rifts-cave.json](./36079-rifts-cave.json) |
+| Riftaria | 430874 | [430874-riftaria.json](./430874-riftaria.json) |
 | Riftaway | 380355 | [380355-riftaway.json](./380355-riftaway.json) |
 | Riftborn | 370459 | [370459-riftborn.json](./370459-riftborn.json) |
 | Riftborne | 398474 | [398474-riftborne.json](./398474-riftborne.json) |
