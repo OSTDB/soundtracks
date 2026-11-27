@@ -3213,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House 2 | 340419 | [340419-haunted-house-2.json](./340419-haunted-house-2.json) |
 | Haunted House Builder | 270514 | [270514-haunted-house-builder.json](./270514-haunted-house-builder.json) |
 | Haunted House Escape | 192543 | [192543-haunted-house-escape.json](./192543-haunted-house-escape.json) |
+| Haunted House Hellshift | 418619 | [418619-haunted-house-hellshift.json](./418619-haunted-house-hellshift.json) |
 | Haunted House II 3D | 46905 | [46905-haunted-house-ii-3d.json](./46905-haunted-house-ii-3d.json) |
 | Haunted House Mobile | 86182 | [86182-haunted-house-mobile.json](./86182-haunted-house-mobile.json) |
 | Haunted House Mysteries | 122103 | [122103-haunted-house-mysteries.json](./122103-haunted-house-mysteries.json) |
@@ -9281,6 +9282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hijura Scarlet Gear | 427219 | [427219-hijura-scarlet-gear.json](./427219-hijura-scarlet-gear.json) |
 | Hikari no Senshi Photon: The Ultimate Game on Planet Earth | 48491 | [48491-hikari-no-senshi-photon-the-ultimate-game-on-planet-earth.json](./48491-hikari-no-senshi-photon-the-ultimate-game-on-planet-earth.json) |
 | Hikari no Shima: Seven Lithographs in Shining Island | 259488 | [259488-hikari-no-shima-seven-lithographs-in-shining-island.json](./259488-hikari-no-shima-seven-lithographs-in-shining-island.json) |
+| Hikari no Tsukuru: XP | 423417 | [423417-hikari-no-tsukuru-xp.json](./423417-hikari-no-tsukuru-xp.json) |
 | Hikari no Valusia | 378203 | [378203-hikari-no-valusia.json](./378203-hikari-no-valusia.json) |
 | Hikari! Clover Rescue | 113063 | [113063-hikari-clover-rescue.json](./113063-hikari-clover-rescue.json) |
 | Hikari! Love Potion | 128006 | [128006-hikari-love-potion.json](./128006-hikari-love-potion.json) |
@@ -10956,6 +10958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homer The Flanders Killer 7 | 383772 | [383772-homer-the-flanders-killer-7.json](./383772-homer-the-flanders-killer-7.json) |
 | Homer The Flanders Killer 8 | 383773 | [383773-homer-the-flanders-killer-8.json](./383773-homer-the-flanders-killer-8.json) |
 | Homer's Odyssey | 123977 | [123977-homers-odyssey.json](./123977-homers-odyssey.json) |
+| Homerarete Nobiru SR Shoujo-tachi 2 | 418411 | [418411-homerarete-nobiru-sr-shoujo-tachi-2.json](./418411-homerarete-nobiru-sr-shoujo-tachi-2.json) |
 | Homerun | 172462 | [172462-homerun.json](./172462-homerun.json) |
 | HomeRun | 388193 | [388193-homerun.json](./388193-homerun.json) |
 | Homerun Battle 3D | 22871 | [22871-homerun-battle-3d.json](./22871-homerun-battle-3d.json) |
@@ -10985,6 +10988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homestead Online | 337668 | [337668-homestead-online.json](./337668-homestead-online.json) |
 | Homesteader | 62660 | [62660-homesteader.json](./62660-homesteader.json) |
 | HomeStray | 424335 | [424335-homestray.json](./424335-homestray.json) |
+| Homestuck: Aspect Clash | 419430 | [419430-homestuck-aspect-clash.json](./419430-homestuck-aspect-clash.json) |
 | Homestuck: Strife Project | 392326 | [392326-homestuck-strife-project.json](./392326-homestuck-strife-project.json) |
 | Hometopia | 205732 | [205732-hometopia.json](./205732-hometopia.json) |
 | Hometown | 431456 | [431456-hometown.json](./431456-hometown.json) |
@@ -13227,6 +13231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Fool a Liar King | 72344 | [72344-how-to-fool-a-liar-king.json](./72344-how-to-fool-a-liar-king.json) |
 | How to Fool a Liar King: Remastered | 188470 | [188470-how-to-fool-a-liar-king-remastered.json](./188470-how-to-fool-a-liar-king-remastered.json) |
 | How to Get a Japanese Girlfriend (And Save the World) | 292634 | [292634-how-to-get-a-japanese-girlfriend-and-save-the-world.json](./292634-how-to-get-a-japanese-girlfriend-and-save-the-world.json) |
+| How to Get Espers! | 420878 | [420878-how-to-get-espers.json](./420878-how-to-get-espers.json) |
 | How to God | 343055 | [343055-how-to-god.json](./343055-how-to-god.json) |
 | How to Grow a Black Hole | 405789 | [405789-how-to-grow-a-black-hole.json](./405789-how-to-grow-a-black-hole.json) |
 | How to Grow Your Sausage | 404405 | [404405-how-to-grow-your-sausage.json](./404405-how-to-grow-your-sausage.json) |
