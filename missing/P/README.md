@@ -1928,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario World | 322926 | [322926-paper-mario-world.json](./322926-paper-mario-world.json) |
 | Paper Mario World | 339661 | [339661-paper-mario-world.json](./339661-paper-mario-world.json) |
 | Paper Mario World 2 | 339668 | [339668-paper-mario-world-2.json](./339668-paper-mario-world-2.json) |
+| Paper Mario: 5 Letters Until Doom | 415575 | [415575-paper-mario-5-letters-until-doom.json](./415575-paper-mario-5-letters-until-doom.json) |
 | Paper Mario: All Bosses in the Same Battle | 240080 | [240080-paper-mario-all-bosses-in-the-same-battle.json](./240080-paper-mario-all-bosses-in-the-same-battle.json) |
 | Paper Mario: Black Pit | 159343 | [159343-paper-mario-black-pit.json](./159343-paper-mario-black-pit.json) |
 | Paper Mario: Dark Star Edition | 266504 | [266504-paper-mario-dark-star-edition.json](./266504-paper-mario-dark-star-edition.json) |
@@ -5531,7 +5532,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona Q2: New Cinema Labyrinth | 54220 | [54220-persona-q2-new-cinema-labyrinth.json](./54220-persona-q2-new-cinema-labyrinth.json) |
 | Persona Q2: New Cinema Labyrinth - Showtime Premium Edition | 136347 | [136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json](./136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json) |
 | Persona5: The Phantom X | 242315 | [242315-persona5-the-phantom-x.json](./242315-persona5-the-phantom-x.json) |
+| Persona5: The Phantom X - Blissful Mix | 413741 | [413741-persona5-the-phantom-x-blissful-mix.json](./413741-persona5-the-phantom-x-blissful-mix.json) |
 | Persona5: The Phantom X - Faith Held Close | 428450 | [428450-persona5-the-phantom-x-faith-held-close.json](./428450-persona5-the-phantom-x-faith-held-close.json) |
+| Persona5: The Phantom X - Fist of Phantom Star | 413469 | [413469-persona5-the-phantom-x-fist-of-phantom-star.json](./413469-persona5-the-phantom-x-fist-of-phantom-star.json) |
 | Persona5: The Phantom X - Flawless Hacker | 427095 | [427095-persona5-the-phantom-x-flawless-hacker.json](./427095-persona5-the-phantom-x-flawless-hacker.json) |
 | Persona5: The Phantom X - Howdy Hey | 428441 | [428441-persona5-the-phantom-x-howdy-hey.json](./428441-persona5-the-phantom-x-howdy-hey.json) |
 | Persona5: The Phantom X - Le Rouge et le Noir | 428015 | [428015-persona5-the-phantom-x-le-rouge-et-le-noir.json](./428015-persona5-the-phantom-x-le-rouge-et-le-noir.json) |
@@ -18042,6 +18045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Adaloria | 266436 | [266436-project-adaloria.json](./266436-project-adaloria.json) |
 | Project Adam: AI Attack | 268322 | [268322-project-adam-ai-attack.json](./268322-project-adam-ai-attack.json) |
 | Project Adder | 266433 | [266433-project-adder.json](./266433-project-adder.json) |
+| Project Adjusted | 416991 | [416991-project-adjusted.json](./416991-project-adjusted.json) |
 | Project Adrenaline | 310882 | [310882-project-adrenaline.json](./310882-project-adrenaline.json) |
 | Project Adventure Game: The Cycle of the Cave | 124578 | [124578-project-adventure-game-the-cycle-of-the-cave.json](./124578-project-adventure-game-the-cycle-of-the-cave.json) |
 | Project Adventurer | 137523 | [137523-project-adventurer.json](./137523-project-adventurer.json) |
@@ -18632,7 +18636,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
 | Project RE: Visited - Resident Evil 3 | 424186 | [424186-project-re-visited-resident-evil-3.json](./424186-project-re-visited-resident-evil-3.json) |
 | Project Re:Anim | 426673 | [426673-project-re-anim.json](./426673-project-re-anim.json) |
+| Project Readjusted | 416994 | [416994-project-readjusted.json](./416994-project-readjusted.json) |
+| Project Readjusted 2 | 416996 | [416996-project-readjusted-2.json](./416996-project-readjusted-2.json) |
 | Project Readjusted 4: Jet Black | 417008 | [417008-project-readjusted-4-jet-black.json](./417008-project-readjusted-4-jet-black.json) |
+| Project Readjusted III | 416997 | [416997-project-readjusted-iii.json](./416997-project-readjusted-iii.json) |
 | Project Reality | 294572 | [294572-project-reality.json](./294572-project-reality.json) |
 | Project Reality | 315026 | [315026-project-reality.json](./315026-project-reality.json) |
 | Project Reality | 331779 | [331779-project-reality.json](./331779-project-reality.json) |
