@@ -8492,6 +8492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaklypa Grand Prix | 182603 | [182603-flaklypa-grand-prix.json](./182603-flaklypa-grand-prix.json) |
 | Flaky Bakery | 117790 | [117790-flaky-bakery.json](./117790-flaky-bakery.json) |
 | Flaky Love | 310039 | [310039-flaky-love.json](./310039-flaky-love.json) |
+| Flam Evaw | 431161 | [431161-flam-evaw.json](./431161-flam-evaw.json) |
 | Flam the Purge of the Century | 201088 | [201088-flam-the-purge-of-the-century.json](./201088-flam-the-purge-of-the-century.json) |
 | Flamango | 180034 | [180034-flamango.json](./180034-flamango.json) |
 | Flambeau: Deluxxx Edition | 274700 | [274700-flambeau-deluxxx-edition.json](./274700-flambeau-deluxxx-edition.json) |
@@ -8686,6 +8687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flare Nuinui Quest | 320719 | [320719-flare-nuinui-quest.json](./320719-flare-nuinui-quest.json) |
 | Flare: Empyrean Campaign | 252182 | [252182-flare-empyrean-campaign.json](./252182-flare-empyrean-campaign.json) |
 | Flarebound | 373621 | [373621-flarebound.json](./373621-flarebound.json) |
+| Flarefall | 431628 | [431628-flarefall.json](./431628-flarefall.json) |
 | Flaregate Network | 325286 | [325286-flaregate-network.json](./325286-flaregate-network.json) |
 | Flarts | 233637 | [233637-flarts.json](./233637-flarts.json) |
 | Flash and Die | 391167 | [391167-flash-and-die.json](./391167-flash-and-die.json) |
@@ -10397,6 +10399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foliary | 425326 | [425326-foliary.json](./425326-foliary.json) |
 | Folie Fatale | 288798 | [288798-folie-fatale.json](./288798-folie-fatale.json) |
 | Folie Fatale: Kousaku Fanaticism | 364513 | [364513-folie-fatale-kousaku-fanaticism.json](./364513-folie-fatale-kousaku-fanaticism.json) |
+| Folio Detective | 431610 | [431610-folio-detective.json](./431610-folio-detective.json) |
 | Folk Emerging | 244766 | [244766-folk-emerging.json](./244766-folk-emerging.json) |
 | Folk Hero | 244242 | [244242-folk-hero.json](./244242-folk-hero.json) |
 | Folk Song | 317010 | [317010-folk-song.json](./317010-folk-song.json) |
@@ -10701,6 +10704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Bus Battle 2021 | 153978 | [153978-football-bus-battle-2021.json](./153978-football-bus-battle-2021.json) |
 | Football Career | 343455 | [343455-football-career.json](./343455-football-career.json) |
 | Football Career Mode 26 | 346582 | [346582-football-career-mode-26.json](./346582-football-career-mode-26.json) |
+| Football Career Sim | 431554 | [431554-football-career-sim.json](./431554-football-career-sim.json) |
 | Football Chairman Pro | 78554 | [78554-football-chairman-pro.json](./78554-football-chairman-pro.json) |
 | Football Chairman Pro 2 | 370322 | [370322-football-chairman-pro-2.json](./370322-football-chairman-pro-2.json) |
 | Football Challenges | 233459 | [233459-football-challenges.json](./233459-football-challenges.json) |
