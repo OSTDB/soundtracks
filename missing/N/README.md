@@ -6704,6 +6704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Men in This House | 223347 | [223347-no-men-in-this-house.json](./223347-no-men-in-this-house.json) |
 | No Mercy | 431067 | [431067-no-mercy.json](./431067-no-mercy.json) |
 | No Meteors | 146070 | [146070-no-meteors.json](./146070-no-meteors.json) |
+| No Mirame, Cuando Lloro | 418184 | [418184-no-mirame-cuando-lloro.json](./418184-no-mirame-cuando-lloro.json) |
 | No Momentum | 190979 | [190979-no-momentum.json](./190979-no-momentum.json) |
 | No More Buttons | 100695 | [100695-no-more-buttons.json](./100695-no-more-buttons.json) |
 | No More Cows | 399063 | [399063-no-more-cows.json](./399063-no-more-cows.json) |
@@ -8137,6 +8138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notes of the Young Lady: In Turbulent Times | 237716 | [237716-notes-of-the-young-lady-in-turbulent-times.json](./237716-notes-of-the-young-lady-in-turbulent-times.json) |
 | Notes on a Mystery | 301474 | [301474-notes-on-a-mystery.json](./301474-notes-on-a-mystery.json) |
 | Notes on Crying | 181918 | [181918-notes-on-crying.json](./181918-notes-on-crying.json) |
+| Notes on the Disappearance of a Sister | 420993 | [420993-notes-on-the-disappearance-of-a-sister.json](./420993-notes-on-the-disappearance-of-a-sister.json) |
 | Notes To Myself | 279907 | [279907-notes-to-myself.json](./279907-notes-to-myself.json) |
 | Nother | 30899 | [30899-nother.json](./30899-nother.json) |
 | Nothin' But Net | 32206 | [32206-nothin-but-net.json](./32206-nothin-but-net.json) |
@@ -8156,6 +8158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing Exists Outside of This House | 335590 | [335590-nothing-exists-outside-of-this-house.json](./335590-nothing-exists-outside-of-this-house.json) |
 | Nothing Goes Right: Bad Business | 412603 | [412603-nothing-goes-right-bad-business.json](./412603-nothing-goes-right-bad-business.json) |
 | Nothing Good Can Come Of This | 297161 | [297161-nothing-good-can-come-of-this.json](./297161-nothing-good-can-come-of-this.json) |
+| Nothing in Sight | 418873 | [418873-nothing-in-sight.json](./418873-nothing-in-sight.json) |
 | Nothing is Known: The Innocents | 364575 | [364575-nothing-is-known-the-innocents.json](./364575-nothing-is-known-the-innocents.json) |
 | Nothing Left: Give Up | 268278 | [268278-nothing-left-give-up.json](./268278-nothing-left-give-up.json) |
 | Nothing Lost | 422233 | [422233-nothing-lost.json](./422233-nothing-lost.json) |
