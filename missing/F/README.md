@@ -2801,7 +2801,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm & Feast | 414305 | [414305-farm-and-feast.json](./414305-farm-and-feast.json) |
 | Farm & Puzzle | 148687 | [148687-farm-and-puzzle.json](./148687-farm-and-puzzle.json) |
 | Farm & Survive Bundle | 218858 | [218858-farm-and-survive-bundle.json](./218858-farm-and-survive-bundle.json) |
-| Farm 123 - Learn to count | 87509 | [87509-farm-123-learn-to-count.json](./87509-farm-123-learn-to-count.json) |
 | Farm 123 - Learn to count! | 99097 | [99097-farm-123-learn-to-count.json](./99097-farm-123-learn-to-count.json) |
 | Farm 2 | 10309 | [10309-farm-2.json](./10309-farm-2.json) |
 | Farm 2+ | 412347 | [412347-farm-2.json](./412347-farm-2.json) |
