@@ -3774,7 +3774,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tectron: Omorashi Baby | 385826 | [385826-tectron-omorashi-baby.json](./385826-tectron-omorashi-baby.json) |
 | Tectus | 106375 | [106375-tectus.json](./106375-tectus.json) |
 | Ted by Dawn | 34963 | [34963-ted-by-dawn.json](./34963-ted-by-dawn.json) |
-| Ted Ginn: Kick Return | 87422 | [87422-ted-ginn-kick-return.json](./87422-ted-ginn-kick-return.json) |
 | Ted Nugent - Wild Hunting Adventure | 118558 | [118558-ted-nugent-wild-hunting-adventure.json](./118558-ted-nugent-wild-hunting-adventure.json) |
 | Ted Remixed | 98210 | [98210-ted-remixed.json](./98210-ted-remixed.json) |
 | Ted The Jumper | 177077 | [177077-ted-the-jumper.json](./177077-ted-the-jumper.json) |
@@ -4792,7 +4791,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenryu Genichiro no Pro Wrestling Revolution | 38228 | [38228-tenryu-genichiro-no-pro-wrestling-revolution.json](./38228-tenryu-genichiro-no-pro-wrestling-revolution.json) |
 | Tens and Twos | 175384 | [175384-tens-and-twos.json](./175384-tens-and-twos.json) |
 | Tens Junior Maths IQ Challenge | 103993 | [103993-tens-junior-maths-iq-challenge.json](./103993-tens-junior-maths-iq-challenge.json) |
-| Tens! | 87348 | [87348-tens.json](./87348-tens.json) |
 | Tensai Bakabon | 46110 | [46110-tensai-bakabon.json](./46110-tensai-bakabon.json) |
 | Tensai Bit-Kun: Gramon Battle | 4198 | [4198-tensai-bit-kun-gramon-battle.json](./4198-tensai-bit-kun-gramon-battle.json) |
 | Tense | 260286 | [260286-tense.json](./260286-tense.json) |
@@ -5855,7 +5853,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Hold'em Poker DS | 208344 | [208344-texas-holdem-poker-ds.json](./208344-texas-holdem-poker-ds.json) |
 | Texas Hold'em Poker: Pokerist | 93646 | [93646-texas-holdem-poker-pokerist.json](./93646-texas-holdem-poker-pokerist.json) |
 | Texas Hold'em Poker: Pokerist+ | 355985 | [355985-texas-holdem-poker-pokerist.json](./355985-texas-holdem-poker-pokerist.json) |
-| Texas Hold'em: Daily Poke it! | 87154 | [87154-texas-holdem-daily-poke-it.json](./87154-texas-holdem-daily-poke-it.json) |
 | Texas Hold'em: High Stakes Poker | 73540 | [73540-texas-holdem-high-stakes-poker.json](./73540-texas-holdem-high-stakes-poker.json) |
 | Texas Lane'em Poker | 251253 | [251253-texas-laneem-poker.json](./251253-texas-laneem-poker.json) |
 | Texas Moon HD | 103572 | [103572-texas-moon-hd.json](./103572-texas-moon-hd.json) |
@@ -10256,6 +10253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ember Guardian | 342161 | [342161-the-ember-guardian.json](./342161-the-ember-guardian.json) |
 | The Ember Saga: A New Fire | 129959 | [129959-the-ember-saga-a-new-fire.json](./129959-the-ember-saga-a-new-fire.json) |
 | The Embodiment of Scarlet Hair Portable: I'm Lovin' It | 403446 | [403446-the-embodiment-of-scarlet-hair-portable-im-lovin-it.json](./403446-the-embodiment-of-scarlet-hair-portable-im-lovin-it.json) |
+| The Emerald Flower Theory | 408351 | [408351-the-emerald-flower-theory.json](./408351-the-emerald-flower-theory.json) |
 | The Emerald Maiden: Symphony of Dreams | 20363 | [20363-the-emerald-maiden-symphony-of-dreams.json](./20363-the-emerald-maiden-symphony-of-dreams.json) |
 | The Emerald Tablet | 126748 | [126748-the-emerald-tablet.json](./126748-the-emerald-tablet.json) |
 | The Emeralds' Awakening | 326721 | [326721-the-emeralds-awakening.json](./326721-the-emeralds-awakening.json) |
@@ -16440,7 +16438,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery Of Eigengrau | 296798 | [296798-the-mystery-of-eigengrau.json](./296798-the-mystery-of-eigengrau.json) |
 | The Mystery of Eldham | 365548 | [365548-the-mystery-of-eldham.json](./365548-the-mystery-of-eldham.json) |
 | The Mystery of Happyville | 104958 | [104958-the-mystery-of-happyville.json](./104958-the-mystery-of-happyville.json) |
-| The Mystery of Lost Town | 87442 | [87442-the-mystery-of-lost-town.json](./87442-the-mystery-of-lost-town.json) |
 | The Mystery of Mount Fang | 287311 | [287311-the-mystery-of-mount-fang.json](./287311-the-mystery-of-mount-fang.json) |
 | The Mystery of Nile | 59644 | [59644-the-mystery-of-nile.json](./59644-the-mystery-of-nile.json) |
 | The Mystery of Oak Island | 425197 | [425197-the-mystery-of-oak-island.json](./425197-the-mystery-of-oak-island.json) |
@@ -16852,6 +16849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old Gentleman | 296327 | [296327-the-old-gentleman.json](./296327-the-old-gentleman.json) |
 | The Old House | 138760 | [138760-the-old-house.json](./138760-the-old-house.json) |
 | The Old House | 257895 | [257895-the-old-house.json](./257895-the-old-house.json) |
+| The Old House | 396393 | [396393-the-old-house.json](./396393-the-old-house.json) |
 | The Old Kazulka | 89371 | [89371-the-old-kazulka.json](./89371-the-old-kazulka.json) |
 | The Old Man | 135036 | [135036-the-old-man.json](./135036-the-old-man.json) |
 | The Old Man and His Cat | 247657 | [247657-the-old-man-and-his-cat.json](./247657-the-old-man-and-his-cat.json) |
@@ -23217,7 +23215,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think About It! | 232199 | [232199-think-about-it.json](./232199-think-about-it.json) |
 | Think and Choice | 373758 | [373758-think-and-choice.json](./373758-think-and-choice.json) |
 | Think and Co-op | 223233 | [223233-think-and-co-op.json](./223233-think-and-co-op.json) |
-| Think Fast - Time Based Memory Game | 87124 | [87124-think-fast-time-based-memory-game.json](./87124-think-fast-time-based-memory-game.json) |
 | Think in Two | 388758 | [388758-think-in-two.json](./388758-think-in-two.json) |
 | Think It Up | 235430 | [235430-think-it-up.json](./235430-think-it-up.json) |
 | Think Like a Block | 379709 | [379709-think-like-a-block.json](./379709-think-like-a-block.json) |
@@ -29847,7 +29844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Shot: Arcade | 50641 | [50641-top-shot-arcade.json](./50641-top-shot-arcade.json) |
 | Top Shot: Dinosaur Hunter | 51019 | [51019-top-shot-dinosaur-hunter.json](./51019-top-shot-dinosaur-hunter.json) |
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
-| Top Solitaire | 87111 | [87111-top-solitaire.json](./87111-top-solitaire.json) |
 | Top Speed | 40468 | [40468-top-speed.json](./40468-top-speed.json) |
 | Top Speed | 422760 | [422760-top-speed.json](./422760-top-speed.json) |
 | Top Speed 2 | 119378 | [119378-top-speed-2.json](./119378-top-speed-2.json) |
@@ -32349,7 +32345,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Storm | 132426 | [132426-traffic-storm.json](./132426-traffic-storm.json) |
 | Traffic Survivor | 402055 | [402055-traffic-survivor.json](./402055-traffic-survivor.json) |
 | Traffic Tour | 263154 | [263154-traffic-tour.json](./263154-traffic-tour.json) |
-| Traffic Tour | 87282 | [87282-traffic-tour.json](./87282-traffic-tour.json) |
 | Traffic Tour Classic | 249690 | [249690-traffic-tour-classic.json](./249690-traffic-tour-classic.json) |
 | Traffic V | 149931 | [149931-traffic-v.json](./149931-traffic-v.json) |
 | Traffic X | 68096 | [68096-traffic-x.json](./68096-traffic-x.json) |
@@ -34715,7 +34710,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transplant | 70926 | [70926-transplant.json](./70926-transplant.json) |
 | Transplatform | 259904 | [259904-transplatform.json](./259904-transplatform.json) |
 | Transport 2 | 308339 | [308339-transport-2.json](./308339-transport-2.json) |
-| Transport Agent 3D | 87401 | [87401-transport-agent-3d.json](./87401-transport-agent-3d.json) |
 | Transport Defender | 101912 | [101912-transport-defender.json](./101912-transport-defender.json) |
 | Transport Defender | 65828 | [65828-transport-defender.json](./65828-transport-defender.json) |
 | Transport Empire | 19524 | [19524-transport-empire.json](./19524-transport-empire.json) |
@@ -35840,7 +35834,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick Shot | 87820 | [87820-trick-shot.json](./87820-trick-shot.json) |
 | Trick Shot | 96142 | [96142-trick-shot.json](./96142-trick-shot.json) |
 | Trick Shot 2 | 96141 | [96141-trick-shot-2.json](./96141-trick-shot-2.json) |
-| Trick Shot Bowling | 87311 | [87311-trick-shot-bowling.json](./87311-trick-shot-bowling.json) |
 | Trick Shot Cinema | 428897 | [428897-trick-shot-cinema.json](./428897-trick-shot-cinema.json) |
 | Trick Shot Ping Pong | 193555 | [193555-trick-shot-ping-pong.json](./193555-trick-shot-ping-pong.json) |
 | Trick Solitaire | 337265 | [337265-trick-solitaire.json](./337265-trick-solitaire.json) |
