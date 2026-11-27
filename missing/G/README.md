@@ -5013,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gilgalad | 92638 | [92638-gilgalad.json](./92638-gilgalad.json) |
 | Gilgamesh II | 276275 | [276275-gilgamesh-ii.json](./276275-gilgamesh-ii.json) |
 | GilGul | 339990 | [339990-gilgul.json](./339990-gilgul.json) |
+| Gilla | 431060 | [431060-gilla.json](./431060-gilla.json) |
 | Gillbert: Guardian of the Grotto | 310499 | [310499-gillbert-guardian-of-the-grotto.json](./310499-gillbert-guardian-of-the-grotto.json) |
 | Gilles | 236328 | [236328-gilles.json](./236328-gilles.json) |
 | Gilligan's Gold | 77460 | [77460-gilligans-gold.json](./77460-gilligans-gold.json) |
@@ -13236,6 +13237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guus Winterpret | 350015 | [350015-guus-winterpret.json](./350015-guus-winterpret.json) |
 | Guwange Ruga Daioujou XII Kizuna Down | 377699 | [377699-guwange-ruga-daioujou-xii-kizuna-down.json](./377699-guwange-ruga-daioujou-xii-kizuna-down.json) |
 | Guxt | 84492 | [84492-guxt.json](./84492-guxt.json) |
+| Guy Dude Epic Adventure | 430974 | [430974-guy-dude-epic-adventure.json](./430974-guy-dude-epic-adventure.json) |
 | Guy in a Box Killing Things Simulator | 415688 | [415688-guy-in-a-box-killing-things-simulator.json](./415688-guy-in-a-box-killing-things-simulator.json) |
 | Guy Spy and the Crystals of Armageddon | 12130 | [12130-guy-spy-and-the-crystals-of-armageddon.json](./12130-guy-spy-and-the-crystals-of-armageddon.json) |
 | Guy vs. The Wicked and Nefarious Land | 62413 | [62413-guy-vs-the-wicked-and-nefarious-land.json](./62413-guy-vs-the-wicked-and-nefarious-land.json) |
