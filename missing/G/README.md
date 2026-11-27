@@ -3138,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gems of Amazon | 146509 | [146509-gems-of-amazon.json](./146509-gems-of-amazon.json) |
 | Gems of Destiny: Homeless Dwarf | 204027 | [204027-gems-of-destiny-homeless-dwarf.json](./204027-gems-of-destiny-homeless-dwarf.json) |
 | Gems of Destiny: Magic Rescue | 416696 | [416696-gems-of-destiny-magic-rescue.json](./416696-gems-of-destiny-magic-rescue.json) |
+| Gems of Destiny: New Year | 431569 | [431569-gems-of-destiny-new-year.json](./431569-gems-of-destiny-new-year.json) |
 | Gems of Egypt | 395773 | [395773-gems-of-egypt.json](./395773-gems-of-egypt.json) |
 | Gems Of Evolution | 278917 | [278917-gems-of-evolution.json](./278917-gems-of-evolution.json) |
 | Gems of Fate: the Charmed King | 133426 | [133426-gems-of-fate-the-charmed-king.json](./133426-gems-of-fate-the-charmed-king.json) |
@@ -4231,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghetto Golf | 91860 | [91860-ghetto-golf.json](./91860-ghetto-golf.json) |
 | Ghetto Zombies: Graffiti Squad | 255711 | [255711-ghetto-zombies-graffiti-squad.json](./255711-ghetto-zombies-graffiti-squad.json) |
 | GHGuessr | 294541 | [294541-ghguessr.json](./294541-ghguessr.json) |
+| Ghillie Wars | 431541 | [431541-ghillie-wars.json](./431541-ghillie-wars.json) |
 | Ghlobot Shift | 366113 | [366113-ghlobot-shift.json](./366113-ghlobot-shift.json) |
 | Gholazon X | 143837 | [143837-gholazon-x.json](./143837-gholazon-x.json) |
 | Ghone is gone | 128219 | [128219-ghone-is-gone.json](./128219-ghone-is-gone.json) |
@@ -6007,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory Destiny: Reborn | 340307 | [340307-glory-destiny-reborn.json](./340307-glory-destiny-reborn.json) |
 | Glory Heyday | 175670 | [175670-glory-heyday.json](./175670-glory-heyday.json) |
 | Glory Hold | 151117 | [151117-glory-hold.json](./151117-glory-hold.json) |
+| Glory Hole Barista | 431137 | [431137-glory-hole-barista.json](./431137-glory-hole-barista.json) |
 | Glory Hounds | 210700 | [210700-glory-hounds.json](./210700-glory-hounds.json) |
 | Glory Hunters | 185280 | [185280-glory-hunters.json](./185280-glory-hunters.json) |
 | Glory Kingdom | 33704 | [33704-glory-kingdom.json](./33704-glory-kingdom.json) |
@@ -8931,6 +8934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo / Motor Toon Grand Prix 2 Double Pack | 88893 | [88893-gran-turismo-motor-toon-grand-prix-2-double-pack.json](./88893-gran-turismo-motor-toon-grand-prix-2-double-pack.json) |
 | Gran Turismo 2 | 1597 | [1597-gran-turismo-2.json](./1597-gran-turismo-2.json) |
 | Gran Turismo 2000 | 298017 | [298017-gran-turismo-2000.json](./298017-gran-turismo-2000.json) |
+| Gran Turismo 3 PC Enhanced | 431178 | [431178-gran-turismo-3-pc-enhanced.json](./431178-gran-turismo-3-pc-enhanced.json) |
 | Gran Turismo 3: A-Spec | 1600 | [1600-gran-turismo-3-a-spec.json](./1600-gran-turismo-3-a-spec.json) |
 | Gran Turismo 4 | 1601 | [1601-gran-turismo-4.json](./1601-gran-turismo-4.json) |
 | Gran Turismo 4 Spec II | 336043 | [336043-gran-turismo-4-spec-ii.json](./336043-gran-turismo-4-spec-ii.json) |
@@ -10626,6 +10630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid | 327878 | [327878-grid.json](./327878-grid.json) |
 | Grid | 390054 | [390054-grid.json](./390054-grid.json) |
 | Grid & Guilt | 423217 | [423217-grid-and-guilt.json](./423217-grid-and-guilt.json) |
+| Grid & Loot | 431138 | [431138-grid-and-loot.json](./431138-grid-and-loot.json) |
 | Grid 2 | 2138 | [2138-grid-2.json](./2138-grid-2.json) |
 | Grid 2: Bathurst Track Pack | 166433 | [166433-grid-2-bathurst-track-pack.json](./166433-grid-2-bathurst-track-pack.json) |
 | Grid 2: Reloaded Edition | 26185 | [26185-grid-2-reloaded-edition.json](./26185-grid-2-reloaded-edition.json) |
@@ -11482,6 +11487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grounded: Fully Yoked Edition | 297696 | [297696-grounded-fully-yoked-edition.json](./297696-grounded-fully-yoked-edition.json) |
 | GroundFall | 116928 | [116928-groundfall.json](./116928-groundfall.json) |
 | Groundhog Life | 183241 | [183241-groundhog-life.json](./183241-groundhog-life.json) |
+| GroundInFlames | 431617 | [431617-groundinflames.json](./431617-groundinflames.json) |
 | Groundless | 105455 | [105455-groundless.json](./105455-groundless.json) |
 | Grounds of Glory | 114873 | [114873-grounds-of-glory.json](./114873-grounds-of-glory.json) |
 | Groundskeeper | 183402 | [183402-groundskeeper.json](./183402-groundskeeper.json) |
@@ -12827,6 +12833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunman Clive 2 | 8605 | [8605-gunman-clive-2.json](./8605-gunman-clive-2.json) |
 | Gunman Clive Game Boy Edition | 194831 | [194831-gunman-clive-game-boy-edition.json](./194831-gunman-clive-game-boy-edition.json) |
 | Gunman Clive HD Collection | 60063 | [60063-gunman-clive-hd-collection.json](./60063-gunman-clive-hd-collection.json) |
+| Gunman Contracts: Chapter 2 - Art of War | 431613 | [431613-gunman-contracts-chapter-2-art-of-war.json](./431613-gunman-contracts-chapter-2-art-of-war.json) |
 | Gunman Contracts: Stand Alone | 269009 | [269009-gunman-contracts-stand-alone.json](./269009-gunman-contracts-stand-alone.json) |
 | Gunman Drift | 369525 | [369525-gunman-drift.json](./369525-gunman-drift.json) |
 | Gunmancer | 164963 | [164963-gunmancer.json](./164963-gunmancer.json) |
