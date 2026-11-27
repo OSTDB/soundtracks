@@ -5940,7 +5940,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent from C.O.G.O.O. | 234598 | [234598-agent-from-c-o-g-o-o.json](./234598-agent-from-c-o-g-o-o.json) |
 | Agent girl | 81668 | [81668-agent-girl.json](./81668-agent-girl.json) |
 | Agent Gone... Fishing VR | 182789 | [182789-agent-gone-fishing-vr.json](./182789-agent-gone-fishing-vr.json) |
-| Agent Gumball: Roguelike Spy Game | 86835 | [86835-agent-gumball-roguelike-spy-game.json](./86835-agent-gumball-roguelike-spy-game.json) |
 | Agent Hammer | 90780 | [90780-agent-hammer.json](./90780-agent-hammer.json) |
 | Agent Hawk | 338655 | [338655-agent-hawk.json](./338655-agent-hawk.json) |
 | Agent Heart: Deception | 259180 | [259180-agent-heart-deception.json](./259180-agent-heart-deception.json) |
@@ -9917,7 +9916,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Facts: World Proverbs True or False Quiz | 401107 | [401107-amazing-facts-world-proverbs-true-or-false-quiz.json](./401107-amazing-facts-world-proverbs-true-or-false-quiz.json) |
 | Amazing Fix | 163815 | [163815-amazing-fix.json](./163815-amazing-fix.json) |
 | Amazing Frog : Poket Frogs | 223962 | [223962-amazing-frog-poket-frogs.json](./223962-amazing-frog-poket-frogs.json) |
-| Amazing Frog Simulator City | 86921 | [86921-amazing-frog-simulator-city.json](./86921-amazing-frog-simulator-city.json) |
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
 | Amazing Frog? | 36143 | [36143-amazing-frog.json](./36143-amazing-frog.json) |
 | Amazing Frog? 2 | 286732 | [286732-amazing-frog-2.json](./286732-amazing-frog-2.json) |
@@ -10328,7 +10326,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck | 94398 | [94398-american-truck.json](./94398-american-truck.json) |
 | American Truck Car Transport | 231981 | [231981-american-truck-car-transport.json](./231981-american-truck-car-transport.json) |
 | American Truck Simulator | 9667 | [9667-american-truck-simulator.json](./9667-american-truck-simulator.json) |
-| American Truck Simulator 2018 | 86722 | [86722-american-truck-simulator-2018.json](./86722-american-truck-simulator-2018.json) |
 | American Truck Simulator 2022 | 197844 | [197844-american-truck-simulator-2022.json](./197844-american-truck-simulator-2022.json) |
 | American Truck Simulator: Arizona | 23478 | [23478-american-truck-simulator-arizona.json](./23478-american-truck-simulator-arizona.json) |
 | American Truck Simulator: Arkansas | 266359 | [266359-american-truck-simulator-arkansas.json](./266359-american-truck-simulator-arkansas.json) |
@@ -11726,7 +11723,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Gran Run | 93852 | [93852-angry-gran-run.json](./93852-angry-gran-run.json) |
 | Angry Granny 2-Angry Neighbor | 102852 | [102852-angry-granny-2-angry-neighbor.json](./102852-angry-granny-2-angry-neighbor.json) |
 | Angry Henry And The Escape From The Helicopter Lords Part 17: The Re-Reckoning | 402732 | [402732-angry-henry-and-the-escape-from-the-helicopter-lords-part-17-the-re-reckoning.json](./402732-angry-henry-and-the-escape-from-the-helicopter-lords-part-17-the-re-reckoning.json) |
-| Angry Hills | 87100 | [87100-angry-hills.json](./87100-angry-hills.json) |
 | Angry King | 111220 | [111220-angry-king.json](./111220-angry-king.json) |
 | Angry King | 301121 | [301121-angry-king.json](./301121-angry-king.json) |
 | Angry Mother Earth | 265562 | [265562-angry-mother-earth.json](./265562-angry-mother-earth.json) |
@@ -15222,7 +15218,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Paradise: Vostok Inc. Pinball | 250170 | [250170-arcade-paradise-vostok-inc-pinball.json](./250170-arcade-paradise-vostok-inc-pinball.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcade Party Pak | 92977 | [92977-arcade-party-pak.json](./92977-arcade-party-pak.json) |
-| Arcade Pinball | 86706 | [86706-arcade-pinball.json](./86706-arcade-pinball.json) |
 | Arcade Pong | 276530 | [276530-arcade-pong.json](./276530-arcade-pong.json) |
 | Arcade Pool | 11909 | [11909-arcade-pool.json](./11909-arcade-pool.json) |
 | Arcade Pool & Snooker | 91692 | [91692-arcade-pool-and-snooker.json](./91692-arcade-pool-and-snooker.json) |
@@ -17022,7 +17017,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow War | 248104 | [248104-arrow-war.json](./248104-arrow-war.json) |
 | Arrow World | 374881 | [374881-arrow-world.json](./374881-arrow-world.json) |
 | Arrow: Button Heart | 417341 | [417341-arrow-button-heart.json](./417341-arrow-button-heart.json) |
-| Arrow.io | 86785 | [86785-arrow-io.json](./86785-arrow-io.json) |
 | ArrowBall | 172599 | [172599-arrowball.json](./172599-arrowball.json) |
 | ArrowBase | 189808 | [189808-arrowbase.json](./189808-arrowbase.json) |
 | Arrowborn | 97013 | [97013-arrowborn.json](./97013-arrowborn.json) |
@@ -19768,7 +19762,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athletic Land | 41662 | [41662-athletic-land.json](./41662-athletic-land.json) |
 | Athletic Land | 55859 | [55859-athletic-land.json](./55859-athletic-land.json) |
 | Athletic World | 9104 | [9104-athletic-world.json](./9104-athletic-world.json) |
-| Athletics 2: Winter Sports Pro | 86877 | [86877-athletics-2-winter-sports-pro.json](./86877-athletics-2-winter-sports-pro.json) |
 | Athletics 3: Summer Sports | 152434 | [152434-athletics-3-summer-sports.json](./152434-athletics-3-summer-sports.json) |
 | Athletics Championship | 252957 | [252957-athletics-championship.json](./252957-athletics-championship.json) |
 | Athletics Mania | 272442 | [272442-athletics-mania.json](./272442-athletics-mania.json) |
