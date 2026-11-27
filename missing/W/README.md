@@ -2474,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warspear Online | 87077 | [87077-warspear-online.json](./87077-warspear-online.json) |
 | WarSphere | 253459 | [253459-warsphere.json](./253459-warsphere.json) |
 | WarSphere: The Worthy Branch | 289901 | [289901-warsphere-the-worthy-branch.json](./289901-warsphere-the-worthy-branch.json) |
+| Warspire | 431529 | [431529-warspire.json](./431529-warspire.json) |
 | Warspirits | 297483 | [297483-warspirits.json](./297483-warspirits.json) |
 | Warsport | 93325 | [93325-warsport.json](./93325-warsport.json) |
 | Warstead | 422825 | [422825-warstead.json](./422825-warstead.json) |
@@ -7210,6 +7211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipe Off | 359314 | [359314-wipe-off.json](./359314-wipe-off.json) |
 | Wipe Out | 18160 | [18160-wipe-out.json](./18160-wipe-out.json) |
 | Wipe Out VR | 81248 | [81248-wipe-out-vr.json](./81248-wipe-out-vr.json) |
+| Wipe Them Out! | 431516 | [431516-wipe-them-out.json](./431516-wipe-them-out.json) |
 | Wiped Clean | 350961 | [350961-wiped-clean.json](./350961-wiped-clean.json) |
 | Wipeout | 1083 | [1083-wipeout.json](./1083-wipeout.json) |
 | Wipeout | 109445 | [109445-wipeout.json](./109445-wipeout.json) |
