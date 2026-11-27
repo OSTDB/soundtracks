@@ -4077,7 +4077,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts and Heroes: A Markiplier Fan Game | 403801 | [403801-hearts-and-heroes-a-markiplier-fan-game.json](./403801-hearts-and-heroes-a-markiplier-fan-game.json) |
 | Hearts by Dodofox | 100334 | [100334-hearts-by-dodofox.json](./100334-hearts-by-dodofox.json) |
 | Hearts by Webfoot | 108286 | [108286-hearts-by-webfoot.json](./108286-hearts-by-webfoot.json) |
-| Hearts Cards | 86724 | [86724-hearts-cards.json](./86724-hearts-cards.json) |
 | Hearts Deluxe | 118736 | [118736-hearts-deluxe.json](./118736-hearts-deluxe.json) |
 | Hearts Gone Black | 410042 | [410042-hearts-gone-black.json](./410042-hearts-gone-black.json) |
 | Hearts in Hades: Divine Passion | 392526 | [392526-hearts-in-hades-divine-passion.json](./392526-hearts-in-hades-divine-passion.json) |
@@ -4131,7 +4130,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of the Dungeon List | 173036 | [173036-hearts-of-the-dungeon-list.json](./173036-hearts-of-the-dungeon-list.json) |
 | Hearts on Fire | 313720 | [313720-hearts-on-fire.json](./313720-hearts-on-fire.json) |
 | Hearts Online | 317011 | [317011-hearts-online.json](./317011-hearts-online.json) |
-| Hearts Premium HD | 86867 | [86867-hearts-premium-hd.json](./86867-hearts-premium-hd.json) |
 | Hearts Spades Euchre | 65870 | [65870-hearts-spades-euchre.json](./65870-hearts-spades-euchre.json) |
 | Hearts Tournament | 89770 | [89770-hearts-tournament.json](./89770-hearts-tournament.json) |
 | Hearts United | 201396 | [201396-hearts-united.json](./201396-hearts-united.json) |
@@ -8068,7 +8066,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Clues 2: Miami | 289654 | [289654-hidden-clues-2-miami.json](./289654-hidden-clues-2-miami.json) |
 | Hidden Clues: Gang Wars | 295101 | [295101-hidden-clues-gang-wars.json](./295101-hidden-clues-gang-wars.json) |
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
-| Hidden Collection | 86714 | [86714-hidden-collection.json](./86714-hidden-collection.json) |
 | Hidden Collection - Fun Seek and Find Hidden Object Puzzles | 90370 | [90370-hidden-collection-fun-seek-and-find-hidden-object-puzzles.json](./90370-hidden-collection-fun-seek-and-find-hidden-object-puzzles.json) |
 | Hidden Collection 2 HD - Fun Seek and Find Hidden Object Puzzles | 98721 | [98721-hidden-collection-2-hd-fun-seek-and-find-hidden-object-puzzles.json](./98721-hidden-collection-2-hd-fun-seek-and-find-hidden-object-puzzles.json) |
 | Hidden Corgi Mansion | 294186 | [294186-hidden-corgi-mansion.json](./294186-hidden-corgi-mansion.json) |
@@ -8502,8 +8499,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Romantic Love - Castle: Scary Mystery Ghost - The Secret Forest | 88266 | [88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json](./88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json) |
 | Hidden Objects: Room Cleaning | 82223 | [82223-hidden-objects-room-cleaning.json](./82223-hidden-objects-room-cleaning.json) |
 | Hidden Objects: Secret Garden | 98701 | [98701-hidden-objects-secret-garden.json](./98701-hidden-objects-secret-garden.json) |
-| Hidden Objects: Secret Vampire Rooms - Lost Kingdom: My Village | 86700 | [86700-hidden-objects-secret-vampire-rooms-lost-kingdom-my-village.json](./86700-hidden-objects-secret-vampire-rooms-lost-kingdom-my-village.json) |
-| Hidden Objects: Sherlock Holmes Mystery Case - The Big Apartment: My Mysterious House - The Big Hotel | 86723 | [86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json](./86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json) |
 | Hidden Objects: Sleeping Beauty | 195423 | [195423-hidden-objects-sleeping-beauty.json](./195423-hidden-objects-sleeping-beauty.json) |
 | Hidden Objects: The Big Circus Mystery - My Watch Shop: Wanted Dead or Alive | 107677 | [107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json](./107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json) |
 | Hidden Objects: The big journey | 215283 | [215283-hidden-objects-the-big-journey.json](./215283-hidden-objects-the-big-journey.json) |
@@ -8883,7 +8878,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Rollerz | 209911 | [209911-high-rollerz.json](./209911-high-rollerz.json) |
 | High School Adventure | 311651 | [311651-high-school-adventure.json](./311651-high-school-adventure.json) |
 | High School Athletics Games 3D | 296779 | [296779-high-school-athletics-games-3d.json](./296779-high-school-athletics-games-3d.json) |
-| High School Crush | 86812 | [86812-high-school-crush.json](./86812-high-school-crush.json) |
 | High School Days | 163633 | [163633-high-school-days.json](./163633-high-school-days.json) |
 | High School Daze: Afterschool Stories | 264349 | [264349-high-school-daze-afterschool-stories.json](./264349-high-school-daze-afterschool-stories.json) |
 | High School Daze: Junior Year | 264348 | [264348-high-school-daze-junior-year.json](./264348-high-school-daze-junior-year.json) |
@@ -10045,7 +10039,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobble-Wobble | 388221 | [388221-hobble-wobble.json](./388221-hobble-wobble.json) |
 | Hobbs Home | 169871 | [169871-hobbs-home.json](./169871-hobbs-home.json) |
 | Hobby Farm | 101148 | [101148-hobby-farm.json](./101148-hobby-farm.json) |
-| Hobby Farm Free | 87072 | [87072-hobby-farm-free.json](./87072-hobby-farm-free.json) |
 | Hobby Horse | 345790 | [345790-hobby-horse.json](./345790-hobby-horse.json) |
 | Hobby Horse: First Ride | 357852 | [357852-hobby-horse-first-ride.json](./357852-hobby-horse-first-ride.json) |
 | Hobby Module | 74413 | [74413-hobby-module.json](./74413-hobby-module.json) |
@@ -11466,7 +11459,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoover Heroes | 329963 | [329963-hoover-heroes.json](./329963-hoover-heroes.json) |
 | Hoovernauts | 149248 | [149248-hoovernauts.json](./149248-hoovernauts.json) |
 | Hoozuki no Yakusai | 376674 | [376674-hoozuki-no-yakusai.json](./376674-hoozuki-no-yakusai.json) |
-| Hop | 86964 | [86964-hop.json](./86964-hop.json) |
 | Hop 'n' Marty | 310323 | [310323-hop-n-marty.json](./310323-hop-n-marty.json) |
 | Hop 'N' Stack | 311665 | [311665-hop-n-stack.json](./311665-hop-n-stack.json) |
 | Hop & Seek | 377223 | [377223-hop-and-seek.json](./377223-hop-and-seek.json) |
@@ -13375,7 +13367,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Official Book of Games: Volume 3 | 50273 | [50273-hoyle-official-book-of-games-volume-3.json](./50273-hoyle-official-book-of-games-volume-3.json) |
 | Hoyle Official Card Games Collection | 34590 | [34590-hoyle-official-card-games-collection.json](./34590-hoyle-official-card-games-collection.json) |
 | Hoyle Official Casino Games | 31062 | [31062-hoyle-official-casino-games.json](./31062-hoyle-official-casino-games.json) |
-| Hoyle Official Casino Games Collection | 87061 | [87061-hoyle-official-casino-games-collection.json](./87061-hoyle-official-casino-games-collection.json) |
 | Hoyle Poker | 73147 | [73147-hoyle-poker.json](./73147-hoyle-poker.json) |
 | Hoyle Poker and More | 88343 | [88343-hoyle-poker-and-more.json](./88343-hoyle-poker-and-more.json) |
 | Hoyle Poker Series | 210074 | [210074-hoyle-poker-series.json](./210074-hoyle-poker-series.json) |
@@ -14481,7 +14472,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydrothermal | 88570 | [88570-hydrothermal.json](./88570-hydrothermal.json) |
 | HydroTick | 428315 | [428315-hydrotick.json](./428315-hydrotick.json) |
 | Hydrotopia | 176585 | [176585-hydrotopia.json](./176585-hydrotopia.json) |
-| Hyena Simulator | 86848 | [86848-hyena-simulator.json](./86848-hyena-simulator.json) |
 | Hyena Squad | 175206 | [175206-hyena-squad.json](./175206-hyena-squad.json) |
 | Hyena: Dogs of War | 128172 | [128172-hyena-dogs-of-war.json](./128172-hyena-dogs-of-war.json) |
 | Hyenas | 206103 | [206103-hyenas.json](./206103-hyenas.json) |
