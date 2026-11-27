@@ -15016,6 +15016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustown | 424836 | [424836-rustown.json](./424836-rustown.json) |
 | RustRun | 422804 | [422804-rustrun.json](./422804-rustrun.json) |
 | Rusts of Corruption | 307218 | [307218-rusts-of-corruption.json](./307218-rusts-of-corruption.json) |
+| Rustwake | 431681 | [431681-rustwake.json](./431681-rustwake.json) |
 | Rustwalker Legends | 216935 | [216935-rustwalker-legends.json](./216935-rustwalker-legends.json) |
 | Rustwater | 423106 | [423106-rustwater.json](./423106-rustwater.json) |
 | Rustwing | 302876 | [302876-rustwing.json](./302876-rustwing.json) |
