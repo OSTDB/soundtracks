@@ -14495,6 +14495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Dig Up the Dead | 298781 | [298781-dont-dig-up-the-dead.json](./298781-dont-dig-up-the-dead.json) |
 | Don't Disturb | 32065 | [32065-dont-disturb.json](./32065-dont-disturb.json) |
 | Don't Dive Deep | 164043 | [164043-dont-dive-deep.json](./164043-dont-dive-deep.json) |
+| Don't Drain the Lake | 431648 | [431648-dont-drain-the-lake.json](./431648-dont-drain-the-lake.json) |
 | Don't Drink & Drive Simulator 2018 | 182794 | [182794-dont-drink-and-drive-simulator-2018.json](./182794-dont-drink-and-drive-simulator-2018.json) |
 | Don't Drink That! | 364667 | [364667-dont-drink-that.json](./364667-dont-drink-that.json) |
 | Don't Drink the Pink | 307786 | [307786-dont-drink-the-pink.json](./307786-dont-drink-the-pink.json) |
@@ -21871,6 +21872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungless | 152557 | [152557-dungless.json](./152557-dungless.json) |
 | Dungless 2 | 164512 | [164512-dungless-2.json](./164512-dungless-2.json) |
 | Dungman: The Dungeon Crawler | 214016 | [214016-dungman-the-dungeon-crawler.json](./214016-dungman-the-dungeon-crawler.json) |
+| Dungoku | 431653 | [431653-dungoku.json](./431653-dungoku.json) |
 | Dungreed | 76816 | [76816-dungreed.json](./76816-dungreed.json) |
 | DunHero | 237242 | [237242-dunhero.json](./237242-dunhero.json) |
 | Dunia: Masters | 37406 | [37406-dunia-masters.json](./37406-dunia-masters.json) |
