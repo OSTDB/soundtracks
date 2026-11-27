@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Cafe Simulator | 326325 | [326325-vacation-cafe-simulator.json](./326325-vacation-cafe-simulator.json) |
 | Vacation Cove | 273221 | [273221-vacation-cove.json](./273221-vacation-cove.json) |
 | Vacation Gone Awry | 74019 | [74019-vacation-gone-awry.json](./74019-vacation-gone-awry.json) |
+| Vacation Home | 415359 | [415359-vacation-home.json](./415359-vacation-home.json) |
 | Vacation in Paradise | 370256 | [370256-vacation-in-paradise.json](./370256-vacation-in-paradise.json) |
 | Vacation Island | 204236 | [204236-vacation-island.json](./204236-vacation-island.json) |
 | Vacation Isle Beach Party | 50601 | [50601-vacation-isle-beach-party.json](./50601-vacation-isle-beach-party.json) |
