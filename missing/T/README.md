@@ -1454,7 +1454,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Morrow | 190124 | [190124-tales-of-morrow.json](./190124-tales-of-morrow.json) |
 | Tales of Mythica: Assertion | 61785 | [61785-tales-of-mythica-assertion.json](./61785-tales-of-mythica-assertion.json) |
 | Tales of Nebezem RPG: Red Peril | 115609 | [115609-tales-of-nebezem-rpg-red-peril.json](./115609-tales-of-nebezem-rpg-red-peril.json) |
-| Tales of Nebezem: Elemental Link | 86749 | [86749-tales-of-nebezem-elemental-link.json](./86749-tales-of-nebezem-elemental-link.json) |
 | Tales of Nebezem: Gnomish Plot | 101697 | [101697-tales-of-nebezem-gnomish-plot.json](./101697-tales-of-nebezem-gnomish-plot.json) |
 | Tales of Nebezem: Golden Scepter | 95945 | [95945-tales-of-nebezem-golden-scepter.json](./95945-tales-of-nebezem-golden-scepter.json) |
 | Tales of Nebezem: Mind Trial | 95925 | [95925-tales-of-nebezem-mind-trial.json](./95925-tales-of-nebezem-mind-trial.json) |
@@ -1769,11 +1768,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Tom Candy Run | 107165 | [107165-talking-tom-candy-run.json](./107165-talking-tom-candy-run.json) |
 | Talking Tom Cat | 214349 | [214349-talking-tom-cat.json](./214349-talking-tom-cat.json) |
 | Talking Tom Cat 2 | 214779 | [214779-talking-tom-cat-2.json](./214779-talking-tom-cat-2.json) |
-| Talking Tom Gold Run | 87051 | [87051-talking-tom-gold-run.json](./87051-talking-tom-gold-run.json) |
 | Talking Tom Hero Dash | 119245 | [119245-talking-tom-hero-dash.json](./119245-talking-tom-hero-dash.json) |
 | Talking Tom Jetski | 86827 | [86827-talking-tom-jetski.json](./86827-talking-tom-jetski.json) |
 | Talking Tom Jetski 2 | 103092 | [103092-talking-tom-jetski-2.json](./103092-talking-tom-jetski-2.json) |
-| Talking Tom Pool | 87043 | [87043-talking-tom-pool.json](./87043-talking-tom-pool.json) |
 | Talking Tom Time Rush | 232034 | [232034-talking-tom-time-rush.json](./232034-talking-tom-time-rush.json) |
 | TalkMan | 23141 | [23141-talkman.json](./23141-talkman.json) |
 | Talkman Travel | 92721 | [92721-talkman-travel.json](./92721-talkman-travel.json) |
@@ -2622,7 +2619,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Jockey | 175260 | [175260-tap-jockey.json](./175260-tap-jockey.json) |
 | Tap knife VIP | 105959 | [105959-tap-knife-vip.json](./105959-tap-knife-vip.json) |
 | Tap Knight: Idle Adventure | 200326 | [200326-tap-knight-idle-adventure.json](./200326-tap-knight-idle-adventure.json) |
-| Tap Knights: Heroes & Monsters | 86942 | [86942-tap-knights-heroes-and-monsters.json](./86942-tap-knights-heroes-and-monsters.json) |
 | Tap Legends: Tactics RPG | 219962 | [219962-tap-legends-tactics-rpg.json](./219962-tap-legends-tactics-rpg.json) |
 | Tap Master | 239038 | [239038-tap-master.json](./239038-tap-master.json) |
 | Tap Master: Mondrian | 333581 | [333581-tap-master-mondrian.json](./333581-tap-master-mondrian.json) |
@@ -6895,7 +6891,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Argument Solver | 289308 | [289308-the-argument-solver.json](./289308-the-argument-solver.json) |
 | The Ark | 390005 | [390005-the-ark.json](./390005-the-ark.json) |
 | The Ark Adult Game | 322715 | [322715-the-ark-adult-game.json](./322715-the-ark-adult-game.json) |
-| The Ark of Craft | 86794 | [86794-the-ark-of-craft.json](./86794-the-ark-of-craft.json) |
 | The Ark of Exodus | 284186 | [284186-the-ark-of-exodus.json](./284186-the-ark-of-exodus.json) |
 | The Ark of Horizon | 117162 | [117162-the-ark-of-horizon.json](./117162-the-ark-of-horizon.json) |
 | The Arkane Collection | 331402 | [331402-the-arkane-collection.json](./331402-the-arkane-collection.json) |
@@ -11647,7 +11642,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost | 174885 | [174885-the-ghost.json](./174885-the-ghost.json) |
 | The Ghost and the Golem | 211169 | [211169-the-ghost-and-the-golem.json](./211169-the-ghost-and-the-golem.json) |
 | The Ghost and The Phoenix | 224585 | [224585-the-ghost-and-the-phoenix.json](./224585-the-ghost-and-the-phoenix.json) |
-| The Ghost Archives: Haunting of Shady Valley | 87065 | [87065-the-ghost-archives-haunting-of-shady-valley.json](./87065-the-ghost-archives-haunting-of-shady-valley.json) |
 | The Ghost Cage | 173273 | [173273-the-ghost-cage.json](./173273-the-ghost-cage.json) |
 | The Ghost in My Apartment | 396353 | [396353-the-ghost-in-my-apartment.json](./396353-the-ghost-in-my-apartment.json) |
 | The Ghost of Alcantra | 341813 | [341813-the-ghost-of-alcantra.json](./341813-the-ghost-of-alcantra.json) |
@@ -12016,8 +12010,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Sperm Race | 324345 | [324345-the-great-sperm-race.json](./324345-the-great-sperm-race.json) |
 | The Great Story of a Mighty Hero - Remastered | 102446 | [102446-the-great-story-of-a-mighty-hero-remastered.json](./102446-the-great-story-of-a-mighty-hero-remastered.json) |
 | The Great Stroke-Off! | 73311 | [73311-the-great-stroke-off.json](./73311-the-great-stroke-off.json) |
-| The Great Tournament | 86758 | [86758-the-great-tournament.json](./86758-the-great-tournament.json) |
-| The Great Tournament 2 | 86759 | [86759-the-great-tournament-2.json](./86759-the-great-tournament-2.json) |
 | The Great Tree | 206255 | [206255-the-great-tree.json](./206255-the-great-tree.json) |
 | The Great Tsunami | 180662 | [180662-the-great-tsunami.json](./180662-the-great-tsunami.json) |
 | The Great Unborn | 156723 | [156723-the-great-unborn.json](./156723-the-great-unborn.json) |
@@ -13496,7 +13488,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kill Kar II: Revenge | 234389 | [234389-the-kill-kar-ii-revenge.json](./234389-the-kill-kar-ii-revenge.json) |
 | The Kill Zone | 235827 | [235827-the-kill-zone.json](./235827-the-kill-zone.json) |
 | The Killbox: Arena Combat | 74293 | [74293-the-killbox-arena-combat.json](./74293-the-killbox-arena-combat.json) |
-| The Killbox: Arena Combat US | 86976 | [86976-the-killbox-arena-combat-us.json](./86976-the-killbox-arena-combat-us.json) |
 | The Killbox: Leo | 223874 | [223874-the-killbox-leo.json](./223874-the-killbox-leo.json) |
 | The Killer | 212582 | [212582-the-killer.json](./212582-the-killer.json) |
 | The Killer | 377312 | [377312-the-killer.json](./377312-the-killer.json) |
@@ -22273,7 +22264,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wolf of Derevnya | 226459 | [226459-the-wolf-of-derevnya.json](./226459-the-wolf-of-derevnya.json) |
 | The Wolf Wears Red | 409844 | [409844-the-wolf-wears-red.json](./409844-the-wolf-wears-red.json) |
 | The Wolf Within | 224979 | [224979-the-wolf-within.json](./224979-the-wolf-within.json) |
-| The Wolf: Online RPG Simulator | 86796 | [86796-the-wolf-online-rpg-simulator.json](./86796-the-wolf-online-rpg-simulator.json) |
 | The Wolf's Bite | 28215 | [28215-the-wolfs-bite.json](./28215-the-wolfs-bite.json) |
 | The Wolf's Den | 154082 | [154082-the-wolfs-den.json](./154082-the-wolfs-den.json) |
 | The Wolf's Girl | 160070 | [160070-the-wolfs-girl.json](./160070-the-wolfs-girl.json) |
@@ -26320,7 +26310,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Ombo | 105914 | [105914-tiki-ombo.json](./105914-tiki-ombo.json) |
 | Tiki Party: Quiz Game with Friends | 211319 | [211319-tiki-party-quiz-game-with-friends.json](./211319-tiki-party-quiz-game-with-friends.json) |
 | Tiki Resort | 92444 | [92444-tiki-resort.json](./92444-tiki-resort.json) |
-| Tiki Solitaire TriPeaks | 86965 | [86965-tiki-solitaire-tripeaks.json](./86965-tiki-solitaire-tripeaks.json) |
 | Tiki Taka Soccer | 58219 | [58219-tiki-taka-soccer.json](./58219-tiki-taka-soccer.json) |
 | Tiki Taka World Soccer | 58217 | [58217-tiki-taka-world-soccer.json](./58217-tiki-taka-world-soccer.json) |
 | Tiki Tandems | 272263 | [272263-tiki-tandems.json](./272263-tiki-tandems.json) |
@@ -26832,7 +26821,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Morp | 185231 | [185231-time-to-morp.json](./185231-time-to-morp.json) |
 | Time to Parkour | 114479 | [114479-time-to-parkour.json](./114479-time-to-parkour.json) |
 | Time to Play Bridge | 95582 | [95582-time-to-play-bridge.json](./95582-time-to-play-bridge.json) |
-| Time to Play Hearts | 86709 | [86709-time-to-play-hearts.json](./86709-time-to-play-hearts.json) |
 | Time to Play Pyramid | 96759 | [96759-time-to-play-pyramid.json](./96759-time-to-play-pyramid.json) |
 | Time to Repair | 91234 | [91234-time-to-repair.json](./91234-time-to-repair.json) |
 | Time to Ride: Saddles & Stables | 64908 | [64908-time-to-ride-saddles-and-stables.json](./64908-time-to-ride-saddles-and-stables.json) |
@@ -27470,7 +27458,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Stories: Santa Closes | 185928 | [185928-tiny-stories-santa-closes.json](./185928-tiny-stories-santa-closes.json) |
 | Tiny Strife | 158083 | [158083-tiny-strife.json](./158083-tiny-strife.json) |
 | Tiny Striker | 23408 | [23408-tiny-striker.json](./23408-tiny-striker.json) |
-| Tiny Striker: World Football | 86939 | [86939-tiny-striker-world-football.json](./86939-tiny-striker-world-football.json) |
 | Tiny Survivors | 244131 | [244131-tiny-survivors.json](./244131-tiny-survivors.json) |
 | Tiny Survivors | 413902 | [413902-tiny-survivors.json](./413902-tiny-survivors.json) |
 | Tiny T | 171445 | [171445-tiny-t.json](./171445-tiny-t.json) |
@@ -28347,7 +28334,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toddler Flashcards HD: Baby Learning Games & Apps | 87576 | [87576-toddler-flashcards-hd-baby-learning-games-and-apps.json](./87576-toddler-flashcards-hd-baby-learning-games-and-apps.json) |
 | Toddler Games and Kids Puzzles | 88510 | [88510-toddler-games-and-kids-puzzles.json](./88510-toddler-games-and-kids-puzzles.json) |
 | Toddler Games: puzzles, shapes | 103747 | [103747-toddler-games-puzzles-shapes.json](./103747-toddler-games-puzzles-shapes.json) |
-| Toddler Learning Game-EduKitty | 86788 | [86788-toddler-learning-game-edukitty.json](./86788-toddler-learning-game-edukitty.json) |
 | Toddler Racing Car Game for Kids. | 100985 | [100985-toddler-racing-car-game-for-kids.json](./100985-toddler-racing-car-game-for-kids.json) |
 | Toddler Simulator | 86482 | [86482-toddler-simulator.json](./86482-toddler-simulator.json) |
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
@@ -30669,7 +30655,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touched by an Outer God | 391901 | [391901-touched-by-an-outer-god.json](./391901-touched-by-an-outer-god.json) |
 | TouchFish | 137011 | [137011-touchfish.json](./137011-touchfish.json) |
 | Touchgrind | 66732 | [66732-touchgrind.json](./66732-touchgrind.json) |
-| Touchgrind BMX | 86849 | [86849-touchgrind-bmx.json](./86849-touchgrind-bmx.json) |
 | Touchgrind BMX | 88294 | [88294-touchgrind-bmx.json](./88294-touchgrind-bmx.json) |
 | Touchgrind BMX 2 | 99835 | [99835-touchgrind-bmx-2.json](./99835-touchgrind-bmx-2.json) |
 | Touchgrind BMX 3: Rivals | 364425 | [364425-touchgrind-bmx-3-rivals.json](./364425-touchgrind-bmx-3-rivals.json) |
@@ -31939,7 +31924,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Monsters | 293375 | [293375-toy-monsters.json](./293375-toy-monsters.json) |
 | Toy Odyssey: The Lost and Found | 23985 | [23985-toy-odyssey-the-lost-and-found.json](./23985-toy-odyssey-the-lost-and-found.json) |
 | Toy Paradise | 181976 | [181976-toy-paradise.json](./181976-toy-paradise.json) |
-| Toy Party - Dazzling Puzzle | 87098 | [87098-toy-party-dazzling-puzzle.json](./87098-toy-party-dazzling-puzzle.json) |
 | Toy Party: Match 3 Hexa Blast! | 99920 | [99920-toy-party-match-3-hexa-blast.json](./99920-toy-party-match-3-hexa-blast.json) |
 | Toy Plane Heroes | 19034 | [19034-toy-plane-heroes.json](./19034-toy-plane-heroes.json) |
 | Toy Pop | 38037 | [38037-toy-pop.json](./38037-toy-pop.json) |
@@ -32226,7 +32210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TractionSim | 288573 | [288573-tractionsim.json](./288573-tractionsim.json) |
 | Tractor Beams | 314816 | [314816-tractor-beams.json](./314816-tractor-beams.json) |
 | Tractor Cargo Driving Simulator | 393955 | [393955-tractor-cargo-driving-simulator.json](./393955-tractor-cargo-driving-simulator.json) |
-| Tractor Farmer | 86710 | [86710-tractor-farmer.json](./86710-tractor-farmer.json) |
 | Tractor Farming Simulator 3D | 300844 | [300844-tractor-farming-simulator-3d.json](./300844-tractor-farming-simulator-3d.json) |
 | Tractor Hero | 247435 | [247435-tractor-hero.json](./247435-tractor-hero.json) |
 | Tractor Journey | 223154 | [223154-tractor-journey.json](./223154-tractor-journey.json) |
@@ -32487,7 +32470,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Driver 2 | 176687 | [176687-train-driver-2.json](./176687-train-driver-2.json) |
 | Train Driver Journey 2 - Iberia Interior | 88222 | [88222-train-driver-journey-2-iberia-interior.json](./88222-train-driver-journey-2-iberia-interior.json) |
 | Train Driver Journey 3 - Waldabavale to Karrah Bay | 100617 | [100617-train-driver-journey-3-waldabavale-to-karrah-bay.json](./100617-train-driver-journey-3-waldabavale-to-karrah-bay.json) |
-| Train Driver Journey 4 - Introduction to Steam | 86881 | [86881-train-driver-journey-4-introduction-to-steam.json](./86881-train-driver-journey-4-introduction-to-steam.json) |
 | Train Driver Journey 5 - Tidewater Point Railroad | 99258 | [99258-train-driver-journey-5-tidewater-point-railroad.json](./99258-train-driver-journey-5-tidewater-point-railroad.json) |
 | Train Driver Journey 6 - Highland Valley Industries | 99922 | [99922-train-driver-journey-6-highland-valley-industries.json](./99922-train-driver-journey-6-highland-valley-industries.json) |
 | Train Driver Journey 7 - Rosworth Vale | 96597 | [96597-train-driver-journey-7-rosworth-vale.json](./96597-train-driver-journey-7-rosworth-vale.json) |
@@ -36557,7 +36539,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Lost Island | 394417 | [394417-tropical-lost-island.json](./394417-tropical-lost-island.json) |
 | Tropical Lost Island | 394420 | [394420-tropical-lost-island.json](./394420-tropical-lost-island.json) |
 | Tropical Paradise: Town Island | 182013 | [182013-tropical-paradise-town-island.json](./182013-tropical-paradise-town-island.json) |
-| Tropical Princess - Makeup and Dressup Salon Game | 86855 | [86855-tropical-princess-makeup-and-dressup-salon-game.json](./86855-tropical-princess-makeup-and-dressup-salon-game.json) |
 | Tropical Resort Simulator | 310857 | [310857-tropical-resort-simulator.json](./310857-tropical-resort-simulator.json) |
 | Tropical Resort Story | 208026 | [208026-tropical-resort-story.json](./208026-tropical-resort-story.json) |
 | Tropical Storm | 71638 | [71638-tropical-storm.json](./71638-tropical-storm.json) |
