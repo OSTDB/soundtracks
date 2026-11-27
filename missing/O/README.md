@@ -2740,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Brick | 87170 | [87170-one-more-brick.json](./87170-one-more-brick.json) |
 | One More Button | 106299 | [106299-one-more-button.json](./106299-one-more-button.json) |
 | One More Candle | 421889 | [421889-one-more-candle.json](./421889-one-more-candle.json) |
+| One More Case, Naomi Ishigura! | 430551 | [430551-one-more-case-naomi-ishigura.json](./430551-one-more-case-naomi-ishigura.json) |
 | One More Chance | 429553 | [429553-one-more-chance.json](./429553-one-more-chance.json) |
 | One More Claw | 422437 | [422437-one-more-claw.json](./422437-one-more-claw.json) |
 | One More Core | 399868 | [399868-one-more-core.json](./399868-one-more-core.json) |
@@ -6559,6 +6560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overpowered 2: Crux of Fate | 393627 | [393627-overpowered-2-crux-of-fate.json](./393627-overpowered-2-crux-of-fate.json) |
 | Overprint | 420163 | [420163-overprint.json](./420163-overprint.json) |
 | OverQuartz | 188246 | [188246-overquartz.json](./188246-overquartz.json) |
+| Overquota | 430558 | [430558-overquota.json](./430558-overquota.json) |
 | Overrafted! | 424487 | [424487-overrafted.json](./424487-overrafted.json) |
 | OverRapid | 75133 | [75133-overrapid.json](./75133-overrapid.json) |
 | Overreign | 117989 | [117989-overreign.json](./117989-overreign.json) |
