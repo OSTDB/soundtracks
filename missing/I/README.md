@@ -5712,6 +5712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intern Ian | 180363 | [180363-intern-ian.json](./180363-intern-ian.json) |
 | Intern Pursuit Game | 151363 | [151363-intern-pursuit-game.json](./151363-intern-pursuit-game.json) |
 | Intern: An Intern's Guide to Maintaining Internal Rage | 200697 | [200697-intern-an-interns-guide-to-maintaining-internal-rage.json](./200697-intern-an-interns-guide-to-maintaining-internal-rage.json) |
+| Internal Extraction | 430557 | [430557-internal-extraction.json](./430557-internal-extraction.json) |
 | Internal Incident | 372983 | [372983-internal-incident.json](./372983-internal-incident.json) |
 | Internal Invasion | 85625 | [85625-internal-invasion.json](./85625-internal-invasion.json) |
 | Internal Plexus | 229747 | [229747-internal-plexus.json](./229747-internal-plexus.json) |
