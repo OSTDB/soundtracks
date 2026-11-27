@@ -7619,6 +7619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat | 383500 | [383500-meat.json](./383500-meat.json) |
 | Meat | 384596 | [384596-meat.json](./384596-meat.json) |
 | Meat & Greed | 203546 | [203546-meat-and-greed.json](./203546-meat-and-greed.json) |
+| Meat and Flowers | 431297 | [431297-meat-and-flowers.json](./431297-meat-and-flowers.json) |
 | Meat and Metal | 261761 | [261761-meat-and-metal.json](./261761-meat-and-metal.json) |
 | Meat Beating: No More Horny | 156640 | [156640-meat-beating-no-more-horny.json](./156640-meat-beating-no-more-horny.json) |
 | Meat Beating: The Second Coming | 204047 | [204047-meat-beating-the-second-coming.json](./204047-meat-beating-the-second-coming.json) |
@@ -13923,6 +13924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minable & Create | 155123 | [155123-minable-and-create.json](./155123-minable-and-create.json) |
 | Minabo: A Walk Through Life | 193007 | [193007-minabo-a-walk-through-life.json](./193007-minabo-a-walk-through-life.json) |
 | Minagara Oreru DS Origami | 288016 | [288016-minagara-oreru-ds-origami.json](./288016-minagara-oreru-ds-origami.json) |
+| Minagoroshi: The Risen Avenger | 431013 | [431013-minagoroshi-the-risen-avenger.json](./431013-minagoroshi-the-risen-avenger.json) |
 | Minakata Hakudou Toujou | 210835 | [210835-minakata-hakudou-toujou.json](./210835-minakata-hakudou-toujou.json) |
 | Minako: Beloved Wife in the Countryside | 295391 | [295391-minako-beloved-wife-in-the-countryside.json](./295391-minako-beloved-wife-in-the-countryside.json) |
 | Minami Aoyama Adventure | 420827 | [420827-minami-aoyama-adventure.json](./420827-minami-aoyama-adventure.json) |
