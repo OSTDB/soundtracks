@@ -2763,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watchers: Batter Up Pack | 161186 | [161186-watchers-batter-up-pack.json](./161186-watchers-batter-up-pack.json) |
 | Watchers: Perfectly Calm Pack | 225572 | [225572-watchers-perfectly-calm-pack.json](./225572-watchers-perfectly-calm-pack.json) |
 | WatchFamily | 111925 | [111925-watchfamily.json](./111925-watchfamily.json) |
+| Watchievements | 430523 | [430523-watchievements.json](./430523-watchievements.json) |
 | Watching Blade Runner on a Rainy Night | 253780 | [253780-watching-blade-runner-on-a-rainy-night.json](./253780-watching-blade-runner-on-a-rainy-night.json) |
 | Watching Delusion | 105386 | [105386-watching-delusion.json](./105386-watching-delusion.json) |
 | Watching from Afar | 361044 | [361044-watching-from-afar.json](./361044-watching-from-afar.json) |
@@ -8792,6 +8793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Go - Cross Word Puzzle Game | 104770 | [104770-word-go-cross-word-puzzle-game.json](./104770-word-go-cross-word-puzzle-game.json) |
 | Word Grid | 324645 | [324645-word-grid.json](./324645-word-grid.json) |
 | Word Guess | 300908 | [300908-word-guess.json](./300908-word-guess.json) |
+| Word Guess Game | 430297 | [430297-word-guess-game.json](./430297-word-guess-game.json) |
 | Word Guru - Puzzle Word Game | 89233 | [89233-word-guru-puzzle-word-game.json](./89233-word-guru-puzzle-word-game.json) |
 | Word Harmony | 52130 | [52130-word-harmony.json](./52130-word-harmony.json) |
 | Word Home - Cat Puzzle Game | 108689 | [108689-word-home-cat-puzzle-game.json](./108689-word-home-cat-puzzle-game.json) |
@@ -8987,6 +8989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Zapper | 133521 | [133521-word-zapper.json](./133521-word-zapper.json) |
 | Word Zapper | 46884 | [46884-word-zapper.json](./46884-word-zapper.json) |
 | Word Zip - Free Word Games | 105972 | [105972-word-zip-free-word-games.json](./105972-word-zip-free-word-games.json) |
+| Word-O | 430543 | [430543-word-o.json](./430543-word-o.json) |
 | Word-O-Mania | 232475 | [232475-word-o-mania.json](./232475-word-o-mania.json) |
 | Word2 | 370995 | [370995-word2.json](./370995-word2.json) |
 | Word95 | 382459 | [382459-word95.json](./382459-word95.json) |
