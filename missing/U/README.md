@@ -586,7 +586,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Doom the Way id Did | 233343 | [233343-ultimate-doom-the-way-id-did.json](./233343-ultimate-doom-the-way-id-did.json) |
 | Ultimate Doom: The Way id Did | 269915 | [269915-ultimate-doom-the-way-id-did.json](./269915-ultimate-doom-the-way-id-did.json) |
 | Ultimate Double Dragon | 240025 | [240025-ultimate-double-dragon.json](./240025-ultimate-double-dragon.json) |
-| Ultimate Dragon Simulator | 86894 | [86894-ultimate-dragon-simulator.json](./86894-ultimate-dragon-simulator.json) |
 | Ultimate DragonMaster | 299412 | [299412-ultimate-dragonmaster.json](./299412-ultimate-dragonmaster.json) |
 | Ultimate Drummer | 369031 | [369031-ultimate-drummer.json](./369031-ultimate-drummer.json) |
 | Ultimate Drunken Warrior Master | 303225 | [303225-ultimate-drunken-warrior-master.json](./303225-ultimate-drunken-warrior-master.json) |
@@ -642,7 +641,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Flying Car Adventures | 108109 | [108109-ultimate-flying-car-adventures.json](./108109-ultimate-flying-car-adventures.json) |
 | Ultimate Flying Cars | 215401 | [215401-ultimate-flying-cars.json](./215401-ultimate-flying-cars.json) |
 | Ultimate Football '95 | 69803 | [69803-ultimate-football-95.json](./69803-ultimate-football-95.json) |
-| Ultimate Forest Simulator | 86924 | [86924-ultimate-forest-simulator.json](./86924-ultimate-forest-simulator.json) |
 | Ultimate Fox Simulator 2 | 406643 | [406643-ultimate-fox-simulator-2.json](./406643-ultimate-fox-simulator-2.json) |
 | Ultimate FPS | 114670 | [114670-ultimate-fps.json](./114670-ultimate-fps.json) |
 | Ultimate FPS Challenge | 299175 | [299175-ultimate-fps-challenge.json](./299175-ultimate-fps-challenge.json) |
@@ -676,7 +674,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Holidays: Postcard Stickers Pack 1 | 324400 | [324400-ultimate-holidays-postcard-stickers-pack-1.json](./324400-ultimate-holidays-postcard-stickers-pack-1.json) |
 | Ultimate Holidays: Postcard Stickers Pack 2 | 324401 | [324401-ultimate-holidays-postcard-stickers-pack-2.json](./324401-ultimate-holidays-postcard-stickers-pack-2.json) |
 | Ultimate Holidays: Postcard Stickers Pack 3 | 324395 | [324395-ultimate-holidays-postcard-stickers-pack-3.json](./324395-ultimate-holidays-postcard-stickers-pack-3.json) |
-| Ultimate Horse Simulator | 87026 | [87026-ultimate-horse-simulator.json](./87026-ultimate-horse-simulator.json) |
 | Ultimate Hunt Challenge | 94346 | [94346-ultimate-hunt-challenge.json](./94346-ultimate-hunt-challenge.json) |
 | Ultimate Hunting | 337832 | [337832-ultimate-hunting.json](./337832-ultimate-hunting.json) |
 | Ultimate I Spy | 5252 | [5252-ultimate-i-spy.json](./5252-ultimate-i-spy.json) |
@@ -691,7 +688,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Jigsaw Puzzle Challenge | 293061 | [293061-ultimate-jigsaw-puzzle-challenge.json](./293061-ultimate-jigsaw-puzzle-challenge.json) |
 | Ultimate Jigsaw Puzzle Collection | 271867 | [271867-ultimate-jigsaw-puzzle-collection.json](./271867-ultimate-jigsaw-puzzle-collection.json) |
 | Ultimate JOI | 379331 | [379331-ultimate-joi.json](./379331-ultimate-joi.json) |
-| Ultimate Jungle Simulator | 86856 | [86856-ultimate-jungle-simulator.json](./86856-ultimate-jungle-simulator.json) |
 | Ultimate Kept Man Life | 340347 | [340347-ultimate-kept-man-life.json](./340347-ultimate-kept-man-life.json) |
 | Ultimate Knight Windom XP | 268438 | [268438-ultimate-knight-windom-xp.json](./268438-ultimate-knight-windom-xp.json) |
 | Ultimate Kungfu Street | 223885 | [223885-ultimate-kungfu-street.json](./223885-ultimate-kungfu-street.json) |
@@ -743,7 +739,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Ninja: Ninja King | 99410 | [99410-ultimate-ninja-ninja-king.json](./99410-ultimate-ninja-ninja-king.json) |
 | Ultimate Ninja:Ninja King | 108107 | [108107-ultimate-ninja-ninja-king.json](./108107-ultimate-ninja-ninja-king.json) |
 | Ultimate Noah's Ark | 45896 | [45896-ultimate-noahs-ark.json](./45896-ultimate-noahs-ark.json) |
-| Ultimate Ocean Simulator | 86890 | [86890-ultimate-ocean-simulator.json](./86890-ultimate-ocean-simulator.json) |
 | Ultimate Pac Pack | 85750 | [85750-ultimate-pac-pack.json](./85750-ultimate-pac-pack.json) |
 | Ultimate Pain | 364017 | [364017-ultimate-pain.json](./364017-ultimate-pain.json) |
 | Ultimate Paintball | 49901 | [49901-ultimate-paintball.json](./49901-ultimate-paintball.json) |
@@ -800,7 +795,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Sackboy | 232419 | [232419-ultimate-sackboy.json](./232419-ultimate-sackboy.json) |
 | Ultimate Sadou: Tea or Coffee? | 163662 | [163662-ultimate-sadou-tea-or-coffee.json](./163662-ultimate-sadou-tea-or-coffee.json) |
 | Ultimate salmon simulator 2019 | 183312 | [183312-ultimate-salmon-simulator-2019.json](./183312-ultimate-salmon-simulator-2019.json) |
-| Ultimate Savanna Simulator | 86690 | [86690-ultimate-savanna-simulator.json](./86690-ultimate-savanna-simulator.json) |
 | Ultimate Sci-Fi Series | 71994 | [71994-ultimate-sci-fi-series.json](./71994-ultimate-sci-fi-series.json) |
 | Ultimate Scroll | 272716 | [272716-ultimate-scroll.json](./272716-ultimate-scroll.json) |
 | Ultimate Select Hero | 90164 | [90164-ultimate-select-hero.json](./90164-ultimate-select-hero.json) |
@@ -2534,7 +2528,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unichrome: A 1-Bit Unicorn Adventure | 204925 | [204925-unichrome-a-1-bit-unicorn-adventure.json](./204925-unichrome-a-1-bit-unicorn-adventure.json) |
 | Unicopia | 311737 | [311737-unicopia.json](./311737-unicopia.json) |
 | Unicorn | 223672 | [223672-unicorn.json](./223672-unicorn.json) |
-| Unicorn 3D | 87057 | [87057-unicorn-3d.json](./87057-unicorn-3d.json) |
 | Unicorn Academy: Friendship Adventures | 382103 | [382103-unicorn-academy-friendship-adventures.json](./382103-unicorn-academy-friendship-adventures.json) |
 | Unicorn Academy: Island of Magic | 410966 | [410966-unicorn-academy-island-of-magic.json](./410966-unicorn-academy-island-of-magic.json) |
 | Unicorn and Sweets | 149951 | [149951-unicorn-and-sweets.json](./149951-unicorn-and-sweets.json) |
@@ -2559,7 +2552,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicorns on Unicycles | 158894 | [158894-unicorns-on-unicycles.json](./158894-unicorns-on-unicycles.json) |
 | Unicorns: The Troll Adventure | 360228 | [360228-unicorns-the-troll-adventure.json](./360228-unicorns-the-troll-adventure.json) |
 | Unicycle Giraffe | 318984 | [318984-unicycle-giraffe.json](./318984-unicycle-giraffe.json) |
-| Unicycle Hero | 87054 | [87054-unicycle-hero.json](./87054-unicycle-hero.json) |
 | Unicycle Journey | 415082 | [415082-unicycle-journey.json](./415082-unicycle-journey.json) |
 | Unicycle Legend | 244087 | [244087-unicycle-legend.json](./244087-unicycle-legend.json) |
 | Unicycle Pizza Time! | 314910 | [314910-unicycle-pizza-time.json](./314910-unicycle-pizza-time.json) |
@@ -3994,7 +3986,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Us Against Aliens | 181033 | [181033-us-against-aliens.json](./181033-us-against-aliens.json) |
 | US Basketball HD | 233060 | [233060-us-basketball-hd.json](./233060-us-basketball-hd.json) |
 | US Bus Simulator 2020 | 188372 | [188372-us-bus-simulator-2020.json](./188372-us-bus-simulator-2020.json) |
-| US Coin | 86702 | [86702-us-coin.json](./86702-us-coin.json) |
 | US Conflict: Tank Battles | 410368 | [410368-us-conflict-tank-battles.json](./410368-us-conflict-tank-battles.json) |
 | Us Five Forever | 394984 | [394984-us-five-forever.json](./394984-us-five-forever.json) |
 | US History: Western Settlement to Modern Day | 70303 | [70303-us-history-western-settlement-to-modern-day.json](./70303-us-history-western-settlement-to-modern-day.json) |
