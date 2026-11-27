@@ -2698,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parcel Packing Simulator | 263994 | [263994-parcel-packing-simulator.json](./263994-parcel-packing-simulator.json) |
 | Parcel Panic | 125093 | [125093-parcel-panic.json](./125093-parcel-panic.json) |
 | Parcel Peaks | 391551 | [391551-parcel-peaks.json](./391551-parcel-peaks.json) |
+| Parcel Point Simulator | 431107 | [431107-parcel-point-simulator.json](./431107-parcel-point-simulator.json) |
 | Parcel Problems | 239061 | [239061-parcel-problems.json](./239061-parcel-problems.json) |
 | Parcel Push | 378825 | [378825-parcel-push.json](./378825-parcel-push.json) |
 | Parcel Simulator | 251927 | [251927-parcel-simulator.json](./251927-parcel-simulator.json) |
@@ -9090,6 +9091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitchfork | 420623 | [420623-pitchfork.json](./420623-pitchfork.json) |
 | Pitchfork Battles | 244858 | [244858-pitchfork-battles.json](./244858-pitchfork-battles.json) |
 | Pitchfork Kingdom | 201581 | [201581-pitchfork-kingdom.json](./201581-pitchfork-kingdom.json) |
+| Pitchfork Perfect | 431124 | [431124-pitchfork-perfect.json](./431124-pitchfork-perfect.json) |
 | Pitchfork: Playtiles Edition | 413411 | [413411-pitchfork-playtiles-edition.json](./413411-pitchfork-playtiles-edition.json) |
 | Pitchforks and Daggers | 380492 | [380492-pitchforks-and-daggers.json](./380492-pitchforks-and-daggers.json) |
 | Pitchside Empire | 414613 | [414613-pitchside-empire.json](./414613-pitchside-empire.json) |
@@ -12174,6 +12176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Vikings | 233299 | [233299-pocket-vikings.json](./233299-pocket-vikings.json) |
 | Pocket Volleyball | 180494 | [180494-pocket-volleyball.json](./180494-pocket-volleyball.json) |
 | Pocket Waifu | 102423 | [102423-pocket-waifu.json](./102423-pocket-waifu.json) |
+| Pocket Waifu 2 | 431110 | [431110-pocket-waifu-2.json](./431110-pocket-waifu-2.json) |
 | Pocket Waifu: Desktop Pet | 384611 | [384611-pocket-waifu-desktop-pet.json](./384611-pocket-waifu-desktop-pet.json) |
 | Pocket Waifu: Rekindled | 259117 | [259117-pocket-waifu-rekindled.json](./259117-pocket-waifu-rekindled.json) |
 | Pocket Ware | 413397 | [413397-pocket-ware.json](./413397-pocket-ware.json) |
@@ -16131,6 +16134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pregnant Mom Virtual Family Neighbor Helper | 96001 | [96001-pregnant-mom-virtual-family-neighbor-helper.json](./96001-pregnant-mom-virtual-family-neighbor-helper.json) |
 | Pregnant Mother Life Mom Games | 296784 | [296784-pregnant-mother-life-mom-games.json](./296784-pregnant-mother-life-mom-games.json) |
 | Pregnant Talking Cat Emma | 250018 | [250018-pregnant-talking-cat-emma.json](./250018-pregnant-talking-cat-emma.json) |
+| Prego Wars | 430957 | [430957-prego-wars.json](./430957-prego-wars.json) |
 | Prehistoria | 106447 | [106447-prehistoria.json](./106447-prehistoria.json) |
 | Prehistoric Adventure | 413205 | [413205-prehistoric-adventure.json](./413205-prehistoric-adventure.json) |
 | Prehistoric Animals | 69223 | [69223-prehistoric-animals.json](./69223-prehistoric-animals.json) |
