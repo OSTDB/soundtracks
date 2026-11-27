@@ -1491,7 +1491,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge Poker | 394700 | [394700-edge-poker.json](./394700-edge-poker.json) |
 | Edge Road | 258904 | [258904-edge-road.json](./258904-edge-road.json) |
 | Edge Run | 197935 | [197935-edge-run.json](./197935-edge-run.json) |
-| Edge Runner | 87239 | [87239-edge-runner.json](./87239-edge-runner.json) |
 | Edge: Mech-Ascent | 230303 | [230303-edge-mech-ascent.json](./230303-edge-mech-ascent.json) |
 | Edgefield | 346489 | [346489-edgefield.json](./346489-edgefield.json) |
 | Edgeless | 291146 | [291146-edgeless.json](./291146-edgeless.json) |
@@ -3199,14 +3198,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elminage III: Ankoku no Shito to Taiyou no Kyuuden | 38468 | [38468-elminage-iii-ankoku-no-shito-to-taiyou-no-kyuuden.json](./38468-elminage-iii-ankoku-no-shito-to-taiyou-no-kyuuden.json) |
 | Elminage Mobile: Fukkatsu no Majo to Seinaru Hana | 418788 | [418788-elminage-mobile-fukkatsu-no-majo-to-seinaru-hana.json](./418788-elminage-mobile-fukkatsu-no-majo-to-seinaru-hana.json) |
 | Elminage: Yami no Miko to Kamigami no Yubiwa | 21025 | [21025-elminage-yami-no-miko-to-kamigami-no-yubiwa.json](./21025-elminage-yami-no-miko-to-kamigami-no-yubiwa.json) |
-| Elmo Calls | 87337 | [87337-elmo-calls.json](./87337-elmo-calls.json) |
 | Elmo Through the Looking-Glass | 333203 | [333203-elmo-through-the-looking-glass.json](./333203-elmo-through-the-looking-glass.json) |
 | Elmo's Deep Sea Adventure | 71511 | [71511-elmos-deep-sea-adventure.json](./71511-elmos-deep-sea-adventure.json) |
 | Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
 | Elmo's Kangaroo of the damned: Punishment Edition | 171404 | [171404-elmos-kangaroo-of-the-damned-punishment-edition.json](./171404-elmos-kangaroo-of-the-damned-punishment-edition.json) |
 | Elmo's Preschool | 201886 | [201886-elmos-preschool.json](./201886-elmos-preschool.json) |
 | Elmo's Reading Basics | 392088 | [392088-elmos-reading-basics.json](./392088-elmos-reading-basics.json) |
-| Elmo's World and You | 87470 | [87470-elmos-world-and-you.json](./87470-elmos-world-and-you.json) |
 | Elmo's World: Elmo's Big Discoveries | 70700 | [70700-elmos-world-elmos-big-discoveries.json](./70700-elmos-world-elmos-big-discoveries.json) |
 | Elnark no Zaihou | 48507 | [48507-elnark-no-zaihou.json](./48507-elnark-no-zaihou.json) |
 | Elo 1100 Chess | 192404 | [192404-elo-1100-chess.json](./192404-elo-1100-chess.json) |
