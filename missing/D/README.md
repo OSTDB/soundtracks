@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D3d Inside | 126659 | [126659-d3d-inside.json](./126659-d3d-inside.json) |
 | D3d Inside 2: Hell | 143938 | [143938-d3d-inside-2-hell.json](./143938-d3d-inside-2-hell.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
+| D3v0ur | 418089 | [418089-d3v0ur.json](./418089-d3v0ur.json) |
 | D4 Complete Edition | 52846 | [52846-d4-complete-edition.json](./52846-d4-complete-edition.json) |
 | D4: Dark Dreams Don't Die - Season 1 | 4758 | [4758-d4-dark-dreams-dont-die-season-1.json](./4758-d4-dark-dreams-dont-die-season-1.json) |
 | D4: Dark Dreams Don't Die - Season 1: Deluxe Edition | 51756 | [51756-d4-dark-dreams-dont-die-season-1-deluxe-edition.json](./51756-d4-dark-dreams-dont-die-season-1-deluxe-edition.json) |
@@ -2634,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkstalkers Resurrection | 20013 | [20013-darkstalkers-resurrection.json](./20013-darkstalkers-resurrection.json) |
 | Darkstalkers: The Night Warriors | 20009 | [20009-darkstalkers-the-night-warriors.json](./20009-darkstalkers-the-night-warriors.json) |
 | Darkstar | 419125 | [419125-darkstar.json](./419125-darkstar.json) |
+| Darkstar Hellhound | 418264 | [418264-darkstar-hellhound.json](./418264-darkstar-hellhound.json) |
 | DarkStar One | 2125 | [2125-darkstar-one.json](./2125-darkstar-one.json) |
 | DarkStar One: Broken Alliance | 20414 | [20414-darkstar-one-broken-alliance.json](./20414-darkstar-one-broken-alliance.json) |
 | DarkStar One: Nintendo Switch Edition | 301101 | [301101-darkstar-one-nintendo-switch-edition.json](./301101-darkstar-one-nintendo-switch-edition.json) |
@@ -4094,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead District: Survival | 209479 | [209479-dead-district-survival.json](./209479-dead-district-survival.json) |
 | Dead Dock Protocol | 322186 | [322186-dead-dock-protocol.json](./322186-dead-dock-protocol.json) |
 | Dead Dog | 382873 | [382873-dead-dog.json](./382873-dead-dog.json) |
+| Dead Dogs | 422777 | [422777-dead-dogs.json](./422777-dead-dogs.json) |
 | Dead Dolls Never Die | 395240 | [395240-dead-dolls-never-die.json](./395240-dead-dolls-never-die.json) |
 | Dead Don't Die | 301092 | [301092-dead-dont-die.json](./301092-dead-dont-die.json) |
 | Dead Dozen | 79141 | [79141-dead-dozen.json](./79141-dead-dozen.json) |
@@ -19407,6 +19410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Deep | 400957 | [400957-drill-deep.json](./400957-drill-deep.json) |
 | Drill Dozer | 6390 | [6390-drill-dozer.json](./6390-drill-dozer.json) |
 | Drill Dozer: Shifting 101 | 307352 | [307352-drill-dozer-shifting-101.json](./307352-drill-dozer-shifting-101.json) |
+| Drill Dracula: The Count Goes Down | 424347 | [424347-drill-dracula-the-count-goes-down.json](./424347-drill-dracula-the-count-goes-down.json) |
 | Drill Hero Legend | 291899 | [291899-drill-hero-legend.json](./291899-drill-hero-legend.json) |
 | Drill Keeper | 253370 | [253370-drill-keeper.json](./253370-drill-keeper.json) |
 | Drill Killer | 128822 | [128822-drill-killer.json](./128822-drill-killer.json) |
