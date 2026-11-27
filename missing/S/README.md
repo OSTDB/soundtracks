@@ -9910,6 +9910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinde Shinde Tsuyoku nare!...? | 316657 | [316657-shinde-shinde-tsuyoku-nare.json](./316657-shinde-shinde-tsuyoku-nare.json) |
 | Shindig | 149250 | [149250-shindig.json](./149250-shindig.json) |
 | Shine | 69775 | [69775-shine.json](./69775-shine.json) |
+| Shine in Shadows | 430324 | [430324-shine-in-shadows.json](./430324-shine-in-shadows.json) |
 | Shine of Fullmoon | 264148 | [264148-shine-of-fullmoon.json](./264148-shine-of-fullmoon.json) |
 | Shine On, My Little Sun | 320147 | [320147-shine-on-my-little-sun.json](./320147-shine-on-my-little-sun.json) |
 | Shine Post: Be Your Idol! | 217964 | [217964-shine-post-be-your-idol.json](./217964-shine-post-be-your-idol.json) |
@@ -10107,6 +10108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinovi Nexus: Senran Kagura | 403208 | [403208-shinovi-nexus-senran-kagura.json](./403208-shinovi-nexus-senran-kagura.json) |
 | Shinpi no Sekai El-Hazard | 109078 | [109078-shinpi-no-sekai-el-hazard.json](./109078-shinpi-no-sekai-el-hazard.json) |
 | Shinpi no Sekai El-Hazard | 343694 | [343694-shinpi-no-sekai-el-hazard.json](./343694-shinpi-no-sekai-el-hazard.json) |
+| Shinrai Saku: Blooming Beyond Despair | 430414 | [430414-shinrai-saku-blooming-beyond-despair.json](./430414-shinrai-saku-blooming-beyond-despair.json) |
 | Shinrai: Broken Beyond Despair | 32105 | [32105-shinrai-broken-beyond-despair.json](./32105-shinrai-broken-beyond-despair.json) |
 | Shinrei Gakkou kara no Dasshutsu | 150130 | [150130-shinrei-gakkou-kara-no-dasshutsu.json](./150130-shinrei-gakkou-kara-no-dasshutsu.json) |
 | Shinrei Jusatsushi Taroumaru | 45456 | [45456-shinrei-jusatsushi-taroumaru.json](./45456-shinrei-jusatsushi-taroumaru.json) |
@@ -27231,6 +27233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squarelaxy | 137350 | [137350-squarelaxy.json](./137350-squarelaxy.json) |
 | Squarelaxy | 183326 | [183326-squarelaxy.json](./183326-squarelaxy.json) |
 | Squarelets | 297054 | [297054-squarelets.json](./297054-squarelets.json) |
+| SquareLife | 430412 | [430412-squarelife.json](./430412-squarelife.json) |
 | Squarelings | 416009 | [416009-squarelings.json](./416009-squarelings.json) |
 | Squarely | 364574 | [364574-squarely.json](./364574-squarely.json) |
 | Squarely Blue | 200624 | [200624-squarely-blue.json](./200624-squarely-blue.json) |
@@ -30754,6 +30757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Freight: Echoes of the Void | 353977 | [353977-stellar-freight-echoes-of-the-void.json](./353977-stellar-freight-echoes-of-the-void.json) |
 | Stellar Freight: Endless Horizon | 395520 | [395520-stellar-freight-endless-horizon.json](./395520-stellar-freight-endless-horizon.json) |
 | Stellar Frontier | 60166 | [60166-stellar-frontier.json](./60166-stellar-frontier.json) |
+| Stellar Fury | 430451 | [430451-stellar-fury.json](./430451-stellar-fury.json) |
 | Stellar Ghosts Settlers | 270486 | [270486-stellar-ghosts-settlers.json](./270486-stellar-ghosts-settlers.json) |
 | Stellar Gun | 167146 | [167146-stellar-gun.json](./167146-stellar-gun.json) |
 | Stellar Horizon | 108185 | [108185-stellar-horizon.json](./108185-stellar-horizon.json) |
@@ -33920,6 +33924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subsiege | 26677 | [26677-subsiege.json](./26677-subsiege.json) |
 | Subsist: Apocalypse Survival | 296453 | [296453-subsist-apocalypse-survival.json](./296453-subsist-apocalypse-survival.json) |
 | Subsistence | 34071 | [34071-subsistence.json](./34071-subsistence.json) |
+| Subsomnia | 430429 | [430429-subsomnia.json](./430429-subsomnia.json) |
 | SubSpace | 19148 | [19148-subspace.json](./19148-subspace.json) |
 | Subspace Brawl | 424399 | [424399-subspace-brawl.json](./424399-subspace-brawl.json) |
 | Subspace Continuum | 308108 | [308108-subspace-continuum.json](./308108-subspace-continuum.json) |
@@ -34588,6 +34593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Game Demake | 275276 | [275276-suika-game-demake.json](./275276-suika-game-demake.json) |
 | Suika Game Planet | 366891 | [366891-suika-game-planet.json](./366891-suika-game-planet.json) |
 | Suika Game: Multi-Player Mode Expansion Pack | 287855 | [287855-suika-game-multi-player-mode-expansion-pack.json](./287855-suika-game-multi-player-mode-expansion-pack.json) |
+| Suika GBA Edition | 430400 | [430400-suika-gba-edition.json](./430400-suika-gba-edition.json) |
 | Suika Jelly Game | 310174 | [310174-suika-jelly-game.json](./310174-suika-jelly-game.json) |
 | Suika Monsters | 387352 | [387352-suika-monsters.json](./387352-suika-monsters.json) |
 | Suika Nyaa | 367143 | [367143-suika-nyaa.json](./367143-suika-nyaa.json) |
