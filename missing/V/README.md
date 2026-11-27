@@ -3119,7 +3119,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Girlfriend | 389786 | [389786-virtual-girlfriend.json](./389786-virtual-girlfriend.json) |
 | Virtual Girlfriend Dating Simulator | 289196 | [289196-virtual-girlfriend-dating-simulator.json](./289196-virtual-girlfriend-dating-simulator.json) |
 | Virtual Girlfriend Lia | 384813 | [384813-virtual-girlfriend-lia.json](./384813-virtual-girlfriend-lia.json) |
-| Virtual Goaltender | 86861 | [86861-virtual-goaltender.json](./86861-virtual-goaltender.json) |
 | Virtual Golf | 13261 | [13261-virtual-golf.json](./13261-virtual-golf.json) |
 | Virtual Goose! | 301138 | [301138-virtual-goose.json](./301138-virtual-goose.json) |
 | Virtual Grand Prix 2 | 79281 | [79281-virtual-grand-prix-2.json](./79281-virtual-grand-prix-2.json) |
