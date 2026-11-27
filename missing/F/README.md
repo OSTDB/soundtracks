@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabled Legends: The Dark Piper | 61284 | [61284-fabled-legends-the-dark-piper.json](./61284-fabled-legends-the-dark-piper.json) |
 | Fabled Legends: The Dark Piper - Collector's Edition | 426088 | [426088-fabled-legends-the-dark-piper-collectors-edition.json](./426088-fabled-legends-the-dark-piper-collectors-edition.json) |
 | Fabled Style | 257984 | [257984-fabled-style.json](./257984-fabled-style.json) |
+| Fabled Wilds | 430442 | [430442-fabled-wilds.json](./430442-fabled-wilds.json) |
 | Fabledom | 231098 | [231098-fabledom.json](./231098-fabledom.json) |
 | Fablery | 408253 | [408253-fablery.json](./408253-fablery.json) |
 | Fables from the Den | 105995 | [105995-fables-from-the-den.json](./105995-fables-from-the-den.json) |
@@ -8061,6 +8062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Day Great Escape | 114399 | [114399-five-day-great-escape.json](./114399-five-day-great-escape.json) |
 | Five Days | 287510 | [287510-five-days.json](./287510-five-days.json) |
 | Five Days of Hell | 261631 | [261631-five-days-of-hell.json](./261631-five-days-of-hell.json) |
+| Five Degrees | 430423 | [430423-five-degrees.json](./430423-five-degrees.json) |
 | Five Dice | 390296 | [390296-five-dice.json](./390296-five-dice.json) |
 | Five dreams | 189953 | [189953-five-dreams.json](./189953-five-dreams.json) |
 | Five Elements | 29861 | [29861-five-elements.json](./29861-five-elements.json) |
@@ -8370,6 +8372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix and Foxi: Episode 1 - Lupo | 208380 | [208380-fix-and-foxi-episode-1-lupo.json](./208380-fix-and-foxi-episode-1-lupo.json) |
 | Fix EV3 Rover | 104002 | [104002-fix-ev3-rover.json](./104002-fix-ev3-rover.json) |
 | Fix Fixer | 253504 | [253504-fix-fixer.json](./253504-fix-fixer.json) |
+| Fix Her Pipes | 430453 | [430453-fix-her-pipes.json](./430453-fix-her-pipes.json) |
 | Fix It | 278034 | [278034-fix-it.json](./278034-fix-it.json) |
 | Fix It: Home Improvement | 124987 | [124987-fix-it-home-improvement.json](./124987-fix-it-home-improvement.json) |
 | Fix It: Home Improvement Challenge | 50962 | [50962-fix-it-home-improvement-challenge.json](./50962-fix-it-home-improvement-challenge.json) |
@@ -8767,6 +8770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashover MegaSector | 124440 | [124440-flashover-megasector.json](./124440-flashover-megasector.json) |
 | Flashpaper | 414059 | [414059-flashpaper.json](./414059-flashpaper.json) |
 | Flashpoint Campaigns: Cold War | 373422 | [373422-flashpoint-campaigns-cold-war.json](./373422-flashpoint-campaigns-cold-war.json) |
+| Flashpoint Campaigns: Cold War - Lowland Lions | 430329 | [430329-flashpoint-campaigns-cold-war-lowland-lions.json](./430329-flashpoint-campaigns-cold-war-lowland-lions.json) |
 | Flashpoint Campaigns: Germany Reforged | 24619 | [24619-flashpoint-campaigns-germany-reforged.json](./24619-flashpoint-campaigns-germany-reforged.json) |
 | Flashpoint Campaigns: Red Storm | 139724 | [139724-flashpoint-campaigns-red-storm.json](./139724-flashpoint-campaigns-red-storm.json) |
 | Flashpoint Campaigns: Red Storm - Player's Edition | 36202 | [36202-flashpoint-campaigns-red-storm-players-edition.json](./36202-flashpoint-campaigns-red-storm-players-edition.json) |
