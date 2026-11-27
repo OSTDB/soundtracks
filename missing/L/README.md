@@ -719,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakria Legends | 344166 | [344166-lakria-legends.json](./344166-lakria-legends.json) |
 | Lala Hentai | 227580 | [227580-lala-hentai.json](./227580-lala-hentai.json) |
 | Lala Hentai 2 | 375970 | [375970-lala-hentai-2.json](./375970-lala-hentai-2.json) |
+| Lala Is Bound | 419511 | [419511-lala-is-bound.json](./419511-lala-is-bound.json) |
 | Lala the Magical | 48298 | [48298-lala-the-magical.json](./48298-lala-the-magical.json) |
 | Lalaloopsy | 94851 | [94851-lalaloopsy.json](./94851-lalaloopsy.json) |
 | Lalaloopsy Diner | 68911 | [68911-lalaloopsy-diner.json](./68911-lalaloopsy-diner.json) |
@@ -3688,6 +3689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Dimensions: Wonder Woman Fun Pack | 172626 | [172626-lego-dimensions-wonder-woman-fun-pack.json](./172626-lego-dimensions-wonder-woman-fun-pack.json) |
 | LEGO Dimensions: Zane Fun Pack | 172610 | [172610-lego-dimensions-zane-fun-pack.json](./172610-lego-dimensions-zane-fun-pack.json) |
 | LEGO Duplo Marvel | 253070 | [253070-lego-duplo-marvel.json](./253070-lego-duplo-marvel.json) |
+| LEGO Duplo Peppa Pig | 422440 | [422440-lego-duplo-peppa-pig.json](./422440-lego-duplo-peppa-pig.json) |
 | LEGO Duplo Town | 106923 | [106923-lego-duplo-town.json](./106923-lego-duplo-town.json) |
 | LEGO Duplo Train | 87463 | [87463-lego-duplo-train.json](./87463-lego-duplo-train.json) |
 | LEGO Duplo World | 356220 | [356220-lego-duplo-world.json](./356220-lego-duplo-world.json) |
@@ -11709,6 +11711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Kingdom | 264032 | [264032-lust-kingdom.json](./264032-lust-kingdom.json) |
 | Lust Lady Friends | 341195 | [341195-lust-lady-friends.json](./341195-lust-lady-friends.json) |
 | Lust Night | 341197 | [341197-lust-night.json](./341197-lust-night.json) |
+| Lust Odyssey | 419347 | [419347-lust-odyssey.json](./419347-lust-odyssey.json) |
 | Lust of the Apartment Wives | 249106 | [249106-lust-of-the-apartment-wives.json](./249106-lust-of-the-apartment-wives.json) |
 | Lust Office MILFs | 396834 | [396834-lust-office-milfs.json](./396834-lust-office-milfs.json) |
 | Lust Potions | 304464 | [304464-lust-potions.json](./304464-lust-potions.json) |
