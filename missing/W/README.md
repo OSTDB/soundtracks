@@ -5165,7 +5165,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whirlpool Derby: Grand Crash Auto | 90365 | [90365-whirlpool-derby-grand-crash-auto.json](./90365-whirlpool-derby-grand-crash-auto.json) |
 | Whirlwind Magician | 269186 | [269186-whirlwind-magician.json](./269186-whirlwind-magician.json) |
 | Whirlwind of Vietnam | 72714 | [72714-whirlwind-of-vietnam.json](./72714-whirlwind-of-vietnam.json) |
-| Whirly Word | 87507 | [87507-whirly-word.json](./87507-whirly-word.json) |
 | Whirlybird | 230852 | [230852-whirlybird.json](./230852-whirlybird.json) |
 | Whirlycat | 212380 | [212380-whirlycat.json](./212380-whirlycat.json) |
 | Whirlygig | 105178 | [105178-whirlygig.json](./105178-whirlygig.json) |
