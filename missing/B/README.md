@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon | 214045 | [214045-backgammon.json](./214045-backgammon.json) |
 | Backgammon | 339276 | [339276-backgammon.json](./339276-backgammon.json) |
 | Backgammon | 430488 | [430488-backgammon.json](./430488-backgammon.json) |
+| Backgammon | 431561 | [431561-backgammon.json](./431561-backgammon.json) |
 | Backgammon | 54874 | [54874-backgammon.json](./54874-backgammon.json) |
 | Backgammon | 77148 | [77148-backgammon.json](./77148-backgammon.json) |
 | Backgammon | 78530 | [78530-backgammon.json](./78530-backgammon.json) |
@@ -2524,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bannerlands | 413683 | [413683-bannerlands.json](./413683-bannerlands.json) |
 | Bannerlings | 419941 | [419941-bannerlings.json](./419941-bannerlings.json) |
 | Banners Begone! | 177153 | [177153-banners-begone.json](./177153-banners-begone.json) |
+| Banners of Asgard | 431564 | [431564-banners-of-asgard.json](./431564-banners-of-asgard.json) |
 | Banners of Ruin | 133408 | [133408-banners-of-ruin.json](./133408-banners-of-ruin.json) |
 | Banners of Ruin: Collection | 324501 | [324501-banners-of-ruin-collection.json](./324501-banners-of-ruin-collection.json) |
 | Banners of Ruin: DLC Pack | 324413 | [324413-banners-of-ruin-dlc-pack.json](./324413-banners-of-ruin-dlc-pack.json) |
@@ -2974,6 +2976,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler: Bon-Curry | 338355 | [338355-barcode-battler-bon-curry.json](./338355-barcode-battler-bon-curry.json) |
 | Barcode Battler: Cha-Han | 338356 | [338356-barcode-battler-cha-han.json](./338356-barcode-battler-cha-han.json) |
 | Barcode Battler: Chu-Hi-Can | 338375 | [338375-barcode-battler-chu-hi-can.json](./338375-barcode-battler-chu-hi-can.json) |
+| Barcode Battler: Dragon Battler - Obocchama-kun: Binbo Taizou | 431171 | [431171-barcode-battler-dragon-battler-obocchama-kun-binbo-taizou.json](./431171-barcode-battler-dragon-battler-obocchama-kun-binbo-taizou.json) |
+| Barcode Battler: Dragon Battler - Obocchama-kun: Fukurokouji Kanemitsu | 431168 | [431168-barcode-battler-dragon-battler-obocchama-kun-fukurokouji-kanemitsu.json](./431168-barcode-battler-dragon-battler-obocchama-kun-fukurokouji-kanemitsu.json) |
+| Barcode Battler: Dragon Battler - Ore ha Otoko Da! Kunio-kun: Kunio | 431174 | [431174-barcode-battler-dragon-battler-ore-ha-otoko-da-kunio-kun-kunio.json](./431174-barcode-battler-dragon-battler-ore-ha-otoko-da-kunio-kun-kunio.json) |
 | Barcode Battler: Dry BL | 338361 | [338361-barcode-battler-dry-bl.json](./338361-barcode-battler-dry-bl.json) |
 | Barcode Battler: Iron-Cola | 338360 | [338360-barcode-battler-iron-cola.json](./338360-barcode-battler-iron-cola.json) |
 | Barcode Battler: J-Ebara | 338359 | [338359-barcode-battler-j-ebara.json](./338359-barcode-battler-j-ebara.json) |
@@ -5775,6 +5780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beardy McStrongarm | 129457 | [129457-beardy-mcstrongarm.json](./129457-beardy-mcstrongarm.json) |
 | Beardy the Digger | 122143 | [122143-beardy-the-digger.json](./122143-beardy-the-digger.json) |
 | BearHammer | 105100 | [105100-bearhammer.json](./105100-bearhammer.json) |
+| Bearing 2889 | 431594 | [431594-bearing-2889.json](./431594-bearing-2889.json) |
 | Bearly Awesome | 382368 | [382368-bearly-awesome.json](./382368-bearly-awesome.json) |
 | Bearly Baking | 355040 | [355040-bearly-baking.json](./355040-bearly-baking.json) |
 | Bearly Chillin' | 363976 | [363976-bearly-chillin.json](./363976-bearly-chillin.json) |
@@ -8150,6 +8156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Reach | 316725 | [316725-beyond-reach.json](./316725-beyond-reach.json) |
 | Beyond Reality | 317339 | [317339-beyond-reality.json](./317339-beyond-reality.json) |
 | Beyond Reality | 33914 | [33914-beyond-reality.json](./33914-beyond-reality.json) |
+| Beyond Realm | 431199 | [431199-beyond-realm.json](./431199-beyond-realm.json) |
 | Beyond Reason | 303715 | [303715-beyond-reason.json](./303715-beyond-reason.json) |
 | Beyond Revival | 273569 | [273569-beyond-revival.json](./273569-beyond-revival.json) |
 | Beyond Sandbox | 399220 | [399220-beyond-sandbox.json](./399220-beyond-sandbox.json) |
@@ -12769,6 +12776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Rage: Digital Edition | 130062 | [130062-blood-rage-digital-edition.json](./130062-blood-rage-digital-edition.json) |
 | Blood Rage: Digital Edition - Gods of Asgard | 171708 | [171708-blood-rage-digital-edition-gods-of-asgard.json](./171708-blood-rage-digital-edition-gods-of-asgard.json) |
 | Blood Rage: Digital Edition - Mystics of Midgard | 171711 | [171711-blood-rage-digital-edition-mystics-of-midgard.json](./171711-blood-rage-digital-edition-mystics-of-midgard.json) |
+| Blood Rails | 431616 | [431616-blood-rails.json](./431616-blood-rails.json) |
 | Blood Reaver | 298237 | [298237-blood-reaver.json](./298237-blood-reaver.json) |
 | Blood Red | 237137 | [237137-blood-red.json](./237137-blood-red.json) |
 | Blood Red Fists | 190292 | [190292-blood-red-fists.json](./190292-blood-red-fists.json) |
@@ -13930,6 +13938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
 | Boba Tea Merge | 356522 | [356522-boba-tea-merge.json](./356522-boba-tea-merge.json) |
 | Boba Tea Shop Simulator | 244236 | [244236-boba-tea-shop-simulator.json](./244236-boba-tea-shop-simulator.json) |
+| Boba:3 | 431539 | [431539-boba-3.json](./431539-boba-3.json) |
 | Bobanook! | 390788 | [390788-bobanook.json](./390788-bobanook.json) |
 | Bobarista: One Cup at a Time | 422216 | [422216-bobarista-one-cup-at-a-time.json](./422216-bobarista-one-cup-at-a-time.json) |
 | BobasQuest | 298180 | [298180-bobasquest.json](./298180-bobasquest.json) |
@@ -15342,6 +15351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootèe | 195499 | [195499-bootee.json](./195499-bootee.json) |
 | Booth Butcher | 406922 | [406922-booth-butcher.json](./406922-booth-butcher.json) |
 | Booth: A Dystopian Adventure | 138480 | [138480-booth-a-dystopian-adventure.json](./138480-booth-a-dystopian-adventure.json) |
+| Boothill Survivors | 431147 | [431147-boothill-survivors.json](./431147-boothill-survivors.json) |
 | Bootleg Alchemist | 390255 | [390255-bootleg-alchemist.json](./390255-bootleg-alchemist.json) |
 | Bootleg Bandits | 13822 | [13822-bootleg-bandits.json](./13822-bootleg-bandits.json) |
 | Bootleg Fantasy | 171833 | [171833-bootleg-fantasy.json](./171833-bootleg-fantasy.json) |
