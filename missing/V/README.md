@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V.A Proxy | 207718 | [207718-v-a-proxy.json](./207718-v-a-proxy.json) |
 | V.A.U.L.T Protocol | 402873 | [402873-v-a-u-l-t-protocol.json](./402873-v-a-u-l-t-protocol.json) |
 | V.D.O | 201774 | [201774-v-d-o.json](./201774-v-d-o.json) |
+| V.E.T.O.R: A Ruptura | 431247 | [431247-v-e-t-o-r-a-ruptura.json](./431247-v-e-t-o-r-a-ruptura.json) |
 | V.G. Re-birth | 180273 | [180273-v-g-re-birth.json](./180273-v-g-re-birth.json) |
 | V.G.: Variable Geo | 98254 | [98254-v-g-variable-geo.json](./98254-v-g-variable-geo.json) |
 | V.H.S : Video.Horror.Story | 133042 | [133042-v-h-s-video-horror-story.json](./133042-v-h-s-video-horror-story.json) |
