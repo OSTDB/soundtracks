@@ -11976,6 +11976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blochead | 78963 | [78963-blochead.json](./78963-blochead.json) |
 | Block | 120081 | [120081-block.json](./120081-block.json) |
 | Block | 172653 | [172653-block.json](./172653-block.json) |
+| Block | 416502 | [416502-block.json](./416502-block.json) |
 | Blöck | 215960 | [215960-block.json](./215960-block.json) |
 | Block 'Em | 278193 | [278193-block-em.json](./278193-block-em.json) |
 | Block ‘Em Sock ‘Em | 381135 | [381135-block-em-sock-em.json](./381135-block-em-sock-em.json) |
@@ -13695,6 +13696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
 | Blupi at Home | 130434 | [130434-blupi-at-home.json](./130434-blupi-at-home.json) |
 | Blupi Explorer | 133563 | [133563-blupi-explorer.json](./133563-blupi-explorer.json) |
+| Blupi Is Back | 415028 | [415028-blupi-is-back.json](./415028-blupi-is-back.json) |
 | Blupi's Adventures | 417929 | [417929-blupis-adventures.json](./417929-blupis-adventures.json) |
 | Blupi's Travels | 133558 | [133558-blupis-travels.json](./133558-blupis-travels.json) |
 | Blupimania | 137920 | [137920-blupimania.json](./137920-blupimania.json) |
@@ -17810,6 +17812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brett: Neet Adventures | 63930 | [63930-brett-neet-adventures.json](./63930-brett-neet-adventures.json) |
 | Breu: Shadow Hunt | 233634 | [233634-breu-shadow-hunt.json](./233634-breu-shadow-hunt.json) |
 | Breve Bug: Champions of Destiny | 394627 | [394627-breve-bug-champions-of-destiny.json](./394627-breve-bug-champions-of-destiny.json) |
+| Brevsky's Library | 415360 | [415360-brevskys-library.json](./415360-brevskys-library.json) |
 | Brew | 211459 | [211459-brew.json](./211459-brew.json) |
 | Brew & Brawl: Gnomes vs. Dwarves | 140530 | [140530-brew-and-brawl-gnomes-vs-dwarves.json](./140530-brew-and-brawl-gnomes-vs-dwarves.json) |
 | Brew & Dash | 381282 | [381282-brew-and-dash.json](./381282-brew-and-dash.json) |
