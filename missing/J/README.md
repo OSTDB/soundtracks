@@ -1628,7 +1628,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Hunter : Lost Temple | 105853 | [105853-jewel-hunter-lost-temple.json](./105853-jewel-hunter-lost-temple.json) |
 | Jewel Jungle Temple | 104579 | [104579-jewel-jungle-temple.json](./104579-jewel-jungle-temple.json) |
 | Jewel Keepers: Easter Island | 65089 | [65089-jewel-keepers-easter-island.json](./65089-jewel-keepers-easter-island.json) |
-| Jewel Legends: Atlantis | 87522 | [87522-jewel-legends-atlantis.json](./87522-jewel-legends-atlantis.json) |
 | Jewel Legends: Atlantis & Jewel Legends: Magical Kingdom | 201884 | [201884-jewel-legends-atlantis-and-jewel-legends-magical-kingdom.json](./201884-jewel-legends-atlantis-and-jewel-legends-magical-kingdom.json) |
 | Jewel Legends: Magical Kingdom | 87085 | [87085-jewel-legends-magical-kingdom.json](./87085-jewel-legends-magical-kingdom.json) |
 | Jewel Legends: Tree of Life | 85206 | [85206-jewel-legends-tree-of-life.json](./85206-jewel-legends-tree-of-life.json) |
@@ -4053,7 +4052,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpy Horse | 88163 | [88163-jumpy-horse.json](./88163-jumpy-horse.json) |
 | Jumpy Horse Racing | 100984 | [100984-jumpy-horse-racing.json](./100984-jumpy-horse-racing.json) |
 | Jumpy Horse Racing | 89741 | [89741-jumpy-horse-racing.json](./89741-jumpy-horse-racing.json) |
-| Jumpy Horse Show Jumping | 87510 | [87510-jumpy-horse-show-jumping.json](./87510-jumpy-horse-show-jumping.json) |
 | Jumpy Hunt | 114866 | [114866-jumpy-hunt.json](./114866-jumpy-hunt.json) |
 | Jumpy Jack | 343977 | [343977-jumpy-jack.json](./343977-jumpy-jack.json) |
 | Jumpy Jumptime | 310775 | [310775-jumpy-jumptime.json](./310775-jumpy-jumptime.json) |
