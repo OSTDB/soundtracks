@@ -5017,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeschylus: Death | 379564 | [379564-aeschylus-death.json](./379564-aeschylus-death.json) |
 | Aesculap OrthoPilot Elite VR Palpation | 57031 | [57031-aesculap-orthopilot-elite-vr-palpation.json](./57031-aesculap-orthopilot-elite-vr-palpation.json) |
 | Aesir Online | 154825 | [154825-aesir-online.json](./154825-aesir-online.json) |
+| Aesirbard | 430517 | [430517-aesirbard.json](./430517-aesirbard.json) |
 | Aesop Rock's Black Hole Superette Experience | 346605 | [346605-aesop-rocks-black-hole-superette-experience.json](./346605-aesop-rocks-black-hole-superette-experience.json) |
 | Aesop's Fables | 14227 | [14227-aesops-fables.json](./14227-aesops-fables.json) |
 | Aesop's Fables: A New Approach | 123776 | [123776-aesops-fables-a-new-approach.json](./123776-aesops-fables-a-new-approach.json) |
@@ -10315,6 +10316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Popstar: Road to Celebrity | 68234 | [68234-american-popstar-road-to-celebrity.json](./68234-american-popstar-road-to-celebrity.json) |
 | American Powerhaul Train Simulator | 33522 | [33522-american-powerhaul-train-simulator.json](./33522-american-powerhaul-train-simulator.json) |
 | American Pro Football | 46152 | [46152-american-pro-football.json](./46152-american-pro-football.json) |
+| American Psycho | 430534 | [430534-american-psycho.json](./430534-american-psycho.json) |
 | American Racing Games Collection | 142032 | [142032-american-racing-games-collection.json](./142032-american-racing-games-collection.json) |
 | American Rodeo: Bull Rider 2000 | 202055 | [202055-american-rodeo-bull-rider-2000.json](./202055-american-rodeo-bull-rider-2000.json) |
 | American Sign Language Tutor | 94948 | [94948-american-sign-language-tutor.json](./94948-american-sign-language-tutor.json) |
@@ -15195,6 +15197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Master Deluxe | 202867 | [202867-arcade-master-deluxe.json](./202867-arcade-master-deluxe.json) |
 | Arcade Moonlander | 74360 | [74360-arcade-moonlander.json](./74360-arcade-moonlander.json) |
 | Arcade Motion Classic | 230835 | [230835-arcade-motion-classic.json](./230835-arcade-motion-classic.json) |
+| Arcade Multi-Pack Vol. 1 | 430298 | [430298-arcade-multi-pack-vol-1.json](./430298-arcade-multi-pack-vol-1.json) |
 | Arcade Muscle | 73136 | [73136-arcade-muscle.json](./73136-arcade-muscle.json) |
 | Arcade Nano Altered Beast | 202872 | [202872-arcade-nano-altered-beast.json](./202872-arcade-nano-altered-beast.json) |
 | Arcade Nano Casino Games | 202874 | [202874-arcade-nano-casino-games.json](./202874-arcade-nano-casino-games.json) |
