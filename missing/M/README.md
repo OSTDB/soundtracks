@@ -7934,6 +7934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechsternmination Force | 115705 | [115705-mechsternmination-force.json](./115705-mechsternmination-force.json) |
 | Mechtobacillus | 363931 | [363931-mechtobacillus.json](./363931-mechtobacillus.json) |
 | MechTroid | 83804 | [83804-mechtroid.json](./83804-mechtroid.json) |
+| MechUp | 431545 | [431545-mechup.json](./431545-mechup.json) |
 | MechWarrior | 13091 | [13091-mechwarrior.json](./13091-mechwarrior.json) |
 | MechWarrior | 19188 | [19188-mechwarrior.json](./19188-mechwarrior.json) |
 | MechWarrior 2: 31st Century Combat | 784 | [784-mechwarrior-2-31st-century-combat.json](./784-mechwarrior-2-31st-century-combat.json) |
@@ -11114,6 +11115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Messy Room Girlfriend Project | 393129 | [393129-messy-room-girlfriend-project.json](./393129-messy-room-girlfriend-project.json) |
 | Messy Room Simulator | 157950 | [157950-messy-room-simulator.json](./157950-messy-room-simulator.json) |
 | Messy Up | 263771 | [263771-messy-up.json](./263771-messy-up.json) |
+| Messy Village | 431552 | [431552-messy-village.json](./431552-messy-village.json) |
 | Mestres da Pangada | 307683 | [307683-mestres-da-pangada.json](./307683-mestres-da-pangada.json) |
 | Mestroids | 313195 | [313195-mestroids.json](./313195-mestroids.json) |
 | Mesubuta Chokyo Monogatari | 97996 | [97996-mesubuta-chokyo-monogatari.json](./97996-mesubuta-chokyo-monogatari.json) |
@@ -15519,6 +15521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Chou Party Plus: Sanae to Tenshi no Gensou Labyrinth | 206955 | [206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json](./206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Chou Party: Sanae to Tenshi no Gensou Labyrinth | 206944 | [206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json](./206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Circus | 110365 | [110365-miracle-circus.json](./110365-miracle-circus.json) |
+| Miracle Continent | 431152 | [431152-miracle-continent.json](./431152-miracle-continent.json) |
 | Miracle Corp. | 292182 | [292182-miracle-corp.json](./292182-miracle-corp.json) |
 | Miracle Field | 160092 | [160092-miracle-field.json](./160092-miracle-field.json) |
 | Miracle Fly | 22005 | [22005-miracle-fly.json](./22005-miracle-fly.json) |
@@ -19660,6 +19663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morbolbo: Enter the Maze | 128029 | [128029-morbolbo-enter-the-maze.json](./128029-morbolbo-enter-the-maze.json) |
 | Morbsweeper | 210368 | [210368-morbsweeper.json](./210368-morbsweeper.json) |
 | Morbus | 382593 | [382593-morbus.json](./382593-morbus.json) |
+| Morbus: The Burden of the Apothecary | 431207 | [431207-morbus-the-burden-of-the-apothecary.json](./431207-morbus-the-burden-of-the-apothecary.json) |
 | Mordar Warrior | 337393 | [337393-mordar-warrior.json](./337393-mordar-warrior.json) |
 | Mordath | 236143 | [236143-mordath.json](./236143-mordath.json) |
 | Mordbrann | 328132 | [328132-mordbrann.json](./328132-mordbrann.json) |
@@ -25666,6 +25670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythfall | 304752 | [304752-mythfall.json](./304752-mythfall.json) |
 | Mythgard | 105679 | [105679-mythgard.json](./105679-mythgard.json) |
 | MythGotchi | 419974 | [419974-mythgotchi.json](./419974-mythgotchi.json) |
+| Mythhunt | 431197 | [431197-mythhunt.json](./431197-mythhunt.json) |
 | Mythia | 299866 | [299866-mythia.json](./299866-mythia.json) |
 | Mythic | 189264 | [189264-mythic.json](./189264-mythic.json) |
 | Mythic Battle | 419969 | [419969-mythic-battle.json](./419969-mythic-battle.json) |
