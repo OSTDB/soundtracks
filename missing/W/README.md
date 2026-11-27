@@ -1049,7 +1049,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Lords | 377155 | [377155-war-lords.json](./377155-war-lords.json) |
 | War Machine | 416847 | [416847-war-machine.json](./416847-war-machine.json) |
 | War Machine | 93015 | [93015-war-machine.json](./93015-war-machine.json) |
-| War Machines | 86933 | [86933-war-machines.json](./86933-war-machines.json) |
 | War Machines: Tanks Battle Game | 260867 | [260867-war-machines-tanks-battle-game.json](./260867-war-machines-tanks-battle-game.json) |
 | War Mahjong | 254405 | [254405-war-mahjong.json](./254405-war-mahjong.json) |
 | War Maze | 272712 | [272712-war-maze.json](./272712-war-maze.json) |
@@ -1075,7 +1074,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Cells | 404580 | [404580-war-of-cells.json](./404580-war-of-cells.json) |
 | War of Charge | 309676 | [309676-war-of-charge.json](./309676-war-of-charge.json) |
 | War of Chess | 390586 | [390586-war-of-chess.json](./390586-war-of-chess.json) |
-| War of Colony | 86946 | [86946-war-of-colony.json](./86946-war-of-colony.json) |
 | War of Conquest | 109426 | [109426-war-of-conquest.json](./109426-war-of-conquest.json) |
 | War of Criminals | 89969 | [89969-war-of-criminals.json](./89969-war-of-criminals.json) |
 | War of Crown | 76567 | [76567-war-of-crown.json](./76567-war-of-crown.json) |
@@ -4239,7 +4237,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WGSpace | 294528 | [294528-wgspace.json](./294528-wgspace.json) |
 | WGT Baseball | 64370 | [64370-wgt-baseball.json](./64370-wgt-baseball.json) |
 | WGT Baseball MLB | 101669 | [101669-wgt-baseball-mlb.json](./101669-wgt-baseball-mlb.json) |
-| WGT by Topgolf | 86781 | [86781-wgt-by-topgolf.json](./86781-wgt-by-topgolf.json) |
 | WGT Golf | 64369 | [64369-wgt-golf.json](./64369-wgt-golf.json) |
 | WGT Golf: Birdie Bundle | 168433 | [168433-wgt-golf-birdie-bundle.json](./168433-wgt-golf-birdie-bundle.json) |
 | WGT Golf: Long Drive Bundle | 170133 | [170133-wgt-golf-long-drive-bundle.json](./170133-wgt-golf-long-drive-bundle.json) |
@@ -5474,7 +5471,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Snow | 402079 | [402079-white-snow.json](./402079-white-snow.json) |
 | White Space | 60500 | [60500-white-space.json](./60500-white-space.json) |
 | White Sun | 116274 | [116274-white-sun.json](./116274-white-sun.json) |
-| White Tiles 4: Piano Master 2 | 87008 | [87008-white-tiles-4-piano-master-2.json](./87008-white-tiles-4-piano-master-2.json) |
 | White Tiles Master | 233743 | [233743-white-tiles-master.json](./233743-white-tiles-master.json) |
 | White Tiles: Widescreen | 91149 | [91149-white-tiles-widescreen.json](./91149-white-tiles-widescreen.json) |
 | White Trip | 174735 | [174735-white-trip.json](./174735-white-trip.json) |
@@ -6346,7 +6342,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Simulator: Bear | 86905 | [86905-wildlife-simulator-bear.json](./86905-wildlife-simulator-bear.json) |
 | Wildlife Simulator: Crocodile | 96723 | [96723-wildlife-simulator-crocodile.json](./96723-wildlife-simulator-crocodile.json) |
 | Wildlife Simulator: Shark | 175575 | [175575-wildlife-simulator-shark.json](./175575-wildlife-simulator-shark.json) |
-| Wildlife Simulator: Wolf | 86902 | [86902-wildlife-simulator-wolf.json](./86902-wildlife-simulator-wolf.json) |
 | Wildlife Sports: Untamed | 332916 | [332916-wildlife-sports-untamed.json](./332916-wildlife-sports-untamed.json) |
 | WildLife Tetris | 144621 | [144621-wildlife-tetris.json](./144621-wildlife-tetris.json) |
 | Wildlife VR | 32111 | [32111-wildlife-vr.json](./32111-wildlife-vr.json) |
@@ -9005,7 +9000,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordbreaker by Powgi | 196176 | [196176-wordbreaker-by-powgi.json](./196176-wordbreaker-by-powgi.json) |
 | WordBuzz 4 | 420654 | [420654-wordbuzz-4.json](./420654-wordbuzz-4.json) |
 | Wordchain | 264293 | [264293-wordchain.json](./264293-wordchain.json) |
-| WordCookies Cross | 87002 | [87002-wordcookies-cross.json](./87002-wordcookies-cross.json) |
 | Worddate | 202045 | [202045-worddate.json](./202045-worddate.json) |
 | Wordding | 173964 | [173964-wordding.json](./173964-wordding.json) |
 | WordDrag | 301477 | [301477-worddrag.json](./301477-worddrag.json) |
@@ -9155,7 +9149,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordward Draw | 258049 | [258049-wordward-draw.json](./258049-wordward-draw.json) |
 | WordWarrior | 243168 | [243168-wordwarrior.json](./243168-wordwarrior.json) |
 | WordWhile | 101413 | [101413-wordwhile.json](./101413-wordwhile.json) |
-| WordWhizzle Connect | 86799 | [86799-wordwhizzle-connect.json](./86799-wordwhizzle-connect.json) |
 | WordWhizzle Pop | 100692 | [100692-wordwhizzle-pop.json](./100692-wordwhizzle-pop.json) |
 | WordWhizzle Search | 52881 | [52881-wordwhizzle-search.json](./52881-wordwhizzle-search.json) |
 | Wordy Online | 391016 | [391016-wordy-online.json](./391016-wordy-online.json) |
@@ -9324,7 +9317,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Conqueror 4 | 86872 | [86872-world-conqueror-4.json](./86872-world-conqueror-4.json) |
 | World Conqueror X | 89152 | [89152-world-conqueror-x.json](./89152-world-conqueror-x.json) |
 | World Court Tennis | 37732 | [37732-world-court-tennis.json](./37732-world-court-tennis.json) |
-| World Craft Epic Dream Island | 86953 | [86953-world-craft-epic-dream-island.json](./86953-world-craft-epic-dream-island.json) |
 | World Craft HD | 89105 | [89105-world-craft-hd.json](./89105-world-craft-hd.json) |
 | World Crafter TD | 308096 | [308096-world-crafter-td.json](./308096-world-crafter-td.json) |
 | World Cricket Championship | 167019 | [167019-world-cricket-championship.json](./167019-world-cricket-championship.json) |
