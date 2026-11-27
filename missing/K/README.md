@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kava Tina Story | 68020 | [68020-kava-tina-story.json](./68020-kava-tina-story.json) |
 | Kavalmaja | 128655 | [128655-kavalmaja.json](./128655-kavalmaja.json) |
 | Kavel | 169586 | [169586-kavel.json](./169586-kavel.json) |
+| Kavenga: Songs of the Star Path | 431191 | [431191-kavenga-songs-of-the-star-path.json](./431191-kavenga-songs-of-the-star-path.json) |
 | Kaverini Nuuk Adventures | 153378 | [153378-kaverini-nuuk-adventures.json](./153378-kaverini-nuuk-adventures.json) |
 | Kavernum | 317329 | [317329-kavernum.json](./317329-kavernum.json) |
 | Kaves of Karkhan | 24845 | [24845-kaves-of-karkhan.json](./24845-kaves-of-karkhan.json) |
@@ -1818,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Your Eyes Open | 320616 | [320616-keep-your-eyes-open.json](./320616-keep-your-eyes-open.json) |
 | Keep Yourself Alive | 124720 | [124720-keep-yourself-alive.json](./124720-keep-yourself-alive.json) |
 | Keep Zom Coming | 180350 | [180350-keep-zom-coming.json](./180350-keep-zom-coming.json) |
+| Keepbreaker | 431135 | [431135-keepbreaker.json](./431135-keepbreaker.json) |
 | Keeper | 152141 | [152141-keeper.json](./152141-keeper.json) |
 | Keeper | 154354 | [154354-keeper.json](./154354-keeper.json) |
 | Keeper | 213347 | [213347-keeper.json](./213347-keeper.json) |
@@ -3456,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King 'n Knight | 153944 | [153944-king-n-knight.json](./153944-king-n-knight.json) |
 | King & Balloon | 21689 | [21689-king-and-balloon.json](./21689-king-and-balloon.json) |
 | King 4 a Day | 427309 | [427309-king-4-a-day.json](./427309-king-4-a-day.json) |
+| King Alone | 431154 | [431154-king-alone.json](./431154-king-alone.json) |
 | King and Assassins | 175230 | [175230-king-and-assassins.json](./175230-king-and-assassins.json) |
 | King and Assassins: The Board Game | 106907 | [106907-king-and-assassins-the-board-game.json](./106907-king-and-assassins-the-board-game.json) |
 | King and Country | 151148 | [151148-king-and-country.json](./151148-king-and-country.json) |
@@ -4786,6 +4789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Squad | 30825 | [30825-kitten-squad.json](./30825-kitten-squad.json) |
 | Kitten Super Adventure | 35807 | [35807-kitten-super-adventure.json](./35807-kitten-super-adventure.json) |
 | Kitten Tales | 262483 | [262483-kitten-tales.json](./262483-kitten-tales.json) |
+| Kitten Wool Cup | 431173 | [431173-kitten-wool-cup.json](./431173-kitten-wool-cup.json) |
 | Kitten's Head Football | 215551 | [215551-kittens-head-football.json](./215551-kittens-head-football.json) |
 | Kitten's Head Football: Christmas | 231283 | [231283-kittens-head-football-christmas.json](./231283-kittens-head-football-christmas.json) |
 | Kitten's Head Football: Complete Edition | 268565 | [268565-kittens-head-football-complete-edition.json](./268565-kittens-head-football-complete-edition.json) |
