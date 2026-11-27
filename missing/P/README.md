@@ -5532,6 +5532,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona Q2: New Cinema Labyrinth - Showtime Premium Edition | 136347 | [136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json](./136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json) |
 | Persona5: The Phantom X | 242315 | [242315-persona5-the-phantom-x.json](./242315-persona5-the-phantom-x.json) |
 | Persona5: The Phantom X - Faith Held Close | 428450 | [428450-persona5-the-phantom-x-faith-held-close.json](./428450-persona5-the-phantom-x-faith-held-close.json) |
+| Persona5: The Phantom X - Flawless Hacker | 427095 | [427095-persona5-the-phantom-x-flawless-hacker.json](./427095-persona5-the-phantom-x-flawless-hacker.json) |
+| Persona5: The Phantom X - Howdy Hey | 428441 | [428441-persona5-the-phantom-x-howdy-hey.json](./428441-persona5-the-phantom-x-howdy-hey.json) |
 | Persona5: The Phantom X - Le Rouge et le Noir | 428015 | [428015-persona5-the-phantom-x-le-rouge-et-le-noir.json](./428015-persona5-the-phantom-x-le-rouge-et-le-noir.json) |
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 1 | 413924 | [413924-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-1.json](./413924-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-1.json) |
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 2 | 415618 | [415618-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-2.json](./415618-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-2.json) |
@@ -5730,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PETA: Painful Extinction Through Assault | 330009 | [330009-peta-painful-extinction-through-assault.json](./330009-peta-painful-extinction-through-assault.json) |
 | PETA's Pokémon Black & Blue | 18447 | [18447-petas-pokemon-black-and-blue.json](./18447-petas-pokemon-black-and-blue.json) |
 | Petadachi | 225876 | [225876-petadachi.json](./225876-petadachi.json) |
+| Petal | 420921 | [420921-petal.json](./420921-petal.json) |
 | Petal and Blade | 420002 | [420002-petal-and-blade.json](./420002-petal-and-blade.json) |
 | Petal by Petal | 390196 | [390196-petal-by-petal.json](./390196-petal-by-petal.json) |
 | Petal Crash | 139293 | [139293-petal-crash.json](./139293-petal-crash.json) |
@@ -11544,6 +11547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Don't Hate Christmas | 257838 | [257838-please-dont-hate-christmas.json](./257838-please-dont-hate-christmas.json) |
 | Please Don't Litter | 220772 | [220772-please-dont-litter.json](./220772-please-dont-litter.json) |
 | Please Don't Shoot the Humans | 390048 | [390048-please-dont-shoot-the-humans.json](./390048-please-dont-shoot-the-humans.json) |
+| Please Don't Touch My Collection | 421123 | [421123-please-dont-touch-my-collection.json](./421123-please-dont-touch-my-collection.json) |
 | Please Don't Understand Me | 394861 | [394861-please-dont-understand-me.json](./394861-please-dont-understand-me.json) |
 | Please Duology | 189040 | [189040-please-duology.json](./189040-please-duology.json) |
 | Please File Accurately | 422360 | [422360-please-file-accurately.json](./422360-please-file-accurately.json) |
@@ -11904,6 +11908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poached : Hunt The Hunter | 163965 | [163965-poached-hunt-the-hunter.json](./163965-poached-hunt-the-hunter.json) |
 | Poacher | 93546 | [93546-poacher.json](./93546-poacher.json) |
 | Pobeda | 28691 | [28691-pobeda.json](./28691-pobeda.json) |
+| Pobeg ot X1no i Frez1 | 420570 | [420570-pobeg-ot-x1no-i-frez1.json](./420570-pobeg-ot-x1no-i-frez1.json) |
 | Poca Mate | 381790 | [381790-poca-mate.json](./381790-poca-mate.json) |
 | Pocahontas | 209354 | [209354-pocahontas.json](./209354-pocahontas.json) |
 | Pochard Jamie | 351632 | [351632-pochard-jamie.json](./351632-pochard-jamie.json) |
@@ -13446,9 +13451,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Wilting Y | 213977 | [213977-pokemon-wilting-y.json](./213977-pokemon-wilting-y.json) |
 | Pokémon Winds | 393105 | [393105-pokemon-winds.json](./393105-pokemon-winds.json) |
 | Pokémon World Frontier | 424924 | [424924-pokemon-world-frontier.json](./424924-pokemon-world-frontier.json) |
+| Pokémon X Legacy | 426734 | [426734-pokemon-x-legacy.json](./426734-pokemon-x-legacy.json) |
 | Pokémon XD: Gale of Darkness | 2724 | [2724-pokemon-xd-gale-of-darkness.json](./2724-pokemon-xd-gale-of-darkness.json) |
 | Pokémon Xenoverse: Per Aspera Ad Astra | 218201 | [218201-pokemon-xenoverse-per-aspera-ad-astra.json](./218201-pokemon-xenoverse-per-aspera-ad-astra.json) |
 | Pokémon XG: NeXt Gen | 208508 | [208508-pokemon-xg-next-gen.json](./208508-pokemon-xg-next-gen.json) |
+| Pokémon Y Legacy | 428235 | [428235-pokemon-y-legacy.json](./428235-pokemon-y-legacy.json) |
 | Pokémon Yellow Legacy | 300522 | [300522-pokemon-yellow-legacy.json](./300522-pokemon-yellow-legacy.json) |
 | Pokémon Yellow Randomizer | 329876 | [329876-pokemon-yellow-randomizer.json](./329876-pokemon-yellow-randomizer.json) |
 | Pokémon Yellow: Cramorant Edition | 251360 | [251360-pokemon-yellow-cramorant-edition.json](./251360-pokemon-yellow-cramorant-edition.json) |
