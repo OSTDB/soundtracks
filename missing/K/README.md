@@ -2625,7 +2625,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid's Art & Puzzle | 205110 | [205110-kids-art-and-puzzle.json](./205110-kids-art-and-puzzle.json) |
 | Kid's Art Coloring Book | 400191 | [400191-kids-art-coloring-book.json](./400191-kids-art-coloring-book.json) |
 | Kid's Cards | 49335 | [49335-kids-cards.json](./49335-kids-cards.json) |
-| Kid's EduPack | 87091 | [87091-kids-edupack.json](./87091-kids-edupack.json) |
 | Kid's Kards | 108539 | [108539-kids-kards.json](./108539-kids-kards.json) |
 | Kid's Literacy Games | 88212 | [88212-kids-literacy-games.json](./88212-kids-literacy-games.json) |
 | Kid's Sudoku, 100 puzzles | 98777 | [98777-kids-sudoku-100-puzzles.json](./98777-kids-sudoku-100-puzzles.json) |
@@ -2708,11 +2707,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Box | 280467 | [280467-kids-box.json](./280467-kids-box.json) |
 | Kids Cars | 213647 | [213647-kids-cars.json](./213647-kids-cars.json) |
 | Kids Cars and Trucks Logic Memory Puzzles | 87736 | [87736-kids-cars-and-trucks-logic-memory-puzzles.json](./87736-kids-cars-and-trucks-logic-memory-puzzles.json) |
-| Kids dinosaur puzzles and number games | 87086 | [87086-kids-dinosaur-puzzles-and-number-games.json](./87086-kids-dinosaur-puzzles-and-number-games.json) |
 | Kids Dinosaur Rex Jigsaw Puzzles | 96749 | [96749-kids-dinosaur-rex-jigsaw-puzzles.json](./96749-kids-dinosaur-rex-jigsaw-puzzles.json) |
 | Kids Dinosaur Rex Slide Puzzle 15 Mystic squares | 89581 | [89581-kids-dinosaur-rex-slide-puzzle-15-mystic-squares.json](./89581-kids-dinosaur-rex-slide-puzzle-15-mystic-squares.json) |
 | Kids doctor : veterinarian | 99388 | [99388-kids-doctor-veterinarian.json](./99388-kids-doctor-veterinarian.json) |
-| Kids Doodle - Movie Kids Color & Draw | 86988 | [86988-kids-doodle-movie-kids-color-and-draw.json](./86988-kids-doodle-movie-kids-color-and-draw.json) |
 | Kids Dreamland Adventures | 101552 | [101552-kids-dreamland-adventures.json](./101552-kids-dreamland-adventures.json) |
 | Kids Fun Favorites | 89698 | [89698-kids-fun-favorites.json](./89698-kids-fun-favorites.json) |
 | Kids Hidden Object | 99198 | [99198-kids-hidden-object.json](./99198-kids-hidden-object.json) |
@@ -3852,7 +3849,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Clicker | 180926 | [180926-kingdom-clicker.json](./180926-kingdom-clicker.json) |
 | Kingdom Clicker | 91157 | [91157-kingdom-clicker.json](./91157-kingdom-clicker.json) |
 | Kingdom Coins - Dozer of Coins Arcade Game | 88707 | [88707-kingdom-coins-dozer-of-coins-arcade-game.json](./88707-kingdom-coins-dozer-of-coins-arcade-game.json) |
-| Kingdom Coins Lucky Vegas - Dozer of Coins Arcade Game | 87080 | [87080-kingdom-coins-lucky-vegas-dozer-of-coins-arcade-game.json](./87080-kingdom-coins-lucky-vegas-dozer-of-coins-arcade-game.json) |
 | Kingdom Coins: Dozer of Coins Arcade Game - Pirate Booty Edition | 100028 | [100028-kingdom-coins-dozer-of-coins-arcade-game-pirate-booty-edition.json](./100028-kingdom-coins-dozer-of-coins-arcade-game-pirate-booty-edition.json) |
 | Kingdom Come: Deliverance - A Woman's Lot | 119899 | [119899-kingdom-come-deliverance-a-womans-lot.json](./119899-kingdom-come-deliverance-a-womans-lot.json) |
 | Kingdom Come: Deliverance - Band of Bastards | 115030 | [115030-kingdom-come-deliverance-band-of-bastards.json](./115030-kingdom-come-deliverance-band-of-bastards.json) |
@@ -5096,7 +5092,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knife Battle - Hit the target | 95794 | [95794-knife-battle-hit-the-target.json](./95794-knife-battle-hit-the-target.json) |
 | Knife Battles | 74911 | [74911-knife-battles.json](./74911-knife-battles.json) |
 | Knife Club VR | 68607 | [68607-knife-club-vr.json](./68607-knife-club-vr.json) |
-| Knife Dash | 87055 | [87055-knife-dash.json](./87055-knife-dash.json) |
 | Knife Dash: Hit to Crush Pizza | 101671 | [101671-knife-dash-hit-to-crush-pizza.json](./101671-knife-dash-hit-to-crush-pizza.json) |
 | Knife Edge: Nose Gunner | 3533 | [3533-knife-edge-nose-gunner.json](./3533-knife-edge-nose-gunner.json) |
 | Knife Flip - Hit Geometry Cube | 104666 | [104666-knife-flip-hit-geometry-cube.json](./104666-knife-flip-hit-geometry-cube.json) |
