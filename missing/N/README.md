@@ -7031,6 +7031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobody Expects Exploding Immortal Pigeon | 337326 | [337326-nobody-expects-exploding-immortal-pigeon.json](./337326-nobody-expects-exploding-immortal-pigeon.json) |
 | Nobody Hears | 390992 | [390992-nobody-hears.json](./390992-nobody-hears.json) |
 | Nobody Knows | 93797 | [93797-nobody-knows.json](./93797-nobody-knows.json) |
+| Nobody Knows for Certain | 413807 | [413807-nobody-knows-for-certain.json](./413807-nobody-knows-for-certain.json) |
 | Nobody Nowhere | 277339 | [277339-nobody-nowhere.json](./277339-nobody-nowhere.json) |
 | Nobody Paradox | 244919 | [244919-nobody-paradox.json](./244919-nobody-paradox.json) |
 | Nobody Said It Was Easy | 175233 | [175233-nobody-said-it-was-easy.json](./175233-nobody-said-it-was-easy.json) |
@@ -8452,6 +8453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Npool: Ultimate Edition | 328772 | [328772-npool-ultimate-edition.json](./328772-npool-ultimate-edition.json) |
 | Npower Test Series | 263467 | [263467-npower-test-series.json](./263467-npower-test-series.json) |
 | NPOZ The Game | 260746 | [260746-npoz-the-game.json](./260746-npoz-the-game.json) |
+| NPP Simulator | 414812 | [414812-npp-simulator.json](./414812-npp-simulator.json) |
 | NPPL Championship Paintball 2009 | 5079 | [5079-nppl-championship-paintball-2009.json](./5079-nppl-championship-paintball-2009.json) |
 | Nqc: Non Qualia Character | 258235 | [258235-nqc-non-qualia-character.json](./258235-nqc-non-qualia-character.json) |
 | NRA High Power Competition | 67835 | [67835-nra-high-power-competition.json](./67835-nra-high-power-competition.json) |
