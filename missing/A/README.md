@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Short Hike: Collector's Edition | 422335 | [422335-a-short-hike-collectors-edition.json](./422335-a-short-hike-collectors-edition.json) |
 | A Short Odyssey | 294128 | [294128-a-short-odyssey.json](./294128-a-short-odyssey.json) |
 | A Short Sail | 421541 | [421541-a-short-sail.json](./421541-a-short-sail.json) |
+| A Short Story From the Guts | 413649 | [413649-a-short-story-from-the-guts.json](./413649-a-short-story-from-the-guts.json) |
 | A Short Tale | 93860 | [93860-a-short-tale.json](./93860-a-short-tale.json) |
 | A Short Tale of Solitude | 169351 | [169351-a-short-tale-of-solitude.json](./169351-a-short-tale-of-solitude.json) |
 | A Shot in the Dark | 200615 | [200615-a-shot-in-the-dark.json](./200615-a-shot-in-the-dark.json) |
@@ -11427,6 +11428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Tear: Goddess Betrayed | 291845 | [291845-angel-tear-goddess-betrayed.json](./291845-angel-tear-goddess-betrayed.json) |
 | Angel Tears | 169444 | [169444-angel-tears.json](./169444-angel-tears.json) |
 | Angel Town 4 | 196611 | [196611-angel-town-4.json](./196611-angel-town-4.json) |
+| Angel Under | 413201 | [413201-angel-under.json](./413201-angel-under.json) |
 | Angel Valley | 297065 | [297065-angel-valley.json](./297065-angel-valley.json) |
 | Angel Warrior | 428998 | [428998-angel-warrior.json](./428998-angel-warrior.json) |
 | Angel Whisper: The Suspense Visual Novel Left Behind by a Game Creator. | 268096 | [268096-angel-whisper-the-suspense-visual-novel-left-behind-by-a-game-creator.json](./268096-angel-whisper-the-suspense-visual-novel-left-behind-by-a-game-creator.json) |
@@ -12910,6 +12912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Farm Roguelike: Rebirth | 283914 | [283914-another-farm-roguelike-rebirth.json](./283914-another-farm-roguelike-rebirth.json) |
 | Another Fine Mess | 66787 | [66787-another-fine-mess.json](./66787-another-fine-mess.json) |
 | Another FNaF Fangame: Open Source | 209285 | [209285-another-fnaf-fangame-open-source.json](./209285-another-fnaf-fangame-open-source.json) |
+| Another FNaS Remake | 414190 | [414190-another-fnas-remake.json](./414190-another-fnas-remake.json) |
 | Another FPS Game | 150774 | [150774-another-fps-game.json](./150774-another-fps-game.json) |
 | Another Game About Automation | 391380 | [391380-another-game-about-automation.json](./391380-another-game-about-automation.json) |
 | Another Game About Clicking | 348859 | [348859-another-game-about-clicking.json](./348859-another-game-about-clicking.json) |
