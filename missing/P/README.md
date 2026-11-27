@@ -2791,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park Life: Circuit of Happiness | 195918 | [195918-park-life-circuit-of-happiness.json](./195918-park-life-circuit-of-happiness.json) |
 | Park Master | 254751 | [254751-park-master.json](./254751-park-master.json) |
 | Park My Car | 392198 | [392198-park-my-car.json](./392198-park-my-car.json) |
+| Park of Hidden Desires | 431220 | [431220-park-of-hidden-desires.json](./431220-park-of-hidden-desires.json) |
 | Park of Monster | 120906 | [120906-park-of-monster.json](./120906-park-of-monster.json) |
 | Park Patrol | 25619 | [25619-park-patrol.json](./25619-park-patrol.json) |
 | Park Racer | 269366 | [269366-park-racer.json](./269366-park-racer.json) |
@@ -11077,6 +11078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasmorphosis | 329537 | [329537-plasmorphosis.json](./329537-plasmorphosis.json) |
 | Plaster World | 57067 | [57067-plaster-world.json](./57067-plaster-world.json) |
 | Plastic | 236568 | [236568-plastic.json](./236568-plastic.json) |
+| Plastic Bag Inc. | 431615 | [431615-plastic-bag-inc.json](./431615-plastic-bag-inc.json) |
 | Plastic Battlegrounds | 363959 | [363959-plastic-battlegrounds.json](./363959-plastic-battlegrounds.json) |
 | Plastic Beach | 285599 | [285599-plastic-beach.json](./285599-plastic-beach.json) |
 | Plastic Blue: lofi beats to study and sleep to | 174013 | [174013-plastic-blue-lofi-beats-to-study-and-sleep-to.json](./174013-plastic-blue-lofi-beats-to-study-and-sleep-to.json) |
@@ -18121,6 +18123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Bloom | 249706 | [249706-project-bloom.json](./249706-project-bloom.json) |
 | Project Blue | 137766 | [137766-project-blue.json](./137766-project-blue.json) |
 | Project Blue Book: Hidden Mysteries | 157917 | [157917-project-blue-book-hidden-mysteries.json](./157917-project-blue-book-hidden-mysteries.json) |
+| Project Blue Files: Classified | 431618 | [431618-project-blue-files-classified.json](./431618-project-blue-files-classified.json) |
 | Project Blur | 372086 | [372086-project-blur.json](./372086-project-blur.json) |
 | Project Bob | 293013 | [293013-project-bob.json](./293013-project-bob.json) |
 | Project Bonfire | 264299 | [264299-project-bonfire.json](./264299-project-bonfire.json) |
@@ -20127,6 +20130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Invasion | 180025 | [180025-pumpkin-invasion.json](./180025-pumpkin-invasion.json) |
 | Pumpkin Jack | 126725 | [126725-pumpkin-jack.json](./126725-pumpkin-jack.json) |
 | Pumpkin Jam | 269562 | [269562-pumpkin-jam.json](./269562-pumpkin-jam.json) |
+| Pumpkin Love | 431227 | [431227-pumpkin-love.json](./431227-pumpkin-love.json) |
 | PumpKin Majo | 235704 | [235704-pumpkin-majo.json](./235704-pumpkin-majo.json) |
 | Pumpkin Online | 110273 | [110273-pumpkin-online.json](./110273-pumpkin-online.json) |
 | Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
@@ -20360,6 +20364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppets Party: Friendship Destroyer | 164143 | [164143-puppets-party-friendship-destroyer.json](./164143-puppets-party-friendship-destroyer.json) |
 | Puppets' Dream TD | 261639 | [261639-puppets-dream-td.json](./261639-puppets-dream-td.json) |
 | PuppetShow: Arrogance Effect | 106843 | [106843-puppetshow-arrogance-effect.json](./106843-puppetshow-arrogance-effect.json) |
+| PuppetShow: Arrogance Effect - Collector's Edition | 431637 | [431637-puppetshow-arrogance-effect-collectors-edition.json](./431637-puppetshow-arrogance-effect-collectors-edition.json) |
 | PuppetShow: Bloody Rosie - Collector's Edition | 369276 | [369276-puppetshow-bloody-rosie-collectors-edition.json](./369276-puppetshow-bloody-rosie-collectors-edition.json) |
 | PuppetShow: Destiny Undone | 63571 | [63571-puppetshow-destiny-undone.json](./63571-puppetshow-destiny-undone.json) |
 | PuppetShow: Destiny Undone - Collector's Edition | 105749 | [105749-puppetshow-destiny-undone-collectors-edition.json](./105749-puppetshow-destiny-undone-collectors-edition.json) |
@@ -20371,6 +20376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: Lightning Strikes - Collector's Edition | 115259 | [115259-puppetshow-lightning-strikes-collectors-edition.json](./115259-puppetshow-lightning-strikes-collectors-edition.json) |
 | PuppetShow: Mystery of Joyville | 25926 | [25926-puppetshow-mystery-of-joyville.json](./25926-puppetshow-mystery-of-joyville.json) |
 | PuppetShow: Poetic Justice | 187912 | [187912-puppetshow-poetic-justice.json](./187912-puppetshow-poetic-justice.json) |
+| PuppetShow: Poetic Justice - Collector's Edition | 431636 | [431636-puppetshow-poetic-justice-collectors-edition.json](./431636-puppetshow-poetic-justice-collectors-edition.json) |
 | PuppetShow: Porcelain Smile | 140277 | [140277-puppetshow-porcelain-smile.json](./140277-puppetshow-porcelain-smile.json) |
 | PuppetShow: Porcelain Smile - Collector's Edition | 115526 | [115526-puppetshow-porcelain-smile-collectors-edition.json](./115526-puppetshow-porcelain-smile-collectors-edition.json) |
 | PuppetShow: Return to Joyville | 140278 | [140278-puppetshow-return-to-joyville.json](./140278-puppetshow-return-to-joyville.json) |
@@ -21818,6 +21824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid of Doom | 18521 | [18521-pyramid-of-doom.json](./18521-pyramid-of-doom.json) |
 | Pyramid of Mahjong | 182019 | [182019-pyramid-of-mahjong.json](./182019-pyramid-of-mahjong.json) |
 | Pyramid of Ra | 338816 | [338816-pyramid-of-ra.json](./338816-pyramid-of-ra.json) |
+| Pyramid of Wisdom | 431149 | [431149-pyramid-of-wisdom.json](./431149-pyramid-of-wisdom.json) |
 | Pyramid Party | 429709 | [429709-pyramid-party.json](./429709-pyramid-party.json) |
 | Pyramid Patrol | 94715 | [94715-pyramid-patrol.json](./94715-pyramid-patrol.json) |
 | Pyramid Peril | 343174 | [343174-pyramid-peril.json](./343174-pyramid-peril.json) |
@@ -21870,6 +21877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyre on Fire: Ten Pages | 148072 | [148072-pyre-on-fire-ten-pages.json](./148072-pyre-on-fire-ten-pages.json) |
 | Pyrene | 260275 | [260275-pyrene.json](./260275-pyrene.json) |
 | Pyreside Waltz | 236117 | [236117-pyreside-waltz.json](./236117-pyreside-waltz.json) |
+| Pyrihel: Open World Space Simulator | 431204 | [431204-pyrihel-open-world-space-simulator.json](./431204-pyrihel-open-world-space-simulator.json) |
 | Pyrmd | 226394 | [226394-pyrmd.json](./226394-pyrmd.json) |
 | Pyro | 254353 | [254353-pyro.json](./254353-pyro.json) |
 | Pyro | 373724 | [373724-pyro.json](./373724-pyro.json) |
