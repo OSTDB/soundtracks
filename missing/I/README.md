@@ -1507,7 +1507,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Badger | 378007 | [378007-idle-badger.json](./378007-idle-badger.json) |
 | Idle Baker Boss | 211163 | [211163-idle-baker-boss.json](./211163-idle-baker-boss.json) |
 | Idle Ball Crush | 104389 | [104389-idle-ball-crush.json](./104389-idle-ball-crush.json) |
-| Idle Balls | 87047 | [87047-idle-balls.json](./87047-idle-balls.json) |
 | Idle Bank | 193987 | [193987-idle-bank.json](./193987-idle-bank.json) |
 | Idle Bank Tycoon | 228143 | [228143-idle-bank-tycoon.json](./228143-idle-bank-tycoon.json) |
 | Idle Banshee Alliance | 230947 | [230947-idle-banshee-alliance.json](./230947-idle-banshee-alliance.json) |
@@ -2259,7 +2258,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IGTAP: An Incremental Game That's Also a Platformer | 394928 | [394928-igtap-an-incremental-game-thats-also-a-platformer.json](./394928-igtap-an-incremental-game-thats-also-a-platformer.json) |
 | IguaRPG | 242410 | [242410-iguarpg.json](./242410-iguarpg.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
-| iGun Pro 2 | 86959 | [86959-igun-pro-2.json](./86959-igun-pro-2.json) |
 | Ihatovo Monogatari | 42289 | [42289-ihatovo-monogatari.json](./42289-ihatovo-monogatari.json) |
 | iHearts | 90340 | [90340-ihearts.json](./90340-ihearts.json) |
 | IHF Handball Challenge 13 | 64748 | [64748-ihf-handball-challenge-13.json](./64748-ihf-handball-challenge-13.json) |
@@ -4941,7 +4939,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink Link | 373495 | [373495-ink-link.json](./373495-ink-link.json) |
 | Ink Neko Maid | 247428 | [247428-ink-neko-maid.json](./247428-ink-neko-maid.json) |
 | Ink of Fate | 278970 | [278970-ink-of-fate.json](./278970-ink-of-fate.json) |
-| Ink or Swim | 87014 | [87014-ink-or-swim.json](./87014-ink-or-swim.json) |
 | Ink Paper Minesweeper | 284522 | [284522-ink-paper-minesweeper.json](./284522-ink-paper-minesweeper.json) |
 | Ink Paper Minesweeper: L'animal dans la décoration Free Pack | 336346 | [336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json](./336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json) |
 | Ink Paper Minesweeper: Traditional Japanese Paintings Pack | 336345 | [336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json](./336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json) |
