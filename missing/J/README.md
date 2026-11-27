@@ -1630,7 +1630,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Jungle Temple | 104579 | [104579-jewel-jungle-temple.json](./104579-jewel-jungle-temple.json) |
 | Jewel Keepers: Easter Island | 65089 | [65089-jewel-keepers-easter-island.json](./65089-jewel-keepers-easter-island.json) |
 | Jewel Legends: Atlantis & Jewel Legends: Magical Kingdom | 201884 | [201884-jewel-legends-atlantis-and-jewel-legends-magical-kingdom.json](./201884-jewel-legends-atlantis-and-jewel-legends-magical-kingdom.json) |
-| Jewel Legends: Magical Kingdom | 87085 | [87085-jewel-legends-magical-kingdom.json](./87085-jewel-legends-magical-kingdom.json) |
 | Jewel Legends: Tree of Life | 85206 | [85206-jewel-legends-tree-of-life.json](./85206-jewel-legends-tree-of-life.json) |
 | Jewel Link Chronicles: Mountains of Madness | 65458 | [65458-jewel-link-chronicles-mountains-of-madness.json](./65458-jewel-link-chronicles-mountains-of-madness.json) |
 | Jewel Link: Atlantic Quest | 401014 | [401014-jewel-link-atlantic-quest.json](./401014-jewel-link-atlantic-quest.json) |
@@ -3598,7 +3597,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumble: That Scrambled Word Game | 70053 | [70053-jumble-that-scrambled-word-game.json](./70053-jumble-that-scrambled-word-game.json) |
 | Jumbled Manifesto | 176252 | [176252-jumbled-manifesto.json](./176252-jumbled-manifesto.json) |
 | Jumblem | 335159 | [335159-jumblem.json](./335159-jumblem.json) |
-| Jumbline 2 | 86729 | [86729-jumbline-2.json](./86729-jumbline-2.json) |
 | Jumbline 2+ for iPad | 95657 | [95657-jumbline-2-for-ipad.json](./95657-jumbline-2-for-ipad.json) |
 | Jumbly | 14138 | [14138-jumbly.json](./14138-jumbly.json) |
 | Jumbo Airport Story | 219930 | [219930-jumbo-airport-story.json](./219930-jumbo-airport-story.json) |
@@ -4669,7 +4667,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Fly | 422093 | [422093-just-fly.json](./422093-just-fly.json) |
 | Just For Killing Time | 82791 | [82791-just-for-killing-time.json](./82791-just-for-killing-time.json) |
 | Just Forgot to Eat | 415507 | [415507-just-forgot-to-eat.json](./415507-just-forgot-to-eat.json) |
-| Just Freeskiing | 86985 | [86985-just-freeskiing.json](./86985-just-freeskiing.json) |
 | Just Futanari | 236899 | [236899-just-futanari.json](./236899-just-futanari.json) |
 | Just Futanari 2 | 365646 | [365646-just-futanari-2.json](./365646-just-futanari-2.json) |
 | Just Futanari 3 | 406450 | [406450-just-futanari-3.json](./406450-just-futanari-3.json) |
@@ -4788,7 +4785,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Sleep - Meditate, Focus, Relax | 119686 | [119686-just-sleep-meditate-focus-relax.json](./119686-just-sleep-meditate-focus-relax.json) |
 | Just Slide | 180616 | [180616-just-slide.json](./180616-just-slide.json) |
 | Just Slide 2 | 180617 | [180617-just-slide-2.json](./180617-just-slide-2.json) |
-| Just Snowboarding | 86798 | [86798-just-snowboarding.json](./86798-just-snowboarding.json) |
 | Just Spin | 125727 | [125727-just-spin.json](./125727-just-spin.json) |
 | Just Squat | 320586 | [320586-just-squat.json](./320586-just-squat.json) |
 | Just Stack | 291695 | [291695-just-stack.json](./291695-just-stack.json) |
