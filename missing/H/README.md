@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Girls | 373750 | [373750-halloween-girls.json](./373750-halloween-girls.json) |
 | Halloween Harem | 398450 | [398450-halloween-harem.json](./398450-halloween-harem.json) |
 | Halloween Harry in Zombie Wars | 93057 | [93057-halloween-harry-in-zombie-wars.json](./93057-halloween-harry-in-zombie-wars.json) |
+| Halloween Hellweave | 430572 | [430572-halloween-hellweave.json](./430572-halloween-hellweave.json) |
 | Halloween Hero | 309998 | [309998-halloween-hero.json](./309998-halloween-hero.json) |
 | Halloween Hidden Object Bundle | 331527 | [331527-halloween-hidden-object-bundle.json](./331527-halloween-hidden-object-bundle.json) |
 | Halloween Horror | 322781 | [322781-halloween-horror.json](./322781-halloween-horror.json) |
@@ -1375,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HamuHamu | 321009 | [321009-hamuhamu.json](./321009-hamuhamu.json) |
 | Hamurabi | 11302 | [11302-hamurabi.json](./11302-hamurabi.json) |
 | Hamurabi | 366374 | [366374-hamurabi.json](./366374-hamurabi.json) |
+| Hamuraji | 430537 | [430537-hamuraji.json](./430537-hamuraji.json) |
 | HamuSoup | 425543 | [425543-hamusoup.json](./425543-hamusoup.json) |
 | Hamventure | 424296 | [424296-hamventure.json](./424296-hamventure.json) |
 | Han d'Islande | 405500 | [405500-han-dislande.json](./405500-han-dislande.json) |
@@ -3527,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazard Voyage | 420491 | [420491-hazard-voyage.json](./420491-hazard-voyage.json) |
 | Hazard: Let Us Out! | 346336 | [346336-hazard-let-us-out.json](./346336-hazard-let-us-out.json) |
 | Hazardous Chemicals | 273227 | [273227-hazardous-chemicals.json](./273227-hazardous-chemicals.json) |
+| Hazardous Extractions | 430507 | [430507-hazardous-extractions.json](./430507-hazardous-extractions.json) |
 | Hazardous Hunt | 345822 | [345822-hazardous-hunt.json](./345822-hazardous-hunt.json) |
 | Hazardous island | 304915 | [304915-hazardous-island.json](./304915-hazardous-island.json) |
 | Hazardous Journey | 110332 | [110332-hazardous-journey.json](./110332-hazardous-journey.json) |
@@ -4606,6 +4609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heka | 190098 | [190098-heka.json](./190098-heka.json) |
 | Hekaba | 363011 | [363011-hekaba.json](./363011-hekaba.json) |
 | Hektik | 64052 | [64052-hektik.json](./64052-hektik.json) |
+| Hel Survivor | 430559 | [430559-hel-survivor.json](./430559-hel-survivor.json) |
 | Hela: Of Mice & Magic | 314449 | [314449-hela-of-mice-and-magic.json](./314449-hela-of-mice-and-magic.json) |
 | Helam: A Stripling Warrior Quest | 65468 | [65468-helam-a-stripling-warrior-quest.json](./65468-helam-a-stripling-warrior-quest.json) |
 | Helbreath | 307147 | [307147-helbreath.json](./307147-helbreath.json) |
@@ -4985,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellbanger | 116162 | [116162-hellbanger.json](./116162-hellbanger.json) |
 | Hellbender | 84176 | [84176-hellbender.json](./84176-hellbender.json) |
 | Hellbent | 13069 | [13069-hellbent.json](./13069-hellbent.json) |
+| Hellbent | 430568 | [430568-hellbent.json](./430568-hellbent.json) |
 | HellBit | 373047 | [373047-hellbit.json](./373047-hellbit.json) |
 | Hellblade: Senua's Sacrifice - VR Edition | 106107 | [106107-hellblade-senuas-sacrifice-vr-edition.json](./106107-hellblade-senuas-sacrifice-vr-edition.json) |
 | Hellblusser | 162410 | [162410-hellblusser.json](./162410-hellblusser.json) |
@@ -9724,6 +9729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Ninja | 85183 | [85183-hit-ninja.json](./85183-hit-ninja.json) |
 | Hit of Chernobyl | 316567 | [316567-hit-of-chernobyl.json](./316567-hit-of-chernobyl.json) |
 | Hit or Die | 418015 | [418015-hit-or-die.json](./418015-hit-or-die.json) |
+| Hit Others | 430541 | [430541-hit-others.json](./430541-hit-others.json) |
 | Hit Single | 299720 | [299720-hit-single.json](./299720-hit-single.json) |
 | Hit Skater: Team 10 | 104288 | [104288-hit-skater-team-10.json](./104288-hit-skater-team-10.json) |
 | Hit Tank PRO | 57129 | [57129-hit-tank-pro.json](./57129-hit-tank-pro.json) |
