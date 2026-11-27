@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ibasket Manager 3: Online Basketball Manager | 340500 | [340500-ibasket-manager-3-online-basketball-manager.json](./340500-ibasket-manager-3-online-basketball-manager.json) |
 | Ibatic | 187188 | [187188-ibatic.json](./187188-ibatic.json) |
 | Iberia | 298787 | [298787-iberia.json](./298787-iberia.json) |
+| Iberia Ignota: Alboleta | 421479 | [421479-iberia-ignota-alboleta.json](./421479-iberia-ignota-alboleta.json) |
 | Ibis AM | 242890 | [242890-ibis-am.json](./242890-ibis-am.json) |
 | Ibix the Viking | 13250 | [13250-ibix-the-viking.json](./13250-ibix-the-viking.json) |
 | Ibiza Beach Party | 340341 | [340341-ibiza-beach-party.json](./340341-ibiza-beach-party.json) |
@@ -2112,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If Enemy: Smack! | 413078 | [413078-if-enemy-smack.json](./413078-if-enemy-smack.json) |
 | If Found, Please Return | 120347 | [120347-if-found-please-return.json](./120347-if-found-please-return.json) |
 | If Fusion Were That Easy | 149765 | [149765-if-fusion-were-that-easy.json](./149765-if-fusion-were-that-easy.json) |
+| If I Clear 49 Stages Maybe I'll Be Loved | 422747 | [422747-if-i-clear-49-stages-maybe-ill-be-loved.json](./422747-if-i-clear-49-stages-maybe-ill-be-loved.json) |
 | If I Still Had Tomorrow | 417422 | [417422-if-i-still-had-tomorrow.json](./417422-if-i-still-had-tomorrow.json) |
 | If I Was A Worm | 399374 | [399374-if-i-was-a-worm.json](./399374-if-i-was-a-worm.json) |
 | If I Were in a Sealed Room With a Girl, I'd Probably XXX | 93530 | [93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json](./93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json) |
