@@ -2805,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Senyou Card Software - Super Mario Kart | 329275 | [329275-barcode-battler-ii-senyou-card-software-super-mario-kart.json](./329275-barcode-battler-ii-senyou-card-software-super-mario-kart.json) |
 | Barcode Battler II: Senyou Card Software - Super Mario World | 329117 | [329117-barcode-battler-ii-senyou-card-software-super-mario-world.json](./329117-barcode-battler-ii-senyou-card-software-super-mario-world.json) |
 | Barcode Battler II: Senyou Card Software - Zelda no Densetsu: Kamigami no Triforce | 328949 | [328949-barcode-battler-ii-senyou-card-software-zelda-no-densetsu-kamigami-no-triforce.json](./328949-barcode-battler-ii-senyou-card-software-zelda-no-densetsu-kamigami-no-triforce.json) |
+| Barcode Battler II: Shogaku Ninensei Special Barcode Card - Donkey Kong Jr. | 431123 | [431123-barcode-battler-ii-shogaku-ninensei-special-barcode-card-donkey-kong-jr.json](./431123-barcode-battler-ii-shogaku-ninensei-special-barcode-card-donkey-kong-jr.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Doraemon (Comics Ichizoku) | 329356 | [329356-barcode-battler-ii-shogaku-ninensei-special-barcode-card-doraemon-comics-ichizoku.json](./329356-barcode-battler-ii-shogaku-ninensei-special-barcode-card-doraemon-comics-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Dr. Eggman (Game Ichizoku) | 329355 | [329355-barcode-battler-ii-shogaku-ninensei-special-barcode-card-dr-eggman-game-ichizoku.json](./329355-barcode-battler-ii-shogaku-ninensei-special-barcode-card-dr-eggman-game-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Hell Amb. (Hero Ichizoku) | 329361 | [329361-barcode-battler-ii-shogaku-ninensei-special-barcode-card-hell-amb-hero-ichizoku.json](./329361-barcode-battler-ii-shogaku-ninensei-special-barcode-card-hell-amb-hero-ichizoku.json) |
@@ -2819,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Redking (Hero Ichizoku) | 329360 | [329360-barcode-battler-ii-shogaku-ninensei-special-barcode-card-redking-hero-ichizoku.json](./329360-barcode-battler-ii-shogaku-ninensei-special-barcode-card-redking-hero-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Sonic (Game Ichizoku) | 329351 | [329351-barcode-battler-ii-shogaku-ninensei-special-barcode-card-sonic-game-ichizoku.json](./329351-barcode-battler-ii-shogaku-ninensei-special-barcode-card-sonic-game-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Ultraman (Hero Ichizoku) | 329359 | [329359-barcode-battler-ii-shogaku-ninensei-special-barcode-card-ultraman-hero-ichizoku.json](./329359-barcode-battler-ii-shogaku-ninensei-special-barcode-card-ultraman-hero-ichizoku.json) |
+| Barcode Battler II: Shogaku Ninensei Special Barcode Card - Yossy | 431122 | [431122-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy.json](./431122-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Yossy (Game Ichizoku) | 329348 | [329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json](./329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json) |
 | Barcode Battler II: Street Fighter II - 1. Hadouken | 387971 | [387971-barcode-battler-ii-street-fighter-ii-1-hadouken.json](./387971-barcode-battler-ii-street-fighter-ii-1-hadouken.json) |
 | Barcode Battler II: Street Fighter II - 10. Spinning Bird Kick | 387992 | [387992-barcode-battler-ii-street-fighter-ii-10-spinning-bird-kick.json](./387992-barcode-battler-ii-street-fighter-ii-10-spinning-bird-kick.json) |
@@ -12960,6 +12962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodRealm: War of Gods | 341055 | [341055-bloodrealm-war-of-gods.json](./341055-bloodrealm-war-of-gods.json) |
 | Bloodreaper | 308959 | [308959-bloodreaper.json](./308959-bloodreaper.json) |
 | Bloodright | 365822 | [365822-bloodright.json](./365822-bloodright.json) |
+| BloodRivals | 431106 | [431106-bloodrivals.json](./431106-bloodrivals.json) |
 | Bloodroot | 296107 | [296107-bloodroot.json](./296107-bloodroot.json) |
 | Bloodrun | 304196 | [304196-bloodrun.json](./304196-bloodrun.json) |
 | Bloodrune | 388698 | [388698-bloodrune.json](./388698-bloodrune.json) |
