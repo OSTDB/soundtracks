@@ -4811,6 +4811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Walk | 303603 | [303603-just-walk.json](./303603-just-walk.json) |
 | Just Want to Eat | 415525 | [415525-just-want-to-eat.json](./415525-just-want-to-eat.json) |
 | Just War Trains | 313752 | [313752-just-war-trains.json](./313752-just-war-trains.json) |
+| Just Weeding | 431647 | [431647-just-weeding.json](./431647-just-weeding.json) |
 | Just Wing It | 294312 | [294312-just-wing-it.json](./294312-just-wing-it.json) |
 | Just Work | 364788 | [364788-just-work.json](./364788-just-work.json) |
 | Just Xiangqi | 235701 | [235701-just-xiangqi.json](./235701-just-xiangqi.json) |
