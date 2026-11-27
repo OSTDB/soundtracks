@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Inside | 312773 | [312773-madness-inside.json](./312773-madness-inside.json) |
 | Madness Interactive | 58361 | [58361-madness-interactive.json](./58361-madness-interactive.json) |
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
+| Madness Melee | 417766 | [417766-madness-melee.json](./417766-madness-melee.json) |
 | Madness of the Architect | 83549 | [83549-madness-of-the-architect.json](./83549-madness-of-the-architect.json) |
 | Madness of the Architect | 83550 | [83550-madness-of-the-architect.json](./83550-madness-of-the-architect.json) |
 | Madness of the Coastal Structure | 183340 | [183340-madness-of-the-coastal-structure.json](./183340-madness-of-the-coastal-structure.json) |
@@ -2879,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maka Dash | 302046 | [302046-maka-dash.json](./302046-maka-dash.json) |
 | Maka Maka | 42305 | [42305-maka-maka.json](./42305-maka-maka.json) |
 | Makab Horazon: Ang Kuryer | 425033 | [425033-makab-horazon-ang-kuryer.json](./425033-makab-horazon-ang-kuryer.json) |
+| Makab Horazon: Ang Stalker | 423977 | [423977-makab-horazon-ang-stalker.json](./423977-makab-horazon-ang-stalker.json) |
 | Makabaka | 256673 | [256673-makabaka.json](./256673-makabaka.json) |
 | Makai Agito | 337589 | [337589-makai-agito.json](./337589-makai-agito.json) |
 | Makai City Chi-Ba | 426040 | [426040-makai-city-chi-ba.json](./426040-makai-city-chi-ba.json) |
@@ -9987,6 +9989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melonizard | 245362 | [245362-melonizard.json](./245362-melonizard.json) |
 | Melopad | 122617 | [122617-melopad.json](./122617-melopad.json) |
 | Melordandek | 113093 | [113093-melordandek.json](./113093-melordandek.json) |
+| Melotap | 424271 | [424271-melotap.json](./424271-melotap.json) |
 | Meloveyou | 183380 | [183380-meloveyou.json](./183380-meloveyou.json) |
 | Melpharia March | 420766 | [420766-melpharia-march.json](./420766-melpharia-march.json) |
 | Melpool Land | 213276 | [213276-melpool-land.json](./213276-melpool-land.json) |
@@ -10922,6 +10925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Surge | 392426 | [392426-merge-surge.json](./392426-merge-surge.json) |
 | Merge Survival: Wasteland | 250175 | [250175-merge-survival-wasteland.json](./250175-merge-survival-wasteland.json) |
 | Merge Tales | 240861 | [240861-merge-tales.json](./240861-merge-tales.json) |
+| Merge Teahouse | 417995 | [417995-merge-teahouse.json](./417995-merge-teahouse.json) |
 | Merge Together | 323340 | [323340-merge-together.json](./323340-merge-together.json) |
 | Merge Towers | 127775 | [127775-merge-towers.json](./127775-merge-towers.json) |
 | Merge Town! | 87347 | [87347-merge-town.json](./87347-merge-town.json) |
@@ -16688,6 +16692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob Psycho 100: Psychic Battle | 120274 | [120274-mob-psycho-100-psychic-battle.json](./120274-mob-psycho-100-psychic-battle.json) |
 | Mob Rule | 70279 | [70279-mob-rule.json](./70279-mob-rule.json) |
 | Mob Rule Classic | 29326 | [29326-mob-rule-classic.json](./29326-mob-rule-classic.json) |
+| Mob Rush | 424314 | [424314-mob-rush.json](./424314-mob-rush.json) |
 | Mob Stadium | 40427 | [40427-mob-stadium.json](./40427-mob-stadium.json) |
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
 | Mob Ties: Tokyo | 22120 | [22120-mob-ties-tokyo.json](./22120-mob-ties-tokyo.json) |
@@ -23668,6 +23673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Favourite T-Shirt | 398540 | [398540-my-favourite-t-shirt.json](./398540-my-favourite-t-shirt.json) |
 | My Felt World: farm, ocean, safari, arctic | 104505 | [104505-my-felt-world-farm-ocean-safari-arctic.json](./104505-my-felt-world-farm-ocean-safari-arctic.json) |
 | My Femboy Maid | 370471 | [370471-my-femboy-maid.json](./370471-my-femboy-maid.json) |
+| My Fiancé Is a Fiend | 420964 | [420964-my-fiance-is-a-fiend.json](./420964-my-fiance-is-a-fiend.json) |
 | My Fight | 31377 | [31377-my-fight.json](./31377-my-fight.json) |
 | My Fight: EeOneGuy | 168069 | [168069-my-fight-eeoneguy.json](./168069-my-fight-eeoneguy.json) |
 | My Fight: Mariana Ro | 168068 | [168068-my-fight-mariana-ro.json](./168068-my-fight-mariana-ro.json) |
