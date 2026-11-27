@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 11wol Sonyeon | 98427 | [98427-11wol-sonyeon.json](./98427-11wol-sonyeon.json) |
 | 11x11: Soccer Club Manager | 104716 | [104716-11x11-soccer-club-manager.json](./104716-11x11-soccer-club-manager.json) |
 | 12 | 97108 | [97108-12.json](./97108-12.json) |
+| 12 Angry Tests | 416778 | [416778-12-angry-tests.json](./416778-12-angry-tests.json) |
 | 12 Bananas | 151376 | [151376-12-bananas.json](./151376-12-bananas.json) |
 | 12 Bullets to Midnight | 349287 | [349287-12-bullets-to-midnight.json](./349287-12-bullets-to-midnight.json) |
 | 12 Dino Games in 1 | 54970 | [54970-12-dino-games-in-1.json](./54970-12-dino-games-in-1.json) |
@@ -2109,7 +2110,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 for Playdate | 341927 | [341927-2048-for-playdate.json](./341927-2048-for-playdate.json) |
 | 2048 Fusion | 308226 | [308226-2048-fusion.json](./308226-2048-fusion.json) |
 | 2048 Game With New Levels | 262361 | [262361-2048-game-with-new-levels.json](./262361-2048-game-with-new-levels.json) |
-| 2048 Hex | 87520 | [87520-2048-hex.json](./87520-2048-hex.json) |
 | 2048 Infinite: The Circle of Fifths | 61286 | [61286-2048-infinite-the-circle-of-fifths.json](./61286-2048-infinite-the-circle-of-fifths.json) |
 | 2048 Knight | 57437 | [57437-2048-knight.json](./57437-2048-knight.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
