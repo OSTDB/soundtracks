@@ -8032,6 +8032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitting-In | 253942 | [253942-fitting-in.json](./253942-fitting-in.json) |
 | FitXR | 142345 | [142345-fitxr.json](./142345-fitxr.json) |
 | Fitz 2 | 243090 | [243090-fitz-2.json](./243090-fitz-2.json) |
+| Fitz Packerton | 431097 | [431097-fitz-packerton.json](./431097-fitz-packerton.json) |
 | Fitz the Fox | 12891 | [12891-fitz-the-fox.json](./12891-fitz-the-fox.json) |
 | Fitzzle Adorable Puppies | 334783 | [334783-fitzzle-adorable-puppies.json](./334783-fitzzle-adorable-puppies.json) |
 | Fitzzle Cute Kittens | 109409 | [109409-fitzzle-cute-kittens.json](./109409-fitzzle-cute-kittens.json) |
@@ -8311,6 +8312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights In Saransk | 381257 | [381257-five-nights-in-saransk.json](./381257-five-nights-in-saransk.json) |
 | Five Nights In The Backrooms | 412666 | [412666-five-nights-in-the-backrooms.json](./412666-five-nights-in-the-backrooms.json) |
 | Five Nights in the Pizzeria: New Brand | 354003 | [354003-five-nights-in-the-pizzeria-new-brand.json](./354003-five-nights-in-the-pizzeria-new-brand.json) |
+| Five Nights of Flirting | 430972 | [430972-five-nights-of-flirting.json](./430972-five-nights-of-flirting.json) |
 | Five Nights of Nightmare: Escape Horror Story | 297313 | [297313-five-nights-of-nightmare-escape-horror-story.json](./297313-five-nights-of-nightmare-escape-horror-story.json) |
 | Five Nights on the Toilet | 267389 | [267389-five-nights-on-the-toilet.json](./267389-five-nights-on-the-toilet.json) |
 | Five Nights on the Toilet: Number 2 | 267388 | [267388-five-nights-on-the-toilet-number-2.json](./267388-five-nights-on-the-toilet-number-2.json) |
