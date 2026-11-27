@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hour | 192175 | [192175-last-hour.json](./192175-last-hour.json) |
 | Last Hour of an Epic to the Moon RPG | 274905 | [274905-last-hour-of-an-epic-to-the-moon-rpg.json](./274905-last-hour-of-an-epic-to-the-moon-rpg.json) |
 | Last Hours of Jack | 28668 | [28668-last-hours-of-jack.json](./28668-last-hours-of-jack.json) |
+| Last House Standing | 430928 | [430928-last-house-standing.json](./430928-last-house-standing.json) |
 | Last House Survival: Zombie Defense | 371422 | [371422-last-house-survival-zombie-defense.json](./371422-last-house-survival-zombie-defense.json) |
 | Last Hunt : Stealth Bigfoot | 106860 | [106860-last-hunt-stealth-bigfoot.json](./106860-last-hunt-stealth-bigfoot.json) |
 | Last Idea | 115448 | [115448-last-idea.json](./115448-last-idea.json) |
@@ -2191,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Game: Ufo Chase | 231181 | [231181-lawnmower-game-ufo-chase.json](./231181-lawnmower-game-ufo-chase.json) |
 | Lawnmower Game: UFO Chase 2 | 395365 | [395365-lawnmower-game-ufo-chase-2.json](./395365-lawnmower-game-ufo-chase-2.json) |
 | Lawnmower Maniac | 385874 | [385874-lawnmower-maniac.json](./385874-lawnmower-maniac.json) |
+| Lawnmower Puzzle | 430991 | [430991-lawnmower-puzzle.json](./430991-lawnmower-puzzle.json) |
 | Lawnmower Racing Mania 2007 | 69728 | [69728-lawnmower-racing-mania-2007.json](./69728-lawnmower-racing-mania-2007.json) |
 | Lawnmower Runner | 398505 | [398505-lawnmower-runner.json](./398505-lawnmower-runner.json) |
 | LawnMower: Mortal Race | 219284 | [219284-lawnmower-mortal-race.json](./219284-lawnmower-mortal-race.json) |
@@ -6638,6 +6640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lirili Larila | 353955 | [353955-lirili-larila.json](./353955-lirili-larila.json) |
 | Lis: Achados & Perdidos dos Confins do Universo | 239179 | [239179-lis-achados-and-perdidos-dos-confins-do-universo.json](./239179-lis-achados-and-perdidos-dos-confins-do-universo.json) |
 | Lisa and the Grimoire | 169413 | [169413-lisa-and-the-grimoire.json](./169413-lisa-and-the-grimoire.json) |
+| Lisa Is Fearless: Pain Mode | 430950 | [430950-lisa-is-fearless-pain-mode.json](./430950-lisa-is-fearless-pain-mode.json) |
 | Lisa Joyful in Hopeful | 348964 | [348964-lisa-joyful-in-hopeful.json](./348964-lisa-joyful-in-hopeful.json) |
 | Lisa the Joyful: Growing Pains | 208301 | [208301-lisa-the-joyful-growing-pains.json](./208301-lisa-the-joyful-growing-pains.json) |
 | Lisa the Vegaful | 172483 | [172483-lisa-the-vegaful.json](./172483-lisa-the-vegaful.json) |
