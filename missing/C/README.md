@@ -1471,8 +1471,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canary: Kono Omoi wo Uta ni Nosete | 319627 | [319627-canary-kono-omoi-wo-uta-ni-nosete.json](./319627-canary-kono-omoi-wo-uta-ni-nosete.json) |
 | Canasta | 99905 | [99905-canasta.json](./99905-canasta.json) |
 | Canasta HD | 354965 | [354965-canasta-hd.json](./354965-canasta-hd.json) |
-| Canasta Junction | 87215 | [87215-canasta-junction.json](./87215-canasta-junction.json) |
-| Canasta Royale | 87318 | [87318-canasta-royale.json](./87318-canasta-royale.json) |
 | CanBoom VR | 55375 | [55375-canboom-vr.json](./55375-canboom-vr.json) |
 | CanCan the Game | 158810 | [158810-cancan-the-game.json](./158810-cancan-the-game.json) |
 | Cancel Subscription Simulator | 418418 | [418418-cancel-subscription-simulator.json](./418418-cancel-subscription-simulator.json) |
@@ -4603,7 +4601,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Adventure 2 | 195799 | [195799-cat-adventure-2.json](./195799-cat-adventure-2.json) |
 | Cat and Can | 226299 | [226299-cat-and-can.json](./226299-cat-and-can.json) |
 | Cat and Dog Adventure | 95564 | [95564-cat-and-dog-adventure.json](./95564-cat-and-dog-adventure.json) |
-| Cat and Dog Salon: Joyful Pets | 87166 | [87166-cat-and-dog-salon-joyful-pets.json](./87166-cat-and-dog-salon-joyful-pets.json) |
 | Cat and Fish | 187648 | [187648-cat-and-fish.json](./187648-cat-and-fish.json) |
 | Cat and Ghostly Road | 114073 | [114073-cat-and-ghostly-road.json](./114073-cat-and-ghostly-road.json) |
 | Cat and Ghosts | 234994 | [234994-cat-and-ghosts.json](./234994-cat-and-ghosts.json) |
@@ -4871,7 +4868,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Simulator | 429338 | [429338-cat-simulator.json](./429338-cat-simulator.json) |
 | Cat Simulator 2 | 306469 | [306469-cat-simulator-2.json](./306469-cat-simulator-2.json) |
 | Cat Simulator 2015 | 87780 | [87780-cat-simulator-2015.json](./87780-cat-simulator-2015.json) |
-| Cat Simulator 3D: Pets and Friends | 87300 | [87300-cat-simulator-3d-pets-and-friends.json](./87300-cat-simulator-3d-pets-and-friends.json) |
 | Cat Simulator: Animals on Farm | 168135 | [168135-cat-simulator-animals-on-farm.json](./168135-cat-simulator-animals-on-farm.json) |
 | Cat Simulator: Kitty Conundrums | 289275 | [289275-cat-simulator-kitty-conundrums.json](./289275-cat-simulator-kitty-conundrums.json) |
 | Cat Simulator: Meow | 152473 | [152473-cat-simulator-meow.json](./152473-cat-simulator-meow.json) |
@@ -5044,7 +5040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catan | 196701 | [196701-catan.json](./196701-catan.json) |
 | Catan | 21830 | [21830-catan.json](./21830-catan.json) |
 | Catan | 248839 | [248839-catan.json](./248839-catan.json) |
-| Catan Classic HD | 87342 | [87342-catan-classic-hd.json](./87342-catan-classic-hd.json) |
 | Catan Universe | 28278 | [28278-catan-universe.json](./28278-catan-universe.json) |
 | Catan VR | 56868 | [56868-catan-vr.json](./56868-catan-vr.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
@@ -7175,7 +7170,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chapter Wars | 272634 | [272634-chapter-wars.json](./272634-chapter-wars.json) |
 | Chapter Wars: Expansion Pack | 286541 | [286541-chapter-wars-expansion-pack.json](./286541-chapter-wars-expansion-pack.json) |
 | Chapter Zero: The Angel Island Saga | 266347 | [266347-chapter-zero-the-angel-island-saga.json](./266347-chapter-zero-the-angel-island-saga.json) |
-| Chapters: Interactive Stories | 87355 | [87355-chapters-interactive-stories.json](./87355-chapters-interactive-stories.json) |
 | Chaqs | 223504 | [223504-chaqs.json](./223504-chaqs.json) |
 | Char's Ennui | 384774 | [384774-chars-ennui.json](./384774-chars-ennui.json) |
 | Chara Chenko | 130385 | [130385-chara-chenko.json](./130385-chara-chenko.json) |
@@ -7542,7 +7536,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers Minimal | 192075 | [192075-checkers-minimal.json](./192075-checkers-minimal.json) |
 | Checkers Online | 225746 | [225746-checkers-online.json](./225746-checkers-online.json) |
 | Checkers Online Elite | 348496 | [348496-checkers-online-elite.json](./348496-checkers-online-elite.json) |
-| Checkers Premium | 87269 | [87269-checkers-premium.json](./87269-checkers-premium.json) |
 | Checkers Q | 108197 | [108197-checkers-q.json](./108197-checkers-q.json) |
 | Checkers Quest Bundle | 231068 | [231068-checkers-quest-bundle.json](./231068-checkers-quest-bundle.json) |
 | Checkers Royal | 415259 | [415259-checkers-royal.json](./415259-checkers-royal.json) |
@@ -7692,7 +7685,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Strikes Back | 338511 | [338511-chef-strikes-back.json](./338511-chef-strikes-back.json) |
 | Chef Survivor | 258569 | [258569-chef-survivor.json](./258569-chef-survivor.json) |
 | Chef Town | 257007 | [257007-chef-town.json](./257007-chef-town.json) |
-| Chef Umami | 87497 | [87497-chef-umami.json](./87497-chef-umami.json) |
 | Chef Wanted | 232665 | [232665-chef-wanted.json](./232665-chef-wanted.json) |
 | Chef Wars | 102115 | [102115-chef-wars.json](./102115-chef-wars.json) |
 | Chef Wars Journeys | 102855 | [102855-chef-wars-journeys.json](./102855-chef-wars-journeys.json) |
@@ -8788,11 +8780,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Checkers | 71190 | [71190-chinese-checkers.json](./71190-chinese-checkers.json) |
 | Chinese Checkers | 88719 | [88719-chinese-checkers.json](./88719-chinese-checkers.json) |
 | Chinese Checkers | 91326 | [91326-chinese-checkers.json](./91326-chinese-checkers.json) |
-| Chinese Checkers - Dames Chinoises | 87440 | [87440-chinese-checkers-dames-chinoises.json](./87440-chinese-checkers-dames-chinoises.json) |
 | Chinese Checkers Deluxe | 67983 | [67983-chinese-checkers-deluxe.json](./67983-chinese-checkers-deluxe.json) |
 | Chinese Chess - Best Xiangqi | 102839 | [102839-chinese-chess-best-xiangqi.json](./102839-chinese-chess-best-xiangqi.json) |
 | Chinese Chess Deluxe | 146922 | [146922-chinese-chess-deluxe.json](./146922-chinese-chess-deluxe.json) |
-| Chinese Chess Online - Play Xiangqi Live | 87244 | [87244-chinese-chess-online-play-xiangqi-live.json](./87244-chinese-chess-online-play-xiangqi-live.json) |
 | Chinese Chess Party | 242372 | [242372-chinese-chess-party.json](./242372-chinese-chess-party.json) |
 | Chinese Chess Wargame | 259502 | [259502-chinese-chess-wargame.json](./259502-chinese-chess-wargame.json) |
 | Chinese Chess: Elephant Game | 72872 | [72872-chinese-chess-elephant-game.json](./72872-chinese-chess-elephant-game.json) |
@@ -10276,7 +10266,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella (games for girls) | 103978 | [103978-cinderella-games-for-girls.json](./103978-cinderella-games-for-girls.json) |
 | Cinderella After 4 | 303292 | [303292-cinderella-after-4.json](./303292-cinderella-after-4.json) |
 | Cinderella Cafe | 255909 | [255909-cinderella-cafe.json](./255909-cinderella-cafe.json) |
-| Cinderella Classic Tale | 87319 | [87319-cinderella-classic-tale.json](./87319-cinderella-classic-tale.json) |
 | Cinderella Dollhouse 2 | 50424 | [50424-cinderella-dollhouse-2.json](./50424-cinderella-dollhouse-2.json) |
 | Cinderella Escape 2 Revenge | 68490 | [68490-cinderella-escape-2-revenge.json](./68490-cinderella-escape-2-revenge.json) |
 | Cinderella Escape! R12 | 34330 | [34330-cinderella-escape-r12.json](./34330-cinderella-escape-r12.json) |
@@ -10880,7 +10869,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Hunter | 37718 | [37718-city-hunter.json](./37718-city-hunter.json) |
 | City Idle | 244354 | [244354-city-idle.json](./244354-city-idle.json) |
 | City Island 2: Building Sim | 103544 | [103544-city-island-2-building-sim.json](./103544-city-island-2-building-sim.json) |
-| City Island 3 - Building Sim | 87426 | [87426-city-island-3-building-sim.json](./87426-city-island-3-building-sim.json) |
 | City Island 4 | 88498 | [88498-city-island-4.json](./88498-city-island-4.json) |
 | City Island 5 | 181960 | [181960-city-island-5.json](./181960-city-island-5.json) |
 | City Island 6: Building Life | 293302 | [293302-city-island-6-building-life.json](./293302-city-island-6-building-life.json) |
@@ -11209,7 +11197,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CJ Elephant Fugitive | 46303 | [46303-cj-elephant-fugitive.json](./46303-cj-elephant-fugitive.json) |
 | CJ in the USA | 12006 | [12006-cj-in-the-usa.json](./12006-cj-in-the-usa.json) |
 | CJ's Elephant Antics | 12007 | [12007-cjs-elephant-antics.json](./12007-cjs-elephant-antics.json) |
-| CKZ Origins | 87164 | [87164-ckz-origins.json](./87164-ckz-origins.json) |
 | Clad in Iron Chincha Islands 1866 | 226304 | [226304-clad-in-iron-chincha-islands-1866.json](./226304-clad-in-iron-chincha-islands-1866.json) |
 | Clad in Iron War of the Pacific 1879 | 231022 | [231022-clad-in-iron-war-of-the-pacific-1879.json](./231022-clad-in-iron-war-of-the-pacific-1879.json) |
 | Clad In Iron: Carolines 1885 | 171737 | [171737-clad-in-iron-carolines-1885.json](./171737-clad-in-iron-carolines-1885.json) |
@@ -11522,7 +11509,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Game | 124572 | [124572-classic-game.json](./124572-classic-game.json) |
 | Classic Game Trio | 206971 | [206971-classic-game-trio.json](./206971-classic-game-trio.json) |
 | Classic Gamer: Colecovision Hits Volume One | 70187 | [70187-classic-gamer-colecovision-hits-volume-one.json](./70187-classic-gamer-colecovision-hits-volume-one.json) |
-| Classic Games | 87228 | [87228-classic-games.json](./87228-classic-games.json) |
 | Classic Games Collection Vol. 1 | 80111 | [80111-classic-games-collection-vol-1.json](./80111-classic-games-collection-vol-1.json) |
 | Classic Games Collection Vol.1: Holiday Edition | 280593 | [280593-classic-games-collection-vol-1-holiday-edition.json](./280593-classic-games-collection-vol-1-holiday-edition.json) |
 | Classic Games Collection Vol.1+2 Bundle | 231071 | [231071-classic-games-collection-vol-1-2-bundle.json](./231071-classic-games-collection-vol-1-2-bundle.json) |
@@ -11558,7 +11544,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Mario World: The Magic Crystals | 191909 | [191909-classic-mario-world-the-magic-crystals.json](./191909-classic-mario-world-the-magic-crystals.json) |
 | Classic Max Lite | 359478 | [359478-classic-max-lite.json](./359478-classic-max-lite.json) |
 | Classic Memory Game | 205864 | [205864-classic-memory-game.json](./205864-classic-memory-game.json) |
-| Classic Minesweeper | 87452 | [87452-classic-minesweeper.json](./87452-classic-minesweeper.json) |
 | Classic Muncher | 13496 | [13496-classic-muncher.json](./13496-classic-muncher.json) |
 | Classic Mystery Library | 71142 | [71142-classic-mystery-library.json](./71142-classic-mystery-library.json) |
 | Classic NES Series Trivia | 328665 | [328665-classic-nes-series-trivia.json](./328665-classic-nes-series-trivia.json) |
@@ -12292,6 +12277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Calamity in Mushroom World: What would you do if the time stopped ticking? | 153424 | [153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json](./153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json) |
 | Clockwork Cat | 128868 | [128868-clockwork-cat.json](./128868-clockwork-cat.json) |
 | Clockwork Cleanup | 382941 | [382941-clockwork-cleanup.json](./382941-clockwork-cleanup.json) |
+| Clockwork Conundrum (Classic) | 408347 | [408347-clockwork-conundrum-classic.json](./408347-clockwork-conundrum-classic.json) |
 | Clockwork Damage | 111812 | [111812-clockwork-damage.json](./111812-clockwork-damage.json) |
 | Clockwork Dawn | 303414 | [303414-clockwork-dawn.json](./303414-clockwork-dawn.json) |
 | Clockwork Dreams | 169238 | [169238-clockwork-dreams.json](./169238-clockwork-dreams.json) |
@@ -14028,14 +14014,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color by Number | 171229 | [171229-color-by-number.json](./171229-color-by-number.json) |
 | Color by Number - Modern Art | 102240 | [102240-color-by-number-modern-art.json](./102240-color-by-number-modern-art.json) |
 | Color by Number - Puzzle | 89755 | [89755-color-by-number-puzzle.json](./89755-color-by-number-puzzle.json) |
-| Color by Number: Coloring Book | 87377 | [87377-color-by-number-coloring-book.json](./87377-color-by-number-coloring-book.json) |
 | Color by Number: Medieval Portrait | 367346 | [367346-color-by-number-medieval-portrait.json](./367346-color-by-number-medieval-portrait.json) |
 | Color by Number: Monster Heroes | 369299 | [369299-color-by-number-monster-heroes.json](./369299-color-by-number-monster-heroes.json) |
 | Color by Number: New Coloring Book | 105504 | [105504-color-by-number-new-coloring-book.json](./105504-color-by-number-new-coloring-book.json) |
 | Color by Number: Pokémon Pixel Art | 95746 | [95746-color-by-number-pokemon-pixel-art.json](./95746-color-by-number-pokemon-pixel-art.json) |
 | Color by Numbers - Animals | 111173 | [111173-color-by-numbers-animals.json](./111173-color-by-numbers-animals.json) |
 | Color by Numbers - Animals + | 86696 | [86696-color-by-numbers-animals.json](./86696-color-by-numbers-animals.json) |
-| Color by Numbers - Cars + | 87188 | [87188-color-by-numbers-cars.json](./87188-color-by-numbers-cars.json) |
 | Color by Numbers - Christmas | 111174 | [111174-color-by-numbers-christmas.json](./111174-color-by-numbers-christmas.json) |
 | Color by Numbers - Christmas + | 87178 | [87178-color-by-numbers-christmas.json](./87178-color-by-numbers-christmas.json) |
 | Color by Numbers - Dinosaurs | 100397 | [100397-color-by-numbers-dinosaurs.json](./100397-color-by-numbers-dinosaurs.json) |
@@ -15855,7 +15839,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect Four | 91265 | [91265-connect-four.json](./91265-connect-four.json) |
 | Connect Four / Perfection / Trouble | 77638 | [77638-connect-four-perfection-trouble.json](./77638-connect-four-perfection-trouble.json) |
 | Connect Four Cities | 73840 | [73840-connect-four-cities.json](./73840-connect-four-cities.json) |
-| Connect Fun - Four in a Row | 87417 | [87417-connect-fun-four-in-a-row.json](./87417-connect-fun-four-in-a-row.json) |
 | Connect It! | 147778 | [147778-connect-it.json](./147778-connect-it.json) |
 | Connect Legend of Autumn | 280553 | [280553-connect-legend-of-autumn.json](./280553-connect-legend-of-autumn.json) |
 | Connect Lines | 399781 | [399781-connect-lines.json](./399781-connect-lines.json) |
@@ -19695,9 +19678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy module | 284986 | [284986-crazy-module.json](./284986-crazy-module.json) |
 | Crazy Mom | 310550 | [310550-crazy-mom.json](./310550-crazy-mom.json) |
 | Crazy Monster | 280096 | [280096-crazy-monster.json](./280096-crazy-monster.json) |
-| Crazy Monster Truck Escape | 87135 | [87135-crazy-monster-truck-escape.json](./87135-crazy-monster-truck-escape.json) |
 | Crazy Monster Truck Smasher | 89160 | [89160-crazy-monster-truck-smasher.json](./89160-crazy-monster-truck-smasher.json) |
-| Crazy Monster Trucks | 87405 | [87405-crazy-monster-trucks.json](./87405-crazy-monster-trucks.json) |
 | Crazy Mosquito | 113579 | [113579-crazy-mosquito.json](./113579-crazy-mosquito.json) |
 | Crazy Moto | 359187 | [359187-crazy-moto.json](./359187-crazy-moto.json) |
 | Crazy Mouse | 74410 | [74410-crazy-mouse.json](./74410-crazy-mouse.json) |
@@ -19887,7 +19868,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cream Wolf | 396973 | [396973-cream-wolf.json](./396973-cream-wolf.json) |
 | Creamare: The Game | 339338 | [339338-creamare-the-game.json](./339338-creamare-the-game.json) |
 | Creampie Love | 389770 | [389770-creampie-love.json](./389770-creampie-love.json) |
-| Creamy Dream Restaurant | 87242 | [87242-creamy-dream-restaurant.json](./87242-creamy-dream-restaurant.json) |
 | Creamy Mami: Futari no Rondo | 184477 | [184477-creamy-mami-futari-no-rondo.json](./184477-creamy-mami-futari-no-rondo.json) |
 | CreArt: Painting by Numbers | 393417 | [393417-creart-painting-by-numbers.json](./393417-creart-painting-by-numbers.json) |
 | Creas | 149202 | [149202-creas.json](./149202-creas.json) |
@@ -22995,7 +22975,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curling 2010 | 230688 | [230688-curling-2010.json](./230688-curling-2010.json) |
 | Curling 2010 | 66570 | [66570-curling-2010.json](./66570-curling-2010.json) |
 | Curling 2012 | 52334 | [52334-curling-2012.json](./52334-curling-2012.json) |
-| Curling 3D - Winter Sports | 87478 | [87478-curling-3d-winter-sports.json](./87478-curling-3d-winter-sports.json) |
 | Curling DS | 92026 | [92026-curling-ds.json](./92026-curling-ds.json) |
 | Curling in the Dungeon | 292365 | [292365-curling-in-the-dungeon.json](./292365-curling-in-the-dungeon.json) |
 | Curling on Line | 166769 | [166769-curling-on-line.json](./166769-curling-on-line.json) |
