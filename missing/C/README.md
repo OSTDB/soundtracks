@@ -3379,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival | 297810 | [297810-carnival.json](./297810-carnival.json) |
 | Carnival | 5666 | [5666-carnival.json](./5666-carnival.json) |
 | Carnival and Girls | 170915 | [170915-carnival-and-girls.json](./170915-carnival-and-girls.json) |
+| Carnival Catastrophe | 430339 | [430339-carnival-catastrophe.json](./430339-carnival-catastrophe.json) |
 | Carnival Cruise Line Tycoon 2005: Island Hopping | 23565 | [23565-carnival-cruise-line-tycoon-2005-island-hopping.json](./23565-carnival-cruise-line-tycoon-2005-island-hopping.json) |
 | Carnival Fest | 424808 | [424808-carnival-fest.json](./424808-carnival-fest.json) |
 | Carnival Games | 108759 | [108759-carnival-games.json](./108759-carnival-games.json) |
@@ -6475,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CG Mukashi Banashi: Jiisan 2-do Bikkuri!! | 346144 | [346144-cg-mukashi-banashi-jiisan-2-do-bikkuri.json](./346144-cg-mukashi-banashi-jiisan-2-do-bikkuri.json) |
 | CG the Seven Virus Knights | 76313 | [76313-cg-the-seven-virus-knights.json](./76313-cg-the-seven-virus-knights.json) |
 | CGA Pumpkin Carver | 179741 | [179741-cga-pumpkin-carver.json](./179741-cga-pumpkin-carver.json) |
+| CGA Trek | 430419 | [430419-cga-trek.json](./430419-cga-trek.json) |
 | Cgencore | 115028 | [115028-cgencore.json](./115028-cgencore.json) |
 | CGI: The Game | 234075 | [234075-cgi-the-game.json](./234075-cgi-the-game.json) |
 | CH Retro Episode | 313158 | [313158-ch-retro-episode.json](./313158-ch-retro-episode.json) |
@@ -11131,6 +11133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CitySpotter | 400023 | [400023-cityspotter.json](./400023-cityspotter.json) |
 | Citystate | 84003 | [84003-citystate.json](./84003-citystate.json) |
 | Citystate II | 142168 | [142168-citystate-ii.json](./142168-citystate-ii.json) |
+| Cityterium | 430437 | [430437-cityterium.json](./430437-cityterium.json) |
 | Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
 | Cityventory | 337329 | [337329-cityventory.json](./337329-cityventory.json) |
 | CityVille | 80153 | [80153-cityville.json](./80153-cityville.json) |
@@ -15299,6 +15302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comp IV | 245533 | [245533-comp-iv.json](./245533-comp-iv.json) |
 | Compact Cyber Arcade: Disney Frozen Elsa | 246551 | [246551-compact-cyber-arcade-disney-frozen-elsa.json](./246551-compact-cyber-arcade-disney-frozen-elsa.json) |
 | Compact Cyber Arcade: Ultimate Spider-Man | 277799 | [277799-compact-cyber-arcade-ultimate-spider-man.json](./277799-compact-cyber-arcade-ultimate-spider-man.json) |
+| Compact Plasma Gears | 430418 | [430418-compact-plasma-gears.json](./430418-compact-plasma-gears.json) |
 | Compacted | 427241 | [427241-compacted.json](./427241-compacted.json) |
 | Compacto: Idle Game | 154252 | [154252-compacto-idle-game.json](./154252-compacto-idle-game.json) |
 | Compactor Baron | 422991 | [422991-compactor-baron.json](./422991-compactor-baron.json) |
