@@ -3176,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party.io | 193795 | [193795-party-io.json](./193795-party-io.json) |
 | Party's Over: Backyard Cleanup Simulator | 414162 | [414162-partys-over-backyard-cleanup-simulator.json](./414162-partys-over-backyard-cleanup-simulator.json) |
 | PartyCade | 420838 | [420838-partycade.json](./420838-partycade.json) |
+| Partyforge Idle | 430465 | [430465-partyforge-idle.json](./430465-partyforge-idle.json) |
 | Partygoer! | 329035 | [329035-partygoer.json](./329035-partygoer.json) |
 | PartyIcons | 336943 | [336943-partyicons.json](./336943-partyicons.json) |
 | Partypit Games | 214905 | [214905-partypit-games.json](./214905-partypit-games.json) |
@@ -9549,6 +9550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Prom Pregnancy | 417740 | [417740-pixel-prom-pregnancy.json](./417740-pixel-prom-pregnancy.json) |
 | Pixel Punk | 252275 | [252275-pixel-punk.json](./252275-pixel-punk.json) |
 | Pixel Pup | 418423 | [418423-pixel-pup.json](./418423-pixel-pup.json) |
+| Pixel Puppy Adventure | 430407 | [430407-pixel-puppy-adventure.json](./430407-pixel-puppy-adventure.json) |
 | Pixel Pursuit | 43147 | [43147-pixel-pursuit.json](./43147-pixel-pursuit.json) |
 | Pixel Push Football | 240868 | [240868-pixel-push-football.json](./240868-pixel-push-football.json) |
 | Pixel Puzzle Collection | 110865 | [110865-pixel-puzzle-collection.json](./110865-pixel-puzzle-collection.json) |
