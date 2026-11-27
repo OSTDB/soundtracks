@@ -2551,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KickHim | 31369 | [31369-kickhim.json](./31369-kickhim.json) |
 | Kickin Kong | 261532 | [261532-kickin-kong.json](./261532-kickin-kong.json) |
 | Kickin Momma | 92489 | [92489-kickin-momma.json](./92489-kickin-momma.json) |
+| Kickin' Elevator | 430509 | [430509-kickin-elevator.json](./430509-kickin-elevator.json) |
 | Kicking Balls World | 394777 | [394777-kicking-balls-world.json](./394777-kicking-balls-world.json) |
 | Kicking King | 35007 | [35007-kicking-king.json](./35007-kicking-king.json) |
 | Kicking Kittens: Putin Saves the World | 81653 | [81653-kicking-kittens-putin-saves-the-world.json](./81653-kicking-kittens-putin-saves-the-world.json) |
