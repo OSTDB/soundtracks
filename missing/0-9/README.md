@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | :) | 139909 | [139909-.json](./139909-.json) |
 | :) Sudoku + | 88712 | [88712-sudoku.json](./88712-sudoku.json) |
 | :3 | 328162 | [328162-3.json](./328162-3.json) |
+| :Time | 431040 | [431040-time.json](./431040-time.json) |
 | ! | 165498 | [165498-.json](./165498-.json) |
 | !?DragonDragon?! | 427985 | [427985-dragondragon.json](./427985-dragondragon.json) |
 | !BurnToDie! | 109760 | [109760-burntodie.json](./109760-burntodie.json) |
