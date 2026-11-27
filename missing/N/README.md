@@ -54,7 +54,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.U.T.Z. | 99490 | [99490-n-u-t-z.json](./99490-n-u-t-z.json) |
 | N.Ukeme | 418519 | [418519-n-ukeme.json](./418519-n-ukeme.json) |
 | N.Y. Captor | 40382 | [40382-n-y-captor.json](./40382-n-y-captor.json) |
-| N.Y.Zombies 2 | 86907 | [86907-n-y-zombies-2.json](./86907-n-y-zombies-2.json) |
 | N'Oubliez Jamais | 166578 | [166578-noubliez-jamais.json](./166578-noubliez-jamais.json) |
 | N+ | 8749 | [8749-n.json](./8749-n.json) |
 | N++ | 8750 | [8750-n.json](./8750-n.json) |
@@ -5774,7 +5773,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Assassin | 228138 | [228138-ninja-assassin.json](./228138-ninja-assassin.json) |
 | Ninja Assault | 245110 | [245110-ninja-assault.json](./245110-ninja-assault.json) |
 | Ninja Attack | 280152 | [280152-ninja-attack.json](./280152-ninja-attack.json) |
-| Ninja Attack! | 87000 | [87000-ninja-attack.json](./87000-ninja-attack.json) |
 | Ninja Avenger Dragon Blade | 27119 | [27119-ninja-avenger-dragon-blade.json](./27119-ninja-avenger-dragon-blade.json) |
 | Ninja Ball | 100192 | [100192-ninja-ball.json](./100192-ninja-ball.json) |
 | Ninja Ball | 310133 | [310133-ninja-ball.json](./310133-ninja-ball.json) |
