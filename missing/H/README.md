@@ -236,7 +236,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
 | Hacker life simulator | 205750 | [205750-hacker-life-simulator.json](./205750-hacker-life-simulator.json) |
 | Hacker Man | 204004 | [204004-hacker-man.json](./204004-hacker-man.json) |
-| Hacker Online RPG | 87439 | [87439-hacker-online-rpg.json](./87439-hacker-online-rpg.json) |
 | Hacker or Dev Tycoon? | 426194 | [426194-hacker-or-dev-tycoon.json](./426194-hacker-or-dev-tycoon.json) |
 | Hacker Series | 31115 | [31115-hacker-series.json](./31115-hacker-series.json) |
 | Hacker Simulator | 178337 | [178337-hacker-simulator.json](./178337-hacker-simulator.json) |
@@ -1490,7 +1489,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hancho | 121330 | [121330-hancho.json](./121330-hancho.json) |
 | Hanctt Origins | 253455 | [253455-hanctt-origins.json](./253455-hanctt-origins.json) |
 | Hand Almighty | 393759 | [393759-hand-almighty.json](./393759-hand-almighty.json) |
-| Hand and Foot Card Game | 87471 | [87471-hand-and-foot-card-game.json](./87471-hand-and-foot-card-game.json) |
 | Hand and Stone | 121900 | [121900-hand-and-stone.json](./121900-hand-and-stone.json) |
 | Hand Cannon Virtuoso | 132256 | [132256-hand-cannon-virtuoso.json](./132256-hand-cannon-virtuoso.json) |
 | Hand Cannon: Janky Reality | 192990 | [192990-hand-cannon-janky-reality.json](./192990-hand-cannon-janky-reality.json) |
@@ -1864,8 +1862,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Campers | 29292 | [29292-happy-campers.json](./29292-happy-campers.json) |
 | Happy Cat Tavern | 209603 | [209603-happy-cat-tavern.json](./209603-happy-cat-tavern.json) |
 | Happy Challenger Yamada | 313312 | [313312-happy-challenger-yamada.json](./313312-happy-challenger-yamada.json) |
-| Happy Chef | 87446 | [87446-happy-chef.json](./87446-happy-chef.json) |
-| Happy Chef 2 | 87409 | [87409-happy-chef-2.json](./87409-happy-chef-2.json) |
 | Happy Chef 3 | 294803 | [294803-happy-chef-3.json](./294803-happy-chef-3.json) |
 | Happy Chess | 56569 | [56569-happy-chess.json](./56569-happy-chess.json) |
 | Happy Circus | 84490 | [84490-happy-circus.json](./84490-happy-circus.json) |
@@ -2007,7 +2003,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Quest | 144926 | [144926-happy-quest.json](./144926-happy-quest.json) |
 | Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
 | Happy Race | 195041 | [195041-happy-race.json](./195041-happy-race.json) |
-| Happy Racing: Online Wheels | 87349 | [87349-happy-racing-online-wheels.json](./87349-happy-racing-online-wheels.json) |
 | Happy Ranch | 183653 | [183653-happy-ranch.json](./183653-happy-ranch.json) |
 | Happy Rider 2 | 95789 | [95789-happy-rider-2.json](./95789-happy-rider-2.json) |
 | Happy Rider Wheels | 95737 | [95737-happy-rider-wheels.json](./95737-happy-rider-wheels.json) |
@@ -3626,7 +3621,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Ball 2 | 99141 | [99141-head-ball-2.json](./99141-head-ball-2.json) |
 | Head Banger | 70526 | [70526-head-banger.json](./70526-head-banger.json) |
 | Head Bangerz | 265761 | [265761-head-bangerz.json](./265761-head-bangerz.json) |
-| Head Basketball | 87428 | [87428-head-basketball.json](./87428-head-basketball.json) |
 | Head Basketball: Samir of Morocco | 235573 | [235573-head-basketball-samir-of-morocco.json](./235573-head-basketball-samir-of-morocco.json) |
 | Head Boxing | 90785 | [90785-head-boxing.json](./90785-head-boxing.json) |
 | Head Bumper: Editcraft | 164428 | [164428-head-bumper-editcraft.json](./164428-head-bumper-editcraft.json) |
@@ -4080,9 +4074,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts | 88690 | [88690-hearts.json](./88690-hearts.json) |
 | Hearts & Hexes | 191906 | [191906-hearts-and-hexes.json](./191906-hearts-and-hexes.json) |
 | Hearts 3D Premium | 195330 | [195330-hearts-3d-premium.json](./195330-hearts-3d-premium.json) |
+| Hearts and Heroes: A Markiplier Fan Game | 403801 | [403801-hearts-and-heroes-a-markiplier-fan-game.json](./403801-hearts-and-heroes-a-markiplier-fan-game.json) |
 | Hearts by Dodofox | 100334 | [100334-hearts-by-dodofox.json](./100334-hearts-by-dodofox.json) |
 | Hearts by Webfoot | 108286 | [108286-hearts-by-webfoot.json](./108286-hearts-by-webfoot.json) |
-| Hearts Card Game | 87145 | [87145-hearts-card-game.json](./87145-hearts-card-game.json) |
 | Hearts Cards | 86724 | [86724-hearts-cards.json](./86724-hearts-cards.json) |
 | Hearts Deluxe | 118736 | [118736-hearts-deluxe.json](./118736-hearts-deluxe.json) |
 | Hearts Gone Black | 410042 | [410042-hearts-gone-black.json](./410042-hearts-gone-black.json) |
@@ -7895,7 +7889,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heyawake by Nikoli | 84522 | [84522-heyawake-by-nikoli.json](./84522-heyawake-by-nikoli.json) |
 | HeyBot! HeyboHeybo! HeyBoTournament! | 135165 | [135165-heybot-heyboheybo-heybotournament.json](./135165-heybot-heyboheybo-heybotournament.json) |
 | Heyday | 91541 | [91541-heyday.json](./91541-heyday.json) |
-| Heydooda! The Kitty Says: Hello Animal Kids | 87112 | [87112-heydooda-the-kitty-says-hello-animal-kids.json](./87112-heydooda-the-kitty-says-hello-animal-kids.json) |
 | Heyoo 3D Platformer | 390380 | [390380-heyoo-3d-platformer.json](./390380-heyoo-3d-platformer.json) |
 | Heyspresso | 296956 | [296956-heyspresso.json](./296956-heyspresso.json) |
 | Hezarin | 25114 | [25114-hezarin.json](./25114-hezarin.json) |
@@ -7909,7 +7902,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | hhGregg's Quest for Coupons | 125942 | [125942-hhgreggs-quest-for-coupons.json](./125942-hhgreggs-quest-for-coupons.json) |
 | HHHalloween | 289471 | [289471-hhhalloween.json](./289471-hhhalloween.json) |
 | Hi Color | 228450 | [228450-hi-color.json](./228450-hi-color.json) |
-| Hi Crossword-Word Puzzle Game | 87253 | [87253-hi-crossword-word-puzzle-game.json](./87253-hi-crossword-word-puzzle-game.json) |
 | Hi Eggplant: The Birth of Sprites | 245850 | [245850-hi-eggplant-the-birth-of-sprites.json](./245850-hi-eggplant-the-birth-of-sprites.json) |
 | Hi Eggplant! | 211040 | [211040-hi-eggplant.json](./211040-hi-eggplant.json) |
 | Hi Guess the Movie 2016 | 232111 | [232111-hi-guess-the-movie-2016.json](./232111-hi-guess-the-movie-2016.json) |
@@ -8963,7 +8955,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Speed Race: Need for Asphalt Racing | 314541 | [314541-high-speed-race-need-for-asphalt-racing.json](./314541-high-speed-race-need-for-asphalt-racing.json) |
 | High Speed Trains | 90166 | [90166-high-speed-trains.json](./90166-high-speed-trains.json) |
 | High Speed Trains 2 - England | 88742 | [88742-high-speed-trains-2-england.json](./88742-high-speed-trains-2-england.json) |
-| High Speed Trains 3D | 87501 | [87501-high-speed-trains-3d.json](./87501-high-speed-trains-3d.json) |
 | High Spirits | 317300 | [317300-high-spirits.json](./317300-high-spirits.json) |
 | High Stakes | 141081 | [141081-high-stakes.json](./141081-high-stakes.json) |
 | High Stakes | 184692 | [184692-high-stakes.json](./184692-high-stakes.json) |
@@ -11476,7 +11467,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoovernauts | 149248 | [149248-hoovernauts.json](./149248-hoovernauts.json) |
 | Hoozuki no Yakusai | 376674 | [376674-hoozuki-no-yakusai.json](./376674-hoozuki-no-yakusai.json) |
 | Hop | 86964 | [86964-hop.json](./86964-hop.json) |
-| Hop - Endless Arcade Hopper | 87167 | [87167-hop-endless-arcade-hopper.json](./87167-hop-endless-arcade-hopper.json) |
 | Hop 'n' Marty | 310323 | [310323-hop-n-marty.json](./310323-hop-n-marty.json) |
 | Hop 'N' Stack | 311665 | [311665-hop-n-stack.json](./311665-hop-n-stack.json) |
 | Hop & Seek | 377223 | [377223-hop-and-seek.json](./377223-hop-and-seek.json) |
@@ -11856,7 +11846,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrible Dream | 302908 | [302908-horrible-dream.json](./302908-horrible-dream.json) |
 | Horribunnies | 130178 | [130178-horribunnies.json](./130178-horribunnies.json) |
 | Horrid Henry | 67089 | [67089-horrid-henry.json](./67089-horrid-henry.json) |
-| Horrid Henry's Big Box of Pranks | 87486 | [87486-horrid-henrys-big-box-of-pranks.json](./87486-horrid-henrys-big-box-of-pranks.json) |
 | Horrid Henry's Horrid Adventure | 269630 | [269630-horrid-henrys-horrid-adventure.json](./269630-horrid-henrys-horrid-adventure.json) |
 | Horrid Henry's Krazy Karts | 187451 | [187451-horrid-henrys-krazy-karts.json](./187451-horrid-henrys-krazy-karts.json) |
 | Horrific Xanatorium | 266044 | [266044-horrific-xanatorium.json](./266044-horrific-xanatorium.json) |
@@ -12312,7 +12301,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Goths Murder Mystery Dating Sim | 237825 | [237825-hot-goths-murder-mystery-dating-sim.json](./237825-hot-goths-murder-mystery-dating-sim.json) |
 | Hot Guns | 28505 | [28505-hot-guns.json](./28505-hot-guns.json) |
 | Hot Guns: International Missions | 213967 | [213967-hot-guns-international-missions.json](./213967-hot-guns-international-missions.json) |
-| Hot Hands! | 87171 | [87171-hot-hands.json](./87171-hot-hands.json) |
 | Hot Hatch Adventure | 278640 | [278640-hot-hatch-adventure.json](./278640-hot-hatch-adventure.json) |
 | Hot Heat Reset | 224512 | [224512-hot-heat-reset.json](./224512-hot-heat-reset.json) |
 | Hot Hentai | 286741 | [286741-hot-hentai.json](./286741-hot-hentai.json) |
@@ -14222,7 +14210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntin' Ducks | 309921 | [309921-huntin-ducks.json](./309921-huntin-ducks.json) |
 | Hunting | 341953 | [341953-hunting.json](./341953-hunting.json) |
 | Hunting and Camping: In a Singularity | 214685 | [214685-hunting-and-camping-in-a-singularity.json](./214685-hunting-and-camping-in-a-singularity.json) |
-| Hunting Animals - Shooting Simulator | 87144 | [87144-hunting-animals-shooting-simulator.json](./87144-hunting-animals-shooting-simulator.json) |
 | Hunting Arcade | 210055 | [210055-hunting-arcade.json](./210055-hunting-arcade.json) |
 | Hunting Challenge | 145561 | [145561-hunting-challenge.json](./145561-hunting-challenge.json) |
 | Hunting Clash: Hunter Games | 235294 | [235294-hunting-clash-hunter-games.json](./235294-hunting-clash-hunter-games.json) |
@@ -14242,7 +14229,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Seas | 312169 | [312169-hunting-seas.json](./312169-hunting-seas.json) |
 | Hunting Season | 210056 | [210056-hunting-season.json](./210056-hunting-season.json) |
 | Hunting Season 3D | 220830 | [220830-hunting-season-3d.json](./220830-hunting-season-3d.json) |
-| Hunting Shark: Sea Monster 3D | 87421 | [87421-hunting-shark-sea-monster-3d.json](./87421-hunting-shark-sea-monster-3d.json) |
 | Hunting Simulator | 239044 | [239044-hunting-simulator.json](./239044-hunting-simulator.json) |
 | Hunting Simulator | 27697 | [27697-hunting-simulator.json](./27697-hunting-simulator.json) |
 | Hunting Simulator 2 | 130000 | [130000-hunting-simulator-2.json](./130000-hunting-simulator-2.json) |
