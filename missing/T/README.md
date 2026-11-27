@@ -4486,6 +4486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
 | Ten Shot | 310268 | [310268-ten-shot.json](./310268-ten-shot.json) |
 | Ten Tales from the Record of the Adamant Gambit | 198024 | [198024-ten-tales-from-the-record-of-the-adamant-gambit.json](./198024-ten-tales-from-the-record-of-the-adamant-gambit.json) |
+| Ten Tek | 431662 | [431662-ten-tek.json](./431662-ten-tek.json) |
 | Ten Ten | 318463 | [318463-ten-ten.json](./318463-ten-ten.json) |
 | Ten Thousand Coins: The Golden Merchant | 126804 | [126804-ten-thousand-coins-the-golden-merchant.json](./126804-ten-thousand-coins-the-golden-merchant.json) |
 | Ten Thousand Days in the Fire | 274267 | [274267-ten-thousand-days-in-the-fire.json](./274267-ten-thousand-days-in-the-fire.json) |
@@ -17921,6 +17922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rabbit and Tamaki are Taking a Break! | 286106 | [286106-the-rabbit-and-tamaki-are-taking-a-break.json](./286106-the-rabbit-and-tamaki-are-taking-a-break.json) |
 | The Rabbit and the Owl | 51612 | [51612-the-rabbit-and-the-owl.json](./51612-the-rabbit-and-the-owl.json) |
 | The Rabbit Crazy Adventure | 261331 | [261331-the-rabbit-crazy-adventure.json](./261331-the-rabbit-crazy-adventure.json) |
+| The Rabbit Crazy Adventure One More Time | 431645 | [431645-the-rabbit-crazy-adventure-one-more-time.json](./431645-the-rabbit-crazy-adventure-one-more-time.json) |
 | The Rabbit Haul | 265277 | [265277-the-rabbit-haul.json](./265277-the-rabbit-haul.json) |
 | The Rabbit Hole | 31237 | [31237-the-rabbit-hole.json](./31237-the-rabbit-hole.json) |
 | The Rabbit Hole Principle | 120352 | [120352-the-rabbit-hole-principle.json](./120352-the-rabbit-hole-principle.json) |
@@ -24455,6 +24457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up Ltd. | 431140 | [431140-tidy-up-ltd.json](./431140-tidy-up-ltd.json) |
 | Tidy up the Backrooms | 420916 | [420916-tidy-up-the-backrooms.json](./420916-tidy-up-the-backrooms.json) |
 | Tidy Up the Backrooms | 419519 | [419519-tidy-up-the-backrooms.json](./419519-tidy-up-the-backrooms.json) |
+| Tidy Up the Chocolate Factory | 431395 | [431395-tidy-up-the-chocolate-factory.json](./431395-tidy-up-the-chocolate-factory.json) |
 | Tidy Up the Christmas Shop | 428999 | [428999-tidy-up-the-christmas-shop.json](./428999-tidy-up-the-christmas-shop.json) |
 | Tidy Up the Flower Shop | 420898 | [420898-tidy-up-the-flower-shop.json](./420898-tidy-up-the-flower-shop.json) |
 | Tidy Up the Flower Shop: Christmas | 429102 | [429102-tidy-up-the-flower-shop-christmas.json](./429102-tidy-up-the-flower-shop-christmas.json) |
@@ -27689,6 +27692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Brawl | 57544 | [57544-titan-brawl.json](./57544-titan-brawl.json) |
 | Titan Charge | 57785 | [57785-titan-charge.json](./57785-titan-charge.json) |
 | Titan Chaser | 132513 | [132513-titan-chaser.json](./132513-titan-chaser.json) |
+| Titan Crew | 431678 | [431678-titan-crew.json](./431678-titan-crew.json) |
 | Titan Empire | 24657 | [24657-titan-empire.json](./24657-titan-empire.json) |
 | Titan Empires | 323314 | [323314-titan-empires.json](./323314-titan-empires.json) |
 | Titan Force | 289944 | [289944-titan-force.json](./289944-titan-force.json) |
@@ -29695,6 +29699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tooth and Tail | 12519 | [12519-tooth-and-tail.json](./12519-tooth-and-tail.json) |
 | Tooth and Tusk | 424752 | [424752-tooth-and-tusk.json](./424752-tooth-and-tusk.json) |
 | Tooth Fairy Horse | 250454 | [250454-tooth-fairy-horse.json](./250454-tooth-fairy-horse.json) |
+| Tooth for Tooth | 431438 | [431438-tooth-for-tooth.json](./431438-tooth-for-tooth.json) |
 | Tooth Invaders | 92322 | [92322-tooth-invaders.json](./92322-tooth-invaders.json) |
 | Tooth Protectors | 11236 | [11236-tooth-protectors.json](./11236-tooth-protectors.json) |
 | Toothless Vampire | 184750 | [184750-toothless-vampire.json](./184750-toothless-vampire.json) |
@@ -34980,6 +34985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traumatic Tick Tock Tower | 339024 | [339024-traumatic-tick-tock-tower.json](./339024-traumatic-tick-tock-tower.json) |
 | Traumatizing Web-Tales | 284708 | [284708-traumatizing-web-tales.json](./284708-traumatizing-web-tales.json) |
 | Träumerei no Haka | 292812 | [292812-traumerei-no-haka.json](./292812-traumerei-no-haka.json) |
+| Träumerei Nocturne | 431497 | [431497-traumerei-nocturne.json](./431497-traumerei-nocturne.json) |
 | Träumerei: Chapter 0 | 280929 | [280929-traumerei-chapter-0.json](./280929-traumerei-chapter-0.json) |
 | Träumerei: Chapter 1 | 137355 | [137355-traumerei-chapter-1.json](./137355-traumerei-chapter-1.json) |
 | Träumerei: Chapter 2 | 137465 | [137465-traumerei-chapter-2.json](./137465-traumerei-chapter-2.json) |
@@ -35464,6 +35470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tren0 | 81974 | [81974-tren0.json](./81974-tren0.json) |
 | Trench Assault | 115195 | [115195-trench-assault.json](./115195-trench-assault.json) |
 | Trench Defender | 294309 | [294309-trench-defender.json](./294309-trench-defender.json) |
+| Trench Engr. | 431454 | [431454-trench-engr.json](./431454-trench-engr.json) |
 | Trench Face | 365220 | [365220-trench-face.json](./365220-trench-face.json) |
 | Trench Face: Expansion | 420124 | [420124-trench-face-expansion.json](./420124-trench-face-expansion.json) |
 | Trench Foot | 148157 | [148157-trench-foot.json](./148157-trench-foot.json) |
