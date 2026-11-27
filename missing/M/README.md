@@ -1477,7 +1477,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Potion Millionaire | 135423 | [135423-magic-potion-millionaire.json](./135423-magic-potion-millionaire.json) |
 | Magic Potion Stories | 252666 | [252666-magic-potion-stories.json](./252666-magic-potion-stories.json) |
 | Magic Princess | 301200 | [301200-magic-princess.json](./301200-magic-princess.json) |
-| Magic Princess - Girls Makeup & Dressup Salon Game | 87465 | [87465-magic-princess-girls-makeup-and-dressup-salon-game.json](./87465-magic-princess-girls-makeup-and-dressup-salon-game.json) |
 | Magic Purple | 251706 | [251706-magic-purple.json](./251706-magic-purple.json) |
 | Magic Pussy: Chapter 1 | 244719 | [244719-magic-pussy-chapter-1.json](./244719-magic-pussy-chapter-1.json) |
 | Magic Pussy: Chapter 3 | 365670 | [365670-magic-pussy-chapter-3.json](./365670-magic-pussy-chapter-3.json) |
@@ -2386,7 +2385,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Trap | 115717 | [115717-mahjong-trap.json](./115717-mahjong-trap.json) |
 | Mahjong Travel | 252285 | [252285-mahjong-travel.json](./252285-mahjong-travel.json) |
 | Mahjong Triple Wars Gaiden | 91934 | [91934-mahjong-triple-wars-gaiden.json](./91934-mahjong-triple-wars-gaiden.json) |
-| Mahjong Ultimate | 87462 | [87462-mahjong-ultimate.json](./87462-mahjong-ultimate.json) |
 | Mahjong Unlimited | 88641 | [88641-mahjong-unlimited.json](./88641-mahjong-unlimited.json) |
 | Mahjong Unlimited | 89091 | [89091-mahjong-unlimited.json](./89091-mahjong-unlimited.json) |
 | Mahjong Valentine's Day | 90291 | [90291-mahjong-valentines-day.json](./90291-mahjong-valentines-day.json) |
@@ -6549,7 +6547,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Missions: The Race to Spectacle City Arcade K-2 | 209544 | [209544-math-missions-the-race-to-spectacle-city-arcade-k-2.json](./209544-math-missions-the-race-to-spectacle-city-arcade-k-2.json) |
 | Math Muncher | 330211 | [330211-math-muncher.json](./330211-math-muncher.json) |
 | Math Munchers Deluxe | 57659 | [57659-math-munchers-deluxe.json](./57659-math-munchers-deluxe.json) |
-| Math Ninja HD | 87208 | [87208-math-ninja-hd.json](./87208-math-ninja-hd.json) |
 | Math Olympiad | 276572 | [276572-math-olympiad.json](./276572-math-olympiad.json) |
 | Math Pals: Dino Academy | 402577 | [402577-math-pals-dino-academy.json](./402577-math-pals-dino-academy.json) |
 | Math Pals: Monster Mania | 420695 | [420695-math-pals-monster-mania.json](./420695-math-pals-monster-mania.json) |
@@ -11261,7 +11258,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Fighter Miku | 107633 | [107633-metal-fighter-miku.json](./107633-metal-fighter-miku.json) |
 | Metal Force | 48325 | [48325-metal-force.json](./48325-metal-force.json) |
 | Metal Force: Tank Games Online | 391935 | [391935-metal-force-tank-games-online.json](./391935-metal-force-tank-games-online.json) |
-| Metal Force: Tank Shooter | 87113 | [87113-metal-force-tank-shooter.json](./87113-metal-force-tank-shooter.json) |
 | Metal Freezer | 267644 | [267644-metal-freezer.json](./267644-metal-freezer.json) |
 | Metal Fury 3000 | 124179 | [124179-metal-fury-3000.json](./124179-metal-fury-3000.json) |
 | Metal Garden | 333894 | [333894-metal-garden.json](./333894-metal-garden.json) |
@@ -14657,7 +14653,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper | 99334 | [99334-minesweeper.json](./99334-minesweeper.json) |
 | MineSweeper | 306019 | [306019-minesweeper.json](./306019-minesweeper.json) |
 | Minesweeper & Dungeon RPG | 324153 | [324153-minesweeper-and-dungeon-rpg.json](./324153-minesweeper-and-dungeon-rpg.json) |
-| Minesweeper 101 | 87161 | [87161-minesweeper-101.json](./87161-minesweeper-101.json) |
 | Minesweeper 2 | 103704 | [103704-minesweeper-2.json](./103704-minesweeper-2.json) |
 | Minesweeper 2018 | 104319 | [104319-minesweeper-2018.json](./104319-minesweeper-2018.json) |
 | Minesweeper 3d | 349110 | [349110-minesweeper-3d.json](./349110-minesweeper-3d.json) |
@@ -14675,7 +14670,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Collector 2 | 275090 | [275090-minesweeper-collector-2.json](./275090-minesweeper-collector-2.json) |
 | Minesweeper Deluxe | 88430 | [88430-minesweeper-deluxe.json](./88430-minesweeper-deluxe.json) |
 | Minesweeper Flags | 74419 | [74419-minesweeper-flags.json](./74419-minesweeper-flags.json) |
-| Minesweeper Fun | 87400 | [87400-minesweeper-fun.json](./87400-minesweeper-fun.json) |
 | MineSweeper Galaxy | 417925 | [417925-minesweeper-galaxy.json](./417925-minesweeper-galaxy.json) |
 | Minesweeper Game | 398009 | [398009-minesweeper-game.json](./398009-minesweeper-game.json) |
 | Minesweeper Girl | 247882 | [247882-minesweeper-girl.json](./247882-minesweeper-girl.json) |
@@ -15024,7 +15018,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Warriors | 227457 | [227457-mini-warriors.json](./227457-mini-warriors.json) |
 | Mini Warriors: Brawler Army | 341241 | [341241-mini-warriors-brawler-army.json](./341241-mini-warriors-brawler-army.json) |
 | Mini Warriors: Three Kingdoms | 196305 | [196305-mini-warriors-three-kingdoms.json](./196305-mini-warriors-three-kingdoms.json) |
-| Mini Wars Blackout | 87133 | [87133-mini-wars-blackout.json](./87133-mini-wars-blackout.json) |
 | Mini Wheels | 83591 | [83591-mini-wheels.json](./83591-mini-wheels.json) |
 | Mini Wizards | 350581 | [350581-mini-wizards.json](./350581-mini-wizards.json) |
 | Mini Words | 125710 | [125710-mini-words.json](./125710-mini-words.json) |
@@ -15083,7 +15076,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniballist | 90530 | [90530-miniballist.json](./90530-miniballist.json) |
 | Minibash | 223621 | [223621-minibash.json](./223621-minibash.json) |
 | MiniBikers | 34085 | [34085-minibikers.json](./34085-minibikers.json) |
-| MiniBikers: The game of mini racing motorbikes | 87299 | [87299-minibikers-the-game-of-mini-racing-motorbikes.json](./87299-minibikers-the-game-of-mini-racing-motorbikes.json) |
 | Miniblox | 384485 | [384485-miniblox.json](./384485-miniblox.json) |
 | MiniBob | 238278 | [238278-minibob.json](./238278-minibob.json) |
 | MiniBong | 251856 | [251856-minibong.json](./251856-minibong.json) |
@@ -15114,7 +15106,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minidinos | 369729 | [369729-minidinos.json](./369729-minidinos.json) |
 | MiniDrift | 262857 | [262857-minidrift.json](./262857-minidrift.json) |
 | MiniDrivers | 34867 | [34867-minidrivers.json](./34867-minidrivers.json) |
-| MiniDrivers: The game of mini racing cars | 87118 | [87118-minidrivers-the-game-of-mini-racing-cars.json](./87118-minidrivers-the-game-of-mini-racing-cars.json) |
 | Minidwellers | 244536 | [244536-minidwellers.json](./244536-minidwellers.json) |
 | MiniFarm 2020 | 341236 | [341236-minifarm-2020.json](./341236-minifarm-2020.json) |
 | Minifeg: The Search | 170349 | [170349-minifeg-the-search.json](./170349-minifeg-the-search.json) |
@@ -19400,7 +19391,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Lady | 62537 | [62537-moonlight-lady.json](./62537-moonlight-lady.json) |
 | Moonlight Lovers | 186764 | [186764-moonlight-lovers.json](./186764-moonlight-lovers.json) |
 | Moonlight Madness | 70772 | [70772-moonlight-madness.json](./70772-moonlight-madness.json) |
-| Moonlight Mahjong | 87420 | [87420-moonlight-mahjong.json](./87420-moonlight-mahjong.json) |
 | Moonlight Mansion | 132525 | [132525-moonlight-mansion.json](./132525-moonlight-mansion.json) |
 | Moonlight Mayhem | 257993 | [257993-moonlight-mayhem.json](./257993-moonlight-mayhem.json) |
 | Moonlight maze | 121734 | [121734-moonlight-maze.json](./121734-moonlight-maze.json) |
@@ -21021,7 +21011,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Parkour | 236588 | [236588-mountain-parkour.json](./236588-mountain-parkour.json) |
 | Mountain Peak Battle Mess | 147685 | [147685-mountain-peak-battle-mess.json](./147685-mountain-peak-battle-mess.json) |
 | Mountain Racing | 99240 | [99240-mountain-racing.json](./99240-mountain-racing.json) |
-| Mountain Racing HD | 87394 | [87394-mountain-racing-hd.json](./87394-mountain-racing-hd.json) |
 | Mountain Rescue Simulator | 123737 | [123737-mountain-rescue-simulator.json](./123737-mountain-rescue-simulator.json) |
 | Mountain Rescue: Caucasus | 431163 | [431163-mountain-rescue-caucasus.json](./431163-mountain-rescue-caucasus.json) |
 | Mountain Shoot | 54976 | [54976-mountain-shoot.json](./54976-mountain-shoot.json) |
@@ -21500,7 +21489,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Twigs | 114435 | [114435-mr-twigs.json](./114435-mr-twigs.json) |
 | Mr White | 262073 | [262073-mr-white.json](./262073-mr-white.json) |
 | Mr Wino | 60246 | [60246-mr-wino.json](./60246-mr-wino.json) |
-| Mr Word | 87329 | [87329-mr-word.json](./87329-mr-word.json) |
 | Mr Zig | 126810 | [126810-mr-zig.json](./126810-mr-zig.json) |
 | Mr. "Bargain Expert" | 413075 | [413075-mr-bargain-expert.json](./413075-mr-bargain-expert.json) |
 | Mr. Addon Game Maker | 391930 | [391930-mr-addon-game-maker.json](./391930-mr-addon-game-maker.json) |
@@ -21630,6 +21618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Kougar | 285863 | [285863-mr-kougar.json](./285863-mr-kougar.json) |
 | Mr. Krabs Overdoses on Ketamine | 141101 | [141101-mr-krabs-overdoses-on-ketamine.json](./141101-mr-krabs-overdoses-on-ketamine.json) |
 | Mr. Krabs Tax Evasion | 166526 | [166526-mr-krabs-tax-evasion.json](./166526-mr-krabs-tax-evasion.json) |
+| Mr. Krabs's Night of Terror | 411308 | [411308-mr-krabss-night-of-terror.json](./411308-mr-krabss-night-of-terror.json) |
 | Mr. Krasnoludek, Teach Me Your Magic Spells | 169879 | [169879-mr-krasnoludek-teach-me-your-magic-spells.json](./169879-mr-krasnoludek-teach-me-your-magic-spells.json) |
 | Mr. Krussy Requires Souls of the Damned | 177491 | [177491-mr-krussy-requires-souls-of-the-damned.json](./177491-mr-krussy-requires-souls-of-the-damned.json) |
 | Mr. Luma's Cooking Adventure | 234335 | [234335-mr-lumas-cooking-adventure.json](./234335-mr-lumas-cooking-adventure.json) |
@@ -22869,7 +22858,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musical Meteors | 357006 | [357006-musical-meteors.json](./357006-musical-meteors.json) |
 | Musical Range | 30819 | [30819-musical-range.json](./30819-musical-range.json) |
 | Musical Reflex | 80937 | [80937-musical-reflex.json](./80937-musical-reflex.json) |
-| Musical Studio | 87123 | [87123-musical-studio.json](./87123-musical-studio.json) |
 | Musical Vibes | 257971 | [257971-musical-vibes.json](./257971-musical-vibes.json) |
 | Musical Vibes RX | 343545 | [343545-musical-vibes-rx.json](./343545-musical-vibes-rx.json) |
 | Musical Zoo | 79934 | [79934-musical-zoo.json](./79934-musical-zoo.json) |
@@ -22991,7 +22979,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Football League: Werewolf Rampage Pack | 116644 | [116644-mutant-football-league-werewolf-rampage-pack.json](./116644-mutant-football-league-werewolf-rampage-pack.json) |
 | Mutant Football League: Werewolf Rampage Pack | 164547 | [164547-mutant-football-league-werewolf-rampage-pack.json](./164547-mutant-football-league-werewolf-rampage-pack.json) |
 | Mutant Forge | 261488 | [261488-mutant-forge.json](./261488-mutant-forge.json) |
-| Mutant Fridge Mayhem | 87211 | [87211-mutant-fridge-mayhem.json](./87211-mutant-fridge-mayhem.json) |
 | Mutant Frog | 270520 | [270520-mutant-frog.json](./270520-mutant-frog.json) |
 | Mutant Herd | 292827 | [292827-mutant-herd.json](./292827-mutant-herd.json) |
 | Mutant Hunter | 338909 | [338909-mutant-hunter.json](./338909-mutant-hunter.json) |
@@ -23639,7 +23626,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fair Link: Yousei Byakuya Monogatari | 416555 | [416555-my-fair-link-yousei-byakuya-monogatari.json](./416555-my-fair-link-yousei-byakuya-monogatari.json) |
 | My Fair Princess | 117237 | [117237-my-fair-princess.json](./117237-my-fair-princess.json) |
 | My Fairy Girlfriend | 231424 | [231424-my-fairy-girlfriend.json](./231424-my-fairy-girlfriend.json) |
-| My Fairy Pony | 87180 | [87180-my-fairy-pony.json](./87180-my-fairy-pony.json) |
 | My Fairy Pony - Dress Up Game For Girls | 88045 | [88045-my-fairy-pony-dress-up-game-for-girls.json](./88045-my-fairy-pony-dress-up-game-for-girls.json) |
 | My Fairy Princess | 415014 | [415014-my-fairy-princess.json](./415014-my-fairy-princess.json) |
 | My Fairytale Girlfriend | 213159 | [213159-my-fairytale-girlfriend.json](./213159-my-fairytale-girlfriend.json) |
