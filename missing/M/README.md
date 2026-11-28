@@ -9753,6 +9753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megpoid the Music Sharp | 38484 | [38484-megpoid-the-music-sharp.json](./38484-megpoid-the-music-sharp.json) |
 | Megumi Rescue | 46139 | [46139-megumi-rescue.json](./46139-megumi-rescue.json) |
 | Megumichan Ijiwaru? Soretomo Kawaigaru? | 98041 | [98041-megumichan-ijiwaru-soretomo-kawaigaru.json](./98041-megumichan-ijiwaru-soretomo-kawaigaru.json) |
+| Meguri Meguru. | 396368 | [396368-meguri-meguru.json](./396368-meguri-meguru.json) |
 | Megurine Luka no Jikenbo | 264358 | [264358-megurine-luka-no-jikenbo.json](./264358-megurine-luka-no-jikenbo.json) |
 | Meguru Dungeon | 282167 | [282167-meguru-dungeon.json](./282167-meguru-dungeon.json) |
 | Meh | 314247 | [314247-meh.json](./314247-meh.json) |
@@ -19182,8 +19183,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Caves | 142555 | [142555-moon-caves.json](./142555-moon-caves.json) |
 | Moon Cheeser | 184695 | [184695-moon-cheeser.json](./184695-moon-cheeser.json) |
 | Moon Child | 108279 | [108279-moon-child.json](./108279-moon-child.json) |
-| Moon Chronicles: Episode 1 | 84596 | [84596-moon-chronicles-episode-1.json](./84596-moon-chronicles-episode-1.json) |
-| Moon Chronicles: Episodes 2-4 | 84595 | [84595-moon-chronicles-episodes-2-4.json](./84595-moon-chronicles-episodes-2-4.json) |
 | Moon Coffee Conspiracy | 414680 | [414680-moon-coffee-conspiracy.json](./414680-moon-coffee-conspiracy.json) |
 | Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
 | Moon Colonization Project: Deluxe Edition | 53375 | [53375-moon-colonization-project-deluxe-edition.json](./53375-moon-colonization-project-deluxe-edition.json) |
@@ -23254,7 +23253,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MXGP3: The Official Motocross Videogame - Monster Energy SMX Riders Cup | 166430 | [166430-mxgp3-the-official-motocross-videogame-monster-energy-smx-riders-cup.json](./166430-mxgp3-the-official-motocross-videogame-monster-energy-smx-riders-cup.json) |
 | Mxsimulator | 137035 | [137035-mxsimulator.json](./137035-mxsimulator.json) |
 | My 11 Heroes | 234508 | [234508-my-11-heroes.json](./234508-my-11-heroes.json) |
-| My 1980's Dashboard | 86245 | [86245-my-1980s-dashboard.json](./86245-my-1980s-dashboard.json) |
 | My 3rd Date with my Cyber Girlfriend | 183401 | [183401-my-3rd-date-with-my-cyber-girlfriend.json](./183401-my-3rd-date-with-my-cyber-girlfriend.json) |
 | My 5-Star Hotel | 106897 | [106897-my-5-star-hotel.json](./106897-my-5-star-hotel.json) |
 | My 9 Swallows: Topstars League | 241525 | [241525-my-9-swallows-topstars-league.json](./241525-my-9-swallows-topstars-league.json) |
