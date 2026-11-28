@@ -262,7 +262,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad Left Me in the Car | 343318 | [343318-dad-left-me-in-the-car.json](./343318-dad-left-me-in-the-car.json) |
 | Dad n' Me | 134300 | [134300-dad-n-me.json](./134300-dad-n-me.json) |
 | Dad Quest | 27145 | [27145-dad-quest.json](./27145-dad-quest.json) |
-| Dad's co-worker | 81605 | [81605-dads-co-worker.json](./81605-dads-co-worker.json) |
 | Dad's Coming | 212671 | [212671-dads-coming.json](./212671-dads-coming.json) |
 | Dad's Dice: History of Legends | 217461 | [217461-dads-dice-history-of-legends.json](./217461-dads-dice-history-of-legends.json) |
 | Dad’s Gonna Be a Travel Influencer. | 403932 | [403932-dad-s-gonna-be-a-travel-influencer.json](./403932-dad-s-gonna-be-a-travel-influencer.json) |
@@ -4816,7 +4815,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Dunk | 248258 | [248258-deadly-dunk.json](./248258-deadly-dunk.json) |
 | Deadly Edge | 52250 | [52250-deadly-edge.json](./52250-deadly-edge.json) |
 | Deadly Endgame | 384132 | [384132-deadly-endgame.json](./384132-deadly-endgame.json) |
-| Deadly Escape | 83831 | [83831-deadly-escape.json](./83831-deadly-escape.json) |
 | Deadly Evil | 13576 | [13576-deadly-evil.json](./13576-deadly-evil.json) |
 | Deadly Fight | 164960 | [164960-deadly-fight.json](./164960-deadly-fight.json) |
 | Deadly Fighter 2 | 122906 | [122906-deadly-fighter-2.json](./122906-deadly-fighter-2.json) |
@@ -6090,7 +6088,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dark Dungeon | 32229 | [32229-deep-dark-dungeon.json](./32229-deep-dark-dungeon.json) |
 | Deep Dark Dungeon of Anglaus | 243583 | [243583-deep-dark-dungeon-of-anglaus.json](./243583-deep-dark-dungeon-of-anglaus.json) |
 | Deep Dark Fantasies | 59136 | [59136-deep-dark-fantasies.json](./59136-deep-dark-fantasies.json) |
-| Deep Dark Fight | 81702 | [81702-deep-dark-fight.json](./81702-deep-dark-fight.json) |
 | Deep Dark Forest | 151724 | [151724-deep-dark-forest.json](./151724-deep-dark-forest.json) |
 | Deep Dark Space | 282012 | [282012-deep-dark-space.json](./282012-deep-dark-space.json) |
 | Deep Dark Wood | 297256 | [297256-deep-dark-wood.json](./297256-deep-dark-wood.json) |
@@ -6760,7 +6757,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of the Sodomites | 336679 | [336679-defense-of-the-sodomites.json](./336679-defense-of-the-sodomites.json) |
 | Defense of Wancotte | 386079 | [386079-defense-of-wancotte.json](./386079-defense-of-wancotte.json) |
 | Defense Protocol | 273597 | [273597-defense-protocol.json](./273597-defense-protocol.json) |
-| Defense Task Force | 83619 | [83619-defense-task-force.json](./83619-defense-task-force.json) |
 | Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
 | Defense War: Destiny Child | 143856 | [143856-defense-war-destiny-child.json](./143856-defense-war-destiny-child.json) |
 | Defense Warfare | 76387 | [76387-defense-warfare.json](./76387-defense-warfare.json) |
@@ -9433,7 +9429,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 3: Dante's Awakening - Special Edition | 222656 | [222656-devil-may-cry-3-dantes-awakening-special-edition.json](./222656-devil-may-cry-3-dantes-awakening-special-edition.json) |
 | Devil May Cry 4 | 289491 | [289491-devil-may-cry-4.json](./289491-devil-may-cry-4.json) |
 | Devil May Cry 4 Refrain | 76843 | [76843-devil-may-cry-4-refrain.json](./76843-devil-may-cry-4-refrain.json) |
-| Devil May Cry 4 Special Edition Demon Hunter Bundle | 82385 | [82385-devil-may-cry-4-special-edition-demon-hunter-bundle.json](./82385-devil-may-cry-4-special-edition-demon-hunter-bundle.json) |
 | Devil May Cry 4: Collector's Edition | 41601 | [41601-devil-may-cry-4-collectors-edition.json](./41601-devil-may-cry-4-collectors-edition.json) |
 | Devil May Cry 4: Special Edition | 20022 | [20022-devil-may-cry-4-special-edition.json](./20022-devil-may-cry-4-special-edition.json) |
 | Devil May Cry 4: Special Edition - Lady & Trish Costume Pack | 410413 | [410413-devil-may-cry-4-special-edition-lady-and-trish-costume-pack.json](./410413-devil-may-cry-4-special-edition-lady-and-trish-costume-pack.json) |
@@ -10569,7 +10564,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digdigdig | 338861 | [338861-digdigdig.json](./338861-digdigdig.json) |
 | DigDigDrill | 314442 | [314442-digdigdrill.json](./314442-digdigdrill.json) |
 | Digerati Best Sellers | 147885 | [147885-digerati-best-sellers.json](./147885-digerati-best-sellers.json) |
-| Digerati Couch Co-Op Bundle Vol.1 | 83745 | [83745-digerati-couch-co-op-bundle-vol-1.json](./83745-digerati-couch-co-op-bundle-vol-1.json) |
 | Digerati Couch Co-op Vol. 2 | 166688 | [166688-digerati-couch-co-op-vol-2.json](./166688-digerati-couch-co-op-vol-2.json) |
 | Digerati Horror Bundle | 188178 | [188178-digerati-horror-bundle.json](./188178-digerati-horror-bundle.json) |
 | Digerati Horror Bundle Vol. 2 | 164683 | [164683-digerati-horror-bundle-vol-2.json](./164683-digerati-horror-bundle-vol-2.json) |
@@ -10779,7 +10773,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Diamond Baseball V10 | 195371 | [195371-digital-diamond-baseball-v10.json](./195371-digital-diamond-baseball-v10.json) |
 | Digital Diamond Baseball V11 | 243052 | [243052-digital-diamond-baseball-v11.json](./243052-digital-diamond-baseball-v11.json) |
 | Digital Diamond Baseball V9 | 155762 | [155762-digital-diamond-baseball-v9.json](./155762-digital-diamond-baseball-v9.json) |
-| Digital Domain's Monkey King | 83721 | [83721-digital-domains-monkey-king.json](./83721-digital-domains-monkey-king.json) |
 | Digital Dreams | 308068 | [308068-digital-dreams.json](./308068-digital-dreams.json) |
 | Digital Dreamware | 38823 | [38823-digital-dreamware.json](./38823-digital-dreamware.json) |
 | Digital Druid | 423528 | [423528-digital-druid.json](./423528-digital-druid.json) |
@@ -12088,7 +12081,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored 3 | 267308 | [267308-dishonored-3.json](./267308-dishonored-3.json) |
 | Dishonored VR Mod | 422927 | [422927-dishonored-vr-mod.json](./422927-dishonored-vr-mod.json) |
 | Dishonored: Complete Collection | 52899 | [52899-dishonored-complete-collection.json](./52899-dishonored-complete-collection.json) |
-| Dishonored: Death of the Outsider Deluxe Bundle | 83510 | [83510-dishonored-death-of-the-outsider-deluxe-bundle.json](./83510-dishonored-death-of-the-outsider-deluxe-bundle.json) |
 | Dishonored: Definitive Edition | 20863 | [20863-dishonored-definitive-edition.json](./20863-dishonored-definitive-edition.json) |
 | Dishonored: Definitive Edition | 41590 | [41590-dishonored-definitive-edition.json](./41590-dishonored-definitive-edition.json) |
 | Dishonored: The Knife of Dunwall | 14568 | [14568-dishonored-the-knife-of-dunwall.json](./14568-dishonored-the-knife-of-dunwall.json) |
@@ -16881,7 +16873,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Basketball 2025 | 428012 | [428012-draft-day-sports-pro-basketball-2025.json](./428012-draft-day-sports-pro-basketball-2025.json) |
 | Draft Day Sports: Pro Basketball 26 | 375553 | [375553-draft-day-sports-pro-basketball-26.json](./375553-draft-day-sports-pro-basketball-26.json) |
 | Draft Day Sports: Pro Football 2016 | 102142 | [102142-draft-day-sports-pro-football-2016.json](./102142-draft-day-sports-pro-football-2016.json) |
-| Draft Day Sports: Pro Football 2018 | 83565 | [83565-draft-day-sports-pro-football-2018.json](./83565-draft-day-sports-pro-football-2018.json) |
 | Draft Day Sports: Pro Football 2019 | 111938 | [111938-draft-day-sports-pro-football-2019.json](./111938-draft-day-sports-pro-football-2019.json) |
 | Draft Day Sports: Pro Football 2021 | 137809 | [137809-draft-day-sports-pro-football-2021.json](./137809-draft-day-sports-pro-football-2021.json) |
 | Draft Day Sports: Pro Football 2022 | 165102 | [165102-draft-day-sports-pro-football-2022.json](./165102-draft-day-sports-pro-football-2022.json) |
@@ -21915,7 +21906,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk It (VR Basketball) | 29710 | [29710-dunk-it-vr-basketball.json](./29710-dunk-it-vr-basketball.json) |
 | Dunk Kids | 46319 | [46319-dunk-kids.json](./46319-dunk-kids.json) |
 | Dunk Mania | 39824 | [39824-dunk-mania.json](./39824-dunk-mania.json) |
-| Dunk Nation 3x3 | 83323 | [83323-dunk-nation-3x3.json](./83323-dunk-nation-3x3.json) |
 | Dunk Shot | 40977 | [40977-dunk-shot.json](./40977-dunk-shot.json) |
 | Dunk The Hoops: Bouncy Ball | 266832 | [266832-dunk-the-hoops-bouncy-ball.json](./266832-dunk-the-hoops-bouncy-ball.json) |
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
@@ -22081,7 +22071,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust and Aliens | 254069 | [254069-dust-and-aliens.json](./254069-dust-and-aliens.json) |
 | Dust and Echoes | 323210 | [323210-dust-and-echoes.json](./323210-dust-and-echoes.json) |
 | Dust and Echos: Vengeance | 106489 | [106489-dust-and-echos-vengeance.json](./106489-dust-and-echos-vengeance.json) |
-| Dust and Salt | 81742 | [81742-dust-and-salt.json](./81742-dust-and-salt.json) |
 | Dust and Salt: Battle for Murk Gamebook | 107038 | [107038-dust-and-salt-battle-for-murk-gamebook.json](./107038-dust-and-salt-battle-for-murk-gamebook.json) |
 | Dust and Sorcery | 385222 | [385222-dust-and-sorcery.json](./385222-dust-and-sorcery.json) |
 | Dust Breeding | 275470 | [275470-dust-breeding.json](./275470-dust-breeding.json) |
