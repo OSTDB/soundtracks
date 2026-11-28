@@ -268,7 +268,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblivio | 182771 | [182771-oblivio.json](./182771-oblivio.json) |
 | Oblivion | 225434 | [225434-oblivion.json](./225434-oblivion.json) |
 | Oblivion | 419582 | [419582-oblivion.json](./419582-oblivion.json) |
-| Oblivion | 77199 | [77199-oblivion.json](./77199-oblivion.json) |
 | Oblivion Congee | 183579 | [183579-oblivion-congee.json](./183579-oblivion-congee.json) |
 | Oblivion Dreams | 375412 | [375412-oblivion-dreams.json](./375412-oblivion-dreams.json) |
 | Oblivion Eagle | 231795 | [231795-oblivion-eagle.json](./231795-oblivion-eagle.json) |
@@ -1465,7 +1464,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oik 3 | 74196 | [74196-oik-3.json](./74196-oik-3.json) |
 | Oik 3D | 139619 | [139619-oik-3d.json](./139619-oik-3d.json) |
 | Oik 5: DLC | 171626 | [171626-oik-5-dlc.json](./171626-oik-5-dlc.json) |
-| Oik Memory | 81155 | [81155-oik-memory.json](./81155-oik-memory.json) |
 | Oik Memory 3 | 114976 | [114976-oik-memory-3.json](./114976-oik-memory-3.json) |
 | Oik Memory: Endgame | 118623 | [118623-oik-memory-endgame.json](./118623-oik-memory-endgame.json) |
 | Oik Reloaded | 115809 | [115809-oik-reloaded.json](./115809-oik-reloaded.json) |
@@ -4525,7 +4523,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OrcCraft | 97080 | [97080-orccraft.json](./97080-orccraft.json) |
 | Orcdom | 309794 | [309794-orcdom.json](./309794-orcdom.json) |
 | Orcen Axe | 223748 | [223748-orcen-axe.json](./223748-orcen-axe.json) |
-| Orch Star | 76615 | [76615-orch-star.json](./76615-orch-star.json) |
 | Orchard | 287538 | [287538-orchard.json](./287538-orchard.json) |
 | Orchard | 92511 | [92511-orchard.json](./92511-orchard.json) |
 | Orchard Odyssey: Cherry Chase | 370257 | [370257-orchard-odyssey-cherry-chase.json](./370257-orchard-odyssey-cherry-chase.json) |
@@ -6506,7 +6503,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlook | 195941 | [195941-overlook.json](./195941-overlook.json) |
 | Overlook Trail | 93732 | [93732-overlook-trail.json](./93732-overlook-trail.json) |
 | Overlook: Local multiplayer game - up to 16 players | 81829 | [81829-overlook-local-multiplayer-game-up-to-16-players.json](./81829-overlook-local-multiplayer-game-up-to-16-players.json) |
-| Overlook: Local multiplayer game up to 16 players | 78112 | [78112-overlook-local-multiplayer-game-up-to-16-players.json](./78112-overlook-local-multiplayer-game-up-to-16-players.json) |
 | Overloop | 75025 | [75025-overloop.json](./75025-overloop.json) |
 | Overlooting | 334898 | [334898-overlooting.json](./334898-overlooting.json) |
 | Overlord | 119392 | [119392-overlord.json](./119392-overlord.json) |
