@@ -21780,6 +21780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr.Welder's Pinball Defence | 278146 | [278146-mr-welders-pinball-defence.json](./278146-mr-welders-pinball-defence.json) |
 | Mr.Wise | 236844 | [236844-mr-wise.json](./236844-mr-wise.json) |
 | Mrak | 123680 | [123680-mrak.json](./123680-mrak.json) |
+| Mrat Fright | 431774 | [431774-mrat-fright.json](./431774-mrat-fright.json) |
 | MrBeast: TeamSeas | 228316 | [228316-mrbeast-teamseas.json](./228316-mrbeast-teamseas.json) |
 | MRC: Multi-Racing Championship | 3544 | [3544-mrc-multi-racing-championship.json](./3544-mrc-multi-racing-championship.json) |
 | MRC6-454 | 123241 | [123241-mrc6-454.json](./123241-mrc6-454.json) |
@@ -24793,6 +24794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My World, My Way | 21253 | [21253-my-world-my-way.json](./21253-my-world-my-way.json) |
 | My Worst Gift | 116570 | [116570-my-worst-gift.json](./116570-my-worst-gift.json) |
 | My Xiuxian World | 341161 | [341161-my-xiuxian-world.json](./341161-my-xiuxian-world.json) |
+| My Yokai Boyfriend: I Love Ramen! | 431794 | [431794-my-yokai-boyfriend-i-love-ramen.json](./431794-my-yokai-boyfriend-i-love-ramen.json) |
 | My Young Boyfriend Part 1 | 298881 | [298881-my-young-boyfriend-part-1.json](./298881-my-young-boyfriend-part-1.json) |
 | My Young Boyfriend Part 2 | 303273 | [303273-my-young-boyfriend-part-2.json](./303273-my-young-boyfriend-part-2.json) |
 | My zero trip | 99437 | [99437-my-zero-trip.json](./99437-my-zero-trip.json) |
