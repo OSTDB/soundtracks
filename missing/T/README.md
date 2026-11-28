@@ -7819,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Botanist | 130113 | [130113-the-botanist.json](./130113-the-botanist.json) |
 | The Botanist | 240970 | [240970-the-botanist.json](./240970-the-botanist.json) |
 | The Botanist | 26425 | [26425-the-botanist.json](./26425-the-botanist.json) |
+| The Botanist and the Translator | 431718 | [431718-the-botanist-and-the-translator.json](./431718-the-botanist-and-the-translator.json) |
 | The Bots Want Your Gold! | 424762 | [424762-the-bots-want-your-gold.json](./424762-the-bots-want-your-gold.json) |
 | The Bottle Boy | 332755 | [332755-the-bottle-boy.json](./332755-the-bottle-boy.json) |
 | The Bottle of the Heart | 371035 | [371035-the-bottle-of-the-heart.json](./371035-the-bottle-of-the-heart.json) |
@@ -21005,6 +21006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Toy Factory Across the Street | 225820 | [225820-the-toy-factory-across-the-street.json](./225820-the-toy-factory-across-the-street.json) |
 | The Toy Shop | 391894 | [391894-the-toy-shop.json](./391894-the-toy-shop.json) |
 | The Toy Shop | 74093 | [74093-the-toy-shop.json](./74093-the-toy-shop.json) |
+| The Toy's House | 431756 | [431756-the-toys-house.json](./431756-the-toys-house.json) |
 | The Toymaker's Apprentice | 114980 | [114980-the-toymakers-apprentice.json](./114980-the-toymakers-apprentice.json) |
 | The Toys Room | 66927 | [66927-the-toys-room.json](./66927-the-toys-room.json) |
 | The Trace: Murder Mystery Game | 21644 | [21644-the-trace-murder-mystery-game.json](./21644-the-trace-murder-mystery-game.json) |
