@@ -3991,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP-3008: Infinite Store | 395022 | [395022-scp-3008-infinite-store.json](./395022-scp-3008-infinite-store.json) |
 | SCP-479: Shadows of the Mind | 264638 | [264638-scp-479-shadows-of-the-mind.json](./264638-scp-479-shadows-of-the-mind.json) |
 | SCP-582 Slenderman Chapter 1 | 282944 | [282944-scp-582-slenderman-chapter-1.json](./282944-scp-582-slenderman-chapter-1.json) |
+| SCP-6634: Where the Flood Couldn't Reach. | 412919 | [412919-scp-6634-where-the-flood-couldnt-reach.json](./412919-scp-6634-where-the-flood-couldnt-reach.json) |
 | SCP-847 | 415490 | [415490-scp-847.json](./415490-scp-847.json) |
 | SCP-970: The Recursive Room | 173955 | [173955-scp-970-the-recursive-room.json](./173955-scp-970-the-recursive-room.json) |
 | SCP-9735-Alpha: Arch1tect | 291883 | [291883-scp-9735-alpha-arch1tect.json](./291883-scp-9735-alpha-arch1tect.json) |
@@ -7754,7 +7755,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow and Darkness | 301286 | [301286-shadow-and-darkness.json](./301286-shadow-and-darkness.json) |
 | Shadow and Flame | 319741 | [319741-shadow-and-flame.json](./319741-shadow-and-flame.json) |
 | Shadow Angel | 202627 | [202627-shadow-angel.json](./202627-shadow-angel.json) |
-| Shadow Archer | 84856 | [84856-shadow-archer.json](./84856-shadow-archer.json) |
 | Shadow Archer Special | 214452 | [214452-shadow-archer-special.json](./214452-shadow-archer-special.json) |
 | Shadow Archery | 96276 | [96276-shadow-archery.json](./96276-shadow-archery.json) |
 | Shadow Assault: Tenchu | 79709 | [79709-shadow-assault-tenchu.json](./79709-shadow-assault-tenchu.json) |
@@ -8545,7 +8545,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Kid | 38571 | [38571-shanghai-kid.json](./38571-shanghai-kid.json) |
 | Shanghai Legend | 278201 | [278201-shanghai-legend.json](./278201-shanghai-legend.json) |
 | Shanghai Mahjong | 205088 | [205088-shanghai-mahjong.json](./205088-shanghai-mahjong.json) |
-| Shanghai Mahjong | 84854 | [84854-shanghai-mahjong.json](./84854-shanghai-mahjong.json) |
 | Shanghai Mahjong Solitaire Deluxe | 319333 | [319333-shanghai-mahjong-solitaire-deluxe.json](./319333-shanghai-mahjong-solitaire-deluxe.json) |
 | Shanghai Mahjong Solitaire Premium II | 323112 | [323112-shanghai-mahjong-solitaire-premium-ii.json](./323112-shanghai-mahjong-solitaire-premium-ii.json) |
 | Shanghai Mini | 43981 | [43981-shanghai-mini.json](./43981-shanghai-mini.json) |
@@ -11506,7 +11505,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shusse Ozumo | 60653 | [60653-shusse-ozumo.json](./60653-shusse-ozumo.json) |
 | Shut Eye | 31074 | [31074-shut-eye.json](./31074-shut-eye.json) |
 | Shut In | 139469 | [139469-shut-in.json](./139469-shut-in.json) |
-| Shut the Box | 85372 | [85372-shut-the-box.json](./85372-shut-the-box.json) |
 | Shut the Box Classic for iPad | 108713 | [108713-shut-the-box-classic-for-ipad.json](./108713-shut-the-box-classic-for-ipad.json) |
 | Shut the Box Infinity | 175324 | [175324-shut-the-box-infinity.json](./175324-shut-the-box-infinity.json) |
 | Shut the Window | 94968 | [94968-shut-the-window.json](./94968-shut-the-window.json) |
@@ -12772,6 +12770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon Says | 11505 | [11505-simon-says.json](./11505-simon-says.json) |
 | Simon Says | 288364 | [288364-simon-says.json](./288364-simon-says.json) |
 | Simon Says! | 42167 | [42167-simon-says.json](./42167-simon-says.json) |
+| Simon Says! | 426646 | [426646-simon-says.json](./426646-simon-says.json) |
 | Simon Says... | 76987 | [76987-simon-says.json](./76987-simon-says.json) |
 | Simon Scoop: Ace Attorney | 308551 | [308551-simon-scoop-ace-attorney.json](./308551-simon-scoop-ace-attorney.json) |
 | Simon Sees | 317438 | [317438-simon-sees.json](./317438-simon-sees.json) |
@@ -14466,7 +14465,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skip Lake | 164045 | [164045-skip-lake.json](./164045-skip-lake.json) |
 | Skip Lake 2 | 205741 | [205741-skip-lake-2.json](./205741-skip-lake-2.json) |
 | Skip-Bo | 83471 | [83471-skip-bo.json](./83471-skip-bo.json) |
-| Skip-Bo | 83912 | [83912-skip-bo.json](./83912-skip-bo.json) |
 | Skip's Sanity | 99072 | [99072-skips-sanity.json](./99072-skips-sanity.json) |
 | Skipchaser | 31927 | [31927-skipchaser.json](./31927-skipchaser.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
@@ -17043,7 +17041,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile, you're being filmed | 291936 | [291936-smile-youre-being-filmed.json](./291936-smile-youre-being-filmed.json) |
 | Smile, you're being filmed together | 330750 | [330750-smile-youre-being-filmed-together.json](./330750-smile-youre-being-filmed-together.json) |
 | Smile'N'Slide | 101392 | [101392-smilenslide.json](./101392-smilenslide.json) |
-| SmileBasic | 84879 | [84879-smilebasic.json](./84879-smilebasic.json) |
 | SmileBasic 4 | 147701 | [147701-smilebasic-4.json](./147701-smilebasic-4.json) |
 | Smilemo | 201096 | [201096-smilemo.json](./201096-smilemo.json) |
 | Smiles HD | 64996 | [64996-smiles-hd.json](./64996-smiles-hd.json) |
@@ -17412,7 +17409,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Charmer | 83705 | [83705-snake-charmer.json](./83705-snake-charmer.json) |
 | Snake Charmer - TPS Snek | 81038 | [81038-snake-charmer-tps-snek.json](./81038-snake-charmer-tps-snek.json) |
 | Snake Clash! | 297704 | [297704-snake-clash.json](./297704-snake-clash.json) |
-| Snake Classic | 84014 | [84014-snake-classic.json](./84014-snake-classic.json) |
 | Snake Classic 3D Reborn | 384323 | [384323-snake-classic-3d-reborn.json](./384323-snake-classic-3d-reborn.json) |
 | Snake Coil: Puzzle Adventure | 390368 | [390368-snake-coil-puzzle-adventure.json](./390368-snake-coil-puzzle-adventure.json) |
 | Snake Colors: Slithering Game | 285336 | [285336-snake-colors-slithering-game.json](./285336-snake-colors-slithering-game.json) |
@@ -18918,6 +18914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban | 47946 | [47946-sokoban.json](./47946-sokoban.json) |
 | Sokoban | 6136 | [6136-sokoban.json](./6136-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
+| Sokoban (for the Nokia 3310) | 412558 | [412558-sokoban-for-the-nokia-3310.json](./412558-sokoban-for-the-nokia-3310.json) |
 | Sokoban 2 | 407226 | [407226-sokoban-2.json](./407226-sokoban-2.json) |
 | Sokoban 3D | 255281 | [255281-sokoban-3d.json](./255281-sokoban-3d.json) |
 | Sokoban Basic | 98182 | [98182-sokoban-basic.json](./98182-sokoban-basic.json) |
@@ -20695,15 +20692,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Racing Kart | 210306 | [210306-sonic-racing-kart.json](./210306-sonic-racing-kart.json) |
 | Sonic Racing Shift Up | 210308 | [210308-sonic-racing-shift-up.json](./210308-sonic-racing-shift-up.json) |
 | Sonic Racing: CrossWorlds - "Blue Star" Extreme Gear | 374160 | [374160-sonic-racing-crossworlds-blue-star-extreme-gear.json](./374160-sonic-racing-crossworlds-blue-star-extreme-gear.json) |
+| Sonic Racing: CrossWorlds - Arle | 409064 | [409064-sonic-racing-crossworlds-arle.json](./409064-sonic-racing-crossworlds-arle.json) |
 | Sonic Racing: CrossWorlds - Avatar Legends Pack | 375167 | [375167-sonic-racing-crossworlds-avatar-legends-pack.json](./375167-sonic-racing-crossworlds-avatar-legends-pack.json) |
+| Sonic Racing: CrossWorlds - Classic Sonic | 409065 | [409065-sonic-racing-crossworlds-classic-sonic.json](./409065-sonic-racing-crossworlds-classic-sonic.json) |
 | Sonic Racing: CrossWorlds - Digital Deluxe Edition | 356807 | [356807-sonic-racing-crossworlds-digital-deluxe-edition.json](./356807-sonic-racing-crossworlds-digital-deluxe-edition.json) |
+| Sonic Racing: CrossWorlds - Goro Majima (Captain Majima) | 409057 | [409057-sonic-racing-crossworlds-goro-majima-captain-majima.json](./409057-sonic-racing-crossworlds-goro-majima-captain-majima.json) |
 | Sonic Racing: CrossWorlds - Hatsune Miku | 408747 | [408747-sonic-racing-crossworlds-hatsune-miku.json](./408747-sonic-racing-crossworlds-hatsune-miku.json) |
+| Sonic Racing: CrossWorlds - Joker | 408925 | [408925-sonic-racing-crossworlds-joker.json](./408925-sonic-racing-crossworlds-joker.json) |
 | Sonic Racing: CrossWorlds - Mega Man Pack | 369989 | [369989-sonic-racing-crossworlds-mega-man-pack.json](./369989-sonic-racing-crossworlds-mega-man-pack.json) |
 | Sonic Racing: CrossWorlds - Minecraft Pack | 374099 | [374099-sonic-racing-crossworlds-minecraft-pack.json](./374099-sonic-racing-crossworlds-minecraft-pack.json) |
+| Sonic Racing: CrossWorlds - Nights | 408931 | [408931-sonic-racing-crossworlds-nights.json](./408931-sonic-racing-crossworlds-nights.json) |
 | Sonic Racing: CrossWorlds - Pac-Man Pack | 375170 | [375170-sonic-racing-crossworlds-pac-man-pack.json](./375170-sonic-racing-crossworlds-pac-man-pack.json) |
+| Sonic Racing: CrossWorlds - Red | 408936 | [408936-sonic-racing-crossworlds-red.json](./408936-sonic-racing-crossworlds-red.json) |
 | Sonic Racing: CrossWorlds - Sega Consoles Pack | 428238 | [428238-sonic-racing-crossworlds-sega-consoles-pack.json](./428238-sonic-racing-crossworlds-sega-consoles-pack.json) |
 | Sonic Racing: CrossWorlds - Sega Controllers Decals Pack | 429206 | [429206-sonic-racing-crossworlds-sega-controllers-decals-pack.json](./429206-sonic-racing-crossworlds-sega-controllers-decals-pack.json) |
 | Sonic Racing: CrossWorlds - SpongeBob SquarePants Pack | 375166 | [375166-sonic-racing-crossworlds-spongebob-squarepants-pack.json](./375166-sonic-racing-crossworlds-spongebob-squarepants-pack.json) |
+| Sonic Racing: CrossWorlds - Tangle and Whisper | 408935 | [408935-sonic-racing-crossworlds-tangle-and-whisper.json](./408935-sonic-racing-crossworlds-tangle-and-whisper.json) |
 | Sonic Racing: CrossWorlds - Teenage Mutant Ninja Turtles Mutant Mayhem Pack | 375168 | [375168-sonic-racing-crossworlds-teenage-mutant-ninja-turtles-mutant-mayhem-pack.json](./375168-sonic-racing-crossworlds-teenage-mutant-ninja-turtles-mutant-mayhem-pack.json) |
 | Sonic Racing: CrossWorlds - Werehog Pack | 408746 | [408746-sonic-racing-crossworlds-werehog-pack.json](./408746-sonic-racing-crossworlds-werehog-pack.json) |
 | Sonic Re;Velocity | 316490 | [316490-sonic-re-velocity.json](./316490-sonic-re-velocity.json) |
@@ -22509,7 +22513,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space BlocKing | 233431 | [233431-space-blocking.json](./233431-space-blocking.json) |
 | Space BloX | 119042 | [119042-space-blox.json](./119042-space-blox.json) |
 | Space Boat | 175653 | [175653-space-boat.json](./175653-space-boat.json) |
-| Space Bob vs. The Replicons | 84012 | [84012-space-bob-vs-the-replicons.json](./84012-space-bob-vs-the-replicons.json) |
 | Space Bomb | 120417 | [120417-space-bomb.json](./120417-space-bomb.json) |
 | Space Bomber | 39418 | [39418-space-bomber.json](./39418-space-bomber.json) |
 | Space Borders: Alien Encounter | 175051 | [175051-space-borders-alien-encounter.json](./175051-space-borders-alien-encounter.json) |
@@ -23952,7 +23955,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceships and Cellular Automata | 365321 | [365321-spaceships-and-cellular-automata.json](./365321-spaceships-and-cellular-automata.json) |
 | SpaceShooter | 180654 | [180654-spaceshooter.json](./180654-spaceshooter.json) |
 | SpaceShooter | 413900 | [413900-spaceshooter.json](./413900-spaceshooter.json) |
-| SpaceShot | 84141 | [84141-spaceshot.json](./84141-spaceshot.json) |
 | Spaceslingers | 150489 | [150489-spaceslingers.json](./150489-spaceslingers.json) |
 | SpaceSlog | 197908 | [197908-spaceslog.json](./197908-spaceslog.json) |
 | SpaceSoldier3D | 320160 | [320160-spacesoldier3d.json](./320160-spacesoldier3d.json) |
@@ -25476,6 +25478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spikers Battle | 39791 | [39791-spikers-battle.json](./39791-spikers-battle.json) |
 | Spikes Are Dangerous | 118434 | [118434-spikes-are-dangerous.json](./118434-spikes-are-dangerous.json) |
 | Spikes Have Rage | 58716 | [58716-spikes-have-rage.json](./58716-spikes-have-rage.json) |
+| Spikes Tend to Kill You | 395881 | [395881-spikes-tend-to-kill-you.json](./395881-spikes-tend-to-kill-you.json) |
 | Spikes Tend to Kill You 2 | 419087 | [419087-spikes-tend-to-kill-you-2.json](./419087-spikes-tend-to-kill-you-2.json) |
 | Spikeventure | 345641 | [345641-spikeventure.json](./345641-spikeventure.json) |
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
@@ -29042,6 +29045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarCraft II: Wings of Liberty - Collector's Edition | 282514 | [282514-starcraft-ii-wings-of-liberty-collectors-edition.json](./282514-starcraft-ii-wings-of-liberty-collectors-edition.json) |
 | Starcraft Mass Recall | 341787 | [341787-starcraft-mass-recall.json](./341787-starcraft-mass-recall.json) |
 | StarCraft Universe | 19177 | [19177-starcraft-universe.json](./19177-starcraft-universe.json) |
+| StarCraft: Enslavers | 400585 | [400585-starcraft-enslavers.json](./400585-starcraft-enslavers.json) |
 | StarCraft: Evolution Complete | 305329 | [305329-starcraft-evolution-complete.json](./305329-starcraft-evolution-complete.json) |
 | Starcraft: Ghost | 11355 | [11355-starcraft-ghost.json](./11355-starcraft-ghost.json) |
 | StarCraft: Insurrection | 75401 | [75401-starcraft-insurrection.json](./75401-starcraft-insurrection.json) |
@@ -31377,7 +31381,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stigmata of Sacrilege | 244867 | [244867-stigmata-of-sacrilege.json](./244867-stigmata-of-sacrilege.json) |
 | Stigmatized Property | 123864 | [123864-stigmatized-property.json](./123864-stigmatized-property.json) |
 | Stikbold! A Dodgeball Adventure | 18614 | [18614-stikbold-a-dodgeball-adventure.json](./18614-stikbold-a-dodgeball-adventure.json) |
-| Stikbold! A Dodgeball Adventure Deluxe | 85391 | [85391-stikbold-a-dodgeball-adventure-deluxe.json](./85391-stikbold-a-dodgeball-adventure-deluxe.json) |
 | Stikir | 110941 | [110941-stikir.json](./110941-stikir.json) |
 | Still Alive | 109154 | [109154-still-alive.json](./109154-still-alive.json) |
 | Still Alive | 415464 | [415464-still-alive.json](./415464-still-alive.json) |
@@ -31612,7 +31615,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Rage | 74256 | [74256-stone-rage.json](./74256-stone-rage.json) |
 | Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
 | Stone Run | 421260 | [421260-stone-run.json](./421260-stone-run.json) |
-| Stone Shire | 85535 | [85535-stone-shire.json](./85535-stone-shire.json) |
 | Stone Simulator | 333855 | [333855-stone-simulator.json](./333855-stone-simulator.json) |
 | Stone Skimming | 100718 | [100718-stone-skimming.json](./100718-stone-skimming.json) |
 | Stone Skimming | 104378 | [104378-stone-skimming.json](./104378-stone-skimming.json) |
@@ -35141,7 +35143,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunday Gold | 204547 | [204547-sunday-gold.json](./204547-sunday-gold.json) |
 | Sunday Golf | 54691 | [54691-sunday-golf.json](./54691-sunday-golf.json) |
 | Sunday Lawd Reel 1 | 213580 | [213580-sunday-lawd-reel-1.json](./213580-sunday-lawd-reel-1.json) |
-| Sunday Lawn | 85804 | [85804-sunday-lawn.json](./85804-sunday-lawn.json) |
 | Sunday League Manager: Horse & Spoon | 361731 | [361731-sunday-league-manager-horse-and-spoon.json](./361731-sunday-league-manager-horse-and-spoon.json) |
 | Sunday Morning | 312146 | [312146-sunday-morning.json](./312146-sunday-morning.json) |
 | Sunday Morning Groovin' | 178712 | [178712-sunday-morning-groovin.json](./178712-sunday-morning-groovin.json) |
@@ -36152,6 +36153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Emma | 261029 | [261029-super-emma.json](./261029-super-emma.json) |
 | Super Emo Alpaca | 330761 | [330761-super-emo-alpaca.json](./330761-super-emo-alpaca.json) |
 | Super Emoji Murder Death God Labyrinth | 428435 | [428435-super-emoji-murder-death-god-labyrinth.json](./428435-super-emoji-murder-death-god-labyrinth.json) |
+| Super Energy Apocalypse: Recycled | 388094 | [388094-super-energy-apocalypse-recycled.json](./388094-super-energy-apocalypse-recycled.json) |
 | Super Engine GT Turbo SPEC | 338922 | [338922-super-engine-gt-turbo-spec.json](./338922-super-engine-gt-turbo-spec.json) |
 | Super Epic Random Bard Guy | 252455 | [252455-super-epic-random-bard-guy.json](./252455-super-epic-random-bard-guy.json) |
 | Super Erect Taisen S-EX | 272335 | [272335-super-erect-taisen-s-ex.json](./272335-super-erect-taisen-s-ex.json) |
@@ -37087,6 +37089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. All-Star Quest | 135132 | [135132-super-mario-bros-all-star-quest.json](./135132-super-mario-bros-all-star-quest.json) |
 | Super Mario Bros. Crossover | 8734 | [8734-super-mario-bros-crossover.json](./8734-super-mario-bros-crossover.json) |
 | Super Mario Bros. Crowd Control | 242112 | [242112-super-mario-bros-crowd-control.json](./242112-super-mario-bros-crowd-control.json) |
+| Super Mario Bros. Daredevil Edition | 398139 | [398139-super-mario-bros-daredevil-edition.json](./398139-super-mario-bros-daredevil-edition.json) |
 | Super Mario Bros. DDX | 134295 | [134295-super-mario-bros-ddx.json](./134295-super-mario-bros-ddx.json) |
 | Super Mario Bros. Deluxe | 49877 | [49877-super-mario-bros-deluxe.json](./49877-super-mario-bros-deluxe.json) |
 | Super Mario Bros. Demake | 284042 | [284042-super-mario-bros-demake.json](./284042-super-mario-bros-demake.json) |
@@ -40865,7 +40868,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Match 3 | 171300 | [171300-sweet-match-3.json](./171300-sweet-match-3.json) |
 | Sweet Math | 381276 | [381276-sweet-math.json](./381276-sweet-math.json) |
 | Sweet Meat | 26385 | [26385-sweet-meat.json](./26385-sweet-meat.json) |
-| Sweet Memories Blackjack | 85413 | [85413-sweet-memories-blackjack.json](./85413-sweet-memories-blackjack.json) |
 | Sweet Model | 371356 | [371356-sweet-model.json](./371356-sweet-model.json) |
 | Sweet Monster | 339450 | [339450-sweet-monster.json](./339450-sweet-monster.json) |
 | Sweet Neighbor BB | 325896 | [325896-sweet-neighbor-bb.json](./325896-sweet-neighbor-bb.json) |
