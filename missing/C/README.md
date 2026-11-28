@@ -1188,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cambrian Dawn | 226280 | [226280-cambrian-dawn.json](./226280-cambrian-dawn.json) |
 | Cambrian Dawn: Biceratopsidae DLC | 253207 | [253207-cambrian-dawn-biceratopsidae-dlc.json](./253207-cambrian-dawn-biceratopsidae-dlc.json) |
 | Cambrian QTS: Kaseki ni Natte mo | 269394 | [269394-cambrian-qts-kaseki-ni-natte-mo.json](./269394-cambrian-qts-kaseki-ni-natte-mo.json) |
+| Cambridge | 388901 | [388901-cambridge.json](./388901-cambridge.json) |
 | Camega | 202808 | [202808-camega.json](./202808-camega.json) |
 | Camel | 169914 | [169914-camel.json](./169914-camel.json) |
 | Camel Up | 197715 | [197715-camel-up.json](./197715-camel-up.json) |
@@ -1504,7 +1505,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candle In Darkness | 158551 | [158551-candle-in-darkness.json](./158551-candle-in-darkness.json) |
 | Candle Knight | 192110 | [192110-candle-knight.json](./192110-candle-knight.json) |
 | Candle Prick | 185609 | [185609-candle-prick.json](./185609-candle-prick.json) |
-| Candle Route | 85020 | [85020-candle-route.json](./85020-candle-route.json) |
 | Candle Under Water | 124173 | [124173-candle-under-water.json](./124173-candle-under-water.json) |
 | Candle Wood | 315115 | [315115-candle-wood.json](./315115-candle-wood.json) |
 | Candlebook Island | 266059 | [266059-candlebook-island.json](./266059-candlebook-island.json) |
@@ -4126,7 +4126,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Conqueror Defender | 84592 | [84592-castle-conqueror-defender.json](./84592-castle-conqueror-defender.json) |
 | Castle Conqueror EX | 84591 | [84591-castle-conqueror-ex.json](./84591-castle-conqueror-ex.json) |
 | Castle Conqueror: Against | 85024 | [85024-castle-conqueror-against.json](./85024-castle-conqueror-against.json) |
-| Castle Conqueror: Heroes | 85023 | [85023-castle-conqueror-heroes.json](./85023-castle-conqueror-heroes.json) |
 | Castle Conqueror: Heroes 2 | 85022 | [85022-castle-conqueror-heroes-2.json](./85022-castle-conqueror-heroes-2.json) |
 | Castle Conqueror: Revolution | 84593 | [84593-castle-conqueror-revolution.json](./84593-castle-conqueror-revolution.json) |
 | Castle Conquest | 418982 | [418982-castle-conquest.json](./418982-castle-conquest.json) |
@@ -4715,7 +4714,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Games | 212385 | [212385-cat-games.json](./212385-cat-games.json) |
 | Cat Gentlemans Play: Insult Spinner 10 Cents | 128626 | [128626-cat-gentlemans-play-insult-spinner-10-cents.json](./128626-cat-gentlemans-play-insult-spinner-10-cents.json) |
 | Cat Gets Medieval | 144972 | [144972-cat-gets-medieval.json](./144972-cat-gets-medieval.json) |
-| Cat Girl | 83871 | [83871-cat-girl.json](./83871-cat-girl.json) |
 | Cat Girl Survivor | 295771 | [295771-cat-girl-survivor.json](./295771-cat-girl-survivor.json) |
 | Cat Girl Survivor 2: Beyond the Veil | 368829 | [368829-cat-girl-survivor-2-beyond-the-veil.json](./368829-cat-girl-survivor-2-beyond-the-veil.json) |
 | Cat Girl Survivor: Extra Episodes and Additional Chapters | 379025 | [379025-cat-girl-survivor-extra-episodes-and-additional-chapters.json](./379025-cat-girl-survivor-extra-episodes-and-additional-chapters.json) |
@@ -7503,7 +7501,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check vs. Mate: Dark Desert DLC | 142983 | [142983-check-vs-mate-dark-desert-dlc.json](./142983-check-vs-mate-dark-desert-dlc.json) |
 | Check vs. Mate: Floating Island DLC | 142984 | [142984-check-vs-mate-floating-island-dlc.json](./142984-check-vs-mate-floating-island-dlc.json) |
 | Check x Mate | 163133 | [163133-check-x-mate.json](./163133-check-x-mate.json) |
-| Check Your 6! | 84870 | [84870-check-your-6.json](./84870-check-your-6.json) |
 | Check-i-TV | 420587 | [420587-check-i-tv.json](./420587-check-i-tv.json) |
 | Check-In | 169134 | [169134-check-in.json](./169134-check-in.json) |
 | Check-In | 180935 | [180935-check-in.json](./180935-check-in.json) |
@@ -9017,7 +9014,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate Factory Tycoon | 301174 | [301174-chocolate-factory-tycoon.json](./301174-chocolate-factory-tycoon.json) |
 | Chocolate Kiss | 263115 | [263115-chocolate-kiss.json](./263115-chocolate-kiss.json) |
 | Chocolate makes you happy | 75785 | [75785-chocolate-makes-you-happy.json](./75785-chocolate-makes-you-happy.json) |
-| Chocolate makes you happy 3 | 84074 | [84074-chocolate-makes-you-happy-3.json](./84074-chocolate-makes-you-happy-3.json) |
 | Chocolate makes you happy 4 | 89935 | [89935-chocolate-makes-you-happy-4.json](./89935-chocolate-makes-you-happy-4.json) |
 | Chocolate makes you happy 5 | 99433 | [99433-chocolate-makes-you-happy-5.json](./99433-chocolate-makes-you-happy-5.json) |
 | Chocolate makes you happy 6 | 102399 | [102399-chocolate-makes-you-happy-6.json](./102399-chocolate-makes-you-happy-6.json) |
@@ -10254,6 +10250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinco Noches en Casa Rosada | 327222 | [327222-cinco-noches-en-casa-rosada.json](./327222-cinco-noches-en-casa-rosada.json) |
 | Cinco Noches en Casa Rosada 2 | 353900 | [353900-cinco-noches-en-casa-rosada-2.json](./353900-cinco-noches-en-casa-rosada-2.json) |
 | Cinco Noches en Casa Rosada 3 | 376680 | [376680-cinco-noches-en-casa-rosada-3.json](./376680-cinco-noches-en-casa-rosada-3.json) |
+| Cinco Noches en Lost and Found | 428193 | [428193-cinco-noches-en-lost-and-found.json](./428193-cinco-noches-en-lost-and-found.json) |
 | Cinco Paus | 83157 | [83157-cinco-paus.json](./83157-cinco-paus.json) |
 | Cinder & Crowns | 410867 | [410867-cinder-and-crowns.json](./410867-cinder-and-crowns.json) |
 | Cinder Automata | 421492 | [421492-cinder-automata.json](./421492-cinder-automata.json) |
@@ -11343,7 +11340,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Blades | 265109 | [265109-clash-of-blades.json](./265109-clash-of-blades.json) |
 | Clash of Builders | 393220 | [393220-clash-of-builders.json](./393220-clash-of-builders.json) |
 | Clash of Busts | 330471 | [330471-clash-of-busts.json](./330471-clash-of-busts.json) |
-| Clash of Castle | 84042 | [84042-clash-of-castle.json](./84042-clash-of-castle.json) |
 | Clash of Champs | 56529 | [56529-clash-of-champs.json](./56529-clash-of-champs.json) |
 | Clash of Chefs VR | 111704 | [111704-clash-of-chefs-vr.json](./111704-clash-of-chefs-vr.json) |
 | Clash of Chess | 174898 | [174898-clash-of-chess.json](./174898-clash-of-chess.json) |
@@ -12917,7 +12913,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coaster Crash Course | 373065 | [373065-coaster-crash-course.json](./373065-coaster-crash-course.json) |
 | Coaster Crazy | 63522 | [63522-coaster-crazy.json](./63522-coaster-crazy.json) |
 | Coaster Crazy Deluxe | 85038 | [85038-coaster-crazy-deluxe.json](./85038-coaster-crazy-deluxe.json) |
-| Coaster Creator 3D | 85037 | [85037-coaster-creator-3d.json](./85037-coaster-creator-3d.json) |
 | Coaster Mania | 306926 | [306926-coaster-mania.json](./306926-coaster-mania.json) |
 | Coaster of Carnage VR | 75392 | [75392-coaster-of-carnage-vr.json](./75392-coaster-of-carnage-vr.json) |
 | Coaster Park Tycoon | 60612 | [60612-coaster-park-tycoon.json](./60612-coaster-park-tycoon.json) |
@@ -14123,6 +14118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Recreator | 315951 | [315951-color-recreator.json](./315951-color-recreator.json) |
 | Color Reflex Challenge | 253018 | [253018-color-reflex-challenge.json](./253018-color-reflex-challenge.json) |
 | Color Retro Racer: Miles Challenge | 81790 | [81790-color-retro-racer-miles-challenge.json](./81790-color-retro-racer-miles-challenge.json) |
+| Color Ring | 417450 | [417450-color-ring.json](./417450-color-ring.json) |
 | Color Rings Pro | 118572 | [118572-color-rings-pro.json](./118572-color-rings-pro.json) |
 | Color Rings Puzzle | 104652 | [104652-color-rings-puzzle.json](./104652-color-rings-puzzle.json) |
 | Color Road: Complete Edition | 300901 | [300901-color-road-complete-edition.json](./300901-color-road-complete-edition.json) |
@@ -15507,7 +15503,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comrade-in-Arms | 130169 | [130169-comrade-in-arms.json](./130169-comrade-in-arms.json) |
 | Comrade, Secrets Escape! | 424625 | [424625-comrade-secrets-escape.json](./424625-comrade-secrets-escape.json) |
 | Comrades and Barons: Gates of Freedom | 152820 | [152820-comrades-and-barons-gates-of-freedom.json](./152820-comrades-and-barons-gates-of-freedom.json) |
-| Comrades and Barons: Solitaire of Bloody 1919 | 84046 | [84046-comrades-and-barons-solitaire-of-bloody-1919.json](./84046-comrades-and-barons-solitaire-of-bloody-1919.json) |
 | Comune 0-41 | 400837 | [400837-comune-0-41.json](./400837-comune-0-41.json) |
 | Comuni Non Comuni | 299158 | [299158-comuni-non-comuni.json](./299158-comuni-non-comuni.json) |
 | Comunidad de Zombis | 431468 | [431468-comunidad-de-zombis.json](./431468-comunidad-de-zombis.json) |
