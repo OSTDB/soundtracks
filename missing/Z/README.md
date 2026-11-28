@@ -2585,7 +2585,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone4 | 31575 | [31575-zone4.json](./31575-zone4.json) |
 | Zone4M | 188385 | [188385-zone4m.json](./188385-zone4m.json) |
 | Zoned | 311587 | [311587-zoned.json](./311587-zoned.json) |
-| ZoneDriver | 76558 | [76558-zonedriver.json](./76558-zonedriver.json) |
 | ZoneRacer | 331441 | [331441-zoneracer.json](./331441-zoneracer.json) |
 | Zoners | 167716 | [167716-zoners.json](./167716-zoners.json) |
 | Zones | 130440 | [130440-zones.json](./130440-zones.json) |
