@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-28T15:15:56.449Z",
-  "total_soundtracks": 3970,
+  "generated_at": "2026-11-28T15:45:54.996Z",
+  "total_soundtracks": 3971,
   "games": [
     {
       "igdb_id": 292844,
@@ -17439,6 +17439,20 @@
         {
           "album_name": "Gladiabots (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3bKf3AnKqUMxcrJlnIXqjJ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 75083,
+      "game_name": "Glitch's Trip",
+      "game_url": "https://ostdb.net/games/glitchs-trip",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738a4fcc42dabc9124f3760e28",
+      "albums": [
+        {
+          "album_name": "Glitch's Trip (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0hhp4DN71OveS5BOskSepo",
           "apple_music_url": "",
           "album_link_url": ""
         }
