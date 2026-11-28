@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-28T10:55:54.033Z",
-  "total_soundtracks": 3964,
+  "generated_at": "2026-11-28T11:45:55.027Z",
+  "total_soundtracks": 3965,
   "games": [
     {
       "igdb_id": 292844,
@@ -48739,6 +48739,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC-visions-of-mana-original-soundtrack/1765291659?uo=4",
           "album_link_url": "https://album.link/i/1765291659"
+        }
+      ]
+    },
+    {
+      "igdb_id": 76375,
+      "game_name": "Visual Out",
+      "game_url": "https://ostdb.net/games/visual-out",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273939968f01dbc1fc53b6bf9ef",
+      "albums": [
+        {
+          "album_name": "Visual Out Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7EwUS2LqwULPwisyZJCYrT",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
