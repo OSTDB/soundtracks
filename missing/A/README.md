@@ -805,7 +805,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Kingdom to Conquer | 279500 | [279500-a-kingdom-to-conquer.json](./279500-a-kingdom-to-conquer.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
 | A Kiss for the Petals - Remembering How We Met | 34585 | [34585-a-kiss-for-the-petals-remembering-how-we-met.json](./34585-a-kiss-for-the-petals-remembering-how-we-met.json) |
-| A Kiss For the Petals: Maidens of Michael | 83995 | [83995-a-kiss-for-the-petals-maidens-of-michael.json](./83995-a-kiss-for-the-petals-maidens-of-michael.json) |
 | A Kiss from Death | 154248 | [154248-a-kiss-from-death.json](./154248-a-kiss-from-death.json) |
 | A Kiss from Death | 299065 | [299065-a-kiss-from-death.json](./299065-a-kiss-from-death.json) |
 | A Kiss From Death | 247094 | [247094-a-kiss-from-death.json](./247094-a-kiss-from-death.json) |
@@ -1343,7 +1342,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ruthless World | 303895 | [303895-a-ruthless-world.json](./303895-a-ruthless-world.json) |
 | A Sad Journey | 172196 | [172196-a-sad-journey.json](./172196-a-sad-journey.json) |
 | A Safe Place | 338165 | [338165-a-safe-place.json](./338165-a-safe-place.json) |
-| A Salem Witch Trial | 84050 | [84050-a-salem-witch-trial.json](./84050-a-salem-witch-trial.json) |
 | A Sandwich, A Leash, and A Storm | 337701 | [337701-a-sandwich-a-leash-and-a-storm.json](./337701-a-sandwich-a-leash-and-a-storm.json) |
 | A Scoundrel in the Underlair | 259302 | [259302-a-scoundrel-in-the-underlair.json](./259302-a-scoundrel-in-the-underlair.json) |
 | A Sea of Grey & Green | 413864 | [413864-a-sea-of-grey-and-green.json](./413864-a-sea-of-grey-and-green.json) |
@@ -4743,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegis | 115886 | [115886-aegis.json](./115886-aegis.json) |
 | Aegis | 266000 | [266000-aegis.json](./266000-aegis.json) |
 | Aegis | 31206 | [31206-aegis.json](./31206-aegis.json) |
+| Aegis | 417449 | [417449-aegis.json](./417449-aegis.json) |
 | Aegis 2186 | 29253 | [29253-aegis-2186.json](./29253-aegis-2186.json) |
 | Aegis Defenders | 35210 | [35210-aegis-defenders.json](./35210-aegis-defenders.json) |
 | Aegis Descent | 199281 | [199281-aegis-descent.json](./199281-aegis-descent.json) |
@@ -5081,6 +5080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Way | 113506 | [113506-aether-way.json](./113506-aether-way.json) |
 | Aether-07 | 403317 | [403317-aether-07.json](./403317-aether-07.json) |
 | Aether: A Heroic Fantasy RPG | 184062 | [184062-aether-a-heroic-fantasy-rpg.json](./184062-aether-a-heroic-fantasy-rpg.json) |
+| Aether: Tap to Blast | 417446 | [417446-aether-tap-to-blast.json](./417446-aether-tap-to-blast.json) |
 | Aether: Trading Card Game | 222564 | [222564-aether-trading-card-game.json](./222564-aether-trading-card-game.json) |
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
 | Aether’s Echo: Yazid’s Paradox | 379569 | [379569-aether-s-echo-yazid-s-paradox.json](./379569-aether-s-echo-yazid-s-paradox.json) |
@@ -6345,7 +6345,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AIDS Awareness | 260803 | [260803-aids-awareness.json](./260803-aids-awareness.json) |
 | AIDS Watashi o Aishite... Jin'ai Seijin | 230204 | [230204-aids-watashi-o-aishite-jinai-seijin.json](./230204-aids-watashi-o-aishite-jinai-seijin.json) |
 | AIDSGame | 314169 | [314169-aidsgame.json](./314169-aidsgame.json) |
-| Aidsmoji: The Forbidden Fruit | 86307 | [86307-aidsmoji-the-forbidden-fruit.json](./86307-aidsmoji-the-forbidden-fruit.json) |
 | AIdventure | 215027 | [215027-aidventure.json](./215027-aidventure.json) |
 | Aidyn Chronicles: The First Mage | 2850 | [2850-aidyn-chronicles-the-first-mage.json](./2850-aidyn-chronicles-the-first-mage.json) |
 | Aierlon | 203866 | [203866-aierlon.json](./203866-aierlon.json) |
@@ -10524,6 +10523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia: Restored | 360794 | [360794-amnesia-restored.json](./360794-amnesia-restored.json) |
 | Amnesia: The Great Work | 196001 | [196001-amnesia-the-great-work.json](./196001-amnesia-the-great-work.json) |
 | Amnios | 14254 | [14254-amnios.json](./14254-amnios.json) |
+| Amniotic Pressure | 427131 | [427131-amniotic-pressure.json](./427131-amniotic-pressure.json) |
 | Amnon's Beginning | 172266 | [172266-amnons-beginning.json](./172266-amnons-beginning.json) |
 | Amnork | 62239 | [62239-amnork.json](./62239-amnork.json) |
 | Amnyam | 345280 | [345280-amnyam.json](./345280-amnyam.json) |
@@ -12269,7 +12269,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Gacha! | 307275 | [307275-anime-gacha.json](./307275-anime-gacha.json) |
 | Anime Gas Station | 202210 | [202210-anime-gas-station.json](./202210-anime-gas-station.json) |
 | Anime Girl Kawaii High School Dress Up | 364073 | [364073-anime-girl-kawaii-high-school-dress-up.json](./364073-anime-girl-kawaii-high-school-dress-up.json) |
-| Anime girl or Bottle? | 84027 | [84027-anime-girl-or-bottle.json](./84027-anime-girl-or-bottle.json) |
 | Anime Girl or Boy? | 108419 | [108419-anime-girl-or-boy.json](./108419-anime-girl-or-boy.json) |
 | Anime Girl Puzzles | 290910 | [290910-anime-girl-puzzles.json](./290910-anime-girl-puzzles.json) |
 | Anime Girl Puzzles: Akari | 297770 | [297770-anime-girl-puzzles-akari.json](./297770-anime-girl-puzzles-akari.json) |
@@ -12826,7 +12825,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anonymous Letter: Prowler | 129278 | [129278-anonymous-letter-prowler.json](./129278-anonymous-letter-prowler.json) |
 | Anonymous ME | 68670 | [68670-anonymous-me.json](./68670-anonymous-me.json) |
 | Anonymous Messages | 262649 | [262649-anonymous-messages.json](./262649-anonymous-messages.json) |
-| Anonymous Notes: Chapter 1 - From the Abyss | 84745 | [84745-anonymous-notes-chapter-1-from-the-abyss.json](./84745-anonymous-notes-chapter-1-from-the-abyss.json) |
 | Anonymous Notes: Chapter 2 - From the Abyss | 84746 | [84746-anonymous-notes-chapter-2-from-the-abyss.json](./84746-anonymous-notes-chapter-2-from-the-abyss.json) |
 | Anonymous Notes: Chapter 3 - From the Abyss | 84747 | [84747-anonymous-notes-chapter-3-from-the-abyss.json](./84747-anonymous-notes-chapter-3-from-the-abyss.json) |
 | Anonymous Notes: Chapter 4 - From the Abyss | 84925 | [84925-anonymous-notes-chapter-4-from-the-abyss.json](./84925-anonymous-notes-chapter-4-from-the-abyss.json) |
@@ -16648,7 +16646,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armies of Riddle E.X. (Extreme) | 126440 | [126440-armies-of-riddle-e-x-extreme.json](./126440-armies-of-riddle-e-x-extreme.json) |
 | Armikrog | 11093 | [11093-armikrog.json](./11093-armikrog.json) |
 | Armikrog: Deluxe Edition | 51711 | [51711-armikrog-deluxe-edition.json](./51711-armikrog-deluxe-edition.json) |
-| Armillo | 84977 | [84977-armillo.json](./84977-armillo.json) |
 | Armis | 186039 | [186039-armis.json](./186039-armis.json) |
 | Armita's Search | 388506 | [388506-armitas-search.json](./388506-armitas-search.json) |
 | Armless Samurai | 296454 | [296454-armless-samurai.json](./296454-armless-samurai.json) |
@@ -17188,7 +17185,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Strip Poker | 96021 | [96021-art-strip-poker.json](./96021-art-strip-poker.json) |
 | Art Studio Simulator | 407346 | [407346-art-studio-simulator.json](./407346-art-studio-simulator.json) |
 | Art Style: Aquia | 22537 | [22537-art-style-aquia.json](./22537-art-style-aquia.json) |
-| Art Style: Base 10 | 84764 | [84764-art-style-base-10.json](./84764-art-style-base-10.json) |
 | Art Style: Boxlife | 47826 | [47826-art-style-boxlife.json](./47826-art-style-boxlife.json) |
 | Art Style: Cubello | 21135 | [21135-art-style-cubello.json](./21135-art-style-cubello.json) |
 | Art Style: Digidrive | 29045 | [29045-art-style-digidrive.json](./29045-art-style-digidrive.json) |
