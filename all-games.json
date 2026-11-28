@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-28T12:45:53.810Z",
-  "total_soundtracks": 3966,
+  "generated_at": "2026-11-28T12:56:00.225Z",
+  "total_soundtracks": 3967,
   "games": [
     {
       "igdb_id": 292844,
@@ -40555,6 +40555,20 @@
         {
           "album_name": "Street Fighter V Champion Edition Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/1mGirt9gvSXDEfqb8wEgwm",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 75998,
+      "game_name": "Street Heat",
+      "game_url": "https://ostdb.net/games/street-heat",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fdbe6adb59869e177e382711",
+      "albums": [
+        {
+          "album_name": "Street Heat (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7oMyEBc1RShkkT920QWYHp",
           "apple_music_url": "",
           "album_link_url": ""
         }
