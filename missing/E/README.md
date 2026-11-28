@@ -94,7 +94,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E621dle | 372170 | [372170-e621dle.json](./372170-e621dle.json) |
 | EA Classics: Syndicate Wars & Dark Omen | 214455 | [214455-ea-classics-syndicate-wars-and-dark-omen.json](./214455-ea-classics-syndicate-wars-and-dark-omen.json) |
 | EA Create: Snap | 331966 | [331966-ea-create-snap.json](./331966-ea-create-snap.json) |
-| EA Family Bundle | 82456 | [82456-ea-family-bundle.json](./82456-ea-family-bundle.json) |
 | EA Mahjong | 79875 | [79875-ea-mahjong.json](./79875-ea-mahjong.json) |
 | EA Playground | 175780 | [175780-ea-playground.json](./175780-ea-playground.json) |
 | EA Playground | 4825 | [4825-ea-playground.json](./4825-ea-playground.json) |
@@ -130,7 +129,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports FC 27: Ultimate Plus Edition | 411107 | [411107-ea-sports-fc-27-ultimate-plus-edition.json](./411107-ea-sports-fc-27-ultimate-plus-edition.json) |
 | EA Sports FC Online | 93902 | [93902-ea-sports-fc-online.json](./93902-ea-sports-fc-online.json) |
 | EA Sports FC Tactical | 302626 | [302626-ea-sports-fc-tactical.json](./302626-ea-sports-fc-tactical.json) |
-| EA Sports FIFA 18 & NHL 18 Bundle | 83749 | [83749-ea-sports-fifa-18-and-nhl-18-bundle.json](./83749-ea-sports-fifa-18-and-nhl-18-bundle.json) |
 | EA Sports Fight Night | 424850 | [424850-ea-sports-fight-night.json](./424850-ea-sports-fight-night.json) |
 | EA Sports Football Academy | 21288 | [21288-ea-sports-football-academy.json](./21288-ea-sports-football-academy.json) |
 | EA Sports Madden NFL 25: Deluxe Edition | 301508 | [301508-ea-sports-madden-nfl-25-deluxe-edition.json](./301508-ea-sports-madden-nfl-25-deluxe-edition.json) |
@@ -1353,7 +1351,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden of Ikemen: Love in a Lost World | 206034 | [206034-eden-of-ikemen-love-in-a-lost-world.json](./206034-eden-of-ikemen-love-in-a-lost-world.json) |
 | Eden Remains: Arrival | 203944 | [203944-eden-remains-arrival.json](./203944-eden-remains-arrival.json) |
 | Eden Reverse | 125883 | [125883-eden-reverse.json](./125883-eden-reverse.json) |
-| Eden Rising | 81383 | [81383-eden-rising.json](./81383-eden-rising.json) |
 | Eden Rising: Ascendant Expansion | 169326 | [169326-eden-rising-ascendant-expansion.json](./169326-eden-rising-ascendant-expansion.json) |
 | Eden Salvage | 404588 | [404588-eden-salvage.json](./404588-eden-salvage.json) |
 | Eden Star | 14377 | [14377-eden-star.json](./14377-eden-star.json) |
@@ -2531,7 +2528,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electrolight | 319192 | [319192-electrolight.json](./319192-electrolight.json) |
 | Electromagnetism | 184319 | [184319-electromagnetism.json](./184319-electromagnetism.json) |
 | ElectroMaster | 254257 | [254257-electromaster.json](./254257-electromaster.json) |
-| Electromaze Defense | 81803 | [81803-electromaze-defense.json](./81803-electromaze-defense.json) |
 | Electron Flux | 264710 | [264710-electron-flux.json](./264710-electron-flux.json) |
 | Electron Handsome Boy | 201312 | [201312-electron-handsome-boy.json](./201312-electron-handsome-boy.json) |
 | Electron World | 284169 | [284169-electron-world.json](./284169-electron-world.json) |
@@ -3406,7 +3402,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emazing Mazes | 209200 | [209200-emazing-mazes.json](./209200-emazing-mazes.json) |
 | Embargo | 40300 | [40300-embargo.json](./40300-embargo.json) |
 | Embark | 423700 | [423700-embark.json](./423700-embark.json) |
-| Embark | 83286 | [83286-embark.json](./83286-embark.json) |
 | Embark Untitled Game | 115446 | [115446-embark-untitled-game.json](./115446-embark-untitled-game.json) |
 | Embarrassed Shina-chan: The Naked Wandering College Girl | 240630 | [240630-embarrassed-shina-chan-the-naked-wandering-college-girl.json](./240630-embarrassed-shina-chan-the-naked-wandering-college-girl.json) |
 | Embassy Assault | 12935 | [12935-embassy-assault.json](./12935-embassy-assault.json) |
@@ -3538,7 +3533,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Fighters | 321922 | [321922-emerald-fighters.json](./321922-emerald-fighters.json) |
 | Emerald Gallery: 2-Score | 384160 | [384160-emerald-gallery-2-score.json](./384160-emerald-gallery-2-score.json) |
 | Emerald Geography | 384436 | [384436-emerald-geography.json](./384436-emerald-geography.json) |
-| Emerald Glazed Bundle | 82383 | [82383-emerald-glazed-bundle.json](./82383-emerald-glazed-bundle.json) |
 | Emerald Hunter | 330961 | [330961-emerald-hunter.json](./330961-emerald-hunter.json) |
 | Emerald Huntress | 379298 | [379298-emerald-huntress.json](./379298-emerald-huntress.json) |
 | Emerald Isle | 13635 | [13635-emerald-isle.json](./13635-emerald-isle.json) |
@@ -8712,7 +8706,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excavator Simulator 2018 | 100865 | [100865-excavator-simulator-2018.json](./100865-excavator-simulator-2018.json) |
 | Excavator Simulator VR | 151339 | [151339-excavator-simulator-vr.json](./151339-excavator-simulator-vr.json) |
 | Excavatorrr | 242574 | [242574-excavatorrr.json](./242574-excavatorrr.json) |
-| Excave | 82595 | [82595-excave.json](./82595-excave.json) |
 | Excave II: Wizard of the Underworld | 60429 | [60429-excave-ii-wizard-of-the-underworld.json](./60429-excave-ii-wizard-of-the-underworld.json) |
 | Excave III: Tower of Destiny | 58726 | [58726-excave-iii-tower-of-destiny.json](./58726-excave-iii-tower-of-destiny.json) |
 | Exceed | 56117 | [56117-exceed.json](./56117-exceed.json) |
