@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-28T14:35:54.814Z",
-  "total_soundtracks": 3969,
+  "generated_at": "2026-11-28T15:15:56.449Z",
+  "total_soundtracks": 3970,
   "games": [
     {
       "igdb_id": 292844,
@@ -30291,6 +30291,20 @@
         {
           "album_name": "Our Lovely Escape (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5aWNuvbrq4cAybLTt09N6K",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 75237,
+      "game_name": "Oure",
+      "game_url": "https://ostdb.net/games/oure",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273458bd6de6348efda28b2de8e",
+      "albums": [
+        {
+          "album_name": "Oure (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6IqfiVsTWdKOszqAs3J6FG",
           "apple_music_url": "",
           "album_link_url": ""
         }
