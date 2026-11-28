@@ -9034,6 +9034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShatterRush | 368417 | [368417-shatterrush.json](./368417-shatterrush.json) |
 | Shattersight | 419544 | [419544-shattersight.json](./419544-shattersight.json) |
 | Shatterspace | 197395 | [197395-shatterspace.json](./197395-shatterspace.json) |
+| Shatterwing | 430614 | [430614-shatterwing.json](./430614-shatterwing.json) |
 | Shattle | 182189 | [182189-shattle.json](./182189-shattle.json) |
 | Shaun Palmer's Pro Snowboarder | 248602 | [248602-shaun-palmers-pro-snowboarder.json](./248602-shaun-palmers-pro-snowboarder.json) |
 | Shaun Palmer's Pro Snowboarder | 248603 | [248603-shaun-palmers-pro-snowboarder.json](./248603-shaun-palmers-pro-snowboarder.json) |
@@ -10436,6 +10437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shivers II: Harvest of Souls | 50207 | [50207-shivers-ii-harvest-of-souls.json](./50207-shivers-ii-harvest-of-souls.json) |
 | Shiya | 178600 | [178600-shiya.json](./178600-shiya.json) |
 | Shiyang Teaches You to Learn Disaster Prevention | 90462 | [90462-shiyang-teaches-you-to-learn-disaster-prevention.json](./90462-shiyang-teaches-you-to-learn-disaster-prevention.json) |
+| Shíyǔ Wèijìn Shí | 430043 | [430043-shiyu-weijin-shi.json](./430043-shiyu-weijin-shi.json) |
 | Shìyuán zhī Zhǔ | 103962 | [103962-shiyuan-zhi-zhu.json](./103962-shiyuan-zhi-zhu.json) |
 | Shizoku: Shuriken Brawl | 179422 | [179422-shizoku-shuriken-brawl.json](./179422-shizoku-shuriken-brawl.json) |
 | Shizue: Innocent Curse | 117086 | [117086-shizue-innocent-curse.json](./117086-shizue-innocent-curse.json) |
@@ -27299,6 +27301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squeen's Adventure: Definitive Edition | 288684 | [288684-squeens-adventure-definitive-edition.json](./288684-squeens-adventure-definitive-edition.json) |
 | Squeeze | 344987 | [344987-squeeze.json](./344987-squeeze.json) |
 | Squeeze Box | 22802 | [22802-squeeze-box.json](./22802-squeeze-box.json) |
+| Squeeze Eater: Eat It Fast! | 430207 | [430207-squeeze-eater-eat-it-fast.json](./430207-squeeze-eater-eat-it-fast.json) |
 | Squeezils | 206708 | [206708-squeezils.json](./206708-squeezils.json) |
 | Squeezone | 31709 | [31709-squeezone.json](./31709-squeezone.json) |
 | Squelchies | 366451 | [366451-squelchies.json](./366451-squelchies.json) |
@@ -28343,6 +28346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Shredders | 81697 | [81697-star-shredders.json](./81697-star-shredders.json) |
 | Star Sign | 217309 | [217309-star-sign.json](./217309-star-sign.json) |
 | Star Sign | 377304 | [377304-star-sign.json](./377304-star-sign.json) |
+| Star Sine Signal | 430029 | [430029-star-sine-signal.json](./430029-star-sine-signal.json) |
 | Star Skater | 208065 | [208065-star-skater.json](./208065-star-skater.json) |
 | Star Sky 2 | 33512 | [33512-star-sky-2.json](./33512-star-sky-2.json) |
 | Star Sky 3 | 109702 | [109702-star-sky-3.json](./109702-star-sky-3.json) |
@@ -40328,6 +40332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspicious Cargo | 354671 | [354671-suspicious-cargo.json](./354671-suspicious-cargo.json) |
 | Suspicious Downpour | 152462 | [152462-suspicious-downpour.json](./152462-suspicious-downpour.json) |
 | Suspicious Holes | 399994 | [399994-suspicious-holes.json](./399994-suspicious-holes.json) |
+| Suspicious Mind | 430025 | [430025-suspicious-mind.json](./430025-suspicious-mind.json) |
 | Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
 | Suspicious Shuffle | 219557 | [219557-suspicious-shuffle.json](./219557-suspicious-shuffle.json) |
 | Suspicious Slide | 127575 | [127575-suspicious-slide.json](./127575-suspicious-slide.json) |
