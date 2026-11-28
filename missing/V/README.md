@@ -4522,7 +4522,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Formula | 51517 | [51517-vr-formula.json](./51517-vr-formula.json) |
 | VR Fun World | 31140 | [31140-vr-fun-world.json](./31140-vr-fun-world.json) |
 | VR Funhouse: Christmas Edition | 216848 | [216848-vr-funhouse-christmas-edition.json](./216848-vr-funhouse-christmas-edition.json) |
-| VR Furballs: Demolition | 81062 | [81062-vr-furballs-demolition.json](./81062-vr-furballs-demolition.json) |
 | VR Future Wars: Aircraft Carrier-UAV Confrontation | 154589 | [154589-vr-future-wars-aircraft-carrier-uav-confrontation.json](./154589-vr-future-wars-aircraft-carrier-uav-confrontation.json) |
 | VR Galactic Roller Coaster | 156196 | [156196-vr-galactic-roller-coaster.json](./156196-vr-galactic-roller-coaster.json) |
 | VR Game: Brick of War | 100431 | [100431-vr-game-brick-of-war.json](./100431-vr-game-brick-of-war.json) |
@@ -4589,7 +4588,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Maze | 164056 | [164056-vr-maze.json](./164056-vr-maze.json) |
 | VR Meditation SkyRun | 166926 | [166926-vr-meditation-skyrun.json](./166926-vr-meditation-skyrun.json) |
 | VR Military Reporter in Middle East (with tanks & helicopters) | 163737 | [163737-vr-military-reporter-in-middle-east-with-tanks-and-helicopters.json](./163737-vr-military-reporter-in-middle-east-with-tanks-and-helicopters.json) |
-| VR Mini Bowling | 81115 | [81115-vr-mini-bowling.json](./81115-vr-mini-bowling.json) |
 | VR Mini Bowling 2 | 202207 | [202207-vr-mini-bowling-2.json](./202207-vr-mini-bowling-2.json) |
 | VR Mini Golf | 138609 | [138609-vr-mini-golf.json](./138609-vr-mini-golf.json) |
 | VR Mini World Roller Coaster | 192238 | [192238-vr-mini-world-roller-coaster.json](./192238-vr-mini-world-roller-coaster.json) |
