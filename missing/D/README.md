@@ -4048,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Wheel: Battle Royal | 109718 | [109718-dead-by-wheel-battle-royal.json](./109718-dead-by-wheel-battle-royal.json) |
 | Dead by zero | 95996 | [95996-dead-by-zero.json](./95996-dead-by-zero.json) |
 | Dead Cards | 301459 | [301459-dead-cards.json](./301459-dead-cards.json) |
+| Dead Carrier | 430203 | [430203-dead-carrier.json](./430203-dead-carrier.json) |
 | Dead Cart | 318680 | [318680-dead-cart.json](./318680-dead-cart.json) |
 | Dead Castle | 117625 | [117625-dead-castle.json](./117625-dead-castle.json) |
 | Dead Cat Bounce | 387631 | [387631-dead-cat-bounce.json](./387631-dead-cat-bounce.json) |
@@ -6431,6 +6432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeepTrouble | 57629 | [57629-deeptrouble.json](./57629-deeptrouble.json) |
 | Deepward | 410958 | [410958-deepward.json](./410958-deepward.json) |
 | DeepWeb Simulator | 291448 | [291448-deepweb-simulator.json](./291448-deepweb-simulator.json) |
+| Deepwell Rising | 430061 | [430061-deepwell-rising.json](./430061-deepwell-rising.json) |
 | Deepworld | 35979 | [35979-deepworld.json](./35979-deepworld.json) |
 | Deepy | 325023 | [325023-deepy.json](./325023-deepy.json) |
 | Deer | 383998 | [383998-deer.json](./383998-deer.json) |
@@ -7245,6 +7247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltazone: Map Pack #1 | 263313 | [263313-deltazone-map-pack-1.json](./263313-deltazone-map-pack-1.json) |
 | Deltora Quest | 47936 | [47936-deltora-quest.json](./47936-deltora-quest.json) |
 | Deltora Quest: 7-tsu no Houseki | 67728 | [67728-deltora-quest-7-tsu-no-houseki.json](./67728-deltora-quest-7-tsu-no-houseki.json) |
+| Delu | 430272 | [430272-delu.json](./430272-delu.json) |
 | Delucid | 390254 | [390254-delucid.json](./390254-delucid.json) |
 | Deluded | 185215 | [185215-deluded.json](./185215-deluded.json) |
 | Deluge | 178161 | [178161-deluge.json](./178161-deluge.json) |
@@ -14134,6 +14137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll INC | 346690 | [346690-doll-inc.json](./346690-doll-inc.json) |
 | Doll of Resurrection | 109337 | [109337-doll-of-resurrection.json](./109337-doll-of-resurrection.json) |
 | Doll Parts | 347793 | [347793-doll-parts.json](./347793-doll-parts.json) |
+| Doll Princess in the Kingdom of Toys | 430622 | [430622-doll-princess-in-the-kingdom-of-toys.json](./430622-doll-princess-in-the-kingdom-of-toys.json) |
 | Doll Recollect | 299737 | [299737-doll-recollect.json](./299737-doll-recollect.json) |
 | Doll Repair | 301201 | [301201-doll-repair.json](./301201-doll-repair.json) |
 | Doll Style: Underground Design and Dress | 328733 | [328733-doll-style-underground-design-and-dress.json](./328733-doll-style-underground-design-and-dress.json) |
@@ -14953,6 +14957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country: Barrel Maze | 231637 | [231637-donkey-kong-country-barrel-maze.json](./231637-donkey-kong-country-barrel-maze.json) |
 | Donkey Kong Country: Boss Blitz | 162832 | [162832-donkey-kong-country-boss-blitz.json](./162832-donkey-kong-country-boss-blitz.json) |
 | Donkey Kong Country: Competition Cartridge | 162835 | [162835-donkey-kong-country-competition-cartridge.json](./162835-donkey-kong-country-competition-cartridge.json) |
+| Donkey Kong Country: Forbidden Fruit | 430197 | [430197-donkey-kong-country-forbidden-fruit.json](./430197-donkey-kong-country-forbidden-fruit.json) |
 | Donkey Kong Country: Pacifist Mode | 361715 | [361715-donkey-kong-country-pacifist-mode.json](./361715-donkey-kong-country-pacifist-mode.json) |
 | Donkey Kong Country: The Trilogy | 172504 | [172504-donkey-kong-country-the-trilogy.json](./172504-donkey-kong-country-the-trilogy.json) |
 | Donkey Kong Country: Tropical Freeze | 2923 | [2923-donkey-kong-country-tropical-freeze.json](./2923-donkey-kong-country-tropical-freeze.json) |
@@ -18272,6 +18277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw-Play | 339158 | [339158-draw-play.json](./339158-draw-play.json) |
 | Draw-Play 2 | 339159 | [339159-draw-play-2.json](./339159-draw-play-2.json) |
 | Draw-Play 3 | 339160 | [339160-draw-play-3.json](./339160-draw-play-3.json) |
+| Drawaoke: Sing, Scribble, Showdown! | 430163 | [430163-drawaoke-sing-scribble-showdown.json](./430163-drawaoke-sing-scribble-showdown.json) |
 | Drawaria.online | 136529 | [136529-drawaria-online.json](./136529-drawaria-online.json) |
 | Drawback Chess | 387533 | [387533-drawback-chess.json](./387533-drawback-chess.json) |
 | DrawBall | 289014 | [289014-drawball.json](./289014-drawball.json) |
