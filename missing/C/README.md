@@ -844,7 +844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Infinite Warfare - Digital Legacy Edition | 225379 | [225379-call-of-duty-infinite-warfare-digital-legacy-edition.json](./225379-call-of-duty-infinite-warfare-digital-legacy-edition.json) |
 | Call of Duty: Infinite Warfare - Jackal Assault | 80632 | [80632-call-of-duty-infinite-warfare-jackal-assault.json](./80632-call-of-duty-infinite-warfare-jackal-assault.json) |
 | Call of Duty: Infinite Warfare - Jackal Assault VR Experience | 296540 | [296540-call-of-duty-infinite-warfare-jackal-assault-vr-experience.json](./296540-call-of-duty-infinite-warfare-jackal-assault-vr-experience.json) |
-| Call of Duty: Infinite Warfare - Launch Edition | 82447 | [82447-call-of-duty-infinite-warfare-launch-edition.json](./82447-call-of-duty-infinite-warfare-launch-edition.json) |
 | Call of Duty: Infinite Warfare - Legacy Edition | 42896 | [42896-call-of-duty-infinite-warfare-legacy-edition.json](./42896-call-of-duty-infinite-warfare-legacy-edition.json) |
 | Call of Duty: Infinite Warfare - Legacy Pro Edition | 41625 | [41625-call-of-duty-infinite-warfare-legacy-pro-edition.json](./41625-call-of-duty-infinite-warfare-legacy-pro-edition.json) |
 | Call of Duty: Infinite Warfare - Retribution | 57700 | [57700-call-of-duty-infinite-warfare-retribution.json](./57700-call-of-duty-infinite-warfare-retribution.json) |
@@ -2208,7 +2207,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Meow | 239672 | [239672-captain-meow.json](./239672-captain-meow.json) |
 | Captain Midnight | 325715 | [325715-captain-midnight.json](./325715-captain-midnight.json) |
 | Captain Moviestar 3D | 245832 | [245832-captain-moviestar-3d.json](./245832-captain-moviestar-3d.json) |
-| Captain Nemo | 83520 | [83520-captain-nemo.json](./83520-captain-nemo.json) |
 | Captain Novolin | 18986 | [18986-captain-novolin.json](./18986-captain-novolin.json) |
 | Captain of America Moto Robot Transform Dino Wars | 95786 | [95786-captain-of-america-moto-robot-transform-dino-wars.json](./95786-captain-of-america-moto-robot-transform-dino-wars.json) |
 | Captain of Industry | 150100 | [150100-captain-of-industry.json](./150100-captain-of-industry.json) |
@@ -2625,7 +2623,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
 | Car Polo | 19371 | [19371-car-polo.json](./19371-car-polo.json) |
 | Car Puzzle for Toddlers and Kids | 227775 | [227775-car-puzzle-for-toddlers-and-kids.json](./227775-car-puzzle-for-toddlers-and-kids.json) |
-| Car Puzzler | 81919 | [81919-car-puzzler.json](./81919-car-puzzler.json) |
 | Car Quest | 110881 | [110881-car-quest.json](./110881-car-quest.json) |
 | Car Race | 276913 | [276913-car-race.json](./276913-car-race.json) |
 | Car Race | 28354 | [28354-car-race.json](./28354-car-race.json) |
@@ -3944,7 +3941,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Simulator | 297944 | [297944-casino-simulator.json](./297944-casino-simulator.json) |
 | Casino Simulator 2024 | 300450 | [300450-casino-simulator-2024.json](./300450-casino-simulator-2024.json) |
 | Casino Slot Machine | 41528 | [41528-casino-slot-machine.json](./41528-casino-slot-machine.json) |
-| Casino Slot Machines | 81794 | [81794-casino-slot-machines.json](./81794-casino-slot-machines.json) |
 | Casino Tournament of Champions | 206889 | [206889-casino-tournament-of-champions.json](./206889-casino-tournament-of-champions.json) |
 | Casino Tycoon | 130666 | [130666-casino-tycoon.json](./130666-casino-tycoon.json) |
 | Casino Tycoon | 302043 | [302043-casino-tycoon.json](./302043-casino-tycoon.json) |
@@ -3968,7 +3964,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casper | 215184 | [215184-casper.json](./215184-casper.json) |
 | Casper | 215185 | [215185-casper.json](./215185-casper.json) |
 | Casper | 6345 | [6345-casper.json](./6345-casper.json) |
-| Casper | 83245 | [83245-casper.json](./83245-casper.json) |
 | Casper and the Ghostly Trio | 83232 | [83232-casper-and-the-ghostly-trio.json](./83232-casper-and-the-ghostly-trio.json) |
 | Casper Brainy Book | 125318 | [125318-casper-brainy-book.json](./125318-casper-brainy-book.json) |
 | Casper: Animated Activity Center | 417767 | [417767-casper-animated-activity-center.json](./417767-casper-animated-activity-center.json) |
@@ -6258,7 +6253,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cemetery of Bob | 293510 | [293510-cemetery-of-bob.json](./293510-cemetery-of-bob.json) |
 | Cemetery Simulator | 406996 | [406996-cemetery-simulator.json](./406996-cemetery-simulator.json) |
 | Cemetery War | 163772 | [163772-cemetery-war.json](./163772-cemetery-war.json) |
-| Cemetery Warrior 2 | 82471 | [82471-cemetery-warrior-2.json](./82471-cemetery-warrior-2.json) |
 | Cemetery Warrior 3 | 29991 | [29991-cemetery-warrior-3.json](./29991-cemetery-warrior-3.json) |
 | Cemetery Warrior 4 | 122576 | [122576-cemetery-warrior-4.json](./122576-cemetery-warrior-4.json) |
 | Cemetery Warrior 6 | 338506 | [338506-cemetery-warrior-6.json](./338506-cemetery-warrior-6.json) |
@@ -7207,7 +7201,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charging Out Dead Zone | 207569 | [207569-charging-out-dead-zone.json](./207569-charging-out-dead-zone.json) |
 | Charging Panic | 136244 | [136244-charging-panic.json](./136244-charging-panic.json) |
 | Chari-sou Ultra DX: Sekai Tour | 222203 | [222203-chari-sou-ultra-dx-sekai-tour.json](./222203-chari-sou-ultra-dx-sekai-tour.json) |
-| Chariot Bundle | 82458 | [82458-chariot-bundle.json](./82458-chariot-bundle.json) |
 | Chariot Land | 165644 | [165644-chariot-land.json](./165644-chariot-land.json) |
 | Chariot of Girl | 301993 | [301993-chariot-of-girl.json](./301993-chariot-of-girl.json) |
 | Chariot Race | 47244 | [47244-chariot-race.json](./47244-chariot-race.json) |
@@ -12865,7 +12858,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Co-Op Crunch | 309425 | [309425-co-op-crunch.json](./309425-co-op-crunch.json) |
 | Co-op Frenzy: Spirit of the Island + Biped Bundle | 214053 | [214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json](./214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json) |
 | Co-op Kaiju Horror Cooking | 355090 | [355090-co-op-kaiju-horror-cooking.json](./355090-co-op-kaiju-horror-cooking.json) |
-| Co-op SNEK Online | 81722 | [81722-co-op-snek-online.json](./81722-co-op-snek-online.json) |
 | Co-Open | 146704 | [146704-co-open.json](./146704-co-open.json) |
 | Co-Pilot | 183378 | [183378-co-pilot.json](./183378-co-pilot.json) |
 | Co\|incidence | 303045 | [303045-co-incidence.json](./303045-co-incidence.json) |
@@ -16305,7 +16297,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contacts | 379591 | [379591-contacts.json](./379591-contacts.json) |
 | Contador de Histórias | 290093 | [290093-contador-de-historias.json](./290093-contador-de-historias.json) |
 | Contagion | 6404 | [6404-contagion.json](./6404-contagion.json) |
-| Contagion VR: Outbreak | 82047 | [82047-contagion-vr-outbreak.json](./82047-contagion-vr-outbreak.json) |
 | Contain | 226717 | [226717-contain.json](./226717-contain.json) |
 | Contain: First Responders | 302825 | [302825-contain-first-responders.json](./302825-contain-first-responders.json) |
 | Containcorp | 258274 | [258274-containcorp.json](./258274-containcorp.json) |
@@ -18188,7 +18179,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countryballs Conquest | 363683 | [363683-countryballs-conquest.json](./363683-countryballs-conquest.json) |
 | CountryBalls Heroes | 119848 | [119848-countryballs-heroes.json](./119848-countryballs-heroes.json) |
 | Countryballs: Modern Ballfare | 131628 | [131628-countryballs-modern-ballfare.json](./131628-countryballs-modern-ballfare.json) |
-| Countryballs: Over the World | 83546 | [83546-countryballs-over-the-world.json](./83546-countryballs-over-the-world.json) |
 | Countryballs: Power Protocol | 349473 | [349473-countryballs-power-protocol.json](./349473-countryballs-power-protocol.json) |
 | Countryballs: The Heist | 302945 | [302945-countryballs-the-heist.json](./302945-countryballs-the-heist.json) |
 | CountryCide | 196008 | [196008-countrycide.json](./196008-countrycide.json) |
@@ -19690,7 +19680,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Pinball | 85551 | [85551-crazy-pinball.json](./85551-crazy-pinball.json) |
 | Crazy Pingoin | 250193 | [250193-crazy-pingoin.json](./250193-crazy-pingoin.json) |
 | Crazy Pipes 3D | 374118 | [374118-crazy-pipes-3d.json](./374118-crazy-pipes-3d.json) |
-| Crazy Pirate | 81872 | [81872-crazy-pirate.json](./81872-crazy-pirate.json) |
 | Crazy Pirate Slots | 232364 | [232364-crazy-pirate-slots.json](./232364-crazy-pirate-slots.json) |
 | Crazy Pitcher | 227255 | [227255-crazy-pitcher.json](./227255-crazy-pitcher.json) |
 | Crazy Pixel Streaker | 19569 | [19569-crazy-pixel-streaker.json](./19569-crazy-pixel-streaker.json) |
@@ -19748,7 +19737,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Sonic | 352784 | [352784-crazy-sonic.json](./352784-crazy-sonic.json) |
 | Crazy Space Goat Simulator 3D - 2 | 101960 | [101960-crazy-space-goat-simulator-3d-2.json](./101960-crazy-space-goat-simulator-3d-2.json) |
 | Crazy space pirate | 117633 | [117633-crazy-space-pirate.json](./117633-crazy-space-pirate.json) |
-| Crazy Sports Bundle | 82457 | [82457-crazy-sports-bundle.json](./82457-crazy-sports-bundle.json) |
 | Crazy Sprint | 256461 | [256461-crazy-sprint.json](./256461-crazy-sprint.json) |
 | Crazy Squares: Milk River Run | 365889 | [365889-crazy-squares-milk-river-run.json](./365889-crazy-squares-milk-river-run.json) |
 | Crazy Stars: Rhythm Party | 386778 | [386778-crazy-stars-rhythm-party.json](./386778-crazy-stars-rhythm-party.json) |
@@ -20164,7 +20152,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Captain 2025 | 351614 | [351614-cricket-captain-2025.json](./351614-cricket-captain-2025.json) |
 | Cricket Carlson | 125821 | [125821-cricket-carlson.json](./125821-cricket-carlson.json) |
 | Cricket Challenge | 85560 | [85560-cricket-challenge.json](./85560-cricket-challenge.json) |
-| Cricket Club | 81886 | [81886-cricket-club.json](./81886-cricket-club.json) |
 | Cricket Coach 2007 | 10114 | [10114-cricket-coach-2007.json](./10114-cricket-coach-2007.json) |
 | Cricket Crazy | 13533 | [13533-cricket-crazy.json](./13533-cricket-crazy.json) |
 | Cricket Cup | 241113 | [241113-cricket-cup.json](./241113-cricket-cup.json) |
@@ -24062,7 +24049,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk 2077: Vincent Sin Edition | 173119 | [173119-cyberpunk-2077-vincent-sin-edition.json](./173119-cyberpunk-2077-vincent-sin-edition.json) |
 | Cyberpunk 2088 | 276093 | [276093-cyberpunk-2088.json](./276093-cyberpunk-2088.json) |
 | Cyberpunk 3776 | 35896 | [35896-cyberpunk-3776.json](./35896-cyberpunk-3776.json) |
-| Cyberpunk Arena | 81736 | [81736-cyberpunk-arena.json](./81736-cyberpunk-arena.json) |
 | Cyberpunk Bar Sim | 126744 | [126744-cyberpunk-bar-sim.json](./126744-cyberpunk-bar-sim.json) |
 | Cyberpunk City | 371573 | [371573-cyberpunk-city.json](./371573-cyberpunk-city.json) |
 | Cyberpunk City Tycoon | 304796 | [304796-cyberpunk-city-tycoon.json](./304796-cyberpunk-city-tycoon.json) |
