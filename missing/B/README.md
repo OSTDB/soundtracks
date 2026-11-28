@@ -1972,7 +1972,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloonacy | 13372 | [13372-balloonacy.json](./13372-balloonacy.json) |
 | Balloonacy 2 | 97324 | [97324-balloonacy-2.json](./97324-balloonacy-2.json) |
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
-| Balloonatics | 83622 | [83622-balloonatics.json](./83622-balloonatics.json) |
 | BalloonBoyBob | 129096 | [129096-balloonboybob.json](./129096-balloonboybob.json) |
 | BalloonBreaker | 310781 | [310781-balloonbreaker.json](./310781-balloonbreaker.json) |
 | Balloone | 395872 | [395872-balloone.json](./395872-balloone.json) |
@@ -2647,7 +2646,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarian Saga bundle | 331806 | [331806-barbarian-saga-bundle.json](./331806-barbarian-saga-bundle.json) |
 | Barbarian Saga: The Beastmaster | 265787 | [265787-barbarian-saga-the-beastmaster.json](./265787-barbarian-saga-the-beastmaster.json) |
 | Barbarian Simulator | 157718 | [157718-barbarian-simulator.json](./157718-barbarian-simulator.json) |
-| Barbarian Souls | 81793 | [81793-barbarian-souls.json](./81793-barbarian-souls.json) |
 | Barbarian Trash | 110827 | [110827-barbarian-trash.json](./110827-barbarian-trash.json) |
 | Barbarian: The Death Sword | 83285 | [83285-barbarian-the-death-sword.json](./83285-barbarian-the-death-sword.json) |
 | BarbarianMerge | 205137 | [205137-barbarianmerge.json](./205137-barbarianmerge.json) |
@@ -4520,7 +4518,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Keys | 90152 | [90152-battle-of-keys.json](./90152-battle-of-keys.json) |
 | Battle of Kingdom | 7772 | [7772-battle-of-kingdom.json](./7772-battle-of-kingdom.json) |
 | Battle of Kings | 101591 | [101591-battle-of-kings.json](./101591-battle-of-kings.json) |
-| Battle of Kings VR | 82344 | [82344-battle-of-kings-vr.json](./82344-battle-of-kings-vr.json) |
 | Battle of Luzon 1945 | 103530 | [103530-battle-of-luzon-1945.json](./103530-battle-of-luzon-1945.json) |
 | Battle of Orion 10: First contact | 235474 | [235474-battle-of-orion-10-first-contact.json](./235474-battle-of-orion-10-first-contact.json) |
 | Battle of Painters | 37403 | [37403-battle-of-painters.json](./37403-battle-of-painters.json) |
@@ -4902,7 +4899,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Anniversary Bundle | 83758 | [83758-battlefield-anniversary-bundle.json](./83758-battlefield-anniversary-bundle.json) |
 | Battlefield Armor | 105359 | [105359-battlefield-armor.json](./105359-battlefield-armor.json) |
 | BattleField BattleFront | 297373 | [297373-battlefield-battlefront.json](./297373-battlefield-battlefront.json) |
-| Battlefield Bundle | 83506 | [83506-battlefield-bundle.json](./83506-battlefield-bundle.json) |
 | Battlefield Cell | 212029 | [212029-battlefield-cell.json](./212029-battlefield-cell.json) |
 | Battlefield Commander WWII | 278183 | [278183-battlefield-commander-wwii.json](./278183-battlefield-commander-wwii.json) |
 | Battlefield Germany | 13387 | [13387-battlefield-germany.json](./13387-battlefield-germany.json) |
@@ -11661,7 +11657,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blightveil | 375059 | [375059-blightveil.json](./375059-blightveil.json) |
 | Blightwreck | 309441 | [309441-blightwreck.json](./309441-blightwreck.json) |
 | Bliink: Staring Contest | 143089 | [143089-bliink-staring-contest.json](./143089-bliink-staring-contest.json) |
-| Blik | 82033 | [82033-blik.json](./82033-blik.json) |
 | Blik Ball | 413660 | [413660-blik-ball.json](./413660-blik-ball.json) |
 | Blimblau: Kill Them All! | 386830 | [386830-blimblau-kill-them-all.json](./386830-blimblau-kill-them-all.json) |
 | Blimby | 153871 | [153871-blimby.json](./153871-blimby.json) |
@@ -12275,7 +12270,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockdude | 260909 | [260909-blockdude.json](./260909-blockdude.json) |
 | Blockdude | 315760 | [315760-blockdude.json](./315760-blockdude.json) |
 | BlockDude | 52055 | [52055-blockdude.json](./52055-blockdude.json) |
-| Blocked and Loaded | 81890 | [81890-blocked-and-loaded.json](./81890-blocked-and-loaded.json) |
 | Blocked In | 278559 | [278559-blocked-in.json](./278559-blocked-in.json) |
 | Blocked Out: Red V Blue | 166881 | [166881-blocked-out-red-v-blue.json](./166881-blocked-out-red-v-blue.json) |
 | Blocked Up | 183897 | [183897-blocked-up.json](./183897-blocked-up.json) |
@@ -12915,7 +12909,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodLoop | 350724 | [350724-bloodloop.json](./350724-bloodloop.json) |
 | Bloodlust | 22123 | [22123-bloodlust.json](./22123-bloodlust.json) |
 | Bloodlust | 338255 | [338255-bloodlust.json](./338255-bloodlust.json) |
-| BloodLust 2: Nemesis | 83605 | [83605-bloodlust-2-nemesis.json](./83605-bloodlust-2-nemesis.json) |
 | Bloodlust Online | 157015 | [157015-bloodlust-online.json](./157015-bloodlust-online.json) |
 | Bloodlust Rebellion | 298907 | [298907-bloodlust-rebellion.json](./298907-bloodlust-rebellion.json) |
 | BloodLust Shadowhunter | 17108 | [17108-bloodlust-shadowhunter.json](./17108-bloodlust-shadowhunter.json) |
@@ -20482,7 +20475,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burasagatte Iru Kiji | 261809 | [261809-burasagatte-iru-kiji.json](./261809-burasagatte-iru-kiji.json) |
 | Buratino | 149734 | [149734-buratino.json](./149734-buratino.json) |
 | Burd. | 184836 | [184836-burd.json](./184836-burd.json) |
-| Burden | 83484 | [83484-burden.json](./83484-burden.json) |
 | Burden 2: Remnants | 229643 | [229643-burden-2-remnants.json](./229643-burden-2-remnants.json) |
 | Burden of 80 Proof | 230248 | [230248-burden-of-80-proof.json](./230248-burden-of-80-proof.json) |
 | Burden of Choice | 379841 | [379841-burden-of-choice.json](./379841-burden-of-choice.json) |
