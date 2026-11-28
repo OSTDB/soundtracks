@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Shot | 305396 | [305396-can-shot.json](./305396-can-shot.json) |
 | Can Strike | 259727 | [259727-can-strike.json](./259727-can-strike.json) |
 | Can We Be Three? | 385271 | [385271-can-we-be-three.json](./385271-can-we-be-three.json) |
+| Can We Cook? | 431771 | [431771-can-we-cook.json](./431771-can-we-cook.json) |
 | Can We Start Over? | 321777 | [321777-can-we-start-over.json](./321777-can-we-start-over.json) |
 | Can We Still Get High | 327488 | [327488-can-we-still-get-high.json](./327488-can-we-still-get-high.json) |
 | Can You Beat the Square? | 176419 | [176419-can-you-beat-the-square.json](./176419-can-you-beat-the-square.json) |
@@ -4961,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataclysm | 250651 | [250651-cataclysm.json](./250651-cataclysm.json) |
 | Cataclysm | 308268 | [308268-cataclysm.json](./308268-cataclysm.json) |
 | Cataclysm | 417140 | [417140-cataclysm.json](./417140-cataclysm.json) |
+| Cataclysm Escape | 431330 | [431330-cataclysm-escape.json](./431330-cataclysm-escape.json) |
 | Cataclysm Survivors | 266109 | [266109-cataclysm-survivors.json](./266109-cataclysm-survivors.json) |
 | Cataclysm Upon Us | 274771 | [274771-cataclysm-upon-us.json](./274771-cataclysm-upon-us.json) |
 | Cataclysm Wars | 327747 | [327747-cataclysm-wars.json](./327747-cataclysm-wars.json) |
@@ -7295,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charming Hill | 399262 | [399262-charming-hill.json](./399262-charming-hill.json) |
 | Charming Tails | 298987 | [298987-charming-tails.json](./298987-charming-tails.json) |
 | Charmolypi | 335781 | [335781-charmolypi.json](./335781-charmolypi.json) |
+| Charmosaic | 431796 | [431796-charmosaic.json](./431796-charmosaic.json) |
 | Charms of Lavender Blue | 101995 | [101995-charms-of-lavender-blue.json](./101995-charms-of-lavender-blue.json) |
 | Charmy Bee in Sonic the Hedgehog | 129181 | [129181-charmy-bee-in-sonic-the-hedgehog.json](./129181-charmy-bee-in-sonic-the-hedgehog.json) |
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
@@ -10103,6 +10106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunithm Crystal Plus | 154641 | [154641-chunithm-crystal-plus.json](./154641-chunithm-crystal-plus.json) |
 | Chunithm Luminous | 281381 | [281381-chunithm-luminous.json](./281381-chunithm-luminous.json) |
 | Chunithm Luminous Plus | 309593 | [309593-chunithm-luminous-plus.json](./309593-chunithm-luminous-plus.json) |
+| Chunithm Mate Plus | 431725 | [431725-chunithm-mate-plus.json](./431725-chunithm-mate-plus.json) |
 | Chunithm New | 191359 | [191359-chunithm-new.json](./191359-chunithm-new.json) |
 | Chunithm New Plus | 231771 | [231771-chunithm-new-plus.json](./231771-chunithm-new-plus.json) |
 | Chunithm Paradise | 154642 | [154642-chunithm-paradise.json](./154642-chunithm-paradise.json) |
@@ -13153,6 +13157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Vein: Hellfire Knight | 129134 | [129134-code-vein-hellfire-knight.json](./129134-code-vein-hellfire-knight.json) |
 | Code Vein: Lord of Thunder | 131954 | [131954-code-vein-lord-of-thunder.json](./131954-code-vein-lord-of-thunder.json) |
 | Code Vein: Season Pass | 131955 | [131955-code-vein-season-pass.json](./131955-code-vein-season-pass.json) |
+| Code Velocity | 431667 | [431667-code-velocity.json](./431667-code-velocity.json) |
 | Code War | 179316 | [179316-code-war.json](./179316-code-war.json) |
 | Code Zero | 123997 | [123997-code-zero.json](./123997-code-zero.json) |
 | Code Zero | 161896 | [161896-code-zero.json](./161896-code-zero.json) |
@@ -18478,6 +18483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Cookmaster | 422412 | [422412-cozy-cookmaster.json](./422412-cozy-cookmaster.json) |
 | Cozy Corner Cafe | 419561 | [419561-cozy-corner-cafe.json](./419561-cozy-corner-cafe.json) |
 | Cozy Crest | 289427 | [289427-cozy-crest.json](./289427-cozy-crest.json) |
+| Cozy Critter Empire | 431575 | [431575-cozy-critter-empire.json](./431575-cozy-critter-empire.json) |
 | Cozy Crunch | 349833 | [349833-cozy-crunch.json](./349833-cozy-crunch.json) |
 | Cozy Days | 209604 | [209604-cozy-days.json](./209604-cozy-days.json) |
 | Cozy Desert | 270529 | [270529-cozy-desert.json](./270529-cozy-desert.json) |
@@ -24360,6 +24366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyroad | 128570 | [128570-cyroad.json](./128570-cyroad.json) |
 | Cyrox | 14024 | [14024-cyrox.json](./14024-cyrox.json) |
 | Cyrtabor | 159271 | [159271-cyrtabor.json](./159271-cyrtabor.json) |
+| Cyrurgia | 431734 | [431734-cyrurgia.json](./431734-cyrurgia.json) |
 | Cyrus | 94310 | [94310-cyrus.json](./94310-cyrus.json) |
 | Cyrus II Chess | 12988 | [12988-cyrus-ii-chess.json](./12988-cyrus-ii-chess.json) |
 | Cyrus The Virus | 287813 | [287813-cyrus-the-virus.json](./287813-cyrus-the-virus.json) |
