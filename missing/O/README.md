@@ -1346,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My Yokai! | 208282 | [208282-oh-my-yokai.json](./208282-oh-my-yokai.json) |
 | Oh No | 135705 | [135705-oh-no.json](./135705-oh-no.json) |
 | Oh No, Angry Emoji's are Trying to Kill Me! | 112261 | [112261-oh-no-angry-emojis-are-trying-to-kill-me.json](./112261-oh-no-angry-emojis-are-trying-to-kill-me.json) |
+| Oh No, Meteor! | 431716 | [431716-oh-no-meteor.json](./431716-oh-no-meteor.json) |
 | Oh No, My Moustache! | 275221 | [275221-oh-no-my-moustache.json](./275221-oh-no-my-moustache.json) |
 | Oh No, Orcs! | 394623 | [394623-oh-no-orcs.json](./394623-oh-no-orcs.json) |
 | Oh no, u have to make a game | 179868 | [179868-oh-no-u-have-to-make-a-game.json](./179868-oh-no-u-have-to-make-a-game.json) |
@@ -6353,6 +6354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcat | 373530 | [373530-overcat.json](./373530-overcat.json) |
 | Overcharge | 430140 | [430140-overcharge.json](./430140-overcharge.json) |
 | Overcharged | 382727 | [382727-overcharged.json](./382727-overcharged.json) |
+| Overchess | 431674 | [431674-overchess.json](./431674-overchess.json) |
 | Overchunked | 96416 | [96416-overchunked.json](./96416-overchunked.json) |
 | Overclocked | 71312 | [71312-overclocked.json](./71312-overclocked.json) |
 | Overclocked: A History of Violence | 21485 | [21485-overclocked-a-history-of-violence.json](./21485-overclocked-a-history-of-violence.json) |
