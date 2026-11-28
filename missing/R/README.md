@@ -207,7 +207,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids Heroes | 193378 | [193378-rabbids-heroes.json](./193378-rabbids-heroes.json) |
 | Rabbids Hollywood | 125784 | [125784-rabbids-hollywood.json](./125784-rabbids-hollywood.json) |
 | Rabbids Invasion | 131366 | [131366-rabbids-invasion.json](./131366-rabbids-invasion.json) |
-| Rabbids Invasion: Gold Edition | 82425 | [82425-rabbids-invasion-gold-edition.json](./82425-rabbids-invasion-gold-edition.json) |
 | Rabbids Lab | 50699 | [50699-rabbids-lab.json](./50699-rabbids-lab.json) |
 | Rabbids Smart Brush | 193379 | [193379-rabbids-smart-brush.json](./193379-rabbids-smart-brush.json) |
 | Rabbids Travel in Time 3D | 47641 | [47641-rabbids-travel-in-time-3d.json](./47641-rabbids-travel-in-time-3d.json) |
@@ -472,7 +471,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaceClub | 391381 | [391381-raceclub.json](./391381-raceclub.json) |
 | RaceCraft | 238861 | [238861-racecraft.json](./238861-racecraft.json) |
 | RaceDay | 427898 | [427898-raceday.json](./427898-raceday.json) |
-| Raceland | 81906 | [81906-raceland.json](./81906-raceland.json) |
 | RaceLeague | 168128 | [168128-raceleague.json](./168128-raceleague.json) |
 | Racer | 282668 | [282668-racer.json](./282668-racer.json) |
 | Racer | 79859 | [79859-racer.json](./79859-racer.json) |
@@ -3242,7 +3240,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reading Raven | 104090 | [104090-reading-raven.json](./104090-reading-raven.json) |
 | Reading Recipes: Grandma Ollie's Morphabet Soup | 209738 | [209738-reading-recipes-grandma-ollies-morphabet-soup.json](./209738-reading-recipes-grandma-ollies-morphabet-soup.json) |
 | Reading Roundup | 44361 | [44361-reading-roundup.json](./44361-reading-roundup.json) |
-| Reading Simulator | 81809 | [81809-reading-simulator.json](./81809-reading-simulator.json) |
 | Reading with Phonics: Mole's Huge Nose | 230447 | [230447-reading-with-phonics-moles-huge-nose.json](./230447-reading-with-phonics-moles-huge-nose.json) |
 | Reading World VR | 296082 | [296082-reading-world-vr.json](./296082-reading-world-vr.json) |
 | Ready 2 Rumble Boxing | 209278 | [209278-ready-2-rumble-boxing.json](./209278-ready-2-rumble-boxing.json) |
@@ -7243,7 +7240,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of Heracles | 70752 | [70752-return-of-heracles.json](./70752-return-of-heracles.json) |
 | Return of Jelda | 78312 | [78312-return-of-jelda.json](./78312-return-of-jelda.json) |
 | Return of Junior's Revenge | 64062 | [64062-return-of-juniors-revenge.json](./64062-return-of-juniors-revenge.json) |
-| Return of Red Riding Hood: Enhanced Edition | 81243 | [81243-return-of-red-riding-hood-enhanced-edition.json](./81243-return-of-red-riding-hood-enhanced-edition.json) |
 | Return of Saiyan | 95840 | [95840-return-of-saiyan.json](./95840-return-of-saiyan.json) |
 | Return of Serenity | 208004 | [208004-return-of-serenity.json](./208004-return-of-serenity.json) |
 | Return of the Ancients | 251328 | [251328-return-of-the-ancients.json](./251328-return-of-the-ancients.json) |
@@ -10653,7 +10649,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band 3 | 206953 | [206953-rock-band-3.json](./206953-rock-band-3.json) |
 | Rock Band 3 | 2691 | [2691-rock-band-3.json](./2691-rock-band-3.json) |
 | Rock Band 3: Deluxe | 303612 | [303612-rock-band-3-deluxe.json](./303612-rock-band-3-deluxe.json) |
-| Rock Band 4: 30 Song Mega Pack | 82460 | [82460-rock-band-4-30-song-mega-pack.json](./82460-rock-band-4-30-song-mega-pack.json) |
 | Rock Band 4: 4th Anniversary Free DLC Pack | 366186 | [366186-rock-band-4-4th-anniversary-free-dlc-pack.json](./366186-rock-band-4-4th-anniversary-free-dlc-pack.json) |
 | Rock Band 4: 5th Anniversary Free DLC Pack | 366188 | [366188-rock-band-4-5th-anniversary-free-dlc-pack.json](./366188-rock-band-4-5th-anniversary-free-dlc-pack.json) |
 | Rock Band 4: 6th Anniversary Free DLC Pack | 365736 | [365736-rock-band-4-6th-anniversary-free-dlc-pack.json](./365736-rock-band-4-6th-anniversary-free-dlc-pack.json) |
@@ -12386,7 +12381,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romanticized Dreams of a Post-Apocalyptic Cowpoke | 272730 | [272730-romanticized-dreams-of-a-post-apocalyptic-cowpoke.json](./272730-romanticized-dreams-of-a-post-apocalyptic-cowpoke.json) |
 | Romarinho a Caminho do Gol | 255833 | [255833-romarinho-a-caminho-do-gol.json](./255833-romarinho-a-caminho-do-gol.json) |
 | Romb | 377254 | [377254-romb.json](./377254-romb.json) |
-| Rombie | 82326 | [82326-rombie.json](./82326-rombie.json) |
 | Romby | 50508 | [50508-romby.json](./50508-romby.json) |
 | Romcab Puzzle | 426317 | [426317-romcab-puzzle.json](./426317-romcab-puzzle.json) |
 | Rome 2077: Space Wars | 157317 | [157317-rome-2077-space-wars.json](./157317-rome-2077-space-wars.json) |
@@ -12660,7 +12654,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roombo: First Blood | 114015 | [114015-roombo-first-blood.json](./114015-roombo-first-blood.json) |
 | Roomelier | 426376 | [426376-roomelier.json](./426376-roomelier.json) |
 | Roomgaze | 347644 | [347644-roomgaze.json](./347644-roomgaze.json) |
-| Roomie Romance | 82094 | [82094-roomie-romance.json](./82094-roomie-romance.json) |
 | Roomka | 292231 | [292231-roomka.json](./292231-roomka.json) |
 | Roomli | 203363 | [203363-roomli.json](./203363-roomli.json) |
 | Roommania #203 | 94027 | [94027-roommania-203.json](./94027-roommania-203.json) |
@@ -13116,7 +13109,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette of the Void | 379835 | [379835-roulette-of-the-void.json](./379835-roulette-of-the-void.json) |
 | Roulette Pro Simulator | 348299 | [348299-roulette-pro-simulator.json](./348299-roulette-pro-simulator.json) |
 | Roulette Rush | 330097 | [330097-roulette-rush.json](./330097-roulette-rush.json) |
-| Roulette Simulator | 82001 | [82001-roulette-simulator.json](./82001-roulette-simulator.json) |
 | Roulette Simulator 2 | 385989 | [385989-roulette-simulator-2.json](./385989-roulette-simulator-2.json) |
 | Roulette Simulator 2024 | 266804 | [266804-roulette-simulator-2024.json](./266804-roulette-simulator-2024.json) |
 | Roulette Simulator 2025 | 310503 | [310503-roulette-simulator-2025.json](./310503-roulette-simulator-2025.json) |
@@ -13794,7 +13786,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby 22 | 182305 | [182305-rugby-22.json](./182305-rugby-22.json) |
 | Rugby 25 | 241246 | [241246-rugby-25.json](./241246-rugby-25.json) |
 | Rugby Boss | 77526 | [77526-rugby-boss.json](./77526-rugby-boss.json) |
-| Rugby Challenge 3: Jonah Lomu Edition | 82433 | [82433-rugby-challenge-3-jonah-lomu-edition.json](./82433-rugby-challenge-3-jonah-lomu-edition.json) |
 | Rugby Challenge 4 | 138843 | [138843-rugby-challenge-4.json](./138843-rugby-challenge-4.json) |
 | Rugby Golf | 410662 | [410662-rugby-golf.json](./410662-rugby-golf.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
@@ -14504,7 +14495,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeroots | 211800 | [211800-runeroots.json](./211800-runeroots.json) |
 | Runeroots TD | 253865 | [253865-runeroots-td.json](./253865-runeroots-td.json) |
 | Runes | 270921 | [270921-runes.json](./270921-runes.json) |
-| Runes | 82009 | [82009-runes.json](./82009-runes.json) |
 | Runes & Revenue | 392069 | [392069-runes-and-revenue.json](./392069-runes-and-revenue.json) |
 | Runes Magica | 197541 | [197541-runes-magica.json](./197541-runes-magica.json) |
 | Runes of Aereal | 257944 | [257944-runes-of-aereal.json](./257944-runes-of-aereal.json) |
@@ -15158,7 +15148,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RyGT | 424075 | [424075-rygt.json](./424075-rygt.json) |
 | RYL: Path of the Emperor | 6548 | [6548-ryl-path-of-the-emperor.json](./6548-ryl-path-of-the-emperor.json) |
 | Rylayeh | 261479 | [261479-rylayeh.json](./261479-rylayeh.json) |
-| Rym 9000 | 81867 | [81867-rym-9000.json](./81867-rym-9000.json) |
 | Rym 9000: Limited Edition | 167035 | [167035-rym-9000-limited-edition.json](./167035-rym-9000-limited-edition.json) |
 | Rymdjakten | 92585 | [92585-rymdjakten.json](./92585-rymdjakten.json) |
 | Rymdkapsel | 18830 | [18830-rymdkapsel.json](./18830-rymdkapsel.json) |
