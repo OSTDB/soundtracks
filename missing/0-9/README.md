@@ -1484,7 +1484,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1500DS Spirits Vol. 10: Igo | 64692 | [64692-1500ds-spirits-vol-10-igo.json](./64692-1500ds-spirits-vol-10-igo.json) |
 | 1500DS Spirits Vol. 2: Shogi | 77020 | [77020-1500ds-spirits-vol-2-shogi.json](./77020-1500ds-spirits-vol-2-shogi.json) |
 | 1500DS Spirits Vol. 6: Trump | 79186 | [79186-1500ds-spirits-vol-6-trump.json](./79186-1500ds-spirits-vol-6-trump.json) |
-| 1500DS Spirits Vol. 7: Chess | 79959 | [79959-1500ds-spirits-vol-7-chess.json](./79959-1500ds-spirits-vol-7-chess.json) |
 | 1500DS Spirits Vol. 8: Darts | 77019 | [77019-1500ds-spirits-vol-8-darts.json](./77019-1500ds-spirits-vol-8-darts.json) |
 | 1500DS Spirits Vol. 9: 2 Nin-uchi Mahjong | 77018 | [77018-1500ds-spirits-vol-9-2-nin-uchi-mahjong.json](./77018-1500ds-spirits-vol-9-2-nin-uchi-mahjong.json) |
 | 153 Hand Video Poker | 84670 | [84670-153-hand-video-poker.json](./84670-153-hand-video-poker.json) |
@@ -1833,7 +1832,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 in 1 Crazy Bundle | 357724 | [357724-2-in-1-crazy-bundle.json](./357724-2-in-1-crazy-bundle.json) |
 | 2 in 1 Experience Hidden Objects | 364951 | [364951-2-in-1-experience-hidden-objects.json](./364951-2-in-1-experience-hidden-objects.json) |
 | 2 in 1 Game Pack I Spider-Man: Mysterio's Menace + X2: Wolverine's Revenge | 80112 | [80112-2-in-1-game-pack-i-spider-man-mysterios-menace-x2-wolverines-revenge.json](./80112-2-in-1-game-pack-i-spider-man-mysterios-menace-x2-wolverines-revenge.json) |
-| 2 in 1 Game Pack: DreamWorks' Shark Tale + Shrek 2 | 79558 | [79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json](./79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json) |
 | 2 In 1 Game Pack: Spider-Man + Spider-Man 2 | 80023 | [80023-2-in-1-game-pack-spider-man-spider-man-2.json](./80023-2-in-1-game-pack-spider-man-spider-man-2.json) |
 | 2 In 1 Game Pack: Tony Hawk's Underground + Kelly Slater's Pro Surfer | 80114 | [80114-2-in-1-game-pack-tony-hawks-underground-kelly-slaters-pro-surfer.json](./80114-2-in-1-game-pack-tony-hawks-underground-kelly-slaters-pro-surfer.json) |
 | 2 in 1 Hidden Object Worlds | 366272 | [366272-2-in-1-hidden-object-worlds.json](./366272-2-in-1-hidden-object-worlds.json) |
