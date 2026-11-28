@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-28T07:05:59.467Z",
-  "total_soundtracks": 3960,
+  "generated_at": "2026-11-28T08:35:55.979Z",
+  "total_soundtracks": 3961,
   "games": [
     {
       "igdb_id": 292844,
@@ -31789,6 +31789,20 @@
         {
           "album_name": "PlayStation Move Heroes (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4fV9dHXwZs98vudc4l6Q4n",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 78780,
+      "game_name": "Plunge",
+      "game_url": "https://ostdb.net/games/plunge",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273773366a631450ff6c066d1dd",
+      "albums": [
+        {
+          "album_name": "Plunge (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0qPVnMl89LmxInFbSBY0xf",
           "apple_music_url": "",
           "album_link_url": ""
         }
