@@ -21460,7 +21460,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Wild Cats | 427513 | [427513-puzzle-wild-cats.json](./427513-puzzle-wild-cats.json) |
 | Puzzle Wings | 174921 | [174921-puzzle-wings.json](./174921-puzzle-wings.json) |
 | Puzzle Wishes | 29910 | [29910-puzzle-wishes.json](./29910-puzzle-wishes.json) |
-| Puzzle With Your Friends | 81215 | [81215-puzzle-with-your-friends.json](./81215-puzzle-with-your-friends.json) |
 | Puzzle Wiz | 58174 | [58174-puzzle-wiz.json](./58174-puzzle-wiz.json) |
 | Puzzle Wizards | 243266 | [243266-puzzle-wizards.json](./243266-puzzle-wizards.json) |
 | Puzzle Words | 304170 | [304170-puzzle-words.json](./304170-puzzle-words.json) |
