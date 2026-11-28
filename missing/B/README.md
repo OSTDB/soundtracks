@@ -123,7 +123,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B17 Flying Fortress | 11928 | [11928-b17-flying-fortress.json](./11928-b17-flying-fortress.json) |
 | B1g Br0th3r | 136243 | [136243-b1g-br0th3r.json](./136243-b1g-br0th3r.json) |
 | B3 | 289382 | [289382-b3.json](./289382-b3.json) |
-| B3 Game Expo For Bees | 84775 | [84775-b3-game-expo-for-bees.json](./84775-b3-game-expo-for-bees.json) |
 | B3313 | 191278 | [191278-b3313.json](./191278-b3313.json) |
 | B3313 Unabandoned | 281260 | [281260-b3313-unabandoned.json](./281260-b3313-unabandoned.json) |
 | B360 | 133393 | [133393-b360.json](./133393-b360.json) |
@@ -144,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baba Booey's Adventure | 72118 | [72118-baba-booeys-adventure.json](./72118-baba-booeys-adventure.json) |
 | Baba Files Taxes | 230189 | [230189-baba-files-taxes.json](./230189-baba-files-taxes.json) |
 | Baba Is Cool 2 | 301581 | [301581-baba-is-cool-2.json](./301581-baba-is-cool-2.json) |
+| Baba Is Quiz | 428846 | [428846-baba-is-quiz.json](./428846-baba-is-quiz.json) |
 | Baba is You Demake | 382000 | [382000-baba-is-you-demake.json](./382000-baba-is-you-demake.json) |
 | Baba is You Xtreme | 209470 | [209470-baba-is-you-xtreme.json](./209470-baba-is-you-xtreme.json) |
 | Baba Is You: Baba Make Level | 334743 | [334743-baba-is-you-baba-make-level.json](./334743-baba-is-you-baba-make-level.json) |
@@ -5753,6 +5753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear, Vodka, Stalingrad! | 182601 | [182601-bear-vodka-stalingrad.json](./182601-bear-vodka-stalingrad.json) |
 | Bear's Imagine That! | 392079 | [392079-bears-imagine-that.json](./392079-bears-imagine-that.json) |
 | Bear's Restaurant | 151754 | [151754-bears-restaurant.json](./151754-bears-restaurant.json) |
+| Bear's Sense of Adventure | 392071 | [392071-bears-sense-of-adventure.json](./392071-bears-sense-of-adventure.json) |
 | Bearable - Return to Candyland | 232391 | [232391-bearable-return-to-candyland.json](./232391-bearable-return-to-candyland.json) |
 | Bearable Nightmares | 148893 | [148893-bearable-nightmares.json](./148893-bearable-nightmares.json) |
 | Bearadise 2: Big Bear Shuffle | 236977 | [236977-bearadise-2-big-bear-shuffle.json](./236977-bearadise-2-big-bear-shuffle.json) |
@@ -9665,7 +9666,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Feather: Aquamarine World | 297917 | [297917-bird-feather-aquamarine-world.json](./297917-bird-feather-aquamarine-world.json) |
 | Bird Game | 349937 | [349937-bird-game.json](./349937-bird-game.json) |
 | Bird Game | 394488 | [394488-bird-game.json](./394488-bird-game.json) |
-| Bird Game | 86302 | [86302-bird-game.json](./86302-bird-game.json) |
 | Bird Game 3 | 380006 | [380006-bird-game-3.json](./380006-bird-game-3.json) |
 | Bird Game 3 | 380007 | [380007-bird-game-3.json](./380007-bird-game-3.json) |
 | Bird Game 3 | 402646 | [402646-bird-game-3.json](./402646-bird-game-3.json) |
@@ -9686,7 +9686,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Like | 352264 | [352264-bird-like.json](./352264-bird-like.json) |
 | Bird Mania 3D | 65254 | [65254-bird-mania-3d.json](./65254-bird-mania-3d.json) |
 | Bird Mania 3D Christmas | 62258 | [62258-bird-mania-3d-christmas.json](./62258-bird-mania-3d-christmas.json) |
-| Bird Mania Party | 84995 | [84995-bird-mania-party.json](./84995-bird-mania-party.json) |
 | Bird Memory | 112374 | [112374-bird-memory.json](./112374-bird-memory.json) |
 | Bird Missions | 132315 | [132315-bird-missions.json](./132315-bird-missions.json) |
 | Bird Mother | 312409 | [312409-bird-mother.json](./312409-bird-mother.json) |
@@ -10013,7 +10012,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit the Apple, So What? | 249069 | [249069-bit-the-apple-so-what.json](./249069-bit-the-apple-so-what.json) |
 | Bit Tower | 266447 | [266447-bit-tower.json](./266447-bit-tower.json) |
 | Bit Wars | 388465 | [388465-bit-wars.json](./388465-bit-wars.json) |
-| Bit-Boom | 86292 | [86292-bit-boom.json](./86292-bit-boom.json) |
 | Bit-Broken Identity | 424655 | [424655-bit-broken-identity.json](./424655-bit-broken-identity.json) |
 | Bit-Buster | 184936 | [184936-bit-buster.json](./184936-bit-buster.json) |
 | Bit-Cremental: Fishistry | 325629 | [325629-bit-cremental-fishistry.json](./325629-bit-cremental-fishistry.json) |
@@ -11566,6 +11564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleed Complete Bundle | 118854 | [118854-bleed-complete-bundle.json](./118854-bleed-complete-bundle.json) |
 | Bleed of Fear | 211469 | [211469-bleed-of-fear.json](./211469-bleed-of-fear.json) |
 | Bleed Runner | 276237 | [276237-bleed-runner.json](./276237-bleed-runner.json) |
+| Bleed-Off | 427202 | [427202-bleed-off.json](./427202-bleed-off.json) |
 | Bleed: Arcade Arena Shooter | 256033 | [256033-bleed-arcade-arena-shooter.json](./256033-bleed-arcade-arena-shooter.json) |
 | Bleed: Deluxe Edition | 118954 | [118954-bleed-deluxe-edition.json](./118954-bleed-deluxe-edition.json) |
 | Bleeding | 394632 | [394632-bleeding.json](./394632-bleeding.json) |
@@ -12424,7 +12423,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Basketball | 82249 | [82249-blocky-basketball.json](./82249-blocky-basketball.json) |
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
 | Blocky Blast | 343011 | [343011-blocky-blast.json](./343011-blocky-blast.json) |
-| Blocky Bot | 84998 | [84998-blocky-bot.json](./84998-blocky-bot.json) |
 | Blocky Bronco | 82245 | [82245-blocky-bronco.json](./82245-blocky-bronco.json) |
 | Blocky Cars In Real World | 175332 | [175332-blocky-cars-in-real-world.json](./175332-blocky-cars-in-real-world.json) |
 | Blocky Cars Online | 86145 | [86145-blocky-cars-online.json](./86145-blocky-cars-online.json) |
@@ -12729,7 +12727,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood of Mehran | 319481 | [319481-blood-of-mehran.json](./319481-blood-of-mehran.json) |
 | Blood of Old | 28759 | [28759-blood-of-old.json](./28759-blood-of-old.json) |
 | Blood of Old: The Rise To Greatness | 307570 | [307570-blood-of-old-the-rise-to-greatness.json](./307570-blood-of-old-the-rise-to-greatness.json) |
-| Blood of Patriots | 86318 | [86318-blood-of-patriots.json](./86318-blood-of-patriots.json) |
 | Blood of Rations | 408031 | [408031-blood-of-rations.json](./408031-blood-of-rations.json) |
 | Blood of Steel | 128481 | [128481-blood-of-steel.json](./128481-blood-of-steel.json) |
 | Blood of the Alchemists | 162839 | [162839-blood-of-the-alchemists.json](./162839-blood-of-the-alchemists.json) |
@@ -16381,7 +16378,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box #341 | 333631 | [333631-box-341.json](./333631-box-341.json) |
 | Box A Chocolate | 112285 | [112285-box-a-chocolate.json](./112285-box-a-chocolate.json) |
 | Box Adventure | 270361 | [270361-box-adventure.json](./270361-box-adventure.json) |
-| Box Align | 86312 | [86312-box-align.json](./86312-box-align.json) |
 | Box and Ball | 153851 | [153851-box-and-ball.json](./153851-box-and-ball.json) |
 | Box Bakery | 310007 | [310007-box-bakery.json](./310007-box-bakery.json) |
 | Box Blocks | 227542 | [227542-box-blocks.json](./227542-box-blocks.json) |
@@ -16614,6 +16610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxzle | 85006 | [85006-boxzle.json](./85006-boxzle.json) |
 | Boxzum | 84283 | [84283-boxzum.json](./84283-boxzum.json) |
 | Boy & Wheel | 239431 | [239431-boy-and-wheel.json](./239431-boy-and-wheel.json) |
+| Boy × Boy After School | 417552 | [417552-boy-boy-after-school.json](./417552-boy-boy-after-school.json) |
 | Boy and the Seagull | 197649 | [197649-boy-and-the-seagull.json](./197649-boy-and-the-seagull.json) |
 | Boy Beats World | 127337 | [127337-boy-beats-world.json](./127337-boy-beats-world.json) |
 | Boy Goes to Space | 128584 | [128584-boy-goes-to-space.json](./128584-boy-goes-to-space.json) |
@@ -19170,7 +19167,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Pop Letters & Shapes | 213396 | [213396-bubble-pop-letters-and-shapes.json](./213396-bubble-pop-letters-and-shapes.json) |
 | Bubble Pop Math Challenge Gr. 1-2 Premium | 87255 | [87255-bubble-pop-math-challenge-gr-1-2-premium.json](./87255-bubble-pop-math-challenge-gr-1-2-premium.json) |
 | Bubble Pop Star | 181952 | [181952-bubble-pop-star.json](./181952-bubble-pop-star.json) |
-| Bubble Pop World | 85009 | [85009-bubble-pop-world.json](./85009-bubble-pop-world.json) |
 | Bubble Pop: Shoot Bubbles | 97067 | [97067-bubble-pop-shoot-bubbles.json](./97067-bubble-pop-shoot-bubbles.json) |
 | Bubble Pop! | 181592 | [181592-bubble-pop.json](./181592-bubble-pop.json) |
 | Bubble Popper | 175098 | [175098-bubble-popper.json](./175098-bubble-popper.json) |
@@ -21102,7 +21098,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-A-Move Frenzy | 138682 | [138682-bust-a-move-frenzy.json](./138682-bust-a-move-frenzy.json) |
 | Bust-A-Move Journey | 67196 | [67196-bust-a-move-journey.json](./67196-bust-a-move-journey.json) |
 | Bust-A-Move Millennium | 49836 | [49836-bust-a-move-millennium.json](./49836-bust-a-move-millennium.json) |
-| Bust-A-Move Plus! | 84796 | [84796-bust-a-move-plus.json](./84796-bust-a-move-plus.json) |
 | Bust-A-Move Pocket | 43977 | [43977-bust-a-move-pocket.json](./43977-bust-a-move-pocket.json) |
 | Bust-A-Move Universe | 21154 | [21154-bust-a-move-universe.json](./21154-bust-a-move-universe.json) |
 | Bust-a-Move: Deluxe | 84162 | [84162-bust-a-move-deluxe.json](./84162-bust-a-move-deluxe.json) |
