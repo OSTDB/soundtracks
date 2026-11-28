@@ -837,7 +837,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Sensen Red City | 231525 | [231525-wangan-sensen-red-city.json](./231525-wangan-sensen-red-city.json) |
 | Wangan Trial | 182444 | [182444-wangan-trial.json](./182444-wangan-trial.json) |
 | Wangan Trial Love | 108911 | [108911-wangan-trial-love.json](./108911-wangan-trial-love.json) |
-| Wangan Warrior X | 81883 | [81883-wangan-warrior-x.json](./81883-wangan-warrior-x.json) |
 | Wángguó de Mófǎ Zhànzhēng | 163831 | [163831-wangguo-de-mofa-zhanzheng.json](./163831-wangguo-de-mofa-zhanzheng.json) |
 | Wàngyuè | 403953 | [403953-wangyue.json](./403953-wangyue.json) |
 | Wangzha: Dou Dizhu Roguelike | 420581 | [420581-wangzha-dou-dizhu-roguelike.json](./420581-wangzha-dou-dizhu-roguelike.json) |
@@ -3450,7 +3449,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weakless | 119658 | [119658-weakless.json](./119658-weakless.json) |
 | Weakness Hero Torauman DC | 77564 | [77564-weakness-hero-torauman-dc.json](./77564-weakness-hero-torauman-dc.json) |
 | Weakpoint Delta | 172880 | [172880-weakpoint-delta.json](./172880-weakpoint-delta.json) |
-| WeakWood Throne | 82469 | [82469-weakwood-throne.json](./82469-weakwood-throne.json) |
 | Wealth Project | 298207 | [298207-wealth-project.json](./298207-wealth-project.json) |
 | Weaphones Antiques: Firearms Simulator | 96177 | [96177-weaphones-antiques-firearms-simulator.json](./96177-weaphones-antiques-firearms-simulator.json) |
 | Weaphones Firearms Sim Mini | 343967 | [343967-weaphones-firearms-sim-mini.json](./343967-weaphones-firearms-sim-mini.json) |
@@ -3626,7 +3624,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wee-Woo | 130640 | [130640-wee-woo.json](./130640-wee-woo.json) |
 | Weeb | 314311 | [314311-weeb.json](./314311-weeb.json) |
 | Weebish Mines | 29085 | [29085-weebish-mines.json](./29085-weebish-mines.json) |
-| Weed | 82143 | [82143-weed.json](./82143-weed.json) |
 | Weed & Greed | 348940 | [348940-weed-and-greed.json](./348940-weed-and-greed.json) |
 | Weed Bakery | 374631 | [374631-weed-bakery.json](./374631-weed-bakery.json) |
 | Weed County | 130117 | [130117-weed-county.json](./130117-weed-county.json) |
@@ -5636,7 +5633,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire | 310596 | [310596-who-wants-to-be-a-millionaire.json](./310596-who-wants-to-be-a-millionaire.json) |
 | Who Wants to Be a Millionaire | 310597 | [310597-who-wants-to-be-a-millionaire.json](./310597-who-wants-to-be-a-millionaire.json) |
 | Who Wants to Be a Millionaire | 312608 | [312608-who-wants-to-be-a-millionaire.json](./312608-who-wants-to-be-a-millionaire.json) |
-| Who Wants to Be a Millionaire | 81512 | [81512-who-wants-to-be-a-millionaire.json](./81512-who-wants-to-be-a-millionaire.json) |
 | Who Wants To Be A Millionaire | 81511 | [81511-who-wants-to-be-a-millionaire.json](./81511-who-wants-to-be-a-millionaire.json) |
 | Who Wants To Be A Millionaire 2010 | 311654 | [311654-who-wants-to-be-a-millionaire-2010.json](./311654-who-wants-to-be-a-millionaire-2010.json) |
 | Who Wants to Be a Millionaire: 1st Edition | 50649 | [50649-who-wants-to-be-a-millionaire-1st-edition.json](./50649-who-wants-to-be-a-millionaire-1st-edition.json) |
@@ -9428,7 +9424,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Horror Story | 312538 | [312538-world-horror-story.json](./312538-world-horror-story.json) |
 | World Hunter | 60634 | [60634-world-hunter.json](./60634-world-hunter.json) |
 | World II World | 218096 | [218096-world-ii-world.json](./218096-world-ii-world.json) |
-| World II: Hunting Boss | 82403 | [82403-world-ii-hunting-boss.json](./82403-world-ii-hunting-boss.json) |
 | World in a Moment | 229759 | [229759-world-in-a-moment.json](./229759-world-in-a-moment.json) |
 | World in Conflict | 941 | [941-world-in-conflict.json](./941-world-in-conflict.json) |
 | World in Conflict: Complete Edition | 23017 | [23017-world-in-conflict-complete-edition.json](./23017-world-in-conflict-complete-edition.json) |
@@ -10275,7 +10270,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms 3D | 1047 | [1047-worms-3d.json](./1047-worms-3d.json) |
 | Worms 4 | 59763 | [59763-worms-4.json](./59763-worms-4.json) |
 | Worms Across Worlds | 355849 | [355849-worms-across-worlds.json](./355849-worms-across-worlds.json) |
-| Worms Anniversary Edition | 82389 | [82389-worms-anniversary-edition.json](./82389-worms-anniversary-edition.json) |
 | Worms Armageddon | 159300 | [159300-worms-armageddon.json](./159300-worms-armageddon.json) |
 | Worms Armageddon | 409027 | [409027-worms-armageddon.json](./409027-worms-armageddon.json) |
 | Worms Armageddon: Anniversary Edition | 314938 | [314938-worms-armageddon-anniversary-edition.json](./314938-worms-armageddon-anniversary-edition.json) |
@@ -10517,7 +10511,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 9: Toyota Corolla 1999 | 174390 | [174390-wrc-9-toyota-corolla-1999.json](./174390-wrc-9-toyota-corolla-1999.json) |
 | WRC Arcade | 84418 | [84418-wrc-arcade.json](./84418-wrc-arcade.json) |
 | WRC Collection | 275038 | [275038-wrc-collection.json](./275038-wrc-collection.json) |
-| WRC Collection FIA World Rally Championship | 83770 | [83770-wrc-collection-fia-world-rally-championship.json](./83770-wrc-collection-fia-world-rally-championship.json) |
 | WRC Collection Vol. 2 | 199929 | [199929-wrc-collection-vol-2.json](./199929-wrc-collection-vol-2.json) |
 | WRC Generations: Citroën C4 WRC 2010 | 231225 | [231225-wrc-generations-citroen-c4-wrc-2010.json](./231225-wrc-generations-citroen-c4-wrc-2010.json) |
 | WRC Generations: Fully Loaded Edition | 225472 | [225472-wrc-generations-fully-loaded-edition.json](./225472-wrc-generations-fully-loaded-edition.json) |
