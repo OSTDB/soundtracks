@@ -1815,7 +1815,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happiness 1 Definitive Edition | 336340 | [336340-happiness-1-definitive-edition.json](./336340-happiness-1-definitive-edition.json) |
 | Happiness Charge Pretty Cure! Kawarun Collection | 216184 | [216184-happiness-charge-pretty-cure-kawarun-collection.json](./216184-happiness-charge-pretty-cure-kawarun-collection.json) |
 | Happiness Double Room | 197300 | [197300-happiness-double-room.json](./197300-happiness-double-room.json) |
-| Happiness Drops! | 81687 | [81687-happiness-drops.json](./81687-happiness-drops.json) |
 | Happiness Drops! | 83032 | [83032-happiness-drops.json](./83032-happiness-drops.json) |
 | Happiness Inc. | 301374 | [301374-happiness-inc.json](./301374-happiness-inc.json) |
 | Happiness Market | 253411 | [253411-happiness-market.json](./253411-happiness-market.json) |
@@ -7836,7 +7835,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexteria | 153889 | [153889-hexteria.json](./153889-hexteria.json) |
 | Hexterio | 122834 | [122834-hexterio.json](./122834-hexterio.json) |
 | Hexterminate | 133411 | [133411-hexterminate.json](./133411-hexterminate.json) |
-| Hexters | 81393 | [81393-hexters.json](./81393-hexters.json) |
 | Hexton | 298243 | [298243-hexton.json](./298243-hexton.json) |
 | Hextones | 156735 | [156735-hextones.json](./156735-hextones.json) |
 | Hextones: Spacetime | 152639 | [152639-hextones-spacetime.json](./152639-hextones-spacetime.json) |
@@ -12043,7 +12041,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Racing Simulator | 384548 | [384548-horse-racing-simulator.json](./384548-horse-racing-simulator.json) |
 | Horse Reality | 87737 | [87737-horse-reality.json](./87737-horse-reality.json) |
 | Horse Riding Classic | 391814 | [391814-horse-riding-classic.json](./391814-horse-riding-classic.json) |
-| Horse Riding Deluxe | 81654 | [81654-horse-riding-deluxe.json](./81654-horse-riding-deluxe.json) |
 | Horse Riding Deluxe 2 | 161457 | [161457-horse-riding-deluxe-2.json](./161457-horse-riding-deluxe-2.json) |
 | Horse Riding Tales | 116716 | [116716-horse-riding-tales.json](./116716-horse-riding-tales.json) |
 | Horse Riding Tales | 235160 | [235160-horse-riding-tales.json](./235160-horse-riding-tales.json) |
