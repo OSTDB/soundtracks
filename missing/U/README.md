@@ -8,7 +8,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | U C U B E | 281473 | [281473-u-c-u-b-e.json](./281473-u-c-u-b-e.json) |
 | U Evade | 158374 | [158374-u-evade.json](./158374-u-evade.json) |
-| U Host | 85463 | [85463-u-host.json](./85463-u-host.json) |
 | U R Hell | 271998 | [271998-u-r-hell.json](./271998-u-r-hell.json) |
 | U Want Cookie? | 66265 | [66265-u-want-cookie.json](./66265-u-want-cookie.json) |
 | U-Boat | 347698 | [347698-u-boat.json](./347698-u-boat.json) |
@@ -1971,7 +1970,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercover | 321997 | [321997-undercover.json](./321997-undercover.json) |
 | Undercover | 403189 | [403189-undercover.json](./403189-undercover.json) |
 | Undercover AD2025 Kei | 86084 | [86084-undercover-ad2025-kei.json](./86084-undercover-ad2025-kei.json) |
-| Undercover Agent | 84032 | [84032-undercover-agent.json](./84032-undercover-agent.json) |
 | Undercover brother | 164089 | [164089-undercover-brother.json](./164089-undercover-brother.json) |
 | Undercover Cops | 10455 | [10455-undercover-cops.json](./10455-undercover-cops.json) |
 | Undercover Cops Gaiden: Hakaishin Garumaa | 71941 | [71941-undercover-cops-gaiden-hakaishin-garumaa.json](./71941-undercover-cops-gaiden-hakaishin-garumaa.json) |
@@ -2238,7 +2236,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld Adventure | 384566 | [384566-underworld-adventure.json](./384566-underworld-adventure.json) |
 | Underworld Adventures | 256715 | [256715-underworld-adventures.json](./256715-underworld-adventures.json) |
 | Underworld Ascendant | 19466 | [19466-underworld-ascendant.json](./19466-underworld-ascendant.json) |
-| Underworld Awakening | 84101 | [84101-underworld-awakening.json](./84101-underworld-awakening.json) |
 | Underworld Capital Incident | 146232 | [146232-underworld-capital-incident.json](./146232-underworld-capital-incident.json) |
 | Underworld Debt Roulette | 214909 | [214909-underworld-debt-roulette.json](./214909-underworld-debt-roulette.json) |
 | Underworld Defense | 259515 | [259515-underworld-defense.json](./259515-underworld-defense.json) |
@@ -2527,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uniborne | 172939 | [172939-uniborne.json](./172939-uniborne.json) |
 | Unicellular | 185602 | [185602-unicellular.json](./185602-unicellular.json) |
 | Unichrome: A 1-Bit Unicorn Adventure | 204925 | [204925-unichrome-a-1-bit-unicorn-adventure.json](./204925-unichrome-a-1-bit-unicorn-adventure.json) |
+| Unico MVS Mini | 406132 | [406132-unico-mvs-mini.json](./406132-unico-mvs-mini.json) |
 | Unicopia | 311737 | [311737-unicopia.json](./311737-unicopia.json) |
 | Unicorn | 223672 | [223672-unicorn.json](./223672-unicorn.json) |
 | Unicorn Academy: Friendship Adventures | 382103 | [382103-unicorn-academy-friendship-adventures.json](./382103-unicorn-academy-friendship-adventures.json) |
