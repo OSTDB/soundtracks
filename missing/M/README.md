@@ -2988,7 +2988,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make or Break! | 406387 | [406387-make-or-break.json](./406387-make-or-break.json) |
 | Make Route | 109658 | [109658-make-route.json](./109658-make-route.json) |
 | Make Route: Escape the police | 117397 | [117397-make-route-escape-the-police.json](./117397-make-route-escape-the-police.json) |
-| Make Sail | 75419 | [75419-make-sail.json](./75419-make-sail.json) |
 | Make Sure It's Closed | 176491 | [176491-make-sure-its-closed.json](./176491-make-sure-its-closed.json) |
 | Make Ten | 300611 | [300611-make-ten.json](./300611-make-ten.json) |
 | Make That Date! | 313896 | [313896-make-that-date.json](./313896-make-that-date.json) |
