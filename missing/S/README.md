@@ -32851,7 +32851,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Harrier | 266328 | [266328-street-harrier.json](./266328-street-harrier.json) |
 | Street Hawk | 26215 | [26215-street-hawk.json](./26215-street-hawk.json) |
 | Street Heat | 40434 | [40434-street-heat.json](./40434-street-heat.json) |
-| Street Heat | 75998 | [75998-street-heat.json](./75998-street-heat.json) |
 | Street Hero | 150950 | [150950-street-hero.json](./150950-street-hero.json) |
 | Street Hero | 288129 | [288129-street-hero.json](./288129-street-hero.json) |
 | Street Hero | 46300 | [46300-street-hero.json](./46300-street-hero.json) |
