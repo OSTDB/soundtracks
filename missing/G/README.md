@@ -2436,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Sketch | 131553 | [131553-gas-station-sketch.json](./131553-gas-station-sketch.json) |
 | Gas Station Story | 285699 | [285699-gas-station-story.json](./285699-gas-station-story.json) |
 | Gas Station Tycoon | 261835 | [261835-gas-station-tycoon.json](./261835-gas-station-tycoon.json) |
+| Gas Station Tycoon | 431335 | [431335-gas-station-tycoon.json](./431335-gas-station-tycoon.json) |
 | Gas Station Weed Simulator 2024 | 323291 | [323291-gas-station-weed-simulator-2024.json](./323291-gas-station-weed-simulator-2024.json) |
 | Gas Station: Car Parking Sim | 89186 | [89186-gas-station-car-parking-sim.json](./89186-gas-station-car-parking-sim.json) |
 | Gas Station: Highway Services | 148001 | [148001-gas-station-highway-services.json](./148001-gas-station-highway-services.json) |
@@ -5634,6 +5635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glaxxons | 92945 | [92945-glaxxons.json](./92945-glaxxons.json) |
 | Glay: Complete Works | 286588 | [286588-glay-complete-works.json](./286588-glay-complete-works.json) |
 | Glaze Cup: Journey to the West | 164156 | [164156-glaze-cup-journey-to-the-west.json](./164156-glaze-cup-journey-to-the-west.json) |
+| Glaze Wings | 431334 | [431334-glaze-wings.json](./431334-glaze-wings.json) |
 | Glazed Mirror: Myriad Cards | 417338 | [417338-glazed-mirror-myriad-cards.json](./417338-glazed-mirror-myriad-cards.json) |
 | Glazeyard | 431301 | [431301-glazeyard.json](./431301-glazeyard.json) |
 | Gleam and The Eternal Night | 274075 | [274075-gleam-and-the-eternal-night.json](./274075-gleam-and-the-eternal-night.json) |
@@ -6183,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnart's Escape | 422973 | [422973-gnarts-escape.json](./422973-gnarts-escape.json) |
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
 | Gnaw | 372037 | [372037-gnaw.json](./372037-gnaw.json) |
+| GNI: Ver sin ser visto | 431743 | [431743-gni-ver-sin-ser-visto.json](./431743-gni-ver-sin-ser-visto.json) |
 | Gniffel | 144479 | [144479-gniffel.json](./144479-gniffel.json) |
 | Gnilley | 261307 | [261307-gnilley.json](./261307-gnilley.json) |
 | Gninja Pig | 237129 | [237129-gninja-pig.json](./237129-gninja-pig.json) |
@@ -9141,6 +9144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Mountain Adventure: Wonderlands | 186234 | [186234-grand-mountain-adventure-wonderlands.json](./186234-grand-mountain-adventure-wonderlands.json) |
 | Grand Mountain Adventure: Wonderlands - Limited Edition | 188166 | [188166-grand-mountain-adventure-wonderlands-limited-edition.json](./188166-grand-mountain-adventure-wonderlands-limited-edition.json) |
 | Grand National | 94329 | [94329-grand-national.json](./94329-grand-national.json) |
+| Grand Opening: The Apothecary | 431747 | [431747-grand-opening-the-apothecary.json](./431747-grand-opening-the-apothecary.json) |
 | Grand Order Mahjong | 82292 | [82292-grand-order-mahjong.json](./82292-grand-order-mahjong.json) |
 | Grand Ore Deal | 260103 | [260103-grand-ore-deal.json](./260103-grand-ore-deal.json) |
 | Grand Ouvert | 93106 | [93106-grand-ouvert.json](./93106-grand-ouvert.json) |
