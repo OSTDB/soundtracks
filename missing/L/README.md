@@ -492,7 +492,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrneath | 111055 | [111055-labyrneath.json](./111055-labyrneath.json) |
 | Labyrneath II | 225360 | [225360-labyrneath-ii.json](./225360-labyrneath-ii.json) |
 | Labyronia 2 | 137691 | [137691-labyronia-2.json](./137691-labyronia-2.json) |
-| Labyronia Elements | 75778 | [75778-labyronia-elements.json](./75778-labyronia-elements.json) |
 | Labyronia RPG | 34725 | [34725-labyronia-rpg.json](./34725-labyronia-rpg.json) |
 | Labyronia RPG 2 | 34593 | [34593-labyronia-rpg-2.json](./34593-labyronia-rpg-2.json) |
 | Lac Viet Journey | 374915 | [374915-lac-viet-journey.json](./374915-lac-viet-journey.json) |
@@ -840,7 +839,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land Fight | 91964 | [91964-land-fight.json](./91964-land-fight.json) |
 | Land It | 387514 | [387514-land-it.json](./387514-land-it.json) |
 | Land it Rocket | 33328 | [33328-land-it-rocket.json](./33328-land-it-rocket.json) |
-| Land It! | 76071 | [76071-land-it.json](./76071-land-it.json) |
 | Land Mine Land | 418396 | [418396-land-mine-land.json](./418396-land-mine-land.json) |
 | Land of an Endless Journey | 107509 | [107509-land-of-an-endless-journey.json](./107509-land-of-an-endless-journey.json) |
 | Land of Anima: The Research of Artificer | 347387 | [347387-land-of-anima-the-research-of-artificer.json](./347387-land-of-anima-the-research-of-artificer.json) |
@@ -1372,7 +1370,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Alive | 104823 | [104823-last-alive.json](./104823-last-alive.json) |
 | Last Alive | 37363 | [37363-last-alive.json](./37363-last-alive.json) |
 | Last Alliance: Total War | 356251 | [356251-last-alliance-total-war.json](./356251-last-alliance-total-war.json) |
-| Last Anime boy: Saving loli | 75643 | [75643-last-anime-boy-saving-loli.json](./75643-last-anime-boy-saving-loli.json) |
 | Last Answer | 30062 | [30062-last-answer.json](./30062-last-answer.json) |
 | Last Antagonist | 361885 | [361885-last-antagonist.json](./361885-last-antagonist.json) |
 | Last Archmage Journey of Light | 168010 | [168010-last-archmage-journey-of-light.json](./168010-last-archmage-journey-of-light.json) |
