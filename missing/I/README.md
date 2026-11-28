@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I | 407644 | [407644-i.json](./407644-i.json) |
 | I <3 You! | 107442 | [107442-i-3-you.json](./107442-i-3-you.json) |
 | I Accidentally Restarted the USSR | 167527 | [167527-i-accidentally-restarted-the-ussr.json](./167527-i-accidentally-restarted-the-ussr.json) |
+| I Accidentally Time-Traveled to the Year 2088 and All I Want to Do Is Wash My Robot Girlfriend! | 430114 | [430114-i-accidentally-time-traveled-to-the-year-2088-and-all-i-want-to-do-is-wash-my-robot-girlfriend.json](./430114-i-accidentally-time-traveled-to-the-year-2088-and-all-i-want-to-do-is-wash-my-robot-girlfriend.json) |
 | I Accidently Insulted a Witch and Now All of My Clothes Are Sentient and They Hate Me! | 178810 | [178810-i-accidently-insulted-a-witch-and-now-all-of-my-clothes-are-sentient-and-they-hate-me.json](./178810-i-accidently-insulted-a-witch-and-now-all-of-my-clothes-are-sentient-and-they-hate-me.json) |
 | I Alien | 54600 | [54600-i-alien.json](./54600-i-alien.json) |
 | I Am | 98610 | [98610-i-am.json](./98610-i-am.json) |
@@ -5619,6 +5620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interastra | 147226 | [147226-interastra.json](./147226-interastra.json) |
 | Interballistic Symphony | 264804 | [264804-interballistic-symphony.json](./264804-interballistic-symphony.json) |
 | Interblocked | 257529 | [257529-interblocked.json](./257529-interblocked.json) |
+| Intercarrotal | 430192 | [430192-intercarrotal.json](./430192-intercarrotal.json) |
 | Intercept | 234087 | [234087-intercept.json](./234087-intercept.json) |
 | Intercept 2 | 215346 | [215346-intercept-2.json](./215346-intercept-2.json) |
 | Intercept Course | 422229 | [422229-intercept-course.json](./422229-intercept-course.json) |
