@@ -2771,7 +2771,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Ray Space Adventure | 200210 | [200210-john-ray-space-adventure.json](./200210-john-ray-space-adventure.json) |
 | John Saul's Blackstone Chronicles | 3223 | [3223-john-sauls-blackstone-chronicles.json](./3223-john-sauls-blackstone-chronicles.json) |
 | John Sinclair: Evil Attacks | 73919 | [73919-john-sinclair-evil-attacks.json](./73919-john-sinclair-evil-attacks.json) |
-| John the Zombie | 75333 | [75333-john-the-zombie.json](./75333-john-the-zombie.json) |
 | John Tiller's Campaign Series | 129544 | [129544-john-tillers-campaign-series.json](./129544-john-tillers-campaign-series.json) |
 | John Wheel Memorial | 269568 | [269568-john-wheel-memorial.json](./269568-john-wheel-memorial.json) |
 | John Wick | 143750 | [143750-john-wick.json](./143750-john-wick.json) |
@@ -3679,7 +3678,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Frog | 372402 | [372402-jump-frog.json](./372402-jump-frog.json) |
 | Jump Generation | 74995 | [74995-jump-generation.json](./74995-jump-generation.json) |
 | Jump Greed | 363563 | [363563-jump-greed.json](./363563-jump-greed.json) |
-| Jump Gunners | 75296 | [75296-jump-gunners.json](./75296-jump-gunners.json) |
 | Jump Guy | 424197 | [424197-jump-guy.json](./424197-jump-guy.json) |
 | Jump Heading | 206555 | [206555-jump-heading.json](./206555-jump-heading.json) |
 | Jump Heat | 391104 | [391104-jump-heat.json](./391104-jump-heat.json) |
