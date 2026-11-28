@@ -1365,7 +1365,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegetables Deluxe C64 | 135016 | [135016-vegetables-deluxe-c64.json](./135016-vegetables-deluxe-c64.json) |
 | Vegetarian Alliance | 119683 | [119683-vegetarian-alliance.json](./119683-vegetarian-alliance.json) |
 | Veggie Eggs | 373561 | [373561-veggie-eggs.json](./373561-veggie-eggs.json) |
-| Veggie Killer | 86334 | [86334-veggie-killer.json](./86334-veggie-killer.json) |
 | Veggie Killer Remastered | 127093 | [127093-veggie-killer-remastered.json](./127093-veggie-killer-remastered.json) |
 | Veggie Menace | 203926 | [203926-veggie-menace.json](./203926-veggie-menace.json) |
 | Veggie Panino Tactics | 323787 | [323787-veggie-panino-tactics.json](./323787-veggie-panino-tactics.json) |
@@ -2499,7 +2498,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viki Spotter: Complete Bundle | 268331 | [268331-viki-spotter-complete-bundle.json](./268331-viki-spotter-complete-bundle.json) |
 | Viki Spotter: Professions | 109387 | [109387-viki-spotter-professions.json](./109387-viki-spotter-professions.json) |
 | Viki Spotter: The Farm | 83539 | [83539-viki-spotter-the-farm.json](./83539-viki-spotter-the-farm.json) |
-| Viki Spotter: Undersea | 84091 | [84091-viki-spotter-undersea.json](./84091-viki-spotter-undersea.json) |
 | Vikindor | 207305 | [207305-vikindor.json](./207305-vikindor.json) |
 | Viking | 41184 | [41184-viking.json](./41184-viking.json) |
 | Viking Age | 251262 | [251262-viking-age.json](./251262-viking-age.json) |
