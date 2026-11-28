@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-28T11:45:55.027Z",
-  "total_soundtracks": 3965,
+  "generated_at": "2026-11-28T12:45:53.810Z",
+  "total_soundtracks": 3966,
   "games": [
     {
       "igdb_id": 292844,
@@ -20045,6 +20045,20 @@
         {
           "album_name": "Hill Climb Racing 2 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/49RmnLfJJVkFxMnVj470fU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 76040,
+      "game_name": "Himeko Sutori",
+      "game_url": "https://ostdb.net/games/himeko-sutori",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737910718c77620aa822f7b994",
+      "albums": [
+        {
+          "album_name": "Himeko Sutori Original Soundtrack ~ Selections ~",
+          "spotify_url": "https://open.spotify.com/album/142epP20zITDTpm2KDpH5L",
           "apple_music_url": "",
           "album_link_url": ""
         }
