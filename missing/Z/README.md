@@ -1959,7 +1959,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Gorge: Survival Defense | 385064 | [385064-zombie-gorge-survival-defense.json](./385064-zombie-gorge-survival-defense.json) |
 | Zombie Gotchi | 34523 | [34523-zombie-gotchi.json](./34523-zombie-gotchi.json) |
 | Zombie Graveyard Simulator | 333007 | [333007-zombie-graveyard-simulator.json](./333007-zombie-graveyard-simulator.json) |
-| Zombie Grinder | 86124 | [86124-zombie-grinder.json](./86124-zombie-grinder.json) |
 | Zombie Groove | 148861 | [148861-zombie-groove.json](./148861-zombie-groove.json) |
 | Zombie Gunship | 65326 | [65326-zombie-gunship.json](./65326-zombie-gunship.json) |
 | Zombie Gunship Revenant AR | 87281 | [87281-zombie-gunship-revenant-ar.json](./87281-zombie-gunship-revenant-ar.json) |
