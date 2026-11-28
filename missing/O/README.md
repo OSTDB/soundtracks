@@ -874,7 +874,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssée Numérique | 242946 | [242946-odyssee-numerique.json](./242946-odyssee-numerique.json) |
 | Odysseus | 178255 | [178255-odysseus.json](./178255-odysseus.json) |
 | Odysseus Kosmos and his Robot Quest | 65838 | [65838-odysseus-kosmos-and-his-robot-quest.json](./65838-odysseus-kosmos-and-his-robot-quest.json) |
-| Odysseus Kosmos and his Robot Quest: Episode 1 | 81812 | [81812-odysseus-kosmos-and-his-robot-quest-episode-1.json](./81812-odysseus-kosmos-and-his-robot-quest-episode-1.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 2 | 171339 | [171339-odysseus-kosmos-and-his-robot-quest-episode-2.json](./171339-odysseus-kosmos-and-his-robot-quest-episode-2.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 3 | 171325 | [171325-odysseus-kosmos-and-his-robot-quest-episode-3.json](./171325-odysseus-kosmos-and-his-robot-quest-episode-3.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 4 | 171524 | [171524-odysseus-kosmos-and-his-robot-quest-episode-4.json](./171524-odysseus-kosmos-and-his-robot-quest-episode-4.json) |
@@ -1825,7 +1824,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OlliOlli: Epic Combo Edition | 46025 | [46025-olliolli-epic-combo-edition.json](./46025-olliolli-epic-combo-edition.json) |
 | OlliOlli: Switch Stance | 113568 | [113568-olliolli-switch-stance.json](./113568-olliolli-switch-stance.json) |
 | OlliOlli2: Welcome to Olliwood | 9523 | [9523-olliolli2-welcome-to-olliwood.json](./9523-olliolli2-welcome-to-olliwood.json) |
-| OlliOlli2: XL Edition | 82442 | [82442-olliolli2-xl-edition.json](./82442-olliolli2-xl-edition.json) |
 | Olllo | 288313 | [288313-olllo.json](./288313-olllo.json) |
 | Ollo | 22183 | [22183-ollo.json](./22183-ollo.json) |
 | Ollo in the Sunny Valley Fair | 122219 | [122219-ollo-in-the-sunny-valley-fair.json](./122219-ollo-in-the-sunny-valley-fair.json) |
@@ -2414,7 +2412,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Crime | 73951 | [73951-once-upon-a-crime.json](./73951-once-upon-a-crime.json) |
 | Once Upon a Crime in the West | 118841 | [118841-once-upon-a-crime-in-the-west.json](./118841-once-upon-a-crime-in-the-west.json) |
 | Once Upon a Death | 115696 | [115696-once-upon-a-death.json](./115696-once-upon-a-death.json) |
-| Once upon a Dungeon | 81885 | [81885-once-upon-a-dungeon.json](./81885-once-upon-a-dungeon.json) |
 | Once upon a Dungeon II | 226727 | [226727-once-upon-a-dungeon-ii.json](./226727-once-upon-a-dungeon-ii.json) |
 | Once Upon a Dungeon: Infinity | 327951 | [327951-once-upon-a-dungeon-infinity.json](./327951-once-upon-a-dungeon-infinity.json) |
 | Once upon a Farm | 54267 | [54267-once-upon-a-farm.json](./54267-once-upon-a-farm.json) |
@@ -5827,7 +5824,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak | 377163 | [377163-outbreak.json](./377163-outbreak.json) |
 | Outbreak | 77034 | [77034-outbreak.json](./77034-outbreak.json) |
 | Outbreak 2030 | 237076 | [237076-outbreak-2030.json](./237076-outbreak-2030.json) |
-| Outbreak Bundle | 83761 | [83761-outbreak-bundle.json](./83761-outbreak-bundle.json) |
 | Outbreak Co-Op Anthology | 164710 | [164710-outbreak-co-op-anthology.json](./164710-outbreak-co-op-anthology.json) |
 | Outbreak Co-Op Nightmares | 207943 | [207943-outbreak-co-op-nightmares.json](./207943-outbreak-co-op-nightmares.json) |
 | Outbreak Contagion Co-Op Collection | 340740 | [340740-outbreak-contagion-co-op-collection.json](./340740-outbreak-contagion-co-op-collection.json) |
@@ -6198,7 +6194,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outside | 339895 | [339895-outside.json](./339895-outside.json) |
 | Outside | 341526 | [341526-outside.json](./341526-outside.json) |
 | Outside | 385260 | [385260-outside.json](./385260-outside.json) |
-| Outside | 83664 | [83664-outside.json](./83664-outside.json) |
 | Outside Agent | 341291 | [341291-outside-agent.json](./341291-outside-agent.json) |
 | Outside of Our Own | 184127 | [184127-outside-of-our-own.json](./184127-outside-of-our-own.json) |
 | Outside Parties | 272473 | [272473-outside-parties.json](./272473-outside-parties.json) |
@@ -6650,7 +6645,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overturn: Mecha Wars | 71945 | [71945-overturn-mecha-wars.json](./71945-overturn-mecha-wars.json) |
 | Overtype | 391015 | [391015-overtype.json](./391015-overtype.json) |
 | Overvåkerne | 338108 | [338108-overvakerne.json](./338108-overvakerne.json) |
-| Overview | 81946 | [81946-overview.json](./81946-overview.json) |
 | Overview: Rain Echoes | 325063 | [325063-overview-rain-echoes.json](./325063-overview-rain-echoes.json) |
 | Overvoid | 419333 | [419333-overvoid.json](./419333-overvoid.json) |
 | OverWall | 188728 | [188728-overwall.json](./188728-overwall.json) |
