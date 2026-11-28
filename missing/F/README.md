@@ -4819,7 +4819,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feywing | 269254 | [269254-feywing.json](./269254-feywing.json) |
 | Feywood Wanderers | 351371 | [351371-feywood-wanderers.json](./351371-feywood-wanderers.json) |
 | Fez II | 63291 | [63291-fez-ii.json](./63291-fez-ii.json) |
-| Fez Pocket Edition | 78543 | [78543-fez-pocket-edition.json](./78543-fez-pocket-edition.json) |
 | Feztal | 176887 | [176887-feztal.json](./176887-feztal.json) |
 | Ff | 122660 | [122660-ff.json](./122660-ff.json) |
 | FF Link | 311806 | [311806-ff-link.json](./311806-ff-link.json) |
@@ -11429,7 +11428,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Zombies | 88682 | [88682-forest-zombies.json](./88682-forest-zombies.json) |
 | Forest: The Call For Help | 370702 | [370702-forest-the-call-for-help.json](./370702-forest-the-call-for-help.json) |
 | Forest's Secret | 138716 | [138716-forests-secret.json](./138716-forests-secret.json) |
-| Forestation | 76446 | [76446-forestation.json](./76446-forestation.json) |
 | Forestation: Circles of Nature | 118325 | [118325-forestation-circles-of-nature.json](./118325-forestation-circles-of-nature.json) |
 | Forested Super Mario Bros. U | 314122 | [314122-forested-super-mario-bros-u.json](./314122-forested-super-mario-bros-u.json) |
 | Forester | 422619 | [422619-forester.json](./422619-forester.json) |
@@ -13286,7 +13284,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franko: The Crazy Revenge | 46996 | [46996-franko-the-crazy-revenge.json](./46996-franko-the-crazy-revenge.json) |
 | Franky Lettuce | 113667 | [113667-franky-lettuce.json](./113667-franky-lettuce.json) |
 | Franky Psychedelic Adventure | 427668 | [427668-franky-psychedelic-adventure.json](./427668-franky-psychedelic-adventure.json) |
-| Franky the Bumwalker | 76493 | [76493-franky-the-bumwalker.json](./76493-franky-the-bumwalker.json) |
 | Franky the Bumwalker: Reborn | 172327 | [172327-franky-the-bumwalker-reborn.json](./172327-franky-the-bumwalker-reborn.json) |
 | Franky, Joe & Dirk... On the Tiles | 49049 | [49049-franky-joe-and-dirk-on-the-tiles.json](./49049-franky-joe-and-dirk-on-the-tiles.json) |
 | Franky's Adventures | 283562 | [283562-frankys-adventures.json](./283562-frankys-adventures.json) |
@@ -16389,7 +16386,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Vox Imaginarium Dot Exe V1.1: Doge Lover Edition | 198445 | [198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json](./198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json) |
 | Future War and World II Bundle | 116006 | [116006-future-war-and-world-ii-bundle.json](./116006-future-war-and-world-ii-bundle.json) |
 | Future War Tactics: SOF vs. Alien Invasion - Turn-based Strategy | 348829 | [348829-future-war-tactics-sof-vs-alien-invasion-turn-based-strategy.json](./348829-future-war-tactics-sof-vs-alien-invasion-turn-based-strategy.json) |
-| Future War: Reborn | 78061 | [78061-future-war-reborn.json](./78061-future-war-reborn.json) |
 | Future Wars | 2478 | [2478-future-wars.json](./2478-future-wars.json) |
 | Future Wars | 27892 | [27892-future-wars.json](./27892-future-wars.json) |
 | Future Weapon | 257271 | [257271-future-weapon.json](./257271-future-weapon.json) |
