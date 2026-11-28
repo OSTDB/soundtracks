@@ -2392,7 +2392,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkBazaar | 393654 | [393654-darkbazaar.json](./393654-darkbazaar.json) |
 | DarkBind | 197330 | [197330-darkbind.json](./197330-darkbind.json) |
 | Darkblade Ascent | 249201 | [249201-darkblade-ascent.json](./249201-darkblade-ascent.json) |
-| Darkblood Chronicles | 75833 | [75833-darkblood-chronicles.json](./75833-darkblood-chronicles.json) |
 | DarkBlood Gaiden | 238795 | [238795-darkblood-gaiden.json](./238795-darkblood-gaiden.json) |
 | DarkBlood Reborn | 151765 | [151765-darkblood-reborn.json](./151765-darkblood-reborn.json) |
 | DarkBlood: Reverse | 348868 | [348868-darkblood-reverse.json](./348868-darkblood-reverse.json) |
@@ -6153,7 +6152,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Frost | 422599 | [422599-deep-frost.json](./422599-deep-frost.json) |
 | Deep Fry | 381904 | [381904-deep-fry.json](./381904-deep-fry.json) |
 | Deep Fry Maker | 227520 | [227520-deep-fry-maker.json](./227520-deep-fry-maker.json) |
-| Deep GachiGasm | 75271 | [75271-deep-gachigasm.json](./75271-deep-gachigasm.json) |
 | Deep Golf | 250658 | [250658-deep-golf.json](./250658-deep-golf.json) |
 | Deep Haul | 415544 | [415544-deep-haul.json](./415544-deep-haul.json) |
 | Deep Hole | 115373 | [115373-deep-hole.json](./115373-deep-hole.json) |
@@ -13083,7 +13081,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJbox | 269399 | [269399-djbox.json](./269399-djbox.json) |
 | Djiguli | 143892 | [143892-djiguli.json](./143892-djiguli.json) |
 | Djikstra's Enigmatic Puzzle Cube | 278423 | [278423-djikstras-enigmatic-puzzle-cube.json](./278423-djikstras-enigmatic-puzzle-cube.json) |
-| Djilyaro | 75615 | [75615-djilyaro.json](./75615-djilyaro.json) |
 | Djinn Caster | 129605 | [129605-djinn-caster.json](./129605-djinn-caster.json) |
 | Djinn Scrolls | 388777 | [388777-djinn-scrolls.json](./388777-djinn-scrolls.json) |
 | Djinn: The Forbidden Knowledge | 302578 | [302578-djinn-the-forbidden-knowledge.json](./302578-djinn-the-forbidden-knowledge.json) |
@@ -16525,7 +16522,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr Dokkoy | 313541 | [313541-dr-dokkoy.json](./313541-dr-dokkoy.json) |
 | DR Dominoes | 418928 | [418928-dr-dominoes.json](./418928-dr-dominoes.json) |
 | Dr Goo | 333706 | [333706-dr-goo.json](./333706-dr-goo.json) |
-| Dr GreenStuff | 75216 | [75216-dr-greenstuff.json](./75216-dr-greenstuff.json) |
 | Dr Iwan | 167598 | [167598-dr-iwan.json](./167598-dr-iwan.json) |
 | Dr Jugo | 404446 | [404446-dr-jugo.json](./404446-dr-jugo.json) |
 | Dr Livesey Rom and Death Edition | 224897 | [224897-dr-livesey-rom-and-death-edition.json](./224897-dr-livesey-rom-and-death-edition.json) |
@@ -16864,7 +16860,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Basketball 16 | 24359 | [24359-draft-day-sports-pro-basketball-16.json](./24359-draft-day-sports-pro-basketball-16.json) |
 | Draft Day Sports: Pro Basketball 2016 | 58891 | [58891-draft-day-sports-pro-basketball-2016.json](./58891-draft-day-sports-pro-basketball-2016.json) |
 | Draft Day Sports: Pro Basketball 2017 | 30908 | [30908-draft-day-sports-pro-basketball-2017.json](./30908-draft-day-sports-pro-basketball-2017.json) |
-| Draft Day Sports: Pro Basketball 2018 | 75713 | [75713-draft-day-sports-pro-basketball-2018.json](./75713-draft-day-sports-pro-basketball-2018.json) |
 | Draft Day Sports: Pro Basketball 2019 | 111623 | [111623-draft-day-sports-pro-basketball-2019.json](./111623-draft-day-sports-pro-basketball-2019.json) |
 | Draft Day Sports: Pro Basketball 2020 | 126983 | [126983-draft-day-sports-pro-basketball-2020.json](./126983-draft-day-sports-pro-basketball-2020.json) |
 | Draft Day Sports: Pro Basketball 2021 | 137868 | [137868-draft-day-sports-pro-basketball-2021.json](./137868-draft-day-sports-pro-basketball-2021.json) |
@@ -18380,7 +18375,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreadChase | 53983 | [53983-dreadchase.json](./53983-dreadchase.json) |
 | Dreadcore: Locked Unit | 354556 | [354556-dreadcore-locked-unit.json](./354556-dreadcore-locked-unit.json) |
 | Dreader | 176487 | [176487-dreader.json](./176487-dreader.json) |
-| DreadEye VR | 75167 | [75167-dreadeye-vr.json](./75167-dreadeye-vr.json) |
 | DreadFall | 260241 | [260241-dreadfall.json](./260241-dreadfall.json) |
 | Dreadfire | 217041 | [217041-dreadfire.json](./217041-dreadfire.json) |
 | Dreadfold | 397901 | [397901-dreadfold.json](./397901-dreadfold.json) |
@@ -19523,7 +19517,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive! | 269164 | [269164-drive.json](./269164-drive.json) |
 | Drive!Drive!Drive! | 13231 | [13231-drive-drive-drive.json](./13231-drive-drive-drive.json) |
 | Drive.RS | 252324 | [252324-drive-rs.json](./252324-drive-rs.json) |
-| Drive//Shaft | 75921 | [75921-drive-shaft.json](./75921-drive-shaft.json) |
 | Driveby Gangster | 34452 | [34452-driveby-gangster.json](./34452-driveby-gangster.json) |
 | Driveclub Bikes | 14369 | [14369-driveclub-bikes.json](./14369-driveclub-bikes.json) |
 | Driveclub VR | 24921 | [24921-driveclub-vr.json](./24921-driveclub-vr.json) |
