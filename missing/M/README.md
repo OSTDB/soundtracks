@@ -4119,7 +4119,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March of War: StormSiege | 170494 | [170494-march-of-war-stormsiege.json](./170494-march-of-war-stormsiege.json) |
 | March on Oz | 62941 | [62941-march-on-oz.json](./62941-march-on-oz.json) |
 | March to a Million | 56730 | [56730-march-to-a-million.json](./56730-march-to-a-million.json) |
-| March to Glory | 83827 | [83827-march-to-glory.json](./83827-march-to-glory.json) |
 | March to the Heart | 349313 | [349313-march-to-the-heart.json](./349313-march-to-the-heart.json) |
 | March, March! European Warfare | 242962 | [242962-march-march-european-warfare.json](./242962-march-march-european-warfare.json) |
 | March! March! | 173197 | [173197-march-march.json](./173197-march-march.json) |
@@ -5963,7 +5962,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Magic: Rise of the Soultrapped | 256261 | [256261-master-of-magic-rise-of-the-soultrapped.json](./256261-master-of-magic-rise-of-the-soultrapped.json) |
 | Master of Magic: Scourge of the Seas | 280347 | [280347-master-of-magic-scourge-of-the-seas.json](./280347-master-of-magic-scourge-of-the-seas.json) |
 | Master of Marbles | 32435 | [32435-master-of-marbles.json](./32435-master-of-marbles.json) |
-| Master of Meteor Blades | 81419 | [81419-master-of-meteor-blades.json](./81419-master-of-meteor-blades.json) |
 | Master of Miracles | 153318 | [153318-master-of-miracles.json](./153318-master-of-miracles.json) |
 | Master of Monsters | 387005 | [387005-master-of-monsters.json](./387005-master-of-monsters.json) |
 | Master of Monsters | 387013 | [387013-master-of-monsters.json](./387013-master-of-monsters.json) |
@@ -7018,7 +7016,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayak | 378419 | [378419-mayak.json](./378419-mayak.json) |
 | Mayan | 271363 | [271363-mayan.json](./271363-mayan.json) |
 | Mayan Death Robots | 13185 | [13185-mayan-death-robots.json](./13185-mayan-death-robots.json) |
-| Mayan Death Robots: Arena | 82444 | [82444-mayan-death-robots-arena.json](./82444-mayan-death-robots-arena.json) |
 | Mayan Mishap | 256820 | [256820-mayan-mishap.json](./256820-mayan-mishap.json) |
 | Mayan Monster Mayhem: Episode 1 - River Rapids Rampage | 337132 | [337132-mayan-monster-mayhem-episode-1-river-rapids-rampage.json](./337132-mayan-monster-mayhem-episode-1-river-rapids-rampage.json) |
 | Mayan Monster Mayhem: Episode 2 - Creepy Cave Cave-In | 337133 | [337133-mayan-monster-mayhem-episode-2-creepy-cave-cave-in.json](./337133-mayan-monster-mayhem-episode-2-creepy-cave-cave-in.json) |
@@ -14049,7 +14046,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind the Dragon | 347011 | [347011-mind-the-dragon.json](./347011-mind-the-dragon.json) |
 | Mind the Pipes! | 234708 | [234708-mind-the-pipes.json](./234708-mind-the-pipes.json) |
 | Mind the Trap | 21651 | [21651-mind-the-trap.json](./21651-mind-the-trap.json) |
-| Mind the Vikings | 81714 | [81714-mind-the-vikings.json](./81714-mind-the-vikings.json) |
 | Mind Trap | 55585 | [55585-mind-trap.json](./55585-mind-trap.json) |
 | Mind Trap | 98378 | [98378-mind-trap.json](./98378-mind-trap.json) |
 | Mind Twins | 81832 | [81832-mind-twins.json](./81832-mind-twins.json) |
@@ -14873,7 +14869,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Kaizo Bros. 3 | 220782 | [220782-mini-kaizo-bros-3.json](./220782-mini-kaizo-bros-3.json) |
 | Mini Kart Racing | 154356 | [154356-mini-kart-racing.json](./154356-mini-kart-racing.json) |
 | Mini Kingdom War | 330650 | [330650-mini-kingdom-war.json](./330650-mini-kingdom-war.json) |
-| Mini Knight | 83488 | [83488-mini-knight.json](./83488-mini-knight.json) |
 | Mini Knight's Journey | 236571 | [236571-mini-knights-journey.json](./236571-mini-knights-journey.json) |
 | Mini Kyodai Robo Goemon Compact | 186457 | [186457-mini-kyodai-robo-goemon-compact.json](./186457-mini-kyodai-robo-goemon-compact.json) |
 | Mini Lax Sim 24 | 311836 | [311836-mini-lax-sim-24.json](./311836-mini-lax-sim-24.json) |
@@ -16116,7 +16111,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Earth | 413391 | [413391-mission-earth.json](./413391-mission-earth.json) |
 | Mission: Escape | 271726 | [271726-mission-escape.json](./271726-mission-escape.json) |
 | Mission: Escape from Island | 38816 | [38816-mission-escape-from-island.json](./38816-mission-escape-from-island.json) |
-| Mission: Escape from Island 2 | 82472 | [82472-mission-escape-from-island-2.json](./82472-mission-escape-from-island-2.json) |
 | Mission: Escape from Island 3 | 82473 | [82473-mission-escape-from-island-3.json](./82473-mission-escape-from-island-3.json) |
 | Mission: Humanity | 73325 | [73325-mission-humanity.json](./73325-mission-humanity.json) |
 | Mission: Impossible | 118557 | [118557-mission-impossible.json](./118557-mission-impossible.json) |
@@ -22266,7 +22260,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mummy: Egyptian Puzzle | 313460 | [313460-mummy-egyptian-puzzle.json](./313460-mummy-egyptian-puzzle.json) |
 | Mummy: Tomb of the Pharaoh | 73906 | [73906-mummy-tomb-of-the-pharaoh.json](./73906-mummy-tomb-of-the-pharaoh.json) |
 | Mummy's Curse | 24852 | [24852-mummys-curse.json](./24852-mummys-curse.json) |
-| Mumps | 81970 | [81970-mumps.json](./81970-mumps.json) |
 | Mumsaren | 92938 | [92938-mumsaren.json](./92938-mumsaren.json) |
 | Mumu Boukenki Amusing Dream | 264311 | [264311-mumu-boukenki-amusing-dream.json](./264311-mumu-boukenki-amusing-dream.json) |
 | Mumu's Soup Adventure | 250314 | [250314-mumus-soup-adventure.json](./250314-mumus-soup-adventure.json) |
@@ -23438,7 +23431,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Coloring Book 2 | 196184 | [196184-my-coloring-book-2.json](./196184-my-coloring-book-2.json) |
 | My Coloring Book: Animals | 68658 | [68658-my-coloring-book-animals.json](./68658-my-coloring-book-animals.json) |
 | My Coloring Book: Food and Beverage | 76785 | [76785-my-coloring-book-food-and-beverage.json](./76785-my-coloring-book-food-and-beverage.json) |
-| My Coloring Book: Professions | 82285 | [82285-my-coloring-book-professions.json](./82285-my-coloring-book-professions.json) |
 | My Coloring Book: Transport | 81110 | [81110-my-coloring-book-transport.json](./81110-my-coloring-book-transport.json) |
 | My Coloring Books: 2 in 1 Bundle | 400069 | [400069-my-coloring-books-2-in-1-bundle.json](./400069-my-coloring-books-2-in-1-bundle.json) |
 | My Company and I Fell Into an RPG | 132217 | [132217-my-company-and-i-fell-into-an-rpg.json](./132217-my-company-and-i-fell-into-an-rpg.json) |
@@ -24058,7 +24050,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Blacksmith | 79684 | [79684-my-little-blacksmith.json](./79684-my-little-blacksmith.json) |
 | My Little Blacksmith Shop | 55819 | [55819-my-little-blacksmith-shop.json](./55819-my-little-blacksmith-shop.json) |
 | My Little Blood Cult: Let's Summon Demons | 264791 | [264791-my-little-blood-cult-lets-summon-demons.json](./264791-my-little-blood-cult-lets-summon-demons.json) |
-| My Little Bomb | 81920 | [81920-my-little-bomb.json](./81920-my-little-bomb.json) |
 | My Little Booth Bundle | 216365 | [216365-my-little-booth-bundle.json](./216365-my-little-booth-bundle.json) |
 | My Little Cafe Nightmare | 348334 | [348334-my-little-cafe-nightmare.json](./348334-my-little-cafe-nightmare.json) |
 | My Little Car Wash | 174238 | [174238-my-little-car-wash.json](./174238-my-little-car-wash.json) |
