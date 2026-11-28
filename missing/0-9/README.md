@@ -1226,9 +1226,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10Six Online | 94316 | [94316-10six-online.json](./94316-10six-online.json) |
 | 10th Corpse | 172960 | [172960-10th-corpse.json](./172960-10th-corpse.json) |
 | 10th Frame | 2373 | [2373-10th-frame.json](./2373-10th-frame.json) |
-| 10tons Action Puzzle Bundle | 83747 | [83747-10tons-action-puzzle-bundle.json](./83747-10tons-action-puzzle-bundle.json) |
-| 10tons Adventure Puzzles Bundle | 82461 | [82461-10tons-adventure-puzzles-bundle.json](./82461-10tons-adventure-puzzles-bundle.json) |
-| 10tons Cyberpunk Bundle | 83746 | [83746-10tons-cyberpunk-bundle.json](./83746-10tons-cyberpunk-bundle.json) |
 | 10x10 Pirates | 431362 | [431362-10x10-pirates.json](./431362-10x10-pirates.json) |
 | 10x1024 | 276898 | [276898-10x1024.json](./276898-10x1024.json) |
 | 11 Card Games | 268072 | [268072-11-card-games.json](./268072-11-card-games.json) |
@@ -3950,7 +3947,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-gatsu 7-ka no Amayadori | 403956 | [403956-8-gatsu-7-ka-no-amayadori.json](./403956-8-gatsu-7-ka-no-amayadori.json) |
 | 8-Hour Workday | 399003 | [399003-8-hour-workday.json](./399003-8-hour-workday.json) |
 | 8-in-1 Games | 247011 | [247011-8-in-1-games.json](./247011-8-in-1-games.json) |
-| 8-in-1 IQ Scale Bundle | 81896 | [81896-8-in-1-iq-scale-bundle.json](./81896-8-in-1-iq-scale-bundle.json) |
 | 8-man Iriguchi | 316664 | [316664-8-man-iriguchi.json](./316664-8-man-iriguchi.json) |
 | 8-Second Records | 379077 | [379077-8-second-records.json](./379077-8-second-records.json) |
 | 8:00 AM: Still Morning | 394616 | [394616-8-00-am-still-morning.json](./394616-8-00-am-still-morning.json) |
