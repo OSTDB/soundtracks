@@ -6870,7 +6870,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pic-a-Pix Classic 2 | 140423 | [140423-pic-a-pix-classic-2.json](./140423-pic-a-pix-classic-2.json) |
 | Pic-a-Pix Color | 82591 | [82591-pic-a-pix-color.json](./82591-pic-a-pix-color.json) |
 | Pic-a-Pix Color 2 | 120799 | [120799-pic-a-pix-color-2.json](./120799-pic-a-pix-color-2.json) |
-| Pic-a-Pix Deluxe | 84825 | [84825-pic-a-pix-deluxe.json](./84825-pic-a-pix-deluxe.json) |
 | Pic-a-Pix Deluxe: Pic-a-Pix Color | 403408 | [403408-pic-a-pix-deluxe-pic-a-pix-color.json](./403408-pic-a-pix-deluxe-pic-a-pix-color.json) |
 | Pic-a-Pix Pieces | 114052 | [114052-pic-a-pix-pieces.json](./114052-pic-a-pix-pieces.json) |
 | Pic-a-Pix Pieces 2 | 140424 | [140424-pic-a-pix-pieces-2.json](./140424-pic-a-pix-pieces-2.json) |
@@ -7339,6 +7338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pierre Hotel | 310637 | [310637-pierre-hotel.json](./310637-pierre-hotel.json) |
 | Pierre le Chef is... Out to Lunch | 39042 | [39042-pierre-le-chef-is-out-to-lunch.json](./39042-pierre-le-chef-is-out-to-lunch.json) |
 | Pierre le Chef is... Out to Lunch | 42476 | [42476-pierre-le-chef-is-out-to-lunch.json](./42476-pierre-le-chef-is-out-to-lunch.json) |
+| Pierre Qui Roule | 405711 | [405711-pierre-qui-roule.json](./405711-pierre-qui-roule.json) |
 | Pierre's Adventures in French | 221784 | [221784-pierres-adventures-in-french.json](./221784-pierres-adventures-in-french.json) |
 | Pierrot | 396666 | [396666-pierrot.json](./396666-pierrot.json) |
 | Pierrot à la Mode | 340572 | [340572-pierrot-a-la-mode.json](./340572-pierrot-a-la-mode.json) |
@@ -11005,6 +11005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: Battle for Neighborville - Complete Edition | 142819 | [142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json](./142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json) |
 | Plants vs. Zombies: Battle for Neighborville - Deluxe Edition | 136356 | [136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json](./136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json) |
 | Plants vs. Zombies: Cubed | 272801 | [272801-plants-vs-zombies-cubed.json](./272801-plants-vs-zombies-cubed.json) |
+| Plants vs. Zombies: Dave Workshop | 417558 | [417558-plants-vs-zombies-dave-workshop.json](./417558-plants-vs-zombies-dave-workshop.json) |
 | Plants Vs. Zombies: DLC Edition | 375715 | [375715-plants-vs-zombies-dlc-edition.json](./375715-plants-vs-zombies-dlc-edition.json) |
 | Plants vs. Zombies: Endless Edition | 287882 | [287882-plants-vs-zombies-endless-edition.json](./287882-plants-vs-zombies-endless-edition.json) |
 | Plants vs. Zombies: Fusion | 330905 | [330905-plants-vs-zombies-fusion.json](./330905-plants-vs-zombies-fusion.json) |
@@ -13188,6 +13189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon PureGreen | 333902 | [333902-pokemon-puregreen.json](./333902-pokemon-puregreen.json) |
 | Pokémon PureRed | 333901 | [333901-pokemon-purered.json](./333901-pokemon-purered.json) |
 | Pokémon Puzzle Challenge | 49857 | [49857-pokemon-puzzle-challenge.json](./49857-pokemon-puzzle-challenge.json) |
+| Pokémon Puzzle Challenge: Online Challenge | 396070 | [396070-pokemon-puzzle-challenge-online-challenge.json](./396070-pokemon-puzzle-challenge-online-challenge.json) |
 | Pokémon Puzzle Collection | 66028 | [66028-pokemon-puzzle-collection.json](./66028-pokemon-puzzle-collection.json) |
 | Pokémon Puzzle Collection Vol. 2 | 66027 | [66027-pokemon-puzzle-collection-vol-2.json](./66027-pokemon-puzzle-collection-vol-2.json) |
 | Pokémon Puzzle League | 3574 | [3574-pokemon-puzzle-league.json](./3574-pokemon-puzzle-league.json) |
@@ -14635,7 +14637,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Idol: The Official Video Game | 65883 | [65883-pop-idol-the-official-video-game.json](./65883-pop-idol-the-official-video-game.json) |
 | Pop in Q: Dance for Quintet | 392574 | [392574-pop-in-q-dance-for-quintet.json](./392574-pop-in-q-dance-for-quintet.json) |
 | Pop Island | 68124 | [68124-pop-island.json](./68124-pop-island.json) |
-| Pop Island: Paperfield | 84811 | [84811-pop-island-paperfield.json](./84811-pop-island-paperfield.json) |
 | Pop Islands | 94868 | [94868-pop-islands.json](./94868-pop-islands.json) |
 | Pop it, Please! | 164228 | [164228-pop-it-please.json](./164228-pop-it-please.json) |
 | Pop It! | 319881 | [319881-pop-it.json](./319881-pop-it.json) |
@@ -15973,6 +15974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PQ2: Practical Intelligence Quotient 2 | 44506 | [44506-pq2-practical-intelligence-quotient-2.json](./44506-pq2-practical-intelligence-quotient-2.json) |
 | PQ93 | 134720 | [134720-pq93.json](./134720-pq93.json) |
 | PR: Rivenverse | 326841 | [326841-pr-rivenverse.json](./326841-pr-rivenverse.json) |
+| Pr0p | 421458 | [421458-pr0p.json](./421458-pr0p.json) |
 | Praamžius | 293290 | [293290-praamzius.json](./293290-praamzius.json) |
 | Practical Pinball | 367477 | [367477-practical-pinball.json](./367477-practical-pinball.json) |
 | Practical Shooting Simulator | 151105 | [151105-practical-shooting-simulator.json](./151105-practical-shooting-simulator.json) |
@@ -17993,6 +17995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 1v1 | 103383 | [103383-project-1v1.json](./103383-project-1v1.json) |
 | Project 1v1 (working title) | 131448 | [131448-project-1v1-working-title.json](./131448-project-1v1-working-title.json) |
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
+| Project 2008 | 427612 | [427612-project-2008.json](./427612-project-2008.json) |
 | Project 24/36 | 175040 | [175040-project-24-36.json](./175040-project-24-36.json) |
 | Project 3 VR | 98586 | [98586-project-3-vr.json](./98586-project-3-vr.json) |
 | Project 32X: Sonic Mars | 264909 | [264909-project-32x-sonic-mars.json](./264909-project-32x-sonic-mars.json) |
@@ -19373,7 +19376,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proud Dinosaurs | 109540 | [109540-proud-dinosaurs.json](./109540-proud-dinosaurs.json) |
 | Proud To Love | 385052 | [385052-proud-to-love.json](./385052-proud-to-love.json) |
 | Proun | 80558 | [80558-proun.json](./80558-proun.json) |
-| Proun+ | 85586 | [85586-proun.json](./85586-proun.json) |
 | Proun+ A Journey Through Modern Art | 246968 | [246968-proun-a-journey-through-modern-art.json](./246968-proun-a-journey-through-modern-art.json) |
 | Prove It and Move It | 312717 | [312717-prove-it-and-move-it.json](./312717-prove-it-and-move-it.json) |
 | Prove You Can Win | 341441 | [341441-prove-you-can-win.json](./341441-prove-you-can-win.json) |
@@ -19812,7 +19814,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Public Transport SImulator | 383133 | [383133-public-transport-simulator.json](./383133-public-transport-simulator.json) |
 | Public Transport Simulator 2 | 333737 | [333737-public-transport-simulator-2.json](./333737-public-transport-simulator-2.json) |
 | Publish or Perish | 298241 | [298241-publish-or-perish.json](./298241-publish-or-perish.json) |
-| Publisher Dream | 85350 | [85350-publisher-dream.json](./85350-publisher-dream.json) |
 | Publisher Tycoon | 31583 | [31583-publisher-tycoon.json](./31583-publisher-tycoon.json) |
 | Pucca Jam | 260118 | [260118-pucca-jam.json](./260118-pucca-jam.json) |
 | Pucca Noodle Rush | 65979 | [65979-pucca-noodle-rush.json](./65979-pucca-noodle-rush.json) |
@@ -20435,7 +20436,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Bowl VR | 146674 | [146674-pure-bowl-vr.json](./146674-pure-bowl-vr.json) |
 | Pure Chaotix | 326817 | [326817-pure-chaotix.json](./326817-pure-chaotix.json) |
 | Pure Chase 80's | 187094 | [187094-pure-chase-80s.json](./187094-pure-chase-80s.json) |
-| Pure Chess | 85585 | [85585-pure-chess.json](./85585-pure-chess.json) |
 | Pure Chess: Grandmaster Edition | 82428 | [82428-pure-chess-grandmaster-edition.json](./82428-pure-chess-grandmaster-edition.json) |
 | Pure Crosswords | 199889 | [199889-pure-crosswords.json](./199889-pure-crosswords.json) |
 | Pure Domino | 392016 | [392016-pure-domino.json](./392016-pure-domino.json) |
@@ -21528,7 +21528,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle'n Desu! | 42325 | [42325-puzzlen-desu.json](./42325-puzzlen-desu.json) |
 | Puzzlebot | 185294 | [185294-puzzlebot.json](./185294-puzzlebot.json) |
 | Puzzlebot Challenge | 138794 | [138794-puzzlebot-challenge.json](./138794-puzzlebot-challenge.json) |
-| Puzzlebox setup | 84789 | [84789-puzzlebox-setup.json](./84789-puzzlebox-setup.json) |
 | PuzzleCore | 404535 | [404535-puzzlecore.json](./404535-puzzlecore.json) |
 | Puzzlection | 126160 | [126160-puzzlection.json](./126160-puzzlection.json) |
 | Puzzled | 100211 | [100211-puzzled.json](./100211-puzzled.json) |
@@ -21567,7 +21566,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzler King | 97261 | [97261-puzzler-king.json](./97261-puzzler-king.json) |
 | Puzzler Mind Gym 3D | 21571 | [21571-puzzler-mind-gym-3d.json](./21571-puzzler-mind-gym-3d.json) |
 | Puzzler World | 308990 | [308990-puzzler-world.json](./308990-puzzler-world.json) |
-| Puzzler World 2011 | 84787 | [84787-puzzler-world-2011.json](./84787-puzzler-world-2011.json) |
 | Puzzler World 2012 3D | 47636 | [47636-puzzler-world-2012-3d.json](./47636-puzzler-world-2012-3d.json) |
 | Puzzler World 2013 | 47659 | [47659-puzzler-world-2013.json](./47659-puzzler-world-2013.json) |
 | Puzzler World XL | 84786 | [84786-puzzler-world-xl.json](./84786-puzzler-world-xl.json) |
