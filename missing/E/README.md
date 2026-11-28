@@ -76,7 +76,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.V.O.: Search for Eden | 6979 | [6979-e-v-o-search-for-eden.json](./6979-e-v-o-search-for-eden.json) |
 | E.x.p.l.o.r.: A New World | 148962 | [148962-e-x-p-l-o-r-a-new-world.json](./148962-e-x-p-l-o-r-a-new-world.json) |
 | E.Y.E: Divine Cybermancy | 6230 | [6230-e-y-e-divine-cybermancy.json](./6230-e-y-e-divine-cybermancy.json) |
-| E.Z | 86280 | [86280-e-z.json](./86280-e-z.json) |
 | E's Laf | 135884 | [135884-es-laf.json](./135884-es-laf.json) |
 | E's Laf++ | 135903 | [135903-es-laf.json](./135903-es-laf.json) |
 | E'tude Prologue: Yureugoku Kokoro no Katachi | 204482 | [204482-etude-prologue-yureugoku-kokoro-no-katachi.json](./204482-etude-prologue-yureugoku-kokoro-no-katachi.json) |
@@ -3102,7 +3101,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elitserien 2001 | 94376 | [94376-elitserien-2001.json](./94376-elitserien-2001.json) |
 | Elitserien 95 | 4395 | [4395-elitserien-95.json](./4395-elitserien-95.json) |
 | Elitserien 96 | 45560 | [45560-elitserien-96.json](./45560-elitserien-96.json) |
-| Elium: Prison Escape | 83953 | [83953-elium-prison-escape.json](./83953-elium-prison-escape.json) |
 | Elixia | 133757 | [133757-elixia.json](./133757-elixia.json) |
 | Elixion | 389144 | [389144-elixion.json](./389144-elixion.json) |
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
@@ -5403,7 +5401,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Warrior: The Sword of Light | 224347 | [224347-epic-warrior-the-sword-of-light.json](./224347-epic-warrior-the-sword-of-light.json) |
 | Epic Wings 2 | 429157 | [429157-epic-wings-2.json](./429157-epic-wings-2.json) |
 | Epic Word Search Collection | 85125 | [85125-epic-word-search-collection.json](./85125-epic-word-search-collection.json) |
-| Epic Word Search Collection 2 | 85124 | [85124-epic-word-search-collection-2.json](./85124-epic-word-search-collection-2.json) |
 | Epic Word Search Holiday Special | 85123 | [85123-epic-word-search-holiday-special.json](./85123-epic-word-search-holiday-special.json) |
 | Epic World | 126970 | [126970-epic-world.json](./126970-epic-world.json) |
 | Epic World: Hunt For Quest | 279159 | [279159-epic-world-hunt-for-quest.json](./279159-epic-world-hunt-for-quest.json) |
@@ -7043,7 +7040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Doom | 140521 | [140521-eternal-doom.json](./140521-eternal-doom.json) |
 | Eternal Doom IV: Return from Oblivion | 256891 | [256891-eternal-doom-iv-return-from-oblivion.json](./256891-eternal-doom-iv-return-from-oblivion.json) |
 | Eternal Dragons | 234821 | [234821-eternal-dragons.json](./234821-eternal-dragons.json) |
-| Eternal Dread | 86340 | [86340-eternal-dread.json](./86340-eternal-dread.json) |
 | Eternal Dread 3 | 236111 | [236111-eternal-dread-3.json](./236111-eternal-dread-3.json) |
 | Eternal Dreamers | 140609 | [140609-eternal-dreamers.json](./140609-eternal-dreamers.json) |
 | Eternal Dreamers Rising | 236554 | [236554-eternal-dreamers-rising.json](./236554-eternal-dreamers-rising.json) |
