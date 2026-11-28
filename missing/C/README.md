@@ -5599,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catty Cathy | 281982 | [281982-catty-cathy.json](./281982-catty-cathy.json) |
 | Catty Shack | 180862 | [180862-catty-shack.json](./180862-catty-shack.json) |
 | CatVac | 428682 | [428682-catvac.json](./428682-catvac.json) |
+| Catvania | 429891 | [429891-catvania.json](./429891-catvania.json) |
 | Catventure | 139580 | [139580-catventure.json](./139580-catventure.json) |
 | Catventure: The Curse of the Dark Tower | 391981 | [391981-catventure-the-curse-of-the-dark-tower.json](./391981-catventure-the-curse-of-the-dark-tower.json) |
 | CatWalk | 231688 | [231688-catwalk.json](./231688-catwalk.json) |
@@ -9831,7 +9832,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Vampires: Awakening | 85035 | [85035-chronicles-of-vampires-awakening.json](./85035-chronicles-of-vampires-awakening.json) |
 | Chronicles of Vampires: Origins | 85034 | [85034-chronicles-of-vampires-origins.json](./85034-chronicles-of-vampires-origins.json) |
 | Chronicles of Veldoria | 345786 | [345786-chronicles-of-veldoria.json](./345786-chronicles-of-veldoria.json) |
-| Chronicles of Vinland | 81008 | [81008-chronicles-of-vinland.json](./81008-chronicles-of-vinland.json) |
 | Chronicles of Vipers | 253321 | [253321-chronicles-of-vipers.json](./253321-chronicles-of-vipers.json) |
 | Chronicles of Witches & Warlocks | 52738 | [52738-chronicles-of-witches-and-warlocks.json](./52738-chronicles-of-witches-and-warlocks.json) |
 | Chronicles of Zimoria | 309747 | [309747-chronicles-of-zimoria.json](./309747-chronicles-of-zimoria.json) |
@@ -11163,7 +11163,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil War: Stonewall | 175148 | [175148-civil-war-stonewall.json](./175148-civil-war-stonewall.json) |
 | Civil War: The Battle of Bull Run - Take Command 1861 | 182426 | [182426-civil-war-the-battle-of-bull-run-take-command-1861.json](./182426-civil-war-the-battle-of-bull-run-take-command-1861.json) |
 | Civil Warfare | 329048 | [329048-civil-warfare.json](./329048-civil-warfare.json) |
-| Civil Warfare: Another Bullet in the War | 79136 | [79136-civil-warfare-another-bullet-in-the-war.json](./79136-civil-warfare-another-bullet-in-the-war.json) |
 | Civil: The Game | 122061 | [122061-civil-the-game.json](./122061-civil-the-game.json) |
 | Civilcontract | 103271 | [103271-civilcontract.json](./103271-civilcontract.json) |
 | CivilContractRPG | 125847 | [125847-civilcontractrpg.json](./125847-civilcontractrpg.json) |
@@ -11982,7 +11981,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickbait | 379838 | [379838-clickbait.json](./379838-clickbait.json) |
 | Clickbait Tycoon | 412779 | [412779-clickbait-tycoon.json](./412779-clickbait-tycoon.json) |
 | Clickbait: Tap to Fish | 241207 | [241207-clickbait-tap-to-fish.json](./241207-clickbait-tap-to-fish.json) |
-| ClickBit | 76644 | [76644-clickbit.json](./76644-clickbit.json) |
 | Clickbox | 132022 | [132022-clickbox.json](./132022-clickbox.json) |
 | Clickbox | 132023 | [132023-clickbox.json](./132023-clickbox.json) |
 | ClickCatToe | 316600 | [316600-clickcattoe.json](./316600-clickcattoe.json) |
@@ -12928,7 +12926,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobalt | 2999 | [2999-cobalt.json](./2999-cobalt.json) |
 | Cobalt Miner | 405839 | [405839-cobalt-miner.json](./405839-cobalt-miner.json) |
 | Cobalt Runner | 64283 | [64283-cobalt-runner.json](./64283-cobalt-runner.json) |
-| Cobalt WASD | 76426 | [76426-cobalt-wasd.json](./76426-cobalt-wasd.json) |
 | Cobb Can Move | 401154 | [401154-cobb-can-move.json](./401154-cobb-can-move.json) |
 | Cobble and Trouble | 182986 | [182986-cobble-and-trouble.json](./182986-cobble-and-trouble.json) |
 | Cobble: The Stone Forager | 336445 | [336445-cobble-the-stone-forager.json](./336445-cobble-the-stone-forager.json) |
@@ -13805,7 +13802,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Architect | 415705 | [415705-college-architect.json](./415705-college-architect.json) |
 | College Baseball: Dynasty Builder | 363421 | [363421-college-baseball-dynasty-builder.json](./363421-college-baseball-dynasty-builder.json) |
 | College Basketball Manager | 303735 | [303735-college-basketball-manager.json](./303735-college-basketball-manager.json) |
-| College Bball Coach | 78544 | [78544-college-bball-coach.json](./78544-college-bball-coach.json) |
 | College Bball Coach 2 | 239241 | [239241-college-bball-coach-2.json](./239241-college-bball-coach-2.json) |
 | College Bound | 187242 | [187242-college-bound.json](./187242-college-bound.json) |
 | College Bound: Arctic Adventure | 237482 | [237482-college-bound-arctic-adventure.json](./237482-college-bound-arctic-adventure.json) |
@@ -14751,7 +14747,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission Shock Force 2 | 138217 | [138217-combat-mission-shock-force-2.json](./138217-combat-mission-shock-force-2.json) |
 | Combat Mission Shock Force 2: NATO Forces | 170371 | [170371-combat-mission-shock-force-2-nato-forces.json](./170371-combat-mission-shock-force-2-nato-forces.json) |
 | Combat Mission: Afrika Korps | 52517 | [52517-combat-mission-afrika-korps.json](./52517-combat-mission-afrika-korps.json) |
-| Combat Mission: Battle for Normandy | 76473 | [76473-combat-mission-battle-for-normandy.json](./76473-combat-mission-battle-for-normandy.json) |
 | Combat Mission: Battle for Normandy - Battle Pack 1 | 242618 | [242618-combat-mission-battle-for-normandy-battle-pack-1.json](./242618-combat-mission-battle-for-normandy-battle-pack-1.json) |
 | Combat Mission: Battle for Normandy - Battle Pack 2 | 304384 | [304384-combat-mission-battle-for-normandy-battle-pack-2.json](./304384-combat-mission-battle-for-normandy-battle-pack-2.json) |
 | Combat Mission: Battle for Normandy - Commonwealth Forces | 242616 | [242616-combat-mission-battle-for-normandy-commonwealth-forces.json](./242616-combat-mission-battle-for-normandy-commonwealth-forces.json) |
@@ -17218,7 +17213,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CornField | 319697 | [319697-cornfield.json](./319697-cornfield.json) |
 | Cornfield Escape | 370575 | [370575-cornfield-escape.json](./370575-cornfield-escape.json) |
 | Cornflake Crisis | 115169 | [115169-cornflake-crisis.json](./115169-cornflake-crisis.json) |
-| Cornflakestein | 76373 | [76373-cornflakestein.json](./76373-cornflakestein.json) |
 | Cornflower Corbin | 23939 | [23939-cornflower-corbin.json](./23939-cornflower-corbin.json) |
 | Cornhole | 349579 | [349579-cornhole.json](./349579-cornhole.json) |
 | Cornhole Hero | 418742 | [418742-cornhole-hero.json](./418742-cornhole-hero.json) |
