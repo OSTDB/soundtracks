@@ -11103,6 +11103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino & Chill | 339938 | [339938-dino-and-chill.json](./339938-dino-and-chill.json) |
 | Dino 3D | 268817 | [268817-dino-3d.json](./268817-dino-3d.json) |
 | Dino Adventure Legend | 288130 | [288130-dino-adventure-legend.json](./288130-dino-adventure-legend.json) |
+| Dino Age: Survive the Eras | 431360 | [431360-dino-age-survive-the-eras.json](./431360-dino-age-survive-the-eras.json) |
 | Dino Age: The First Fracture | 393194 | [393194-dino-age-the-first-fracture.json](./393194-dino-age-the-first-fracture.json) |
 | Dino and Aliens | 93434 | [93434-dino-and-aliens.json](./93434-dino-and-aliens.json) |
 | Dino Attack | 343258 | [343258-dino-attack.json](./343258-dino-attack.json) |
@@ -14722,6 +14723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Smash into Obstacles | 307499 | [307499-dont-smash-into-obstacles.json](./307499-dont-smash-into-obstacles.json) |
 | Don't Spill | 167385 | [167385-dont-spill.json](./167385-dont-spill.json) |
 | Don't Spill Your Coffee! | 176685 | [176685-dont-spill-your-coffee.json](./176685-dont-spill-your-coffee.json) |
+| Don't Splat! | 431767 | [431767-dont-splat.json](./431767-dont-splat.json) |
 | Don't Split the Party | 119164 | [119164-dont-split-the-party.json](./119164-dont-split-the-party.json) |
 | Don't Stare | 153936 | [153936-dont-stare.json](./153936-dont-stare.json) |
 | Don't Stare | 385644 | [385644-dont-stare.json](./385644-dont-stare.json) |
@@ -17279,6 +17281,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Banner | 130162 | [130162-dragon-banner.json](./130162-dragon-banner.json) |
 | Dragon Battle | 102165 | [102165-dragon-battle.json](./102165-dragon-battle.json) |
 | Dragon Battle | 183945 | [183945-dragon-battle.json](./183945-dragon-battle.json) |
+| Dragon Battler 2: Barcode Fighter - Arisugawa Sakura | 431735 | [431735-dragon-battler-2-barcode-fighter-arisugawa-sakura.json](./431735-dragon-battler-2-barcode-fighter-arisugawa-sakura.json) |
+| Dragon Battler 2: Barcode Fighter - Kakesu Takumi | 431738 | [431738-dragon-battler-2-barcode-fighter-kakesu-takumi.json](./431738-dragon-battler-2-barcode-fighter-kakesu-takumi.json) |
+| Dragon Battler 2: Barcode Fighter - Kodou Retsu | 431737 | [431737-dragon-battler-2-barcode-fighter-kodou-retsu.json](./431737-dragon-battler-2-barcode-fighter-kodou-retsu.json) |
 | Dragon Beat: Legend of Pinball | 73754 | [73754-dragon-beat-legend-of-pinball.json](./73754-dragon-beat-legend-of-pinball.json) |
 | Dragon Blade 2 | 410339 | [410339-dragon-blade-2.json](./410339-dragon-blade-2.json) |
 | Dragon Blast | 107035 | [107035-dragon-blast.json](./107035-dragon-blast.json) |
