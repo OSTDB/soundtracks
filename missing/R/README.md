@@ -997,7 +997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Racing 3D | 242799 | [242799-rage-racing-3d.json](./242799-rage-racing-3d.json) |
 | Rage Rally | 204650 | [204650-rage-rally.json](./204650-rage-rally.json) |
 | Rage Realm | 123146 | [123146-rage-realm.json](./123146-rage-realm.json) |
-| Rage Room | 81093 | [81093-rage-room.json](./81093-rage-room.json) |
 | Rage Runner | 9010 | [9010-rage-runner.json](./9010-rage-runner.json) |
 | Rage Simulator | 265612 | [265612-rage-simulator.json](./265612-rage-simulator.json) |
 | Rage Swarm | 323697 | [323697-rage-swarm.json](./323697-rage-swarm.json) |
@@ -2930,7 +2929,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC de GO! | 77793 | [77793-rc-de-go.json](./77793-rc-de-go.json) |
 | RC Death Race: Multiplayer | 392941 | [392941-rc-death-race-multiplayer.json](./392941-rc-death-race-multiplayer.json) |
 | RC Flight Simulator 2020 VR | 162748 | [162748-rc-flight-simulator-2020-vr.json](./162748-rc-flight-simulator-2020-vr.json) |
-| RC Fun City | 80975 | [80975-rc-fun-city.json](./80975-rc-fun-city.json) |
 | RC Heli 3 | 240862 | [240862-rc-heli-3.json](./240862-rc-heli-3.json) |
 | RC Helicopter | 44895 | [44895-rc-helicopter.json](./44895-rc-helicopter.json) |
 | RC Helicopter 3D simulator | 88535 | [88535-rc-helicopter-3d-simulator.json](./88535-rc-helicopter-3d-simulator.json) |
@@ -3584,7 +3582,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality | 30358 | [30358-reality.json](./30358-reality.json) |
 | Reality | 327025 | [327025-reality.json](./327025-reality.json) |
 | Reality | 353297 | [353297-reality.json](./353297-reality.json) |
-| Reality | 81178 | [81178-reality.json](./81178-reality.json) |
 | Reality Breach | 414743 | [414743-reality-breach.json](./414743-reality-breach.json) |
 | Reality Break | 210993 | [210993-reality-break.json](./210993-reality-break.json) |
 | Reality Check | 70374 | [70374-reality-check.json](./70374-reality-check.json) |
@@ -7951,7 +7948,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythium | 165298 | [165298-rhythium.json](./165298-rhythium.json) |
 | Rhythm | 124498 | [124498-rhythm.json](./124498-rhythm.json) |
 | Rhythm 'n Bullets | 140928 | [140928-rhythm-n-bullets.json](./140928-rhythm-n-bullets.json) |
-| Rhythm 'n Notes: Improve Your Music Skills | 79176 | [79176-rhythm-n-notes-improve-your-music-skills.json](./79176-rhythm-n-notes-improve-your-music-skills.json) |
 | Rhythm 'n' Face | 123290 | [123290-rhythm-n-face.json](./123290-rhythm-n-face.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
 | Rhythm Action Gatsby | 184340 | [184340-rhythm-action-gatsby.json](./184340-rhythm-action-gatsby.json) |
@@ -8521,7 +8517,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridle | 188857 | [188857-ridle.json](./188857-ridle.json) |
 | Riff Racer | 18922 | [18922-riff-racer.json](./18922-riff-racer.json) |
 | Riff Raft | 184919 | [184919-riff-raft.json](./184919-riff-raft.json) |
-| Riff VR | 76330 | [76330-riff-vr.json](./76330-riff-vr.json) |
 | Riff VR for Arcades | 111272 | [111272-riff-vr-for-arcades.json](./111272-riff-vr-for-arcades.json) |
 | Riff: The Music Trivia DVD Game | 360767 | [360767-riff-the-music-trivia-dvd-game.json](./360767-riff-the-music-trivia-dvd-game.json) |
 | Riffle Effect | 217511 | [217511-riffle-effect.json](./217511-riffle-effect.json) |
@@ -12498,7 +12493,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roof Jump Stunt Driver | 231054 | [231054-roof-jump-stunt-driver.json](./231054-roof-jump-stunt-driver.json) |
 | Roof Jumping: Stunt Driver Sim | 104087 | [104087-roof-jumping-stunt-driver-sim.json](./104087-roof-jumping-stunt-driver-sim.json) |
 | Roof Leak Hero | 385250 | [385250-roof-leak-hero.json](./385250-roof-leak-hero.json) |
-| Roof Rage | 77775 | [77775-roof-rage.json](./77775-roof-rage.json) |
 | Roof Rails | 288249 | [288249-roof-rails.json](./288249-roof-rails.json) |
 | Roofbot | 30897 | [30897-roofbot.json](./30897-roofbot.json) |
 | Roofbot: Puzzler on the Roof | 96729 | [96729-roofbot-puzzler-on-the-roof.json](./96729-roofbot-puzzler-on-the-roof.json) |
@@ -13313,7 +13307,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
 | Royal Card Clash | 296701 | [296701-royal-card-clash.json](./296701-royal-card-clash.json) |
 | Royal Cartographer: Restore the Map | 425929 | [425929-royal-cartographer-restore-the-map.json](./425929-royal-cartographer-restore-the-map.json) |
-| Royal Casino: Video Poker | 80926 | [80926-royal-casino-video-poker.json](./80926-royal-casino-video-poker.json) |
 | Royal Challenge Solitaire | 54329 | [54329-royal-challenge-solitaire.json](./54329-royal-challenge-solitaire.json) |
 | Royal Chaos | 105798 | [105798-royal-chaos.json](./105798-royal-chaos.json) |
 | Royal Chaos: Enter a Dreamlike Kingdom of Romance | 105883 | [105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json](./105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json) |
@@ -14908,7 +14901,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Prison Tattoo Simulator | 155884 | [155884-russian-prison-tattoo-simulator.json](./155884-russian-prison-tattoo-simulator.json) |
 | Russian Psychiatric Pastoral | 248910 | [248910-russian-psychiatric-pastoral.json](./248910-russian-psychiatric-pastoral.json) |
 | Russian Random Speedmap Pack 3 | 311463 | [311463-russian-random-speedmap-pack-3.json](./311463-russian-random-speedmap-pack-3.json) |
-| Russian Roads | 81228 | [81228-russian-roads.json](./81228-russian-roads.json) |
 | Russian Roulette | 238972 | [238972-russian-roulette.json](./238972-russian-roulette.json) |
 | Russian Roulette | 265941 | [265941-russian-roulette.json](./265941-russian-roulette.json) |
 | Russian Roulette | 344274 | [344274-russian-roulette.json](./344274-russian-roulette.json) |
