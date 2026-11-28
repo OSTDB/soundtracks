@@ -9776,6 +9776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds of a Feather | 284590 | [284590-birds-of-a-feather.json](./284590-birds-of-a-feather.json) |
 | Birds of a Feather | 350569 | [350569-birds-of-a-feather.json](./350569-birds-of-a-feather.json) |
 | Birds of Ascent | 404222 | [404222-birds-of-ascent.json](./404222-birds-of-ascent.json) |
+| Birds of Blood and Snow | 430109 | [430109-birds-of-blood-and-snow.json](./430109-birds-of-blood-and-snow.json) |
 | Birds of Impalatism | 422673 | [422673-birds-of-impalatism.json](./422673-birds-of-impalatism.json) |
 | Birds of Paradise | 210425 | [210425-birds-of-paradise.json](./210425-birds-of-paradise.json) |
 | Birds of Prey | 11962 | [11962-birds-of-prey.json](./11962-birds-of-prey.json) |
