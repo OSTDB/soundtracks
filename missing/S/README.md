@@ -10091,6 +10091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi.fr | 137624 | [137624-shinobi-fr.json](./137624-shinobi-fr.json) |
 | Shinobi.io | 194016 | [194016-shinobi-io.json](./194016-shinobi-io.json) |
 | Shinobi's Way - a jigsaw chess tale | 148262 | [148262-shinobis-way-a-jigsaw-chess-tale.json](./148262-shinobis-way-a-jigsaw-chess-tale.json) |
+| ShinobIDLE | 431780 | [431780-shinobidle.json](./431780-shinobidle.json) |
 | Shinobido 2: Revenge of Zen | 10900 | [10900-shinobido-2-revenge-of-zen.json](./10900-shinobido-2-revenge-of-zen.json) |
 | Shinobido: Tales of the Ninja | 23108 | [23108-shinobido-tales-of-the-ninja.json](./23108-shinobido-tales-of-the-ninja.json) |
 | Shinobido: Way of the Ninja | 10899 | [10899-shinobido-way-of-the-ninja.json](./10899-shinobido-way-of-the-ninja.json) |
@@ -22828,6 +22829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fuss | 31387 | [31387-space-fuss.json](./31387-space-fuss.json) |
 | Space Galaga | 62563 | [62563-space-galaga.json](./62563-space-galaga.json) |
 | Space Game | 312741 | [312741-space-game.json](./312741-space-game.json) |
+| Space Game | 431688 | [431688-space-game.json](./431688-space-game.json) |
 | Space Game | 62104 | [62104-space-game.json](./62104-space-game.json) |
 | Space Game: Star We There Yet? | 236754 | [236754-space-game-star-we-there-yet.json](./236754-space-game-star-we-there-yet.json) |
 | Space Games: Galaxy Attack | 273313 | [273313-space-games-galaxy-attack.json](./273313-space-games-galaxy-attack.json) |
@@ -26668,6 +26670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spray Girl | 111779 | [111779-spray-girl.json](./111779-spray-girl.json) |
 | Spray N' Pray | 369125 | [369125-spray-n-pray.json](./369125-spray-n-pray.json) |
 | Spray Paint Simulator | 322702 | [322702-spray-paint-simulator.json](./322702-spray-paint-simulator.json) |
+| Spray Paint Simulator: Submariner DLC | 431687 | [431687-spray-paint-simulator-submariner-dlc.json](./431687-spray-paint-simulator-submariner-dlc.json) |
 | Spray to Grail | 420410 | [420410-spray-to-grail.json](./420410-spray-to-grail.json) |
 | Spray Trace | 422480 | [422480-spray-trace.json](./422480-spray-trace.json) |
 | Spread | 210961 | [210961-spread.json](./210961-spread.json) |
@@ -29319,6 +29322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight Tactics | 35660 | [35660-starlight-tactics.json](./35660-starlight-tactics.json) |
 | StarLight Terminus | 180047 | [180047-starlight-terminus.json](./180047-starlight-terminus.json) |
 | Starlight Vega | 35041 | [35041-starlight-vega.json](./35041-starlight-vega.json) |
+| Starlight Vials | 431332 | [431332-starlight-vials.json](./431332-starlight-vials.json) |
 | Starlight X-2: Galactic Puzzles | 163421 | [163421-starlight-x-2-galactic-puzzles.json](./163421-starlight-x-2-galactic-puzzles.json) |
 | Starlight: Defence Command | 228646 | [228646-starlight-defence-command.json](./228646-starlight-defence-command.json) |
 | Starlight: Eye of the Storm | 155670 | [155670-starlight-eye-of-the-storm.json](./155670-starlight-eye-of-the-storm.json) |
