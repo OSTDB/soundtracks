@@ -4900,7 +4900,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fidget Spinner | 41921 | [41921-fidget-spinner.json](./41921-fidget-spinner.json) |
 | Fidget Spinner - Extra Speed | 102606 | [102606-fidget-spinner-extra-speed.json](./102606-fidget-spinner-extra-speed.json) |
 | Fidget Spinner Editor | 68595 | [68595-fidget-spinner-editor.json](./68595-fidget-spinner-editor.json) |
-| Fidget Spinner In Space | 75315 | [75315-fidget-spinner-in-space.json](./75315-fidget-spinner-in-space.json) |
 | Fidget Spinner RPG | 199784 | [199784-fidget-spinner-rpg.json](./199784-fidget-spinner-rpg.json) |
 | Fidget Spinner Simulator | 51415 | [51415-fidget-spinner-simulator.json](./51415-fidget-spinner-simulator.json) |
 | Fidget Spinner Simulator 2018 | 98741 | [98741-fidget-spinner-simulator-2018.json](./98741-fidget-spinner-simulator-2018.json) |
