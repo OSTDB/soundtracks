@@ -202,7 +202,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UEFA Champions League Season 1999/2000 | 43782 | [43782-uefa-champions-league-season-1999-2000.json](./43782-uefa-champions-league-season-1999-2000.json) |
 | UEFA Champions League Season 2000/2001 | 389035 | [389035-uefa-champions-league-season-2000-2001.json](./389035-uefa-champions-league-season-2000-2001.json) |
 | UEFA Champions League Season 2001/2002 | 22058 | [22058-uefa-champions-league-season-2001-2002.json](./22058-uefa-champions-league-season-2001-2002.json) |
-| UEFA CL 2006-2007 | 83854 | [83854-uefa-cl-2006-2007.json](./83854-uefa-cl-2006-2007.json) |
 | UEFA Dream Soccer | 45803 | [45803-uefa-dream-soccer.json](./45803-uefa-dream-soccer.json) |
 | UEFA Euro 2000 | 44831 | [44831-uefa-euro-2000.json](./44831-uefa-euro-2000.json) |
 | UEFA Euro 2008 | 7226 | [7226-uefa-euro-2008.json](./7226-uefa-euro-2008.json) |
@@ -514,7 +513,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Arena | 51456 | [51456-ultimate-arena.json](./51456-ultimate-arena.json) |
 | Ultimate Arena FPS | 124534 | [124534-ultimate-arena-fps.json](./124534-ultimate-arena-fps.json) |
 | Ultimate Arena of Fate | 273090 | [273090-ultimate-arena-of-fate.json](./273090-ultimate-arena-of-fate.json) |
-| Ultimate Arena: Showdown | 81606 | [81606-ultimate-arena-showdown.json](./81606-ultimate-arena-showdown.json) |
 | Ultimate Armored Turbodrifter: Saga Chapter 2 - Tank Authority Wolfram | 290950 | [290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json](./290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json) |
 | Ultimate Assassin 3 | 388101 | [388101-ultimate-assassin-3.json](./388101-ultimate-assassin-3.json) |
 | Ultimate Auto-RPG: Tower Walker | 370040 | [370040-ultimate-auto-rpg-tower-walker.json](./370040-ultimate-auto-rpg-tower-walker.json) |
@@ -835,7 +833,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Space Commando | 35963 | [35963-ultimate-space-commando.json](./35963-ultimate-space-commando.json) |
 | Ultimate Sparring | 334077 | [334077-ultimate-sparring.json](./334077-ultimate-sparring.json) |
 | Ultimate Speed Run | 250710 | [250710-ultimate-speed-run.json](./250710-ultimate-speed-run.json) |
-| Ultimate Spider Hero | 81629 | [81629-ultimate-spider-hero.json](./81629-ultimate-spider-hero.json) |
 | Ultimate Spider-Man | 200911 | [200911-ultimate-spider-man.json](./200911-ultimate-spider-man.json) |
 | Ultimate Spider-Man | 224885 | [224885-ultimate-spider-man.json](./224885-ultimate-spider-man.json) |
 | Ultimate Spider-Man | 230193 | [230193-ultimate-spider-man.json](./230193-ultimate-spider-man.json) |
