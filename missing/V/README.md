@@ -3463,7 +3463,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visual Novel Sisters | 167169 | [167169-visual-novel-sisters.json](./167169-visual-novel-sisters.json) |
 | Visual Novel: Before the Dawn | 427771 | [427771-visual-novel-before-the-dawn.json](./427771-visual-novel-before-the-dawn.json) |
 | Visual Novel: Call of Toilet | 397247 | [397247-visual-novel-call-of-toilet.json](./397247-visual-novel-call-of-toilet.json) |
-| Visual Out | 76375 | [76375-visual-out.json](./76375-visual-out.json) |
 | Visual Pinball | 99113 | [99113-visual-pinball.json](./99113-visual-pinball.json) |
 | Visual Pinball VR | 278793 | [278793-visual-pinball-vr.json](./278793-visual-pinball-vr.json) |
 | Visual Pinball X | 278792 | [278792-visual-pinball-x.json](./278792-visual-pinball-x.json) |
