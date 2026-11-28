@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-28T09:15:55.349Z",
-  "total_soundtracks": 3963,
+  "generated_at": "2026-11-28T10:55:54.033Z",
+  "total_soundtracks": 3964,
   "games": [
     {
       "igdb_id": 292844,
@@ -20863,6 +20863,20 @@
         {
           "album_name": "I Can't Escape : Darkness Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/0axCdxvu4CYD1hiF4IOIU8",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 76580,
+      "game_name": "I Wanna Be the Cat",
+      "game_url": "https://ostdb.net/games/i-wanna-be-the-cat",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737570cfcae2479c625664be87",
+      "albums": [
+        {
+          "album_name": "I Wanna Be the Cat (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1rXCnzsp7HWkEB9rqHCfR2",
           "apple_music_url": "",
           "album_link_url": ""
         }
