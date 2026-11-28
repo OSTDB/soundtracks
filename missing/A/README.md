@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Very British Summer | 375941 | [375941-a-very-british-summer.json](./375941-a-very-british-summer.json) |
 | A Very Corporate Escape Room | 207571 | [207571-a-very-corporate-escape-room.json](./207571-a-very-corporate-escape-room.json) |
 | A Very Dark Ride in the Proximity of the House of Mirrors | 303907 | [303907-a-very-dark-ride-in-the-proximity-of-the-house-of-mirrors.json](./303907-a-very-dark-ride-in-the-proximity-of-the-house-of-mirrors.json) |
+| A Very Hard Game | 430290 | [430290-a-very-hard-game.json](./430290-a-very-hard-game.json) |
 | A Very Long Rope to the Top of the Sky | 124616 | [124616-a-very-long-rope-to-the-top-of-the-sky.json](./124616-a-very-long-rope-to-the-top-of-the-sky.json) |
 | A Very Merry Nightmare | 338182 | [338182-a-very-merry-nightmare.json](./338182-a-very-merry-nightmare.json) |
 | A Very Ordinary Elevator Simulator | 332777 | [332777-a-very-ordinary-elevator-simulator.json](./332777-a-very-ordinary-elevator-simulator.json) |
@@ -2565,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Kreuzworträtsel | 92256 | [92256-absolute-kreuzwortratsel.json](./92256-absolute-kreuzwortratsel.json) |
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
 | Absolute Patience | 419098 | [419098-absolute-patience.json](./419098-absolute-patience.json) |
+| Absolute Peak | 430084 | [430084-absolute-peak.json](./430084-absolute-peak.json) |
 | Absolute Pinball | 12376 | [12376-absolute-pinball.json](./12376-absolute-pinball.json) |
 | Absolute Poker | 80694 | [80694-absolute-poker.json](./80694-absolute-poker.json) |
 | Absolute RC Plane Simulator | 107034 | [107034-absolute-rc-plane-simulator.json](./107034-absolute-rc-plane-simulator.json) |
@@ -3057,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accursed | 203864 | [203864-accursed.json](./203864-accursed.json) |
 | Accursed | 420709 | [420709-accursed.json](./420709-accursed.json) |
 | Accursed | 429983 | [429983-accursed.json](./429983-accursed.json) |
+| Accursed Fiend | 430292 | [430292-accursed-fiend.json](./430292-accursed-fiend.json) |
 | Accursed Isle: Survival | 358060 | [358060-accursed-isle-survival.json](./358060-accursed-isle-survival.json) |
 | Accuser | 299678 | [299678-accuser.json](./299678-accuser.json) |
 | Accuwar | 76632 | [76632-accuwar.json](./76632-accuwar.json) |
@@ -5318,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Midnight | 376845 | [376845-after-midnight.json](./376845-after-midnight.json) |
 | After Midnight | 426803 | [426803-after-midnight.json](./426803-after-midnight.json) |
 | After Midnight | 98218 | [98218-after-midnight.json](./98218-after-midnight.json) |
+| After Play | 430049 | [430049-after-play.json](./430049-after-play.json) |
 | After Rain: Phoenix Rise | 56635 | [56635-after-rain-phoenix-rise.json](./56635-after-rain-phoenix-rise.json) |
 | After school | 283069 | [283069-after-school.json](./283069-after-school.json) |
 | After School | 148675 | [148675-after-school.json](./148675-after-school.json) |
@@ -10080,6 +10084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambitious Mission | 293897 | [293897-ambitious-mission.json](./293897-ambitious-mission.json) |
 | Ambitious Mission After Episode 2 | 424694 | [424694-ambitious-mission-after-episode-2.json](./424694-ambitious-mission-after-episode-2.json) |
 | Ambitious Road | 429992 | [429992-ambitious-road.json](./429992-ambitious-road.json) |
+| Ambivalence | 430175 | [430175-ambivalence.json](./430175-ambivalence.json) |
 | AmbivalenZ: Niritsu Haihan | 93351 | [93351-ambivalenz-niritsu-haihan.json](./93351-ambivalenz-niritsu-haihan.json) |
 | Amborettio | 170892 | [170892-amborettio.json](./170892-amborettio.json) |
 | Ambre | 28661 | [28661-ambre.json](./28661-ambre.json) |
@@ -11340,6 +11345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Collection: Mezase! Gakuen no Fashion Leader | 49448 | [49448-angel-collection-mezase-gakuen-no-fashion-leader.json](./49448-angel-collection-mezase-gakuen-no-fashion-leader.json) |
 | Angel Droid | 221193 | [221193-angel-droid.json](./221193-angel-droid.json) |
 | Angel Egg | 94423 | [94423-angel-egg.json](./94423-angel-egg.json) |
+| Angel Egg: This Is Not My Body | 430108 | [430108-angel-egg-this-is-not-my-body.json](./430108-angel-egg-this-is-not-my-body.json) |
 | Angel Engine | 387370 | [387370-angel-engine.json](./387370-angel-engine.json) |
 | Angel Essence | 399400 | [399400-angel-essence.json](./399400-angel-essence.json) |
 | Angel Express: Tokkyu Tenshi | 32651 | [32651-angel-express-tokkyu-tenshi.json](./32651-angel-express-tokkyu-tenshi.json) |
@@ -13902,6 +13908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo 3000: Wild Space | 144490 | [144490-apollo-3000-wild-space.json](./144490-apollo-3000-wild-space.json) |
 | Apollo Cosmic | 274341 | [274341-apollo-cosmic.json](./274341-apollo-cosmic.json) |
 | Apollo in Outer Space | 147546 | [147546-apollo-in-outer-space.json](./147546-apollo-in-outer-space.json) |
+| Apollo in the Crosshairs | 430271 | [430271-apollo-in-the-crosshairs.json](./430271-apollo-in-the-crosshairs.json) |
 | Apollo Justice: Ace Attorney | 1429 | [1429-apollo-justice-ace-attorney.json](./1429-apollo-justice-ace-attorney.json) |
 | Apollo Justice: Ace Attorney | 253010 | [253010-apollo-justice-ace-attorney.json](./253010-apollo-justice-ace-attorney.json) |
 | Apollo Justice: Ace Attorney - Appeal to Truth | 302595 | [302595-apollo-justice-ace-attorney-appeal-to-truth.json](./302595-apollo-justice-ace-attorney-appeal-to-truth.json) |
@@ -14222,6 +14229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquabyss | 287831 | [287831-aquabyss.json](./287831-aquabyss.json) |
 | Aquachamber | 390887 | [390887-aquachamber.json](./390887-aquachamber.json) |
 | Aquacity | 148956 | [148956-aquacity.json](./148956-aquacity.json) |
+| Aquacreep! | 430092 | [430092-aquacreep.json](./430092-aquacreep.json) |
 | Aquaculture Simulator | 413032 | [413032-aquaculture-simulator.json](./413032-aquaculture-simulator.json) |
 | AquaDark | 322136 | [322136-aquadark.json](./322136-aquadark.json) |
 | Aquadine | 143584 | [143584-aquadine.json](./143584-aquadine.json) |
@@ -19085,6 +19093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroCore Mining | 356348 | [356348-astrocore-mining.json](./356348-astrocore-mining.json) |
 | Astrocounter of Crescents | 50080 | [50080-astrocounter-of-crescents.json](./50080-astrocounter-of-crescents.json) |
 | Astrocraft | 418889 | [418889-astrocraft.json](./418889-astrocraft.json) |
+| Astrocreep | 430090 | [430090-astrocreep.json](./430090-astrocreep.json) |
 | Astrodelia | 290827 | [290827-astrodelia.json](./290827-astrodelia.json) |
 | Astroderps | 32323 | [32323-astroderps.json](./32323-astroderps.json) |
 | AstroDiner Manager | 387097 | [387097-astrodiner-manager.json](./387097-astrodiner-manager.json) |
