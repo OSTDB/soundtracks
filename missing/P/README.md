@@ -2038,7 +2038,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperback | 382804 | [382804-paperback.json](./382804-paperback.json) |
 | Paperback Adventures | 220621 | [220621-paperback-adventures.json](./220621-paperback-adventures.json) |
 | Paperback Vol. 2 | 207271 | [207271-paperback-vol-2.json](./207271-paperback-vol-2.json) |
-| Paperback: The Game | 75826 | [75826-paperback-the-game.json](./75826-paperback-the-game.json) |
 | Paperball | 128202 | [128202-paperball.json](./128202-paperball.json) |
 | Paperball Deluxe | 143780 | [143780-paperball-deluxe.json](./143780-paperball-deluxe.json) |
 | Paperball: Cherry Sky Pack | 227155 | [227155-paperball-cherry-sky-pack.json](./227155-paperball-cherry-sky-pack.json) |
@@ -3603,7 +3602,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathology | 79606 | [79606-pathology.json](./79606-pathology.json) |
 | Pathos | 117922 | [117922-pathos.json](./117922-pathos.json) |
 | Pathos | 423031 | [423031-pathos.json](./423031-pathos.json) |
-| Pathos | 75594 | [75594-pathos.json](./75594-pathos.json) |
 | Pathos: Nethack Codex | 141917 | [141917-pathos-nethack-codex.json](./141917-pathos-nethack-codex.json) |
 | Pathosis | 95265 | [95265-pathosis.json](./95265-pathosis.json) |
 | Pathotaxia: Pandora | 399211 | [399211-pathotaxia-pandora.json](./399211-pathotaxia-pandora.json) |
@@ -6219,7 +6217,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Incident | 348185 | [348185-phantom-incident.json](./348185-phantom-incident.json) |
 | Phantom Integration | 242386 | [242386-phantom-integration.json](./242386-phantom-integration.json) |
 | Phantom Island | 215333 | [215333-phantom-island.json](./215333-phantom-island.json) |
-| Phantom Jump | 75585 | [75585-phantom-jump.json](./75585-phantom-jump.json) |
 | Phantom Killer | 275343 | [275343-phantom-killer.json](./275343-phantom-killer.json) |
 | Phantom Kingdom: Portable | 262445 | [262445-phantom-kingdom-portable.json](./262445-phantom-kingdom-portable.json) |
 | Phantom Kiosk | 345708 | [345708-phantom-kiosk.json](./345708-phantom-kiosk.json) |
@@ -8669,7 +8666,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipes Puzzle Casual Arcade | 213808 | [213808-pipes-puzzle-casual-arcade.json](./213808-pipes-puzzle-casual-arcade.json) |
 | Pipes Puzzles | 213539 | [213539-pipes-puzzles.json](./213539-pipes-puzzles.json) |
 | Pipes Racer | 77158 | [77158-pipes-racer.json](./77158-pipes-racer.json) |
-| Pipes! | 76015 | [76015-pipes.json](./76015-pipes.json) |
 | Pipes.exe | 405155 | [405155-pipes-exe.json](./405155-pipes-exe.json) |
 | PipeWorks | 116927 | [116927-pipeworks.json](./116927-pipeworks.json) |
 | Pipi & Bibi's | 40138 | [40138-pipi-and-bibis.json](./40138-pipi-and-bibis.json) |
@@ -10486,7 +10482,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planck | 92468 | [92468-planck.json](./92468-planck.json) |
 | Planckman | 359025 | [359025-planckman.json](./359025-planckman.json) |
 | Plandzz | 51737 | [51737-plandzz.json](./51737-plandzz.json) |
-| Plandzz 2 | 75716 | [75716-plandzz-2.json](./75716-plandzz-2.json) |
 | Plane Accident | 204813 | [204813-plane-accident.json](./204813-plane-accident.json) |
 | Plane and Simple | 143108 | [143108-plane-and-simple.json](./143108-plane-and-simple.json) |
 | Plane Attack | 204155 | [204155-plane-attack.json](./204155-plane-attack.json) |
@@ -10918,7 +10913,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Therapy: Plush and Pots Pack | 316403 | [316403-plant-therapy-plush-and-pots-pack.json](./316403-plant-therapy-plush-and-pots-pack.json) |
 | Plant Therapy: Queens | 266802 | [266802-plant-therapy-queens.json](./266802-plant-therapy-queens.json) |
 | Plant Therapy: Tropical Dreams | 364018 | [364018-plant-therapy-tropical-dreams.json](./364018-plant-therapy-tropical-dreams.json) |
-| Plant This | 76043 | [76043-plant-this.json](./76043-plant-this.json) |
 | Plant Trader | 269220 | [269220-plant-trader.json](./269220-plant-trader.json) |
 | Plant Tycoon | 15942 | [15942-plant-tycoon.json](./15942-plant-tycoon.json) |
 | Plant vs Undead | 166596 | [166596-plant-vs-undead.json](./166596-plant-vs-undead.json) |
@@ -11004,7 +10998,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: Garden Warfare - Zomboss Down | 305818 | [305818-plants-vs-zombies-garden-warfare-zomboss-down.json](./305818-plants-vs-zombies-garden-warfare-zomboss-down.json) |
 | Plants vs. Zombies: Garden Warfare 2 | 11148 | [11148-plants-vs-zombies-garden-warfare-2.json](./11148-plants-vs-zombies-garden-warfare-2.json) |
 | Plants vs. Zombies: Garden Warfare 2 - Deluxe Edition | 81997 | [81997-plants-vs-zombies-garden-warfare-2-deluxe-edition.json](./81997-plants-vs-zombies-garden-warfare-2-deluxe-edition.json) |
-| Plants vs. Zombies: Garden Warfare 2 - Frosty Edition | 75975 | [75975-plants-vs-zombies-garden-warfare-2-frosty-edition.json](./75975-plants-vs-zombies-garden-warfare-2-frosty-edition.json) |
 | Plants vs. Zombies: Garden Warfare 2 - No-Brainerz Upgrade | 225460 | [225460-plants-vs-zombies-garden-warfare-2-no-brainerz-upgrade.json](./225460-plants-vs-zombies-garden-warfare-2-no-brainerz-upgrade.json) |
 | Plants vs. Zombies: GOTY Edition | 20546 | [20546-plants-vs-zombies-goty-edition.json](./20546-plants-vs-zombies-goty-edition.json) |
 | Plants vs. Zombies: Heroes | 25230 | [25230-plants-vs-zombies-heroes.json](./25230-plants-vs-zombies-heroes.json) |
@@ -11277,7 +11270,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play with Balloon | 29624 | [29624-play-with-balloon.json](./29624-play-with-balloon.json) |
 | Play with Birds | 84721 | [84721-play-with-birds.json](./84721-play-with-birds.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
-| Play With Gilbert: Remake | 75330 | [75330-play-with-gilbert-remake.json](./75330-play-with-gilbert-remake.json) |
 | Play With Me | 182885 | [182885-play-with-me.json](./182885-play-with-me.json) |
 | Play With Me | 249068 | [249068-play-with-me.json](./249068-play-with-me.json) |
 | Play with Me 2: On the Other Side | 220472 | [220472-play-with-me-2-on-the-other-side.json](./220472-play-with-me-2-on-the-other-side.json) |
@@ -16445,7 +16437,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretzel Pete | 209904 | [209904-pretzel-pete.json](./209904-pretzel-pete.json) |
 | Pretzel Rides VR | 258253 | [258253-pretzel-rides-vr.json](./258253-pretzel-rides-vr.json) |
 | Prevent the Fall | 29455 | [29455-prevent-the-fall.json](./29455-prevent-the-fall.json) |
-| Preventive Strike | 75194 | [75194-preventive-strike.json](./75194-preventive-strike.json) |
 | Previous Tenant | 152208 | [152208-previous-tenant.json](./152208-previous-tenant.json) |
 | Prey 2 | 525 | [525-prey-2.json](./525-prey-2.json) |
 | Prey at the Altar | 300360 | [300360-prey-at-the-altar.json](./300360-prey-at-the-altar.json) |
@@ -17730,7 +17721,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profana | 373825 | [373825-profana.json](./373825-profana.json) |
 | Profanation | 304127 | [304127-profanation.json](./304127-profanation.json) |
 | Profane | 57196 | [57196-profane.json](./57196-profane.json) |
-| Profane | 76065 | [76065-profane.json](./76065-profane.json) |
 | Profaned | 412101 | [412101-profaned.json](./412101-profaned.json) |
 | Profanity Police | 310338 | [310338-profanity-police.json](./310338-profanity-police.json) |
 | Profanum | 427570 | [427570-profanum.json](./427570-profanum.json) |
@@ -18120,7 +18110,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Butterfly | 327793 | [327793-project-butterfly.json](./327793-project-butterfly.json) |
 | Project Buzz Bar | 73942 | [73942-project-buzz-bar.json](./73942-project-buzz-bar.json) |
 | Project C.U.R.E. Origins | 393249 | [393249-project-c-u-r-e-origins.json](./393249-project-c-u-r-e-origins.json) |
-| Project Cabin | 75920 | [75920-project-cabin.json](./75920-project-cabin.json) |
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
 | Project Canopy | 144090 | [144090-project-canopy.json](./144090-project-canopy.json) |
 | Project Canvas: Isekai Joucho Ikusei Keikaku | 294787 | [294787-project-canvas-isekai-joucho-ikusei-keikaku.json](./294787-project-canvas-isekai-joucho-ikusei-keikaku.json) |
@@ -21417,7 +21406,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Summit: Roll Cube Difficulty Expansion Pack | 358023 | [358023-puzzle-summit-roll-cube-difficulty-expansion-pack.json](./358023-puzzle-summit-roll-cube-difficulty-expansion-pack.json) |
 | Puzzle Summit: Solve & Rise | 341429 | [341429-puzzle-summit-solve-and-rise.json](./341429-puzzle-summit-solve-and-rise.json) |
 | Puzzle Summit: Sudoku Difficulty Expansion Pack | 358014 | [358014-puzzle-summit-sudoku-difficulty-expansion-pack.json](./358014-puzzle-summit-sudoku-difficulty-expansion-pack.json) |
-| Puzzle Tactics | 75773 | [75773-puzzle-tactics.json](./75773-puzzle-tactics.json) |
 | Puzzle Tales: Arcane Voyager | 358451 | [358451-puzzle-tales-arcane-voyager.json](./358451-puzzle-tales-arcane-voyager.json) |
 | Puzzle Temptation: Anime Reveal | 357764 | [357764-puzzle-temptation-anime-reveal.json](./357764-puzzle-temptation-anime-reveal.json) |
 | Puzzle Time | 209369 | [209369-puzzle-time.json](./209369-puzzle-time.json) |
