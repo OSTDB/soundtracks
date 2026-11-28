@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Failed State | 98375 | [98375-failed-state.json](./98375-failed-state.json) |
 | Failed Trust | 290558 | [290558-failed-trust.json](./290558-failed-trust.json) |
 | FailFactory | 348515 | [348515-failfactory.json](./348515-failfactory.json) |
+| Failman | 431337 | [431337-failman.json](./431337-failman.json) |
 | Failover | 420419 | [420419-failover.json](./420419-failover.json) |
 | FailRooms | 417806 | [417806-failrooms.json](./417806-failrooms.json) |
 | Failticity Classic | 56348 | [56348-failticity-classic.json](./56348-failticity-classic.json) |
@@ -5528,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Figure Fantasy | 182491 | [182491-figure-fantasy.json](./182491-figure-fantasy.json) |
 | Figure It Out: The Tantrum Simulator | 376234 | [376234-figure-it-out-the-tantrum-simulator.json](./376234-figure-it-out-the-tantrum-simulator.json) |
 | Figure it Out! | 340073 | [340073-figure-it-out.json](./340073-figure-it-out.json) |
+| Figure It Out! Together | 431670 | [431670-figure-it-out-together.json](./431670-figure-it-out-together.json) |
 | Figure Me Out | 423068 | [423068-figure-me-out.json](./423068-figure-me-out.json) |
 | Figure of Eight | 402927 | [402927-figure-of-eight.json](./402927-figure-of-eight.json) |
 | Figure Shop Simulator | 343263 | [343263-figure-shop-simulator.json](./343263-figure-shop-simulator.json) |
@@ -14770,6 +14772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Steel | 363921 | [363921-frontline-steel.json](./363921-frontline-steel.json) |
 | Frontline Tactics | 15322 | [15322-frontline-tactics.json](./15322-frontline-tactics.json) |
 | Frontline Zed | 120418 | [120418-frontline-zed.json](./120418-frontline-zed.json) |
+| Frontline Zero | 431803 | [431803-frontline-zero.json](./431803-frontline-zero.json) |
 | Frontline: Afrika Korps | 391276 | [391276-frontline-afrika-korps.json](./391276-frontline-afrika-korps.json) |
 | Frontline: Assault Corps WW2 | 340264 | [340264-frontline-assault-corps-ww2.json](./340264-frontline-assault-corps-ww2.json) |
 | Frontline: Panzer Blitzkrieg! | 131650 | [131650-frontline-panzer-blitzkrieg.json](./131650-frontline-panzer-blitzkrieg.json) |
