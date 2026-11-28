@@ -2453,7 +2453,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: CG-4A Collector Plane | 285552 | [285552-il-2-sturmovik-cg-4a-collector-plane.json](./285552-il-2-sturmovik-cg-4a-collector-plane.json) |
 | IL-2 Sturmovik: Cliffs of Dover | 27471 | [27471-il-2-sturmovik-cliffs-of-dover.json](./27471-il-2-sturmovik-cliffs-of-dover.json) |
 | IL-2 Sturmovik: Cliffs of Dover - Blitz Edition | 20651 | [20651-il-2-sturmovik-cliffs-of-dover-blitz-edition.json](./20651-il-2-sturmovik-cliffs-of-dover-blitz-edition.json) |
-| IL-2 Sturmovik: Cliffs of Dover Blitz | 80996 | [80996-il-2-sturmovik-cliffs-of-dover-blitz.json](./80996-il-2-sturmovik-cliffs-of-dover-blitz.json) |
 | IL-2 Sturmovik: Complete Edition | 23004 | [23004-il-2-sturmovik-complete-edition.json](./23004-il-2-sturmovik-complete-edition.json) |
 | IL-2 Sturmovik: Flying Circus - Volume III | 285554 | [285554-il-2-sturmovik-flying-circus-volume-iii.json](./285554-il-2-sturmovik-flying-circus-volume-iii.json) |
 | IL-2 Sturmovik: Forgotten Battles | 755 | [755-il-2-sturmovik-forgotten-battles.json](./755-il-2-sturmovik-forgotten-battles.json) |
@@ -5009,7 +5008,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inky Fingers | 419545 | [419545-inky-fingers.json](./419545-inky-fingers.json) |
 | Inkya Danshi de Asobou! | 314851 | [314851-inkya-danshi-de-asobou.json](./314851-inkya-danshi-de-asobou.json) |
 | Inland | 155422 | [155422-inland.json](./155422-inland.json) |
-| Inline | 81070 | [81070-inline.json](./81070-inline.json) |
 | Inline Race | 94560 | [94560-inline-race.json](./94560-inline-race.json) |
 | Inline: Out of Time | 290706 | [290706-inline-out-of-time.json](./290706-inline-out-of-time.json) |
 | Inma Nemu no Chu-chu Seieki Tanken-ki | 114904 | [114904-inma-nemu-no-chu-chu-seieki-tanken-ki.json](./114904-inma-nemu-no-chu-chu-seieki-tanken-ki.json) |
@@ -7922,7 +7920,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ItzaZoo | 16109 | [16109-itzazoo.json](./16109-itzazoo.json) |
 | Itzo | 393206 | [393206-itzo.json](./393206-itzo.json) |
 | ItzVerse: The Last File | 409209 | [409209-itzverse-the-last-file.json](./409209-itzverse-the-last-file.json) |
-| Iubes:2 | 76559 | [76559-iubes-2.json](./76559-iubes-2.json) |
 | Ivan | 365151 | [365151-ivan.json](./365151-ivan.json) |
 | Ivan ''Ironman'' Stewart's Super Off Road | 12735 | [12735-ivan-ironman-stewarts-super-off-road.json](./12735-ivan-ironman-stewarts-super-off-road.json) |
 | Ivan ''Ironman'' Stewart's Super Off Road | 365886 | [365886-ivan-ironman-stewarts-super-off-road.json](./365886-ivan-ironman-stewarts-super-off-road.json) |
