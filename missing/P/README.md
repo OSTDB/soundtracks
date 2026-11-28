@@ -13224,6 +13224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Revelation | 226211 | [226211-pokemon-revelation.json](./226211-pokemon-revelation.json) |
 | Pokémon Revolution Online | 129561 | [129561-pokemon-revolution-online.json](./129561-pokemon-revolution-online.json) |
 | Pokémon Rising Ruby | 309184 | [309184-pokemon-rising-ruby.json](./309184-pokemon-rising-ruby.json) |
+| Pokémon Roaming Red | 430011 | [430011-pokemon-roaming-red.json](./430011-pokemon-roaming-red.json) |
 | Pokémon Rocket Edition | 342579 | [342579-pokemon-rocket-edition.json](./342579-pokemon-rocket-edition.json) |
 | Pokemon Roulette | 365067 | [365067-pokemon-roulette.json](./365067-pokemon-roulette.json) |
 | Pokémon Royal | 313116 | [313116-pokemon-royal.json](./313116-pokemon-royal.json) |
@@ -13463,6 +13464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Golden Emerald | 298034 | [298034-pokemon-golden-emerald.json](./298034-pokemon-golden-emerald.json) |
 | Pokémon: Greg Version | 191277 | [191277-pokemon-greg-version.json](./191277-pokemon-greg-version.json) |
 | Pokémon: H Edition | 405761 | [405761-pokemon-h-edition.json](./405761-pokemon-h-edition.json) |
+| Pokémon: Hardcore Nuzlocke | 430035 | [430035-pokemon-hardcore-nuzlocke.json](./430035-pokemon-hardcore-nuzlocke.json) |
 | Pokémon: Harmonic Peace | 335148 | [335148-pokemon-harmonic-peace.json](./335148-pokemon-harmonic-peace.json) |
 | Pokémon: Hollow Woods | 397428 | [397428-pokemon-hollow-woods.json](./397428-pokemon-hollow-woods.json) |
 | Pokémon: Legends of Sinnoh | 319543 | [319543-pokemon-legends-of-sinnoh.json](./319543-pokemon-legends-of-sinnoh.json) |
@@ -13479,6 +13481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Masters Arena | 64033 | [64033-pokemon-masters-arena.json](./64033-pokemon-masters-arena.json) |
 | Pokémon: Maxie's Island | 342679 | [342679-pokemon-maxies-island.json](./342679-pokemon-maxies-island.json) |
 | Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
+| Pokémon: No Center Challenge | 430042 | [430042-pokemon-no-center-challenge.json](./430042-pokemon-no-center-challenge.json) |
 | Pokémon: Professor Oak Challenge | 338849 | [338849-pokemon-professor-oak-challenge.json](./338849-pokemon-professor-oak-challenge.json) |
 | Pokémon: Salt & Shadow | 329514 | [329514-pokemon-salt-and-shadow.json](./329514-pokemon-salt-and-shadow.json) |
 | Pokémon: Super Cool Spot Version | 429412 | [429412-pokemon-super-cool-spot-version.json](./429412-pokemon-super-cool-spot-version.json) |
