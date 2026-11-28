@@ -1143,7 +1143,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Avamphil | 177925 | [177925-tale-of-avamphil.json](./177925-tale-of-avamphil.json) |
 | Tale of Dark Lands | 333459 | [333459-tale-of-dark-lands.json](./333459-tale-of-dark-lands.json) |
 | Tale of Dark Light | 415748 | [415748-tale-of-dark-light.json](./415748-tale-of-dark-light.json) |
-| Tale of Enki: Pilgrimage | 83955 | [83955-tale-of-enki-pilgrimage.json](./83955-tale-of-enki-pilgrimage.json) |
 | Tale of Excalibun | 348681 | [348681-tale-of-excalibun.json](./348681-tale-of-excalibun.json) |
 | Tale of Exorcists | 375313 | [375313-tale-of-exorcists.json](./375313-tale-of-exorcists.json) |
 | Tale of Fallen Dragons | 30076 | [30076-tale-of-fallen-dragons.json](./30076-tale-of-fallen-dragons.json) |
@@ -3285,7 +3284,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TC Strikers 3 | 169782 | [169782-tc-strikers-3.json](./169782-tc-strikers-3.json) |
 | TC Strikers 4 | 191093 | [191093-tc-strikers-4.json](./191093-tc-strikers-4.json) |
 | TC!Underfell | 306682 | [306682-tc-underfell.json](./306682-tc-underfell.json) |
-| TC's SC Double Agent | 83867 | [83867-tcs-sc-double-agent.json](./83867-tcs-sc-double-agent.json) |
 | Tcaf: Kate Beaton Dress Up!! | 184001 | [184001-tcaf-kate-beaton-dress-up.json](./184001-tcaf-kate-beaton-dress-up.json) |
 | TCB Museum | 257631 | [257631-tcb-museum.json](./257631-tcb-museum.json) |
 | TCBY: Flying Toppings | 415657 | [415657-tcby-flying-toppings.json](./415657-tcby-flying-toppings.json) |
@@ -4530,11 +4528,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchu 2: Birth of the Stealth Assassins | 4114 | [4114-tenchu-2-birth-of-the-stealth-assassins.json](./4114-tenchu-2-birth-of-the-stealth-assassins.json) |
 | Tenchu 3 Portable | 134329 | [134329-tenchu-3-portable.json](./134329-tenchu-3-portable.json) |
 | Tenchu Kurenai Portable | 148204 | [148204-tenchu-kurenai-portable.json](./148204-tenchu-kurenai-portable.json) |
+| Tenchu Shinobi no Hyoho | 411932 | [411932-tenchu-shinobi-no-hyoho.json](./411932-tenchu-shinobi-no-hyoho.json) |
 | Tenchu Z | 7213 | [7213-tenchu-z.json](./7213-tenchu-z.json) |
 | Tenchu: Ayame's Tale 3D | 411936 | [411936-tenchu-ayames-tale-3d.json](./411936-tenchu-ayames-tale-3d.json) |
 | Tenchu: Dark Secret | 20557 | [20557-tenchu-dark-secret.json](./20557-tenchu-dark-secret.json) |
 | Tenchu: Fatal Shadows | 19266 | [19266-tenchu-fatal-shadows.json](./19266-tenchu-fatal-shadows.json) |
+| Tenchu: Ninjutsu Kaiden | 411935 | [411935-tenchu-ninjutsu-kaiden.json](./411935-tenchu-ninjutsu-kaiden.json) |
 | Tenchu: Return From Darkness | 22257 | [22257-tenchu-return-from-darkness.json](./22257-tenchu-return-from-darkness.json) |
+| Tenchu: Sengoku Hiroku | 411934 | [411934-tenchu-sengoku-hiroku.json](./411934-tenchu-sengoku-hiroku.json) |
 | Tenchu: Shadow Assassins | 5216 | [5216-tenchu-shadow-assassins.json](./5216-tenchu-shadow-assassins.json) |
 | Tenchu: Stealth Assassins | 4113 | [4113-tenchu-stealth-assassins.json](./4113-tenchu-stealth-assassins.json) |
 | Tenchu: Time Of The Assassins | 44512 | [44512-tenchu-time-of-the-assassins.json](./44512-tenchu-time-of-the-assassins.json) |
@@ -8131,6 +8132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | THE Card: Poker, Texas hold 'em, Blackjack and Page One | 109491 | [109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json](./109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json) |
 | The Cardian: Light the Shrines | 418698 | [418698-the-cardian-light-the-shrines.json](./418698-the-cardian-light-the-shrines.json) |
 | The Cardinal of the Kremlin | 14382 | [14382-the-cardinal-of-the-kremlin.json](./14382-the-cardinal-of-the-kremlin.json) |
+| The Cardinal Park Case | 427237 | [427237-the-cardinal-park-case.json](./427237-the-cardinal-park-case.json) |
 | The Cards Never Lie | 185402 | [185402-the-cards-never-lie.json](./185402-the-cards-never-lie.json) |
 | The Cards You're Dealt | 182877 | [182877-the-cards-youre-dealt.json](./182877-the-cards-youre-dealt.json) |
 | The Caregiver | 143687 | [143687-the-caregiver.json](./143687-the-caregiver.json) |
@@ -9925,7 +9927,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreamland Chronicles | 61734 | [61734-the-dreamland-chronicles.json](./61734-the-dreamland-chronicles.json) |
 | The Dreamland Chronicles: Freedom Ridge | 60670 | [60670-the-dreamland-chronicles-freedom-ridge.json](./60670-the-dreamland-chronicles-freedom-ridge.json) |
 | The Dreamlands: Aisling's Quest | 93762 | [93762-the-dreamlands-aislings-quest.json](./93762-the-dreamlands-aislings-quest.json) |
-| The Dreamlord | 83874 | [83874-the-dreamlord.json](./83874-the-dreamlord.json) |
 | The Dreamlurker | 271632 | [271632-the-dreamlurker.json](./271632-the-dreamlurker.json) |
 | The Dreams in the Peacock House | 400888 | [400888-the-dreams-in-the-peacock-house.json](./400888-the-dreams-in-the-peacock-house.json) |
 | The Dreams of Candlelight | 128220 | [128220-the-dreams-of-candlelight.json](./128220-the-dreams-of-candlelight.json) |
@@ -11432,7 +11433,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fruit of Grisaia | 11456 | [11456-the-fruit-of-grisaia.json](./11456-the-fruit-of-grisaia.json) |
 | The Fruit Stealing Girls | 290812 | [290812-the-fruit-stealing-girls.json](./290812-the-fruit-stealing-girls.json) |
 | The Fruit, Labyrinth, and Eden of Grisaia Full Package | 117746 | [117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json](./117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json) |
-| The Fruitless Flower | 86254 | [86254-the-fruitless-flower.json](./86254-the-fruitless-flower.json) |
 | The Fruits of the Literature Club | 379137 | [379137-the-fruits-of-the-literature-club.json](./379137-the-fruits-of-the-literature-club.json) |
 | The Fugitives | 330309 | [330309-the-fugitives.json](./330309-the-fugitives.json) |
 | The Full Ann Petting Experience | 409795 | [409795-the-full-ann-petting-experience.json](./409795-the-full-ann-petting-experience.json) |
@@ -13163,7 +13163,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island: Escape Room | 289992 | [289992-the-island-escape-room.json](./289992-the-island-escape-room.json) |
 | The Island: Into the Mist | 173095 | [173095-the-island-into-the-mist.json](./173095-the-island-into-the-mist.json) |
 | The Island: King's Order | 164443 | [164443-the-island-kings-order.json](./164443-the-island-kings-order.json) |
-| The Islander | 84742 | [84742-the-islander.json](./84742-the-islander.json) |
 | The Islander: Town Architect | 130608 | [130608-the-islander-town-architect.json](./130608-the-islander-town-architect.json) |
 | The Islands | 188830 | [188830-the-islands.json](./188830-the-islands.json) |
 | The Islands of Freedom | 320307 | [320307-the-islands-of-freedom.json](./320307-the-islands-of-freedom.json) |
@@ -16375,6 +16374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Museum | 231807 | [231807-the-museum.json](./231807-the-museum.json) |
 | The Museum | 348961 | [348961-the-museum.json](./348961-the-museum.json) |
 | The Museum of Anything Goes | 123122 | [123122-the-museum-of-anything-goes.json](./123122-the-museum-of-anything-goes.json) |
+| The Museum of Dots | 406784 | [406784-the-museum-of-dots.json](./406784-the-museum-of-dots.json) |
 | The Museum of Everything | 429575 | [429575-the-museum-of-everything.json](./429575-the-museum-of-everything.json) |
 | The Museum of Hauntology | 339183 | [339183-the-museum-of-hauntology.json](./339183-the-museum-of-hauntology.json) |
 | The Museum of Mid 2000s Forum Signatures | 269050 | [269050-the-museum-of-mid-2000s-forum-signatures.json](./269050-the-museum-of-mid-2000s-forum-signatures.json) |
@@ -18218,6 +18218,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Return to Bloody Nights | 244000 | [244000-the-return-to-bloody-nights.json](./244000-the-return-to-bloody-nights.json) |
 | The Return To Freddy's 2 | 401704 | [401704-the-return-to-freddys-2.json](./401704-the-return-to-freddys-2.json) |
 | The Return to Freddy's 2: Winter Wonderland | 233824 | [233824-the-return-to-freddys-2-winter-wonderland.json](./233824-the-return-to-freddys-2-winter-wonderland.json) |
+| The Return to Freddy's 3 | 401786 | [401786-the-return-to-freddys-3.json](./401786-the-return-to-freddys-3.json) |
+| The Return to Freddy's 4 | 401808 | [401808-the-return-to-freddys-4.json](./401808-the-return-to-freddys-4.json) |
 | The Return to Freddy's Classic | 272805 | [272805-the-return-to-freddys-classic.json](./272805-the-return-to-freddys-classic.json) |
 | The Return: Survival | 114771 | [114771-the-return-survival.json](./114771-the-return-survival.json) |
 | The Reunion: Rediscovering Lost Love | 342353 | [342353-the-reunion-rediscovering-lost-love.json](./342353-the-reunion-rediscovering-lost-love.json) |
@@ -19334,7 +19336,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Cozy Kitsch Kit | 330389 | [330389-the-sims-4-cozy-kitsch-kit.json](./330389-the-sims-4-cozy-kitsch-kit.json) |
 | The Sims 4: Decor to the Max Kit | 195598 | [195598-the-sims-4-decor-to-the-max-kit.json](./195598-the-sims-4-decor-to-the-max-kit.json) |
 | The Sims 4: Decorator's Dream Bundle | 225466 | [225466-the-sims-4-decorators-dream-bundle.json](./225466-the-sims-4-decorators-dream-bundle.json) |
-| The Sims 4: Deluxe Party Edition | 85510 | [85510-the-sims-4-deluxe-party-edition.json](./85510-the-sims-4-deluxe-party-edition.json) |
 | The Sims 4: Desert Luxe Kit | 217801 | [217801-the-sims-4-desert-luxe-kit.json](./217801-the-sims-4-desert-luxe-kit.json) |
 | The Sims 4: Dine Out | 24373 | [24373-the-sims-4-dine-out.json](./24373-the-sims-4-dine-out.json) |
 | The Sims 4: Discover University | 126182 | [126182-the-sims-4-discover-university.json](./126182-the-sims-4-discover-university.json) |
@@ -20107,6 +20108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Studio | 89383 | [89383-the-studio.json](./89383-the-studio.json) |
 | The Studio 100: Play Island | 268210 | [268210-the-studio-100-play-island.json](./268210-the-studio-100-play-island.json) |
 | The Stuff Fairy Tales Are Made Of | 420385 | [420385-the-stuff-fairy-tales-are-made-of.json](./420385-the-stuff-fairy-tales-are-made-of.json) |
+| The Stupidest Game on Eart 2 | 426691 | [426691-the-stupidest-game-on-eart-2.json](./426691-the-stupidest-game-on-eart-2.json) |
 | The Sub Shop | 308365 | [308365-the-sub-shop.json](./308365-the-sub-shop.json) |
 | The Subconscious Fear | 271809 | [271809-the-subconscious-fear.json](./271809-the-subconscious-fear.json) |
 | The Subject: Protocol Zero | 389852 | [389852-the-subject-protocol-zero.json](./389852-the-subject-protocol-zero.json) |
@@ -28535,7 +28537,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki Tori | 194909 | [194909-toki-tori.json](./194909-toki-tori.json) |
 | Toki Tori 2 | 2351 | [2351-toki-tori-2.json](./2351-toki-tori-2.json) |
 | Toki Tori 2+ | 16282 | [16282-toki-tori-2.json](./16282-toki-tori-2.json) |
-| Toki Tori 3D | 85449 | [85449-toki-tori-3d.json](./85449-toki-tori-3d.json) |
 | Toki Tori Collection | 122202 | [122202-toki-tori-collection.json](./122202-toki-tori-collection.json) |
 | Toki Tori: Ultimate Edition | 342781 | [342781-toki-tori-ultimate-edition.json](./342781-toki-tori-ultimate-edition.json) |
 | Toki: Going Ape Spit | 46279 | [46279-toki-going-ape-spit.json](./46279-toki-going-ape-spit.json) |
@@ -31109,6 +31110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Fading Illusion - Underworld Chapter | 356185 | [356185-touhou-fading-illusion-underworld-chapter.json](./356185-touhou-fading-illusion-underworld-chapter.json) |
 | Touhou: Fearless Frogslayer | 356088 | [356088-touhou-fearless-frogslayer.json](./356088-touhou-fearless-frogslayer.json) |
 | Touhou: Fortuitous Strife in Arcane Land | 326164 | [326164-touhou-fortuitous-strife-in-arcane-land.json](./326164-touhou-fortuitous-strife-in-arcane-land.json) |
+| Touhou: Gensokyo Reloaded | 398674 | [398674-touhou-gensokyo-reloaded.json](./398674-touhou-gensokyo-reloaded.json) |
 | Touhou: Gensokyo Survivors | 248043 | [248043-touhou-gensokyo-survivors.json](./248043-touhou-gensokyo-survivors.json) |
 | Touhou: GensoPanic | 420560 | [420560-touhou-gensopanic.json](./420560-touhou-gensopanic.json) |
 | Touhou: Heart of the Tiger | 209140 | [209140-touhou-heart-of-the-tiger.json](./209140-touhou-heart-of-the-tiger.json) |
@@ -31994,7 +31996,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story: Retro Roundup! | 404006 | [404006-toy-story-retro-roundup.json](./404006-toy-story-retro-roundup.json) |
 | Toy Story: Retro Roundup! + Toy Story 3: Complete Edition Double Pack | 404114 | [404114-toy-story-retro-roundup-toy-story-3-complete-edition-double-pack.json](./404114-toy-story-retro-roundup-toy-story-3-complete-edition-double-pack.json) |
 | Toy Story: Smash It! | 98638 | [98638-toy-story-smash-it.json](./98638-toy-story-smash-it.json) |
-| Toy Stunt Bike | 85452 | [85452-toy-stunt-bike.json](./85452-toy-stunt-bike.json) |
 | Toy Stunt Bike 2 | 65396 | [65396-toy-stunt-bike-2.json](./65396-toy-stunt-bike-2.json) |
 | Toy Stunt Bike: Tiptop's Trials | 106979 | [106979-toy-stunt-bike-tiptops-trials.json](./106979-toy-stunt-bike-tiptops-trials.json) |
 | Toy Stunt Bike: Tiptop's Trials | 108249 | [108249-toy-stunt-bike-tiptops-trials.json](./108249-toy-stunt-bike-tiptops-trials.json) |
@@ -34730,7 +34731,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transporter Manager Tycoon | 284548 | [284548-transporter-manager-tycoon.json](./284548-transporter-manager-tycoon.json) |
 | Transporter the Rescue | 92434 | [92434-transporter-the-rescue.json](./92434-transporter-the-rescue.json) |
 | Transporter Truck Simulator | 119043 | [119043-transporter-truck-simulator.json](./119043-transporter-truck-simulator.json) |
-| Transports | 83896 | [83896-transports.json](./83896-transports.json) |
 | Transputer Man | 85958 | [85958-transputer-man.json](./85958-transputer-man.json) |
 | Transregnum | 338950 | [338950-transregnum.json](./338950-transregnum.json) |
 | TransRoad: USA | 36614 | [36614-transroad-usa.json](./36614-transroad-usa.json) |
@@ -38923,7 +38923,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tycoon Tex | 133669 | [133669-tycoon-tex.json](./133669-tycoon-tex.json) |
 | Tycoon's Choice: My Secretary | 299343 | [299343-tycoons-choice-my-secretary.json](./299343-tycoons-choice-my-secretary.json) |
 | Tyd wag vir Niemand | 52012 | [52012-tyd-wag-vir-niemand.json](./52012-tyd-wag-vir-niemand.json) |
-| Tyde Pod Challenge | 86277 | [86277-tyde-pod-challenge.json](./86277-tyde-pod-challenge.json) |
 | Tyfortress: Tactical Typing | 161154 | [161154-tyfortress-tactical-typing.json](./161154-tyfortress-tactical-typing.json) |
 | Tyga | 303079 | [303079-tyga.json](./303079-tyga.json) |
 | Tyke and Sons Lumber Co. | 154241 | [154241-tyke-and-sons-lumber-co.json](./154241-tyke-and-sons-lumber-co.json) |
