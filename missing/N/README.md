@@ -2393,7 +2393,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekomata Tantei-sha | 308729 | [308729-nekomata-tantei-sha.json](./308729-nekomata-tantei-sha.json) |
 | Nekome: Nazi Hunter | 388249 | [388249-nekome-nazi-hunter.json](./388249-nekome-nazi-hunter.json) |
 | Nekomew's Nightmares | 212701 | [212701-nekomews-nightmares.json](./212701-nekomews-nightmares.json) |
-| Nekomew's Potty Trouble | 81921 | [81921-nekomews-potty-trouble.json](./81921-nekomews-potty-trouble.json) |
 | NekoMiko | 114367 | [114367-nekomiko.json](./114367-nekomiko.json) |
 | Nekomimi Days: 365 Days With You | 380167 | [380167-nekomimi-days-365-days-with-you.json](./380167-nekomimi-days-365-days-with-you.json) |
 | Nekomimi Destruction | 372712 | [372712-nekomimi-destruction.json](./372712-nekomimi-destruction.json) |
@@ -4088,7 +4087,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexonauts | 336563 | [336563-nexonauts.json](./336563-nexonauts.json) |
 | Nexoria: Dungeon Rogue Heroes | 128859 | [128859-nexoria-dungeon-rogue-heroes.json](./128859-nexoria-dungeon-rogue-heroes.json) |
 | NexPets: Puppies | 382105 | [382105-nexpets-puppies.json](./382105-nexpets-puppies.json) |
-| Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
 | Next Acre | 430141 | [430141-next-acre.json](./430141-next-acre.json) |
 | Next Action Frog | 395933 | [395933-next-action-frog.json](./395933-next-action-frog.json) |
 | Next Business Trip | 347054 | [347054-next-business-trip.json](./347054-next-business-trip.json) |
@@ -6017,7 +6015,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Raiden Revenge | 174983 | [174983-ninja-raiden-revenge.json](./174983-ninja-raiden-revenge.json) |
 | Ninja Ranger: Shinobi Arashi Superhero's Gaiden | 141447 | [141447-ninja-ranger-shinobi-arashi-superheros-gaiden.json](./141447-ninja-ranger-shinobi-arashi-superheros-gaiden.json) |
 | Ninja Reflex | 5076 | [5076-ninja-reflex.json](./5076-ninja-reflex.json) |
-| Ninja Reflex: Steamworks Edition | 82011 | [82011-ninja-reflex-steamworks-edition.json](./82011-ninja-reflex-steamworks-edition.json) |
 | Ninja Relo | 208076 | [208076-ninja-relo.json](./208076-ninja-relo.json) |
 | Ninja Remix | 12172 | [12172-ninja-remix.json](./12172-ninja-remix.json) |
 | Ninja Remix | 297969 | [297969-ninja-remix.json](./297969-ninja-remix.json) |
@@ -6090,7 +6087,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Trip | 102726 | [102726-ninja-trip.json](./102726-ninja-trip.json) |
 | Ninja Turdle | 128108 | [128108-ninja-turdle.json](./128108-ninja-turdle.json) |
 | Ninja Turtles: The Next Mutation | 198840 | [198840-ninja-turtles-the-next-mutation.json](./198840-ninja-turtles-the-next-mutation.json) |
-| Ninja Tycoon | 83811 | [83811-ninja-tycoon.json](./83811-ninja-tycoon.json) |
 | Ninja Up | 58914 | [58914-ninja-up.json](./58914-ninja-up.json) |
 | Ninja USA | 100277 | [100277-ninja-usa.json](./100277-ninja-usa.json) |
 | Ninja Usagimaru: The Mysterious Karakuri Castle | 44391 | [44391-ninja-usagimaru-the-mysterious-karakuri-castle.json](./44391-ninja-usagimaru-the-mysterious-karakuri-castle.json) |
