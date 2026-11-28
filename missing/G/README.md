@@ -660,7 +660,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Fighter | 30511 | [30511-galactic-fighter.json](./30511-galactic-fighter.json) |
 | Galactic Fighters | 31706 | [31706-galactic-fighters.json](./31706-galactic-fighters.json) |
 | Galactic Foodtruck Simulator 2999 | 281412 | [281412-galactic-foodtruck-simulator-2999.json](./281412-galactic-foodtruck-simulator-2999.json) |
-| Galactic Force | 81682 | [81682-galactic-force.json](./81682-galactic-force.json) |
 | Galactic Frontier | 190134 | [190134-galactic-frontier.json](./190134-galactic-frontier.json) |
 | Galactic Frontiers: Defense Protocol | 294050 | [294050-galactic-frontiers-defense-protocol.json](./294050-galactic-frontiers-defense-protocol.json) |
 | Galactic Frontline | 93655 | [93655-galactic-frontline.json](./93655-galactic-frontline.json) |
@@ -2673,7 +2672,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay Sex Adventures: Episode 8 | 304857 | [304857-gay-sex-adventures-episode-8.json](./304857-gay-sex-adventures-episode-8.json) |
 | Gay Sex Adventures: Episode 9 | 340295 | [340295-gay-sex-adventures-episode-9.json](./340295-gay-sex-adventures-episode-9.json) |
 | Gay Sex Simulator | 405059 | [405059-gay-sex-simulator.json](./405059-gay-sex-simulator.json) |
-| Gay World | 81954 | [81954-gay-world.json](./81954-gay-world.json) |
 | Gay Zodiac | 183034 | [183034-gay-zodiac.json](./183034-gay-zodiac.json) |
 | Gaya: The Mystery | 374379 | [374379-gaya-the-mystery.json](./374379-gaya-the-mystery.json) |
 | Gayandere | 215782 | [215782-gayandere.json](./215782-gayandere.json) |
@@ -2690,7 +2688,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gazelle in a Winter Coat | 216614 | [216614-gazelle-in-a-winter-coat.json](./216614-gazelle-in-a-winter-coat.json) |
 | Gazillionaire | 69550 | [69550-gazillionaire.json](./69550-gazillionaire.json) |
 | Gazillionaire Deluxe | 70223 | [70223-gazillionaire-deluxe.json](./70223-gazillionaire-deluxe.json) |
-| Gazing from beyond | 83497 | [83497-gazing-from-beyond.json](./83497-gazing-from-beyond.json) |
 | Gazmatera II: America's Least Wanted | 190029 | [190029-gazmatera-ii-americas-least-wanted.json](./190029-gazmatera-ii-americas-least-wanted.json) |
 | Gazmatera: Return of the Generals | 149039 | [149039-gazmatera-return-of-the-generals.json](./149039-gazmatera-return-of-the-generals.json) |
 | Gazok Age | 58951 | [58951-gazok-age.json](./58951-gazok-age.json) |
@@ -11166,7 +11163,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia Phantom Trigger Vol.1 | 28300 | [28300-grisaia-phantom-trigger-vol-1.json](./28300-grisaia-phantom-trigger-vol-1.json) |
 | Grisaia Phantom Trigger Vol.2 | 28301 | [28301-grisaia-phantom-trigger-vol-2.json](./28301-grisaia-phantom-trigger-vol-2.json) |
 | Grisaia Phantom Trigger Vol.3 | 43085 | [43085-grisaia-phantom-trigger-vol-3.json](./43085-grisaia-phantom-trigger-vol-3.json) |
-| Grisaia Phantom Trigger Vol.4 | 81678 | [81678-grisaia-phantom-trigger-vol-4.json](./81678-grisaia-phantom-trigger-vol-4.json) |
 | Grisaia Phantom Trigger Vol.5.5 | 116498 | [116498-grisaia-phantom-trigger-vol-5-5.json](./116498-grisaia-phantom-trigger-vol-5-5.json) |
 | Grisaia Phantom Trigger Vol.6 | 117248 | [117248-grisaia-phantom-trigger-vol-6.json](./117248-grisaia-phantom-trigger-vol-6.json) |
 | Grisaia Phantom Trigger Vol.7 | 135819 | [135819-grisaia-phantom-trigger-vol-7.json](./135819-grisaia-phantom-trigger-vol-7.json) |
@@ -11460,7 +11456,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Parkour: First Mission | 275852 | [275852-ground-parkour-first-mission.json](./275852-ground-parkour-first-mission.json) |
 | Ground Pounders | 36456 | [36456-ground-pounders.json](./36456-ground-pounders.json) |
 | Ground Pounders: Tarka | 10379 | [10379-ground-pounders-tarka.json](./10379-ground-pounders-tarka.json) |
-| Ground Runner: Trials | 82467 | [82467-ground-runner-trials.json](./82467-ground-runner-trials.json) |
 | Ground to Dust | 303989 | [303989-ground-to-dust.json](./303989-ground-to-dust.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | Ground War | 127606 | [127606-ground-war.json](./127606-ground-war.json) |
@@ -11889,7 +11884,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of the 'Hood | 39353 | [39353-guardians-of-the-hood.json](./39353-guardians-of-the-hood.json) |
 | Guardians of The AfterLife | 304501 | [304501-guardians-of-the-afterlife.json](./304501-guardians-of-the-afterlife.json) |
 | Guardians of the Forest | 60367 | [60367-guardians-of-the-forest.json](./60367-guardians-of-the-forest.json) |
-| Guardians of the Galaxy Pinball | 83706 | [83706-guardians-of-the-galaxy-pinball.json](./83706-guardians-of-the-galaxy-pinball.json) |
 | Guardians of the Past | 103603 | [103603-guardians-of-the-past.json](./103603-guardians-of-the-past.json) |
 | Guardians of the Rose | 110195 | [110195-guardians-of-the-rose.json](./110195-guardians-of-the-rose.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
@@ -12904,7 +12898,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns & Dragons | 403118 | [403118-guns-and-dragons.json](./403118-guns-and-dragons.json) |
 | Guns & Fishes | 234403 | [234403-guns-and-fishes.json](./234403-guns-and-fishes.json) |
 | Guns & Goo | 425971 | [425971-guns-and-goo.json](./425971-guns-and-goo.json) |
-| Guns & Notes | 81876 | [81876-guns-and-notes.json](./81876-guns-and-notes.json) |
 | Guns & Thorns | 393193 | [393193-guns-and-thorns.json](./393193-guns-and-thorns.json) |
 | Guns 30 | 198476 | [198476-guns-30.json](./198476-guns-30.json) |
 | Guns 4 Hire | 117728 | [117728-guns-4-hire.json](./117728-guns-4-hire.json) |
@@ -13112,7 +13105,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunWorld | 24561 | [24561-gunworld.json](./24561-gunworld.json) |
 | GunWorld 2 | 22723 | [22723-gunworld-2.json](./22723-gunworld-2.json) |
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
-| GunWorld: Xbox One Edition | 82544 | [82544-gunworld-xbox-one-edition.json](./82544-gunworld-xbox-one-edition.json) |
 | Gunwyrm | 176980 | [176980-gunwyrm.json](./176980-gunwyrm.json) |
 | Gunz & Golf | 320571 | [320571-gunz-and-golf.json](./320571-gunz-and-golf.json) |
 | GunZ 2: The Second Duel | 16558 | [16558-gunz-2-the-second-duel.json](./16558-gunz-2-the-second-duel.json) |
