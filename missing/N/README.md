@@ -2206,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighborhoods | 403820 | [403820-neighborhoods.json](./403820-neighborhoods.json) |
 | Neighborhorde | 33452 | [33452-neighborhorde.json](./33452-neighborhorde.json) |
 | Neighboring Islands | 28423 | [28423-neighboring-islands.json](./28423-neighboring-islands.json) |
+| Neighborly Love | 431340 | [431340-neighborly-love.json](./431340-neighborly-love.json) |
 | Neighbors | 192653 | [192653-neighbors.json](./192653-neighbors.json) |
 | Neighbors | 312128 | [312128-neighbors.json](./312128-neighbors.json) |
 | Neighbors | 330036 | [330036-neighbors.json](./330036-neighbors.json) |
