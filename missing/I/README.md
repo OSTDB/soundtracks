@@ -638,7 +638,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Be a Supernova | 427082 | [427082-i-wanna-be-a-supernova.json](./427082-i-wanna-be-a-supernova.json) |
 | I Wanna Be Car | 402635 | [402635-i-wanna-be-car.json](./402635-i-wanna-be-car.json) |
 | I Wanna Be the Boshy | 50286 | [50286-i-wanna-be-the-boshy.json](./50286-i-wanna-be-the-boshy.json) |
-| I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
 | I Wanna Be the Co-op | 108829 | [108829-i-wanna-be-the-co-op.json](./108829-i-wanna-be-the-co-op.json) |
 | I Wanna Be the Creator | 110912 | [110912-i-wanna-be-the-creator.json](./110912-i-wanna-be-the-creator.json) |
 | I Wanna Be The Crimson Needle | 243038 | [243038-i-wanna-be-the-crimson-needle.json](./243038-i-wanna-be-the-crimson-needle.json) |
@@ -5978,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interwoven Emotions | 302836 | [302836-interwoven-emotions.json](./302836-interwoven-emotions.json) |
 | Intesa Vincente | 341899 | [341899-intesa-vincente.json](./341899-intesa-vincente.json) |
 | Intexistentance | 180561 | [180561-intexistentance.json](./180561-intexistentance.json) |
+| InTheLake | 429849 | [429849-inthelake.json](./429849-inthelake.json) |
 | Inti Creates Gold Archive Collection | 319667 | [319667-inti-creates-gold-archive-collection.json](./319667-inti-creates-gold-archive-collection.json) |
 | Intimate Abode | 302475 | [302475-intimate-abode.json](./302475-intimate-abode.json) |
 | Intimate Codex | 219375 | [219375-intimate-codex.json](./219375-intimate-codex.json) |
