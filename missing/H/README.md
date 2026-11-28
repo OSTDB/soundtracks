@@ -2733,7 +2733,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Island: Ending Expansion | 358240 | [358240-harvest-island-ending-expansion.json](./358240-harvest-island-ending-expansion.json) |
 | Harvest Knight | 276840 | [276840-harvest-knight.json](./276840-harvest-knight.json) |
 | Harvest Land | 101485 | [101485-harvest-land.json](./101485-harvest-land.json) |
-| Harvest life | 75078 | [75078-harvest-life.json](./75078-harvest-life.json) |
 | Harvest Life + Castaway Paradise | 247494 | [247494-harvest-life-castaway-paradise.json](./247494-harvest-life-castaway-paradise.json) |
 | Harvest Loop | 364996 | [364996-harvest-loop.json](./364996-harvest-loop.json) |
 | Harvest Looper | 419323 | [419323-harvest-looper.json](./419323-harvest-looper.json) |
@@ -9032,7 +9031,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highrisers | 113771 | [113771-highrisers.json](./113771-highrisers.json) |
 | Highrollers | 235885 | [235885-highrollers.json](./235885-highrollers.json) |
 | Highschool 101 | 180927 | [180927-highschool-101.json](./180927-highschool-101.json) |
-| Highschool Girlfriend | 75756 | [75756-highschool-girlfriend.json](./75756-highschool-girlfriend.json) |
 | Highschool J | 427266 | [427266-highschool-j.json](./427266-highschool-j.json) |
 | Highschool Romance | 22214 | [22214-highschool-romance.json](./22214-highschool-romance.json) |
 | HighSchool Simulator Battle | 297631 | [297631-highschool-simulator-battle.json](./297631-highschool-simulator-battle.json) |
@@ -10245,7 +10243,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold Your Horses | 417468 | [417468-hold-your-horses.json](./417468-hold-your-horses.json) |
 | Hold your houses | 29621 | [29621-hold-your-houses.json](./29621-hold-your-houses.json) |
 | Hold Your King | 388467 | [388467-hold-your-king.json](./388467-hold-your-king.json) |
-| Hold Your Own | 75608 | [75608-hold-your-own.json](./75608-hold-your-own.json) |
 | Hold-Up | 240779 | [240779-hold-up.json](./240779-hold-up.json) |
 | Hold-Up | 74016 | [74016-hold-up.json](./74016-hold-up.json) |
 | Hold.for.Humans | 348478 | [348478-hold-for-humans.json](./348478-hold-for-humans.json) |
@@ -14595,7 +14592,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Jam | 30515 | [30515-hyper-jam.json](./30515-hyper-jam.json) |
 | Hyper Kitten | 212432 | [212432-hyper-kitten.json](./212432-hyper-kitten.json) |
 | Hyper Knights | 29410 | [29410-hyper-knights.json](./29410-hyper-knights.json) |
-| Hyper Knights: Battles | 75829 | [75829-hyper-knights-battles.json](./75829-hyper-knights-battles.json) |
 | Hyper Knights: Challenges | 155285 | [155285-hyper-knights-challenges.json](./155285-hyper-knights-challenges.json) |
 | Hyper Light Breaker | 194965 | [194965-hyper-light-breaker.json](./194965-hyper-light-breaker.json) |
 | Hyper Light Drifter: Collector's Edition | 196209 | [196209-hyper-light-drifter-collectors-edition.json](./196209-hyper-light-drifter-collectors-edition.json) |
