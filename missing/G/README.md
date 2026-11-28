@@ -346,7 +346,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachi: Christmas Party | 236038 | [236038-gachi-christmas-party.json](./236038-gachi-christmas-party.json) |
 | Gachi: Space Orgasm | 235786 | [235786-gachi-space-orgasm.json](./235786-gachi-space-orgasm.json) |
 | Gachiakuta: Breakout | 382361 | [382361-gachiakuta-breakout.json](./382361-gachiakuta-breakout.json) |
-| Gachimuchi | 75195 | [75195-gachimuchi.json](./75195-gachimuchi.json) |
 | Gachimuchi Arcade: Lustful Boys | 113296 | [113296-gachimuchi-arcade-lustful-boys.json](./113296-gachimuchi-arcade-lustful-boys.json) |
 | Gachimuchi Life Simulator | 159383 | [159383-gachimuchi-life-simulator.json](./159383-gachimuchi-life-simulator.json) |
 | Gachimuchi: The Card Game | 115583 | [115583-gachimuchi-the-card-game.json](./115583-gachimuchi-the-card-game.json) |
@@ -742,7 +741,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Rush | 399554 | [399554-galactic-rush.json](./399554-galactic-rush.json) |
 | Galactic Rusherz | 314667 | [314667-galactic-rusherz.json](./314667-galactic-rusherz.json) |
 | Galactic Seals Survivors | 398169 | [398169-galactic-seals-survivors.json](./398169-galactic-seals-survivors.json) |
-| Galactic Shipwright | 75399 | [75399-galactic-shipwright.json](./75399-galactic-shipwright.json) |
 | Galactic Simulator | 329595 | [329595-galactic-simulator.json](./329595-galactic-simulator.json) |
 | Galactic Simulator2: Stargate | 344539 | [344539-galactic-simulator2-stargate.json](./344539-galactic-simulator2-stargate.json) |
 | Galactic Slice | 362320 | [362320-galactic-slice.json](./362320-galactic-slice.json) |
@@ -2635,7 +2633,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet Legends | 322268 | [322268-gauntlet-legends.json](./322268-gauntlet-legends.json) |
 | Gauntlet Legends | 322269 | [322269-gauntlet-legends.json](./322269-gauntlet-legends.json) |
 | Gauntlet Legends | 3501 | [3501-gauntlet-legends.json](./3501-gauntlet-legends.json) |
-| Gauntlet of IRE | 76271 | [76271-gauntlet-of-ire.json](./76271-gauntlet-of-ire.json) |
 | Gauntlet: Seven Sorrows | 5844 | [5844-gauntlet-seven-sorrows.json](./5844-gauntlet-seven-sorrows.json) |
 | Gauntlet: Slayer Edition | 20044 | [20044-gauntlet-slayer-edition.json](./20044-gauntlet-slayer-edition.json) |
 | Gauntlet: Slayer Edition - Lilith the Necromancer Pack | 226429 | [226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json](./226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json) |
@@ -6815,7 +6812,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblins Can Conquer | 404972 | [404972-goblins-can-conquer.json](./404972-goblins-can-conquer.json) |
 | Goblins Factory | 213003 | [213003-goblins-factory.json](./213003-goblins-factory.json) |
 | Goblins Go Up! | 382722 | [382722-goblins-go-up.json](./382722-goblins-go-up.json) |
-| Goblins Keep Coming - Tower Defense | 75390 | [75390-goblins-keep-coming-tower-defense.json](./75390-goblins-keep-coming-tower-defense.json) |
 | Goblins Never Die | 258446 | [258446-goblins-never-die.json](./258446-goblins-never-die.json) |
 | Goblins of Elderstone | 55262 | [55262-goblins-of-elderstone.json](./55262-goblins-of-elderstone.json) |
 | Goblins on Alien Planet | 103794 | [103794-goblins-on-alien-planet.json](./103794-goblins-on-alien-planet.json) |
@@ -8807,7 +8803,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabe 4x4 | 233310 | [233310-grabe-4x4.json](./233310-grabe-4x4.json) |
 | Grabit | 412373 | [412373-grabit.json](./412373-grabit.json) |
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
-| Grabity | 75073 | [75073-grabity.json](./75073-grabity.json) |
 | Grablox | 63623 | [63623-grablox.json](./63623-grablox.json) |
 | Grabover Manor | 419096 | [419096-grabover-manor.json](./419096-grabover-manor.json) |
 | Grace | 128052 | [128052-grace.json](./128052-grace.json) |
