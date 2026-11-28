@@ -4868,7 +4868,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Pig | 291001 | [291001-kitty-pig.json](./291001-kitty-pig.json) |
 | Kitty Pile | 428587 | [428587-kitty-pile.json](./428587-kitty-pile.json) |
 | Kitty Play | 105079 | [105079-kitty-play.json](./105079-kitty-play.json) |
-| Kitty Powers' Love Life | 84570 | [84570-kitty-powers-love-life.json](./84570-kitty-powers-love-life.json) |
 | Kitty Powers' Matchmaker Makeover | 388047 | [388047-kitty-powers-matchmaker-makeover.json](./388047-kitty-powers-matchmaker-makeover.json) |
 | Kitty Powers' Matchmaker: Deluxe Edition | 146689 | [146689-kitty-powers-matchmaker-deluxe-edition.json](./146689-kitty-powers-matchmaker-deluxe-edition.json) |
 | Kitty Q | 214063 | [214063-kitty-q.json](./214063-kitty-q.json) |
@@ -7182,6 +7181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurenkisho Quolta Amadeus EG | 134626 | [134626-kurenkisho-quolta-amadeus-eg.json](./134626-kurenkisho-quolta-amadeus-eg.json) |
 | Kuri | 104422 | [104422-kuri.json](./104422-kuri.json) |
 | Kuri Kinton | 40086 | [40086-kuri-kinton.json](./40086-kuri-kinton.json) |
+| Kuri Kuri Golf in Koro-koro Island | 411900 | [411900-kuri-kuri-golf-in-koro-koro-island.json](./411900-kuri-kuri-golf-in-koro-koro-island.json) |
 | Kurikin: Nano Island Story | 59337 | [59337-kurikin-nano-island-story.json](./59337-kurikin-nano-island-story.json) |
 | Kurm Frog Teach ABC | 177180 | [177180-kurm-frog-teach-abc.json](./177180-kurm-frog-teach-abc.json) |
 | Kurmatron | 255505 | [255505-kurmatron.json](./255505-kurmatron.json) |
