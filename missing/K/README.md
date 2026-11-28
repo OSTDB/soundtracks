@@ -3643,7 +3643,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Cabbage World | 386402 | [386402-king-of-the-cabbage-world.json](./386402-king-of-the-cabbage-world.json) |
 | King of the Castle | 42146 | [42146-king-of-the-castle.json](./42146-king-of-the-castle.json) |
 | King of the Chat | 339918 | [339918-king-of-the-chat.json](./339918-king-of-the-chat.json) |
-| King of the Couch: Zoovival | 75602 | [75602-king-of-the-couch-zoovival.json](./75602-king-of-the-couch-zoovival.json) |
 | King of the Course | 58307 | [58307-king-of-the-course.json](./58307-king-of-the-course.json) |
 | King of the Cul-De-Sac | 117874 | [117874-king-of-the-cul-de-sac.json](./117874-king-of-the-cul-de-sac.json) |
 | King of the Dead | 105647 | [105647-king-of-the-dead.json](./105647-king-of-the-dead.json) |
@@ -3874,7 +3873,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Cum | 340790 | [340790-kingdom-cum.json](./340790-kingdom-cum.json) |
 | Kingdom Days Sim Date | 197618 | [197618-kingdom-days-sim-date.json](./197618-kingdom-days-sim-date.json) |
 | Kingdom Death: Simulator | 360609 | [360609-kingdom-death-simulator.json](./360609-kingdom-death-simulator.json) |
-| Kingdom Defense | 76104 | [76104-kingdom-defense.json](./76104-kingdom-defense.json) |
 | Kingdom Defense 2: Empire Warriors | 104361 | [104361-kingdom-defense-2-empire-warriors.json](./104361-kingdom-defense-2-empire-warriors.json) |
 | Kingdom Defense: Deliverance | 333136 | [333136-kingdom-defense-deliverance.json](./333136-kingdom-defense-deliverance.json) |
 | Kingdom Defense: Hero Legend | 105834 | [105834-kingdom-defense-hero-legend.json](./105834-kingdom-defense-hero-legend.json) |
