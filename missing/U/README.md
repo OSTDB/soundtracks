@@ -1860,7 +1860,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Par Golf Architect | 334365 | [334365-under-par-golf-architect.json](./334365-under-par-golf-architect.json) |
 | Under Pressure | 206623 | [206623-under-pressure.json](./206623-under-pressure.json) |
 | Under Pressure | 267787 | [267787-under-pressure.json](./267787-under-pressure.json) |
-| Under Pressure | 80602 | [80602-under-pressure.json](./80602-under-pressure.json) |
 | Under Pretense of Death | 177334 | [177334-under-pretense-of-death.json](./177334-under-pretense-of-death.json) |
 | Under Princess: Pure Voice | 109005 | [109005-under-princess-pure-voice.json](./109005-under-princess-pure-voice.json) |
 | Under Review | 424283 | [424283-under-review.json](./424283-under-review.json) |
