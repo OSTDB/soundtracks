@@ -428,7 +428,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FaceBreaker K.O. Party | 85129 | [85129-facebreaker-k-o-party.json](./85129-facebreaker-k-o-party.json) |
 | FaceChase | 407615 | [407615-facechase.json](./407615-facechase.json) |
 | Faced | 181377 | [181377-faced.json](./181377-faced.json) |
-| Faceez | 85130 | [85130-faceez.json](./85130-faceez.json) |
 | Faceez: Monsters! | 85131 | [85131-faceez-monsters.json](./85131-faceez-monsters.json) |
 | Facehand | 269251 | [269251-facehand.json](./269251-facehand.json) |
 | Faceless | 293539 | [293539-faceless.json](./293539-faceless.json) |
@@ -2089,7 +2088,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Animal Friends Bundle 3 in 1 | 378833 | [378833-fantastic-animal-friends-bundle-3-in-1.json](./378833-fantastic-animal-friends-bundle-3-in-1.json) |
 | Fantastic Annihilation | 323410 | [323410-fantastic-annihilation.json](./323410-fantastic-annihilation.json) |
 | Fantastic Baseball | 292785 | [292785-fantastic-baseball.json](./292785-fantastic-baseball.json) |
-| Fantastic Beasts and Where to Find Them | 83979 | [83979-fantastic-beasts-and-where-to-find-them.json](./83979-fantastic-beasts-and-where-to-find-them.json) |
 | Fantastic Beasts and Where to Find Them: VR Experience | 98482 | [98482-fantastic-beasts-and-where-to-find-them-vr-experience.json](./98482-fantastic-beasts-and-where-to-find-them-vr-experience.json) |
 | Fantastic Beasts: Cases from the Wizarding World | 69389 | [69389-fantastic-beasts-cases-from-the-wizarding-world.json](./69389-fantastic-beasts-cases-from-the-wizarding-world.json) |
 | Fantastic Checkers | 89798 | [89798-fantastic-checkers.json](./89798-fantastic-checkers.json) |
@@ -2350,7 +2348,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 18: Explore New Colors | 38778 | [38778-fantasy-mosaics-18-explore-new-colors.json](./38778-fantasy-mosaics-18-explore-new-colors.json) |
 | Fantasy Mosaics 19: Edge of the World | 86281 | [86281-fantasy-mosaics-19-edge-of-the-world.json](./86281-fantasy-mosaics-19-edge-of-the-world.json) |
 | Fantasy Mosaics 2 | 100733 | [100733-fantasy-mosaics-2.json](./100733-fantasy-mosaics-2.json) |
-| Fantasy Mosaics 20: Castle of Puzzles | 86293 | [86293-fantasy-mosaics-20-castle-of-puzzles.json](./86293-fantasy-mosaics-20-castle-of-puzzles.json) |
 | Fantasy Mosaics 21: On the Movie Set | 86398 | [86398-fantasy-mosaics-21-on-the-movie-set.json](./86398-fantasy-mosaics-21-on-the-movie-set.json) |
 | Fantasy Mosaics 22: Summer Vacation | 86399 | [86399-fantasy-mosaics-22-summer-vacation.json](./86399-fantasy-mosaics-22-summer-vacation.json) |
 | Fantasy Mosaics 23: Magic Forest | 86400 | [86400-fantasy-mosaics-23-magic-forest.json](./86400-fantasy-mosaics-23-magic-forest.json) |
@@ -2403,7 +2400,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Pieces: Chapter II | 418809 | [418809-fantasy-pieces-chapter-ii.json](./418809-fantasy-pieces-chapter-ii.json) |
 | Fantasy Pieces: Chapter III | 418810 | [418810-fantasy-pieces-chapter-iii.json](./418810-fantasy-pieces-chapter-iii.json) |
 | Fantasy Pinball | 230713 | [230713-fantasy-pinball.json](./230713-fantasy-pinball.json) |
-| Fantasy Pirates | 85657 | [85657-fantasy-pirates.json](./85657-fantasy-pirates.json) |
 | Fantasy Puzzle 3D | 358046 | [358046-fantasy-puzzle-3d.json](./358046-fantasy-puzzle-3d.json) |
 | Fantasy Puzzle Hamster Monogatari Mahou no Meikyuu | 287261 | [287261-fantasy-puzzle-hamster-monogatari-mahou-no-meikyuu.json](./287261-fantasy-puzzle-hamster-monogatari-mahou-no-meikyuu.json) |
 | Fantasy Puzzle King | 312697 | [312697-fantasy-puzzle-king.json](./312697-fantasy-puzzle-king.json) |
@@ -3272,7 +3268,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fart Hotel | 243967 | [243967-fart-hotel.json](./243967-fart-hotel.json) |
 | Fart Killer | 312865 | [312865-fart-killer.json](./312865-fart-killer.json) |
 | Fart King | 338558 | [338558-fart-king.json](./338558-fart-king.json) |
-| Fart Simulator 2018 | 84120 | [84120-fart-simulator-2018.json](./84120-fart-simulator-2018.json) |
 | Fart Together | 421011 | [421011-fart-together.json](./421011-fart-together.json) |
 | Fart Up | 299455 | [299455-fart-up.json](./299455-fart-up.json) |
 | Fartal Error | 365033 | [365033-fartal-error.json](./365033-fartal-error.json) |
@@ -5975,6 +5970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
 | Final Fantasy XIV: Evercold | 399337 | [399337-final-fantasy-xiv-evercold.json](./399337-final-fantasy-xiv-evercold.json) |
+| Final Fantasy XIV: Evercold - Collector's Edition | 411355 | [411355-final-fantasy-xiv-evercold-collectors-edition.json](./411355-final-fantasy-xiv-evercold-collectors-edition.json) |
 | Final Fantasy XIV: Futures Rewritten | 221546 | [221546-final-fantasy-xiv-futures-rewritten.json](./221546-final-fantasy-xiv-futures-rewritten.json) |
 | Final Fantasy XIV: Gods Revel, Lands Tremble | 228886 | [228886-final-fantasy-xiv-gods-revel-lands-tremble.json](./228886-final-fantasy-xiv-gods-revel-lands-tremble.json) |
 | Final Fantasy XIV: Growing Light | 259399 | [259399-final-fantasy-xiv-growing-light.json](./259399-final-fantasy-xiv-growing-light.json) |
@@ -7065,6 +7061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireball SE | 22313 | [22313-fireball-se.json](./22313-fireball-se.json) |
 | Fireball Spam | 243788 | [243788-fireball-spam.json](./243788-fireball-spam.json) |
 | Fireball Wizard | 192846 | [192846-fireball-wizard.json](./192846-fireball-wizard.json) |
+| Fireball: Nazo no Tempest-jou | 403612 | [403612-fireball-nazo-no-tempest-jou.json](./403612-fireball-nazo-no-tempest-jou.json) |
 | Firebase Defence | 110519 | [110519-firebase-defence.json](./110519-firebase-defence.json) |
 | Firebat: Revolution | 317550 | [317550-firebat-revolution.json](./317550-firebat-revolution.json) |
 | Firebird | 193655 | [193655-firebird.json](./193655-firebird.json) |
@@ -8117,6 +8114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Candy's 3 | 45981 | [45981-five-nights-at-candys-3.json](./45981-five-nights-at-candys-3.json) |
 | Five Nights at Candy's 3 DX | 266218 | [266218-five-nights-at-candys-3-dx.json](./266218-five-nights-at-candys-3-dx.json) |
 | Five Nights at Candy's 4 | 208702 | [208702-five-nights-at-candys-4.json](./208702-five-nights-at-candys-4.json) |
+| Five Nights at Candy's 4 Fan-Concept | 427197 | [427197-five-nights-at-candys-4-fan-concept.json](./427197-five-nights-at-candys-4-fan-concept.json) |
 | Five Nights at Candy's DX | 266212 | [266212-five-nights-at-candys-dx.json](./266212-five-nights-at-candys-dx.json) |
 | Five Nights at Chuck E. Cheese's: Rebooted | 238433 | [238433-five-nights-at-chuck-e-cheeses-rebooted.json](./238433-five-nights-at-chuck-e-cheeses-rebooted.json) |
 | Five Nights at Cobson's | 280558 | [280558-five-nights-at-cobsons.json](./280558-five-nights-at-cobsons.json) |
@@ -8148,6 +8146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 2 | 305746 | [305746-five-nights-at-freddys-2.json](./305746-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 2 | 339238 | [339238-five-nights-at-freddys-2.json](./339238-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 2 | 9195 | [9195-five-nights-at-freddys-2.json](./9195-five-nights-at-freddys-2.json) |
+| Five Nights at Freddy's 2: Redux | 417432 | [417432-five-nights-at-freddys-2-redux.json](./417432-five-nights-at-freddys-2-redux.json) |
 | Five Nights at Freddy's 3 | 230775 | [230775-five-nights-at-freddys-3.json](./230775-five-nights-at-freddys-3.json) |
 | Five Nights at Freddy's 3 | 241177 | [241177-five-nights-at-freddys-3.json](./241177-five-nights-at-freddys-3.json) |
 | Five Nights at Freddy's 3 | 265913 | [265913-five-nights-at-freddys-3.json](./265913-five-nights-at-freddys-3.json) |
@@ -8183,6 +8182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Backlogged | 329023 | [329023-five-nights-at-freddys-backlogged.json](./329023-five-nights-at-freddys-backlogged.json) |
 | Five Nights at Freddy's: Blood & Gears | 331177 | [331177-five-nights-at-freddys-blood-and-gears.json](./331177-five-nights-at-freddys-blood-and-gears.json) |
 | Five Nights at Freddy's: Core Collection | 140169 | [140169-five-nights-at-freddys-core-collection.json](./140169-five-nights-at-freddys-core-collection.json) |
+| Five Nights at Freddy's: Deluxe Edition | 427061 | [427061-five-nights-at-freddys-deluxe-edition.json](./427061-five-nights-at-freddys-deluxe-edition.json) |
 | Five Nights at Freddy's: Fazbear's 1985 | 408405 | [408405-five-nights-at-freddys-fazbears-1985.json](./408405-five-nights-at-freddys-fazbears-1985.json) |
 | Five Nights At Freddy's: Guard Vs Guard | 176667 | [176667-five-nights-at-freddys-guard-vs-guard.json](./176667-five-nights-at-freddys-guard-vs-guard.json) |
 | Five Nights at Freddy's: Help Wanted | 115304 | [115304-five-nights-at-freddys-help-wanted.json](./115304-five-nights-at-freddys-help-wanted.json) |
@@ -10876,7 +10876,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Rising: Zero to Hero | 406285 | [406285-football-rising-zero-to-hero.json](./406285-football-rising-zero-to-hero.json) |
 | Football Rivals | 247307 | [247307-football-rivals.json](./247307-football-rivals.json) |
 | Football Run | 186957 | [186957-football-run.json](./186957-football-run.json) |
-| Football Russian 20!8 | 86306 | [86306-football-russian-20-8.json](./86306-football-russian-20-8.json) |
 | Football Saga Fantasista | 244801 | [244801-football-saga-fantasista.json](./244801-football-saga-fantasista.json) |
 | Football School | 120084 | [120084-football-school.json](./120084-football-school.json) |
 | Football Scout Simulator | 428733 | [428733-football-scout-simulator.json](./428733-football-scout-simulator.json) |
@@ -13909,6 +13908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin' Draw | 229466 | [229466-friday-night-funkin-draw.json](./229466-friday-night-funkin-draw.json) |
 | Friday Night Funkin' Indie Cross | 228814 | [228814-friday-night-funkin-indie-cross.json](./228814-friday-night-funkin-indie-cross.json) |
 | Friday Night Funkin' Lullaby | 198347 | [198347-friday-night-funkin-lullaby.json](./198347-friday-night-funkin-lullaby.json) |
+| Friday Night Funkin' QT: Rewired | 393273 | [393273-friday-night-funkin-qt-rewired.json](./393273-friday-night-funkin-qt-rewired.json) |
 | Friday Night Funkin' Red Version: vs. Red | 322374 | [322374-friday-night-funkin-red-version-vs-red.json](./322374-friday-night-funkin-red-version-vs-red.json) |
 | Friday Night Funkin' Soft | 206928 | [206928-friday-night-funkin-soft.json](./206928-friday-night-funkin-soft.json) |
 | Friday Night Funkin' VR | 179643 | [179643-friday-night-funkin-vr.json](./179643-friday-night-funkin-vr.json) |
@@ -13939,6 +13939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Miku Full Week | 206925 | [206925-friday-night-funkin-miku-full-week.json](./206925-friday-night-funkin-miku-full-week.json) |
 | Friday Night Funkin': Pibby Corrupted | 280717 | [280717-friday-night-funkin-pibby-corrupted.json](./280717-friday-night-funkin-pibby-corrupted.json) |
 | Friday Night Funkin': Pibby Corrupted Kitchen Gun | 269295 | [269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json](./269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json) |
+| Friday Night Funkin': QT Mod | 393262 | [393262-friday-night-funkin-qt-mod.json](./393262-friday-night-funkin-qt-mod.json) |
 | Friday Night Funkin': Skibidi Invasion | 267494 | [267494-friday-night-funkin-skibidi-invasion.json](./267494-friday-night-funkin-skibidi-invasion.json) |
 | Friday Night Funkin': Smoke 'Em Out Struggle | 200960 | [200960-friday-night-funkin-smoke-em-out-struggle.json](./200960-friday-night-funkin-smoke-em-out-struggle.json) |
 | Friday Night Funkin': Sprite Corruption | 352831 | [352831-friday-night-funkin-sprite-corruption.json](./352831-friday-night-funkin-sprite-corruption.json) |
@@ -15306,7 +15307,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fulfillment | 126888 | [126888-fulfillment.json](./126888-fulfillment.json) |
 | Fulfillment Center Simulator | 320935 | [320935-fulfillment-center-simulator.json](./320935-fulfillment-center-simulator.json) |
 | Fulger McQueen Off road | 231951 | [231951-fulger-mcqueen-off-road.json](./231951-fulger-mcqueen-off-road.json) |
-| Full Ace Tennis Simulator | 84009 | [84009-full-ace-tennis-simulator.json](./84009-full-ace-tennis-simulator.json) |
 | Full ADHD | 326669 | [326669-full-adhd.json](./326669-full-adhd.json) |
 | Full Animal Party | 132551 | [132551-full-animal-party.json](./132551-full-animal-party.json) |
 | Full Auto | 6998 | [6998-full-auto.json](./6998-full-auto.json) |
