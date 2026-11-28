@@ -705,6 +705,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dambusters | 65237 | [65237-dambusters.json](./65237-dambusters.json) |
 | DamCell: Princess Run | 175299 | [175299-damcell-princess-run.json](./175299-damcell-princess-run.json) |
 | Dame Tu Cosita | 334917 | [334917-dame-tu-cosita.json](./334917-dame-tu-cosita.json) |
+| Dame Tu Cosita's Education and Learning | 427191 | [427191-dame-tu-cositas-education-and-learning.json](./427191-dame-tu-cositas-education-and-learning.json) |
+| Dame Tu Cosita's Education and Learning 2 | 427189 | [427189-dame-tu-cositas-education-and-learning-2.json](./427189-dame-tu-cositas-education-and-learning-2.json) |
+| Dame Tu Cosita's Education and Learning 3 | 427192 | [427192-dame-tu-cositas-education-and-learning-3.json](./427192-dame-tu-cositas-education-and-learning-3.json) |
 | Dami & Flo | 179461 | [179461-dami-and-flo.json](./179461-dami-and-flo.json) |
 | Dami and Secret Library | 375507 | [375507-dami-and-secret-library.json](./375507-dami-and-secret-library.json) |
 | Damien | 164113 | [164113-damien.json](./164113-damien.json) |
@@ -4288,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Man's Hand | 5809 | [5809-dead-mans-hand.json](./5809-dead-mans-hand.json) |
 | Dead Man's Hand: Card Roulette Action | 291388 | [291388-dead-mans-hand-card-roulette-action.json](./291388-dead-mans-hand-card-roulette-action.json) |
 | Dead Man's Journey | 58314 | [58314-dead-mans-journey.json](./58314-dead-mans-journey.json) |
+| Dead Man's Party: A Knives Out Game | 411422 | [411422-dead-mans-party-a-knives-out-game.json](./411422-dead-mans-party-a-knives-out-game.json) |
 | Dead Man's Political Party | 71454 | [71454-dead-mans-political-party.json](./71454-dead-mans-political-party.json) |
 | Dead Man's Quest | 271937 | [271937-dead-mans-quest.json](./271937-dead-mans-quest.json) |
 | Dead Man's Rest | 150322 | [150322-dead-mans-rest.json](./150322-dead-mans-rest.json) |
@@ -8314,7 +8318,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desecrated Deck | 338709 | [338709-desecrated-deck.json](./338709-desecrated-deck.json) |
 | Desecration | 157019 | [157019-desecration.json](./157019-desecration.json) |
 | Desecration | 343843 | [343843-desecration.json](./343843-desecration.json) |
-| Desecration of Wings | 86305 | [86305-desecration-of-wings.json](./86305-desecration-of-wings.json) |
 | Desecrator | 417227 | [417227-desecrator.json](./417227-desecrator.json) |
 | Desecrators | 144823 | [144823-desecrators.json](./144823-desecrators.json) |
 | Desenho Livre | 290092 | [290092-desenho-livre.json](./290092-desenho-livre.json) |
@@ -9635,6 +9638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devoured Time | 35583 | [35583-devoured-time.json](./35583-devoured-time.json) |
 | Devouring City | 422996 | [422996-devouring-city.json](./422996-devouring-city.json) |
 | Devouring Stars | 35663 | [35663-devouring-stars.json](./35663-devouring-stars.json) |
+| Devout | 429831 | [429831-devout.json](./429831-devout.json) |
 | Devtheism | 134512 | [134512-devtheism.json](./134512-devtheism.json) |
 | DevTycoon | 329780 | [329780-devtycoon.json](./329780-devtycoon.json) |
 | Devwill | 74133 | [74133-devwill.json](./74133-devwill.json) |
@@ -12429,6 +12433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Hercules Action Game | 9814 | [9814-disneys-hercules-action-game.json](./9814-disneys-hercules-action-game.json) |
 | Disney's Hercules: Animated Storybook | 139313 | [139313-disneys-hercules-animated-storybook.json](./139313-disneys-hercules-animated-storybook.json) |
 | Disney's Home on the Range | 49153 | [49153-disneys-home-on-the-range.json](./49153-disneys-home-on-the-range.json) |
+| Disney's Hot Shots: Timon & Pumbaa's Hippo Hop | 409735 | [409735-disneys-hot-shots-timon-and-pumbaas-hippo-hop.json](./409735-disneys-hot-shots-timon-and-pumbaas-hippo-hop.json) |
 | Disney's Hot Shots: Timon and Pumbaa's Jungle Pinball | 109480 | [109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json](./109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json) |
 | Disney's House of Mouse: Pack the House | 337139 | [337139-disneys-house-of-mouse-pack-the-house.json](./337139-disneys-house-of-mouse-pack-the-house.json) |
 | Disney's Kim Possible | 339884 | [339884-disneys-kim-possible.json](./339884-disneys-kim-possible.json) |
@@ -15009,7 +15014,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Pac-Man Crossover | 290237 | [290237-donkey-kong-pac-man-crossover.json](./290237-donkey-kong-pac-man-crossover.json) |
 | Donkey Kong Parking Attendant Arcade Game | 297265 | [297265-donkey-kong-parking-attendant-arcade-game.json](./297265-donkey-kong-parking-attendant-arcade-game.json) |
 | Donkey Kong Plus | 185889 | [185889-donkey-kong-plus.json](./185889-donkey-kong-plus.json) |
-| Donkey Kong Racing | 85577 | [85577-donkey-kong-racing.json](./85577-donkey-kong-racing.json) |
 | Donkey Kong Redux | 331437 | [331437-donkey-kong-redux.json](./331437-donkey-kong-redux.json) |
 | Donkey Kong Returns | 191438 | [191438-donkey-kong-returns.json](./191438-donkey-kong-returns.json) |
 | Donkey Kong RNDMZR | 308716 | [308716-donkey-kong-rndmzr.json](./308716-donkey-kong-rndmzr.json) |
@@ -16733,6 +16737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr.Tool Mathe Trainer | 91617 | [91617-dr-tool-mathe-trainer.json](./91617-dr-tool-mathe-trainer.json) |
 | Dr.Tool Mathe Trainer und Nonogram | 91619 | [91619-dr-tool-mathe-trainer-und-nonogram.json](./91619-dr-tool-mathe-trainer-und-nonogram.json) |
 | Dr.Tool Toy Factory | 78928 | [78928-dr-tool-toy-factory.json](./78928-dr-tool-toy-factory.json) |
+| DR10MINS: Tokimeki Shuugaku Ryokou in the Ocean | 388714 | [388714-dr10mins-tokimeki-shuugaku-ryokou-in-the-ocean.json](./388714-dr10mins-tokimeki-shuugaku-ryokou-in-the-ocean.json) |
 | DR2 Night Janki | 247502 | [247502-dr2-night-janki.json](./247502-dr2-night-janki.json) |
 | Dr4x | 173885 | [173885-dr4x.json](./173885-dr4x.json) |
 | Drabidiboo | 155264 | [155264-drabidiboo.json](./155264-drabidiboo.json) |
