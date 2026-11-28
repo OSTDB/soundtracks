@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad-Challenge 07 | 93235 | [93235-rad-challenge-07.json](./93235-rad-challenge-07.json) |
 | RAD: Ascension | 428211 | [428211-rad-ascension.json](./428211-rad-ascension.json) |
 | Rad: Before the Adventure | 183470 | [183470-rad-before-the-adventure.json](./183470-rad-before-the-adventure.json) |
+| RAD: Rise After Destruction | 417649 | [417649-rad-rise-after-destruction.json](./417649-rad-rise-after-destruction.json) |
 | Rada Quest | 239367 | [239367-rada-quest.json](./239367-rada-quest.json) |
 | Radac: Tailor-Made | 48821 | [48821-radac-tailor-made.json](./48821-radac-tailor-made.json) |
 | Radagon Boss FIght | 290362 | [290362-radagon-boss-fight.json](./290362-radagon-boss-fight.json) |
@@ -4912,7 +4913,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redline Royale | 237633 | [237633-redline-royale.json](./237633-redline-royale.json) |
 | Redline Rumble | 388120 | [388120-redline-rumble.json](./388120-redline-rumble.json) |
 | Redline Rush | 242003 | [242003-redline-rush.json](./242003-redline-rush.json) |
-| Redline Ultimate Racing | 84083 | [84083-redline-ultimate-racing.json](./84083-redline-ultimate-racing.json) |
 | Redline: Drift | 174854 | [174854-redline-drift.json](./174854-redline-drift.json) |
 | Redline: Sport | 255755 | [255755-redline-sport.json](./255755-redline-sport.json) |
 | Redline: Xtreme Air Racing 2 | 61742 | [61742-redline-xtreme-air-racing-2.json](./61742-redline-xtreme-air-racing-2.json) |
@@ -5196,7 +5196,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflectron | 278392 | [278392-reflectron.json](./278392-reflectron.json) |
 | Reflectron | 42048 | [42048-reflectron.json](./42048-reflectron.json) |
 | Reflex | 189851 | [189851-reflex.json](./189851-reflex.json) |
-| Reflex | 86345 | [86345-reflex.json](./86345-reflex.json) |
 | RefleX | 26711 | [26711-reflex.json](./26711-reflex.json) |
 | Reflex Arena | 9075 | [9075-reflex-arena.json](./9075-reflex-arena.json) |
 | Reflex Drop Time Race | 367849 | [367849-reflex-drop-time-race.json](./367849-reflex-drop-time-race.json) |
@@ -6155,7 +6154,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reptilian Rising | 153846 | [153846-reptilian-rising.json](./153846-reptilian-rising.json) |
 | Reptilians Must Die! | 30509 | [30509-reptilians-must-die.json](./30509-reptilians-must-die.json) |
 | Reptillian Rebellion | 123610 | [123610-reptillian-rebellion.json](./123610-reptillian-rebellion.json) |
-| Reptiloids | 83947 | [83947-reptiloids.json](./83947-reptiloids.json) |
 | Reptiloids 2 | 334831 | [334831-reptiloids-2.json](./334831-reptiloids-2.json) |
 | Reptomom | 113807 | [113807-reptomom.json](./113807-reptomom.json) |
 | Repton | 22693 | [22693-repton.json](./22693-repton.json) |
@@ -6646,6 +6644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistor | 252786 | [252786-resistor.json](./252786-resistor.json) |
 | ReSizE | 72398 | [72398-resize.json](./72398-resize.json) |
 | Resize Me! | 365386 | [365386-resize-me.json](./365386-resize-me.json) |
+| ReSkate | 422835 | [422835-reskate.json](./422835-reskate.json) |
 | Reskue | 152949 | [152949-reskue.json](./152949-reskue.json) |
 | reSnake | 230734 | [230734-resnake.json](./230734-resnake.json) |
 | Reso-Seeker | 244630 | [244630-reso-seeker.json](./244630-reso-seeker.json) |
@@ -9256,6 +9255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Sands | 292572 | [292572-rising-sands.json](./292572-rising-sands.json) |
 | Rising Snake | 123567 | [123567-rising-snake.json](./123567-rising-snake.json) |
 | Rising Snake: The Present World | 251859 | [251859-rising-snake-the-present-world.json](./251859-rising-snake-the-present-world.json) |
+| Rising Spin | 428861 | [428861-rising-spin.json](./428861-rising-spin.json) |
 | Rising Spire | 152795 | [152795-rising-spire.json](./152795-rising-spire.json) |
 | Rising Spirit | 402350 | [402350-rising-spirit.json](./402350-rising-spirit.json) |
 | Rising Star | 187043 | [187043-rising-star.json](./187043-rising-star.json) |
@@ -9637,6 +9637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RNG Quest | 338865 | [338865-rng-quest.json](./338865-rng-quest.json) |
 | RNG Quest | 338866 | [338866-rng-quest.json](./338866-rng-quest.json) |
 | RNG Royale | 191532 | [191532-rng-royale.json](./191532-rng-royale.json) |
+| RNGdle | 420854 | [420854-rngdle.json](./420854-rngdle.json) |
 | RnGesus Slayer | 303932 | [303932-rngesus-slayer.json](./303932-rngesus-slayer.json) |
 | RNLI Storm Force Rescue | 370398 | [370398-rnli-storm-force-rescue.json](./370398-rnli-storm-force-rescue.json) |
 | Ro | 238286 | [238286-ro.json](./238286-ro.json) |
@@ -12580,6 +12581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Box | 195701 | [195701-room-box.json](./195701-room-box.json) |
 | Room Builder | 180913 | [180913-room-builder.json](./180913-room-builder.json) |
 | Room by Room | 410932 | [410932-room-by-room.json](./410932-room-by-room.json) |
+| Room Claw | 426973 | [426973-room-claw.json](./426973-room-claw.json) |
 | Room Cleaning | 264988 | [264988-room-cleaning.json](./264988-room-cleaning.json) |
 | Room Cleaning 2 | 272939 | [272939-room-cleaning-2.json](./272939-room-cleaning-2.json) |
 | Room Cleaning Simulator 2014 | 178937 | [178937-room-cleaning-simulator-2014.json](./178937-room-cleaning-simulator-2014.json) |
@@ -13000,7 +13002,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotato Disc Jam | 176385 | [176385-rotato-disc-jam.json](./176385-rotato-disc-jam.json) |
 | Rotato Rocket | 176156 | [176156-rotato-rocket.json](./176156-rotato-rocket.json) |
 | Rotato Ship | 185612 | [185612-rotato-ship.json](./185612-rotato-ship.json) |
-| Rotator | 83999 | [83999-rotator.json](./83999-rotator.json) |
 | Rotatorix | 74379 | [74379-rotatorix.json](./74379-rotatorix.json) |
 | Rote | 105428 | [105428-rote.json](./105428-rote.json) |
 | Rote2: RoteSquare | 195346 | [195346-rote2-rotesquare.json](./195346-rote2-rotesquare.json) |
@@ -13509,7 +13510,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Maker VX Ace: Winter Wonderland Tiles | 53555 | [53555-rpg-maker-vx-ace-winter-wonderland-tiles.json](./53555-rpg-maker-vx-ace-winter-wonderland-tiles.json) |
 | RPG Maker With | 291538 | [291538-rpg-maker-with.json](./291538-rpg-maker-with.json) |
 | RPG Maker XP | 30228 | [30228-rpg-maker-xp.json](./30228-rpg-maker-xp.json) |
-| RPG Merchant | 86335 | [86335-rpg-merchant.json](./86335-rpg-merchant.json) |
 | RPG Mix | 146565 | [146565-rpg-mix.json](./146565-rpg-mix.json) |
 | RPG MO | 35161 | [35161-rpg-mo.json](./35161-rpg-mo.json) |
 | RPG MO Sandbox | 102011 | [102011-rpg-mo-sandbox.json](./102011-rpg-mo-sandbox.json) |
@@ -14074,7 +14074,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rummel & Rabalder: SkumCity | 399390 | [399390-rummel-and-rabalder-skumcity.json](./399390-rummel-and-rabalder-skumcity.json) |
 | Rummi | 181530 | [181530-rummi.json](./181530-rummi.json) |
 | Rummikub | 243274 | [243274-rummikub.json](./243274-rummikub.json) |
-| Rummikub | 84850 | [84850-rummikub.json](./84850-rummikub.json) |
 | Rummix | 387075 | [387075-rummix.json](./387075-rummix.json) |
 | Rummy | 370401 | [370401-rummy.json](./370401-rummy.json) |
 | Rummy - classic card game | 88416 | [88416-rummy-classic-card-game.json](./88416-rummy-classic-card-game.json) |
@@ -14375,7 +14374,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runbow | 11215 | [11215-runbow.json](./11215-runbow.json) |
 | Runbow: Complete Collection | 53561 | [53561-runbow-complete-collection.json](./53561-runbow-complete-collection.json) |
 | Runbow: Deluxe Edition | 51142 | [51142-runbow-deluxe-edition.json](./51142-runbow-deluxe-edition.json) |
-| Runbow: Pocket Deluxe Edition | 84910 | [84910-runbow-pocket-deluxe-edition.json](./84910-runbow-pocket-deluxe-edition.json) |
 | Runbow: Satura's Space Adventure | 226524 | [226524-runbow-saturas-space-adventure.json](./226524-runbow-saturas-space-adventure.json) |
 | RunBunRunBun | 275977 | [275977-runbunrunbun.json](./275977-runbunrunbun.json) |
 | Rundat | 145355 | [145355-rundat.json](./145355-rundat.json) |
