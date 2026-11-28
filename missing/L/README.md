@@ -1644,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Life | 253328 | [253328-last-life.json](./253328-last-life.json) |
 | Last Life | 58430 | [58430-last-life.json](./58430-last-life.json) |
 | Last Light | 163779 | [163779-last-light.json](./163779-last-light.json) |
+| Last Light | 431338 | [431338-last-light.json](./431338-last-light.json) |
 | Last Light Left | 395470 | [395470-last-light-left.json](./395470-last-light-left.json) |
 | Last Light: Survival | 427844 | [427844-last-light-survival.json](./427844-last-light-survival.json) |
 | Last Line | 179468 | [179468-last-line.json](./179468-last-line.json) |
@@ -10770,6 +10771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucie's Potager | 199261 | [199261-lucies-potager.json](./199261-lucies-potager.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
 | Lucienne's Quest | 4300 | [4300-luciennes-quest.json](./4300-luciennes-quest.json) |
+| Luciérnaga | 431741 | [431741-luciernaga.json](./431741-luciernaga.json) |
 | Lucifaria | 426273 | [426273-lucifaria.json](./426273-lucifaria.json) |
 | Lucifer Lives in Lower Manhattan | 285723 | [285723-lucifer-lives-in-lower-manhattan.json](./285723-lucifer-lives-in-lower-manhattan.json) |
 | Lucifer Ring | 43873 | [43873-lucifer-ring.json](./43873-lucifer-ring.json) |
@@ -11208,6 +11210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumen World of Color | 341189 | [341189-lumen-world-of-color.json](./341189-lumen-world-of-color.json) |
 | Lumen: The Last Hope | 365612 | [365612-lumen-the-last-hope.json](./365612-lumen-the-last-hope.json) |
 | Lumen. | 124596 | [124596-lumen.json](./124596-lumen.json) |
+| Lumen’s Call | 431342 | [431342-lumen-s-call.json](./431342-lumen-s-call.json) |
 | Lumencraft | 186294 | [186294-lumencraft.json](./186294-lumencraft.json) |
 | Lumenfall | 424259 | [424259-lumenfall.json](./424259-lumenfall.json) |
 | Lumenfall | 428572 | [428572-lumenfall.json](./428572-lumenfall.json) |
