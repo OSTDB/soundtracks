@@ -862,7 +862,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row IV: How the Saints Save Christmas | 23420 | [23420-saints-row-iv-how-the-saints-save-christmas.json](./23420-saints-row-iv-how-the-saints-save-christmas.json) |
 | Saints Row IV: National Treasure Edition | 53573 | [53573-saints-row-iv-national-treasure-edition.json](./53573-saints-row-iv-national-treasure-edition.json) |
 | Saints Row IV: Re-Elected | 7707 | [7707-saints-row-iv-re-elected.json](./7707-saints-row-iv-re-elected.json) |
-| Saints Row IV: Re-Elected & Gat out of Hell | 82419 | [82419-saints-row-iv-re-elected-and-gat-out-of-hell.json](./82419-saints-row-iv-re-elected-and-gat-out-of-hell.json) |
 | Saints Row IV: Super Dangerous Wad Wad Edition (aka the Million Dollar Pack) | 21862 | [21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json](./21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json) |
 | Saints Row Ultimate Franchise | 25500 | [25500-saints-row-ultimate-franchise.json](./25500-saints-row-ultimate-franchise.json) |
 | Saints Row V | 126151 | [126151-saints-row-v.json](./126151-saints-row-v.json) |
@@ -3294,7 +3293,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Hospital Horror Game | 157214 | [157214-scary-hospital-horror-game.json](./157214-scary-hospital-horror-game.json) |
 | Scary Hot Dogs | 424498 | [424498-scary-hot-dogs.json](./424498-scary-hot-dogs.json) |
 | Scary Hotel | 148531 | [148531-scary-hotel.json](./148531-scary-hotel.json) |
-| Scary House | 81785 | [81785-scary-house.json](./81785-scary-house.json) |
 | Scary Humans | 31094 | [31094-scary-humans.json](./31094-scary-humans.json) |
 | Scary Husband HD | 196204 | [196204-scary-husband-hd.json](./196204-scary-husband-hd.json) |
 | Scary In The Journey | 295582 | [295582-scary-in-the-journey.json](./295582-scary-in-the-journey.json) |
@@ -3378,7 +3376,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger of Dunomini | 185952 | [185952-scavenger-of-dunomini.json](./185952-scavenger-of-dunomini.json) |
 | Scavenger Run | 426183 | [426183-scavenger-run.json](./426183-scavenger-run.json) |
 | Scavenger Skirmish: Mortal World | 105372 | [105372-scavenger-skirmish-mortal-world.json](./105372-scavenger-skirmish-mortal-world.json) |
-| Scavenger SV-4 | 82347 | [82347-scavenger-sv-4.json](./82347-scavenger-sv-4.json) |
 | Scavenger T.O.M | 365179 | [365179-scavenger-t-o-m.json](./365179-scavenger-t-o-m.json) |
 | Scavenger VR | 277837 | [277837-scavenger-vr.json](./277837-scavenger-vr.json) |
 | Scavenger Zero | 334184 | [334184-scavenger-zero.json](./334184-scavenger-zero.json) |
@@ -3984,7 +3981,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP-087-B Extended Edition | 242027 | [242027-scp-087-b-extended-edition.json](./242027-scp-087-b-extended-edition.json) |
 | SCP-087-B UE Remake | 277856 | [277856-scp-087-b-ue-remake.json](./277856-scp-087-b-ue-remake.json) |
 | SCP-087-B Unity Remake Edition | 283126 | [283126-scp-087-b-unity-remake-edition.json](./283126-scp-087-b-unity-remake-edition.json) |
-| SCP-087: Recovered document | 81711 | [81711-scp-087-recovered-document.json](./81711-scp-087-recovered-document.json) |
 | SCP-087: The Stairwell Horror | 324126 | [324126-scp-087-the-stairwell-horror.json](./324126-scp-087-the-stairwell-horror.json) |
 | SCP-093 | 428615 | [428615-scp-093.json](./428615-scp-093.json) |
 | SCP-167 nn5n. Horror labyrinth | 88805 | [88805-scp-167-nn5n-horror-labyrinth.json](./88805-scp-167-nn5n-horror-labyrinth.json) |
@@ -4162,7 +4158,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap and Battery | 284297 | [284297-scrap-and-battery.json](./284297-scrap-and-battery.json) |
 | Scrap Arms | 117902 | [117902-scrap-arms.json](./117902-scrap-arms.json) |
 | Scrap Ascent | 423274 | [423274-scrap-ascent.json](./423274-scrap-ascent.json) |
-| Scrap Attack | 81924 | [81924-scrap-attack.json](./81924-scrap-attack.json) |
 | Scrap Bastion | 239813 | [239813-scrap-bastion.json](./239813-scrap-bastion.json) |
 | Scrap Bolts | 246294 | [246294-scrap-bolts.json](./246294-scrap-bolts.json) |
 | Scrap Boy | 182078 | [182078-scrap-boy.json](./182078-scrap-boy.json) |
@@ -7063,7 +7058,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Settlement Survival: Tourism | 259296 | [259296-settlement-survival-tourism.json](./259296-settlement-survival-tourism.json) |
 | Settlement Zero | 114573 | [114573-settlement-zero.json](./114573-settlement-zero.json) |
 | Settlement: Colossus | 53589 | [53589-settlement-colossus.json](./53589-settlement-colossus.json) |
-| Settlements | 81671 | [81671-settlements.json](./81671-settlements.json) |
 | Settlements Rising | 245838 | [245838-settlements-rising.json](./245838-settlements-rising.json) |
 | Settlemoon | 253593 | [253593-settlemoon.json](./253593-settlemoon.json) |
 | Settler | 179626 | [179626-settler.json](./179626-settler.json) |
@@ -12185,7 +12179,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence Coffee Shop | 222285 | [222285-silence-coffee-shop.json](./222285-silence-coffee-shop.json) |
 | Silence Falls | 231766 | [231766-silence-falls.json](./231766-silence-falls.json) |
 | Silence Forest | 346455 | [346455-silence-forest.json](./346455-silence-forest.json) |
-| Silence in Space - Season One | 83734 | [83734-silence-in-space-season-one.json](./83734-silence-in-space-season-one.json) |
 | Silence in the Cabin | 236255 | [236255-silence-in-the-cabin.json](./236255-silence-in-the-cabin.json) |
 | Silence in the Dark | 157420 | [157420-silence-in-the-dark.json](./157420-silence-in-the-dark.json) |
 | Silence Notes | 110169 | [110169-silence-notes.json](./110169-silence-notes.json) |
@@ -14464,7 +14457,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skip Beat! | 77070 | [77070-skip-beat.json](./77070-skip-beat.json) |
 | Skip Lake | 164045 | [164045-skip-lake.json](./164045-skip-lake.json) |
 | Skip Lake 2 | 205741 | [205741-skip-lake-2.json](./205741-skip-lake-2.json) |
-| Skip-Bo | 83471 | [83471-skip-bo.json](./83471-skip-bo.json) |
 | Skip's Sanity | 99072 | [99072-skips-sanity.json](./99072-skips-sanity.json) |
 | Skipchaser | 31927 | [31927-skipchaser.json](./31927-skipchaser.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
@@ -14704,7 +14696,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Attack | 365603 | [365603-sky-attack.json](./365603-sky-attack.json) |
 | Sky Avenger | 245157 | [245157-sky-avenger.json](./245157-sky-avenger.json) |
 | Sky Ball | 80361 | [80361-sky-ball.json](./80361-sky-ball.json) |
-| Sky Ball | 81894 | [81894-sky-ball.json](./81894-sky-ball.json) |
 | Sky Ball Racing | 188387 | [188387-sky-ball-racing.json](./188387-sky-ball-racing.json) |
 | Sky Balloon Freakout DX | 284711 | [284711-sky-balloon-freakout-dx.json](./284711-sky-balloon-freakout-dx.json) |
 | Sky Baron: War of Nations | 194044 | [194044-sky-baron-war-of-nations.json](./194044-sky-baron-war-of-nations.json) |
@@ -17348,7 +17339,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Trek Chapter 2 | 76494 | [76494-snail-trek-chapter-2.json](./76494-snail-trek-chapter-2.json) |
 | Snail Trek: Chapter 1 - Intershellar | 83336 | [83336-snail-trek-chapter-1-intershellar.json](./83336-snail-trek-chapter-1-intershellar.json) |
 | Snail Trek: Chapter 2 - A Snail of Two Worlds | 83337 | [83337-snail-trek-chapter-2-a-snail-of-two-worlds.json](./83337-snail-trek-chapter-2-a-snail-of-two-worlds.json) |
-| Snail Trek: Chapter 3 - Lettuce Be | 81675 | [81675-snail-trek-chapter-3-lettuce-be.json](./81675-snail-trek-chapter-3-lettuce-be.json) |
 | Snail wisdom simulator 2017 | 183922 | [183922-snail-wisdom-simulator-2017.json](./183922-snail-wisdom-simulator-2017.json) |
 | Snail World | 191370 | [191370-snail-world.json](./191370-snail-world.json) |
 | Snail You Later | 365729 | [365729-snail-you-later.json](./365729-snail-you-later.json) |
@@ -17387,7 +17377,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake '97: retro phone classic | 89541 | [89541-snake-97-retro-phone-classic.json](./89541-snake-97-retro-phone-classic.json) |
 | Snake & Snake | 56756 | [56756-snake-and-snake.json](./56756-snake-and-snake.json) |
 | Snake 1 | 318258 | [318258-snake-1.json](./318258-snake-1.json) |
-| Snake 2 | 81508 | [81508-snake-2.json](./81508-snake-2.json) |
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
 | Snake 2048 | 353569 | [353569-snake-2048.json](./353569-snake-2048.json) |
 | Snake 3310 | 177382 | [177382-snake-3310.json](./177382-snake-3310.json) |
@@ -17652,7 +17641,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snaquia | 128684 | [128684-snaquia.json](./128684-snaquia.json) |
 | Snare | 40938 | [40938-snare.json](./40938-snare.json) |
 | Snarekin | 426053 | [426053-snarekin.json](./426053-snarekin.json) |
-| Snares of Ruin | 81750 | [81750-snares-of-ruin.json](./81750-snares-of-ruin.json) |
 | Snares of Ruin 2 | 120737 | [120737-snares-of-ruin-2.json](./120737-snares-of-ruin-2.json) |
 | Snares of Ruin Zero | 112352 | [112352-snares-of-ruin-zero.json](./112352-snares-of-ruin-zero.json) |
 | Snarewaves' Shooting Challenge | 329162 | [329162-snarewaves-shooting-challenge.json](./329162-snarewaves-shooting-challenge.json) |
@@ -17859,7 +17847,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Fury | 20356 | [20356-sniper-fury.json](./20356-sniper-fury.json) |
 | Sniper Game | 195893 | [195893-sniper-game.json](./195893-sniper-game.json) |
 | Sniper Game | 411050 | [411050-sniper-game.json](./411050-sniper-game.json) |
-| Sniper Ghost Warrior 3: Season Pass Edition | 82416 | [82416-sniper-ghost-warrior-3-season-pass-edition.json](./82416-sniper-ghost-warrior-3-season-pass-edition.json) |
 | Sniper Ghost Warrior Contracts | 107155 | [107155-sniper-ghost-warrior-contracts.json](./107155-sniper-ghost-warrior-contracts.json) |
 | Sniper Ghost Warrior Contracts & Sniper: Ghost Warrior 3: Unlimited Edition | 173161 | [173161-sniper-ghost-warrior-contracts-and-sniper-ghost-warrior-3-unlimited-edition.json](./173161-sniper-ghost-warrior-contracts-and-sniper-ghost-warrior-3-unlimited-edition.json) |
 | Sniper Ghost Warrior Contracts 1 & 2 Double Pack | 225478 | [225478-sniper-ghost-warrior-contracts-1-and-2-double-pack.json](./225478-sniper-ghost-warrior-contracts-1-and-2-double-pack.json) |
@@ -18175,7 +18162,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow White Ashes | 289791 | [289791-snow-white-ashes.json](./289791-snow-white-ashes.json) |
 | Snow White in Happily Ever After | 42582 | [42582-snow-white-in-happily-ever-after.json](./42582-snow-white-in-happily-ever-after.json) |
 | Snow White in Wonderland | 431490 | [431490-snow-white-in-wonderland.json](./431490-snow-white-in-wonderland.json) |
-| Snow White Solitaire: Charmed Kingdom | 81771 | [81771-snow-white-solitaire-charmed-kingdom.json](./81771-snow-white-solitaire-charmed-kingdom.json) |
 | Snow White Solitaire: Legacy of Dwarves | 81592 | [81592-snow-white-solitaire-legacy-of-dwarves.json](./81592-snow-white-solitaire-legacy-of-dwarves.json) |
 | Snow White: Counting Diamond Mine | 198897 | [198897-snow-white-counting-diamond-mine.json](./198897-snow-white-counting-diamond-mine.json) |
 | Snow White: Interactive Book | 256592 | [256592-snow-white-interactive-book.json](./256592-snow-white-interactive-book.json) |
@@ -18877,7 +18863,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sojourner | 401457 | [401457-sojourner.json](./401457-sojourner.json) |
 | Sojourner | 54901 | [54901-sojourner.json](./54901-sojourner.json) |
 | SojournVR | 74259 | [74259-sojournvr.json](./74259-sojournvr.json) |
-| Sok Max | 82364 | [82364-sok-max.json](./82364-sok-max.json) |
 | Sok Max Pro | 195307 | [195307-sok-max-pro.json](./195307-sok-max-pro.json) |
 | Sok Min: Pro | 196129 | [196129-sok-min-pro.json](./196129-sok-min-pro.json) |
 | Sok Pro | 139622 | [139622-sok-pro.json](./139622-sok-pro.json) |
@@ -23406,7 +23391,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Robot Samurai Zombie Slayer | 35569 | [35569-space-robot-samurai-zombie-slayer.json](./35569-space-robot-samurai-zombie-slayer.json) |
 | Space Rock Armageddon | 276598 | [276598-space-rock-armageddon.json](./276598-space-rock-armageddon.json) |
 | Space Rock Breaker | 382412 | [382412-space-rock-breaker.json](./382412-space-rock-breaker.json) |
-| Space Rocket | 81601 | [81601-space-rocket.json](./81601-space-rocket.json) |
 | Space Rocket - Star World | 106693 | [106693-space-rocket-star-world.json](./106693-space-rocket-star-world.json) |
 | Space Rocket Adventurers | 61155 | [61155-space-rocket-adventurers.json](./61155-space-rocket-adventurers.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
@@ -24628,7 +24612,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedboat Alchemy | 180828 | [180828-speedboat-alchemy.json](./180828-speedboat-alchemy.json) |
 | Speedboat Assassins | 13080 | [13080-speedboat-assassins.json](./13080-speedboat-assassins.json) |
 | SpeedBoat Attack | 62284 | [62284-speedboat-attack.json](./62284-speedboat-attack.json) |
-| Speedboat Challenge | 82415 | [82415-speedboat-challenge.json](./82415-speedboat-challenge.json) |
 | Speedboat GP | 66931 | [66931-speedboat-gp.json](./66931-speedboat-gp.json) |
 | Speedboat League | 348411 | [348411-speedboat-league.json](./348411-speedboat-league.json) |
 | Speedboat Racing | 144387 | [144387-speedboat-racing.json](./144387-speedboat-racing.json) |
@@ -25239,7 +25222,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
 | Spider Slingers | 201518 | [201518-spider-slingers.json](./201518-spider-slingers.json) |
 | Spider Solitaire | 370408 | [370408-spider-solitaire.json](./370408-spider-solitaire.json) |
-| Spider Solitaire | 83466 | [83466-spider-solitaire.json](./83466-spider-solitaire.json) |
 | Spider Solitaire | 91178 | [91178-spider-solitaire.json](./91178-spider-solitaire.json) |
 | Spider Solitaire 2018 | 87636 | [87636-spider-solitaire-2018.json](./87636-spider-solitaire-2018.json) |
 | Spider Solitaire 2022 | 217792 | [217792-spider-solitaire-2022.json](./217792-spider-solitaire-2022.json) |
@@ -30626,7 +30608,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteelSpill | 137313 | [137313-steelspill.json](./137313-steelspill.json) |
 | Steelwood Private Eye | 245239 | [245239-steelwood-private-eye.json](./245239-steelwood-private-eye.json) |
 | Steep | 19554 | [19554-steep.json](./19554-steep.json) |
-| Steep and the Crew | 82414 | [82414-steep-and-the-crew.json](./82414-steep-and-the-crew.json) |
 | Steep Slope Sliders | 45481 | [45481-steep-slope-sliders.json](./45481-steep-slope-sliders.json) |
 | Steep Slopes | 158167 | [158167-steep-slopes.json](./158167-steep-slopes.json) |
 | Steep Town | 262305 | [262305-steep-town.json](./262305-steep-town.json) |
@@ -30636,7 +30617,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steep: Road to the Olympics | 37078 | [37078-steep-road-to-the-olympics.json](./37078-steep-road-to-the-olympics.json) |
 | Steep: Rocket Wings DLC | 168475 | [168475-steep-rocket-wings-dlc.json](./168475-steep-rocket-wings-dlc.json) |
 | Steep: Winter Games - Gold Edition | 202879 | [202879-steep-winter-games-gold-edition.json](./202879-steep-winter-games-gold-edition.json) |
-| Steep: Winter Games Edition | 83776 | [83776-steep-winter-games-edition.json](./83776-steep-winter-games-edition.json) |
 | Steep: Winterfest Pack | 168474 | [168474-steep-winterfest-pack.json](./168474-steep-winterfest-pack.json) |
 | Steep: X Games Pack | 251643 | [251643-steep-x-games-pack.json](./251643-steep-x-games-pack.json) |
 | Steeple Chase | 40693 | [40693-steeple-chase.json](./40693-steeple-chase.json) |
@@ -36345,7 +36325,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Grav | 31843 | [31843-super-grav.json](./31843-super-grav.json) |
 | Super Grave Snatchers | 172877 | [172877-super-grave-snatchers.json](./172877-super-grave-snatchers.json) |
 | Super Gravitron | 207834 | [207834-super-gravitron.json](./207834-super-gravitron.json) |
-| Super Gravity Ball | 83499 | [83499-super-gravity-ball.json](./83499-super-gravity-ball.json) |
 | Super Greedy Cat | 216746 | [216746-super-greedy-cat.json](./216746-super-greedy-cat.json) |
 | Super Green Rally | 86546 | [86546-super-green-rally.json](./86546-super-green-rally.json) |
 | Super Grid Run | 58638 | [58638-super-grid-run.json](./58638-super-grid-run.json) |
@@ -38693,7 +38672,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stay Out of the House | 251478 | [251478-super-stay-out-of-the-house.json](./251478-super-stay-out-of-the-house.json) |
 | Super Stealball | 67083 | [67083-super-stealball.json](./67083-super-stealball.json) |
 | Super SteamPuff | 22382 | [22382-super-steampuff.json](./22382-super-steampuff.json) |
-| Super Steampunk Pinball 2D | 81933 | [81933-super-steampunk-pinball-2d.json](./81933-super-steampunk-pinball-2d.json) |
 | Super Stereotypical: The Rise of Indiemania | 200879 | [200879-super-stereotypical-the-rise-of-indiemania.json](./200879-super-stereotypical-the-rise-of-indiemania.json) |
 | Super Sticker Studio: Creative Sticker Book Game for Kids | 389074 | [389074-super-sticker-studio-creative-sticker-book-game-for-kids.json](./389074-super-sticker-studio-creative-sticker-book-game-for-kids.json) |
 | Super Stickman Golf | 47270 | [47270-super-stickman-golf.json](./47270-super-stickman-golf.json) |
@@ -41567,7 +41545,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords and Galleons | 68985 | [68985-swords-and-galleons.json](./68985-swords-and-galleons.json) |
 | Swords and Hexes | 274346 | [274346-swords-and-hexes.json](./274346-swords-and-hexes.json) |
 | Swords and Sandals 2 Redux: Maximus Edition | 43131 | [43131-swords-and-sandals-2-redux-maximus-edition.json](./43131-swords-and-sandals-2-redux-maximus-edition.json) |
-| Swords and Sandals 5 Redux | 81817 | [81817-swords-and-sandals-5-redux.json](./81817-swords-and-sandals-5-redux.json) |
 | Swords and Sandals Classic Collection | 117173 | [117173-swords-and-sandals-classic-collection.json](./117173-swords-and-sandals-classic-collection.json) |
 | Swords and Sandals Crusader | 321862 | [321862-swords-and-sandals-crusader.json](./321862-swords-and-sandals-crusader.json) |
 | Swords and Sandals Crusader Redux | 167984 | [167984-swords-and-sandals-crusader-redux.json](./167984-swords-and-sandals-crusader-redux.json) |
