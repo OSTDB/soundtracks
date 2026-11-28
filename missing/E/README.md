@@ -5519,6 +5519,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eqi | 142629 | [142629-eqi.json](./142629-eqi.json) |
 | Eqqo | 301225 | [301225-eqqo.json](./301225-eqqo.json) |
 | Equaboreal 12.21 | 133903 | [133903-equaboreal-12-21.json](./133903-equaboreal-12-21.json) |
+| Equaboreal 12.21: Episode 1 | 431370 | [431370-equaboreal-12-21-episode-1.json](./431370-equaboreal-12-21-episode-1.json) |
+| Equaboreal 12.21: Episode 2 | 431371 | [431371-equaboreal-12-21-episode-2.json](./431371-equaboreal-12-21-episode-2.json) |
 | Equadle | 363029 | [363029-equadle.json](./363029-equadle.json) |
 | Equal People | 233810 | [233810-equal-people.json](./233810-equal-people.json) |
 | Equaland | 104251 | [104251-equaland.json](./104251-equaland.json) |
@@ -9130,6 +9132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcism Ritual | 231177 | [231177-exorcism-ritual.json](./231177-exorcism-ritual.json) |
 | Exorcism: Case Zero | 72489 | [72489-exorcism-case-zero.json](./72489-exorcism-case-zero.json) |
 | Exorcism:Nuo Rituals | 390564 | [390564-exorcism-nuo-rituals.json](./390564-exorcism-nuo-rituals.json) |
+| Exorcismus: Vade Retro Satana | 431719 | [431719-exorcismus-vade-retro-satana.json](./431719-exorcismus-vade-retro-satana.json) |
 | Exorcist | 200360 | [200360-exorcist.json](./200360-exorcist.json) |
 | Exorcist | 380339 | [380339-exorcist.json](./380339-exorcist.json) |
 | Exorcist | 411051 | [411051-exorcist.json](./411051-exorcist.json) |
