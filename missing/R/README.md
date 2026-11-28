@@ -6723,6 +6723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rest in Paws | 358877 | [358877-rest-in-paws.json](./358877-rest-in-paws.json) |
 | Rest In Peace | 174006 | [174006-rest-in-peace.json](./174006-rest-in-peace.json) |
 | Rest In Peace | 30057 | [30057-rest-in-peace.json](./30057-rest-in-peace.json) |
+| Rest In Peace | 430621 | [430621-rest-in-peace.json](./430621-rest-in-peace.json) |
 | Rest in Pieces | 115315 | [115315-rest-in-pieces.json](./115315-rest-in-pieces.json) |
 | Rest in Pieces | 126106 | [126106-rest-in-pieces.json](./126106-rest-in-pieces.json) |
 | Rest Stop | 404476 | [404476-rest-stop.json](./404476-rest-stop.json) |
