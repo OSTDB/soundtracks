@@ -350,7 +350,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachimuchi | 75195 | [75195-gachimuchi.json](./75195-gachimuchi.json) |
 | Gachimuchi Arcade: Lustful Boys | 113296 | [113296-gachimuchi-arcade-lustful-boys.json](./113296-gachimuchi-arcade-lustful-boys.json) |
 | Gachimuchi Life Simulator | 159383 | [159383-gachimuchi-life-simulator.json](./159383-gachimuchi-life-simulator.json) |
-| Gachimuchi Reloaded | 86314 | [86314-gachimuchi-reloaded.json](./86314-gachimuchi-reloaded.json) |
 | Gachimuchi: The Card Game | 115583 | [115583-gachimuchi-the-card-game.json](./115583-gachimuchi-the-card-game.json) |
 | Gachinco Tennis S | 222196 | [222196-gachinco-tennis-s.json](./222196-gachinco-tennis-s.json) |
 | Gachinko Pro Yakyuu | 49567 | [49567-gachinko-pro-yakyuu.json](./49567-gachinko-pro-yakyuu.json) |
@@ -1355,7 +1354,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Watch Gallery 3 | 77907 | [77907-game-and-watch-gallery-3.json](./77907-game-and-watch-gallery-3.json) |
 | Game & Watch Gallery 4 | 81497 | [81497-game-and-watch-gallery-4.json](./81497-game-and-watch-gallery-4.json) |
 | Game & Watch Helmet | 84550 | [84550-game-and-watch-helmet.json](./84550-game-and-watch-helmet.json) |
-| Game & Watch Judge | 84551 | [84551-game-and-watch-judge.json](./84551-game-and-watch-judge.json) |
 | Game & Watch Manhole | 84549 | [84549-game-and-watch-manhole.json](./84549-game-and-watch-manhole.json) |
 | Game & Watch Mario's Cement Factory | 206933 | [206933-game-and-watch-marios-cement-factory.json](./206933-game-and-watch-marios-cement-factory.json) |
 | Game & Watch Mario's Cement Factory | 339262 | [339262-game-and-watch-marios-cement-factory.json](./339262-game-and-watch-marios-cement-factory.json) |
@@ -2112,7 +2110,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden City | 151118 | [151118-garden-city.json](./151118-garden-city.json) |
 | Garden City Bundle | 295257 | [295257-garden-city-bundle.json](./295257-garden-city-bundle.json) |
 | Garden Cleanup Simulator | 407366 | [407366-garden-cleanup-simulator.json](./407366-garden-cleanup-simulator.json) |
-| Garden Dash | 85805 | [85805-garden-dash.json](./85805-garden-dash.json) |
 | Garden Defense | 53086 | [53086-garden-defense.json](./53086-garden-defense.json) |
 | Garden Designer Simulator | 404529 | [404529-garden-designer-simulator.json](./404529-garden-designer-simulator.json) |
 | Garden Door | 387727 | [387727-garden-door.json](./387727-garden-door.json) |
@@ -2298,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield's Typing Pal | 112022 | [112022-garfields-typing-pal.json](./112022-garfields-typing-pal.json) |
 | Garfield's Wild Ride | 25163 | [25163-garfields-wild-ride.json](./25163-garfields-wild-ride.json) |
 | Garfield+ | 319439 | [319439-garfield.json](./319439-garfield.json) |
+| Garfpg: Garf Play the Game | 428194 | [428194-garfpg-garf-play-the-game.json](./428194-garfpg-garf-play-the-game.json) |
 | Gargadusa's Tower | 392361 | [392361-gargadusas-tower.json](./392361-gargadusas-tower.json) |
 | Garganta | 260345 | [260345-garganta.json](./260345-garganta.json) |
 | Gargantua | 385387 | [385387-gargantua.json](./385387-gargantua.json) |
@@ -2629,7 +2627,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet / Rampart | 78814 | [78814-gauntlet-rampart.json](./78814-gauntlet-rampart.json) |
 | Gauntlet Arcade Version | 45533 | [45533-gauntlet-arcade-version.json](./45533-gauntlet-arcade-version.json) |
 | Gauntlet Dark Legacy | 3927 | [3927-gauntlet-dark-legacy.json](./3927-gauntlet-dark-legacy.json) |
-| Gauntlet Dark Legacy | 85795 | [85795-gauntlet-dark-legacy.json](./85795-gauntlet-dark-legacy.json) |
 | Gauntlet Force: Rise of the Machines | 347589 | [347589-gauntlet-force-rise-of-the-machines.json](./347589-gauntlet-force-rise-of-the-machines.json) |
 | Gauntlet II | 307077 | [307077-gauntlet-ii.json](./307077-gauntlet-ii.json) |
 | Gauntlet II | 3503 | [3503-gauntlet-ii.json](./3503-gauntlet-ii.json) |
