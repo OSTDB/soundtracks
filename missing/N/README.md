@@ -2590,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Spectrum | 179998 | [179998-neo-spectrum.json](./179998-neo-spectrum.json) |
 | Neo Static | 336607 | [336607-neo-static.json](./336607-neo-static.json) |
 | Neo Steam: The Shattered Continent | 51198 | [51198-neo-steam-the-shattered-continent.json](./51198-neo-steam-the-shattered-continent.json) |
+| Neo Striker | 421557 | [421557-neo-striker.json](./421557-neo-striker.json) |
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
 | Neo Titan | 399362 | [399362-neo-titan.json](./399362-neo-titan.json) |
 | Neo Trick | 419301 | [419301-neo-trick.json](./419301-neo-trick.json) |
@@ -3374,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuro Hunter | 71491 | [71491-neuro-hunter.json](./71491-neuro-hunter.json) |
 | Neuro Nightmare | 340949 | [340949-neuro-nightmare.json](./340949-neuro-nightmare.json) |
 | Neuro Skazka | 142038 | [142038-neuro-skazka.json](./142038-neuro-skazka.json) |
+| Neuro-sama's Woodland Adventure | 427414 | [427414-neuro-samas-woodland-adventure.json](./427414-neuro-samas-woodland-adventure.json) |
 | Neuroarena: Black Duel Master | 363569 | [363569-neuroarena-black-duel-master.json](./363569-neuroarena-black-duel-master.json) |
 | NeuroBloxs | 112435 | [112435-neurobloxs.json](./112435-neurobloxs.json) |
 | NeuroCorp | 391735 | [391735-neurocorp.json](./391735-neurocorp.json) |
@@ -4086,7 +4088,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexonauts | 336563 | [336563-nexonauts.json](./336563-nexonauts.json) |
 | Nexoria: Dungeon Rogue Heroes | 128859 | [128859-nexoria-dungeon-rogue-heroes.json](./128859-nexoria-dungeon-rogue-heroes.json) |
 | NexPets: Puppies | 382105 | [382105-nexpets-puppies.json](./382105-nexpets-puppies.json) |
-| Next | 83878 | [83878-next.json](./83878-next.json) |
 | Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
 | Next Acre | 430141 | [430141-next-acre.json](./430141-next-acre.json) |
 | Next Action Frog | 395933 | [395933-next-action-frog.json](./395933-next-action-frog.json) |
@@ -6224,7 +6225,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Classic Mini: Family Computer | 213597 | [213597-nintendo-classic-mini-family-computer.json](./213597-nintendo-classic-mini-family-computer.json) |
 | Nintendo Classic Mini: Family Computer - Weekly Shonen Jump 50th Anniversary Version | 213599 | [213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json](./213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json) |
 | Nintendo Classic Mini: Super Famicom | 213594 | [213594-nintendo-classic-mini-super-famicom.json](./213594-nintendo-classic-mini-super-famicom.json) |
-| Nintendo Countdown Calendar | 85309 | [85309-nintendo-countdown-calendar.json](./85309-nintendo-countdown-calendar.json) |
 | Nintendo DS Browser | 297580 | [297580-nintendo-ds-browser.json](./297580-nintendo-ds-browser.json) |
 | Nintendo DSi Metronome | 85311 | [85311-nintendo-dsi-metronome.json](./85311-nintendo-dsi-metronome.json) |
 | Nintendo Friends Object Hunt | 231655 | [231655-nintendo-friends-object-hunt.json](./231655-nintendo-friends-object-hunt.json) |
@@ -8614,6 +8614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nugatory | 399690 | [399690-nugatory.json](./399690-nugatory.json) |
 | Nugget & Penny: Adventure Machine | 121604 | [121604-nugget-and-penny-adventure-machine.json](./121604-nugget-and-penny-adventure-machine.json) |
 | Nugget Royale | 123253 | [123253-nugget-royale.json](./123253-nugget-royale.json) |
+| Nugget. | 426723 | [426723-nugget.json](./426723-nugget.json) |
 | Nuggets New Songs | 365979 | [365979-nuggets-new-songs.json](./365979-nuggets-new-songs.json) |
 | Nuggets Slitherio | 383620 | [383620-nuggets-slitherio.json](./383620-nuggets-slitherio.json) |
 | Nuggie House: Cerberus | 241255 | [241255-nuggie-house-cerberus.json](./241255-nuggie-house-cerberus.json) |
@@ -8626,6 +8627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuice Industries | 363601 | [363601-nuice-industries.json](./363601-nuice-industries.json) |
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
 | Nuigurumi no Cakeya-san: Mahou no Patissiere | 158971 | [158971-nuigurumi-no-cakeya-san-mahou-no-patissiere.json](./158971-nuigurumi-no-cakeya-san-mahou-no-patissiere.json) |
+| Nuit Blanche; | 417346 | [417346-nuit-blanche.json](./417346-nuit-blanche.json) |
 | Nukalypse Zombie Survival | 110663 | [110663-nukalypse-zombie-survival.json](./110663-nukalypse-zombie-survival.json) |
 | Nukanakucha! | 97613 | [97613-nukanakucha.json](./97613-nukanakucha.json) |
 | Nuke Babysitter Simulator \| Kim Edition | 81685 | [81685-nuke-babysitter-simulator-kim-edition.json](./81685-nuke-babysitter-simulator-kim-edition.json) |
@@ -8729,7 +8731,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number 94 | 239527 | [239527-number-94.json](./239527-number-94.json) |
 | Number 99 | 221095 | [221095-number-99.json](./221095-number-99.json) |
 | Number Balls | 359312 | [359312-number-balls.json](./359312-number-balls.json) |
-| Number Battle | 85408 | [85408-number-battle.json](./85408-number-battle.json) |
 | Number Builder | 41201 | [41201-number-builder.json](./41201-number-builder.json) |
 | Number Bumper | 431345 | [431345-number-bumper.json](./431345-number-bumper.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
