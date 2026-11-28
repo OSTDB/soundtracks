@@ -3203,7 +3203,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Puppet Reika | 64209 | [64209-virtual-puppet-reika.json](./64209-virtual-puppet-reika.json) |
 | Virtual Race Car Engineer 2018 | 74361 | [74361-virtual-race-car-engineer-2018.json](./74361-virtual-race-car-engineer-2018.json) |
 | Virtual Race Car Engineer 2020 | 237454 | [237454-virtual-race-car-engineer-2020.json](./237454-virtual-race-car-engineer-2020.json) |
-| Virtual Reality Girls | 75717 | [75717-virtual-reality-girls.json](./75717-virtual-reality-girls.json) |
 | Virtual Reality Girls 2 | 77174 | [77174-virtual-reality-girls-2.json](./77174-virtual-reality-girls-2.json) |
 | Virtual Reality Studio | 131498 | [131498-virtual-reality-studio.json](./131498-virtual-reality-studio.json) |
 | Virtual Reality Studio 2.0 | 100130 | [100130-virtual-reality-studio-2-0.json](./100130-virtual-reality-studio-2-0.json) |
@@ -3696,7 +3695,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Você é um Defunto Mecânico | 185808 | [185808-voce-e-um-defunto-mecanico.json](./185808-voce-e-um-defunto-mecanico.json) |
 | Voce. | 183238 | [183238-voce.json](./183238-voce.json) |
 | Voden's Job | 350110 | [350110-vodens-job.json](./350110-vodens-job.json) |
-| Vodka | 76052 | [76052-vodka.json](./76052-vodka.json) |
 | Vodobanka | 207831 | [207831-vodobanka.json](./207831-vodobanka.json) |
 | Voenkomat | 158267 | [158267-voenkomat.json](./158267-voenkomat.json) |
 | Voez | 27397 | [27397-voez.json](./27397-voez.json) |
@@ -3707,7 +3705,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vohenn | 387538 | [387538-vohenn.json](./387538-vohenn.json) |
 | Voi | 25788 | [25788-voi.json](./25788-voi.json) |
 | Voice | 191246 | [191246-voice.json](./191246-voice.json) |
-| Voice Actress | 76058 | [76058-voice-actress.json](./76058-voice-actress.json) |
 | Voice Actress II | 104801 | [104801-voice-actress-ii.json](./104801-voice-actress-ii.json) |
 | Voice Changer 360 | 80639 | [80639-voice-changer-360.json](./80639-voice-changer-360.json) |
 | Voice Fantasia: Ushinawareta Voice Power | 54950 | [54950-voice-fantasia-ushinawareta-voice-power.json](./54950-voice-fantasia-ushinawareta-voice-power.json) |
