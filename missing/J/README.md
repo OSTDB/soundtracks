@@ -2157,7 +2157,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzles | 56658 | [56658-jigsaw-puzzles.json](./56658-jigsaw-puzzles.json) |
 | Jigsaw Puzzles - Games for Girls | 90029 | [90029-jigsaw-puzzles-games-for-girls.json](./90029-jigsaw-puzzles-games-for-girls.json) |
 | Jigsaw Puzzles All in One | 239115 | [239115-jigsaw-puzzles-all-in-one.json](./239115-jigsaw-puzzles-all-in-one.json) |
-| Jigsaw Puzzles Epic | 83424 | [83424-jigsaw-puzzles-epic.json](./83424-jigsaw-puzzles-epic.json) |
 | Jigsaw Puzzles for Adults | 88408 | [88408-jigsaw-puzzles-for-adults.json](./88408-jigsaw-puzzles-for-adults.json) |
 | Jigsaw Puzzles for Kids and Adults: Cute | 162232 | [162232-jigsaw-puzzles-for-kids-and-adults-cute.json](./162232-jigsaw-puzzles-for-kids-and-adults-cute.json) |
 | Jigsaw Puzzles for Kids and Adults: Europe | 162236 | [162236-jigsaw-puzzles-for-kids-and-adults-europe.json](./162236-jigsaw-puzzles-for-kids-and-adults-europe.json) |
@@ -2741,7 +2740,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Deere: North American Farmer | 210130 | [210130-john-deere-north-american-farmer.json](./210130-john-deere-north-american-farmer.json) |
 | John Doe | 217606 | [217606-john-doe.json](./217606-john-doe.json) |
 | John Doe + | 217607 | [217607-john-doe.json](./217607-john-doe.json) |
-| John Dungeon | 81751 | [81751-john-dungeon.json](./81751-john-dungeon.json) |
 | John Elway in Space | 332214 | [332214-john-elway-in-space.json](./332214-john-elway-in-space.json) |
 | John Elway's Quarterback | 198782 | [198782-john-elways-quarterback.json](./198782-john-elways-quarterback.json) |
 | John Elway's Quarterback | 48152 | [48152-john-elways-quarterback.json](./48152-john-elways-quarterback.json) |
@@ -4585,7 +4583,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2015 | 15559 | [15559-just-dance-2015.json](./15559-just-dance-2015.json) |
 | Just Dance 2015 China and Just Dance 2017 China Combo Pack | 279827 | [279827-just-dance-2015-china-and-just-dance-2017-china-combo-pack.json](./279827-just-dance-2015-china-and-just-dance-2017-china-combo-pack.json) |
 | Just Dance 2016 | 11206 | [11206-just-dance-2016.json](./11206-just-dance-2016.json) |
-| Just Dance 2016 & Just Dance: Disney Party 2 | 82540 | [82540-just-dance-2016-and-just-dance-disney-party-2.json](./82540-just-dance-2016-and-just-dance-disney-party-2.json) |
 | Just Dance 2016: Gold Edition | 83795 | [83795-just-dance-2016-gold-edition.json](./83795-just-dance-2016-gold-edition.json) |
 | Just Dance 2017 | 19550 | [19550-just-dance-2017.json](./19550-just-dance-2017.json) |
 | Just Dance 2018 | 37067 | [37067-just-dance-2018.json](./37067-just-dance-2018.json) |
