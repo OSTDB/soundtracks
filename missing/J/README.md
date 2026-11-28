@@ -2978,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jolly Roger | 176828 | [176828-jolly-roger.json](./176828-jolly-roger.json) |
 | Jolly Rogers Pirates Rumble | 291530 | [291530-jolly-rogers-pirates-rumble.json](./291530-jolly-rogers-pirates-rumble.json) |
 | Jolly: Anniversary Edition | 418067 | [418067-jolly-anniversary-edition.json](./418067-jolly-anniversary-edition.json) |
+| Jolly: Let's Party | 430125 | [430125-jolly-lets-party.json](./430125-jolly-lets-party.json) |
 | Jolly's Hardcore Mod | 269866 | [269866-jollys-hardcore-mod.json](./269866-jollys-hardcore-mod.json) |
 | JollyRoll | 365318 | [365318-jollyroll.json](./365318-jollyroll.json) |
 | JollyWorld | 162408 | [162408-jollyworld.json](./162408-jollyworld.json) |
@@ -3174,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to Entorus | 215178 | [215178-journey-to-entorus.json](./215178-journey-to-entorus.json) |
 | Journey to Foundation | 239382 | [239382-journey-to-foundation.json](./239382-journey-to-foundation.json) |
 | Journey to Incrementalia | 318965 | [318965-journey-to-incrementalia.json](./318965-journey-to-incrementalia.json) |
+| Journey to Kaizo | 430172 | [430172-journey-to-kaizo.json](./430172-journey-to-kaizo.json) |
 | Journey to Kreisia | 321998 | [321998-journey-to-kreisia.json](./321998-journey-to-kreisia.json) |
 | Journey to Kreisia | 68977 | [68977-journey-to-kreisia.json](./68977-journey-to-kreisia.json) |
 | Journey to Luonto | 75943 | [75943-journey-to-luonto.json](./75943-journey-to-luonto.json) |
