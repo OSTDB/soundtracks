@@ -4656,7 +4656,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Ace | 46111 | [46111-tennis-ace.json](./46111-tennis-ace.json) |
 | Tennis Addict | 206215 | [206215-tennis-addict.json](./206215-tennis-addict.json) |
 | Tennis Antics | 54426 | [54426-tennis-antics.json](./54426-tennis-antics.json) |
-| Tennis Arcade VR | 81001 | [81001-tennis-arcade-vr.json](./81001-tennis-arcade-vr.json) |
 | Tennis Arena | 227955 | [227955-tennis-arena.json](./227955-tennis-arena.json) |
 | Tennis Arena | 45065 | [45065-tennis-arena.json](./45065-tennis-arena.json) |
 | Tennis Bits | 58305 | [58305-tennis-bits.json](./58305-tennis-bits.json) |
@@ -5372,7 +5371,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorfest | 313882 | [313882-terrorfest.json](./313882-terrorfest.json) |
 | Terrorform | 215806 | [215806-terrorform.json](./215806-terrorform.json) |
 | Terrorformer TD | 288958 | [288958-terrorformer-td.json](./288958-terrorformer-td.json) |
-| Terrorhythm | 76315 | [76315-terrorhythm.json](./76315-terrorhythm.json) |
 | Terrorist Apartment | 107844 | [107844-terrorist-apartment.json](./107844-terrorist-apartment.json) |
 | Terrorist Elimination | 74949 | [74949-terrorist-elimination.json](./74949-terrorist-elimination.json) |
 | Terrorist Killer | 143755 | [143755-terrorist-killer.json](./143755-terrorist-killer.json) |
@@ -7156,7 +7154,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ballad of Light and Shadow | 350921 | [350921-the-ballad-of-light-and-shadow.json](./350921-the-ballad-of-light-and-shadow.json) |
 | The Ballad of Radolf | 207295 | [207295-the-ballad-of-radolf.json](./207295-the-ballad-of-radolf.json) |
 | The Ballad of the Metamorphosis of M. Dolly | 125214 | [125214-the-ballad-of-the-metamorphosis-of-m-dolly.json](./125214-the-ballad-of-the-metamorphosis-of-m-dolly.json) |
-| The Ballad Singer | 78156 | [78156-the-ballad-singer.json](./78156-the-ballad-singer.json) |
 | The Ballad Singer: Knights Templar | 393585 | [393585-the-ballad-singer-knights-templar.json](./393585-the-ballad-singer-knights-templar.json) |
 | The Ballads of Reemus: When the Bed Bites | 11096 | [11096-the-ballads-of-reemus-when-the-bed-bites.json](./11096-the-ballads-of-reemus-when-the-bed-bites.json) |
 | The Balldragon | 335265 | [335265-the-balldragon.json](./335265-the-balldragon.json) |
@@ -9388,7 +9385,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day | 242631 | [242631-the-day.json](./242631-the-day.json) |
 | The Day After | 216911 | [216911-the-day-after.json](./216911-the-day-after.json) |
 | The Day After Ever After | 396849 | [396849-the-day-after-ever-after.json](./396849-the-day-after-ever-after.json) |
-| The Day After: Origins | 76384 | [76384-the-day-after-origins.json](./76384-the-day-after-origins.json) |
 | The Day Before | 142901 | [142901-the-day-before.json](./142901-the-day-before.json) |
 | The Day Before | 380907 | [380907-the-day-before.json](./380907-the-day-before.json) |
 | The Day Before You Gone | 235556 | [235556-the-day-before-you-gone.json](./235556-the-day-before-you-gone.json) |
@@ -10331,7 +10327,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of You | 303950 | [303950-the-end-of-you.json](./303950-the-end-of-you.json) |
 | The End Protocol | 374748 | [374748-the-end-protocol.json](./374748-the-end-protocol.json) |
 | The End Was Nigh | 135777 | [135777-the-end-was-nigh.json](./135777-the-end-was-nigh.json) |
-| The End: Inari's Quest | 77737 | [77737-the-end-inaris-quest.json](./77737-the-end-inaris-quest.json) |
 | The End: Pronton | 240749 | [240749-the-end-pronton.json](./240749-the-end-pronton.json) |
 | The Endarkenment | 292559 | [292559-the-endarkenment.json](./292559-the-endarkenment.json) |
 | The Endgame | 261621 | [261621-the-endgame.json](./261621-the-endgame.json) |
@@ -15101,7 +15096,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Line | 149233 | [149233-the-line.json](./149233-the-line.json) |
 | The Line | 150935 | [150935-the-line.json](./150935-the-line.json) |
 | The Line | 315715 | [315715-the-line.json](./315715-the-line.json) |
-| The Line | 76280 | [76280-the-line.json](./76280-the-line.json) |
 | The Line | 79742 | [79742-the-line.json](./79742-the-line.json) |
 | The Line Game | 262018 | [262018-the-line-game.json](./262018-the-line-game.json) |
 | The Line of Defense | 370184 | [370184-the-line-of-defense.json](./370184-the-line-of-defense.json) |
@@ -16066,7 +16060,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mind of Moai | 185482 | [185482-the-mind-of-moai.json](./185482-the-mind-of-moai.json) |
 | The Mind Snare | 363881 | [363881-the-mind-snare.json](./363881-the-mind-snare.json) |
 | The Mind's Decay | 258915 | [258915-the-minds-decay.json](./258915-the-minds-decay.json) |
-| The Mind's Eclipse | 76579 | [76579-the-minds-eclipse.json](./76579-the-minds-eclipse.json) |
 | The Mindvasion | 337359 | [337359-the-mindvasion.json](./337359-the-mindvasion.json) |
 | The Mindwarp | 206169 | [206169-the-mindwarp.json](./206169-the-mindwarp.json) |
 | The Mine | 13739 | [13739-the-mine.json](./13739-the-mine.json) |
@@ -16467,7 +16460,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Naked Game | 76342 | [76342-the-naked-game.json](./76342-the-naked-game.json) |
 | The Naked Gun: I.C.U.P. | 65083 | [65083-the-naked-gun-i-c-u-p.json](./65083-the-naked-gun-i-c-u-p.json) |
 | The Naki Files | 332937 | [332937-the-naki-files.json](./332937-the-naki-files.json) |
 | The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
@@ -17294,7 +17286,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Portrait | 390015 | [390015-the-perfect-portrait.json](./390015-the-perfect-portrait.json) |
 | The Perfect Prince | 368749 | [368749-the-perfect-prince.json](./368749-the-perfect-prince.json) |
 | The Perfect Shape | 158713 | [158713-the-perfect-shape.json](./158713-the-perfect-shape.json) |
-| The Perfect Sniper | 81012 | [81012-the-perfect-sniper.json](./81012-the-perfect-sniper.json) |
 | The Perfect Specimen | 243620 | [243620-the-perfect-specimen.json](./243620-the-perfect-specimen.json) |
 | The Perfect Square | 103596 | [103596-the-perfect-square.json](./103596-the-perfect-square.json) |
 | The Perfect Tower | 101829 | [101829-the-perfect-tower.json](./101829-the-perfect-tower.json) |
@@ -17607,7 +17598,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Previous Owner | 422895 | [422895-the-previous-owner.json](./422895-the-previous-owner.json) |
 | The Prey MMORPG | 215826 | [215826-the-prey-mmorpg.json](./215826-the-prey-mmorpg.json) |
 | The Prey's Turn | 237025 | [237025-the-preys-turn.json](./237025-the-preys-turn.json) |
-| The Price is Right | 78446 | [78446-the-price-is-right.json](./78446-the-price-is-right.json) |
 | The Price Is Right | 198872 | [198872-the-price-is-right.json](./198872-the-price-is-right.json) |
 | The Price Is Right | 220105 | [220105-the-price-is-right.json](./220105-the-price-is-right.json) |
 | The Price Is Right | 394688 | [394688-the-price-is-right.json](./394688-the-price-is-right.json) |
@@ -27473,7 +27463,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tank Showdown | 420658 | [420658-tiny-tank-showdown.json](./420658-tiny-tank-showdown.json) |
 | Tiny Tanks | 306392 | [306392-tiny-tanks.json](./306392-tiny-tanks.json) |
 | Tiny Tanks | 412601 | [412601-tiny-tanks.json](./412601-tiny-tanks.json) |
-| Tiny Tanks | 78904 | [78904-tiny-tanks.json](./78904-tiny-tanks.json) |
 | Tiny Tap Quest | 307066 | [307066-tiny-tap-quest.json](./307066-tiny-tap-quest.json) |
 | Tiny Tarot | 182869 | [182869-tiny-tarot.json](./182869-tiny-tarot.json) |
 | Tiny Tavern | 429378 | [429378-tiny-tavern.json](./429378-tiny-tavern.json) |
@@ -27765,7 +27754,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic Rescue | 360498 | [360498-titanic-rescue.json](./360498-titanic-rescue.json) |
 | Titanic Survival Simulator | 404369 | [404369-titanic-survival-simulator.json](./404369-titanic-survival-simulator.json) |
 | Titanic Terror | 258961 | [258961-titanic-terror.json](./258961-titanic-terror.json) |
-| Titanic VR | 76354 | [76354-titanic-vr.json](./76354-titanic-vr.json) |
 | Titanic: A Mysterious Undersea Adventure | 70783 | [70783-titanic-a-mysterious-undersea-adventure.json](./70783-titanic-a-mysterious-undersea-adventure.json) |
 | Titanic: A Space Between | 287613 | [287613-titanic-a-space-between.json](./287613-titanic-a-space-between.json) |
 | Titanic: Adventure out of Time | 7516 | [7516-titanic-adventure-out-of-time.json](./7516-titanic-adventure-out-of-time.json) |
@@ -34908,7 +34896,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Rage | 117343 | [117343-trash-rage.json](./117343-trash-rage.json) |
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
 | Trash Sorter Simulator | 365042 | [365042-trash-sorter-simulator.json](./365042-trash-sorter-simulator.json) |
-| Trash Squad | 81157 | [81157-trash-squad.json](./81157-trash-squad.json) |
 | Trash Tag | 358757 | [358757-trash-tag.json](./358757-trash-tag.json) |
 | Trash Taste: The Boys Order Pizza | 214957 | [214957-trash-taste-the-boys-order-pizza.json](./214957-trash-taste-the-boys-order-pizza.json) |
 | Trash the Planet | 144624 | [144624-trash-the-planet.json](./144624-trash-the-planet.json) |
@@ -35493,7 +35480,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenchworms | 421985 | [421985-trenchworms.json](./421985-trenchworms.json) |
 | Trend Ballz | 146077 | [146077-trend-ballz.json](./146077-trend-ballz.json) |
 | Trending Pharaoh | 109515 | [109515-trending-pharaoh.json](./109515-trending-pharaoh.json) |
-| Trendpoker 3D Community Edition | 76437 | [76437-trendpoker-3d-community-edition.json](./76437-trendpoker-3d-community-edition.json) |
 | Trendpoker 3D: Free Online Poker | 288550 | [288550-trendpoker-3d-free-online-poker.json](./288550-trendpoker-3d-free-online-poker.json) |
 | Trends | 113479 | [113479-trends.json](./113479-trends.json) |
 | Trendy Boy | 193898 | [193898-trendy-boy.json](./193898-trendy-boy.json) |
@@ -36522,7 +36508,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Blessings | 385631 | [385631-tropical-blessings.json](./385631-tropical-blessings.json) |
 | Tropical Boy | 427156 | [427156-tropical-boy.json](./427156-tropical-boy.json) |
 | Tropical Dragon Slaughter | 408055 | [408055-tropical-dragon-slaughter.json](./408055-tropical-dragon-slaughter.json) |
-| Tropical Escape | 81198 | [81198-tropical-escape.json](./81198-tropical-escape.json) |
 | Tropical Farm | 24738 | [24738-tropical-farm.json](./24738-tropical-farm.json) |
 | Tropical Farm HD | 175740 | [175740-tropical-farm-hd.json](./175740-tropical-farm-hd.json) |
 | Tropical Fish | 145178 | [145178-tropical-fish.json](./145178-tropical-fish.json) |
@@ -37081,7 +37066,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth Universally Acknowledged: Nine Hearts | 421283 | [421283-truth-universally-acknowledged-nine-hearts.json](./421283-truth-universally-acknowledged-nine-hearts.json) |
 | Truth Universally Acknowledged: Seasilk Heart | 394287 | [394287-truth-universally-acknowledged-seasilk-heart.json](./394287-truth-universally-acknowledged-seasilk-heart.json) |
 | Truth Universally Acknowledged: Silver Heart | 421285 | [421285-truth-universally-acknowledged-silver-heart.json](./421285-truth-universally-acknowledged-silver-heart.json) |
-| Truth: Disorder | 76307 | [76307-truth-disorder.json](./76307-truth-disorder.json) |
 | Truth: Disorder II | 98985 | [98985-truth-disorder-ii.json](./98985-truth-disorder-ii.json) |
 | Truths Untold | 181290 | [181290-truths-untold.json](./181290-truths-untold.json) |
 | TruWorlds | 416524 | [416524-truworlds.json](./416524-truworlds.json) |
