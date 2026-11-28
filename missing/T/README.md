@@ -30272,7 +30272,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Loss | 429015 | [429015-total-loss.json](./429015-total-loss.json) |
 | Total Madness | 130219 | [130219-total-madness.json](./130219-total-madness.json) |
 | Total Mayhem | 72454 | [72454-total-mayhem.json](./72454-total-mayhem.json) |
-| Total Miner | 77339 | [77339-total-miner.json](./77339-total-miner.json) |
 | Total Miner: Forge | 65845 | [65845-total-miner-forge.json](./65845-total-miner-forge.json) |
 | Total Overdose | 6213 | [6213-total-overdose.json](./6213-total-overdose.json) |
 | Total Party Kill | 119272 | [119272-total-party-kill.json](./119272-total-party-kill.json) |
