@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-28T09:05:55.055Z",
-  "total_soundtracks": 3962,
+  "generated_at": "2026-11-28T09:15:55.349Z",
+  "total_soundtracks": 3963,
   "games": [
     {
       "igdb_id": 292844,
@@ -46535,6 +46535,20 @@
         {
           "album_name": "Torn (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1m176O4fqH1HxCmigbM1Wp",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 77339,
+      "game_name": "Total Miner",
+      "game_url": "https://ostdb.net/games/total-miner",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273aa6496b91d1d52eef55740cb",
+      "albums": [
+        {
+          "album_name": "Total Miner (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/68rMzmaRzRRZ55bsqz4Lcn",
           "apple_music_url": "",
           "album_link_url": ""
         }
