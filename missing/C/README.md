@@ -4041,7 +4041,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaway Station | 250856 | [250856-castaway-station.json](./250856-castaway-station.json) |
 | Castaway Survival In Ocean: Build Your Own Raft, Craft | 409694 | [409694-castaway-survival-in-ocean-build-your-own-raft-craft.json](./409694-castaway-survival-in-ocean-build-your-own-raft-craft.json) |
 | Castaway Trails | 356598 | [356598-castaway-trails.json](./356598-castaway-trails.json) |
-| Castaway VR | 75169 | [75169-castaway-vr.json](./75169-castaway-vr.json) |
 | Castaway: The Ordeal Begins | 71337 | [71337-castaway-the-ordeal-begins.json](./71337-castaway-the-ordeal-begins.json) |
 | Castaways | 222751 | [222751-castaways.json](./222751-castaways.json) |
 | Castaways VR | 120341 | [120341-castaways-vr.json](./120341-castaways-vr.json) |
@@ -9009,7 +9008,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate Factory Simulator | 293131 | [293131-chocolate-factory-simulator.json](./293131-chocolate-factory-simulator.json) |
 | Chocolate Factory Tycoon | 301174 | [301174-chocolate-factory-tycoon.json](./301174-chocolate-factory-tycoon.json) |
 | Chocolate Kiss | 263115 | [263115-chocolate-kiss.json](./263115-chocolate-kiss.json) |
-| Chocolate makes you happy | 75785 | [75785-chocolate-makes-you-happy.json](./75785-chocolate-makes-you-happy.json) |
 | Chocolate makes you happy 4 | 89935 | [89935-chocolate-makes-you-happy-4.json](./89935-chocolate-makes-you-happy-4.json) |
 | Chocolate makes you happy 5 | 99433 | [99433-chocolate-makes-you-happy-5.json](./99433-chocolate-makes-you-happy-5.json) |
 | Chocolate makes you happy 6 | 102399 | [102399-chocolate-makes-you-happy-6.json](./102399-chocolate-makes-you-happy-6.json) |
@@ -9150,7 +9148,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choose Cthulhu Files: The Call of Cthulhu | 329343 | [329343-choose-cthulhu-files-the-call-of-cthulhu.json](./329343-choose-cthulhu-files-the-call-of-cthulhu.json) |
 | Choose for ME | 126703 | [126703-choose-for-me.json](./126703-choose-for-me.json) |
 | Choose Love | 322306 | [322306-choose-love.json](./322306-choose-love.json) |
-| Choose Wisely | 75583 | [75583-choose-wisely.json](./75583-choose-wisely.json) |
 | Choose Your 2012 | 394192 | [394192-choose-your-2012.json](./394192-choose-your-2012.json) |
 | Choose Your Cutie | 274690 | [274690-choose-your-cutie.json](./274690-choose-your-cutie.json) |
 | Choose Your Own Alternative | 389395 | [389395-choose-your-own-alternative.json](./389395-choose-your-own-alternative.json) |
@@ -10699,7 +10696,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Platinum Edition | 136082 | [136082-cities-skylines-platinum-edition.json](./136082-cities-skylines-platinum-edition.json) |
 | Cities: Skylines - PlayStation 4 Edition | 94074 | [94074-cities-skylines-playstation-4-edition.json](./94074-cities-skylines-playstation-4-edition.json) |
 | Cities: Skylines - Plazas & Promenades | 217643 | [217643-cities-skylines-plazas-and-promenades.json](./217643-cities-skylines-plazas-and-promenades.json) |
-| Cities: Skylines - Premium Edition | 75870 | [75870-cities-skylines-premium-edition.json](./75870-cities-skylines-premium-edition.json) |
 | Cities: Skylines - Premium Edition 2 | 119080 | [119080-cities-skylines-premium-edition-2.json](./119080-cities-skylines-premium-edition-2.json) |
 | Cities: Skylines - Race Day | 393462 | [393462-cities-skylines-race-day.json](./393462-cities-skylines-race-day.json) |
 | Cities: Skylines - Rail Hawk Radio | 149991 | [149991-cities-skylines-rail-hawk-radio.json](./149991-cities-skylines-rail-hawk-radio.json) |
@@ -11190,7 +11186,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clad in Iron War of the Pacific 1879 | 231022 | [231022-clad-in-iron-war-of-the-pacific-1879.json](./231022-clad-in-iron-war-of-the-pacific-1879.json) |
 | Clad In Iron: Carolines 1885 | 171737 | [171737-clad-in-iron-carolines-1885.json](./171737-clad-in-iron-carolines-1885.json) |
 | Clad in Iron: Gulf of Mexico 1864 | 55607 | [55607-clad-in-iron-gulf-of-mexico-1864.json](./55607-clad-in-iron-gulf-of-mexico-1864.json) |
-| Clad in Iron: Philippines 1898 | 75343 | [75343-clad-in-iron-philippines-1898.json](./75343-clad-in-iron-philippines-1898.json) |
 | Clad in Iron: Philippines 1898 - Manila Bay 1898 | 170949 | [170949-clad-in-iron-philippines-1898-manila-bay-1898.json](./170949-clad-in-iron-philippines-1898-manila-bay-1898.json) |
 | Clad In Iron: War of The Pacific 1879 | 334186 | [334186-clad-in-iron-war-of-the-pacific-1879.json](./334186-clad-in-iron-war-of-the-pacific-1879.json) |
 | Cladmen | 151028 | [151028-cladmen.json](./151028-cladmen.json) |
@@ -12907,7 +12902,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coaster Crazy | 63522 | [63522-coaster-crazy.json](./63522-coaster-crazy.json) |
 | Coaster Crazy Deluxe | 85038 | [85038-coaster-crazy-deluxe.json](./85038-coaster-crazy-deluxe.json) |
 | Coaster Mania | 306926 | [306926-coaster-mania.json](./306926-coaster-mania.json) |
-| Coaster of Carnage VR | 75392 | [75392-coaster-of-carnage-vr.json](./75392-coaster-of-carnage-vr.json) |
 | Coaster Park Tycoon | 60612 | [60612-coaster-park-tycoon.json](./60612-coaster-park-tycoon.json) |
 | Coaster Race | 47519 | [47519-coaster-race.json](./47519-coaster-race.json) |
 | Coaster Racer | 386082 | [386082-coaster-racer.json](./386082-coaster-racer.json) |
@@ -20370,7 +20364,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Hotel | 121645 | [121645-crimson-hotel.json](./121645-crimson-hotel.json) |
 | Crimson II | 289040 | [289040-crimson-ii.json](./289040-crimson-ii.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
-| Crimson Imprint plus -Nonexistent Christmas- | 76031 | [76031-crimson-imprint-plus-nonexistent-christmas.json](./76031-crimson-imprint-plus-nonexistent-christmas.json) |
 | Crimson Incursion | 326938 | [326938-crimson-incursion.json](./326938-crimson-incursion.json) |
 | Crimson Katana Exa Label | 365112 | [365112-crimson-katana-exa-label.json](./365112-crimson-katana-exa-label.json) |
 | Crimson Keep | 22002 | [22002-crimson-keep.json](./22002-crimson-keep.json) |
