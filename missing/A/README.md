@@ -2875,7 +2875,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Ninja Master's | 114147 | [114147-aca-neo-geo-ninja-masters.json](./114147-aca-neo-geo-ninja-masters.json) |
 | ACA Neo Geo: Over Top | 28500 | [28500-aca-neo-geo-over-top.json](./28500-aca-neo-geo-over-top.json) |
 | ACA Neo Geo: Pleasure Goal - 5 on 5 Mini Soccer | 111644 | [111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json](./111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json) |
-| ACA Neo Geo: Power Spikes II | 82392 | [82392-aca-neo-geo-power-spikes-ii.json](./82392-aca-neo-geo-power-spikes-ii.json) |
 | ACA Neo Geo: Prehistoric Isle 2 | 118544 | [118544-aca-neo-geo-prehistoric-isle-2.json](./118544-aca-neo-geo-prehistoric-isle-2.json) |
 | ACA Neo Geo: Pulstar | 99511 | [99511-aca-neo-geo-pulstar.json](./99511-aca-neo-geo-pulstar.json) |
 | ACA Neo Geo: Puzzle Bobble | 113438 | [113438-aca-neo-geo-puzzle-bobble.json](./113438-aca-neo-geo-puzzle-bobble.json) |
@@ -3341,7 +3340,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
 | Achievement Lurker: Dad Jokes | 75802 | [75802-achievement-lurker-dad-jokes.json](./75802-achievement-lurker-dad-jokes.json) |
 | Achievement Lurker: Respectable Accomplishment | 74625 | [74625-achievement-lurker-respectable-accomplishment.json](./74625-achievement-lurker-respectable-accomplishment.json) |
-| Achievement Lurker: We Give Up! | 81624 | [81624-achievement-lurker-we-give-up.json](./81624-achievement-lurker-we-give-up.json) |
 | Achievement Monster | 368535 | [368535-achievement-monster.json](./368535-achievement-monster.json) |
 | Achievement Park | 90437 | [90437-achievement-park.json](./90437-achievement-park.json) |
 | Achievement Simulator | 131447 | [131447-achievement-simulator.json](./131447-achievement-simulator.json) |
@@ -3545,7 +3543,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Adventure | 341831 | [341831-action-adventure.json](./341831-action-adventure.json) |
 | Action Adventure Bundle | 125128 | [125128-action-adventure-bundle.json](./125128-action-adventure-bundle.json) |
 | Action Alien | 34934 | [34934-action-alien.json](./34934-action-alien.json) |
-| Action Alien : Prelude | 81907 | [81907-action-alien-prelude.json](./81907-action-alien-prelude.json) |
 | Action Alien: Tropical Mayhem | 102906 | [102906-action-alien-tropical-mayhem.json](./102906-action-alien-tropical-mayhem.json) |
 | Action Arcade Wrestling | 61145 | [61145-action-arcade-wrestling.json](./61145-action-arcade-wrestling.json) |
 | Action Arcade Wrestling | 62516 | [62516-action-arcade-wrestling.json](./62516-action-arcade-wrestling.json) |
@@ -6011,7 +6008,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agents of Mayhem: Lazarus Agent Pack | 169936 | [169936-agents-of-mayhem-lazarus-agent-pack.json](./169936-agents-of-mayhem-lazarus-agent-pack.json) |
 | Agents of Mayhem: Safeword | 75976 | [75976-agents-of-mayhem-safeword.json](./75976-agents-of-mayhem-safeword.json) |
 | Agents of Mayhem: Safeword Agent Pack | 223828 | [223828-agents-of-mayhem-safeword-agent-pack.json](./223828-agents-of-mayhem-safeword-agent-pack.json) |
-| Agents of Mayhem: Total Mayhem Bundle | 83756 | [83756-agents-of-mayhem-total-mayhem-bundle.json](./83756-agents-of-mayhem-total-mayhem-bundle.json) |
 | Agents of Shadow | 357803 | [357803-agents-of-shadow.json](./357803-agents-of-shadow.json) |
 | Agents of SomeCompany | 253374 | [253374-agents-of-somecompany.json](./253374-agents-of-somecompany.json) |
 | Agents of Spleef | 316459 | [316459-agents-of-spleef.json](./316459-agents-of-spleef.json) |
@@ -6435,7 +6431,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim To Capture | 373618 | [373618-aim-to-capture.json](./373618-aim-to-capture.json) |
 | Aim Trainer Asylum | 361917 | [361917-aim-trainer-asylum.json](./361917-aim-trainer-asylum.json) |
 | Aim Trainer Gauntlet | 337802 | [337802-aim-trainer-gauntlet.json](./337802-aim-trainer-gauntlet.json) |
-| Aim Trainer Pro | 81623 | [81623-aim-trainer-pro.json](./81623-aim-trainer-pro.json) |
 | Aim Trainer X | 403223 | [403223-aim-trainer-x.json](./403223-aim-trainer-x.json) |
 | Aim Trainer: Shooting Range | 277744 | [277744-aim-trainer-shooting-range.json](./277744-aim-trainer-shooting-range.json) |
 | Aim Trainer: With Cats | 375579 | [375579-aim-trainer-with-cats.json](./375579-aim-trainer-with-cats.json) |
@@ -6778,7 +6773,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirCars | 40828 | [40828-aircars.json](./40828-aircars.json) |
 | Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
 | Aircraft Carrier Survival | 139380 | [139380-aircraft-carrier-survival.json](./139380-aircraft-carrier-survival.json) |
-| Aircraft Evolution | 82077 | [82077-aircraft-evolution.json](./82077-aircraft-evolution.json) |
 | Aircraft Flag Quiz | 232116 | [232116-aircraft-flag-quiz.json](./232116-aircraft-flag-quiz.json) |
 | Aircraft in Pixels 2: Albatros D.V | 182094 | [182094-aircraft-in-pixels-2-albatros-d-v.json](./182094-aircraft-in-pixels-2-albatros-d-v.json) |
 | Aircraft Infinity | 238691 | [238691-aircraft-infinity.json](./238691-aircraft-infinity.json) |
@@ -7221,7 +7215,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AKB48+Me | 63075 | [63075-akb48-me.json](./63075-akb48-me.json) |
 | Akbarr | 13942 | [13942-akbarr.json](./13942-akbarr.json) |
 | Akcionář II | 391053 | [391053-akcionar-ii.json](./391053-akcionar-ii.json) |
-| Akda | 81676 | [81676-akda.json](./81676-akda.json) |
 | Akdo | 318100 | [318100-akdo.json](./318100-akdo.json) |
 | Ake no Yosuga: Twilight Loop | 402477 | [402477-ake-no-yosuga-twilight-loop.json](./402477-ake-no-yosuga-twilight-loop.json) |
 | Ake-Bre | 130602 | [130602-ake-bre.json](./130602-ake-bre.json) |
@@ -9857,7 +9850,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze Gears 3 | 158660 | [158660-amaze-gears-3.json](./158660-amaze-gears-3.json) |
 | Amaze Lunar | 115320 | [115320-amaze-lunar.json](./115320-amaze-lunar.json) |
 | Amaze St.Patrick | 114548 | [114548-amaze-st-patrick.json](./114548-amaze-st-patrick.json) |
-| Amaze Untouchable | 81960 | [81960-amaze-untouchable.json](./81960-amaze-untouchable.json) |
 | Amaze Valentine | 230121 | [230121-amaze-valentine.json](./230121-amaze-valentine.json) |
 | Amaze Zer0 | 51424 | [51424-amaze-zer0.json](./51424-amaze-zer0.json) |
 | Amaze: Easter | 116186 | [116186-amaze-easter.json](./116186-amaze-easter.json) |
@@ -9972,7 +9964,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Trip to Europe | 241300 | [241300-amazing-trip-to-europe.json](./241300-amazing-trip-to-europe.json) |
 | Amazing Trip to Europe 4: Search for Cats | 416477 | [416477-amazing-trip-to-europe-4-search-for-cats.json](./416477-amazing-trip-to-europe-4-search-for-cats.json) |
 | Amazing Trip to Europe 4: Search for Cats - Collector's Edition | 416478 | [416478-amazing-trip-to-europe-4-search-for-cats-collectors-edition.json](./416478-amazing-trip-to-europe-4-search-for-cats-collectors-edition.json) |
-| Amazing Trivia | 81846 | [81846-amazing-trivia.json](./81846-amazing-trivia.json) |
 | Amazing Vacation: Chicago | 337253 | [337253-amazing-vacation-chicago.json](./337253-amazing-vacation-chicago.json) |
 | Amazing Vacation: Los Angeles | 337227 | [337227-amazing-vacation-los-angeles.json](./337227-amazing-vacation-los-angeles.json) |
 | Amazing Vacation: Miami | 294767 | [294767-amazing-vacation-miami.json](./294767-amazing-vacation-miami.json) |
@@ -12133,8 +12124,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals In The City | 293219 | [293219-animals-in-the-city.json](./293219-animals-in-the-city.json) |
 | Animals Jigsaw Puzzle: games for kids | 90449 | [90449-animals-jigsaw-puzzle-games-for-kids.json](./90449-animals-jigsaw-puzzle-games-for-kids.json) |
 | Animals League Unite | 425793 | [425793-animals-league-unite.json](./425793-animals-league-unite.json) |
-| Animals Memory: Birds | 81942 | [81942-animals-memory-birds.json](./81942-animals-memory-birds.json) |
-| Animals Memory: Dinosaurs | 81934 | [81934-animals-memory-dinosaurs.json](./81934-animals-memory-dinosaurs.json) |
 | Animals Memory: Dogs | 81984 | [81984-animals-memory-dogs.json](./81984-animals-memory-dogs.json) |
 | Animals Memory: Horses | 110602 | [110602-animals-memory-horses.json](./110602-animals-memory-horses.json) |
 | Animals Memory: Insect | 81992 | [81992-animals-memory-insect.json](./81992-animals-memory-insect.json) |
@@ -13595,7 +13584,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment No. 9: BxG Version | 205729 | [205729-apartment-no-9-bxg-version.json](./205729-apartment-no-9-bxg-version.json) |
 | Apartment No.9: GxB Version | 179804 | [179804-apartment-no-9-gxb-version.json](./179804-apartment-no-9-gxb-version.json) |
 | Apartment of Death | 291504 | [291504-apartment-of-death.json](./291504-apartment-of-death.json) |
-| Apartment of Love | 83803 | [83803-apartment-of-love.json](./83803-apartment-of-love.json) |
 | Apartment Story: A Moving Simulator | 205792 | [205792-apartment-story-a-moving-simulator.json](./205792-apartment-story-a-moving-simulator.json) |
 | Apartment: A Separated Place | 57948 | [57948-apartment-a-separated-place.json](./57948-apartment-a-separated-place.json) |
 | Apartus | 276710 | [276710-apartus.json](./276710-apartus.json) |
@@ -14193,7 +14181,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Kids | 269345 | [269345-aqua-kids.json](./269345-aqua-kids.json) |
 | Aqua Kitty DX: Pawsome Bundle | 118853 | [118853-aqua-kitty-dx-pawsome-bundle.json](./118853-aqua-kitty-dx-pawsome-bundle.json) |
 | Aqua Kitty UDX | 86679 | [86679-aqua-kitty-udx.json](./86679-aqua-kitty-udx.json) |
-| Aqua Kitty UDX: Xbox One Ultra Edition | 82379 | [82379-aqua-kitty-udx-xbox-one-ultra-edition.json](./82379-aqua-kitty-udx-xbox-one-ultra-edition.json) |
 | Aqua Kitty: Milk Mine Defender | 8642 | [8642-aqua-kitty-milk-mine-defender.json](./8642-aqua-kitty-milk-mine-defender.json) |
 | Aqua Kitty: Milk Mine Defender DX | 90501 | [90501-aqua-kitty-milk-mine-defender-dx.json](./90501-aqua-kitty-milk-mine-defender-dx.json) |
 | Aqua Lungers | 90531 | [90531-aqua-lungers.json](./90531-aqua-lungers.json) |
@@ -15149,7 +15136,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Galaxy Builder | 263998 | [263998-arcade-galaxy-builder.json](./263998-arcade-galaxy-builder.json) |
 | Arcade Game Construction Kit | 44125 | [44125-arcade-game-construction-kit.json](./44125-arcade-game-construction-kit.json) |
 | Arcade Game Piggy Bank: Atari Breakout | 233649 | [233649-arcade-game-piggy-bank-atari-breakout.json](./233649-arcade-game-piggy-bank-atari-breakout.json) |
-| Arcade Game Series 3-in-1 Pack | 82378 | [82378-arcade-game-series-3-in-1-pack.json](./82378-arcade-game-series-3-in-1-pack.json) |
 | Arcade Game Series: Dig Dug | 82377 | [82377-arcade-game-series-dig-dug.json](./82377-arcade-game-series-dig-dug.json) |
 | Arcade Game Series: Pac-Man | 68344 | [68344-arcade-game-series-pac-man.json](./68344-arcade-game-series-pac-man.json) |
 | Arcade Game Zone | 279251 | [279251-arcade-game-zone.json](./279251-arcade-game-zone.json) |
@@ -16285,7 +16271,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark Legends | 193982 | [193982-ark-legends.json](./193982-ark-legends.json) |
 | Ark Mobius | 169794 | [169794-ark-mobius.json](./169794-ark-mobius.json) |
 | Ark Mobius: Censored Edition | 197289 | [197289-ark-mobius-censored-edition.json](./197289-ark-mobius-censored-edition.json) |
-| Ark Noir | 82880 | [82880-ark-noir.json](./82880-ark-noir.json) |
 | Ark Nova | 338156 | [338156-ark-nova.json](./338156-ark-nova.json) |
 | Ark Odyssey | 278179 | [278179-ark-odyssey.json](./278179-ark-odyssey.json) |
 | Ark Odyssey | 319366 | [319366-ark-odyssey.json](./319366-ark-odyssey.json) |
@@ -16720,7 +16705,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core: Silent Line Portable | 21757 | [21757-armored-core-silent-line-portable.json](./21757-armored-core-silent-line-portable.json) |
 | Armored Core: Verdict Day | 5494 | [5494-armored-core-verdict-day.json](./5494-armored-core-verdict-day.json) |
 | Armored Encounter! / Sub Chase! | 93234 | [93234-armored-encounter-sub-chase.json](./93234-armored-encounter-sub-chase.json) |
-| Armored Evolution | 81638 | [81638-armored-evolution.json](./81638-armored-evolution.json) |
 | Armored Fighter | 111573 | [111573-armored-fighter.json](./111573-armored-fighter.json) |
 | Armored Firestorm | 194995 | [194995-armored-firestorm.json](./194995-armored-firestorm.json) |
 | Armored Fist | 14983 | [14983-armored-fist.json](./14983-armored-fist.json) |
@@ -17313,9 +17297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifacts of Eternity | 337617 | [337617-artifacts-of-eternity.json](./337617-artifacts-of-eternity.json) |
 | Artifacts of Eyru | 207507 | [207507-artifacts-of-eyru.json](./207507-artifacts-of-eyru.json) |
 | Artifacts of the Past: Ancient Mysteries | 417297 | [417297-artifacts-of-the-past-ancient-mysteries.json](./417297-artifacts-of-the-past-ancient-mysteries.json) |
-| Artifex Mundi Adventure Collection | 83755 | [83755-artifex-mundi-adventure-collection.json](./83755-artifex-mundi-adventure-collection.json) |
 | Artifex Mundi Essential Bundle | 82380 | [82380-artifex-mundi-essential-bundle.json](./82380-artifex-mundi-essential-bundle.json) |
-| Artifex Mundi Fantasy Bundle | 83733 | [83733-artifex-mundi-fantasy-bundle.json](./83733-artifex-mundi-fantasy-bundle.json) |
 | Artifex Mundi Ultimate Collection | 113586 | [113586-artifex-mundi-ultimate-collection.json](./113586-artifex-mundi-ultimate-collection.json) |
 | Artifice | 258313 | [258313-artifice.json](./258313-artifice.json) |
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
