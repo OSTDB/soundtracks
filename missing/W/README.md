@@ -6106,7 +6106,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Romance | 32335 | [32335-wild-romance.json](./32335-wild-romance.json) |
 | Wild Romance: Mofu-mofu Edition | 75657 | [75657-wild-romance-mofu-mofu-edition.json](./75657-wild-romance-mofu-mofu-edition.json) |
 | Wild Roots | 374874 | [374874-wild-roots.json](./374874-wild-roots.json) |
-| Wild RTS | 76022 | [76022-wild-rts.json](./76022-wild-rts.json) |
 | Wild Rumble | 226118 | [226118-wild-rumble.json](./226118-wild-rumble.json) |
 | Wild Runners! | 268818 | [268818-wild-runners.json](./268818-wild-runners.json) |
 | Wild Runs | 147241 | [147241-wild-runs.json](./147241-wild-runs.json) |
@@ -10685,7 +10684,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Writer's Block | 80234 | [80234-writers-block.json](./80234-writers-block.json) |
 | Writer's Life | 186798 | [186798-writers-life.json](./186798-writers-life.json) |
 | Writer's Rush | 282194 | [282194-writers-rush.json](./282194-writers-rush.json) |
-| Writers | 75105 | [75105-writers.json](./75105-writers.json) |
 | Writhe | 142308 | [142308-writhe.json](./142308-writhe.json) |
 | Writhe | 213466 | [213466-writhe.json](./213466-writhe.json) |
 | Writhe | 90240 | [90240-writhe.json](./90240-writhe.json) |
@@ -10712,7 +10710,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrong train | 186383 | [186383-wrong-train.json](./186383-wrong-train.json) |
 | Wrong Treatment | 392543 | [392543-wrong-treatment.json](./392543-wrong-treatment.json) |
 | Wrong Way | 383859 | [383859-wrong-way.json](./383859-wrong-way.json) |
-| Wronged | 75780 | [75780-wronged.json](./75780-wronged.json) |
 | Wronged Us | 190482 | [190482-wronged-us.json](./190482-wronged-us.json) |
 | WrongKynd | 232223 | [232223-wrongkynd.json](./232223-wrongkynd.json) |
 | Wrongly Accused | 293337 | [293337-wrongly-accused.json](./293337-wrongly-accused.json) |
