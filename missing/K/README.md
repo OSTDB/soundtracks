@@ -1041,7 +1041,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karan Koron Gakuen: Hanafuda - Mahjong | 281608 | [281608-karan-koron-gakuen-hanafuda-mahjong.json](./281608-karan-koron-gakuen-hanafuda-mahjong.json) |
 | Karanos Solitaire | 158392 | [158392-karanos-solitaire.json](./158392-karanos-solitaire.json) |
 | Karao | 392176 | [392176-karao.json](./392176-karao.json) |
-| Karaoke | 80255 | [80255-karaoke.json](./80255-karaoke.json) |
 | Karaoke Animal Party: Sing & Dance | 330607 | [330607-karaoke-animal-party-sing-and-dance.json](./330607-karaoke-animal-party-sing-and-dance.json) |
 | Karaoke Family Fun | 210018 | [210018-karaoke-family-fun.json](./210018-karaoke-family-fun.json) |
 | Karaoke Joysound | 131250 | [131250-karaoke-joysound.json](./131250-karaoke-joysound.json) |
@@ -2974,7 +2973,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill The Shadow | 276201 | [276201-kill-the-shadow.json](./276201-kill-the-shadow.json) |
 | Kill the Sun | 364236 | [364236-kill-the-sun.json](./364236-kill-the-sun.json) |
 | Kill the Super Duper Big Monster | 407737 | [407737-kill-the-super-duper-big-monster.json](./407737-kill-the-super-duper-big-monster.json) |
-| Kill the Superweapon | 76294 | [76294-kill-the-superweapon.json](./76294-kill-the-superweapon.json) |
 | Kill the Thing | 420518 | [420518-kill-the-thing.json](./420518-kill-the-thing.json) |
 | Kill The Topulus | 265836 | [265836-kill-the-topulus.json](./265836-kill-the-topulus.json) |
 | Kill the Twister | 339679 | [339679-kill-the-twister.json](./339679-kill-the-twister.json) |
@@ -5541,7 +5539,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout | 245133 | [245133-knockout.json](./245133-knockout.json) |
 | Knockout 2: Wrath of the Karen | 244756 | [244756-knockout-2-wrath-of-the-karen.json](./244756-knockout-2-wrath-of-the-karen.json) |
 | Knockout Bowling VR | 129695 | [129695-knockout-bowling-vr.json](./129695-knockout-bowling-vr.json) |
-| Knockout Checkers Chamber | 76348 | [76348-knockout-checkers-chamber.json](./76348-knockout-checkers-chamber.json) |
 | Knockout City | 143615 | [143615-knockout-city.json](./143615-knockout-city.json) |
 | Knockout City: Block Party Edition | 169177 | [169177-knockout-city-block-party-edition.json](./169177-knockout-city-block-party-edition.json) |
 | Knockout City: Deluxe Block Party Edition | 169176 | [169176-knockout-city-deluxe-block-party-edition.json](./169176-knockout-city-deluxe-block-party-edition.json) |
@@ -6355,7 +6352,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korekiyo's Epic Quest for Pussy | 272851 | [272851-korekiyos-epic-quest-for-pussy.json](./272851-korekiyos-epic-quest-for-pussy.json) |
 | Korg DS-10 | 73009 | [73009-korg-ds-10.json](./73009-korg-ds-10.json) |
 | KORG DS-10 Plus | 124490 | [124490-korg-ds-10-plus.json](./124490-korg-ds-10-plus.json) |
-| KORG Gadget | 77537 | [77537-korg-gadget.json](./77537-korg-gadget.json) |
 | Korg M01 | 63564 | [63564-korg-m01.json](./63564-korg-m01.json) |
 | Korga's Arena | 289683 | [289683-korgas-arena.json](./289683-korgas-arena.json) |
 | Korgan | 83810 | [83810-korgan.json](./83810-korgan.json) |
@@ -7095,7 +7091,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KungFu Kickball | 121713 | [121713-kungfu-kickball.json](./121713-kungfu-kickball.json) |
 | KungFu King: Martialist | 134164 | [134164-kungfu-king-martialist.json](./134164-kungfu-king-martialist.json) |
 | Kungfu Ragdoll | 214061 | [214061-kungfu-ragdoll.json](./214061-kungfu-ragdoll.json) |
-| KungFu Town VR | 76525 | [76525-kungfu-town-vr.json](./76525-kungfu-town-vr.json) |
 | Kungfucious - VR Kung Fu Wuxia Simulator | 114246 | [114246-kungfucious-vr-kung-fu-wuxia-simulator.json](./114246-kungfucious-vr-kung-fu-wuxia-simulator.json) |
 | Kuni Chan no Game Tengoku | 45271 | [45271-kuni-chan-no-game-tengoku.json](./45271-kuni-chan-no-game-tengoku.json) |
 | Kuni Chan no Game Tengoku Part 2 | 45270 | [45270-kuni-chan-no-game-tengoku-part-2.json](./45270-kuni-chan-no-game-tengoku-part-2.json) |
