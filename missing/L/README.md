@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Origin R+ | 401129 | [401129-last-origin-r.json](./401129-last-origin-r.json) |
 | Last Outlander | 224028 | [224028-last-outlander.json](./224028-last-outlander.json) |
 | Last Outpost | 302110 | [302110-last-outpost.json](./302110-last-outpost.json) |
+| Last Outpost Tycoon | 429703 | [429703-last-outpost-tycoon.json](./429703-last-outpost-tycoon.json) |
 | Last Paddle Standing | 430353 | [430353-last-paddle-standing.json](./430353-last-paddle-standing.json) |
 | Last Patriot | 328972 | [328972-last-patriot.json](./328972-last-patriot.json) |
 | Last Patrol | 378226 | [378226-last-patrol.json](./378226-last-patrol.json) |
@@ -2540,7 +2541,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Foes | 373487 | [373487-league-of-foes.json](./373487-league-of-foes.json) |
 | League of Golf | 201206 | [201206-league-of-golf.json](./201206-league-of-golf.json) |
 | League Of Guessing | 31381 | [31381-league-of-guessing.json](./31381-league-of-guessing.json) |
-| League of Heroes | 85243 | [85243-league-of-heroes.json](./85243-league-of-heroes.json) |
 | League of Immortals | 274635 | [274635-league-of-immortals.json](./274635-league-of-immortals.json) |
 | League of Kingdoms | 188647 | [188647-league-of-kingdoms.json](./188647-league-of-kingdoms.json) |
 | League of Legends: 2025 Season One - Welcome to Noxus | 327916 | [327916-league-of-legends-2025-season-one-welcome-to-noxus.json](./327916-league-of-legends-2025-season-one-welcome-to-noxus.json) |
@@ -2744,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leave Home | 91518 | [91518-leave-home.json](./91518-leave-home.json) |
 | Leave Me Alone: A Trip to Hell | 33497 | [33497-leave-me-alone-a-trip-to-hell.json](./33497-leave-me-alone-a-trip-to-hell.json) |
 | Leave Me Alone! | 177953 | [177953-leave-me-alone.json](./177953-leave-me-alone.json) |
+| Leave Me Alone! | 427733 | [427733-leave-me-alone.json](./427733-leave-me-alone.json) |
 | Leave No One Behind: la Drang | 152994 | [152994-leave-no-one-behind-la-drang.json](./152994-leave-no-one-behind-la-drang.json) |
 | Leave No One Behind: la Drang VR | 203745 | [203745-leave-no-one-behind-la-drang-vr.json](./203745-leave-no-one-behind-la-drang-vr.json) |
 | Leave Panda Away | 268262 | [268262-leave-panda-away.json](./268262-leave-panda-away.json) |
@@ -3255,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend Sang 3 | 429224 | [429224-legend-sang-3.json](./429224-legend-sang-3.json) |
 | Legend Sang 4 | 429230 | [429230-legend-sang-4.json](./429230-legend-sang-4.json) |
 | Legend Sang 5 | 339870 | [339870-legend-sang-5.json](./339870-legend-sang-5.json) |
+| Legend Seven: Shirayuki Hime to Shichinin no Eiyuu | 403696 | [403696-legend-seven-shirayuki-hime-to-shichinin-no-eiyuu.json](./403696-legend-seven-shirayuki-hime-to-shichinin-no-eiyuu.json) |
 | Legend Square | 304513 | [304513-legend-square.json](./304513-legend-square.json) |
 | Legend vs. Legion | 348536 | [348536-legend-vs-legion.json](./348536-legend-vs-legion.json) |
 | Legend: Ashita he no Tsubasa | 334883 | [334883-legend-ashita-he-no-tsubasa.json](./334883-legend-ashita-he-no-tsubasa.json) |
@@ -4365,7 +4367,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's go! Brave | 269184 | [269184-lets-go-brave.json](./269184-lets-go-brave.json) |
 | Let's Go! My Harem Farm | 278149 | [278149-lets-go-my-harem-farm.json](./278149-lets-go-my-harem-farm.json) |
 | Let's Go! Skiing | 123935 | [123935-lets-go-skiing.json](./123935-lets-go-skiing.json) |
-| Let's Golf 2 | 84436 | [84436-lets-golf-2.json](./84436-lets-golf-2.json) |
 | Let's Golf! | 67693 | [67693-lets-golf.json](./67693-lets-golf.json) |
 | Let's Golf! 3 | 88679 | [88679-lets-golf-3.json](./88679-lets-golf-3.json) |
 | Let's Grow Together | 422432 | [422432-lets-grow-together.json](./422432-lets-grow-together.json) |
@@ -4590,6 +4591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letalis | 290197 | [290197-letalis.json](./290197-letalis.json) |
 | LetDeco | 351667 | [351667-letdeco.json](./351667-letdeco.json) |
 | Lethal | 355235 | [355235-lethal.json](./355235-lethal.json) |
+| Lethal Ape | 426059 | [426059-lethal-ape.json](./426059-lethal-ape.json) |
 | Lethal Application | 256555 | [256555-lethal-application.json](./256555-lethal-application.json) |
 | Lethal Beach | 267109 | [267109-lethal-beach.json](./267109-lethal-beach.json) |
 | Lethal Brutal Racing | 31873 | [31873-lethal-brutal-racing.json](./31873-lethal-brutal-racing.json) |
@@ -6003,7 +6005,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilo & Stitch Pinball | 107595 | [107595-lilo-and-stitch-pinball.json](./107595-lilo-and-stitch-pinball.json) |
 | lilPizzaBois | 104944 | [104944-lilpizzabois.json](./104944-lilpizzabois.json) |
 | Lilt | 33618 | [33618-lilt.json](./33618-lilt.json) |
-| Lilt Line | 85248 | [85248-lilt-line.json](./85248-lilt-line.json) |
 | Lilulu | 149412 | [149412-lilulu.json](./149412-lilulu.json) |
 | Lily | 112746 | [112746-lily.json](./112746-lily.json) |
 | Lily | 332883 | [332883-lily.json](./332883-lily.json) |
@@ -6562,7 +6563,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lion Tamer | 346061 | [346061-lion-tamer.json](./346061-lion-tamer.json) |
 | Lion the Last Homeland | 236151 | [236151-lion-the-last-homeland.json](./236151-lion-the-last-homeland.json) |
 | Liona's Adventure | 258447 | [258447-lionas-adventure.json](./258447-lionas-adventure.json) |
-| Lionel City Builder 3D: Rise of the Rails | 85246 | [85246-lionel-city-builder-3d-rise-of-the-rails.json](./85246-lionel-city-builder-3d-rise-of-the-rails.json) |
 | Lionel the Dragon | 197079 | [197079-lionel-the-dragon.json](./197079-lionel-the-dragon.json) |
 | Lionel Trains Presents: Trans-Con! | 348978 | [348978-lionel-trains-presents-trans-con.json](./348978-lionel-trains-presents-trans-con.json) |
 | Lionel Trains: On Track | 10738 | [10738-lionel-trains-on-track.json](./10738-lionel-trains-on-track.json) |
@@ -7440,7 +7440,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liuyin's World | 346566 | [346566-liuyins-world.json](./346566-liuyins-world.json) |
 | Liv | 386475 | [386475-liv.json](./386475-liv.json) |
 | Livalink | 25388 | [25388-livalink.json](./25388-livalink.json) |
-| Live | 85682 | [85682-live.json](./85682-live.json) |
 | Live a Hero | 208172 | [208172-live-a-hero.json](./208172-live-a-hero.json) |
 | Live Action Football | 210182 | [210182-live-action-football.json](./210182-live-action-football.json) |
 | Live Action-Bit Theater "Route Yonroku" | 319312 | [319312-live-action-bit-theater-route-yonroku.json](./319312-live-action-bit-theater-route-yonroku.json) |
@@ -8253,14 +8252,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
 | Lola: The Escape | 170930 | [170930-lola-the-escape.json](./170930-lola-the-escape.json) |
 | Lola's ABC Party | 85257 | [85257-lolas-abc-party.json](./85257-lolas-abc-party.json) |
-| Lola's Alphabet Train | 85256 | [85256-lolas-alphabet-train.json](./85256-lolas-alphabet-train.json) |
 | Lola's Beach Puzzle | 88106 | [88106-lolas-beach-puzzle.json](./88106-lolas-beach-puzzle.json) |
 | Lola’s Familiars: Prison of Argnoh | 405232 | [405232-lola-s-familiars-prison-of-argnoh.json](./405232-lola-s-familiars-prison-of-argnoh.json) |
 | Lola's Fruit Shop Sudoku | 85255 | [85255-lolas-fruit-shop-sudoku.json](./85255-lolas-fruit-shop-sudoku.json) |
 | Lola's Fruity Sudoku | 106747 | [106747-lolas-fruity-sudoku.json](./106747-lolas-fruity-sudoku.json) |
 | Lola's Learning World: Math edition | 89054 | [89054-lolas-learning-world-math-edition.json](./89054-lolas-learning-world-math-edition.json) |
 | Lola's Lutong Bahay | 327154 | [327154-lolas-lutong-bahay.json](./327154-lolas-lutong-bahay.json) |
-| Lola's Math Train | 85254 | [85254-lolas-math-train.json](./85254-lolas-math-train.json) |
 | Lola's World of Wonders | 137525 | [137525-lolas-world-of-wonders.json](./137525-lolas-world-of-wonders.json) |
 | Lolagame | 320294 | [320294-lolagame.json](./320294-lolagame.json) |
 | LOLBeans.io | 142931 | [142931-lolbeans-io.json](./142931-lolbeans-io.json) |
