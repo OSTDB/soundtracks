@@ -224,7 +224,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.H.O.S.T. Chronicles: Phantom of the Faire | 209598 | [209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json](./209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json) |
 | G.H.O.S.T. Hunters: The Haunting of Majesty Manor | 209751 | [209751-g-h-o-s-t-hunters-the-haunting-of-majesty-manor.json](./209751-g-h-o-s-t-hunters-the-haunting-of-majesty-manor.json) |
 | G.H.O.S.T.: Ghost Hunt Ops Special Team | 405787 | [405787-g-h-o-s-t-ghost-hunt-ops-special-team.json](./405787-g-h-o-s-t-ghost-hunt-ops-special-team.json) |
-| G.I. Combat: Episode 1 - Battle of Normandy | 79387 | [79387-g-i-combat-episode-1-battle-of-normandy.json](./79387-g-i-combat-episode-1-battle-of-normandy.json) |
 | G.I. Joe | 178246 | [178246-g-i-joe.json](./178246-g-i-joe.json) |
 | G.I. Joe: A Real American Hero | 218433 | [218433-g-i-joe-a-real-american-hero.json](./218433-g-i-joe-a-real-american-hero.json) |
 | G.I. Joe: A Real American Hero | 25981 | [25981-g-i-joe-a-real-american-hero.json](./25981-g-i-joe-a-real-american-hero.json) |
@@ -2043,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garage Mechanic Simulator 3D | 315895 | [315895-garage-mechanic-simulator-3d.json](./315895-garage-mechanic-simulator-3d.json) |
 | Garage Ninja | 163764 | [163764-garage-ninja.json](./163764-garage-ninja.json) |
 | Garage Sale | 245999 | [245999-garage-sale.json](./245999-garage-sale.json) |
+| Garage to Factory | 429902 | [429902-garage-to-factory.json](./429902-garage-to-factory.json) |
 | Garage Works | 278417 | [278417-garage-works.json](./278417-garage-works.json) |
 | Garage: Bad Dream Adventure | 152048 | [152048-garage-bad-dream-adventure.json](./152048-garage-bad-dream-adventure.json) |
 | Garage: Bad Dream Adventure | 24947 | [24947-garage-bad-dream-adventure.json](./24947-garage-bad-dream-adventure.json) |
@@ -2496,7 +2496,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gat Rat | 348830 | [348830-gat-rat.json](./348830-gat-rat.json) |
 | Gata Guressi | 394588 | [394588-gata-guressi.json](./394588-gata-guressi.json) |
 | Gataela | 56405 | [56405-gataela.json](./56405-gataela.json) |
-| Gatari: Sand on Teeth | 78584 | [78584-gatari-sand-on-teeth.json](./78584-gatari-sand-on-teeth.json) |
 | Gatcha Gear | 285115 | [285115-gatcha-gear.json](./285115-gatcha-gear.json) |
 | Gate | 168932 | [168932-gate.json](./168932-gate.json) |
 | Gate | 170353 | [170353-gate.json](./170353-gate.json) |
@@ -4591,7 +4590,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters: Spirits Unleashed - Free Update #3 | 274272 | [274272-ghostbusters-spirits-unleashed-free-update-3.json](./274272-ghostbusters-spirits-unleashed-free-update-3.json) |
 | Ghostbusters: The Video Game | 210296 | [210296-ghostbusters-the-video-game.json](./210296-ghostbusters-the-video-game.json) |
 | Ghostbusters: The Video Game | 566 | [566-ghostbusters-the-video-game.json](./566-ghostbusters-the-video-game.json) |
-| Ghostbusters: The Video Game | 77275 | [77275-ghostbusters-the-video-game.json](./77275-ghostbusters-the-video-game.json) |
 | Ghostbusters: The Video Game Remastered | 119170 | [119170-ghostbusters-the-video-game-remastered.json](./119170-ghostbusters-the-video-game-remastered.json) |
 | GhostCast | 169840 | [169840-ghostcast.json](./169840-ghostcast.json) |
 | GhostCatcher | 257961 | [257961-ghostcatcher.json](./257961-ghostcatcher.json) |
@@ -5917,7 +5915,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloom | 151203 | [151203-gloom.json](./151203-gloom.json) |
 | Gloom | 3030 | [3030-gloom.json](./3030-gloom.json) |
 | Gloom | 77750 | [77750-gloom.json](./77750-gloom.json) |
-| Gloom | 78126 | [78126-gloom.json](./78126-gloom.json) |
 | Gloom and Doom | 142547 | [142547-gloom-and-doom.json](./142547-gloom-and-doom.json) |
 | Gloom Deluxe | 302768 | [302768-gloom-deluxe.json](./302768-gloom-deluxe.json) |
 | Gloom Gate | 417428 | [417428-gloom-gate.json](./417428-gloom-gate.json) |
@@ -13037,7 +13034,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslugs 2 | 35977 | [35977-gunslugs-2.json](./35977-gunslugs-2.json) |
 | Gunslugs: Rogue Tactics | 114017 | [114017-gunslugs-rogue-tactics.json](./114017-gunslugs-rogue-tactics.json) |
 | Gunsmith | 355085 | [355085-gunsmith.json](./355085-gunsmith.json) |
-| Gunsmith | 81232 | [81232-gunsmith.json](./81232-gunsmith.json) |
 | Gunsmith Master Simulator | 367693 | [367693-gunsmith-master-simulator.json](./367693-gunsmith-master-simulator.json) |
 | Gunsmith Simulator | 133405 | [133405-gunsmith-simulator.json](./133405-gunsmith-simulator.json) |
 | Gunsmith Simulator: Fabryka Broni DLC | 389516 | [389516-gunsmith-simulator-fabryka-broni-dlc.json](./389516-gunsmith-simulator-fabryka-broni-dlc.json) |
