@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie City Rescue | 274930 | [274930-zombie-city-rescue.json](./274930-zombie-city-rescue.json) |
 | Zombie City Together | 423875 | [423875-zombie-city-together.json](./423875-zombie-city-together.json) |
 | Zombie Claus | 219094 | [219094-zombie-claus.json](./219094-zombie-claus.json) |
+| Zombie Cleaner | 431672 | [431672-zombie-cleaner.json](./431672-zombie-cleaner.json) |
 | Zombie Clicker Defense | 83526 | [83526-zombie-clicker-defense.json](./83526-zombie-clicker-defense.json) |
 | Zombie Clicker RPG | 234425 | [234425-zombie-clicker-rpg.json](./234425-zombie-clicker-rpg.json) |
 | Zombie Colony | 287680 | [287680-zombie-colony.json](./287680-zombie-colony.json) |
@@ -2487,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombodrive | 192826 | [192826-zombodrive.json](./192826-zombodrive.json) |
 | ZomboidGuessr | 298763 | [298763-zomboidguessr.json](./298763-zomboidguessr.json) |
 | Zombonic | 408076 | [408076-zombonic.json](./408076-zombonic.json) |
+| Zombonk | 431317 | [431317-zombonk.json](./431317-zombonk.json) |
 | Zomborg | 75006 | [75006-zomborg.json](./75006-zomborg.json) |
 | Zombotron | 278616 | [278616-zombotron.json](./278616-zombotron.json) |
 | Zombotron | 77488 | [77488-zombotron.json](./77488-zombotron.json) |
@@ -2556,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone Interactive | 246224 | [246224-zone-interactive.json](./246224-zone-interactive.json) |
 | Zone L.O.S.T. | 422885 | [422885-zone-l-o-s-t.json](./422885-zone-l-o-s-t.json) |
 | Zone Mini | 246226 | [246226-zone-mini.json](./246226-zone-mini.json) |
+| Zone Nova | 431758 | [431758-zone-nova.json](./431758-zone-nova.json) |
 | Zone of Action | 138557 | [138557-zone-of-action.json](./138557-zone-of-action.json) |
 | Zone of Death | 164169 | [164169-zone-of-death.json](./164169-zone-of-death.json) |
 | Zone of Lacryma | 32241 | [32241-zone-of-lacryma.json](./32241-zone-of-lacryma.json) |
