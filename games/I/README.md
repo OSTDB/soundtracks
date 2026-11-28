@@ -6,6 +6,7 @@
 |---|---|---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d20304f4fec08f6201b693" width="60" /> | [I Am Dead](https://ostdb.net/games/i-am-dead) | **I Am Dead (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2GkaFODWCCn9YTkj4kW9lO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384bc5ed02494d95ea66ed7be" width="60" /> | [I Can't Escape: Darkness](https://ostdb.net/games/i-cant-escape-darkness) | **I Can't Escape : Darkness Original Soundtrack** · [Spotify](https://open.spotify.com/album/0axCdxvu4CYD1hiF4IOIU8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737570cfcae2479c625664be87" width="60" /> | [I Wanna Be the Cat](https://ostdb.net/games/i-wanna-be-the-cat) | **I Wanna Be the Cat (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1rXCnzsp7HWkEB9rqHCfR2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734428a673f9dde323ab50ae9b" width="60" /> | [Ian's Eyes](https://ostdb.net/games/ians-eyes) | **Ian's Eyes (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4tZR7v3uh9i6iEP1LnEgBH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4fe8d7d8d97881894d39ea2" width="60" /> | [Ibb & Obb](https://ostdb.net/games/ibb-and-obb) | **Ibb & Obb (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e6dccd9a83fb09e8ec66fd82" width="60" /> | [Icarus](https://ostdb.net/games/icarus) | **Icarus (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3imy5KGZRqOYCPzJUjqlyp) |
