@@ -2299,7 +2299,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elbe | 362582 | [362582-elbe.json](./362582-elbe.json) |
 | ElbmarKs | 197153 | [197153-elbmarks.json](./197153-elbmarks.json) |
 | Elbow Room | 60290 | [60290-elbow-room.json](./60290-elbow-room.json) |
-| Elbub | 76378 | [76378-elbub.json](./76378-elbub.json) |
 | ElChronicle | 130635 | [130635-elchronicle.json](./130635-elchronicle.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
 | Eldara | 403983 | [403983-eldara.json](./403983-eldara.json) |
@@ -2532,7 +2531,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electron Handsome Boy | 201312 | [201312-electron-handsome-boy.json](./201312-electron-handsome-boy.json) |
 | Electron World | 284169 | [284169-electron-world.json](./284169-electron-world.json) |
 | Electron Zaraftor | 276295 | [276295-electron-zaraftor.json](./276295-electron-zaraftor.json) |
-| Electronauts | 81056 | [81056-electronauts.json](./81056-electronauts.json) |
 | Electronia | 55918 | [55918-electronia.json](./55918-electronia.json) |
 | Electronic Arts Top Ten Pak | 414565 | [414565-electronic-arts-top-ten-pak.json](./414565-electronic-arts-top-ten-pak.json) |
 | Electronic Baseball | 245501 | [245501-electronic-baseball.json](./245501-electronic-baseball.json) |
@@ -3176,7 +3174,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elmarion: The Lost Temple | 149894 | [149894-elmarion-the-lost-temple.json](./149894-elmarion-the-lost-temple.json) |
 | Elmer | 386737 | [386737-elmer.json](./386737-elmer.json) |
 | Elmer | 419538 | [419538-elmer.json](./419538-elmer.json) |
-| Elmia | 76281 | [76281-elmia.json](./76281-elmia.json) |
 | Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
 | Elminage DS Remix: Yami no Miko to Kamigami no Yubiwa | 21026 | [21026-elminage-ds-remix-yami-no-miko-to-kamigami-no-yubiwa.json](./21026-elminage-ds-remix-yami-no-miko-to-kamigami-no-yubiwa.json) |
 | Elminage Gothic | 17210 | [17210-elminage-gothic.json](./17210-elminage-gothic.json) |
@@ -3829,7 +3826,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of Angels | 56126 | [56126-empire-of-angels.json](./56126-empire-of-angels.json) |
 | Empire of Angels II | 56124 | [56124-empire-of-angels-ii.json](./56124-empire-of-angels-ii.json) |
 | Empire of Angels III | 56122 | [56122-empire-of-angels-iii.json](./56122-empire-of-angels-iii.json) |
-| Empire of Angels IV | 78589 | [78589-empire-of-angels-iv.json](./78589-empire-of-angels-iv.json) |
 | Empire of Angels IV: Limited Edition | 166264 | [166264-empire-of-angels-iv-limited-edition.json](./166264-empire-of-angels-iv-limited-edition.json) |
 | Empire of Angels: Angels' Curse | 56121 | [56121-empire-of-angels-angels-curse.json](./56121-empire-of-angels-angels-curse.json) |
 | Empire of Angels: Lace Fantasy | 83018 | [83018-empire-of-angels-lace-fantasy.json](./83018-empire-of-angels-lace-fantasy.json) |
@@ -4415,7 +4411,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Horizon | 99674 | [99674-endless-horizon.json](./99674-endless-horizon.json) |
 | Endless Horizons | 334382 | [334382-endless-horizons.json](./334382-endless-horizons.json) |
 | Endless Immortal Journey | 282178 | [282178-endless-immortal-journey.json](./282178-endless-immortal-journey.json) |
-| Endless Inside | 76297 | [76297-endless-inside.json](./76297-endless-inside.json) |
 | Endless Invader | 407547 | [407547-endless-invader.json](./407547-endless-invader.json) |
 | Endless Invaders | 100365 | [100365-endless-invaders.json](./100365-endless-invaders.json) |
 | Endless Isolation | 405715 | [405715-endless-isolation.json](./405715-endless-isolation.json) |
@@ -5966,7 +5961,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Espacial | 421490 | [421490-escape-espacial.json](./421490-escape-espacial.json) |
 | Escape Everlit | 348372 | [348372-escape-everlit.json](./348372-escape-everlit.json) |
 | Escape Evolution | 179180 | [179180-escape-evolution.json](./179180-escape-evolution.json) |
-| Escape Expert | 81116 | [81116-escape-expert.json](./81116-escape-expert.json) |
 | Escape Factory | 317983 | [317983-escape-factory.json](./317983-escape-factory.json) |
 | Escape Failed | 414721 | [414721-escape-failed.json](./414721-escape-failed.json) |
 | Escape Fantasy | 55777 | [55777-escape-fantasy.json](./55777-escape-fantasy.json) |
@@ -6716,7 +6710,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escom CD ROM Edition | 112656 | [112656-escom-cd-rom-edition.json](./112656-escom-cd-rom-edition.json) |
 | Escort Alia | 241363 | [241363-escort-alia.json](./241363-escort-alia.json) |
 | Escort Alia: Escort Rena | 241320 | [241320-escort-alia-escort-rena.json](./241320-escort-alia-escort-rena.json) |
-| Escort Commander | 80998 | [80998-escort-commander.json](./80998-escort-commander.json) |
 | Escort Simulator | 404463 | [404463-escort-simulator.json](./404463-escort-simulator.json) |
 | Escort Simulator 2 | 189984 | [189984-escort-simulator-2.json](./189984-escort-simulator-2.json) |
 | Escort Yourself Out | 134962 | [134962-escort-yourself-out.json](./134962-escort-yourself-out.json) |
@@ -6869,7 +6862,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN's 2-Minute Drill | 69010 | [69010-espns-2-minute-drill.json](./69010-espns-2-minute-drill.json) |
 | ESPNU College Town | 93571 | [93571-espnu-college-town.json](./93571-espnu-college-town.json) |
 | Esport Club Tycoon | 197370 | [197370-esport-club-tycoon.json](./197370-esport-club-tycoon.json) |
-| ESport Manager | 81150 | [81150-esport-manager.json](./81150-esport-manager.json) |
 | ESports Club | 39762 | [39762-esports-club.json](./39762-esports-club.json) |
 | Esports Godfather | 159504 | [159504-esports-godfather.json](./159504-esports-godfather.json) |
 | Esports Godfather Origin | 282161 | [282161-esports-godfather-origin.json](./282161-esports-godfather-origin.json) |
@@ -9335,7 +9327,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploding Wall | 13652 | [13652-exploding-wall.json](./13652-exploding-wall.json) |
 | Explody Bomb | 85133 | [85133-explody-bomb.json](./85133-explody-bomb.json) |
 | Exploit | 173424 | [173424-exploit.json](./173424-exploit.json) |
-| Explomania | 81033 | [81033-explomania.json](./81033-explomania.json) |
 | Explora III: Sous le Signe du Serpent | 14181 | [14181-explora-iii-sous-le-signe-du-serpent.json](./14181-explora-iii-sous-le-signe-du-serpent.json) |
 | Exploración: Casa Barroso | 302563 | [302563-exploracion-casa-barroso.json](./302563-exploracion-casa-barroso.json) |
 | Exploration | 94317 | [94317-exploration.json](./94317-exploration.json) |
