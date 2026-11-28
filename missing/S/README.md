@@ -213,7 +213,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saban's Iznogoud | 80780 | [80780-sabans-iznogoud.json](./80780-sabans-iznogoud.json) |
 | Saban's Masked Rider | 217730 | [217730-sabans-masked-rider.json](./217730-sabans-masked-rider.json) |
 | Saban's Mighty Morphin Power Rangers | 217939 | [217939-sabans-mighty-morphin-power-rangers.json](./217939-sabans-mighty-morphin-power-rangers.json) |
-| Saban's Mighty Morphin Power Rangers: Mega Battle | 78258 | [78258-sabans-mighty-morphin-power-rangers-mega-battle.json](./78258-sabans-mighty-morphin-power-rangers-mega-battle.json) |
 | Saban's Mighty Morphin Power Rangers: Mega Battle Launch Pack | 99743 | [99743-sabans-mighty-morphin-power-rangers-mega-battle-launch-pack.json](./99743-sabans-mighty-morphin-power-rangers-mega-battle-launch-pack.json) |
 | Saban's Power Rangers in Space | 217937 | [217937-sabans-power-rangers-in-space.json](./217937-sabans-power-rangers-in-space.json) |
 | Saban's Power Rangers Turbo | 217936 | [217936-sabans-power-rangers-turbo.json](./217936-sabans-power-rangers-turbo.json) |
@@ -7700,7 +7699,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shackled | 148354 | [148354-shackled.json](./148354-shackled.json) |
 | Shackled | 15364 | [15364-shackled.json](./15364-shackled.json) |
 | Shackles of Ellswyn | 203776 | [203776-shackles-of-ellswyn.json](./203776-shackles-of-ellswyn.json) |
-| Shad'O | 80331 | [80331-shado.json](./80331-shado.json) |
 | Shad'O: Collector's Edition | 25546 | [25546-shado-collectors-edition.json](./25546-shado-collectors-edition.json) |
 | Shada Kalo | 216306 | [216306-shada-kalo.json](./216306-shada-kalo.json) |
 | Shade | 171056 | [171056-shade.json](./171056-shade.json) |
@@ -8136,7 +8134,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShadowCaster | 8691 | [8691-shadowcaster.json](./8691-shadowcaster.json) |
 | ShadowComm. Associate Studio: Enterprise Edition | 421199 | [421199-shadowcomm-associate-studio-enterprise-edition.json](./421199-shadowcomm-associate-studio-enterprise-edition.json) |
 | ShadowCore VR | 75069 | [75069-shadowcore-vr.json](./75069-shadowcore-vr.json) |
-| Shadowcrawl | 80971 | [80971-shadowcrawl.json](./80971-shadowcrawl.json) |
 | Shadowcrypt | 17711 | [17711-shadowcrypt.json](./17711-shadowcrypt.json) |
 | Shadowcut | 134898 | [134898-shadowcut.json](./134898-shadowcut.json) |
 | Shadowdeep | 420054 | [420054-shadowdeep.json](./420054-shadowdeep.json) |
@@ -10367,6 +10364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiroi Ringu he: Twinkle Little Star | 38217 | [38217-shiroi-ringu-he-twinkle-little-star.json](./38217-shiroi-ringu-he-twinkle-little-star.json) |
 | Shiroki Koutetsu no X: The Out of Gunvolt | 136781 | [136781-shiroki-koutetsu-no-x-the-out-of-gunvolt.json](./136781-shiroki-koutetsu-no-x-the-out-of-gunvolt.json) |
 | Shirokoi Sakura Gram | 370245 | [370245-shirokoi-sakura-gram.json](./370245-shirokoi-sakura-gram.json) |
+| Shirokuma King | 429841 | [429841-shirokuma-king.json](./429841-shirokuma-king.json) |
 | ShiroKuro | 414125 | [414125-shirokuro.json](./414125-shirokuro.json) |
 | ShiroKuro Iede Gyaru: Tomete Kuretara Nandemo Suru yo | 82999 | [82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json](./82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json) |
 | Shirokuro: Shikijoushou no Osananajimi wo Sewa suru koto ni natta, Kanojo ni naisho de | 323855 | [323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json](./323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json) |
@@ -10402,7 +10400,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shit Country Sweeper | 180734 | [180734-shit-country-sweeper.json](./180734-shit-country-sweeper.json) |
 | Shit Slam II | 372111 | [372111-shit-slam-ii.json](./372111-shit-slam-ii.json) |
 | Shit Stealing Gnomes | 430979 | [430979-shit-stealing-gnomes.json](./430979-shit-stealing-gnomes.json) |
-| Shit Storm | 81100 | [81100-shit-storm.json](./81100-shit-storm.json) |
 | Shit!! | 79214 | [79214-shit.json](./79214-shit.json) |
 | Shita ni | 238565 | [238565-shita-ni.json](./238565-shita-ni.json) |
 | Shitai wo Arau | 387849 | [387849-shitai-wo-arau.json](./387849-shitai-wo-arau.json) |
@@ -11013,6 +11010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoshin Test | 316866 | [316866-shoshin-test.json](./316866-shoshin-test.json) |
 | Shot | 425922 | [425922-shot.json](./425922-shot.json) |
 | Shot & Dread Online | 293214 | [293214-shot-and-dread-online.json](./293214-shot-and-dread-online.json) |
+| Shot Aground | 429876 | [429876-shot-aground.json](./429876-shot-aground.json) |
 | Shot Block | 280056 | [280056-shot-block.json](./280056-shot-block.json) |
 | Shot Clock | 359303 | [359303-shot-clock.json](./359303-shot-clock.json) |
 | Shot Dawn | 197355 | [197355-shot-dawn.json](./197355-shot-dawn.json) |
@@ -17339,7 +17337,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Story: Love Edition | 193500 | [193500-snail-story-love-edition.json](./193500-snail-story-love-edition.json) |
 | Snail Trainer | 282541 | [282541-snail-trainer.json](./282541-snail-trainer.json) |
 | Snail Trek Chapter 1 | 75912 | [75912-snail-trek-chapter-1.json](./75912-snail-trek-chapter-1.json) |
-| Snail Trek Chapter 2 | 76494 | [76494-snail-trek-chapter-2.json](./76494-snail-trek-chapter-2.json) |
 | Snail Trek: Chapter 1 - Intershellar | 83336 | [83336-snail-trek-chapter-1-intershellar.json](./83336-snail-trek-chapter-1-intershellar.json) |
 | Snail Trek: Chapter 2 - A Snail of Two Worlds | 83337 | [83337-snail-trek-chapter-2-a-snail-of-two-worlds.json](./83337-snail-trek-chapter-2-a-snail-of-two-worlds.json) |
 | Snail wisdom simulator 2017 | 183922 | [183922-snail-wisdom-simulator-2017.json](./183922-snail-wisdom-simulator-2017.json) |
@@ -19419,7 +19416,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Central | 384790 | [384790-solitaire-central.json](./384790-solitaire-central.json) |
 | Solitaire Christmas: Match 2 Cards | 33879 | [33879-solitaire-christmas-match-2-cards.json](./33879-solitaire-christmas-match-2-cards.json) |
 | Solitaire Chronicles: Wild Guns | 179278 | [179278-solitaire-chronicles-wild-guns.json](./179278-solitaire-chronicles-wild-guns.json) |
-| Solitaire City | 76589 | [76589-solitaire-city.json](./76589-solitaire-city.json) |
 | Solitaire City Classic | 99103 | [99103-solitaire-city-classic.json](./99103-solitaire-city-classic.json) |
 | Solitaire Classic | 277564 | [277564-solitaire-classic.json](./277564-solitaire-classic.json) |
 | Solitaire Classic Online | 87092 | [87092-solitaire-classic-online.json](./87092-solitaire-classic-online.json) |
@@ -25531,7 +25527,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin the Beat | 43500 | [43500-spin-the-beat.json](./43500-spin-the-beat.json) |
 | Spin the Book | 304488 | [304488-spin-the-book.json](./304488-spin-the-book.json) |
 | Spin the Bottle | 93633 | [93633-spin-the-bottle.json](./93633-spin-the-bottle.json) |
-| Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
 | Spin the Fire | 336197 | [336197-spin-the-fire.json](./336197-spin-the-fire.json) |
 | Spin the Lighthouse | 290285 | [290285-spin-the-lighthouse.json](./290285-spin-the-lighthouse.json) |
 | Spin the World | 148208 | [148208-spin-the-world.json](./148208-spin-the-world.json) |
@@ -26684,7 +26679,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpreadCheat | 322905 | [322905-spreadcheat.json](./322905-spreadcheat.json) |
 | Spreadsheets & Dungeons | 400388 | [400388-spreadsheets-and-dungeons.json](./400388-spreadsheets-and-dungeons.json) |
 | Spreadsheets and Nothing More | 356951 | [356951-spreadsheets-and-nothing-more.json](./356951-spreadsheets-and-nothing-more.json) |
-| Spreadstorm | 76542 | [76542-spreadstorm.json](./76542-spreadstorm.json) |
 | Spready | 302009 | [302009-spready.json](./302009-spready.json) |
 | Spreen Game | 253051 | [253051-spreen-game.json](./253051-spreen-game.json) |
 | Sprig | 425990 | [425990-sprig.json](./425990-sprig.json) |
@@ -27766,7 +27760,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand O'Food 3 | 87189 | [87189-stand-ofood-3.json](./87189-stand-ofood-3.json) |
 | Stand O'Food City: Virtual Frenzy | 88628 | [88628-stand-ofood-city-virtual-frenzy.json](./88628-stand-ofood-city-virtual-frenzy.json) |
 | Stand of Arms | 159527 | [159527-stand-of-arms.json](./159527-stand-of-arms.json) |
-| Stand Out | 76352 | [76352-stand-out.json](./76352-stand-out.json) |
 | Stand Out: VR Battle Royale | 115729 | [115729-stand-out-vr-battle-royale.json](./115729-stand-out-vr-battle-royale.json) |
 | Stand Still | 418123 | [418123-stand-still.json](./418123-stand-still.json) |
 | Stand Your Ground | 259098 | [259098-stand-your-ground.json](./259098-stand-your-ground.json) |
@@ -28394,7 +28387,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Swapper | 94728 | [94728-star-swapper.json](./94728-star-swapper.json) |
 | Star Sweep | 104779 | [104779-star-sweep.json](./104779-star-sweep.json) |
 | Star Sweep | 200367 | [200367-star-sweep.json](./200367-star-sweep.json) |
-| Star Sweet | 76476 | [76476-star-sweet.json](./76476-star-sweet.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
 | Star Sword Chronicle | 97584 | [97584-star-sword-chronicle.json](./97584-star-sword-chronicle.json) |
 | Star System Battle | 309463 | [309463-star-system-battle.json](./309463-star-system-battle.json) |
@@ -29423,7 +29415,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starquake Academy | 113029 | [113029-starquake-academy.json](./113029-starquake-academy.json) |
 | StarQuest: Rescue at Rigel | 2870 | [2870-starquest-rescue-at-rigel.json](./2870-starquest-rescue-at-rigel.json) |
 | Starr Mazer | 14792 | [14792-starr-mazer.json](./14792-starr-mazer.json) |
-| Starr Mazer: DSP | 80547 | [80547-starr-mazer-dsp.json](./80547-starr-mazer-dsp.json) |
 | Starr Ringer | 220502 | [220502-starr-ringer.json](./220502-starr-ringer.json) |
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
 | Starri | 247839 | [247839-starri.json](./247839-starri.json) |
@@ -29680,7 +29671,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Collapse | 302672 | [302672-stars-collapse.json](./302672-stars-collapse.json) |
 | Stars Commander | 311532 | [311532-stars-commander.json](./311532-stars-commander.json) |
 | Stars Die | 134715 | [134715-stars-die.json](./134715-stars-die.json) |
-| Stars End | 76288 | [76288-stars-end.json](./76288-stars-end.json) |
 | Stars Era: Abyss Frontier | 289303 | [289303-stars-era-abyss-frontier.json](./289303-stars-era-abyss-frontier.json) |
 | Stars Era: Lost Stars | 128238 | [128238-stars-era-lost-stars.json](./128238-stars-era-lost-stars.json) |
 | Stars Era: The Final Defence | 320241 | [320241-stars-era-the-final-defence.json](./320241-stars-era-the-final-defence.json) |
@@ -31703,7 +31693,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop Online: Battle of Words | 34353 | [34353-stop-online-battle-of-words.json](./34353-stop-online-battle-of-words.json) |
 | Stop Robots | 99858 | [99858-stop-robots.json](./99858-stop-robots.json) |
 | Stop Rod | 291204 | [291204-stop-rod.json](./291204-stop-rod.json) |
-| Stop Santa - Tower Defense | 76275 | [76275-stop-santa-tower-defense.json](./76275-stop-santa-tower-defense.json) |
 | Stop Sign Sprint | 263371 | [263371-stop-sign-sprint.json](./263371-stop-sign-sprint.json) |
 | Stop Slapping Tenshi! | 330364 | [330364-stop-slapping-tenshi.json](./330364-stop-slapping-tenshi.json) |
 | Stop Stress: A Day of Fury | 67253 | [67253-stop-stress-a-day-of-fury.json](./67253-stop-stress-a-day-of-fury.json) |
@@ -33180,7 +33169,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Team 6 | 426838 | [426838-strike-team-6.json](./426838-strike-team-6.json) |
 | Strike Team Delta | 293668 | [293668-strike-team-delta.json](./293668-strike-team-delta.json) |
 | Strike Team Gladius | 142274 | [142274-strike-team-gladius.json](./142274-strike-team-gladius.json) |
-| Strike Team Hydra | 76365 | [76365-strike-team-hydra.json](./76365-strike-team-hydra.json) |
 | Strike Team Online | 174838 | [174838-strike-team-online.json](./174838-strike-team-online.json) |
 | Strike the Goal: Score Goals | 175074 | [175074-strike-the-goal-score-goals.json](./175074-strike-the-goal-score-goals.json) |
 | Strike the Planets! | 226765 | [226765-strike-the-planets.json](./226765-strike-the-planets.json) |
@@ -34398,7 +34386,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugamenia | 296502 | [296502-sugamenia.json](./296502-sugamenia.json) |
 | Sugar & Rolling Stone | 344712 | [344712-sugar-and-rolling-stone.json](./344712-sugar-and-rolling-stone.json) |
 | Sugar Bear | 255121 | [255121-sugar-bear.json](./255121-sugar-bear.json) |
-| Sugar Box | 81227 | [81227-sugar-box.json](./81227-sugar-box.json) |
 | Sugar Bunnies DS: Yume no Sweets Koubou | 68038 | [68038-sugar-bunnies-ds-yume-no-sweets-koubou.json](./68038-sugar-bunnies-ds-yume-no-sweets-koubou.json) |
 | Sugar Burst Mania | 181999 | [181999-sugar-burst-mania.json](./181999-sugar-burst-mania.json) |
 | Sugar Coat Freaks | 60401 | [60401-sugar-coat-freaks.json](./60401-sugar-coat-freaks.json) |
@@ -38080,7 +38067,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen Compact 2 Dai-2-bu: Uchuu Gekishin-hen | 37479 | [37479-super-robot-taisen-compact-2-dai-2-bu-uchuu-gekishin-hen.json](./37479-super-robot-taisen-compact-2-dai-2-bu-uchuu-gekishin-hen.json) |
 | Super Robot Taisen Compact 2 Dai-3-bu: Ginga Kessen-hen | 37478 | [37478-super-robot-taisen-compact-2-dai-3-bu-ginga-kessen-hen.json](./37478-super-robot-taisen-compact-2-dai-3-bu-ginga-kessen-hen.json) |
 | Super Robot Taisen Compact 3 | 37316 | [37316-super-robot-taisen-compact-3.json](./37316-super-robot-taisen-compact-3.json) |
-| Super Robot Taisen Complete Box | 79336 | [79336-super-robot-taisen-complete-box.json](./79336-super-robot-taisen-complete-box.json) |
 | Super Robot Taisen D | 6626 | [6626-super-robot-taisen-d.json](./6626-super-robot-taisen-d.json) |
 | Super Robot Taisen DD | 112429 | [112429-super-robot-taisen-dd.json](./112429-super-robot-taisen-dd.json) |
 | Super Robot Taisen EX | 240915 | [240915-super-robot-taisen-ex.json](./240915-super-robot-taisen-ex.json) |
@@ -38090,7 +38076,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen GC | 4189 | [4189-super-robot-taisen-gc.json](./4189-super-robot-taisen-gc.json) |
 | Super Robot Taisen Impact | 72877 | [72877-super-robot-taisen-impact.json](./72877-super-robot-taisen-impact.json) |
 | Super Robot Taisen J | 6629 | [6629-super-robot-taisen-j.json](./6629-super-robot-taisen-j.json) |
-| Super Robot Taisen K | 79340 | [79340-super-robot-taisen-k.json](./79340-super-robot-taisen-k.json) |
 | Super Robot Taisen Link Battler | 112601 | [112601-super-robot-taisen-link-battler.json](./112601-super-robot-taisen-link-battler.json) |
 | Super Robot Taisen Mobile | 408404 | [408404-super-robot-taisen-mobile.json](./408404-super-robot-taisen-mobile.json) |
 | Super Robot Taisen MX | 72849 | [72849-super-robot-taisen-mx.json](./72849-super-robot-taisen-mx.json) |
@@ -38099,7 +38084,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen OE: Operation Extend | 79344 | [79344-super-robot-taisen-oe-operation-extend.json](./79344-super-robot-taisen-oe-operation-extend.json) |
 | Super Robot Taisen OG Gaiden | 72741 | [72741-super-robot-taisen-og-gaiden.json](./72741-super-robot-taisen-og-gaiden.json) |
 | Super Robot Taisen OG Saga: Endless Frontier | 21187 | [21187-super-robot-taisen-og-saga-endless-frontier.json](./21187-super-robot-taisen-og-saga-endless-frontier.json) |
-| Super Robot Taisen OG Saga: Masou Kishin - The Lord of Elemental | 79343 | [79343-super-robot-taisen-og-saga-masou-kishin-the-lord-of-elemental.json](./79343-super-robot-taisen-og-saga-masou-kishin-the-lord-of-elemental.json) |
 | Super Robot Taisen OG Saga: Masou Kishin F - Coffin of the End | 61553 | [61553-super-robot-taisen-og-saga-masou-kishin-f-coffin-of-the-end.json](./61553-super-robot-taisen-og-saga-masou-kishin-f-coffin-of-the-end.json) |
 | Super Robot Taisen OG Saga: Masou Kishin I - The Lord of Elemental | 408411 | [408411-super-robot-taisen-og-saga-masou-kishin-i-the-lord-of-elemental.json](./408411-super-robot-taisen-og-saga-masou-kishin-i-the-lord-of-elemental.json) |
 | Super Robot Taisen OG Saga: Masou Kishin II - Revelation of Evil God | 65453 | [65453-super-robot-taisen-og-saga-masou-kishin-ii-revelation-of-evil-god.json](./65453-super-robot-taisen-og-saga-masou-kishin-ii-revelation-of-evil-god.json) |
@@ -38652,7 +38636,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Car | 146714 | [146714-super-star-car.json](./146714-super-star-car.json) |
 | Super Star Football | 245586 | [245586-super-star-football.json](./245586-super-star-football.json) |
 | Super Star Force: Jikuureki no Himitsu | 48394 | [48394-super-star-force-jikuureki-no-himitsu.json](./48394-super-star-force-jikuureki-no-himitsu.json) |
-| Super Star Panda | 80950 | [80950-super-star-panda.json](./80950-super-star-panda.json) |
 | Super Star Path | 19981 | [19981-super-star-path.json](./19981-super-star-path.json) |
 | Super Star Pro Wrestling | 48393 | [48393-super-star-pro-wrestling.json](./48393-super-star-pro-wrestling.json) |
 | Super Star Shooter 16 | 159933 | [159933-super-star-shooter-16.json](./159933-super-star-shooter-16.json) |
