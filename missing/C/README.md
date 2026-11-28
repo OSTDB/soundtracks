@@ -17437,6 +17437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corruption: Political Simulator Strategy | 271476 | [271476-corruption-political-simulator-strategy.json](./271476-corruption-political-simulator-strategy.json) |
 | Corrypt | 50797 | [50797-corrypt.json](./50797-corrypt.json) |
 | Corsair | 80501 | [80501-corsair.json](./80501-corsair.json) |
+| Corsair: Pirate Open World | 430151 | [430151-corsair-pirate-open-world.json](./430151-corsair-pirate-open-world.json) |
 | Corsair's Madness | 193095 | [193095-corsairs-madness.json](./193095-corsairs-madness.json) |
 | Corsairs Gold | 50354 | [50354-corsairs-gold.json](./50354-corsairs-gold.json) |
 | Corsairs Legacy | 172298 | [172298-corsairs-legacy.json](./172298-corsairs-legacy.json) |
@@ -20675,6 +20676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crônicas da Separação | 426586 | [426586-cronicas-da-separacao.json](./426586-cronicas-da-separacao.json) |
 | Cronicas de Landulph | 170432 | [170432-cronicas-de-landulph.json](./170432-cronicas-de-landulph.json) |
 | Crónicas de Nueva Estrella Uno | 339340 | [339340-cronicas-de-nueva-estrella-uno.json](./339340-cronicas-de-nueva-estrella-uno.json) |
+| Crônicas do Reino | 430630 | [430630-cronicas-do-reino.json](./430630-cronicas-do-reino.json) |
 | CroNix | 18911 | [18911-cronix.json](./18911-cronix.json) |
 | Cronos: Lazarus | 404917 | [404917-cronos-lazarus.json](./404917-cronos-lazarus.json) |
 | Cronos: The New Dawn - Deluxe Edition | 365002 | [365002-cronos-the-new-dawn-deluxe-edition.json](./365002-cronos-the-new-dawn-deluxe-edition.json) |
@@ -22483,6 +22485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubicity: Slide puzzle | 115947 | [115947-cubicity-slide-puzzle.json](./115947-cubicity-slide-puzzle.json) |
 | Cubicle Cat Superstar | 306910 | [306910-cubicle-cat-superstar.json](./306910-cubicle-cat-superstar.json) |
 | Cubicle Farter | 296863 | [296863-cubicle-farter.json](./296863-cubicle-farter.json) |
+| Cubicle Knight | 430286 | [430286-cubicle-knight.json](./430286-cubicle-knight.json) |
 | Cubicle Quest | 35762 | [35762-cubicle-quest.json](./35762-cubicle-quest.json) |
 | Cubicle Simulator | 185296 | [185296-cubicle-simulator.json](./185296-cubicle-simulator.json) |
 | Cubico | 120787 | [120787-cubico.json](./120787-cubico.json) |
