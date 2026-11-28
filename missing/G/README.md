@@ -5746,7 +5746,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch World | 311251 | [311251-glitch-world.json](./311251-glitch-world.json) |
 | Glitch: Dead Loop Horror | 349809 | [349809-glitch-dead-loop-horror.json](./349809-glitch-dead-loop-horror.json) |
 | Glitch.exe | 426133 | [426133-glitch-exe.json](./426133-glitch-exe.json) |
-| Glitch's Trip | 75083 | [75083-glitchs-trip.json](./75083-glitchs-trip.json) |
 | Glitchangels | 127543 | [127543-glitchangels.json](./127543-glitchangels.json) |
 | Glitchball | 99450 | [99450-glitchball.json](./99450-glitchball.json) |
 | Glitchbuster | 44221 | [44221-glitchbuster.json](./44221-glitchbuster.json) |
