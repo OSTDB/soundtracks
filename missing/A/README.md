@@ -10936,6 +10936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anathema | 396970 | [396970-anathema.json](./396970-anathema.json) |
 | Anathema | 411408 | [411408-anathema.json](./411408-anathema.json) |
 | Anathema | 54688 | [54688-anathema.json](./54688-anathema.json) |
+| Anathema Requiem | 431776 | [431776-anathema-requiem.json](./431776-anathema-requiem.json) |
 | Anathema Tower Defense | 272227 | [272227-anathema-tower-defense.json](./272227-anathema-tower-defense.json) |
 | Anathyma | 344620 | [344620-anathyma.json](./344620-anathyma.json) |
 | Anatidae | 149472 | [149472-anatidae.json](./149472-anatidae.json) |
