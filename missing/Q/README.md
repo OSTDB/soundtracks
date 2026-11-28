@@ -171,7 +171,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qlione Evolve | 52680 | [52680-qlione-evolve.json](./52680-qlione-evolve.json) |
 | Qliphah in Providence's Shadow | 408068 | [408068-qliphah-in-providences-shadow.json](./408068-qliphah-in-providences-shadow.json) |
 | Qloister | 381928 | [381928-qloister.json](./381928-qloister.json) |
-| Qlorb | 84090 | [84090-qlorb.json](./84090-qlorb.json) |
 | Qlorb 2 | 88241 | [88241-qlorb-2.json](./88241-qlorb-2.json) |
 | Qlrz | 134514 | [134514-qlrz.json](./134514-qlrz.json) |
 | Qlute | 307550 | [307550-qlute.json](./307550-qlute.json) |
