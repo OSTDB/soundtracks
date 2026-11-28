@@ -1430,7 +1430,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sister's Journey | 183157 | [183157-a-sisters-journey.json](./183157-a-sisters-journey.json) |
 | A Sketchbook About Her Sun | 152682 | [152682-a-sketchbook-about-her-sun.json](./152682-a-sketchbook-about-her-sun.json) |
 | A Skier's Journey | 180504 | [180504-a-skiers-journey.json](./180504-a-skiers-journey.json) |
-| A Sky Full of Stars | 76033 | [76033-a-sky-full-of-stars.json](./76033-a-sky-full-of-stars.json) |
 | A Sky Full of Stars Fine Days | 150234 | [150234-a-sky-full-of-stars-fine-days.json](./150234-a-sky-full-of-stars-fine-days.json) |
 | A Sky Full of Stars Interstellar Focus | 150590 | [150590-a-sky-full-of-stars-interstellar-focus.json](./150590-a-sky-full-of-stars-interstellar-focus.json) |
 | A Skyrocket Story | 58800 | [58800-a-skyrocket-story.json](./58800-a-skyrocket-story.json) |
@@ -2850,7 +2849,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Garou - Mark of the Wolves | 118541 | [118541-aca-neo-geo-garou-mark-of-the-wolves.json](./118541-aca-neo-geo-garou-mark-of-the-wolves.json) |
 | ACA Neo Geo: Ghost Pilots | 103851 | [103851-aca-neo-geo-ghost-pilots.json](./103851-aca-neo-geo-ghost-pilots.json) |
 | ACA Neo Geo: Gururin | 103849 | [103849-aca-neo-geo-gururin.json](./103849-aca-neo-geo-gururin.json) |
-| ACA Neo Geo: Karnov's Revenge | 76054 | [76054-aca-neo-geo-karnovs-revenge.json](./76054-aca-neo-geo-karnovs-revenge.json) |
 | ACA Neo Geo: King of the Monsters | 99492 | [99492-aca-neo-geo-king-of-the-monsters.json](./99492-aca-neo-geo-king-of-the-monsters.json) |
 | ACA Neo Geo: King of the Monsters 2 | 118569 | [118569-aca-neo-geo-king-of-the-monsters-2.json](./118569-aca-neo-geo-king-of-the-monsters-2.json) |
 | ACA Neo Geo: Kizuna Encounter | 113906 | [113906-aca-neo-geo-kizuna-encounter.json](./113906-aca-neo-geo-kizuna-encounter.json) |
@@ -2898,11 +2896,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
 | ACA Neo Geo: Shock Troopers | 28412 | [28412-aca-neo-geo-shock-troopers.json](./28412-aca-neo-geo-shock-troopers.json) |
 | ACA Neo Geo: Shock Troopers 2nd Squad | 103847 | [103847-aca-neo-geo-shock-troopers-2nd-squad.json](./103847-aca-neo-geo-shock-troopers-2nd-squad.json) |
-| ACA Neo Geo: Soccer Brawl | 76213 | [76213-aca-neo-geo-soccer-brawl.json](./76213-aca-neo-geo-soccer-brawl.json) |
 | ACA Neo Geo: Spin Master | 67624 | [67624-aca-neo-geo-spin-master.json](./67624-aca-neo-geo-spin-master.json) |
 | ACA Neo Geo: Stakes Winner | 99167 | [99167-aca-neo-geo-stakes-winner.json](./99167-aca-neo-geo-stakes-winner.json) |
 | ACA Neo Geo: Stakes Winner 2 | 118216 | [118216-aca-neo-geo-stakes-winner-2.json](./118216-aca-neo-geo-stakes-winner-2.json) |
-| ACA Neo Geo: Street Hoop | 75676 | [75676-aca-neo-geo-street-hoop.json](./75676-aca-neo-geo-street-hoop.json) |
 | ACA Neo Geo: Strikers 1945 Plus | 111065 | [111065-aca-neo-geo-strikers-1945-plus.json](./111065-aca-neo-geo-strikers-1945-plus.json) |
 | ACA Neo Geo: Super Baseball 2020 | 85561 | [85561-aca-neo-geo-super-baseball-2020.json](./85561-aca-neo-geo-super-baseball-2020.json) |
 | ACA Neo Geo: Super Sidekicks | 99493 | [99493-aca-neo-geo-super-sidekicks.json](./99493-aca-neo-geo-super-sidekicks.json) |
@@ -3291,7 +3287,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achaea, Dreams of Divine Lands | 11820 | [11820-achaea-dreams-of-divine-lands.json](./11820-achaea-dreams-of-divine-lands.json) |
 | Achaem | 104680 | [104680-achaem.json](./104680-achaem.json) |
 | Achar Chronicles: Oblitus | 58068 | [58068-achar-chronicles-oblitus.json](./58068-achar-chronicles-oblitus.json) |
-| AchBall | 75432 | [75432-achball.json](./75432-achball.json) |
 | Acheron | 154386 | [154386-acheron.json](./154386-acheron.json) |
 | Acheron's Souls | 150121 | [150121-acherons-souls.json](./150121-acherons-souls.json) |
 | Acheton | 2296 | [2296-acheton.json](./2296-acheton.json) |
@@ -3338,7 +3333,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Idler Black | 95124 | [95124-achievement-idler-black.json](./95124-achievement-idler-black.json) |
 | Achievement Idler: Red | 97229 | [97229-achievement-idler-red.json](./97229-achievement-idler-red.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
-| Achievement Lurker: Dad Jokes | 75802 | [75802-achievement-lurker-dad-jokes.json](./75802-achievement-lurker-dad-jokes.json) |
 | Achievement Lurker: Respectable Accomplishment | 74625 | [74625-achievement-lurker-respectable-accomplishment.json](./74625-achievement-lurker-respectable-accomplishment.json) |
 | Achievement Monster | 368535 | [368535-achievement-monster.json](./368535-achievement-monster.json) |
 | Achievement Park | 90437 | [90437-achievement-park.json](./90437-achievement-park.json) |
@@ -4665,7 +4659,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Norman the Cat | 409368 | [409368-adventures-of-norman-the-cat.json](./409368-adventures-of-norman-the-cat.json) |
 | Adventures of Pinocchio | 69034 | [69034-adventures-of-pinocchio.json](./69034-adventures-of-pinocchio.json) |
 | Adventures of Pip | 14681 | [14681-adventures-of-pip.json](./14681-adventures-of-pip.json) |
-| Adventures of Pipi | 75208 | [75208-adventures-of-pipi.json](./75208-adventures-of-pipi.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
 | Adventures of Poco Eco: Lost Sounds | 58991 | [58991-adventures-of-poco-eco-lost-sounds.json](./58991-adventures-of-poco-eco-lost-sounds.json) |
 | Adventures of Polo | 291637 | [291637-adventures-of-polo.json](./291637-adventures-of-polo.json) |
@@ -6208,7 +6201,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Doctor | 319307 | [319307-ai-doctor.json](./319307-ai-doctor.json) |
 | AI Doll Repairer | 370581 | [370581-ai-doll-repairer.json](./370581-ai-doll-repairer.json) |
 | AI Drone Simulator | 148603 | [148603-ai-drone-simulator.json](./148603-ai-drone-simulator.json) |
-| AI Dummy | 75434 | [75434-ai-dummy.json](./75434-ai-dummy.json) |
 | AI Dungeon | 203870 | [203870-ai-dungeon.json](./203870-ai-dungeon.json) |
 | AI Empire Tycoon | 426887 | [426887-ai-empire-tycoon.json](./426887-ai-empire-tycoon.json) |
 | AI Fantasy | 293500 | [293500-ai-fantasy.json](./293500-ai-fantasy.json) |
@@ -6601,7 +6593,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey | 311362 | [311362-air-hockey.json](./311362-air-hockey.json) |
 | Air Hockey | 359301 | [359301-air-hockey.json](./359301-air-hockey.json) |
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
-| Air Hockey | 75995 | [75995-air-hockey.json](./75995-air-hockey.json) |
 | Air Hockey | 89804 | [89804-air-hockey.json](./89804-air-hockey.json) |
 | Air Hockey | 94114 | [94114-air-hockey.json](./94114-air-hockey.json) |
 | Air Hockey Arcade: Casual Board Game | 242589 | [242589-air-hockey-arcade-casual-board-game.json](./242589-air-hockey-arcade-casual-board-game.json) |
@@ -7806,7 +7797,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex's Sketchbook World | 359618 | [359618-alexs-sketchbook-world.json](./359618-alexs-sketchbook-world.json) |
 | Alex's Tunnel | 369372 | [369372-alexs-tunnel.json](./369372-alexs-tunnel.json) |
 | Alexa, Destroy Me | 398487 | [398487-alexa-destroy-me.json](./398487-alexa-destroy-me.json) |
-| Alexa's Wild Night | 75718 | [75718-alexas-wild-night.json](./75718-alexas-wild-night.json) |
 | Alexander | 376852 | [376852-alexander.json](./376852-alexander.json) |
 | Alexander | 398509 | [398509-alexander.json](./398509-alexander.json) |
 | Alexander | 9359 | [9359-alexander.json](./9359-alexander.json) |
@@ -19796,7 +19786,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis no Puzzle | 230250 | [230250-atlantis-no-puzzle.json](./230250-atlantis-no-puzzle.json) |
 | Atlantis Odyssey | 320345 | [320345-atlantis-odyssey.json](./320345-atlantis-odyssey.json) |
 | Atlantis Quest | 73744 | [73744-atlantis-quest.json](./73744-atlantis-quest.json) |
-| Atlantis VR | 75328 | [75328-atlantis-vr.json](./75328-atlantis-vr.json) |
 | Atlantis-6 | 147472 | [147472-atlantis-6.json](./147472-atlantis-6.json) |
 | Atlantis: Alien Space Shooter | 256508 | [256508-atlantis-alien-space-shooter.json](./256508-atlantis-alien-space-shooter.json) |
 | Atlantis: Coral Quest | 205895 | [205895-atlantis-coral-quest.json](./205895-atlantis-coral-quest.json) |
@@ -20088,7 +20077,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Alien Robot Monsters | 114745 | [114745-attack-of-the-alien-robot-monsters.json](./114745-attack-of-the-alien-robot-monsters.json) |
 | Attack of the alien thingies from lava! | 129617 | [129617-attack-of-the-alien-thingies-from-lava.json](./129617-attack-of-the-alien-thingies-from-lava.json) |
 | Attack of the Astrals | 384306 | [384306-attack-of-the-astrals.json](./384306-attack-of-the-astrals.json) |
-| Attack of the Bugs | 76051 | [76051-attack-of-the-bugs.json](./76051-attack-of-the-bugs.json) |
 | Attack of the Creepers | 421402 | [421402-attack-of-the-creepers.json](./421402-attack-of-the-creepers.json) |
 | Attack of the Creeps | 72054 | [72054-attack-of-the-creeps.json](./72054-attack-of-the-creeps.json) |
 | Attack of the Dead | 299026 | [299026-attack-of-the-dead.json](./299026-attack-of-the-dead.json) |
