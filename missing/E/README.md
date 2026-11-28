@@ -3800,7 +3800,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Deck | 387837 | [387837-empire-deck.json](./387837-empire-deck.json) |
 | Empire Defenders | 129630 | [129630-empire-defenders.json](./129630-empire-defenders.json) |
 | Empire Deluxe | 70251 | [70251-empire-deluxe.json](./70251-empire-deluxe.json) |
-| Empire Deluxe: Combined Edition | 75326 | [75326-empire-deluxe-combined-edition.json](./75326-empire-deluxe-combined-edition.json) |
 | Empire Deluxe: Masters Edition | 69745 | [69745-empire-deluxe-masters-edition.json](./69745-empire-deluxe-masters-edition.json) |
 | Empire Deluxe: Mobile Edition | 200274 | [200274-empire-deluxe-mobile-edition.json](./200274-empire-deluxe-mobile-edition.json) |
 | Empire Earth II | 1608 | [1608-empire-earth-ii.json](./1608-empire-earth-ii.json) |
@@ -6656,7 +6655,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape! Zombie City | 85649 | [85649-escape-zombie-city.json](./85649-escape-zombie-city.json) |
 | Escape!! | 237219 | [237219-escape.json](./237219-escape.json) |
 | Escape!!! | 213526 | [213526-escape.json](./213526-escape.json) |
-| Escape!VR -Above the Clouds- | 75969 | [75969-escape-vr-above-the-clouds.json](./75969-escape-vr-above-the-clouds.json) |
 | Escape30DayCircle | 360650 | [360650-escape30daycircle.json](./360650-escape30daycircle.json) |
 | Escaped Chasm | 116988 | [116988-escaped-chasm.json](./116988-escaped-chasm.json) |
 | Escapee GO! | 67059 | [67059-escapee-go.json](./67059-escapee-go.json) |
@@ -8414,7 +8412,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Spirits Do Exist | 26747 | [26747-evil-spirits-do-exist.json](./26747-evil-spirits-do-exist.json) |
 | Evil Spring: Student Holidays | 104825 | [104825-evil-spring-student-holidays.json](./104825-evil-spring-student-holidays.json) |
 | Evil Spring: Student Hollidays | 180044 | [180044-evil-spring-student-hollidays.json](./180044-evil-spring-student-hollidays.json) |
-| Evil Star | 75058 | [75058-evil-star.json](./75058-evil-star.json) |
 | Evil Stone | 40298 | [40298-evil-stone.json](./40298-evil-stone.json) |
 | Evil Superhero Simulator | 364054 | [364054-evil-superhero-simulator.json](./364054-evil-superhero-simulator.json) |
 | Evil Superhero VR: Superhero Simulator | 370884 | [370884-evil-superhero-vr-superhero-simulator.json](./370884-evil-superhero-vr-superhero-simulator.json) |
