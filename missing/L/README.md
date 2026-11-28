@@ -5478,7 +5478,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light 'em Up | 204495 | [204495-light-em-up.json](./204495-light-em-up.json) |
 | Light & Glory | 414412 | [414412-light-and-glory.json](./414412-light-and-glory.json) |
 | Light & Shadow | 226425 | [226425-light-and-shadow.json](./226425-light-and-shadow.json) |
-| Light A Way | 80873 | [80873-light-a-way.json](./80873-light-a-way.json) |
 | Light and Dance VR | 29904 | [29904-light-and-dance-vr.json](./29904-light-and-dance-vr.json) |
 | Light and Embers | 168660 | [168660-light-and-embers.json](./168660-light-and-embers.json) |
 | Light and Night | 199955 | [199955-light-and-night.json](./199955-light-and-night.json) |
@@ -6205,7 +6204,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lin Zexu: No Smoking | 268892 | [268892-lin-zexu-no-smoking.json](./268892-lin-zexu-no-smoking.json) |
 | Lina: Witches of the Moon | 411578 | [411578-lina-witches-of-the-moon.json](./411578-lina-witches-of-the-moon.json) |
 | Linares: Bullet Fever | 220392 | [220392-linares-bullet-fever.json](./220392-linares-bullet-fever.json) |
-| Linch | 80978 | [80978-linch.json](./80978-linch.json) |
 | Lincity | 46721 | [46721-lincity.json](./46721-lincity.json) |
 | LinCity-NG | 145269 | [145269-lincity-ng.json](./145269-lincity-ng.json) |
 | Lincoln Green | 231086 | [231086-lincoln-green.json](./231086-lincoln-green.json) |
