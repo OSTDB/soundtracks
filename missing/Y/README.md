@@ -640,7 +640,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another One | 338117 | [338117-yet-another-one.json](./338117-yet-another-one.json) |
 | Yet Another Pixel Dungeon | 129772 | [129772-yet-another-pixel-dungeon.json](./129772-yet-another-pixel-dungeon.json) |
 | Yet Another PS2 Half-Life Port | 401274 | [401274-yet-another-ps2-half-life-port.json](./401274-yet-another-ps2-half-life-port.json) |
-| Yet Another Research Dog | 83589 | [83589-yet-another-research-dog.json](./83589-yet-another-research-dog.json) |
 | Yet Another RPG | 58022 | [58022-yet-another-rpg.json](./58022-yet-another-rpg.json) |
 | Yet Another Snake Game | 111195 | [111195-yet-another-snake-game.json](./111195-yet-another-snake-game.json) |
 | Yet Another Solitaire Game | 316981 | [316981-yet-another-solitaire-game.json](./316981-yet-another-solitaire-game.json) |
@@ -1424,7 +1423,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Will Die Here Tonight | 157359 | [157359-you-will-die-here-tonight.json](./157359-you-will-die-here-tonight.json) |
 | You Will Fall | 245000 | [245000-you-will-fall.json](./245000-you-will-fall.json) |
 | You Will Fall | 396969 | [396969-you-will-fall.json](./396969-you-will-fall.json) |
-| You Will Never Get This Achievement | 81848 | [81848-you-will-never-get-this-achievement.json](./81848-you-will-never-get-this-achievement.json) |
 | You Will Not Survive | 258512 | [258512-you-will-not-survive.json](./258512-you-will-not-survive.json) |
 | You Will Return | 307620 | [307620-you-will-return.json](./307620-you-will-return.json) |
 | You Will Select a Decision | 60015 | [60015-you-will-select-a-decision.json](./60015-you-will-select-a-decision.json) |
@@ -1703,7 +1701,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Time Has Come | 374878 | [374878-your-time-has-come.json](./374878-your-time-has-come.json) |
 | Your Time Is Mine | 82945 | [82945-your-time-is-mine.json](./82945-your-time-is-mine.json) |
 | Your Time to Shine: Island Existence | 205610 | [205610-your-time-to-shine-island-existence.json](./205610-your-time-to-shine-island-existence.json) |
-| Your Toy | 83768 | [83768-your-toy.json](./83768-your-toy.json) |
 | Your Train | 233369 | [233369-your-train.json](./233369-your-train.json) |
 | Your Train 2 | 267085 | [267085-your-train-2.json](./267085-your-train-2.json) |
 | Your True Nature Test | 399797 | [399797-your-true-nature-test.json](./399797-your-true-nature-test.json) |
@@ -2253,7 +2250,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume-san | 229710 | [229710-yume-san.json](./229710-yume-san.json) |
 | Yume, Shosen Mousou | 150172 | [150172-yume-shosen-mousou.json](./150172-yume-shosen-mousou.json) |
 | Yume: Special Edition | 195776 | [195776-yume-special-edition.json](./195776-yume-special-edition.json) |
-| YumeCore | 81845 | [81845-yumecore.json](./81845-yumecore.json) |
 | Yumeichiya: Hotaru no Ongaeshi | 97646 | [97646-yumeichiya-hotaru-no-ongaeshi.json](./97646-yumeichiya-hotaru-no-ongaeshi.json) |
 | Yumeiri | 186553 | [186553-yumeiri.json](./186553-yumeiri.json) |
 | Yumeiro Cast | 57271 | [57271-yumeiro-cast.json](./57271-yumeiro-cast.json) |
