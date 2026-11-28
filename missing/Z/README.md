@@ -1800,7 +1800,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Blitz | 329423 | [329423-zombie-blitz.json](./329423-zombie-blitz.json) |
 | Zombie Blitzkrieg | 311515 | [311515-zombie-blitzkrieg.json](./311515-zombie-blitzkrieg.json) |
 | Zombie Blocks: Pixel Shooter Gun | 328086 | [328086-zombie-blocks-pixel-shooter-gun.json](./328086-zombie-blocks-pixel-shooter-gun.json) |
-| Zombie Bloxx | 75584 | [75584-zombie-bloxx.json](./75584-zombie-bloxx.json) |
 | Zombie Bomb Splode | 212383 | [212383-zombie-bomb-splode.json](./212383-zombie-bomb-splode.json) |
 | Zombie Boom | 31608 | [31608-zombie-boom.json](./31608-zombie-boom.json) |
 | Zombie Bowl-O-Rama | 9308 | [9308-zombie-bowl-o-rama.json](./9308-zombie-bowl-o-rama.json) |
