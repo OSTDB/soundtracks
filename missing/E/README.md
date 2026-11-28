@@ -5817,6 +5817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Error 44 | 214443 | [214443-error-44.json](./214443-error-44.json) |
 | Error Codes | 325654 | [325654-error-codes.json](./325654-error-codes.json) |
 | Error Found | 210337 | [210337-error-found.json](./210337-error-found.json) |
+| Error Land | 430040 | [430040-error-land.json](./430040-error-land.json) |
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
 | Error Map not Found | 253698 | [253698-error-map-not-found.json](./253698-error-map-not-found.json) |
 | Error Solis | 424264 | [424264-error-solis.json](./424264-error-solis.json) |
