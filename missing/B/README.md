@@ -5123,7 +5123,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship GG2SMS | 369485 | [369485-battleship-gg2sms.json](./369485-battleship-gg2sms.json) |
 | Battleship Godios | 151960 | [151960-battleship-godios.json](./151960-battleship-godios.json) |
 | Battleship Lonewolf | 260651 | [260651-battleship-lonewolf.json](./260651-battleship-lonewolf.json) |
-| Battleship Lonewolf | 75821 | [75821-battleship-lonewolf.json](./75821-battleship-lonewolf.json) |
 | Battleship Lonewolf 2 | 86604 | [86604-battleship-lonewolf-2.json](./86604-battleship-lonewolf-2.json) |
 | Battleship Naval Combat | 366404 | [366404-battleship-naval-combat.json](./366404-battleship-naval-combat.json) |
 | Battleship War Multiplayer | 325534 | [325534-battleship-war-multiplayer.json](./325534-battleship-war-multiplayer.json) |
@@ -5460,7 +5459,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Silent | 291840 | [291840-be-silent.json](./291840-be-silent.json) |
 | Be the Block | 420578 | [420578-be-the-block.json](./420578-be-the-block.json) |
 | Be the Bullet | 332142 | [332142-be-the-bullet.json](./332142-be-the-bullet.json) |
-| Be the Hero | 75796 | [75796-be-the-hero.json](./75796-be-the-hero.json) |
 | Be the King: Enjoy Your Trip to the Top | 106997 | [106997-be-the-king-enjoy-your-trip-to-the-top.json](./106997-be-the-king-enjoy-your-trip-to-the-top.json) |
 | Be the One | 154387 | [154387-be-the-one.json](./154387-be-the-one.json) |
 | Be the Richest | 261398 | [261398-be-the-richest.json](./261398-be-the-richest.json) |
@@ -8939,7 +8937,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Mayhem 2 | 21319 | [21319-bike-mayhem-2.json](./21319-bike-mayhem-2.json) |
 | Bike Mechanic Simulator 2023 | 199766 | [199766-bike-mechanic-simulator-2023.json](./199766-bike-mechanic-simulator-2023.json) |
 | Bike Messenger | 159466 | [159466-bike-messenger.json](./159466-bike-messenger.json) |
-| Bike of the Wild | 75318 | [75318-bike-of-the-wild.json](./75318-bike-of-the-wild.json) |
 | Bike Offroad Simulator | 248033 | [248033-bike-offroad-simulator.json](./248033-bike-offroad-simulator.json) |
 | Bike Park Simulator: BMX, Dirt Jump & MTB | 326473 | [326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json](./326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json) |
 | Bike Race | 65070 | [65070-bike-race.json](./65070-bike-race.json) |
@@ -10050,7 +10047,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin or Bomb? | 86765 | [86765-bitcoin-or-bomb.json](./86765-bitcoin-or-bomb.json) |
 | Bitcoin Trader | 97039 | [97039-bitcoin-trader.json](./97039-bitcoin-trader.json) |
 | Bitcoin Trading Master: Simulator | 125433 | [125433-bitcoin-trading-master-simulator.json](./125433-bitcoin-trading-master-simulator.json) |
-| Bitcoin Tycoon: Mining Simulation Game | 75622 | [75622-bitcoin-tycoon-mining-simulation-game.json](./75622-bitcoin-tycoon-mining-simulation-game.json) |
 | Bitcoin VR | 28932 | [28932-bitcoin-vr.json](./28932-bitcoin-vr.json) |
 | Bitcoin VS Brain | 89961 | [89961-bitcoin-vs-brain.json](./89961-bitcoin-vs-brain.json) |
 | BitColony | 351263 | [351263-bitcolony.json](./351263-bitcolony.json) |
@@ -14173,7 +14169,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boink | 292275 | [292275-boink.json](./292275-boink.json) |
 | Boink Zoink Hoink | 90100 | [90100-boink-zoink-hoink.json](./90100-boink-zoink-hoink.json) |
 | Boinkgame | 228865 | [228865-boinkgame.json](./228865-boinkgame.json) |
-| Boinks | 75935 | [75935-boinks.json](./75935-boinks.json) |
 | Boitatá: Wilderness Reborn | 415179 | [415179-boitata-wilderness-reborn.json](./415179-boitata-wilderness-reborn.json) |
 | Bojan | 406672 | [406672-bojan.json](./406672-bojan.json) |
 | Bok | 187149 | [187149-bok.json](./187149-bok.json) |
@@ -16407,7 +16402,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Knight | 196940 | [196940-box-knight.json](./196940-box-knight.json) |
 | Box Labyrinth | 120080 | [120080-box-labyrinth.json](./120080-box-labyrinth.json) |
 | Box Logistics | 186502 | [186502-box-logistics.json](./186502-box-logistics.json) |
-| Box Looter 2018 | 76036 | [76036-box-looter-2018.json](./76036-box-looter-2018.json) |
 | Box Maker | 247396 | [247396-box-maker.json](./247396-box-maker.json) |
 | Box Maze | 31758 | [31758-box-maze.json](./31758-box-maze.json) |
 | Box Maze 2: Agent Cubert | 65830 | [65830-box-maze-2-agent-cubert.json](./65830-box-maze-2-agent-cubert.json) |
