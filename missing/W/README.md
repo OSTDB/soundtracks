@@ -2424,7 +2424,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars of Glory | 108684 | [108684-wars-of-glory.json](./108684-wars-of-glory.json) |
 | Wars of Napoleon | 33092 | [33092-wars-of-napoleon.json](./33092-wars-of-napoleon.json) |
 | Wars of Prasia | 188381 | [188381-wars-of-prasia.json](./188381-wars-of-prasia.json) |
-| Wars of Succession | 79814 | [79814-wars-of-succession.json](./79814-wars-of-succession.json) |
 | Wars of the Roses | 106201 | [106201-wars-of-the-roses.json](./106201-wars-of-the-roses.json) |
 | Wars of the Roses: Rosenkönig | 103567 | [103567-wars-of-the-roses-rosenkonig.json](./103567-wars-of-the-roses-rosenkonig.json) |
 | Warsaken | 218843 | [218843-warsaken.json](./218843-warsaken.json) |
@@ -3069,7 +3068,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of an Idea 2 | 416138 | [416138-way-of-an-idea-2.json](./416138-way-of-an-idea-2.json) |
 | Way of Boy | 125099 | [125099-way-of-boy.json](./125099-way-of-boy.json) |
 | Way of Boy: Another Way | 132672 | [132672-way-of-boy-another-way.json](./132672-way-of-boy-another-way.json) |
-| Way of Defector | 76287 | [76287-way-of-defector.json](./76287-way-of-defector.json) |
 | Way of Defector: Kim Eun-sim | 159599 | [159599-way-of-defector-kim-eun-sim.json](./159599-way-of-defector-kim-eun-sim.json) |
 | Way of Gold and Steel | 35179 | [35179-way-of-gold-and-steel.json](./35179-way-of-gold-and-steel.json) |
 | Way of Hero | 29722 | [29722-way-of-hero.json](./29722-way-of-hero.json) |
@@ -6217,7 +6215,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Wind | 412595 | [412595-wild-wind.json](./412595-wild-wind.json) |
 | Wild Wizard War | 391607 | [391607-wild-wizard-war.json](./391607-wild-wizard-war.json) |
 | Wild Wizards | 365925 | [365925-wild-wizards.json](./365925-wild-wizards.json) |
-| Wild Wolf | 81013 | [81013-wild-wolf.json](./81013-wild-wolf.json) |
 | Wild Wolf Family Simulator 3D | 233043 | [233043-wild-wolf-family-simulator-3d.json](./233043-wild-wolf-family-simulator-3d.json) |
 | Wild Wolf Simulator 3D | 200662 | [200662-wild-wolf-simulator-3d.json](./200662-wild-wolf-simulator-3d.json) |
 | Wild Wood | 141688 | [141688-wild-wood.json](./141688-wild-wood.json) |
@@ -7188,7 +7185,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winx Club : The Quest For The Codex | 75353 | [75353-winx-club-the-quest-for-the-codex.json](./75353-winx-club-the-quest-for-the-codex.json) |
 | Winx Club Rockstars | 25193 | [25193-winx-club-rockstars.json](./25193-winx-club-rockstars.json) |
 | Winx Club Secret Diary 2009 | 47829 | [47829-winx-club-secret-diary-2009.json](./47829-winx-club-secret-diary-2009.json) |
-| Winx Club: Alfea Butterflix Adventures | 79740 | [79740-winx-club-alfea-butterflix-adventures.json](./79740-winx-club-alfea-butterflix-adventures.json) |
 | Winx Club: Believix in You | 25174 | [25174-winx-club-believix-in-you.json](./25174-winx-club-believix-in-you.json) |
 | Winx Club: Join the Club | 78838 | [78838-winx-club-join-the-club.json](./78838-winx-club-join-the-club.json) |
 | Winx Club: Magical Fairy Party | 25166 | [25166-winx-club-magical-fairy-party.json](./25166-winx-club-magical-fairy-party.json) |
@@ -10172,7 +10168,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds of Billy 2 | 205831 | [205831-worlds-of-billy-2.json](./205831-worlds-of-billy-2.json) |
 | Worlds of Chaos: Invasion | 33678 | [33678-worlds-of-chaos-invasion.json](./33678-worlds-of-chaos-invasion.json) |
 | Worlds of Legend: Son of the Empire | 71521 | [71521-worlds-of-legend-son-of-the-empire.json](./71521-worlds-of-legend-son-of-the-empire.json) |
-| Worlds of Magic: Planar Conquest | 79925 | [79925-worlds-of-magic-planar-conquest.json](./79925-worlds-of-magic-planar-conquest.json) |
 | Worlds of Magic: Sorcerer Lords Pack | 226878 | [226878-worlds-of-magic-sorcerer-lords-pack.json](./226878-worlds-of-magic-sorcerer-lords-pack.json) |
 | Worlds of Magic: Titans | 160281 | [160281-worlds-of-magic-titans.json](./160281-worlds-of-magic-titans.json) |
 | Worlds of Nyx | 391695 | [391695-worlds-of-nyx.json](./391695-worlds-of-nyx.json) |
