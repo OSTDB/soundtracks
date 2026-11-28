@@ -11071,6 +11071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire: Manastorm - Lightning Class | 170330 | [170330-grimoire-manastorm-lightning-class.json](./170330-grimoire-manastorm-lightning-class.json) |
 | Grimoire: Manastorm - Nature Class | 170328 | [170328-grimoire-manastorm-nature-class.json](./170328-grimoire-manastorm-nature-class.json) |
 | Grimoire: Manastorm - Nether Class | 169916 | [169916-grimoire-manastorm-nether-class.json](./169916-grimoire-manastorm-nether-class.json) |
+| Grimoire: The Lost Ritual | 430234 | [430234-grimoire-the-lost-ritual.json](./430234-grimoire-the-lost-ritual.json) |
 | Grimoires & Guns | 282979 | [282979-grimoires-and-guns.json](./282979-grimoires-and-guns.json) |
 | Grimoji | 413980 | [413980-grimoji.json](./413980-grimoji.json) |
 | Grimoria | 391573 | [391573-grimoria.json](./391573-grimoria.json) |
