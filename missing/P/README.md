@@ -814,7 +814,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Bowl | 256035 | [256035-paint-bowl.json](./256035-paint-bowl.json) |
 | Paint Boy | 328591 | [328591-paint-boy.json](./328591-paint-boy.json) |
 | Paint by Cubes | 255947 | [255947-paint-by-cubes.json](./255947-paint-by-cubes.json) |
-| Paint by DS | 79868 | [79868-paint-by-ds.json](./79868-paint-by-ds.json) |
 | Paint by DS: Classical Masterpieces | 68405 | [68405-paint-by-ds-classical-masterpieces.json](./68405-paint-by-ds-classical-masterpieces.json) |
 | Paint by DS: Military Vehicles | 68404 | [68404-paint-by-ds-military-vehicles.json](./68404-paint-by-ds-military-vehicles.json) |
 | Paint By Numbers | 148346 | [148346-paint-by-numbers.json](./148346-paint-by-numbers.json) |
@@ -2030,7 +2029,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Xian | 374906 | [374906-paper-xian.json](./374906-paper-xian.json) |
 | Paper Zelda RPG | 142889 | [142889-paper-zelda-rpg.json](./142889-paper-zelda-rpg.json) |
 | Paper-Girl-Chain | 313954 | [313954-paper-girl-chain.json](./313954-paper-girl-chain.json) |
-| Paper-io | 79219 | [79219-paper-io.json](./79219-paper-io.json) |
 | Paper.io | 113940 | [113940-paper-io.json](./113940-paper-io.json) |
 | Paper.io 2 | 108159 | [108159-paper-io-2.json](./108159-paper-io-2.json) |
 | Paper.io 3D | 257127 | [257127-paper-io-3d.json](./257127-paper-io-3d.json) |
@@ -2354,7 +2352,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox Protocol | 347571 | [347571-paradox-protocol.json](./347571-paradox-protocol.json) |
 | Paradox Soul | 83933 | [83933-paradox-soul.json](./83933-paradox-soul.json) |
 | Paradox Tower | 403143 | [403143-paradox-tower.json](./403143-paradox-tower.json) |
-| Paradox Wrench | 80959 | [80959-paradox-wrench.json](./80959-paradox-wrench.json) |
 | Paradox: The Novel | 197783 | [197783-paradox-the-novel.json](./197783-paradox-the-novel.json) |
 | Paradox! | 329952 | [329952-paradox.json](./329952-paradox.json) |
 | Paradoxical | 370005 | [370005-paradoxical.json](./370005-paradoxical.json) |
@@ -11353,8 +11350,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayerOne | 125678 | [125678-playerone.json](./125678-playerone.json) |
 | PlayerONeGame | 90357 | [90357-playeronegame.json](./90357-playeronegame.json) |
 | Players Unknown Battle Grand | 77523 | [77523-players-unknown-battle-grand.json](./77523-players-unknown-battle-grand.json) |
-| Playerunkn1wn: Friendly Fire | 80912 | [80912-playerunkn1wn-friendly-fire.json](./80912-playerunkn1wn-friendly-fire.json) |
-| Playerunkn4wn: Zombie | 80913 | [80913-playerunkn4wn-zombie.json](./80913-playerunkn4wn-zombie.json) |
 | Playerunknown's Battleboxes | 379625 | [379625-playerunknowns-battleboxes.json](./379625-playerunknowns-battleboxes.json) |
 | PlayerUnknown's Battlegrounds: Season 10 | 144042 | [144042-playerunknowns-battlegrounds-season-10.json](./144042-playerunknowns-battlegrounds-season-10.json) |
 | PlayerUnknown's Battlegrounds: Season 11 | 158956 | [158956-playerunknowns-battlegrounds-season-11.json](./158956-playerunknowns-battlegrounds-season-11.json) |
@@ -16688,7 +16683,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primordialis | 317541 | [317541-primordialis.json](./317541-primordialis.json) |
 | Primordials Legends: Hollow Hero | 216951 | [216951-primordials-legends-hollow-hero.json](./216951-primordials-legends-hollow-hero.json) |
 | Primordials: Battle of Gods | 137978 | [137978-primordials-battle-of-gods.json](./137978-primordials-battle-of-gods.json) |
-| Primordian | 81241 | [81241-primordian.json](./81241-primordian.json) |
 | Primordio | 400906 | [400906-primordio.json](./400906-primordio.json) |
 | Primordium: Eclipse | 365842 | [365842-primordium-eclipse.json](./365842-primordium-eclipse.json) |
 | Primrose | 229792 | [229792-primrose.json](./229792-primrose.json) |
@@ -16968,7 +16962,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess x Princess | 371578 | [371578-princess-x-princess.json](./371578-princess-x-princess.json) |
 | Princess: The East and the Expedition | 308902 | [308902-princess-the-east-and-the-expedition.json](./308902-princess-the-east-and-the-expedition.json) |
 | Princess.Loot.Pixel.Again | 34129 | [34129-princess-loot-pixel-again.json](./34129-princess-loot-pixel-again.json) |
-| Princess.Loot.Pixel.Again x2 | 79101 | [79101-princess-loot-pixel-again-x2.json](./79101-princess-loot-pixel-again-x2.json) |
 | Princess's Peak | 367083 | [367083-princesss-peak.json](./367083-princesss-peak.json) |
 | PrincessCliffhouse | 170082 | [170082-princesscliffhouse.json](./170082-princesscliffhouse.json) |
 | Princesses Lylop: Royal Puzzle Challenge | 328495 | [328495-princesses-lylop-royal-puzzle-challenge.json](./328495-princesses-lylop-royal-puzzle-challenge.json) |
@@ -19351,7 +19344,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prototype is !Lisa | 374515 | [374515-prototype-is-lisa.json](./374515-prototype-is-lisa.json) |
 | Prototype Jam 3 | 271192 | [271192-prototype-jam-3.json](./271192-prototype-jam-3.json) |
 | Prototype Juan: A Tale of Two Mundos | 347399 | [347399-prototype-juan-a-tale-of-two-mundos.json](./347399-prototype-juan-a-tale-of-two-mundos.json) |
-| Prototype Mansion - Used No Cover | 77443 | [77443-prototype-mansion-used-no-cover.json](./77443-prototype-mansion-used-no-cover.json) |
 | Prototype Mint B | 332403 | [332403-prototype-mint-b.json](./332403-prototype-mint-b.json) |
 | Prototype N | 215210 | [215210-prototype-n.json](./215210-prototype-n.json) |
 | Prototype TD | 109336 | [109336-prototype-td.json](./109336-prototype-td.json) |
@@ -19946,7 +19938,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puk | 195985 | [195985-puk.json](./195985-puk.json) |
 | Pukan Bye Bye | 93766 | [93766-pukan-bye-bye.json](./93766-pukan-bye-bye.json) |
 | Puke | 277256 | [277256-puke.json](./277256-puke.json) |
-| Puke Simulator | 76488 | [76488-puke-simulator.json](./76488-puke-simulator.json) |
 | Puke the Pirate | 268123 | [268123-puke-the-pirate.json](./268123-puke-the-pirate.json) |
 | Puke the Pirate: Rebarfed | 320127 | [320127-puke-the-pirate-rebarfed.json](./320127-puke-the-pirate-rebarfed.json) |
 | PukePuke Demon | 103636 | [103636-pukepuke-demon.json](./103636-pukepuke-demon.json) |
@@ -21818,7 +21809,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Schemes and Cults | 280300 | [280300-pyramid-schemes-and-cults.json](./280300-pyramid-schemes-and-cults.json) |
 | Pyramid Shooter | 89515 | [89515-pyramid-shooter.json](./89515-pyramid-shooter.json) |
 | Pyramid Solitaire | 304761 | [304761-pyramid-solitaire.json](./304761-pyramid-solitaire.json) |
-| Pyramid Solitaire | 79592 | [79592-pyramid-solitaire.json](./79592-pyramid-solitaire.json) |
 | Pyramid Solitaire Asia Pro | 197693 | [197693-pyramid-solitaire-asia-pro.json](./197693-pyramid-solitaire-asia-pro.json) |
 | Pyramid Solitaire Cards | 87315 | [87315-pyramid-solitaire-cards.json](./87315-pyramid-solitaire-cards.json) |
 | Pyramid Solitaire Cube | 56916 | [56916-pyramid-solitaire-cube.json](./56916-pyramid-solitaire-cube.json) |
