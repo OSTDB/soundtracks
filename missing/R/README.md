@@ -1221,7 +1221,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders of the Lost Ark | 18036 | [18036-raiders-of-the-lost-ark.json](./18036-raiders-of-the-lost-ark.json) |
 | Raiders of the Lost Ark | 326023 | [326023-raiders-of-the-lost-ark.json](./326023-raiders-of-the-lost-ark.json) |
 | Raiders of the Lost Ark: Tanis | 326028 | [326028-raiders-of-the-lost-ark-tanis.json](./326028-raiders-of-the-lost-ark-tanis.json) |
-| Raiders of the Lost Island | 76128 | [76128-raiders-of-the-lost-island.json](./76128-raiders-of-the-lost-island.json) |
 | Raiders of the North Sea | 121135 | [121135-raiders-of-the-north-sea.json](./121135-raiders-of-the-north-sea.json) |
 | Raiders of Valhalla | 238570 | [238570-raiders-of-valhalla.json](./238570-raiders-of-valhalla.json) |
 | Raiders Rise | 352365 | [352365-raiders-rise.json](./352365-raiders-rise.json) |
@@ -3970,7 +3969,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReBlade: The Death Spiral | 387145 | [387145-reblade-the-death-spiral.json](./387145-reblade-the-death-spiral.json) |
 | Reblica | 289290 | [289290-reblica.json](./289290-reblica.json) |
 | Rebloom | 351101 | [351101-rebloom.json](./351101-rebloom.json) |
-| Reboant: Rise of the Nuhort | 75519 | [75519-reboant-rise-of-the-nuhort.json](./75519-reboant-rise-of-the-nuhort.json) |
 | Rebolt | 360062 | [360062-rebolt.json](./360062-rebolt.json) |
 | Rebons | 68890 | [68890-rebons.json](./68890-rebons.json) |
 | Rebooker | 377415 | [377415-rebooker.json](./377415-rebooker.json) |
@@ -5704,7 +5702,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rematch: Elite Edition | 339720 | [339720-rematch-elite-edition.json](./339720-rematch-elite-edition.json) |
 | Rematch: Pro Edition | 339719 | [339719-rematch-pro-edition.json](./339719-rematch-pro-edition.json) |
 | Rematch: Season 5 - Blue Lock | 416130 | [416130-rematch-season-5-blue-lock.json](./416130-rematch-season-5-blue-lock.json) |
-| Remaya Idle | 75626 | [75626-remaya-idle.json](./75626-remaya-idle.json) |
 | ReMaz! | 116859 | [116859-remaz.json](./116859-remaz.json) |
 | Rembrunir | 384209 | [384209-rembrunir.json](./384209-rembrunir.json) |
 | Remedium | 204324 | [204324-remedium.json](./204324-remedium.json) |
@@ -8940,7 +8937,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripley Remembered | 355842 | [355842-ripley-remembered.json](./355842-ripley-remembered.json) |
 | Riposte! | 129284 | [129284-riposte.json](./129284-riposte.json) |
 | Ripout | 150433 | [150433-ripout.json](./150433-ripout.json) |
-| Ripped Pants at Work | 76273 | [76273-ripped-pants-at-work.json](./76273-ripped-pants-at-work.json) |
 | Ripped Pixel Dungeon | 313945 | [313945-ripped-pixel-dungeon.json](./313945-ripped-pixel-dungeon.json) |
 | Ripped/Apart | 133397 | [133397-ripped-apart.json](./133397-ripped-apart.json) |
 | Ripper | 219371 | [219371-ripper.json](./219371-ripper.json) |
@@ -12125,7 +12121,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling in the Sheepe | 201119 | [201119-rolling-in-the-sheepe.json](./201119-rolling-in-the-sheepe.json) |
 | Rolling Jump | 269339 | [269339-rolling-jump.json](./269339-rolling-jump.json) |
 | Rolling Lee | 303040 | [303040-rolling-lee.json](./303040-rolling-lee.json) |
-| Rolling Line | 76019 | [76019-rolling-line.json](./76019-rolling-line.json) |
 | Rolling Macho: Tumbling to Earth | 330148 | [330148-rolling-macho-tumbling-to-earth.json](./330148-rolling-macho-tumbling-to-earth.json) |
 | Rolling Madness 3D | 54957 | [54957-rolling-madness-3d.json](./54957-rolling-madness-3d.json) |
 | Rolling Over It | 191834 | [191834-rolling-over-it.json](./191834-rolling-over-it.json) |
@@ -15115,7 +15110,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RXC | 192185 | [192185-rxc.json](./192185-rxc.json) |
 | Rxcovery | 83358 | [83358-rxcovery.json](./83358-rxcovery.json) |
 | RXE | 90978 | [90978-rxe.json](./90978-rxe.json) |
-| RXN: Raijin | 75959 | [75959-rxn-raijin.json](./75959-rxn-raijin.json) |
 | RXN: Raijin | 77386 | [77386-rxn-raijin.json](./77386-rxn-raijin.json) |
 | Ryahs Rhythm | 327534 | [327534-ryahs-rhythm.json](./327534-ryahs-rhythm.json) |
 | Ryan Black | 30123 | [30123-ryan-black.json](./30123-ryan-black.json) |
