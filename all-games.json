@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-27T13:16:07.558Z",
-  "total_soundtracks": 3958,
+  "generated_at": "2026-11-28T06:25:55.617Z",
+  "total_soundtracks": 3959,
   "games": [
     {
       "igdb_id": 292844,
@@ -32633,6 +32633,20 @@
         {
           "album_name": "Puyo Puyo 7 Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2nZoPTMgvx0RGcrYbA2aT6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 81215,
+      "game_name": "Puzzle With Your Friends",
+      "game_url": "https://ostdb.net/games/puzzle-with-your-friends",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738f258817d2aa6e82e57c4015",
+      "albums": [
+        {
+          "album_name": "Puzzle With Your Friends (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5cQwOyP1xRjFHnUDBRKqGn",
           "apple_music_url": "",
           "album_link_url": ""
         }
