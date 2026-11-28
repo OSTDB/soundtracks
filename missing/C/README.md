@@ -6260,7 +6260,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cemetery Warrior V | 164146 | [164146-cemetery-warrior-v.json](./164146-cemetery-warrior-v.json) |
 | Cemitério São Sacramento | 297948 | [297948-cemiterio-sao-sacramento.json](./297948-cemiterio-sao-sacramento.json) |
 | Cendovia Uprising | 346664 | [346664-cendovia-uprising.json](./346664-cendovia-uprising.json) |
-| Cendric | 81045 | [81045-cendric.json](./81045-cendric.json) |
 | Cendric's Quest | 118212 | [118212-cendrics-quest.json](./118212-cendrics-quest.json) |
 | Cendrillon palikA | 69347 | [69347-cendrillon-palika.json](./69347-cendrillon-palika.json) |
 | Cenk The Chopper | 313403 | [313403-cenk-the-chopper.json](./313403-cenk-the-chopper.json) |
