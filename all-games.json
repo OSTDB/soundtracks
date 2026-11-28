@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-28T08:35:55.979Z",
-  "total_soundtracks": 3961,
+  "generated_at": "2026-11-28T09:05:55.055Z",
+  "total_soundtracks": 3962,
   "games": [
     {
       "igdb_id": 292844,
@@ -35266,6 +35266,20 @@
           "album_name": "Rome Total War (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6rBrMTjROx03uL5oz8boX8",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 77775,
+      "game_name": "Roof Rage",
+      "game_url": "https://ostdb.net/games/roof-rage",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f706aea50bcb095663d88a86",
+      "albums": [
+        {
+          "album_name": "Roof Rage (Original Soundtrack Definitive Edition)",
+          "spotify_url": "https://open.spotify.com/album/6PtVMeSEzhtVXldEH5ZFhT",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
