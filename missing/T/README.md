@@ -18,7 +18,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-Kara Puzzles | 34208 | [34208-t-kara-puzzles.json](./34208-t-kara-puzzles.json) |
 | T-Mek | 45875 | [45875-t-mek.json](./45875-t-mek.json) |
 | T-Minus 30 | 165418 | [165418-t-minus-30.json](./165418-t-minus-30.json) |
-| T-Mobile Kinect Sports | 83865 | [83865-t-mobile-kinect-sports.json](./83865-t-mobile-kinect-sports.json) |
 | T-night | 285457 | [285457-t-night.json](./285457-t-night.json) |
 | T-Racer | 266865 | [266865-t-racer.json](./266865-t-racer.json) |
 | T-Rex and Muscle Sam: Big Trouble in SPF | 125205 | [125205-t-rex-and-muscle-sam-big-trouble-in-spf.json](./125205-t-rex-and-muscle-sam-big-trouble-in-spf.json) |
@@ -1186,7 +1185,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Witch's Heart | 217047 | [217047-tale-of-witchs-heart.json](./217047-tale-of-witchs-heart.json) |
 | Tale of Wuxia | 58616 | [58616-tale-of-wuxia.json](./58616-tale-of-wuxia.json) |
 | Tale of Wuxia | 90481 | [90481-tale-of-wuxia.json](./90481-tale-of-wuxia.json) |
-| Tale of Wuxia: The Pre-Sequel | 83832 | [83832-tale-of-wuxia-the-pre-sequel.json](./83832-tale-of-wuxia-the-pre-sequel.json) |
 | Tale of Wuxia: The Pre-Sequel - The Way to Nether | 168201 | [168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json](./168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json) |
 | Tale Sweeper | 430464 | [430464-tale-sweeper.json](./430464-tale-sweeper.json) |
 | Tale's Casino Escape | 130711 | [130711-tales-casino-escape.json](./130711-tales-casino-escape.json) |
@@ -3505,7 +3503,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team: Basketball Manager | 109925 | [109925-team-basketball-manager.json](./109925-team-basketball-manager.json) |
 | Team:Cars | 138238 | [138238-team-cars.json](./138238-team-cars.json) |
 | Team17 Collection 1 | 241979 | [241979-team17-collection-1.json](./241979-team17-collection-1.json) |
-| Team17 Indie Collection | 82411 | [82411-team17-indie-collection.json](./82411-team17-indie-collection.json) |
 | Team17 Indie Heroes | 99526 | [99526-team17-indie-heroes.json](./99526-team17-indie-heroes.json) |
 | Teamball.io | 154815 | [154815-teamball-io.json](./154815-teamball-io.json) |
 | Teamchef | 93006 | [93006-teamchef.json](./93006-teamchef.json) |
@@ -6611,7 +6608,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alien Way | 147037 | [147037-the-alien-way.json](./147037-the-alien-way.json) |
 | The Alighieri Circle: Dante’s Bloodline | 387461 | [387461-the-alighieri-circle-dante-s-bloodline.json](./387461-the-alighieri-circle-dante-s-bloodline.json) |
 | The All New Family Feud | 73657 | [73657-the-all-new-family-feud.json](./73657-the-all-new-family-feud.json) |
-| The All-New 2011 Outlander Sport | 83866 | [83866-the-all-new-2011-outlander-sport.json](./83866-the-all-new-2011-outlander-sport.json) |
 | The Alliance Alive | 25068 | [25068-the-alliance-alive.json](./25068-the-alliance-alive.json) |
 | The Alliance Alive HD Remastered | 115989 | [115989-the-alliance-alive-hd-remastered.json](./115989-the-alliance-alive-hd-remastered.json) |
 | The Alliance Alive HD Remastered: Awakening Edition | 323568 | [323568-the-alliance-alive-hd-remastered-awakening-edition.json](./323568-the-alliance-alive-hd-remastered-awakening-edition.json) |
@@ -7980,7 +7976,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bunny Graveyard II | 350142 | [350142-the-bunny-graveyard-ii.json](./350142-the-bunny-graveyard-ii.json) |
 | The Bunny Graveyard: Chapter 1 - The Bunny Garden | 270250 | [270250-the-bunny-graveyard-chapter-1-the-bunny-garden.json](./270250-the-bunny-graveyard-chapter-1-the-bunny-garden.json) |
 | The Bunny Graveyard: Chapter 2 - Terror in Carrot Town | 270260 | [270260-the-bunny-graveyard-chapter-2-terror-in-carrot-town.json](./270260-the-bunny-graveyard-chapter-2-terror-in-carrot-town.json) |
-| The BunnyLord Pro Hater Pack | 82412 | [82412-the-bunnylord-pro-hater-pack.json](./82412-the-bunnylord-pro-hater-pack.json) |
 | The Bunnyman | 224579 | [224579-the-bunnyman.json](./224579-the-bunnyman.json) |
 | The Bunnyman | 263442 | [263442-the-bunnyman.json](./263442-the-bunnyman.json) |
 | The Bureau of Fantastical & Arcane Affairs | 347886 | [347886-the-bureau-of-fantastical-and-arcane-affairs.json](./347886-the-bureau-of-fantastical-and-arcane-affairs.json) |
@@ -12526,7 +12521,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Home Into The Woods | 322462 | [322462-the-home-into-the-woods.json](./322462-the-home-into-the-woods.json) |
 | The Homecoming Exhibition | 393019 | [393019-the-homecoming-exhibition.json](./393019-the-homecoming-exhibition.json) |
 | The Homestead | 119567 | [119567-the-homestead.json](./119567-the-homestead.json) |
-| The Homestead Invasion | 81667 | [81667-the-homestead-invasion.json](./81667-the-homestead-invasion.json) |
 | The Hon | 215836 | [215836-the-hon.json](./215836-the-hon.json) |
 | The Honest Little Fisher | 383066 | [383066-the-honest-little-fisher.json](./383066-the-honest-little-fisher.json) |
 | The Honeymooners | 73976 | [73976-the-honeymooners.json](./73976-the-honeymooners.json) |
@@ -13203,11 +13197,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Pack 12 | 400686 | [400686-the-jackbox-party-pack-12.json](./400686-the-jackbox-party-pack-12.json) |
 | The Jackbox Party Pack 2 | 19081 | [19081-the-jackbox-party-pack-2.json](./19081-the-jackbox-party-pack-2.json) |
 | The Jackbox Party Pack 9 | 198560 | [198560-the-jackbox-party-pack-9.json](./198560-the-jackbox-party-pack-9.json) |
-| The Jackbox Party Quadpack | 83774 | [83774-the-jackbox-party-quadpack.json](./83774-the-jackbox-party-quadpack.json) |
 | The Jackbox Party Quintpack | 112915 | [112915-the-jackbox-party-quintpack.json](./112915-the-jackbox-party-quintpack.json) |
 | The Jackbox Party Quintpack 2.0 | 287991 | [287991-the-jackbox-party-quintpack-2-0.json](./287991-the-jackbox-party-quintpack-2-0.json) |
 | The Jackbox Party Starter | 207095 | [207095-the-jackbox-party-starter.json](./207095-the-jackbox-party-starter.json) |
-| The Jackbox Party Trilogy | 82410 | [82410-the-jackbox-party-trilogy.json](./82410-the-jackbox-party-trilogy.json) |
 | The Jackbox Party Trilogy 2.0 | 135601 | [135601-the-jackbox-party-trilogy-2-0.json](./135601-the-jackbox-party-trilogy-2-0.json) |
 | The Jackbox Party Trilogy 3.0 | 251098 | [251098-the-jackbox-party-trilogy-3-0.json](./251098-the-jackbox-party-trilogy-3-0.json) |
 | The Jade Stone | 67698 | [67698-the-jade-stone.json](./67698-the-jade-stone.json) |
@@ -15874,7 +15866,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Massive Iceberg Schoolhouse | 340004 | [340004-the-massive-iceberg-schoolhouse.json](./340004-the-massive-iceberg-schoolhouse.json) |
 | The Master | 136580 | [136580-the-master.json](./136580-the-master.json) |
 | The Master | 70106 | [70106-the-master.json](./70106-the-master.json) |
-| The Master | 81625 | [81625-the-master.json](./81625-the-master.json) |
 | The Master Club | 111524 | [111524-the-master-club.json](./111524-the-master-club.json) |
 | The Master Detective's Eye: Memorize the Scene in 60 Seconds! Case Files from the Streets of 18th-Century London | 420729 | [420729-the-master-detectives-eye-memorize-the-scene-in-60-seconds-case-files-from-the-streets-of-18th-century-london.json](./420729-the-master-detectives-eye-memorize-the-scene-in-60-seconds-case-files-from-the-streets-of-18th-century-london.json) |
 | The Master of Puzzles | 236654 | [236654-the-master-of-puzzles.json](./236654-the-master-of-puzzles.json) |
@@ -17762,7 +17753,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Puppet's Casket | 389332 | [389332-the-puppets-casket.json](./389332-the-puppets-casket.json) |
 | The Puppeteer | 252010 | [252010-the-puppeteer.json](./252010-the-puppeteer.json) |
 | The Puppy | 350305 | [350305-the-puppy.json](./350305-the-puppy.json) |
-| The Pure Bundle | 82409 | [82409-the-pure-bundle.json](./82409-the-pure-bundle.json) |
 | The Pure Wargame | 72279 | [72279-the-pure-wargame.json](./72279-the-pure-wargame.json) |
 | The Purgatory | 56988 | [56988-the-purgatory.json](./56988-the-purgatory.json) |
 | The Purgatory and the Stolen Souls | 239285 | [239285-the-purgatory-and-the-stolen-souls.json](./239285-the-purgatory-and-the-stolen-souls.json) |
@@ -20422,7 +20412,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tell-Tale Hearts | 426984 | [426984-the-tell-tale-hearts.json](./426984-the-tell-tale-hearts.json) |
 | The Telltale Batman Bundle | 118722 | [118722-the-telltale-batman-bundle.json](./118722-the-telltale-batman-bundle.json) |
 | The Telltale Games Collection | 99799 | [99799-the-telltale-games-collection.json](./99799-the-telltale-games-collection.json) |
-| The Telltale Undead Survival Bundle | 82408 | [82408-the-telltale-undead-survival-bundle.json](./82408-the-telltale-undead-survival-bundle.json) |
 | The Telos Monument | 158930 | [158930-the-telos-monument.json](./158930-the-telos-monument.json) |
 | The Telwynium | 179663 | [179663-the-telwynium.json](./179663-the-telwynium.json) |
 | The Telwynium | 404830 | [404830-the-telwynium.json](./404830-the-telwynium.json) |
@@ -26446,7 +26435,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Till Checkout Do Us Part | 381156 | [381156-till-checkout-do-us-part.json](./381156-till-checkout-do-us-part.json) |
 | Till Death Rolls Us Apart | 400544 | [400544-till-death-rolls-us-apart.json](./400544-till-death-rolls-us-apart.json) |
 | Till Midnight | 352048 | [352048-till-midnight.json](./352048-till-midnight.json) |
-| Till the dawn, waiting | 81679 | [81679-till-the-dawn-waiting.json](./81679-till-the-dawn-waiting.json) |
 | Till The Light | 406933 | [406933-till-the-light.json](./406933-till-the-light.json) |
 | Tillandsia | 428082 | [428082-tillandsia.json](./428082-tillandsia.json) |
 | Tilligence | 185022 | [185022-tilligence.json](./185022-tilligence.json) |
@@ -27593,8 +27581,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny: The Last Wayfinder | 373143 | [373143-tiny-the-last-wayfinder.json](./373143-tiny-the-last-wayfinder.json) |
 | TinyArmored | 209937 | [209937-tinyarmored.json](./209937-tinyarmored.json) |
 | TinyAttack | 217434 | [217434-tinyattack.json](./217434-tinyattack.json) |
-| tinyBuild Action-Packed Bundle | 83771 | [83771-tinybuild-action-packed-bundle.json](./83771-tinybuild-action-packed-bundle.json) |
-| tinyBuild Thrill-Seeker Bundle | 83773 | [83773-tinybuild-thrill-seeker-bundle.json](./83773-tinybuild-thrill-seeker-bundle.json) |
 | TinyCrack | 169869 | [169869-tinycrack.json](./169869-tinycrack.json) |
 | Tinycraft | 303101 | [303101-tinycraft.json](./303101-tinycraft.json) |
 | TinyCraft Town | 362298 | [362298-tinycraft-town.json](./362298-tinycraft-town.json) |
@@ -31174,10 +31160,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour De France | 95456 | [95456-tour-de-france.json](./95456-tour-de-france.json) |
 | Tour de France 2011 | 92464 | [92464-tour-de-france-2011.json](./92464-tour-de-france-2011.json) |
 | Tour de France 2012 | 94161 | [94161-tour-de-france-2012.json](./94161-tour-de-france-2012.json) |
-| Tour de France 2013 | 83860 | [83860-tour-de-france-2013.json](./83860-tour-de-france-2013.json) |
 | Tour de France 2014 | 80876 | [80876-tour-de-france-2014.json](./80876-tour-de-france-2014.json) |
 | Tour de France 2015 | 60198 | [60198-tour-de-france-2015.json](./60198-tour-de-france-2015.json) |
-| Tour de France 2016 | 82417 | [82417-tour-de-france-2016.json](./82417-tour-de-france-2016.json) |
 | Tour de France 2017 | 36954 | [36954-tour-de-france-2017.json](./36954-tour-de-france-2017.json) |
 | Tour de France 2018 | 188594 | [188594-tour-de-france-2018.json](./188594-tour-de-france-2018.json) |
 | Tour de France 2019 | 119526 | [119526-tour-de-france-2019.json](./119526-tour-de-france-2019.json) |
@@ -32348,7 +32332,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
 | Traffix: City Rush | 175138 | [175138-traffix-city-rush.json](./175138-traffix-city-rush.json) |
 | Trafic Road Rush | 111869 | [111869-trafic-road-rush.json](./111869-trafic-road-rush.json) |
-| Trafico | 81797 | [81797-trafico.json](./81797-trafico.json) |
 | Tráfico | 82240 | [82240-trafico.json](./82240-trafico.json) |
 | Tragala | 304496 | [304496-tragala.json](./304496-tragala.json) |
 | Tragedy at Ashville Lane | 329459 | [329459-tragedy-at-ashville-lane.json](./329459-tragedy-at-ashville-lane.json) |
