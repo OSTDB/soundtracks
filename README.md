@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 3,959" src="https://img.shields.io/badge/soundtracks-3%2C959-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 3,476" src="https://img.shields.io/badge/games-3%2C476-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 370,926" src="https://img.shields.io/badge/missing-370%2C926-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 370,714" src="https://img.shields.io/badge/missing-370%2C714-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/puzzle-with-your-friends"><img src="https://i.scdn.co/image/ab67616d0000b2738f258817d2aa6e82e57c4015" width="120" height="120" alt="" /></a><br /><sub><b>Puzzle With Your Friends</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/eight-dragons"><img src="https://i.scdn.co/image/ab67616d0000b273ab9e68590e58e7383c83a2cc" width="120" height="120" alt="" /></a><br /><sub><b>Eight Dragons</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/gaia-beyond"><img src="https://i.scdn.co/image/ab67616d0000b27318ed38dba3027057ecd2f549" width="120" height="120" alt="" /></a><br /><sub><b>Gaia Beyond</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/boss-crushers"><img src="https://i.scdn.co/image/ab67616d0000b273d6cb341d92b28abdebdfae33" width="120" height="120" alt="" /></a><br /><sub><b>Boss Crushers</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/pearls-peril"><img src="https://i.scdn.co/image/ab67616d0000b27320edc7e99bf7afa3de914517" width="120" height="120" alt="" /></a><br /><sub><b>Pearl's Peril</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/drumpf-rise-up-libertonia"><img src="https://i.scdn.co/image/ab67616d0000b273f497c93844ff9892bbcefd05" width="120" height="120" alt="" /></a><br /><sub><b>Drumpf: Rise Up, Libertonia!</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/stratego"><img src="https://i.scdn.co/image/ab67616d0000b273b8ebe407ecb2da83599654c2" width="120" height="120" alt="" /></a><br /><sub><b>Stratego</b></sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/stratego"><img src="https://i.scdn.co/image/ab67616d0000b273b8ebe407ecb2da83599654c2" width="120" height="120" alt="" /></a><br /><sub><b>Stratego</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/mechs-v-kaijus"><img src="https://i.scdn.co/image/ab67616d0000b2739b004d3f8c4711f18cb7f70a" width="120" height="120" alt="" /></a><br /><sub><b>Mechs V Kaijus</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/atmocity"><img src="https://i.scdn.co/image/ab67616d0000b2732a62e36b283b2e9900946b1f" width="120" height="120" alt="" /></a><br /><sub><b>Atmocity</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/barbearian"><img src="https://i.scdn.co/image/ab67616d0000b2737e0c59ba59fd5834bfb2aa96" width="120" height="120" alt="" /></a><br /><sub><b>Barbearian</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/fission-superstar-x"><img src="https://i.scdn.co/image/ab67616d0000b273e201db05ff16d6c56df753a3" width="120" height="120" alt="" /></a><br /><sub><b>Fission Superstar X</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/superverse"><img src="https://i.scdn.co/image/ab67616d0000b273e0ec1f610cfbcf6706572026" width="120" height="120" alt="" /></a><br /><sub><b>Superverse</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/cubots-the-origins"><img src="https://i.scdn.co/image/ab67616d0000b2732198f85d02103418a0abb6cf" width="120" height="120" alt="" /></a><br /><sub><b>Cubots: The Origins</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (370,926 games).
+More in **[missing/](missing/README.md)** (370,714 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -103,4 +103,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,959 soundtracks &middot; last updated 2026-11-28T06:25:49.898Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,959 soundtracks &middot; last updated 2026-11-28T06:41:04.425Z</sub>
