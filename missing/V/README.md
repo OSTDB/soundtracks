@@ -1040,7 +1040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaporwave Hardest Game | 377625 | [377625-vaporwave-hardest-game.json](./377625-vaporwave-hardest-game.json) |
 | Vaporwave Pinball | 253826 | [253826-vaporwave-pinball.json](./253826-vaporwave-pinball.json) |
 | Vaporwave Road VR | 151053 | [151053-vaporwave-road-vr.json](./151053-vaporwave-road-vr.json) |
-| Vaporwave Simulator | 81747 | [81747-vaporwave-simulator.json](./81747-vaporwave-simulator.json) |
 | Vaporwave Vision Quest: Kmart Sepulcher | 144064 | [144064-vaporwave-vision-quest-kmart-sepulcher.json](./144064-vaporwave-vision-quest-kmart-sepulcher.json) |
 | Vaporwave World | 130202 | [130202-vaporwave-world.json](./130202-vaporwave-world.json) |
 | Vapour | 35849 | [35849-vapour.json](./35849-vapour.json) |
@@ -1862,7 +1861,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versus Tactics | 209237 | [209237-versus-tactics.json](./209237-versus-tactics.json) |
 | Versus Umbra | 165493 | [165493-versus-umbra.json](./165493-versus-umbra.json) |
 | Versus Vampire | 257923 | [257923-versus-vampire.json](./257923-versus-vampire.json) |
-| Versus World | 82466 | [82466-versus-world.json](./82466-versus-world.json) |
 | Versus: Boys and Girls | 233062 | [233062-versus-boys-and-girls.json](./233062-versus-boys-and-girls.json) |
 | Versus: The Deathscapes | 157414 | [157414-versus-the-deathscapes.json](./157414-versus-the-deathscapes.json) |
 | Versus: The Elite Trials | 30025 | [30025-versus-the-elite-trials.json](./30025-versus-the-elite-trials.json) |
@@ -2830,7 +2828,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violet and the Lost Colors | 224865 | [224865-violet-and-the-lost-colors.json](./224865-violet-and-the-lost-colors.json) |
 | Violet and... | 178331 | [178331-violet-and.json](./178331-violet-and.json) |
 | Violet Bricks | 250771 | [250771-violet-bricks.json](./250771-violet-bricks.json) |
-| Violet Cycle | 81245 | [81245-violet-cycle.json](./81245-violet-cycle.json) |
 | Violet Girl | 169777 | [169777-violet-girl.json](./169777-violet-girl.json) |
 | Violet Haunted | 31269 | [31269-violet-haunted.json](./31269-violet-haunted.json) |
 | Violet Kingdom | 273807 | [273807-violet-kingdom.json](./273807-violet-kingdom.json) |
@@ -3572,7 +3569,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivere Memento | 290828 | [290828-vivere-memento.json](./290828-vivere-memento.json) |
 | Vivere Retro | 388422 | [388422-vivere-retro.json](./388422-vivere-retro.json) |
 | ViveSpray | 32282 | [32282-vivespray.json](./32282-vivespray.json) |
-| ViveSpray 2 | 83170 | [83170-vivespray-2.json](./83170-vivespray-2.json) |
 | Vivez Versailles | 104854 | [104854-vivez-versailles.json](./104854-vivez-versailles.json) |
 | Vivian and Kyuma | 282021 | [282021-vivian-and-kyuma.json](./282021-vivian-and-kyuma.json) |
 | Vivian Carmine | 247873 | [247873-vivian-carmine.json](./247873-vivian-carmine.json) |
@@ -3713,7 +3709,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice Actress | 76058 | [76058-voice-actress.json](./76058-voice-actress.json) |
 | Voice Actress II | 104801 | [104801-voice-actress-ii.json](./104801-voice-actress-ii.json) |
 | Voice Changer 360 | 80639 | [80639-voice-changer-360.json](./80639-voice-changer-360.json) |
-| Voice Commander, a Microsoft Garage project | 82404 | [82404-voice-commander-a-microsoft-garage-project.json](./82404-voice-commander-a-microsoft-garage-project.json) |
 | Voice Fantasia: Ushinawareta Voice Power | 54950 | [54950-voice-fantasia-ushinawareta-voice-power.json](./54950-voice-fantasia-ushinawareta-voice-power.json) |
 | Voice from Beyond | 197208 | [197208-voice-from-beyond.json](./197208-voice-from-beyond.json) |
 | Voice in the Abyss | 283735 | [283735-voice-in-the-abyss.json](./283735-voice-in-the-abyss.json) |
@@ -3833,7 +3828,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Lands | 322245 | [322245-void-lands.json](./322245-void-lands.json) |
 | Void Ledger | 423387 | [423387-void-ledger.json](./423387-void-ledger.json) |
 | Void Light | 387363 | [387363-void-light.json](./387363-void-light.json) |
-| Void Link | 81252 | [81252-void-link.json](./81252-void-link.json) |
 | Void Marauders | 157386 | [157386-void-marauders.json](./157386-void-marauders.json) |
 | Void Martyrs | 335686 | [335686-void-martyrs.json](./335686-void-martyrs.json) |
 | Void Memory | 74618 | [74618-void-memory.json](./74618-void-memory.json) |
@@ -4688,7 +4682,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Sports: Powerboat Racing | 72231 | [72231-vr-sports-powerboat-racing.json](./72231-vr-sports-powerboat-racing.json) |
 | VR Squash 2017 | 74398 | [74398-vr-squash-2017.json](./74398-vr-squash-2017.json) |
 | VR Stalker | 4272 | [4272-vr-stalker.json](./4272-vr-stalker.json) |
-| VR Stock Car Racers | 83558 | [83558-vr-stock-car-racers.json](./83558-vr-stock-car-racers.json) |
 | VR Store Simulator | 326321 | [326321-vr-store-simulator.json](./326321-vr-store-simulator.json) |
 | VR Style Brothel of Benefits | 115743 | [115743-vr-style-brothel-of-benefits.json](./115743-vr-style-brothel-of-benefits.json) |
 | VR Summer Sports | 174058 | [174058-vr-summer-sports.json](./174058-vr-summer-sports.json) |
