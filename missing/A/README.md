@@ -2692,7 +2692,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss | 377542 | [377542-abyss.json](./377542-abyss.json) |
 | Abyss | 414121 | [414121-abyss.json](./414121-abyss.json) |
 | Abyss | 430999 | [430999-abyss.json](./430999-abyss.json) |
-| Abyss | 80512 | [80512-abyss.json](./80512-abyss.json) |
 | Abyss and Dark: The King's Secret Pledge | 103146 | [103146-abyss-and-dark-the-kings-secret-pledge.json](./103146-abyss-and-dark-the-kings-secret-pledge.json) |
 | Abyss and Dungeon | 292164 | [292164-abyss-and-dungeon.json](./292164-abyss-and-dungeon.json) |
 | Abyss Attack | 107331 | [107331-abyss-attack.json](./107331-abyss-attack.json) |
@@ -2885,7 +2884,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Ragnagard | 113552 | [113552-aca-neo-geo-ragnagard.json](./113552-aca-neo-geo-ragnagard.json) |
 | ACA Neo Geo: Real Bout Fatal Fury | 90199 | [90199-aca-neo-geo-real-bout-fatal-fury.json](./90199-aca-neo-geo-real-bout-fatal-fury.json) |
 | ACA Neo Geo: Real Bout Fatal Fury 2 | 106075 | [106075-aca-neo-geo-real-bout-fatal-fury-2.json](./106075-aca-neo-geo-real-bout-fatal-fury-2.json) |
-| ACA Neo Geo: Real Bout Fatal Fury Special | 78127 | [78127-aca-neo-geo-real-bout-fatal-fury-special.json](./78127-aca-neo-geo-real-bout-fatal-fury-special.json) |
 | ACA Neo Geo: Riding Hero | 103942 | [103942-aca-neo-geo-riding-hero.json](./103942-aca-neo-geo-riding-hero.json) |
 | ACA Neo Geo: Robo Army | 99483 | [99483-aca-neo-geo-robo-army.json](./99483-aca-neo-geo-robo-army.json) |
 | ACA Neo Geo: Samurai Shodown | 85666 | [85666-aca-neo-geo-samurai-shodown.json](./85666-aca-neo-geo-samurai-shodown.json) |
@@ -2929,7 +2927,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Waku Waku 7 | 28416 | [28416-aca-neo-geo-waku-waku-7.json](./28416-aca-neo-geo-waku-waku-7.json) |
 | ACA Neo Geo: World Heroes | 76578 | [76578-aca-neo-geo-world-heroes.json](./76578-aca-neo-geo-world-heroes.json) |
 | ACA Neo Geo: World Heroes 2 | 99740 | [99740-aca-neo-geo-world-heroes-2.json](./99740-aca-neo-geo-world-heroes-2.json) |
-| ACA Neo Geo: World Heroes 2 Jet | 76576 | [76576-aca-neo-geo-world-heroes-2-jet.json](./76576-aca-neo-geo-world-heroes-2-jet.json) |
 | ACA Neo Geo: World Heroes Perfect | 28418 | [28418-aca-neo-geo-world-heroes-perfect.json](./28418-aca-neo-geo-world-heroes-perfect.json) |
 | ACA Neo Geo: Zed Blade | 106072 | [106072-aca-neo-geo-zed-blade.json](./106072-aca-neo-geo-zed-blade.json) |
 | ACA Neo Geo: Zupapa! | 110583 | [110583-aca-neo-geo-zupapa.json](./110583-aca-neo-geo-zupapa.json) |
@@ -6940,7 +6937,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Madness 2 | 52388 | [52388-airport-madness-2.json](./52388-airport-madness-2.json) |
 | Airport Madness 3 | 52387 | [52387-airport-madness-3.json](./52387-airport-madness-3.json) |
 | Airport Madness 3D | 33481 | [33481-airport-madness-3d.json](./33481-airport-madness-3d.json) |
-| Airport Madness 3D: Volume 2 | 76351 | [76351-airport-madness-3d-volume-2.json](./76351-airport-madness-3d-volume-2.json) |
 | Airport Madness 4 | 34816 | [34816-airport-madness-4.json](./34816-airport-madness-4.json) |
 | Airport Madness Challenge | 102506 | [102506-airport-madness-challenge.json](./102506-airport-madness-challenge.json) |
 | Airport Madness Collection | 52566 | [52566-airport-madness-collection.json](./52566-airport-madness-collection.json) |
@@ -14489,7 +14485,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Araignees | 184529 | [184529-araignees.json](./184529-araignees.json) |
 | Araka: JK Exorcist Horror RPG | 235870 | [235870-araka-jk-exorcist-horror-rpg.json](./235870-araka-jk-exorcist-horror-rpg.json) |
 | Arakion | 64487 | [64487-arakion.json](./64487-arakion.json) |
-| Arakion: Book One | 81235 | [81235-arakion-book-one.json](./81235-arakion-book-one.json) |
 | Aralez | 330465 | [330465-aralez.json](./330465-aralez.json) |
 | Arali | 203881 | [203881-arali.json](./203881-arali.json) |
 | Aralon: Sword and Shadow | 38985 | [38985-aralon-sword-and-shadow.json](./38985-aralon-sword-and-shadow.json) |
@@ -17081,7 +17076,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArsonVille | 25729 | [25729-arsonville.json](./25729-arsonville.json) |
 | ARSP1 | 273243 | [273243-arsp1.json](./273243-arsp1.json) |
 | Art Academy | 22959 | [22959-art-academy.json](./22959-art-academy.json) |
-| Art Academy: First Semester | 79260 | [79260-art-academy-first-semester.json](./79260-art-academy-first-semester.json) |
 | Art Academy: Home Studio | 21839 | [21839-art-academy-home-studio.json](./21839-art-academy-home-studio.json) |
 | Art Academy: Second Semester | 84766 | [84766-art-academy-second-semester.json](./84766-art-academy-second-semester.json) |
 | Art Academy: Sketchpad | 51185 | [51185-art-academy-sketchpad.json](./51185-art-academy-sketchpad.json) |
@@ -20345,7 +20339,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audio Arena | 33141 | [33141-audio-arena.json](./33141-audio-arena.json) |
 | Audio Clash: Battle of the Bands | 152128 | [152128-audio-clash-battle-of-the-bands.json](./152128-audio-clash-battle-of-the-bands.json) |
 | Audio Drive 2 VR | 338181 | [338181-audio-drive-2-vr.json](./338181-audio-drive-2-vr.json) |
-| Audio Drive Neon | 76491 | [76491-audio-drive-neon.json](./76491-audio-drive-neon.json) |
 | Audio Factory | 76149 | [76149-audio-factory.json](./76149-audio-factory.json) |
 | Audio Forager | 83963 | [83963-audio-forager.json](./83963-audio-forager.json) |
 | Audio Hero | 26831 | [26831-audio-hero.json](./26831-audio-hero.json) |
