@@ -3008,7 +3008,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Tic Tac Toe | 366976 | [366976-3d-tic-tac-toe.json](./366976-3d-tic-tac-toe.json) |
 | 3D Tic-Tac-Toe | 421224 | [421224-3d-tic-tac-toe.json](./421224-3d-tic-tac-toe.json) |
 | 3D Time Trek | 39085 | [39085-3d-time-trek.json](./39085-3d-time-trek.json) |
-| 3D Tower | 75313 | [75313-3d-tower.json](./75313-3d-tower.json) |
 | 3D Train Studio V9 | 376272 | [376272-3d-train-studio-v9.json](./376272-3d-train-studio-v9.json) |
 | 3D Tunnel | 379615 | [379615-3d-tunnel.json](./379615-3d-tunnel.json) |
 | 3D Turbo OutRun | 202923 | [202923-3d-turbo-outrun.json](./202923-3d-turbo-outrun.json) |
