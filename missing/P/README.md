@@ -10727,6 +10727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Sea | 306189 | [306189-planet-sea.json](./306189-planet-sea.json) |
 | Planet Sheen: Been There, Sheen That! | 334937 | [334937-planet-sheen-been-there-sheen-that.json](./334937-planet-sheen-been-there-sheen-that.json) |
 | Planet Shield | 426537 | [426537-planet-shield.json](./426537-planet-shield.json) |
+| Planet Sim | 431768 | [431768-planet-sim.json](./431768-planet-sim.json) |
 | Planet Simulation | 63207 | [63207-planet-simulation.json](./63207-planet-simulation.json) |
 | Planet Smash | 220235 | [220235-planet-smash.json](./220235-planet-smash.json) |
 | Planet Smasher | 31434 | [31434-planet-smasher.json](./31434-planet-smasher.json) |
@@ -15896,6 +15897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerstar Golf: City Park | 256745 | [256745-powerstar-golf-city-park.json](./256745-powerstar-golf-city-park.json) |
 | Powerstar Golf: Emperor's Garden | 249733 | [249733-powerstar-golf-emperors-garden.json](./249733-powerstar-golf-emperors-garden.json) |
 | Powerstar Golf: Rocky Ridge | 249724 | [249724-powerstar-golf-rocky-ridge.json](./249724-powerstar-golf-rocky-ridge.json) |
+| Powerstate | 431312 | [431312-powerstate.json](./431312-powerstate.json) |
 | Powerstation 17 | 337433 | [337433-powerstation-17.json](./337433-powerstation-17.json) |
 | Powerstation 64 | 273249 | [273249-powerstation-64.json](./273249-powerstation-64.json) |
 | Powerstyx | 123245 | [123245-powerstyx.json](./123245-powerstyx.json) |
