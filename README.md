@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 3,971" src="https://img.shields.io/badge/soundtracks-3%2C971-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 3,488" src="https://img.shields.io/badge/games-3%2C488-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 370,663" src="https://img.shields.io/badge/missing-370%2C663-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 370,537" src="https://img.shields.io/badge/missing-370%2C537-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/glitchs-trip"><img src="https://i.scdn.co/image/ab67616d0000b2738a4fcc42dabc9124f3760e28" width="120" height="120" alt="" /></a><br /><sub><b>Glitch's Trip</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/oure"><img src="https://i.scdn.co/image/ab67616d0000b273458bd6de6348efda28b2de8e" width="120" height="120" alt="" /></a><br /><sub><b>Oure</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/make-sail"><img src="https://i.scdn.co/image/ab67616d0000b273b02866af071c2812e4dcb0b9" width="120" height="120" alt="" /></a><br /><sub><b>Make Sail</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/gunlock"><img src="https://i.scdn.co/image/ab67616d0000b2734ebb191d0d31195660d90dce" width="120" height="120" alt="" /></a><br /><sub><b>Gunlock</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/street-heat"><img src="https://i.scdn.co/image/ab67616d0000b273fdbe6adb59869e177e382711" width="120" height="120" alt="" /></a><br /><sub><b>Street Heat</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/himeko-sutori"><img src="https://i.scdn.co/image/ab67616d0000b2737910718c77620aa822f7b994" width="120" height="120" alt="" /></a><br /><sub><b>Himeko Sutori</b></sub></td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/visual-out"><img src="https://i.scdn.co/image/ab67616d0000b273939968f01dbc1fc53b6bf9ef" width="120" height="120" alt="" /></a><br /><sub><b>Visual Out</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/i-wanna-be-the-cat"><img src="https://i.scdn.co/image/ab67616d0000b2737570cfcae2479c625664be87" width="120" height="120" alt="" /></a><br /><sub><b>I Wanna Be the Cat</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/total-miner"><img src="https://i.scdn.co/image/ab67616d0000b273aa6496b91d1d52eef55740cb" width="120" height="120" alt="" /></a><br /><sub><b>Total Miner</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/roof-rage"><img src="https://i.scdn.co/image/ab67616d0000b273f706aea50bcb095663d88a86" width="120" height="120" alt="" /></a><br /><sub><b>Roof Rage</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/plunge"><img src="https://i.scdn.co/image/ab67616d0000b273773366a631450ff6c066d1dd" width="120" height="120" alt="" /></a><br /><sub><b>Plunge</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/cendric"><img src="https://i.scdn.co/image/ab67616d0000b2738ea491835553110b5991b2c8" width="120" height="120" alt="" /></a><br /><sub><b>Cendric</b></sub></td>
-</tr>
-<tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/puzzle-with-your-friends"><img src="https://i.scdn.co/image/ab67616d0000b2738f258817d2aa6e82e57c4015" width="120" height="120" alt="" /></a><br /><sub><b>Puzzle With Your Friends</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/eight-dragons"><img src="https://i.scdn.co/image/ab67616d0000b273ab9e68590e58e7383c83a2cc" width="120" height="120" alt="" /></a><br /><sub><b>Eight Dragons</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/gaia-beyond"><img src="https://i.scdn.co/image/ab67616d0000b27318ed38dba3027057ecd2f549" width="120" height="120" alt="" /></a><br /><sub><b>Gaia Beyond</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/boss-crushers"><img src="https://i.scdn.co/image/ab67616d0000b273d6cb341d92b28abdebdfae33" width="120" height="120" alt="" /></a><br /><sub><b>Boss Crushers</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/pearls-peril"><img src="https://i.scdn.co/image/ab67616d0000b27320edc7e99bf7afa3de914517" width="120" height="120" alt="" /></a><br /><sub><b>Pearl's Peril</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/drumpf-rise-up-libertonia"><img src="https://i.scdn.co/image/ab67616d0000b273f497c93844ff9892bbcefd05" width="120" height="120" alt="" /></a><br /><sub><b>Drumpf: Rise Up, Libertonia!</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (370,663 games).
+More in **[missing/](missing/README.md)** (370,537 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -103,4 +103,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,971 soundtracks &middot; last updated 2026-11-28T15:45:49.757Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,971 soundtracks &middot; last updated 2026-11-28T18:41:09.554Z</sub>
