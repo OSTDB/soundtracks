@@ -2055,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenas-unarpe | 299130 | [299130-kenas-unarpe.json](./299130-kenas-unarpe.json) |
 | Kenbo | 155295 | [155295-kenbo.json](./155295-kenbo.json) |
 | Kenchana: Oath of a Magical Spear | 238756 | [238756-kenchana-oath-of-a-magical-spear.json](./238756-kenchana-oath-of-a-magical-spear.json) |
+| Kenchi Power | 431721 | [431721-kenchi-power.json](./431721-kenchi-power.json) |
 | Kendall and Kylie | 133708 | [133708-kendall-and-kylie.json](./133708-kendall-and-kylie.json) |
 | KendamVR: Virtual Reality Kendama | 63721 | [63721-kendamvr-virtual-reality-kendama.json](./63721-kendamvr-virtual-reality-kendama.json) |
 | Kendo | 123926 | [123926-kendo.json](./123926-kendo.json) |
