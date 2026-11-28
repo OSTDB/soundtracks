@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Heart: Lofi Hours | 405283 | [405283-radio-heart-lofi-hours.json](./405283-radio-heart-lofi-hours.json) |
 | Radio Helicopter | 51159 | [51159-radio-helicopter.json](./51159-radio-helicopter.json) |
 | Radio Helicopter II | 43230 | [43230-radio-helicopter-ii.json](./43230-radio-helicopter-ii.json) |
+| Radio Rain | 431712 | [431712-radio-rain.json](./431712-radio-rain.json) |
 | Radio Rayless | 324348 | [324348-radio-rayless.json](./324348-radio-rayless.json) |
 | Radio Runner | 133345 | [133345-radio-runner.json](./133345-radio-runner.json) |
 | Radio Silent | 267696 | [267696-radio-silent.json](./267696-radio-silent.json) |
@@ -11852,6 +11853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rokudenashi Blues: Taiketsu! Tokyo Shiten-ou | 37867 | [37867-rokudenashi-blues-taiketsu-tokyo-shiten-ou.json](./37867-rokudenashi-blues-taiketsu-tokyo-shiten-ou.json) |
 | Rokumenhappi | 283060 | [283060-rokumenhappi.json](./283060-rokumenhappi.json) |
 | Rokumon Tengai Mon Colle Knight GB | 282584 | [282584-rokumon-tengai-mon-colle-knight-gb.json](./282584-rokumon-tengai-mon-colle-knight-gb.json) |
+| Rökvale | 431344 | [431344-rokvale.json](./431344-rokvale.json) |
 | Rol Crusaders | 94556 | [94556-rol-crusaders.json](./94556-rol-crusaders.json) |
 | Rolaball | 94693 | [94693-rolaball.json](./94693-rolaball.json) |
 | Rolan's Curse | 49023 | [49023-rolans-curse.json](./49023-rolans-curse.json) |
@@ -12495,6 +12497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roof Jump Stunt Driver | 231054 | [231054-roof-jump-stunt-driver.json](./231054-roof-jump-stunt-driver.json) |
 | Roof Jumping: Stunt Driver Sim | 104087 | [104087-roof-jumping-stunt-driver-sim.json](./104087-roof-jumping-stunt-driver-sim.json) |
 | Roof Leak Hero | 385250 | [385250-roof-leak-hero.json](./385250-roof-leak-hero.json) |
+| Roof Rage | 77775 | [77775-roof-rage.json](./77775-roof-rage.json) |
 | Roof Rails | 288249 | [288249-roof-rails.json](./288249-roof-rails.json) |
 | Roofbot | 30897 | [30897-roofbot.json](./30897-roofbot.json) |
 | Roofbot: Puzzler on the Roof | 96729 | [96729-roofbot-puzzler-on-the-roof.json](./96729-roofbot-puzzler-on-the-roof.json) |
