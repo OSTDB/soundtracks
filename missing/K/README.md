@@ -2354,7 +2354,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KeyQuack Quest | 422787 | [422787-keyquack-quest.json](./422787-keyquack-quest.json) |
 | Keyrin Loves You | 338737 | [338737-keyrin-loves-you.json](./338737-keyrin-loves-you.json) |
 | Keys | 401208 | [401208-keys.json](./401208-keys.json) |
-| Keys | 83543 | [83543-keys.json](./83543-keys.json) |
 | Keys and Kastles | 260248 | [260248-keys-and-kastles.json](./260248-keys-and-kastles.json) |
 | Keys of a Gamespace | 330689 | [330689-keys-of-a-gamespace.json](./330689-keys-of-a-gamespace.json) |
 | Keys of Fury | 356993 | [356993-keys-of-fury.json](./356993-keys-of-fury.json) |
@@ -2554,7 +2553,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickin' Elevator | 430509 | [430509-kickin-elevator.json](./430509-kickin-elevator.json) |
 | Kicking Balls World | 394777 | [394777-kicking-balls-world.json](./394777-kicking-balls-world.json) |
 | Kicking King | 35007 | [35007-kicking-king.json](./35007-kicking-king.json) |
-| Kicking Kittens: Putin Saves the World | 81653 | [81653-kicking-kittens-putin-saves-the-world.json](./81653-kicking-kittens-putin-saves-the-world.json) |
 | Kicking The Ball Over Mountains Of Stuff | 310398 | [310398-kicking-the-ball-over-mountains-of-stuff.json](./310398-kicking-the-ball-over-mountains-of-stuff.json) |
 | Kickle Cubicle | 40238 | [40238-kickle-cubicle.json](./40238-kickle-cubicle.json) |
 | Kickman | 41120 | [41120-kickman.json](./41120-kickman.json) |
@@ -3411,7 +3409,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Fun Labs: Mars Rover Landing | 106173 | [106173-kinect-fun-labs-mars-rover-landing.json](./106173-kinect-fun-labs-mars-rover-landing.json) |
 | Kinect Fun Labs: Mutation Station | 329732 | [329732-kinect-fun-labs-mutation-station.json](./329732-kinect-fun-labs-mutation-station.json) |
 | Kinect Joy Ride | 2662 | [2662-kinect-joy-ride.json](./2662-kinect-joy-ride.json) |
-| Kinect Mega Bundle: 4 in 1 | 82538 | [82538-kinect-mega-bundle-4-in-1.json](./82538-kinect-mega-bundle-4-in-1.json) |
 | Kinect Nat Geo TV | 22343 | [22343-kinect-nat-geo-tv.json](./22343-kinect-nat-geo-tv.json) |
 | Kinect Nat Geo TV: Season Two | 94040 | [94040-kinect-nat-geo-tv-season-two.json](./94040-kinect-nat-geo-tv-season-two.json) |
 | Kinect Party | 20238 | [20238-kinect-party.json](./20238-kinect-party.json) |
@@ -3425,7 +3422,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Sports: Season Two - Midnight Mountain | 20658 | [20658-kinect-sports-season-two-midnight-mountain.json](./20658-kinect-sports-season-two-midnight-mountain.json) |
 | Kinect Sports: Ultimate Collection | 47401 | [47401-kinect-sports-ultimate-collection.json](./47401-kinect-sports-ultimate-collection.json) |
 | Kinect Star Wars | 8560 | [8560-kinect-star-wars.json](./8560-kinect-star-wars.json) |
-| Kinect Triple Bundle: Beats & Booms & Squids | 82453 | [82453-kinect-triple-bundle-beats-and-booms-and-squids.json](./82453-kinect-triple-bundle-beats-and-booms-and-squids.json) |
 | Kinectimals | 2755 | [2755-kinectimals.json](./2755-kinectimals.json) |
 | Kinectimals Mobile | 78499 | [78499-kinectimals-mobile.json](./78499-kinectimals-mobile.json) |
 | Kinectimals: Now with Bears! | 47416 | [47416-kinectimals-now-with-bears.json](./47416-kinectimals-now-with-bears.json) |
