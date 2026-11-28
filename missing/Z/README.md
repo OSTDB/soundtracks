@@ -1544,7 +1544,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Znake | 306038 | [306038-znake.json](./306038-znake.json) |
 | Znax | 183682 | [183682-znax.json](./183682-znax.json) |
 | Zniw Adventure | 107964 | [107964-zniw-adventure.json](./107964-zniw-adventure.json) |
-| Znkl: 177 | 83582 | [83582-znkl-177.json](./83582-znkl-177.json) |
 | ZOA: The Zone of Avoidance | 339228 | [339228-zoa-the-zone-of-avoidance.json](./339228-zoa-the-zone-of-avoidance.json) |
 | Zoar | 39307 | [39307-zoar.json](./39307-zoar.json) |
 | Zoboomafoo: Animal Kids | 380941 | [380941-zoboomafoo-animal-kids.json](./380941-zoboomafoo-animal-kids.json) |
