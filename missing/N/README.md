@@ -1025,7 +1025,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | National Park Legend: Bigfoot | 101109 | [101109-national-park-legend-bigfoot.json](./101109-national-park-legend-bigfoot.json) |
 | National Park Tycoon | 420320 | [420320-national-park-tycoon.json](./420320-national-park-tycoon.json) |
 | National Quiz of Common Sense | 378823 | [378823-national-quiz-of-common-sense.json](./378823-national-quiz-of-common-sense.json) |
-| National Rugby Manager | 81005 | [81005-national-rugby-manager.json](./81005-national-rugby-manager.json) |
 | National Rugby Manager: European Rugby Pack | 227022 | [227022-national-rugby-manager-european-rugby-pack.json](./227022-national-rugby-manager-european-rugby-pack.json) |
 | National Rugby Manager: Southern Hemisphere Rugby Pack | 227021 | [227021-national-rugby-manager-southern-hemisphere-rugby-pack.json](./227021-national-rugby-manager-southern-hemisphere-rugby-pack.json) |
 | National Videogame Museum | 251545 | [251545-national-videogame-museum.json](./251545-national-videogame-museum.json) |
@@ -2472,7 +2471,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis Macana | 364630 | [364630-nemesis-macana.json](./364630-nemesis-macana.json) |
 | Nemesis of the Roman Empire | 10593 | [10593-nemesis-of-the-roman-empire.json](./10593-nemesis-of-the-roman-empire.json) |
 | Nemesis Perspective | 30982 | [30982-nemesis-perspective.json](./30982-nemesis-perspective.json) |
-| Nemesis Realms | 80883 | [80883-nemesis-realms.json](./80883-nemesis-realms.json) |
 | Nemesis Shock | 346397 | [346397-nemesis-shock.json](./346397-nemesis-shock.json) |
 | Nemesis Tamatou | 301723 | [301723-nemesis-tamatou.json](./301723-nemesis-tamatou.json) |
 | Nemesis the Warlock | 37187 | [37187-nemesis-the-warlock.json](./37187-nemesis-the-warlock.json) |
@@ -6063,7 +6061,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Spirit | 6819 | [6819-ninja-spirit.json](./6819-ninja-spirit.json) |
 | Ninja Stealth | 32484 | [32484-ninja-stealth.json](./32484-ninja-stealth.json) |
 | Ninja Stealth 2 | 29639 | [29639-ninja-stealth-2.json](./29639-ninja-stealth-2.json) |
-| Ninja Stealth 3 | 76311 | [76311-ninja-stealth-3.json](./76311-ninja-stealth-3.json) |
 | Ninja Stealth 4 | 163314 | [163314-ninja-stealth-4.json](./163314-ninja-stealth-4.json) |
 | Ninja Stealth 5 | 301308 | [301308-ninja-stealth-5.json](./301308-ninja-stealth-5.json) |
 | Ninja Stealth Collection | 53420 | [53420-ninja-stealth-collection.json](./53420-ninja-stealth-collection.json) |
