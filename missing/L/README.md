@@ -1998,7 +1998,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Later Daters: Part One and Two | 238183 | [238183-later-daters-part-one-and-two.json](./238183-later-daters-part-one-and-two.json) |
 | Later Daters: Premium | 204282 | [204282-later-daters-premium.json](./204282-later-daters-premium.json) |
 | Later Elevator | 344721 | [344721-later-elevator.json](./344721-later-elevator.json) |
-| Later On | 81597 | [81597-later-on.json](./81597-later-on.json) |
 | Lateral Thinking Together | 372493 | [372493-lateral-thinking-together.json](./372493-lateral-thinking-together.json) |
 | Latest Issue | 329097 | [329097-latest-issue.json](./329097-latest-issue.json) |
 | Latest Jump Cube Game | 119843 | [119843-latest-jump-cube-game.json](./119843-latest-jump-cube-game.json) |
@@ -3495,7 +3494,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legeno Slayer | 212602 | [212602-legeno-slayer.json](./212602-legeno-slayer.json) |
 | Legerdemain | 246162 | [246162-legerdemain.json](./246162-legerdemain.json) |
 | Leggite Luta Livre | 198482 | [198482-leggite-luta-livre.json](./198482-leggite-luta-livre.json) |
-| Legie | 81407 | [81407-legie.json](./81407-legie.json) |
 | Legio | 91523 | [91523-legio.json](./91523-legio.json) |
 | Legion | 177636 | [177636-legion.json](./177636-legion.json) |
 | Legion | 319203 | [319203-legion.json](./319203-legion.json) |
@@ -5476,7 +5474,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light | 93759 | [93759-light.json](./93759-light.json) |
 | Light 'em | 349029 | [349029-light-em.json](./349029-light-em.json) |
 | Light 'em Up | 204495 | [204495-light-em-up.json](./204495-light-em-up.json) |
-| Light & Dark Bundle | 82452 | [82452-light-and-dark-bundle.json](./82452-light-and-dark-bundle.json) |
 | Light & Glory | 414412 | [414412-light-and-glory.json](./414412-light-and-glory.json) |
 | Light & Shadow | 226425 | [226425-light-and-shadow.json](./226425-light-and-shadow.json) |
 | Light A Way | 80873 | [80873-light-a-way.json](./80873-light-a-way.json) |
@@ -7839,7 +7836,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock & Key: A Magical Girl Mystery | 202633 | [202633-lock-and-key-a-magical-girl-mystery.json](./202633-lock-and-key-a-magical-girl-mystery.json) |
 | Lock & Stone | 423802 | [423802-lock-and-stone.json](./423802-lock-and-stone.json) |
 | Lock 5 | 70429 | [70429-lock-5.json](./70429-lock-5.json) |
-| Lock Her Up: The Trump Supremacy | 81815 | [81815-lock-her-up-the-trump-supremacy.json](./81815-lock-her-up-the-trump-supremacy.json) |
 | Lock In | 403324 | [403324-lock-in.json](./403324-lock-in.json) |
 | Lock In: Final Cut | 202754 | [202754-lock-in-final-cut.json](./202754-lock-in-final-cut.json) |
 | Lock Lock: Farm | 168628 | [168628-lock-lock-farm.json](./168628-lock-lock-farm.json) |
@@ -8861,7 +8857,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot the Land | 52537 | [52537-loot-the-land.json](./52537-loot-the-land.json) |
 | Loot Train | 166154 | [166154-loot-train.json](./166154-loot-train.json) |
 | Loot Tycoon | 379479 | [379479-loot-tycoon.json](./379479-loot-tycoon.json) |
-| Loot Ultimate Games Bundle | 82451 | [82451-loot-ultimate-games-bundle.json](./82451-loot-ultimate-games-bundle.json) |
 | Loot, Luck & Levels | 213481 | [213481-loot-luck-and-levels.json](./213481-loot-luck-and-levels.json) |
 | Loot, Steal 'n Destroy | 70623 | [70623-loot-steal-n-destroy.json](./70623-loot-steal-n-destroy.json) |
 | Loot: Action-Packed Bundle | 99750 | [99750-loot-action-packed-bundle.json](./99750-loot-action-packed-bundle.json) |
@@ -9231,7 +9226,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost and Hound | 116833 | [116833-lost-and-hound.json](./116833-lost-and-hound.json) |
 | Lost Angel | 143466 | [143466-lost-angel.json](./143466-lost-angel.json) |
 | Lost Arsenal | 405214 | [405214-lost-arsenal.json](./405214-lost-arsenal.json) |
-| Lost Artifacts | 83182 | [83182-lost-artifacts.json](./83182-lost-artifacts.json) |
 | Lost Artifacts: Frozen Queen | 123484 | [123484-lost-artifacts-frozen-queen.json](./123484-lost-artifacts-frozen-queen.json) |
 | Lost Artifacts: Golden Island | 113820 | [113820-lost-artifacts-golden-island.json](./113820-lost-artifacts-golden-island.json) |
 | Lost Artifacts: Mysterious Book | 244020 | [244020-lost-artifacts-mysterious-book.json](./244020-lost-artifacts-mysterious-book.json) |
