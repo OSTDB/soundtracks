@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-28T06:25:55.617Z",
-  "total_soundtracks": 3959,
+  "generated_at": "2026-11-28T07:05:59.467Z",
+  "total_soundtracks": 3960,
   "games": [
     {
       "igdb_id": 292844,
@@ -7395,6 +7395,20 @@
         {
           "album_name": "Celeste: Farewell (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6bVmGJJBkWfmSZKK4eeLBh",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 81045,
+      "game_name": "Cendric",
+      "game_url": "https://ostdb.net/games/cendric",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738ea491835553110b5991b2c8",
+      "albums": [
+        {
+          "album_name": "Cendric (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3C6Ybp3nYONWF7dP3s5Zsy",
           "apple_music_url": "",
           "album_link_url": ""
         }
