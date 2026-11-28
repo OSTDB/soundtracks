@@ -3012,7 +3012,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taste My Arsenal | 103981 | [103981-taste-my-arsenal.json](./103981-taste-my-arsenal.json) |
 | Taste of Blood | 361268 | [361268-taste-of-blood.json](./361268-taste-of-blood.json) |
 | Taste of Heaven | 200407 | [200407-taste-of-heaven.json](./200407-taste-of-heaven.json) |
-| Taste of Power | 75895 | [75895-taste-of-power.json](./75895-taste-of-power.json) |
 | Taste of Seduction | 212198 | [212198-taste-of-seduction.json](./212198-taste-of-seduction.json) |
 | Taste of Sweet Magic | 217784 | [217784-taste-of-sweet-magic.json](./217784-taste-of-sweet-magic.json) |
 | Taste of the Sea | 374891 | [374891-taste-of-the-sea.json](./374891-taste-of-the-sea.json) |
@@ -4277,7 +4276,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest 2000 | 9791 | [9791-tempest-2000.json](./9791-tempest-2000.json) |
 | Tempest 3000 | 51181 | [51181-tempest-3000.json](./51181-tempest-3000.json) |
 | Tempest 4000 | 54565 | [54565-tempest-4000.json](./54565-tempest-4000.json) |
-| Tempest Citadel | 75106 | [75106-tempest-citadel.json](./75106-tempest-citadel.json) |
 | Tempest Enterprise | 264413 | [264413-tempest-enterprise.json](./264413-tempest-enterprise.json) |
 | Tempest Inc. | 270558 | [270558-tempest-inc.json](./270558-tempest-inc.json) |
 | Tempest of the Heavens and Earth | 113643 | [113643-tempest-of-the-heavens-and-earth.json](./113643-tempest-of-the-heavens-and-earth.json) |
@@ -6117,7 +6115,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The $100,000 Pyramid | 70716 | [70716-the-100-000-pyramid.json](./70716-the-100-000-pyramid.json) |
 | The 10th Planet | 200421 | [200421-the-10th-planet.json](./200421-the-10th-planet.json) |
 | The 10x10 Project | 257285 | [257285-the-10x10-project.json](./257285-the-10x10-project.json) |
-| The 111th Soul | 76274 | [76274-the-111th-soul.json](./76274-the-111th-soul.json) |
 | The 11th Annual Vanilla Level Design Contest: Collaboration Hack | 191942 | [191942-the-11th-annual-vanilla-level-design-contest-collaboration-hack.json](./191942-the-11th-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The 11th Hour | 2203 | [2203-the-11th-hour.json](./2203-the-11th-hour.json) |
 | The 11th Power | 405364 | [405364-the-11th-power.json](./405364-the-11th-power.json) |
@@ -9874,7 +9871,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Alchemist | 179696 | [179696-the-dream-alchemist.json](./179696-the-dream-alchemist.json) |
 | The Dream Circus | 387118 | [387118-the-dream-circus.json](./387118-the-dream-circus.json) |
 | The Dream Collector | 365906 | [365906-the-dream-collector.json](./365906-the-dream-collector.json) |
-| The Dream Collector | 75914 | [75914-the-dream-collector.json](./75914-the-dream-collector.json) |
 | The Dream Compass | 108123 | [108123-the-dream-compass.json](./108123-the-dream-compass.json) |
 | The Dream Diary | 229259 | [229259-the-dream-diary.json](./229259-the-dream-diary.json) |
 | The Dream Globe | 371989 | [371989-the-dream-globe.json](./371989-the-dream-globe.json) |
@@ -12019,7 +12015,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great War 3032 | 247368 | [247368-the-great-war-3032.json](./247368-the-great-war-3032.json) |
 | The Great War of Jorth | 187643 | [187643-the-great-war-of-jorth.json](./187643-the-great-war-of-jorth.json) |
 | The Great War of Prefectures | 254348 | [254348-the-great-war-of-prefectures.json](./254348-the-great-war-of-prefectures.json) |
-| The Great War: 1914 | 75115 | [75115-the-great-war-1914.json](./75115-the-great-war-1914.json) |
 | The Great War: 1914-1918 | 46972 | [46972-the-great-war-1914-1918.json](./46972-the-great-war-1914-1918.json) |
 | The Great War: Day 13 | 227586 | [227586-the-great-war-day-13.json](./227586-the-great-war-day-13.json) |
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
@@ -17108,7 +17103,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Painter | 185577 | [185577-the-painter.json](./185577-the-painter.json) |
 | The Painter of Devil's Fangs | 184666 | [184666-the-painter-of-devils-fangs.json](./184666-the-painter-of-devils-fangs.json) |
 | The Painter's Apprentice | 56706 | [56706-the-painters-apprentice.json](./56706-the-painters-apprentice.json) |
-| The Painter's Playground | 75604 | [75604-the-painters-playground.json](./75604-the-painters-playground.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
 | The Painting of Gustavo Repaintend | 383167 | [383167-the-painting-of-gustavo-repaintend.json](./383167-the-painting-of-gustavo-repaintend.json) |
 | The Pair Annihilation | 244539 | [244539-the-pair-annihilation.json](./244539-the-pair-annihilation.json) |
@@ -17683,7 +17677,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Projection Room of Malka Spitzer | 262953 | [262953-the-projection-room-of-malka-spitzer.json](./262953-the-projection-room-of-malka-spitzer.json) |
 | The Projet Poulet | 287906 | [287906-the-projet-poulet.json](./287906-the-projet-poulet.json) |
 | The Prometheus Secret Noohra | 110696 | [110696-the-prometheus-secret-noohra.json](./110696-the-prometheus-secret-noohra.json) |
-| The Promethium Effect | 75950 | [75950-the-promethium-effect.json](./75950-the-promethium-effect.json) |
 | The Promise of Forever | 323991 | [323991-the-promise-of-forever.json](./323991-the-promise-of-forever.json) |
 | The Promise of Forever 2 | 323992 | [323992-the-promise-of-forever-2.json](./323992-the-promise-of-forever-2.json) |
 | The Promise Tree of Alden | 383447 | [383447-the-promise-tree-of-alden.json](./383447-the-promise-tree-of-alden.json) |
@@ -21826,7 +21819,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warfare | 417488 | [417488-the-warfare.json](./417488-the-warfare.json) |
 | The Warfstache Clicker | 239539 | [239539-the-warfstache-clicker.json](./239539-the-warfstache-clicker.json) |
 | The Warhammer Universe Strategy Game Collection | 71112 | [71112-the-warhammer-universe-strategy-game-collection.json](./71112-the-warhammer-universe-strategy-game-collection.json) |
-| The Warhorn | 75097 | [75097-the-warhorn.json](./75097-the-warhorn.json) |
 | The Warlin of Heroes | 148963 | [148963-the-warlin-of-heroes.json](./148963-the-warlin-of-heroes.json) |
 | The Warlock of Firetop Mountain | 73881 | [73881-the-warlock-of-firetop-mountain.json](./73881-the-warlock-of-firetop-mountain.json) |
 | The Warlock of Firetop Mountain: Goblin Scourge Edition! | 147832 | [147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json](./147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json) |
@@ -22792,7 +22784,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
 | There Goes the Kingdom | 430323 | [430323-there-goes-the-kingdom.json](./430323-there-goes-the-kingdom.json) |
 | There Is A Bomb | 210830 | [210830-there-is-a-bomb.json](./210830-there-is-a-bomb.json) |
-| There Is A Genie In My Szechuan Sauce | 75317 | [75317-there-is-a-genie-in-my-szechuan-sauce.json](./75317-there-is-a-genie-in-my-szechuan-sauce.json) |
 | There is a Genie in my Szechuan Sauce: Remastered | 228372 | [228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json](./228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json) |
 | There is a Picture | 146083 | [146083-there-is-a-picture.json](./146083-there-is-a-picture.json) |
 | There is a Secret Tunnel to the Center of the Earth | 418190 | [418190-there-is-a-secret-tunnel-to-the-center-of-the-earth.json](./418190-there-is-a-secret-tunnel-to-the-center-of-the-earth.json) |
@@ -33505,7 +33496,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Station Renovation | 108347 | [108347-train-station-renovation.json](./108347-train-station-renovation.json) |
 | Train Station Renovation: First Job | 132415 | [132415-train-station-renovation-first-job.json](./132415-train-station-renovation-first-job.json) |
 | Train Station Renovation: Germany | 195217 | [195217-train-station-renovation-germany.json](./195217-train-station-renovation-germany.json) |
-| Train Station Simulator | 75616 | [75616-train-station-simulator.json](./75616-train-station-simulator.json) |
 | Train Station Simulator: Together in Japan | 374747 | [374747-train-station-simulator-together-in-japan.json](./374747-train-station-simulator-together-in-japan.json) |
 | Train Station Tycoon | 411263 | [411263-train-station-tycoon.json](./411263-train-station-tycoon.json) |
 | Train Station: Rail Transport | 243085 | [243085-train-station-rail-transport.json](./243085-train-station-rail-transport.json) |
