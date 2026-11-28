@@ -322,7 +322,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable Mosaics: Rapunzel | 294218 | [294218-fable-mosaics-rapunzel.json](./294218-fable-mosaics-rapunzel.json) |
 | Fable of Fairy Stones | 222064 | [222064-fable-of-fairy-stones.json](./222064-fable-of-fairy-stones.json) |
 | Fable of Sand Paws | 203986 | [203986-fable-of-sand-paws.json](./203986-fable-of-sand-paws.json) |
-| Fable of the Sword | 83486 | [83486-fable-of-the-sword.json](./83486-fable-of-the-sword.json) |
 | Fable Rush | 52283 | [52283-fable-rush.json](./52283-fable-rush.json) |
 | Fable: 20th Anniversary Demake | 342668 | [342668-fable-20th-anniversary-demake.json](./342668-fable-20th-anniversary-demake.json) |
 | Fable: Coin Golf | 92131 | [92131-fable-coin-golf.json](./92131-fable-coin-golf.json) |
@@ -807,7 +806,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Nook | 364627 | [364627-fairy-nook.json](./364627-fairy-nook.json) |
 | Fairy Nook | 54017 | [54017-fairy-nook.json](./54017-fairy-nook.json) |
 | Fairy of Sit-ups | 104418 | [104418-fairy-of-sit-ups.json](./104418-fairy-of-sit-ups.json) |
-| Fairy of the treasures | 81823 | [81823-fairy-of-the-treasures.json](./81823-fairy-of-the-treasures.json) |
 | Fairy Orb: Magical Girl Aya & Yui | 82697 | [82697-fairy-orb-magical-girl-aya-and-yui.json](./82697-fairy-orb-magical-girl-aya-and-yui.json) |
 | Fairy Penguin Parade | 134916 | [134916-fairy-penguin-parade.json](./134916-fairy-penguin-parade.json) |
 | Fairy Picturebook of Hero and Sorceress | 113698 | [113698-fairy-picturebook-of-hero-and-sorceress.json](./113698-fairy-picturebook-of-hero-and-sorceress.json) |
@@ -931,7 +929,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faith Fighter | 71391 | [71391-faith-fighter.json](./71391-faith-fighter.json) |
 | Faith Fighter 2 | 64375 | [64375-faith-fighter-2.json](./64375-faith-fighter-2.json) |
 | Faith in Despair | 287907 | [287907-faith-in-despair.json](./287907-faith-in-despair.json) |
-| Faith of Danschant | 83339 | [83339-faith-of-danschant.json](./83339-faith-of-danschant.json) |
 | Faith of Danschant: Hereafter | 247377 | [247377-faith-of-danschant-hereafter.json](./247377-faith-of-danschant-hereafter.json) |
 | Faith of Fate | 119668 | [119668-faith-of-fate.json](./119668-faith-of-fate.json) |
 | Faith of Life: Survive Edition | 340052 | [340052-faith-of-life-survive-edition.json](./340052-faith-of-life-survive-edition.json) |
@@ -5709,7 +5706,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Days | 33101 | [33101-final-days.json](./33101-final-days.json) |
 | Final Desolation | 287309 | [287309-final-desolation.json](./287309-final-desolation.json) |
 | Final Destiny | 307244 | [307244-final-destiny.json](./307244-final-destiny.json) |
-| Final Directive | 83588 | [83588-final-directive.json](./83588-final-directive.json) |
 | Final District | 345045 | [345045-final-district.json](./345045-final-district.json) |
 | Final Doom | 218185 | [218185-final-doom.json](./218185-final-doom.json) |
 | Final Doom | 8191 | [8191-final-doom.json](./8191-final-doom.json) |
@@ -7412,7 +7408,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Words Feelings | 103582 | [103582-first-words-feelings.json](./103582-first-words-feelings.json) |
 | First World Problems | 370614 | [370614-first-world-problems.json](./370614-first-world-problems.json) |
 | First World War | 59322 | [59322-first-world-war.json](./59322-first-world-war.json) |
-| First-Person Bundle | 82545 | [82545-first-person-bundle.json](./82545-first-person-bundle.json) |
 | First-Person Data Explorer | 363622 | [363622-first-person-data-explorer.json](./363622-first-person-data-explorer.json) |
 | First-Person Jigsaw | 415354 | [415354-first-person-jigsaw.json](./415354-first-person-jigsaw.json) |
 | First, Breathe | 124751 | [124751-first-breathe.json](./124751-first-breathe.json) |
@@ -8590,7 +8585,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy 2: The Resurrection of Blue Star | 62199 | [62199-flappy-2-the-resurrection-of-blue-star.json](./62199-flappy-2-the-resurrection-of-blue-star.json) |
 | Flappy 95 | 242747 | [242747-flappy-95.json](./242747-flappy-95.json) |
 | Flappy Alien | 311232 | [311232-flappy-alien.json](./311232-flappy-alien.json) |
-| Flappy Arms | 81698 | [81698-flappy-arms.json](./81698-flappy-arms.json) |
 | Flappy Ball | 228271 | [228271-flappy-ball.json](./228271-flappy-ball.json) |
 | Flappy Bastion | 61851 | [61851-flappy-bastion.json](./61851-flappy-bastion.json) |
 | Flappy Bat | 156970 | [156970-flappy-bat.json](./156970-flappy-bat.json) |
@@ -9293,7 +9287,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flippant | 407855 | [407855-flippant.json](./407855-flippant.json) |
 | Flipped | 190737 | [190737-flipped.json](./190737-flipped.json) |
 | Flipped in Love | 143744 | [143744-flipped-in-love.json](./143744-flipped-in-love.json) |
-| Flipped On | 81811 | [81811-flipped-on.json](./81811-flipped-on.json) |
 | Flippee Ball | 316481 | [316481-flippee-ball.json](./316481-flippee-ball.json) |
 | Flippen | 178847 | [178847-flippen.json](./178847-flippen.json) |
 | Flippen Run Mike | 158689 | [158689-flippen-run-mike.json](./158689-flippen-run-mike.json) |
@@ -9713,7 +9706,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Challenge | 159898 | [159898-flower-challenge.json](./159898-flower-challenge.json) |
 | Flower Daze | 366428 | [366428-flower-daze.json](./366428-flower-daze.json) |
 | Flower Defence | 56761 | [56761-flower-defence.json](./56761-flower-defence.json) |
-| Flower Design | 83864 | [83864-flower-design.json](./83864-flower-design.json) |
 | Flower Design II | 384522 | [384522-flower-design-ii.json](./384522-flower-design-ii.json) |
 | Flower Dungeon | 380214 | [380214-flower-dungeon.json](./380214-flower-dungeon.json) |
 | Flower Dungeon: Gold Nib & Dragon Fists | 380215 | [380215-flower-dungeon-gold-nib-and-dragon-fists.json](./380215-flower-dungeon-gold-nib-and-dragon-fists.json) |
@@ -11691,7 +11683,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Myths CCG | 36302 | [36302-forgotten-myths-ccg.json](./36302-forgotten-myths-ccg.json) |
 | Forgotten Passages | 127164 | [127164-forgotten-passages.json](./127164-forgotten-passages.json) |
 | Forgotten Paths | 336859 | [336859-forgotten-paths.json](./336859-forgotten-paths.json) |
-| Forgotten Places: Regained Castle | 81630 | [81630-forgotten-places-regained-castle.json](./81630-forgotten-places-regained-castle.json) |
 | Forgotten Playland | 300569 | [300569-forgotten-playland.json](./300569-forgotten-playland.json) |
 | Forgotten Playland: Party Edition | 392803 | [392803-forgotten-playland-party-edition.json](./392803-forgotten-playland-party-edition.json) |
 | Forgotten Possessions | 392775 | [392775-forgotten-possessions.json](./392775-forgotten-possessions.json) |
@@ -12545,7 +12536,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 5 | 2131 | [2131-forza-motorsport-5.json](./2131-forza-motorsport-5.json) |
 | Forza Motorsport 5: Game of the Year Edition | 136175 | [136175-forza-motorsport-5-game-of-the-year-edition.json](./136175-forza-motorsport-5-game-of-the-year-edition.json) |
 | Forza Motorsport 6 and Forza Horizon 2 Bundle | 311355 | [311355-forza-motorsport-6-and-forza-horizon-2-bundle.json](./311355-forza-motorsport-6-and-forza-horizon-2-bundle.json) |
-| Forza Motorsport 7 and Forza Horizon 3 Bundle | 83742 | [83742-forza-motorsport-7-and-forza-horizon-3-bundle.json](./83742-forza-motorsport-7-and-forza-horizon-3-bundle.json) |
 | Forza Motorsport 7: Deluxe Edition | 84940 | [84940-forza-motorsport-7-deluxe-edition.json](./84940-forza-motorsport-7-deluxe-edition.json) |
 | Forza Motorsport 7: Ultimate Edition | 84941 | [84941-forza-motorsport-7-ultimate-edition.json](./84941-forza-motorsport-7-ultimate-edition.json) |
 | Forza Motorsport and Forza Horizon 5 Premium Editions Bundle | 277243 | [277243-forza-motorsport-and-forza-horizon-5-premium-editions-bundle.json](./277243-forza-motorsport-and-forza-horizon-5-premium-editions-bundle.json) |
@@ -14633,7 +14623,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Line | 276434 | [276434-front-line.json](./276434-front-line.json) |
 | Front Line | 276438 | [276438-front-line.json](./276438-front-line.json) |
 | Front Line | 408293 | [408293-front-line.json](./408293-front-line.json) |
-| Front Line Pack | 83741 | [83741-front-line-pack.json](./83741-front-line-pack.json) |
 | Front Lines | 178121 | [178121-front-lines.json](./178121-front-lines.json) |
 | Front Lines | 340265 | [340265-front-lines.json](./340265-front-lines.json) |
 | Front Lines | 79254 | [79254-front-lines.json](./79254-front-lines.json) |
