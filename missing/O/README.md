@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observation at Freddy's | 318639 | [318639-observation-at-freddys.json](./318639-observation-at-freddys.json) |
 | Observation Beauty | 398913 | [398913-observation-beauty.json](./398913-observation-beauty.json) |
 | Observation Daruma Log | 400262 | [400262-observation-daruma-log.json](./400262-observation-daruma-log.json) |
+| Observation Duty 64 | 427292 | [427292-observation-duty-64.json](./427292-observation-duty-64.json) |
 | Observation Protocol | 416032 | [416032-observation-protocol.json](./416032-observation-protocol.json) |
 | Observatory: A VR Variety Pack | 19062 | [19062-observatory-a-vr-variety-pack.json](./19062-observatory-a-vr-variety-pack.json) |
 | Observe | 285619 | [285619-observe.json](./285619-observe.json) |
@@ -1431,7 +1432,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oharion | 413071 | [413071-oharion.json](./413071-oharion.json) |
 | Ohayo Gianthook!: Monster Fishing Adventure | 422074 | [422074-ohayo-gianthook-monster-fishing-adventure.json](./422074-ohayo-gianthook-monster-fishing-adventure.json) |
 | Ohayou, Somnia. | 395359 | [395359-ohayou-somnia.json](./395359-ohayou-somnia.json) |
-| Ohayou! Beginner's Japanese | 85319 | [85319-ohayou-beginners-japanese.json](./85319-ohayou-beginners-japanese.json) |
 | Ohenro-San: Hosshin no Dojo | 111996 | [111996-ohenro-san-hosshin-no-dojo.json](./111996-ohenro-san-hosshin-no-dojo.json) |
 | Ohimesama: Jiku wo Koeru | 97694 | [97694-ohimesama-jiku-wo-koeru.json](./97694-ohimesama-jiku-wo-koeru.json) |
 | Ohio Distinctive Software Vol. 1 | 315174 | [315174-ohio-distinctive-software-vol-1.json](./315174-ohio-distinctive-software-vol-1.json) |
@@ -3075,7 +3075,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Summer Holiday | 383300 | [383300-one-summer-holiday.json](./383300-one-summer-holiday.json) |
 | One Synth | 114059 | [114059-one-synth.json](./114059-one-synth.json) |
 | One Tank Army | 223717 | [223717-one-tank-army.json](./223717-one-tank-army.json) |
-| One Tank to Rule Them All | 86333 | [86333-one-tank-to-rule-them-all.json](./86333-one-tank-to-rule-them-all.json) |
 | One Tap | 265239 | [265239-one-tap.json](./265239-one-tap.json) |
 | One Tap Golf VR | 235566 | [235566-one-tap-golf-vr.json](./235566-one-tap-golf-vr.json) |
 | One Tap Hero | 100245 | [100245-one-tap-hero.json](./100245-one-tap-hero.json) |
@@ -5329,11 +5328,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoko Cross: Pretty Boys Dropout! | 259520 | [259520-otoko-cross-pretty-boys-dropout.json](./259520-otoko-cross-pretty-boys-dropout.json) |
 | Otoko Cross: Pretty Boys Klondike Solitaire | 207751 | [207751-otoko-cross-pretty-boys-klondike-solitaire.json](./207751-otoko-cross-pretty-boys-klondike-solitaire.json) |
 | Otoko Cross: Pretty Boys Mahjong Solitaire | 199569 | [199569-otoko-cross-pretty-boys-mahjong-solitaire.json](./199569-otoko-cross-pretty-boys-mahjong-solitaire.json) |
+| Otoko Darake no Suiei Taikai | 411902 | [411902-otoko-darake-no-suiei-taikai.json](./411902-otoko-darake-no-suiei-taikai.json) |
 | Otoko Dogeza Zigoku | 63870 | [63870-otoko-dogeza-zigoku.json](./63870-otoko-dogeza-zigoku.json) |
 | Otoko Orgy at Maid Boy Manor | 289518 | [289518-otoko-orgy-at-maid-boy-manor.json](./289518-otoko-orgy-at-maid-boy-manor.json) |
 | Otoko Yuukaku | 60690 | [60690-otoko-yuukaku.json](./60690-otoko-yuukaku.json) |
 | Otokomizu | 111783 | [111783-otokomizu.json](./111783-otokomizu.json) |
 | Otokonoko Fishing | 283848 | [283848-otokonoko-fishing.json](./283848-otokonoko-fishing.json) |
+| Otomaco: Last Jade Journey | 392721 | [392721-otomaco-last-jade-journey.json](./392721-otomaco-last-jade-journey.json) |
 | Otomaid @ Cafe | 191361 | [191361-otomaid-cafe.json](./191361-otomaid-cafe.json) |
 | Otome Chat Connection | 199051 | [199051-otome-chat-connection.json](./199051-otome-chat-connection.json) |
 | Otome Daoshi Fighting For Love | 391856 | [391856-otome-daoshi-fighting-for-love.json](./391856-otome-daoshi-fighting-for-love.json) |
@@ -6721,7 +6722,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ovrdark: A Do Not Open Story | 258122 | [258122-ovrdark-a-do-not-open-story.json](./258122-ovrdark-a-do-not-open-story.json) |
 | Ovrlrd | 218223 | [218223-ovrlrd.json](./218223-ovrlrd.json) |
 | Ovrshade | 406925 | [406925-ovrshade.json](./406925-ovrshade.json) |
-| OVRshot | 84071 | [84071-ovrshot.json](./84071-ovrshot.json) |
 | Ovum | 145068 | [145068-ovum.json](./145068-ovum.json) |
 | Ovum City | 221428 | [221428-ovum-city.json](./221428-ovum-city.json) |
 | Ovus Nova | 185623 | [185623-ovus-nova.json](./185623-ovus-nova.json) |
