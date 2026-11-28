@@ -9388,7 +9388,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megalan 11 | 133101 | [133101-megalan-11.json](./133101-megalan-11.json) |
 | Megalit | 19558 | [19558-megalit.json](./19558-megalit.json) |
 | Megalith | 143049 | [143049-megalith.json](./143049-megalith.json) |
-| Megalith | 75246 | [75246-megalith.json](./75246-megalith.json) |
 | Megalith VR: Complete Edition | 132977 | [132977-megalith-vr-complete-edition.json](./132977-megalith-vr-complete-edition.json) |
 | Megalo Malady | 395711 | [395711-megalo-malady.json](./395711-megalo-malady.json) |
 | Megalo Polis | 18114 | [18114-megalo-polis.json](./18114-megalo-polis.json) |
@@ -10886,7 +10885,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Mayor | 212482 | [212482-merge-mayor.json](./212482-merge-mayor.json) |
 | Merge Me! | 234534 | [234534-merge-me.json](./234534-merge-me.json) |
 | Merge Meadow! | 108483 | [108483-merge-meadow.json](./108483-merge-meadow.json) |
-| Merge Mega Bundle | 75867 | [75867-merge-mega-bundle.json](./75867-merge-mega-bundle.json) |
 | Merge Mend | 320293 | [320293-merge-mend.json](./320293-merge-mend.json) |
 | Merge Mermaids | 228139 | [228139-merge-mermaids.json](./228139-merge-mermaids.json) |
 | Merge Military | 208970 | [208970-merge-military.json](./208970-merge-military.json) |
@@ -11747,7 +11745,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Blossom | 203519 | [203519-metro-blossom.json](./203519-metro-blossom.json) |
 | Metro City: Night Shift | 416890 | [416890-metro-city-night-shift.json](./416890-metro-city-night-shift.json) |
 | Metro Conflict | 66518 | [66518-metro-conflict.json](./66518-metro-conflict.json) |
-| Metro Conflict: The Origin | 75070 | [75070-metro-conflict-the-origin.json](./75070-metro-conflict-the-origin.json) |
 | Metro Connect | 234463 | [234463-metro-connect.json](./234463-metro-connect.json) |
 | Metro Exodus: Aurora Limited Edition | 109587 | [109587-metro-exodus-aurora-limited-edition.json](./109587-metro-exodus-aurora-limited-edition.json) |
 | Metro Exodus: Complete Edition | 147016 | [147016-metro-exodus-complete-edition.json](./147016-metro-exodus-complete-edition.json) |
@@ -13027,7 +13024,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Pufferfish Show | 250860 | [250860-midnight-pufferfish-show.json](./250860-midnight-pufferfish-show.json) |
 | Midnight Pulse | 106157 | [106157-midnight-pulse.json](./106157-midnight-pulse.json) |
 | Midnight Puppeteer | 108881 | [108881-midnight-puppeteer.json](./108881-midnight-puppeteer.json) |
-| Midnight Quest | 75590 | [75590-midnight-quest.json](./75590-midnight-quest.json) |
 | Midnight Race Club: Supercharged! | 69052 | [69052-midnight-race-club-supercharged.json](./69052-midnight-race-club-supercharged.json) |
 | Midnight Racer | 290523 | [290523-midnight-racer.json](./290523-midnight-racer.json) |
 | Midnight Racing | 54203 | [54203-midnight-racing.json](./54203-midnight-racing.json) |
@@ -13663,7 +13659,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Animals | 242179 | [242179-milky-animals.json](./242179-milky-animals.json) |
 | Milky Bear Rescue Rocket | 221971 | [221971-milky-bear-rescue-rocket.json](./221971-milky-bear-rescue-rocket.json) |
 | Milky Bear: Lunch Frenzy | 250296 | [250296-milky-bear-lunch-frenzy.json](./250296-milky-bear-lunch-frenzy.json) |
-| Milky Boobs | 75923 | [75923-milky-boobs.json](./75923-milky-boobs.json) |
 | Milky Mask 2 | 97419 | [97419-milky-mask-2.json](./97419-milky-mask-2.json) |
 | Milky Princess | 83199 | [83199-milky-princess.json](./83199-milky-princess.json) |
 | Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
@@ -13685,7 +13680,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilkyWay: Galaxy Adventure | 206416 | [206416-milkyway-galaxy-adventure.json](./206416-milkyway-galaxy-adventure.json) |
 | Mill | 92299 | [92299-mill.json](./92299-mill.json) |
 | Millas | 322323 | [322323-millas.json](./322323-millas.json) |
-| Mille Bornes | 75952 | [75952-mille-bornes.json](./75952-mille-bornes.json) |
 | Mille Bornes | 94925 | [94925-mille-bornes.json](./94925-mille-bornes.json) |
 | Mille Miglia | 37260 | [37260-mille-miglia.json](./37260-mille-miglia.json) |
 | Mille Miglia 2: Great 1000 Miles Rally | 41077 | [41077-mille-miglia-2-great-1000-miles-rally.json](./41077-mille-miglia-2-great-1000-miles-rally.json) |
@@ -15411,7 +15405,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minotaur | 305839 | [305839-minotaur.json](./305839-minotaur.json) |
 | Minotaur | 32202 | [32202-minotaur.json](./32202-minotaur.json) |
 | Minotaur | 398656 | [398656-minotaur.json](./398656-minotaur.json) |
-| Minotaur | 75354 | [75354-minotaur.json](./75354-minotaur.json) |
 | Minotaur | 75355 | [75355-minotaur.json](./75355-minotaur.json) |
 | Minotaur China Shop | 69652 | [69652-minotaur-china-shop.json](./69652-minotaur-china-shop.json) |
 | Minotaur Hotel | 166032 | [166032-minotaur-hotel.json](./166032-minotaur-hotel.json) |
@@ -16691,7 +16684,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Buncha | 363129 | [363129-mobile-buncha.json](./363129-mobile-buncha.json) |
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
 | Mobile Dungeon | 306817 | [306817-mobile-dungeon.json](./306817-mobile-dungeon.json) |
-| Mobile Empire | 75387 | [75387-mobile-empire.json](./75387-mobile-empire.json) |
 | Mobile Forces | 25109 | [25109-mobile-forces.json](./25109-mobile-forces.json) |
 | Mobile Golf | 3402 | [3402-mobile-golf.json](./3402-mobile-golf.json) |
 | Mobile Hangman | 220624 | [220624-mobile-hangman.json](./220624-mobile-hangman.json) |
@@ -22897,7 +22889,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mustache Boy | 40384 | [40384-mustache-boy.json](./40384-mustache-boy.json) |
 | Mustache in Hell | 21997 | [21997-mustache-in-hell.json](./21997-mustache-in-hell.json) |
 | Mustache or Revenge | 122059 | [122059-mustache-or-revenge.json](./122059-mustache-or-revenge.json) |
-| Mustache Politics Shooter | 75938 | [75938-mustache-politics-shooter.json](./75938-mustache-politics-shooter.json) |
 | Mustdashe | 55723 | [55723-mustdashe.json](./55723-mustdashe.json) |
 | Muster | 421040 | [421040-muster.json](./421040-muster.json) |
 | Muster my Monsters | 259074 | [259074-muster-my-monsters.json](./259074-muster-my-monsters.json) |
@@ -25019,7 +25010,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Planet | 294305 | [294305-mysterious-planet.json](./294305-mysterious-planet.json) |
 | Mysterious prophecy | 287820 | [287820-mysterious-prophecy.json](./287820-mysterious-prophecy.json) |
 | Mysterious Puzzles Collection: Nemezis, Schizm, Reah | 159686 | [159686-mysterious-puzzles-collection-nemezis-schizm-reah.json](./159686-mysterious-puzzles-collection-nemezis-schizm-reah.json) |
-| Mysterious Realms RPG | 75911 | [75911-mysterious-realms-rpg.json](./75911-mysterious-realms-rpg.json) |
 | Mysterious Retro Games Bundle | 231076 | [231076-mysterious-retro-games-bundle.json](./231076-mysterious-retro-games-bundle.json) |
 | Mysterious School | 212812 | [212812-mysterious-school.json](./212812-mysterious-school.json) |
 | Mysterious Science | 90520 | [90520-mysterious-science.json](./90520-mysterious-science.json) |
