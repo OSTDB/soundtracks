@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Winning Eleven Tactics | 221002 | [221002-j-league-winning-eleven-tactics.json](./221002-j-league-winning-eleven-tactics.json) |
 | J.League Winning Goal | 48459 | [48459-j-league-winning-goal.json](./48459-j-league-winning-goal.json) |
 | J.M.Rhythm | 288424 | [288424-j-m-rhythm.json](./288424-j-m-rhythm.json) |
+| J.Q.V Jinrui Kyuusai-bu: With Love From Isotope - Lost Route Eden no Shoumei | 400412 | [400412-j-q-v-jinrui-kyuusai-bu-with-love-from-isotope-lost-route-eden-no-shoumei.json](./400412-j-q-v-jinrui-kyuusai-bu-with-love-from-isotope-lost-route-eden-no-shoumei.json) |
 | J.R.R. Tolkien's Lord of the Rings: Volume 1 | 81467 | [81467-j-r-r-tolkiens-lord-of-the-rings-volume-1.json](./81467-j-r-r-tolkiens-lord-of-the-rings-volume-1.json) |
 | J.R.R. Tolkien's Riders of Rohan | 78742 | [78742-j-r-r-tolkiens-riders-of-rohan.json](./78742-j-r-r-tolkiens-riders-of-rohan.json) |
 | J.R.R. Tolkien's The Lord of the Rings, Vol II: The Two Towers | 50417 | [50417-j-r-r-tolkiens-the-lord-of-the-rings-vol-ii-the-two-towers.json](./50417-j-r-r-tolkiens-the-lord-of-the-rings-vol-ii-the-two-towers.json) |
@@ -1246,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jentrix | 187433 | [187433-jentrix.json](./187433-jentrix.json) |
 | Jeon Woo-chi | 423476 | [423476-jeon-woo-chi.json](./423476-jeon-woo-chi.json) |
 | Jeonsa Ryan | 145590 | [145590-jeonsa-ryan.json](./145590-jeonsa-ryan.json) |
+| Jeopardiem | 424664 | [424664-jeopardiem.json](./424664-jeopardiem.json) |
 | Jeopardy | 242735 | [242735-jeopardy.json](./242735-jeopardy.json) |
 | Jeopardy! | 131471 | [131471-jeopardy.json](./131471-jeopardy.json) |
 | Jeopardy! | 131472 | [131472-jeopardy.json](./131472-jeopardy.json) |
@@ -4792,7 +4794,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Survival: The Zombie Awakening | 212217 | [212217-just-survival-the-zombie-awakening.json](./212217-just-survival-the-zombie-awakening.json) |
 | Just Survive | 18093 | [18093-just-survive.json](./18093-just-survive.json) |
 | Just Survive | 279565 | [279565-just-survive.json](./279565-just-survive.json) |
-| Just Survive Test Server | 83885 | [83885-just-survive-test-server.json](./83885-just-survive-test-server.json) |
 | Just Tactics | 63454 | [63454-just-tactics.json](./63454-just-tactics.json) |
 | Just Take Your Left | 148542 | [148542-just-take-your-left.json](./148542-just-take-your-left.json) |
 | Just Thanks | 267905 | [267905-just-thanks.json](./267905-just-thanks.json) |
