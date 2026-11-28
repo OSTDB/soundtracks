@@ -23029,6 +23029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Know | 283232 | [283232-they-know.json](./283232-they-know.json) |
 | They Left Us Here | 391116 | [391116-they-left-us-here.json](./391116-they-left-us-here.json) |
 | They Linger | 259588 | [259588-they-linger.json](./259588-they-linger.json) |
+| They Live | 430086 | [430086-they-live.json](./430086-they-live.json) |
 | They Live Here Now | 176932 | [176932-they-live-here-now.json](./176932-they-live-here-now.json) |
 | They Live in the Fractures | 333431 | [333431-they-live-in-the-fractures.json](./333431-they-live-in-the-fractures.json) |
 | They Look Like People | 189841 | [189841-they-look-like-people.json](./189841-they-look-like-people.json) |
@@ -23793,6 +23794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threesome Puzzle | 241782 | [241782-threesome-puzzle.json](./241782-threesome-puzzle.json) |
 | Threesquare | 56943 | [56943-threesquare.json](./56943-threesquare.json) |
 | ThreeStep | 120962 | [120962-threestep.json](./120962-threestep.json) |
+| Threetris | 430166 | [430166-threetris.json](./430166-threetris.json) |
 | ThreeTwoPix: Fang Runner | 178215 | [178215-threetwopix-fang-runner.json](./178215-threetwopix-fang-runner.json) |
 | Threewave | 306178 | [306178-threewave.json](./306178-threewave.json) |
 | Threewave Capture | 306175 | [306175-threewave-capture.json](./306175-threewave-capture.json) |
