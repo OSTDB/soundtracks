@@ -1972,7 +1972,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Neuron Academy | 50960 | [50960-happy-neuron-academy.json](./50960-happy-neuron-academy.json) |
 | Happy New Hentai | 367059 | [367059-happy-new-hentai.json](./367059-happy-new-hentai.json) |
 | Happy New Song | 178959 | [178959-happy-new-song.json](./178959-happy-new-song.json) |
-| Happy New Year Clicker | 76490 | [76490-happy-new-year-clicker.json](./76490-happy-new-year-clicker.json) |
 | Happy New Year, Zeliria! | 148996 | [148996-happy-new-year-zeliria.json](./148996-happy-new-year-zeliria.json) |
 | Happy New Year, Zeliria!: Dragon! | 291055 | [291055-happy-new-year-zeliria-dragon.json](./291055-happy-new-year-zeliria-dragon.json) |
 | Happy New Year, Zeliria!: Let's take another walk! | 195323 | [195323-happy-new-year-zeliria-lets-take-another-walk.json](./195323-happy-new-year-zeliria-lets-take-another-walk.json) |
@@ -7302,7 +7301,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Underworld | 403812 | [403812-heroes-of-the-underworld.json](./403812-heroes-of-the-underworld.json) |
 | Heroes of The West | 169539 | [169539-heroes-of-the-west.json](./169539-heroes-of-the-west.json) |
 | Heroes of Three Kingdoms | 170770 | [170770-heroes-of-three-kingdoms.json](./170770-heroes-of-three-kingdoms.json) |
-| Heroes of Three Kingdoms | 77303 | [77303-heroes-of-three-kingdoms.json](./77303-heroes-of-three-kingdoms.json) |
 | Heroes of Throgg | 413793 | [413793-heroes-of-throgg.json](./413793-heroes-of-throgg.json) |
 | Heroes of Time | 200470 | [200470-heroes-of-time.json](./200470-heroes-of-time.json) |
 | Heroes of Time 2: Aizack's Return | 203613 | [203613-heroes-of-time-2-aizacks-return.json](./203613-heroes-of-time-2-aizacks-return.json) |
@@ -7986,7 +7984,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden & Dangerous 2: Courage Under Fire | 50073 | [50073-hidden-and-dangerous-2-courage-under-fire.json](./50073-hidden-and-dangerous-2-courage-under-fire.json) |
 | Hidden & Dangerous 2: Sabre Squadron | 22167 | [22167-hidden-and-dangerous-2-sabre-squadron.json](./22167-hidden-and-dangerous-2-sabre-squadron.json) |
 | Hidden & Dangerous Deluxe | 73774 | [73774-hidden-and-dangerous-deluxe.json](./73774-hidden-and-dangerous-deluxe.json) |
-| Hidden & Dangerous: Action Pack | 77208 | [77208-hidden-and-dangerous-action-pack.json](./77208-hidden-and-dangerous-action-pack.json) |
 | Hidden & Dangerous: Devil's Bridge | 108 | [108-hidden-and-dangerous-devils-bridge.json](./108-hidden-and-dangerous-devils-bridge.json) |
 | Hidden Agenda | 245669 | [245669-hidden-agenda.json](./245669-hidden-agenda.json) |
 | Hidden Agenda | 37092 | [37092-hidden-agenda.json](./37092-hidden-agenda.json) |
@@ -10000,7 +9997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiyoshi Clinic | 341098 | [341098-hiyoshi-clinic.json](./341098-hiyoshi-clinic.json) |
 | Hiza no Ue no Partner: Kitty on Your Lap | 65494 | [65494-hiza-no-ue-no-partner-kitty-on-your-lap.json](./65494-hiza-no-ue-no-partner-kitty-on-your-lap.json) |
 | Hizca | 348929 | [348929-hizca.json](./348929-hizca.json) |
-| HJ: Sacrifice | 76504 | [76504-hj-sacrifice.json](./76504-hj-sacrifice.json) |
 | Hjarta | 169985 | [169985-hjarta.json](./169985-hjarta.json) |
 | Hjem | 128075 | [128075-hjem.json](./128075-hjem.json) |
 | HK Project | 57890 | [57890-hk-project.json](./57890-hk-project.json) |
