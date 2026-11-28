@@ -343,7 +343,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakeboarding Unleashed Featuring Shaun Murray | 248685 | [248685-wakeboarding-unleashed-featuring-shaun-murray.json](./248685-wakeboarding-unleashed-featuring-shaun-murray.json) |
 | Wakeboarding XS | 325383 | [325383-wakeboarding-xs.json](./325383-wakeboarding-xs.json) |
 | Wakebreaker | 422270 | [422270-wakebreaker.json](./422270-wakebreaker.json) |
-| Wakedas | 85480 | [85480-wakedas.json](./85480-wakedas.json) |
 | Waker | 91890 | [91890-waker.json](./91890-waker.json) |
 | Wakerunners | 282934 | [282934-wakerunners.json](./282934-wakerunners.json) |
 | Wakesurfer: Get Gnarly! | 424568 | [424568-wakesurfer-get-gnarly.json](./424568-wakesurfer-get-gnarly.json) |
