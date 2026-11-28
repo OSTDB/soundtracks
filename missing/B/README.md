@@ -2796,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barclay: The Marrowdale Murder | 29219 | [29219-barclay-the-marrowdale-murder.json](./29219-barclay-the-marrowdale-murder.json) |
 | Barcode Battler | 308060 | [308060-barcode-battler.json](./308060-barcode-battler.json) |
 | Barcode Battler | 308062 | [308062-barcode-battler.json](./308062-barcode-battler.json) |
+| Barcode Battler II: Barcode Fighter - Dash Beetle I | 431742 | [431742-barcode-battler-ii-barcode-fighter-dash-beetle-i.json](./431742-barcode-battler-ii-barcode-fighter-dash-beetle-i.json) |
 | Barcode Battler II: Batman Returns - Batman | 329827 | [329827-barcode-battler-ii-batman-returns-batman.json](./329827-barcode-battler-ii-batman-returns-batman.json) |
 | Barcode Battler II: Batman Returns - Catwoman | 329828 | [329828-barcode-battler-ii-batman-returns-catwoman.json](./329828-barcode-battler-ii-batman-returns-catwoman.json) |
 | Barcode Battler II: Batman Returns - Michael Keaton / Danny DeVito / Michelle Pfeiffer | 329830 | [329830-barcode-battler-ii-batman-returns-michael-keaton-danny-devito-michelle-pfeiffer.json](./329830-barcode-battler-ii-batman-returns-michael-keaton-danny-devito-michelle-pfeiffer.json) |
@@ -12485,6 +12486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloki | 96143 | [96143-bloki.json](./96143-bloki.json) |
 | Blokin | 102695 | [102695-blokin.json](./102695-blokin.json) |
 | Blokin | 111633 | [111633-blokin.json](./111633-blokin.json) |
+| Blokkan: Secret of the Walking City | 431707 | [431707-blokkan-secret-of-the-walking-city.json](./431707-blokkan-secret-of-the-walking-city.json) |
 | Blokker | 156585 | [156585-blokker.json](./156585-blokker.json) |
 | Blokker: Orange | 163909 | [163909-blokker-orange.json](./163909-blokker-orange.json) |
 | Blokoto | 346585 | [346585-blokoto.json](./346585-blokoto.json) |
@@ -13163,6 +13165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blooming Ashes | 407540 | [407540-blooming-ashes.json](./407540-blooming-ashes.json) |
 | Blooming Business: Casino | 151543 | [151543-blooming-business-casino.json](./151543-blooming-business-casino.json) |
 | Blooming Cards | 377054 | [377054-blooming-cards.json](./377054-blooming-cards.json) |
+| Blooming in Budbury | 431717 | [431717-blooming-in-budbury.json](./431717-blooming-in-budbury.json) |
 | Blooming Nightshade | 122025 | [122025-blooming-nightshade.json](./122025-blooming-nightshade.json) |
 | Blooming Panic: Full Bloom Edition | 178113 | [178113-blooming-panic-full-bloom-edition.json](./178113-blooming-panic-full-bloom-edition.json) |
 | Blooming Solitude: Priestess of Hanafuda | 423734 | [423734-blooming-solitude-priestess-of-hanafuda.json](./423734-blooming-solitude-priestess-of-hanafuda.json) |
@@ -13663,6 +13666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blumgi Castle | 219262 | [219262-blumgi-castle.json](./219262-blumgi-castle.json) |
 | Blumgi Slime | 333995 | [333995-blumgi-slime.json](./333995-blumgi-slime.json) |
 | Blumgi Soccer | 303170 | [303170-blumgi-soccer.json](./303170-blumgi-soccer.json) |
+| Blunder Construction | 431677 | [431677-blunder-construction.json](./431677-blunder-construction.json) |
 | Blunder The Sea | 303169 | [303169-blunder-the-sea.json](./303169-blunder-the-sea.json) |
 | Blunderbubb! | 210493 | [210493-blunderbubb.json](./210493-blunderbubb.json) |
 | Blungo's Dungeon Luncheon | 344078 | [344078-blungos-dungeon-luncheon.json](./344078-blungos-dungeon-luncheon.json) |
@@ -16326,6 +16330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling: Breakthrough Gaming Arcade | 187749 | [187749-bowling-breakthrough-gaming-arcade.json](./187749-bowling-breakthrough-gaming-arcade.json) |
 | Bowling: Ninepins | 310984 | [310984-bowling-ninepins.json](./310984-bowling-ninepins.json) |
 | Bowling! / Basketball! | 80209 | [80209-bowling-basketball.json](./80209-bowling-basketball.json) |
+| Bowlo | 431761 | [431761-bowlo.json](./431761-bowlo.json) |
 | Bowlout | 224969 | [224969-bowlout.json](./224969-bowlout.json) |
 | Bowls | 14337 | [14337-bowls.json](./14337-bowls.json) |
 | BowMage | 32267 | [32267-bowmage.json](./32267-bowmage.json) |
