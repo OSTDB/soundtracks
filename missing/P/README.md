@@ -11773,7 +11773,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunderers Adventures: Sea of Whores | 147412 | [147412-plunderers-adventures-sea-of-whores.json](./147412-plunderers-adventures-sea-of-whores.json) |
 | Plunderland | 118874 | [118874-plunderland.json](./118874-plunderland.json) |
 | PlunderPiece | 292404 | [292404-plunderpiece.json](./292404-plunderpiece.json) |
-| Plunge | 78780 | [78780-plunge.json](./78780-plunge.json) |
 | Plünge | 126067 | [126067-plunge.json](./126067-plunge.json) |
 | Plunge the Plumber | 196934 | [196934-plunge-the-plumber.json](./196934-plunge-the-plumber.json) |
 | Plunged | 261612 | [261612-plunged.json](./261612-plunged.json) |
