@@ -4424,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hebereke!: March! Red Army Girls' Brigade | 31234 | [31234-hebereke-march-red-army-girls-brigade.json](./31234-hebereke-march-red-army-girls-brigade.json) |
 | Hebereke's Popoitto | 65631 | [65631-heberekes-popoitto.json](./65631-heberekes-popoitto.json) |
 | Hebereke's Popoon | 42610 | [42610-heberekes-popoon.json](./42610-heberekes-popoon.json) |
+| Hebi Boueki | 430187 | [430187-hebi-boueki.json](./430187-hebi-boueki.json) |
 | Hebi Hebi | 177261 | [177261-hebi-hebi.json](./177261-hebi-hebi.json) |
 | Hebi no Inochi | 288873 | [288873-hebi-no-inochi.json](./288873-hebi-no-inochi.json) |
 | Hecate's Grove | 407706 | [407706-hecates-grove.json](./407706-hecates-grove.json) |
@@ -10036,6 +10037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoarding Simulator | 126367 | [126367-hoarding-simulator.json](./126367-hoarding-simulator.json) |
 | Hoarding Simulator 2.0 | 329443 | [329443-hoarding-simulator-2-0.json](./329443-hoarding-simulator-2-0.json) |
 | Hoards of Glory | 156688 | [156688-hoards-of-glory.json](./156688-hoards-of-glory.json) |
+| Hoarfrost Wires | 430044 | [430044-hoarfrost-wires.json](./430044-hoarfrost-wires.json) |
 | Hob | 14763 | [14763-hob.json](./14763-hob.json) |
 | Hob: The Definitive Edition | 116681 | [116681-hob-the-definitive-edition.json](./116681-hob-the-definitive-edition.json) |
 | Hobble | 192362 | [192362-hobble.json](./192362-hobble.json) |
