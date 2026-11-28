@@ -3570,7 +3570,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazuki Dies: She Has No Name | 130633 | [130633-hazuki-dies-she-has-no-name.json](./130633-hazuki-dies-she-has-no-name.json) |
 | Hazuki Makimura's Love Story | 221265 | [221265-hazuki-makimuras-love-story.json](./221265-hazuki-makimuras-love-story.json) |
 | Hazuki Makimura's Love Story | 255108 | [255108-hazuki-makimuras-love-story.json](./255108-hazuki-makimuras-love-story.json) |
-| Hazumi | 84528 | [84528-hazumi.json](./84528-hazumi.json) |
 | Hazumino | 267326 | [267326-hazumino.json](./267326-hazumino.json) |
 | Hazy | 150820 | [150820-hazy.json](./150820-hazy.json) |
 | Hazy Days | 184729 | [184729-hazy-days.json](./184729-hazy-days.json) |
@@ -7909,7 +7908,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi Eggplant: The Birth of Sprites | 245850 | [245850-hi-eggplant-the-birth-of-sprites.json](./245850-hi-eggplant-the-birth-of-sprites.json) |
 | Hi Eggplant! | 211040 | [211040-hi-eggplant.json](./211040-hi-eggplant.json) |
 | Hi Guess the Movie 2016 | 232111 | [232111-hi-guess-the-movie-2016.json](./232111-hi-guess-the-movie-2016.json) |
-| Hi Hi Puffy Ami Yumi: Genie & The Amp | 84521 | [84521-hi-hi-puffy-ami-yumi-genie-and-the-amp.json](./84521-hi-hi-puffy-ami-yumi-genie-and-the-amp.json) |
 | Hi Hi Puffy Ami Yumi: Puffy Ami Yumi and the Manga Madman | 308757 | [308757-hi-hi-puffy-ami-yumi-puffy-ami-yumi-and-the-manga-madman.json](./308757-hi-hi-puffy-ami-yumi-puffy-ami-yumi-and-the-manga-madman.json) |
 | Hi Hi Puffy AmiYumi Treasure Island | 141151 | [141151-hi-hi-puffy-amiyumi-treasure-island.json](./141151-hi-hi-puffy-amiyumi-treasure-island.json) |
 | Hi Hi Puffy AmiYumi: The Genie and the Amp | 2818 | [2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json](./2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json) |
@@ -9303,7 +9301,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikikomori Life | 169864 | [169864-hikikomori-life.json](./169864-hikikomori-life.json) |
 | Hikikomori No Chuunibyou | 32072 | [32072-hikikomori-no-chuunibyou.json](./32072-hikikomori-no-chuunibyou.json) |
 | Hiking Simulator 2017 | 55491 | [55491-hiking-simulator-2017.json](./55491-hiking-simulator-2017.json) |
-| Hiking Simulator 2018 | 84088 | [84088-hiking-simulator-2018.json](./84088-hiking-simulator-2018.json) |
 | Hikisakareta Badaaru | 394545 | [394545-hikisakareta-badaaru.json](./394545-hikisakareta-badaaru.json) |
 | Hikki Girls | 385033 | [385033-hikki-girls.json](./385033-hikki-girls.json) |
 | Hikki Life | 431128 | [431128-hikki-life.json](./431128-hikki-life.json) |
@@ -13815,6 +13812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Days: Napa Valley | 187853 | [187853-hundred-days-napa-valley.json](./187853-hundred-days-napa-valley.json) |
 | Hundred Doors | 357711 | [357711-hundred-doors.json](./357711-hundred-doors.json) |
 | Hundred Fires 3 | 415716 | [415716-hundred-fires-3.json](./415716-hundred-fires-3.json) |
+| Hundred Fires: Episode 1 | 412550 | [412550-hundred-fires-episode-1.json](./412550-hundred-fires-episode-1.json) |
 | Hundred Fires: Episode 2 | 412547 | [412547-hundred-fires-episode-2.json](./412547-hundred-fires-episode-2.json) |
 | Hundred Fires: The Rising of Red Star | 195957 | [195957-hundred-fires-the-rising-of-red-star.json](./195957-hundred-fires-the-rising-of-red-star.json) |
 | Hundred Fires: The rising of red star - Episode 2 | 290057 | [290057-hundred-fires-the-rising-of-red-star-episode-2.json](./290057-hundred-fires-the-rising-of-red-star-episode-2.json) |
