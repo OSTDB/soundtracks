@@ -1740,7 +1740,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Panic VR | 29537 | [29537-panzer-panic-vr.json](./29537-panzer-panic-vr.json) |
 | Panzer Party | 85329 | [85329-panzer-party.json](./85329-panzer-party.json) |
 | Panzer Planet | 323469 | [323469-panzer-planet.json](./323469-panzer-planet.json) |
-| Panzer Strategy | 83612 | [83612-panzer-strategy.json](./83612-panzer-strategy.json) |
 | Panzer Strike | 324314 | [324314-panzer-strike.json](./324314-panzer-strike.json) |
 | Panzer Strike! | 68564 | [68564-panzer-strike.json](./68564-panzer-strike.json) |
 | Panzer Tactics DS | 21516 | [21516-panzer-tactics-ds.json](./21516-panzer-tactics-ds.json) |
@@ -2102,7 +2101,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papi Commando: Second Blood | 142053 | [142053-papi-commando-second-blood.json](./142053-papi-commando-second-blood.json) |
 | Papi Trampoline | 58581 | [58581-papi-trampoline.json](./58581-papi-trampoline.json) |
 | PapiCatch | 87241 | [87241-papicatch.json](./87241-papicatch.json) |
-| Papich - The Game Ep.1 | 81749 | [81749-papich-the-game-ep-1.json](./81749-papich-the-game-ep-1.json) |
 | Papier Julien | 337711 | [337711-papier-julien.json](./337711-papier-julien.json) |
 | PapiFlap | 87249 | [87249-papiflap.json](./87249-papiflap.json) |
 | PapiJump | 72701 | [72701-papijump.json](./72701-papijump.json) |
@@ -3435,7 +3433,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile: The Fall of Oriath | 51543 | [51543-path-of-exile-the-fall-of-oriath.json](./51543-path-of-exile-the-fall-of-oriath.json) |
 | Path of Exile: Trial of the Ancestors | 262570 | [262570-path-of-exile-trial-of-the-ancestors.json](./262570-path-of-exile-trial-of-the-ancestors.json) |
 | Path of Exile: War for the Atlas | 76101 | [76101-path-of-exile-war-for-the-atlas.json](./76101-path-of-exile-war-for-the-atlas.json) |
-| Path of Exile: War for the Atlas Bundle | 83765 | [83765-path-of-exile-war-for-the-atlas-bundle.json](./83765-path-of-exile-war-for-the-atlas-bundle.json) |
 | Path of Exile: Warlord of the Karui Supporter Pack | 332082 | [332082-path-of-exile-warlord-of-the-karui-supporter-pack.json](./332082-path-of-exile-warlord-of-the-karui-supporter-pack.json) |
 | Path of Fury: Episode I - Tetsuo's Tower | 335484 | [335484-path-of-fury-episode-i-tetsuos-tower.json](./335484-path-of-fury-episode-i-tetsuos-tower.json) |
 | Path of Gear: Blacksmith’s Legend | 358971 | [358971-path-of-gear-blacksmith-s-legend.json](./358971-path-of-gear-blacksmith-s-legend.json) |
@@ -6275,7 +6272,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Sense VR | 171994 | [171994-phantom-sense-vr.json](./171994-phantom-sense-vr.json) |
 | Phantom Shapes | 430721 | [430721-phantom-shapes.json](./430721-phantom-shapes.json) |
 | Phantom Shift | 307598 | [307598-phantom-shift.json](./307598-phantom-shift.json) |
-| Phantom Signal | 81703 | [81703-phantom-signal.json](./81703-phantom-signal.json) |
 | Phantom Smog | 391083 | [391083-phantom-smog.json](./391083-phantom-smog.json) |
 | Phantom Sol | 125437 | [125437-phantom-sol.json](./125437-phantom-sol.json) |
 | Phantom Soldier | 29110 | [29110-phantom-soldier.json](./29110-phantom-soldier.json) |
@@ -6374,7 +6370,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phase | 377172 | [377172-phase.json](./377172-phase.json) |
 | Phase | 72078 | [72078-phase.json](./72078-phase.json) |
 | Phase 10 | 208861 | [208861-phase-10.json](./208861-phase-10.json) |
-| Phase 10 | 83456 | [83456-phase-10.json](./83456-phase-10.json) |
 | Phase 10 Dice | 83455 | [83455-phase-10-dice.json](./83455-phase-10-dice.json) |
 | Phase 10 Online | 144843 | [144843-phase-10-online.json](./144843-phase-10-online.json) |
 | Phase 10 Pro - Play Your Friends! | 86922 | [86922-phase-10-pro-play-your-friends.json](./86922-phase-10-pro-play-your-friends.json) |
@@ -7883,7 +7878,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 410874 | [410874-pinball.json](./410874-pinball.json) |
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
 | Pinball | 56075 | [56075-pinball.json](./56075-pinball.json) |
-| Pinball | 82093 | [82093-pinball.json](./82093-pinball.json) |
 | Pinball | 86428 | [86428-pinball.json](./86428-pinball.json) |
 | Pinball | 86507 | [86507-pinball.json](./86507-pinball.json) |
 | Pinball 2000 | 73381 | [73381-pinball-2000.json](./73381-pinball-2000.json) |
@@ -8525,7 +8519,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinocchio's Puzzle | 84821 | [84821-pinocchios-puzzle.json](./84821-pinocchios-puzzle.json) |
 | Pinocchiogoria | 398746 | [398746-pinocchiogoria.json](./398746-pinocchiogoria.json) |
 | Pinochestein 3D | 314772 | [314772-pinochestein-3d.json](./314772-pinochestein-3d.json) |
-| Pinochle | 83700 | [83700-pinochle.json](./83700-pinochle.json) |
 | Pinochle by Webfoot | 99396 | [99396-pinochle-by-webfoot.json](./99396-pinochle-by-webfoot.json) |
 | Pinochle Plus | 105937 | [105937-pinochle-plus.json](./105937-pinochle-plus.json) |
 | Pinochle Pro | 90088 | [90088-pinochle-pro.json](./90088-pinochle-pro.json) |
@@ -13584,7 +13577,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Squares | 40607 | [40607-poker-squares.json](./40607-poker-squares.json) |
 | Poker Stacker | 78902 | [78902-poker-stacker.json](./78902-poker-stacker.json) |
 | Poker Stadium | 130486 | [130486-poker-stadium.json](./130486-poker-stadium.json) |
-| Poker Starter Pack | 83767 | [83767-poker-starter-pack.json](./83767-poker-starter-pack.json) |
 | Poker Superstars II | 15716 | [15716-poker-superstars-ii.json](./15716-poker-superstars-ii.json) |
 | Poker Superstars III: Gold Chip Challenge | 209345 | [209345-poker-superstars-iii-gold-chip-challenge.json](./209345-poker-superstars-iii-gold-chip-challenge.json) |
 | Poker Superstars: Invitational Tournament | 61699 | [61699-poker-superstars-invitational-tournament.json](./61699-poker-superstars-invitational-tournament.json) |
@@ -14767,7 +14759,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopCap Arcade Vol. 1 | 7132 | [7132-popcap-arcade-vol-1.json](./7132-popcap-arcade-vol-1.json) |
 | PopCap Arcade Vol. 2 | 7133 | [7133-popcap-arcade-vol-2.json](./7133-popcap-arcade-vol-2.json) |
 | PopCap Arcade: Rakushisa, Ippai, Action & Puzzle 7 Pack | 86144 | [86144-popcap-arcade-rakushisa-ippai-action-and-puzzle-7-pack.json](./86144-popcap-arcade-rakushisa-ippai-action-and-puzzle-7-pack.json) |
-| PopCap Bundle | 82436 | [82436-popcap-bundle.json](./82436-popcap-bundle.json) |
 | PopCap Hits! | 23387 | [23387-popcap-hits.json](./23387-popcap-hits.json) |
 | PopCap Hits! Vol 1 | 57229 | [57229-popcap-hits-vol-1.json](./57229-popcap-hits-vol-1.json) |
 | PopCap Hits! Vol 2 | 57228 | [57228-popcap-hits-vol-2.json](./57228-popcap-hits-vol-2.json) |
@@ -17093,7 +17084,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Architect DLC Bundle | 118886 | [118886-prison-architect-dlc-bundle.json](./118886-prison-architect-dlc-bundle.json) |
 | Prison Architect: Aficionado | 124866 | [124866-prison-architect-aficionado.json](./124866-prison-architect-aficionado.json) |
 | Prison Architect: All Day and a Night | 234041 | [234041-prison-architect-all-day-and-a-night.json](./234041-prison-architect-all-day-and-a-night.json) |
-| Prison Architect: All Day and a Night Edition | 82440 | [82440-prison-architect-all-day-and-a-night-edition.json](./82440-prison-architect-all-day-and-a-night-edition.json) |
 | Prison Architect: All Day and a Psych | 118834 | [118834-prison-architect-all-day-and-a-psych.json](./118834-prison-architect-all-day-and-a-psych.json) |
 | Prison Architect: Cleared for Transfer | 148528 | [148528-prison-architect-cleared-for-transfer.json](./148528-prison-architect-cleared-for-transfer.json) |
 | Prison Architect: Escape Mode | 215561 | [215561-prison-architect-escape-mode.json](./215561-prison-architect-escape-mode.json) |
@@ -19797,7 +19787,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG: Battlegrounds - Season 27 | 281550 | [281550-pubg-battlegrounds-season-27.json](./281550-pubg-battlegrounds-season-27.json) |
 | PUBG: Battlegrounds - Summer Ready Pack | 349518 | [349518-pubg-battlegrounds-summer-ready-pack.json](./349518-pubg-battlegrounds-summer-ready-pack.json) |
 | PUBG: Blindspot | 321135 | [321135-pubg-blindspot.json](./321135-pubg-blindspot.json) |
-| PubgTrainingCamp | 82479 | [82479-pubgtrainingcamp.json](./82479-pubgtrainingcamp.json) |
 | Public Access TV: Superstar! | 184235 | [184235-public-access-tv-superstar.json](./184235-public-access-tv-superstar.json) |
 | Public Bounce | 216940 | [216940-public-bounce.json](./216940-public-bounce.json) |
 | Public Defense Corp | 118761 | [118761-public-defense-corp.json](./118761-public-defense-corp.json) |
@@ -20436,7 +20425,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Bowl VR | 146674 | [146674-pure-bowl-vr.json](./146674-pure-bowl-vr.json) |
 | Pure Chaotix | 326817 | [326817-pure-chaotix.json](./326817-pure-chaotix.json) |
 | Pure Chase 80's | 187094 | [187094-pure-chase-80s.json](./187094-pure-chase-80s.json) |
-| Pure Chess: Grandmaster Edition | 82428 | [82428-pure-chess-grandmaster-edition.json](./82428-pure-chess-grandmaster-edition.json) |
 | Pure Crosswords | 199889 | [199889-pure-crosswords.json](./199889-pure-crosswords.json) |
 | Pure Domino | 392016 | [392016-pure-domino.json](./392016-pure-domino.json) |
 | Pure Electric Love "Everyone else!" Ema Sakura | 105976 | [105976-pure-electric-love-everyone-else-ema-sakura.json](./105976-pure-electric-love-everyone-else-ema-sakura.json) |
@@ -20459,7 +20447,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Farming 2018: Montana Goats | 163026 | [163026-pure-farming-2018-montana-goats.json](./163026-pure-farming-2018-montana-goats.json) |
 | Pure Farming 2018: Versatile 4WD 610 | 163029 | [163029-pure-farming-2018-versatile-4wd-610.json](./163029-pure-farming-2018-versatile-4wd-610.json) |
 | Pure Farming 2018: Zetor Major CL 80 | 163030 | [163030-pure-farming-2018-zetor-major-cl-80.json](./163030-pure-farming-2018-zetor-major-cl-80.json) |
-| Pure Football 2018 | 81926 | [81926-pure-football-2018.json](./81926-pure-football-2018.json) |
 | Pure Golf | 311866 | [311866-pure-golf.json](./311866-pure-golf.json) |
 | Pure Gore | 236159 | [236159-pure-gore.json](./236159-pure-gore.json) |
 | Pure Heart | 371443 | [371443-pure-heart.json](./371443-pure-heart.json) |
